@@ -1,0 +1,1021 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getChannels, getVideos, getLastSync, getRootIndex } from '../lib/okf-reader';
+import { isSyncNeeded, syncCatalog } from '../lib/sync';
+
+export const prerender = false;
+
+// Trigger auto-sync on load if needed
+const lastSyncObj = await getLastSync();
+let lastSync = lastSyncObj?.timestamp || null;
+
+if (!lastSync || await isSyncNeeded()) {
+  try {
+    console.log('Triggering auto-sync on page load...');
+    const syncResult = await syncCatalog({ force: false });
+    if (syncResult && !syncResult.skipped) {
+      lastSync = syncResult.timestamp;
+    }
+  } catch (error) {
+    console.error('Failed to auto-sync on page load:', error);
+  }
+}
+
+const channels = await getChannels();
+const videos = await getVideos();
+const rootIndex = await getRootIndex();
+
+// Calculate total views and videos
+const totalViews = channels.reduce((acc, c) => acc + (c.view_count || 0), 0);
+const totalVideos = videos.length;
+
+// Get unique tags across all videos
+const allTagsSet = new Set<string>();
+videos.forEach(v => {
+  if (Array.isArray(v.tags)) {
+    v.tags.forEach(t => allTagsSet.add(t));
+  }
+});
+const topTags = Array.from(allTagsSet).slice(0, 12);
+---
+
+<Layout title="Inicio" lastSync={lastSync}>
+  <!-- Hero Section -->
+  <section class="hero-section">
+    <div class="hero-content">
+      <span class="hero-badge">Catálogo Inteligente con RAG & OKF</span>
+      <h1 class="hero-title">Explora los Videos de <span>Diego Racero</span></h1>
+      <p class="hero-description">
+        Repositorio de contenidos educativos sobre desarrollo de software, agentes autónomos y docencia universitaria (FIUBA), estructurado en OKF y potenciado con búsqueda semántica local.
+      </p>
+    </div>
+    
+    <div class="stats-grid">
+      <div class="stat-card">
+        <span class="stat-value">{channels.length}</span>
+        <span class="stat-label">Canales</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-value">{totalVideos}</span>
+        <span class="stat-label">Videos Publicados</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-value">{totalViews.toLocaleString('es-ES')}</span>
+        <span class="stat-label">Visualizaciones</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Channels List -->
+  <section class="channels-section">
+    <h2 class="section-title">Canales de YouTube</h2>
+    <div class="channels-grid">
+      {channels.map(channel => (
+        <a href={`/channels/${channel.id}`} class="channel-card">
+          <div class="channel-avatar-wrapper">
+            <img src={channel.thumbnail} alt={channel.title} class="channel-avatar" />
+          </div>
+          <div class="channel-info">
+            <h3 class="channel-name">{channel.title}</h3>
+            <span class="channel-handle">@{channel.custom_url?.replace('@', '') || channel.id}</span>
+            <div class="channel-meta">
+              <span>{channel.video_count} videos</span>
+              <span class="dot">•</span>
+              <span>{(channel.subscriber_count || 0).toLocaleString('es-ES')} subs</span>
+            </div>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- Search & Catalog -->
+  <section class="catalog-section" id="videos">
+    <div class="section-header-row">
+      <h2 class="section-title">Explorar el catálogo</h2>
+      
+      <!-- Search Mode Tabs -->
+      <div class="search-tabs">
+        <button class="search-tab active" id="tab-keyword">
+          <span>🔍</span> Búsqueda de Texto
+        </button>
+        <button class="search-tab" id="tab-semantic">
+          <span>🧠</span> Búsqueda Semántica (IA)
+        </button>
+      </div>
+    </div>
+
+    <!-- Search Input Area -->
+    <div class="search-bar-row">
+      <div class="search-wrapper">
+        <input 
+          type="text" 
+          id="search-input" 
+          placeholder="Buscar videos por título, descripción o etiqueta..." 
+          class="search-input"
+        />
+        <span class="search-icon" id="search-indicator">🔍</span>
+      </div>
+    </div>
+
+    <!-- Tags Filter (only visible in Keyword Search mode) -->
+    <div class="tags-filter-wrapper" id="tags-filter-container">
+      <div class="tags-filter">
+        <button class="tag-pill active" data-tag="all">Todos</button>
+        {topTags.map(tag => (
+          <button class="tag-pill" data-tag={tag}>#{tag}</button>
+        ))}
+      </div>
+    </div>
+
+    <!-- Low Relevance Warning for Semantic Search -->
+    <div id="low-relevance-warning" class="low-relevance-warning hidden">
+      <span class="warning-icon">⚠️</span>
+      <div class="warning-text">
+        <strong>Coincidencia de baja relevancia (inferior al 60%).</strong> 
+        No posees videos en tus canales que contengan este tema en sus metadatos OKF. Mostrando resultados más cercanos encontrados por el modelo local:
+      </div>
+    </div>
+
+    <!-- Keyword Search Results (default grid) -->
+    <div class="videos-grid" id="keyword-videos-grid">
+      {videos.map(video => {
+        const channel = channels.find(c => c.id === video.channel_id);
+        const tagsList = Array.isArray(video.tags) ? video.tags : [];
+        return (
+          <div 
+            class="video-card-wrapper" 
+            data-title={video.title.toLowerCase()} 
+            data-desc={(video.description || '').toLowerCase()}
+            data-channel={video.channel_id}
+            data-tags={tagsList.join(',').toLowerCase()}
+          >
+            <a href={`/videos/${video.id}`} class="video-card">
+              <div class="video-thumbnail-wrapper">
+                <img src={video.thumbnail || '/placeholder.jpg'} alt={video.title} class="video-thumbnail" loading="lazy" />
+                <span class="video-duration">{video.duration}</span>
+                <span class="play-overlay-icon">▶</span>
+              </div>
+              <div class="video-card-content">
+                <span class="video-channel-tag">{channel?.title || 'Video'}</span>
+                <h3 class="video-title" title={video.title}>{video.title}</h3>
+                <div class="video-metadata">
+                  <span>{parseInt(video.view_count || '0').toLocaleString('es-ES')} vistas</span>
+                  <span class="dot">•</span>
+                  <span>{new Date(video.published_at).toLocaleDateString('es-ES', { year: 'numeric', month: 'short' })}</span>
+                </div>
+              </div>
+            </a>
+          </div>
+        );
+      })}
+    </div>
+    
+    <!-- Semantic Search Results (dynamic grid) -->
+    <div class="videos-grid hidden" id="semantic-videos-grid">
+      <!-- Generated via JS -->
+    </div>
+
+    <!-- Loading State for Semantic Search -->
+    <div id="semantic-loading" class="empty-state hidden">
+      <div class="spinner-large"></div>
+      <p class="empty-title" style="margin-top: 1rem;">Calculando Embeddings...</p>
+      <p class="empty-desc">El modelo local HuggingFace (`all-MiniLM-L6-v2`) está vectorizando tu consulta en el servidor.</p>
+    </div>
+    
+    <!-- Empty State -->
+    <div id="empty-state" class="empty-state hidden">
+      <p class="empty-title">No se encontraron resultados</p>
+      <p class="empty-desc">Prueba a escribir términos diferentes o realiza una pregunta más amplia.</p>
+    </div>
+  </section>
+</Layout>
+
+<script>
+  // UI selectors
+  const tabKeyword = document.getElementById('tab-keyword');
+  const tabSemantic = document.getElementById('tab-semantic');
+  const searchInput = document.getElementById('search-input') as HTMLInputElement;
+  const searchIndicator = document.getElementById('search-indicator');
+  const tagsContainer = document.getElementById('tags-filter-container');
+  const tagPills = document.querySelectorAll('.tag-pill');
+  const emptyState = document.getElementById('empty-state');
+  const lowRelevanceWarning = document.getElementById('low-relevance-warning');
+  
+  // Grids
+  const keywordGrid = document.getElementById('keyword-videos-grid');
+  const semanticGrid = document.getElementById('semantic-videos-grid');
+  const semanticLoading = document.getElementById('semantic-loading');
+  const videoCards = document.querySelectorAll('.video-card-wrapper');
+  
+  let searchMode = 'keyword'; // 'keyword' or 'semantic'
+  let currentSearch = '';
+  let currentTag = 'all';
+  let debounceTimeout: any = null;
+
+  // Helper to escape HTML and double quotes safely in attributes and text
+  function escapeHtml(unsafe: string) {
+    if (!unsafe) return '';
+    return unsafe
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
+  }
+
+  // Toggle Search Modes
+  if (tabKeyword && tabSemantic && searchInput && tagsContainer && keywordGrid && semanticGrid) {
+    tabKeyword.addEventListener('click', () => {
+      searchMode = 'keyword';
+      tabKeyword.classList.add('active');
+      tabSemantic.classList.remove('active');
+      tagsContainer.classList.remove('hidden');
+      keywordGrid.classList.remove('hidden');
+      semanticGrid.classList.add('hidden');
+      if (semanticLoading) semanticLoading.classList.add('hidden');
+      if (lowRelevanceWarning) lowRelevanceWarning.classList.add('hidden');
+      searchInput.placeholder = "Buscar videos por título, descripción o etiqueta...";
+      searchInput.value = '';
+      currentSearch = '';
+      filterKeywordVideos();
+    });
+
+    tabSemantic.addEventListener('click', () => {
+      searchMode = 'semantic';
+      tabSemantic.classList.add('active');
+      tabKeyword.classList.remove('active');
+      tagsContainer.classList.add('hidden');
+      keywordGrid.classList.add('hidden');
+      semanticGrid.classList.remove('hidden');
+      if (emptyState) emptyState.classList.add('hidden');
+      if (lowRelevanceWarning) lowRelevanceWarning.classList.add('hidden');
+      searchInput.placeholder = "Haz una consulta semántica al catálogo (ej: 'proyectos de IA y agentes' o 'tutoriales sobre física')...";
+      searchInput.value = '';
+      currentSearch = '';
+      renderSemanticEmpty();
+    });
+  }
+
+  // KEYWORD SEARCH LOGIC
+  function filterKeywordVideos() {
+    let visibleCount = 0;
+    
+    videoCards.forEach(card => {
+      const title = card.getAttribute('data-title') || '';
+      const desc = card.getAttribute('data-desc') || '';
+      const tags = card.getAttribute('data-tags') || '';
+      
+      const matchesSearch = title.includes(currentSearch) || desc.includes(currentSearch) || tags.includes(currentSearch);
+      const matchesTag = currentTag === 'all' || tags.includes(currentTag.toLowerCase());
+      
+      if (matchesSearch && matchesTag) {
+        (card as HTMLElement).style.display = 'block';
+        visibleCount++;
+      } else {
+        (card as HTMLElement).style.display = 'none';
+      }
+    });
+
+    if (emptyState) {
+      if (visibleCount === 0) {
+        emptyState.classList.remove('hidden');
+      } else {
+        emptyState.classList.add('hidden');
+      }
+    }
+  }
+
+  tagPills.forEach(pill => {
+    pill.addEventListener('click', () => {
+      tagPills.forEach(p => p.classList.remove('active'));
+      pill.classList.add('active');
+      
+      currentTag = pill.getAttribute('data-tag') || 'all';
+      filterKeywordVideos();
+    });
+  });
+
+  // SEMANTIC SEARCH LOGIC
+  function renderSemanticEmpty() {
+    if (semanticGrid) semanticGrid.innerHTML = '';
+    if (emptyState) {
+      emptyState.classList.remove('hidden');
+      const title = emptyState.querySelector('.empty-title');
+      const desc = emptyState.querySelector('.empty-desc');
+      if (title) title.textContent = "Búsqueda Semántica con IA local";
+      if (desc) desc.textContent = "Escribe una pregunta o tema de interés sobre educación, inteligencia artificial, Nocode o programación para buscar por su significado conceptual.";
+    }
+  }
+
+  async function executeSemanticSearch(query: string) {
+    if (!query || query.trim() === '') {
+      renderSemanticEmpty();
+      return;
+    }
+
+    if (semanticLoading) semanticLoading.classList.remove('hidden');
+    if (semanticGrid) semanticGrid.classList.add('hidden');
+    if (emptyState) emptyState.classList.add('hidden');
+    if (lowRelevanceWarning) lowRelevanceWarning.classList.add('hidden');
+    
+    if (searchIndicator) {
+      searchIndicator.textContent = '⏳';
+      searchIndicator.classList.add('loading-spin');
+    }
+
+    try {
+      const response = await fetch(`/api/semantic-search?q=${encodeURIComponent(query)}`);
+      const data = await response.json();
+      
+      if (semanticLoading) semanticLoading.classList.add('hidden');
+      if (searchIndicator) {
+        searchIndicator.textContent = '🔍';
+        searchIndicator.classList.remove('loading-spin');
+      }
+
+      if (data.success && data.results && data.results.length > 0) {
+        // Evaluate similarity threshold
+        const highestSimilarity = data.results[0].similarity;
+        if (highestSimilarity < 0.6) {
+          if (lowRelevanceWarning) lowRelevanceWarning.classList.remove('hidden');
+        } else {
+          if (lowRelevanceWarning) lowRelevanceWarning.classList.add('hidden');
+        }
+
+        if (semanticGrid) {
+          semanticGrid.classList.remove('hidden');
+          semanticGrid.innerHTML = data.results.map((result: any) => {
+            const similarityPercent = Math.round(result.similarity * 100);
+            
+            // Score color based on threshold
+            let scoreColor = 'var(--accent-purple)';
+            if (result.similarity > 0.6) scoreColor = 'var(--accent-green)';
+            else if (result.similarity > 0.4) scoreColor = 'var(--accent-blue)';
+
+            const concept = result.concept;
+            const escapedTitle = escapeHtml(concept.title);
+
+            if (result.type === 'video') {
+              return `
+                <div class="video-card-wrapper">
+                  <a href="/videos/${concept.id}" class="video-card">
+                    <div class="video-thumbnail-wrapper">
+                      <img src="${concept.thumbnail || '/placeholder.jpg'}" alt="${escapedTitle}" class="video-thumbnail" loading="lazy" />
+                      <span class="video-duration">${concept.duration}</span>
+                      <span class="similarity-score-badge" style="background-color: ${scoreColor}">${similarityPercent}% coincidencia</span>
+                      <span class="play-overlay-icon">▶</span>
+                    </div>
+                    <div class="video-card-content">
+                      <div class="concept-badge-row">
+                        <span class="video-channel-tag">${escapeHtml(concept.channel_title)}</span>
+                        <span class="okf-concept-tag">YouTube Video</span>
+                      </div>
+                      <h3 class="video-title" title="${escapedTitle}">${escapedTitle}</h3>
+                      <div class="video-metadata">
+                        <span>${parseInt(concept.view_count || '0').toLocaleString('es-ES')} vistas</span>
+                        <span class="dot">•</span>
+                        <span>${new Date(concept.published_at).toLocaleDateString('es-ES', { year: 'numeric', month: 'short' })}</span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              `;
+            } else if (result.type === 'channel') {
+              return `
+                <div class="video-card-wrapper">
+                  <a href="/channels/${concept.id}" class="video-card channel-result-card">
+                    <div class="video-thumbnail-wrapper channel-vector-avatar">
+                      <img src="${concept.thumbnail || '/placeholder.jpg'}" alt="${escapedTitle}" class="video-thumbnail channel-round-avatar" loading="lazy" />
+                      <span class="similarity-score-badge" style="background-color: ${scoreColor}">${similarityPercent}% coincidencia</span>
+                    </div>
+                    <div class="video-card-content">
+                      <div class="concept-badge-row">
+                        <span class="video-channel-tag">@${concept.custom_url?.replace('@', '') || concept.id}</span>
+                        <span class="okf-concept-tag channel">YouTube Channel</span>
+                      </div>
+                      <h3 class="video-title" title="${escapedTitle}">${escapedTitle}</h3>
+                      <div class="video-metadata">
+                        <span>${concept.video_count} videos</span>
+                        <span class="dot">•</span>
+                        <span>${(concept.subscriber_count || 0).toLocaleString('es-ES')} subs</span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              `;
+            }
+            return '';
+          }).join('');
+        }
+      } else {
+        if (emptyState) {
+          emptyState.classList.remove('hidden');
+          const title = emptyState.querySelector('.empty-title');
+          const desc = emptyState.querySelector('.empty-desc');
+          if (title) title.textContent = "No se encontraron similitudes semánticas";
+          if (desc) desc.textContent = "Intenta buscar usando otras palabras o conceptos.";
+        }
+      }
+    } catch (e) {
+      console.error('Semantic search failed:', e);
+      if (semanticLoading) semanticLoading.classList.add('hidden');
+      if (searchIndicator) {
+        searchIndicator.textContent = '🔍';
+        searchIndicator.classList.remove('loading-spin');
+      }
+      alert('Error al procesar la búsqueda semántica local.');
+    }
+  }
+
+  // Combined Search input listener
+  if (searchInput) {
+    searchInput.addEventListener('input', (e) => {
+      const val = (e.target as HTMLInputElement).value;
+      
+      if (searchMode === 'keyword') {
+        currentSearch = val.toLowerCase().trim();
+        filterKeywordVideos();
+      } else {
+        // Debounce semantic search queries to avoid too many local calculations
+        clearTimeout(debounceTimeout);
+        debounceTimeout = setTimeout(() => {
+          executeSemanticSearch(val.trim());
+        }, 500);
+      }
+    });
+  }
+</script>
+
+<style is:global>
+  /* Global Styles inside index.astro to bypass Astro Scoped compilation on dynamic components */
+  
+  .hidden {
+    display: none !important;
+  }
+
+  .low-relevance-warning {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    background-color: rgba(245, 158, 11, 0.1);
+    border: 1px solid rgba(245, 158, 11, 0.2);
+    color: #f59e0b;
+    padding: 1rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+
+  .warning-icon {
+    font-size: 1.25rem;
+  }
+
+  /* Hero styles */
+  .hero-section {
+    padding: 3rem 0;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto 3rem auto;
+    position: relative;
+  }
+
+  .hero-badge {
+    background-color: var(--accent-purple-glow);
+    border: 1px solid rgba(139, 92, 246, 0.2);
+    color: var(--accent-purple);
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 0.35rem 1rem;
+    border-radius: 9999px;
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .hero-title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1.15;
+    letter-spacing: -0.03em;
+    margin-bottom: 1.5rem;
+    color: var(--text-primary);
+  }
+
+  .hero-title span {
+    background: linear-gradient(135deg, var(--accent-purple) 0%, var(--accent-blue) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .hero-description {
+    font-size: 1.15rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+  }
+
+  /* Stats card grid */
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    margin-top: 3rem;
+  }
+
+  .stat-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    padding: 1.5rem;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    backdrop-filter: blur(8px);
+    transition: transform var(--transition-fast), border-color var(--transition-fast);
+  }
+
+  .stat-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--border-hover);
+  }
+
+  .stat-value {
+    font-size: 2rem;
+    font-weight: 800;
+    color: var(--text-primary);
+    margin-bottom: 0.25rem;
+    background: linear-gradient(to right, #ffffff, #9ca3af);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .stat-label {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  /* Section general */
+  .section-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  /* Channels styling */
+  .channels-section {
+    margin-bottom: 4rem;
+  }
+
+  .channels-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1.25rem;
+  }
+
+  .channel-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    padding: 1.25rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    text-decoration: none;
+    color: var(--text-primary);
+    transition: transform var(--transition-fast), border-color var(--transition-fast), background var(--transition-fast);
+  }
+
+  .channel-card:hover {
+    transform: scale(1.02);
+    border-color: var(--border-hover);
+    background: var(--bg-card-hover);
+  }
+
+  .channel-avatar-wrapper {
+    position: relative;
+  }
+
+  .channel-avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    border: 2px solid var(--border-color);
+    object-fit: cover;
+  }
+
+  .channel-info {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+
+  .channel-name {
+    font-size: 0.95rem;
+    font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .channel-handle {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    font-family: var(--font-mono);
+  }
+
+  .channel-meta {
+    margin-top: 0.25rem;
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+
+  .channel-meta .dot {
+    color: var(--text-muted);
+  }
+
+  /* Search row design */
+  .section-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+  }
+
+  /* Mode tabs */
+  .search-tabs {
+    display: flex;
+    background-color: var(--bg-secondary);
+    padding: 0.25rem;
+    border-radius: 10px;
+    border: 1px solid var(--border-color);
+  }
+
+  .search-tab {
+    background: none;
+    border: none;
+    color: var(--text-secondary);
+    padding: 0.5rem 1.25rem;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    transition: background-color var(--transition-fast), color var(--transition-fast);
+  }
+
+  .search-tab:hover {
+    color: var(--text-primary);
+  }
+
+  .search-tab.active {
+    background-color: var(--accent-purple-glow);
+    color: var(--accent-purple);
+    border: 1px solid rgba(139, 92, 246, 0.15);
+  }
+
+  .search-bar-row {
+    margin-bottom: 1.5rem;
+  }
+
+  .search-wrapper {
+    position: relative;
+    width: 100%;
+  }
+
+  .search-input {
+    width: 100%;
+    background-color: var(--bg-secondary);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+    padding: 1rem 1rem 1rem 3rem;
+    border-radius: 12px;
+    font-family: var(--font-sans);
+    font-size: 0.95rem;
+    outline: none;
+    transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+  }
+
+  .search-input:focus {
+    border-color: var(--accent-purple);
+    box-shadow: 0 0 16px var(--accent-purple-glow);
+  }
+
+  .search-icon {
+    position: absolute;
+    left: 1.15rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text-muted);
+    font-size: 1.1rem;
+    pointer-events: none;
+  }
+
+  /* Tags Filters */
+  .tags-filter-wrapper {
+    margin-bottom: 2rem;
+  }
+
+  .tags-filter {
+    display: flex;
+    gap: 0.5rem;
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+    mask-image: linear-gradient(to right, black 85%, transparent 100%);
+  }
+
+  .tag-pill {
+    background-color: rgba(255, 255, 255, 0.03);
+    border: 1px solid var(--border-color);
+    color: var(--text-secondary);
+    padding: 0.4rem 1rem;
+    border-radius: 9999px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: background-color var(--transition-fast), border-color var(--transition-fast), color var(--transition-fast);
+  }
+
+  .tag-pill:hover {
+    background-color: rgba(255, 255, 255, 0.08);
+    color: var(--text-primary);
+  }
+
+  .tag-pill.active {
+    background-color: var(--accent-purple-glow);
+    border-color: var(--accent-purple);
+    color: var(--text-primary);
+  }
+
+  /* Video Grid and Card */
+  .videos-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .video-card-wrapper {
+    transition: transform var(--transition-normal);
+  }
+
+  .video-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    overflow: hidden;
+    text-decoration: none;
+    color: var(--text-primary);
+    transition: transform var(--transition-fast), border-color var(--transition-fast), box-shadow var(--transition-fast);
+  }
+
+  .video-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--border-hover);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  }
+
+  .video-thumbnail-wrapper {
+    position: relative;
+    aspect-ratio: 16/9;
+    background-color: #000;
+    overflow: hidden;
+  }
+
+  .video-thumbnail {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform var(--transition-normal);
+  }
+
+  .video-card:hover .video-thumbnail {
+    transform: scale(1.05);
+  }
+
+  .video-duration {
+    position: absolute;
+    bottom: 0.5rem;
+    right: 0.5rem;
+    background: rgba(0, 0, 0, 0.85);
+    backdrop-filter: blur(4px);
+    color: #fff;
+    font-size: 0.75rem;
+    font-family: var(--font-mono);
+    padding: 0.15rem 0.4rem;
+    border-radius: 4px;
+    font-weight: 500;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  /* Play overlay button */
+  .play-overlay-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.85);
+    width: 44px;
+    height: 44px;
+    background: rgba(139, 92, 246, 0.9);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 1.1rem;
+    opacity: 0;
+    transition: opacity var(--transition-fast), transform var(--transition-fast);
+    pointer-events: none;
+    box-shadow: 0 4px 12px rgba(139, 92, 246, 0.4);
+    padding-left: 3px; /* visual center adjustment */
+  }
+
+  .video-card:hover .play-overlay-icon {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+
+  /* Semantic Similarity score badge */
+  .similarity-score-badge {
+    position: absolute;
+    top: 0.5rem;
+    left: 0.5rem;
+    color: #fff;
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 0.25rem 0.6rem;
+    border-radius: 6px;
+    text-transform: uppercase;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.35);
+    z-index: 2;
+  }
+
+  .video-card-content {
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+
+  .concept-badge-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+    gap: 0.5rem;
+  }
+
+  .video-channel-tag {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: var(--accent-blue);
+    letter-spacing: 0.05em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .okf-concept-tag {
+    font-size: 0.65rem;
+    font-family: var(--font-mono);
+    font-weight: 600;
+    color: var(--text-secondary);
+    border: 1px solid var(--border-color);
+    padding: 0.15rem 0.4rem;
+    border-radius: 4px;
+    background: rgba(255, 255, 255, 0.03);
+    white-space: nowrap;
+  }
+
+  .okf-concept-tag.channel {
+    color: var(--accent-purple);
+    border-color: rgba(139, 92, 246, 0.2);
+    background: var(--accent-purple-glow);
+  }
+
+  .video-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-bottom: 0.75rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    height: 2.7em;
+    color: var(--text-primary);
+  }
+
+  .video-metadata {
+    margin-top: auto;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+
+  .video-metadata .dot {
+    color: var(--border-color);
+  }
+
+  /* Channel results adjustment */
+  .channel-result-card .channel-vector-avatar {
+    background-color: var(--bg-secondary) !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+
+  .channel-round-avatar {
+    width: 80px !important;
+    height: 80px !important;
+    border-radius: 50% !important;
+    border: 2px solid var(--border-color);
+  }
+
+  /* Empty State */
+  .empty-state {
+    text-align: center;
+    padding: 4rem 1rem;
+    background: var(--bg-card);
+    border: 1px dashed var(--border-color);
+    border-radius: 12px;
+    margin-top: 2rem;
+  }
+
+  .empty-title {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: 0.5rem;
+  }
+
+  .empty-desc {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+  }
+
+  /* Spinner large */
+  .spinner-large {
+    width: 40px;
+    height: 40px;
+    border: 4px solid rgba(139, 92, 246, 0.15);
+    border-radius: 50%;
+    border-top-color: var(--accent-purple);
+    animation: spin 1s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    margin: 0 auto;
+  }
+
+  .loading-spin {
+    animation: spin-indicator 1s linear infinite;
+  }
+
+  @keyframes spin-indicator {
+    to { transform: translateY(-50%) rotate(360deg); }
+  }
+  
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
+
+  @media (max-width: 768px) {
+    .hero-title {
+      font-size: 2.25rem;
+    }
+    .stats-grid {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+    .section-header-row {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .search-tabs {
+      width: 100%;
+    }
+    .search-tab {
+      flex: 1;
+      justify-content: center;
+    }
+  }
+</style>
