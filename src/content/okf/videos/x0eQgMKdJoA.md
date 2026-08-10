@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "2023 11 12 18 26 11"
 description: "Yolonas1"
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=x0eQgMKdJoA"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:02.950Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:52.069Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

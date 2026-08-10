@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "CopilotFIUBA"
 description: "En este video mostramos como promptear a copilot para que nos haga el desarrollo de un pipeline de Hugginface."
+transcript_summary: "bien vamos a vamos a implementar el desarrollo del papeline de hacking Face utilizando sentimental análisis Entonces vamos a escribir acá [Música] Face pablaneford sentimental análisis with y le damos ese modelo Entonces ahora sabemos que empiece siempre con un Front ahí ya nos sugiere el código sabemos que tenemos que importar algo que siempre empieza con un from Entonces entonces acá sabemos que necesitamos un clasifyer y acá ya nos dice bien classifyer o sea Nosotros sabemos que el packland siempre empiezan con un from y después necesitamos un clasifire Ese clasifire es igual appline que ahí usa el lápiz de pubmedline de hugging Face nos dice que sentimental análisis y nos trae el model que nosotros queríamos y acá ya nos da para hacer directamente la clasificación Entonces vamos a ver si funciona hacemos Run Ahí está bajando el modelo está corriendo en nuestra máquina local una estrella ven que dice te odia a ver vamos a ver como el modelo funciona también en español vamos a poner el curso Me parece muy bueno fíjense Cuánta estrellas si pongo el curso me parece excelente Ahí está corriendo la clasificación cinco estrellas y si pongo el curso me parece"
 resource: "https://www.youtube.com/watch?v=hQqrJvg_oP0"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:06:17.628Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:22.299Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

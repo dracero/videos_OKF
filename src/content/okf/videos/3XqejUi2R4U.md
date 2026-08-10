@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "Video de Bienvenida con Sonido de Módem"
 description: ""
+transcript_summary: "[Música] Bienvenido. Gracias por participar."
 resource: "https://www.youtube.com/watch?v=3XqejUi2R4U"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:19.582Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:20.547Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

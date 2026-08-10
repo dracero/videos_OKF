@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "qwen_artifcats_bolt"
 description: ""
+transcript_summary: "Bueno hoy usamos los artifacts de quen y le pedimos que nos hiciera sobre un fondo azul oscuro dos botones grises con puntas redondeadas y letras negras que digan incrementar y incrementar un Label en medio arriba de los dos botones que tienen que estar en medio de la pantalla pero incrementar a la izquierda y decrementar a la derecha y en el lbel empieza en cero pero es incrementa o decrementa según los botones que se el botón que se presione le pusimos ese prompt nos hizo el código con artifact y a la derecha podemos ver que lo que nosotros pedimos funciona y acá tenemos todo el código ahora qué hicimos copiamos el código y fuimos a la página bt New y a acá vamos a ir vamos a mostrar porque los tenemos acá en la página B New lo que hicimos en el prompt fue pegar el código el código que nos había dado que estaba en ccs javascript eh le pusimos Necesito que tomes este código y lo conviertas en componentes react en un entorno next un componente para cada botón y uno para el Label en archivo separados y que el botón se actualice mediante el uso de"
 resource: "https://www.youtube.com/watch?v=9y0zXub9bak"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:44.666Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:34.371Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

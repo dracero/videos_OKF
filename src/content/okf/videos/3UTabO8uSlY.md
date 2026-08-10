@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "Relevamos tus necesidades, fijamos objetivos"
 description: "Ponete en contacto con nosotros, tenemos un presupuesto adaptado para cada caso."
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=3UTabO8uSlY"
 tags: ["#marketingdigital #publicidadonlie."]
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:52.037Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:53.658Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

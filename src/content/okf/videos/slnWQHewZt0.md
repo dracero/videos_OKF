@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "prueba"
 description: "ver"
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=slnWQHewZt0"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:32.262Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:13:09.490Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

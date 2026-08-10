@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "trayectoria"
 description: "Trayectoria de un péndulo simple"
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=kG3NGSD5sXo"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:06.289Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:54.089Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

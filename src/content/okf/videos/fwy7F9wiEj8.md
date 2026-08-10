@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "2023 11 20 15 34 03"
 description: "Detectando con yoloNAS"
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=fwy7F9wiEj8"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:01.650Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:50.510Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

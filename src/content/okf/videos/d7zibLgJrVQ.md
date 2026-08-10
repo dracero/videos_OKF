@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "Deep_Reserarch_Agents"
 description: ""
+transcript_summary: "Terminamos de generar una aplicación Full Stack que busca eventos que pueden haber generado tráfico de internet en Argentina. Lo que hicimos fue primero crear un Deep Research Agent con cuatro agentes que trabajan en paralelo utilizando Langraf. Ese Deep Research Agent utiliza un real time searcher que es stabilir para hacer la búsqueda en internet. Ahora, el plan de Deep Research y el Real Time Searcher no bastan para que este agente funcione correctamente tiene que tener definidas las reglas del negocio. ¿Cómo se definen las reglas del negocio en un agente? Se definen a través de la ontología. Para eso creamos lo que estamos viendo ahora, que es este archivo Yaml. Y este archivo Yaml tiene las reglas del negocio de las eh de los proveedores de CDN, de PIR y de todas los e proveedores que generan tráfico internacional en Argentina. Además de todo eso, como son agentes y son estocásticos, hicimos la supervisión con Langsmith. Bien, vamos a verlo funcionar. Acá ya tenemos la aplicación Full Stack. Yo le voy a poner un día que sé que hubo tráfico y cosas importantes, que fue el uno fue el 15 de febrero del 2000 26 y le vamos a poner que"
 resource: "https://www.youtube.com/watch?v=d7zibLgJrVQ"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:12.365Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:12.473Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

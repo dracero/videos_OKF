@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "redNeuronal2"
 description: "Segunda parte, funcionamiento de red neuronal profunda."
+transcript_summary: "el ejemplo que vimos es decir lo que mostraba era una arquitectura como ésta es decir una neurona con una entrada y una salida era un ejemplo muy sencillo y daba bien por qué porque en definitiva el problema es un problema lineal y es un problema fácil de modelizar vamos a ver qué pasa si nosotros aumentamos a 4 el número de neuronas 5 el número de neuronas y si además ponemos una capa oculta más de 5 neuronas vamos a hacer una arquitectura como esta una entrada una salida pero dos capas ocultas de 5 neuronas cada una para ver qué pasa fíjense que esto alcanza la convergencia mucho más rápido y esto nos da valores vamos a ver qué pasa an [Música] por ejemplo y redes neuronales y lo que vamos a hacer acá es poner una red neuronal la entrada que son la red neuronal acá lo que le estamos diciendo es que es una única neurona de entrada se va a conectar a 5 neuronas después dos capas ocultas de 5 neuronas y finalmente esa capa oculta de 5 neuronas tiene una capa de salida de una neurona y lo ejemplifica mos acá o sea lo que"
 resource: "https://www.youtube.com/watch?v=4iZ3wUsdlzA"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:06:29.968Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:38.746Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

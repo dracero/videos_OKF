@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "HA_video1"
 description: ""
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=n7OivhjdSiU"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:03:56.040Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:06.942Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

@@ -85,8 +85,10 @@ export async function generateCatalogEmbeddings() {
       const tagsStr = Array.isArray(data.tags) ? data.tags.join(', ') : '';
       // We extract first 300 characters of description to represent semantic meaning concisely
       const cleanDesc = (body || '').replace(/<[^>]*>/g, '').substring(0, 300).trim();
+      // Include transcript_summary if available to enrich sparse metadata
+      const transcriptSummary = data.transcript_summary || '';
 
-      const searchText = `YouTube Video Title: ${data.title}. Description: ${cleanDesc}. Tags: ${tagsStr}. Type: YouTube Video. OKF status: ${data.status}. OKF verified: ${data.verified}.`;
+      const searchText = `YouTube Video Title: ${data.title}. Description: ${cleanDesc}. Tags: ${tagsStr}. Resumen del contenido hablado: ${transcriptSummary}. Type: YouTube Video.`;
 
       console.log(`Embedding video: ${data.title}...`);
       const vector = await getEmbedding(searchText);
@@ -181,7 +183,10 @@ export async function generateTranscriptEmbeddings() {
 
         // Chunk condition: ~150 words or end of array
         if (wordCount >= 150 || i === segments.length - 1) {
-          const vector = await getEmbedding(currentText);
+          // Enrich chunk text with OKF context (video title + channel)
+          const channelTitle = channelsInfo[videoMetadata.channel_id] || 'Diego Racero';
+          const enrichedText = `Video: "${videoMetadata.title}". Canal: "${channelTitle}". Contenido: ${currentText}`;
+          const vector = await getEmbedding(enrichedText);
 
           chunksEmbeddings.push({
             videoId,
@@ -327,6 +332,134 @@ export async function semanticSearchChunks(queryText, limit = 12) {
   return results
     .sort((a, b) => b.similarity - a.similarity)
     .slice(0, limit);
+}
+
+// Unified Fusion Search: combines catalog + transcript results
+export async function unifiedSemanticSearch(queryText, limit = 15) {
+  if (!queryText || queryText.trim() === '') return [];
+
+  // 1. Get query vector once
+  const queryVector = await getEmbedding(queryText);
+
+  // Normalize query for keyword matching
+  const cleanQuery = queryText.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
+  const queryWords = cleanQuery.split(/\s+/).filter(w => w.length > 2);
+
+  // 2. Load both embedding indexes
+  let catalogEmbeddings = [];
+  let chunksEmbeddings = [];
+
+  try {
+    const data = await fs.readFile(EMBEDDINGS_FILE, 'utf-8');
+    catalogEmbeddings = JSON.parse(data);
+  } catch (e) {
+    console.warn('Catalog embeddings not found, skipping catalog search.');
+  }
+
+  try {
+    const data = await fs.readFile(EMBEDDINGS_CHUNKS_FILE, 'utf-8');
+    chunksEmbeddings = JSON.parse(data);
+  } catch (e) {
+    console.warn('Transcript chunk embeddings not found, skipping transcript search.');
+  }
+
+  const allResults = [];
+
+  // 3. Score catalog concepts
+  for (const item of catalogEmbeddings) {
+    const baseSimilarity = cosineSimilarity(queryVector, item.vector);
+
+    // Apply keyword boost to catalog titles
+    let boost = 0;
+    if (queryWords.length > 0) {
+      const cleanTitle = item.title.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+      if (cleanTitle.includes(cleanQuery)) {
+        boost += 0.3;
+      } else {
+        let matchCount = 0;
+        for (const word of queryWords) {
+          if (cleanTitle.includes(word)) matchCount++;
+        }
+        boost += (matchCount / queryWords.length) * 0.15;
+      }
+    }
+
+    allResults.push({
+      similarity: baseSimilarity + boost,
+      type: item.type, // 'video' or 'channel'
+      id: item.id,
+      title: item.title,
+      source: 'catalog'
+    });
+  }
+
+  // 4. Score transcript chunks
+  for (const item of chunksEmbeddings) {
+    const baseSimilarity = cosineSimilarity(queryVector, item.vector);
+
+    let boost = 0;
+    if (queryWords.length > 0) {
+      const cleanText = item.text.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+      if (cleanText.includes(cleanQuery)) {
+        boost += 0.35;
+      } else {
+        let matchCount = 0;
+        for (const word of queryWords) {
+          if (cleanText.includes(word)) matchCount++;
+        }
+        boost += (matchCount / queryWords.length) * 0.2;
+      }
+    }
+
+    allResults.push({
+      similarity: baseSimilarity + boost,
+      type: 'segment',
+      source: 'transcript',
+      concept: {
+        id: item.videoId,
+        title: item.videoTitle,
+        channel_id: item.channelId,
+        channel_title: item.channelTitle,
+        thumbnail: item.thumbnail,
+        duration: item.duration
+      },
+      segment: {
+        text: item.text,
+        start: item.start,
+        end: item.end,
+        formattedStart: formatTime(item.start)
+      }
+    });
+  }
+
+  // 5. Sort by similarity descending
+  allResults.sort((a, b) => b.similarity - a.similarity);
+
+  // 6. Deduplicate: for catalog results, if the same video also appears as a segment higher up, skip the catalog entry
+  const seen = new Map();
+  const deduplicated = [];
+
+  for (const result of allResults) {
+    // For catalog videos, use the video id as the key
+    if (result.source === 'catalog' && result.type === 'video') {
+      const key = `catalog-${result.id}`;
+      if (seen.has(key)) continue;
+      seen.set(key, 1);
+    }
+    // For transcript segments, allow multiple segments from the same video
+    // but limit to max 3 segments per video
+    if (result.source === 'transcript') {
+      const segKey = `seg-${result.concept.id}`;
+      const count = (seen.get(segKey) || 0);
+      if (count >= 3) continue;
+      seen.set(segKey, count + 1);
+    }
+
+    deduplicated.push(result);
+    if (deduplicated.length >= limit) break;
+  }
+
+  return deduplicated;
 }
 
 // Helper to format seconds to MM:SS or HH:MM:SS

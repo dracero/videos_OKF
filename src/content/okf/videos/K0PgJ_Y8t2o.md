@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "test"
 description: ""
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=K0PgJ_Y8t2o"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:23.297Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:13:00.968Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

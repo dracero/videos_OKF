@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "Hidrodinamica"
 description: "Este es un podcast grbado con AI Studio"
+transcript_summary: "Hola a todos y bienvenidos a Fluyendo con la ciencia. Soy Alex y yo, Sofía. Hoy nos sumergiremos literalmente en el fascinante mi mundo de la hidrodinámica. Hidrodinámica. Suena imponente. Es como la dinámica pero con agua. Exacto, Alex. Es la rama de la física que estudia los fluidos en movimiento. Piensa en ríos, tuberías, la sangre en nuestras venas, incluso el aire alrededor de un avión. Vaya, está en todas partes. Pero para estudiarlo necesitamos un tipo de fluido especial. He oído hablar de el fluido ideal. ¿Existe eso? Buena pregunta. El fluido ideal es un concepto teórico, una simplificación que nos ayuda mucho a entender los principios básicos. Un fluido ideal tiene dos características principales. Uno, es incompr. Imagina que su densidad no cambia, no importa cuánta presión la apliques, como si no pudieras apretarlo para que ocupe menos espacio. O sea, un agua perfecta que no se pega ni se puede aplastar. Exactamente. En la realidad todos los fluidos tienen algo de viscosidad y son algo comprensibles, pero el modelo de fluido ideal es un excelente punto de partida. ¿Entendido? Y cuando estos fluidos ideales o no se mueven, ¿cómo lo hacen? Hay diferentes tipos de movimiento. Sí, principalmente"
 resource: "https://www.youtube.com/watch?v=QSs9gwvs5bc"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:26.017Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:26.885Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

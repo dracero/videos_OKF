@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "esto esunas"
 description: "awda"
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=xPQWhJfUG_8"
 tags: ["werxd"]
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:43.081Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:16.412Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"

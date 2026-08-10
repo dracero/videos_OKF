@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "Para que aprendas marketing digital"
 description: "Tutorial de marketing digital"
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=pycyJesnLcI"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:34.797Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:09.020Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"

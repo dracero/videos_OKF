@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "mlflow_agentes"
 description: ""
+transcript_summary: "Bueno lo que hicimos ahora al contrato de convenio de aceiteros que habíamos hecho para probar con nuestro conjunto de agentes le añadimos métricas y controles de la gente con ML Flow Entonces ahora una vez que termine de generar el contrato podemos ver por ejemplo Cómo Cuál fue la trayectoria es decir el camino que recorrió el agente hasta llegar a escribir el contrato no el agente sino los distintos agentes podemos ver el tiempo que se tardó en utilizar las herramientas podemos ver también el eh métricas de El llm Como por ejemplo los tokens la cantidad de request que se hicieron al LL bien gracias a mlflow podemos ver un montón de e datos que no son útiles a la hora después de ver si la arquitectura de agentes utilizada es la correcta para ver si el llm es el adecuado para ver la calidad del prompting para ver la calidad de las conexiones y el uso de las herramientas y todas aquellas cosas que son necesarias utilizar vamos a ver acá tenemos corriendo el proceso de ML Flow vamos a ir a buscar acá tenemos el proceso corriendo visitamos el sitio acá vemos el experimento que hicimos se"
 resource: "https://www.youtube.com/watch?v=d_S4H2vgyZA"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:42.126Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:31.763Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

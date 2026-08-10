@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "redNeuronal1"
 description: "Red nueronal profunda, funcionamiento básico."
+transcript_summary: "y lo que nosotros vamos a ver es la implementación de inteligencia artificial utilizando en redes neuronales una red neuronal es un algoritmo matemático un programa de computación que aprende de los datos desde el punto de vista estrictamente matemático es un conjunto de entradas que se llaman features un conjunto de salidas que se llaman lakers en el medio tenemos lo que se denominan las capas ocultas o neuronas esas capas ocultas o neuronas lo que hacen es multiplicar los valores de entrada por valores de pesos wb que están dentro de estas capas ocultas y fíjense que las capas ocultas se interconectan todas contra todas entonces qué es lo que se logra con esto se logra que haya un aprendizaje de los datos por ejemplo vamos a ver un ejemplo a donde lo que vamos a hacer es convertir grados centígrados en grados fahrenheit uno dirá bueno pero grados sentidos en grados fahrenheit es algo realmente sencillo porque no puedo saber cuál es la ley que da grados centígrados sean de fahrenheit y le implementó con cualquier programa de computación como país bien lo que sucede es que nosotros lo vamos a hacer como ejercicio para mostrar cómo"
 resource: "https://www.youtube.com/watch?v=hNqM7LTOpao"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:06:30.135Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:38.995Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

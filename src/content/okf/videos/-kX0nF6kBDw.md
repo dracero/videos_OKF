@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "video1192578223"
 description: ""
+transcript_summary: "bueno bueno ya hay es primero de mes Así que hoy se puede activar el chat Bot lo que tenés que hacer es cuando te lo veas con el usuario y password que te pase de github vas a los dos de playmon que dice chatbot este yo ya lo puse a funcionar Ahora hay que ir a este otro que dice chatbot backenzi Now haces clic ahí haces clic en este que dice node Express acá haces clic a donde dice viulogs te va a aparecer esta pantalla y acá que te aparece esta pantalla botón derecho Perdón apretás en estos tres puntitos y le das rollback le dice si estás seguro del rollback y ahí ya está ahí con eso listo ahí hasta el día 22 del próximo mes va ahora bueno tarda un rato pero hasta el este En un rato se va a ver que Acá empieza a mostrar que está este está haciendo nuevamente el deployment este y ya va a quedar un al aire ves ahí está ahí empieza a hacer el deploide y ahí después cuando termine Ya queda el aire cuando queda el aire que termina acá se puede ver el biolox"
 resource: "https://www.youtube.com/watch?v=-kX0nF6kBDw"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:08.671Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:55.816Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

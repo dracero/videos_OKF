@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "Busc bamos algo bueno y sencillo"
 description: ""
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=I6WMYJzoe04"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:38.452Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:12.611Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"

@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "2023 10 21 20 58 03"
 description: "Yolov8 Distance Detection"
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=K0P6WZEnQiI"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:46.691Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:48.127Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

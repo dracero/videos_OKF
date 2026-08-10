@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "grapRAG"
 description: ""
+transcript_summary: "qué tenemos acá acá tenemos un grafo que está armado es un una forma estructurada con una topología de nodos y vértices Armada a partir de un texto no estructurado Cuál es el texto no estructurado que nosotros elegimos es este de la doble diplomatura con Francia todo este texto que se ve acá que explica todas las frequently as question que los alumnos hacen cuando quieren aplicar para la doble diplomatura con Francia fue convertido con algoritmos de neo4j en un grafo Qué importancia tiene que se haya puesto en un grafo bien primero que hay una estructura jerárquica dentro de cada uno de los nodos cuando se hace la búsqueda en cambio de ser una búsqueda puramente en base de acto se hace primero la búsqueda a través de los nodos como Busca el camino más corto o el mejor camino un algoritmo de red bien igualmente se busca la mejor respuesta a través del texto en los nodos pero después cada uno de esos textos tienen beddings con los cual con los cuales se pueden hacer búsquedas vectoriales como la que habíamos visto antes Para qué sirve todo esto esto sirve porque yo lo que puedo hacer es"
 resource: "https://www.youtube.com/watch?v=aWxqsd-6Kf4"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:54.800Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:44.130Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

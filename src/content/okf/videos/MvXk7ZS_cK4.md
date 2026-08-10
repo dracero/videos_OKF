@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "2023 10 16 20 42 14"
 description: ""
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=MvXk7ZS_cK4"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:05.084Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:53.482Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

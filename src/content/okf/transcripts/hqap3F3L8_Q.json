@@ -1,290 +1,278 @@
 [
   {
     "text": "Sofía, lo que tenés que hacer en tu caso",
-    "duration": 5840,
-    "offset": 1080,
+    "duration": 5760,
+    "offset": 1280,
     "lang": "es"
   },
   {
-    "text": "es reiniciar el curso. Aguardame que te",
+    "text": "es reiniciar el curso. Aguárdame que te",
     "duration": 5680,
-    "offset": 3400,
+    "offset": 3480,
     "lang": "es"
   },
   {
     "text": "muestro cómo se hace.",
-    "duration": 3840,
-    "offset": 6920,
+    "duration": 3880,
+    "offset": 7040,
     "lang": "es"
   },
   {
     "text": "Vas acá.",
-    "duration": 5320,
-    "offset": 9080,
+    "duration": 5439,
+    "offset": 9160,
     "lang": "es"
   },
   {
     "text": "Ah, yo voy a ir a mi curso.",
-    "duration": 6280,
-    "offset": 10760,
+    "duration": 6679,
+    "offset": 10920,
     "lang": "es"
   },
   {
-    "text": "Eh.",
-    "duration": 2640,
-    "offset": 14400,
+    "text": "E",
+    "duration": 3000,
+    "offset": 14599,
     "lang": "es"
   },
   {
-    "text": "Acá estoy entrando, bien.",
-    "duration": 4400,
-    "offset": 19880,
+    "text": "acá estoy entrando bien.",
+    "duration": 4960,
+    "offset": 20000,
     "lang": "es"
   },
   {
-    "text": "Entonces.",
-    "duration": 5440,
-    "offset": 25040,
+    "text": "Entonces,",
+    "duration": 5400,
+    "offset": 25320,
     "lang": "es"
   },
   {
-    "text": "Eh, acá esta es esta es la pantalla que",
-    "duration": 5000,
-    "offset": 27520,
+    "text": "eh acá este esta es la pantalla que vas",
+    "duration": 5119,
+    "offset": 27640,
     "lang": "es"
   },
   {
-    "text": "vas a ver una vez que entres a tu curso,",
-    "duration": 4680,
-    "offset": 30480,
+    "text": "a ver una vez que entres a tu curso. Vas",
+    "duration": 5920,
+    "offset": 30720,
     "lang": "es"
   },
   {
-    "text": "vas a donde dice más.",
-    "duration": 5360,
-    "offset": 32520,
+    "text": "a donde dice más y buscas a donde dice",
+    "duration": 6921,
+    "offset": 32759,
     "lang": "es"
   },
   {
-    "text": "Y buscás a donde dice reutilización de",
-    "duration": 4440,
-    "offset": 35160,
-    "lang": "es"
-  },
-  {
-    "text": "curso.",
-    "duration": 4520,
-    "offset": 37880,
+    "text": "reutilización de curso.",
+    "duration": 6000,
+    "offset": 36640,
     "lang": "es"
   },
   {
     "text": "Y acá tenés que hacer clic a donde dice",
-    "duration": 5480,
-    "offset": 39600,
+    "duration": 5640,
+    "offset": 39680,
     "lang": "es"
   },
   {
     "text": "reiniciar.",
-    "duration": 5680,
-    "offset": 42400,
+    "duration": 5559,
+    "offset": 42640,
     "lang": "es"
   },
   {
     "text": "Entonces, acá está qué es lo que querés",
     "duration": 5040,
-    "offset": 45080,
+    "offset": 45320,
     "lang": "es"
   },
   {
     "text": "borrar. Por ejemplo, todos los",
-    "duration": 5560,
-    "offset": 48080,
+    "duration": 5601,
+    "offset": 48199,
     "lang": "es"
   },
   {
-    "text": "comentarios, datos de finalización.",
-    "duration": 6800,
-    "offset": 50120,
+    "text": "comentarios, datos de finalización,",
+    "duration": 6839,
+    "offset": 50360,
     "lang": "es"
   },
   {
-    "text": "Eh, asociaciones de blog, valoraciones",
+    "text": "eh asociaciones de blog, valoraciones de",
     "duration": 6200,
-    "offset": 53640,
+    "offset": 53800,
     "lang": "es"
   },
   {
-    "text": "de la competencia. Los roles. Si son los",
-    "duration": 5240,
-    "offset": 56920,
-    "lang": "es"
-  },
-  {
-    "text": "mismos docentes, solamente borrás el rol",
-    "duration": 5679,
-    "offset": 59840,
-    "lang": "es"
-  },
-  {
-    "text": "de estudiante, dejás este por defecto.",
+    "text": "la competencia. Los roles, si son los",
     "duration": 5000,
-    "offset": 62160,
+    "offset": 57199,
     "lang": "es"
   },
   {
-    "text": "Todas las asignaciones desde rol",
-    "duration": 3841,
-    "offset": 65519,
+    "text": "mismos docentes, solamente borras el rol",
+    "duration": 5479,
+    "offset": 60000,
     "lang": "es"
   },
   {
-    "text": "locales, todas las modificaciones en el",
-    "duration": 3520,
-    "offset": 67160,
+    "text": "de estudiante, dejás este por defecto,",
+    "duration": 5641,
+    "offset": 62199,
     "lang": "es"
   },
   {
-    "text": "curso.",
-    "duration": 3560,
-    "offset": 69360,
+    "text": "todas las asignaciones de rol locales,",
+    "duration": 5320,
+    "offset": 65479,
     "lang": "es"
   },
   {
-    "text": "Libro de calificaciones.",
-    "duration": 3880,
-    "offset": 70680,
+    "text": "todas las modificaciones en el curso,",
+    "duration": 5120,
+    "offset": 67840,
     "lang": "es"
   },
   {
-    "text": "No borres los ítems ni categorías,",
-    "duration": 3880,
-    "offset": 72920,
+    "text": "libro de calificaciones,",
+    "duration": 4241,
+    "offset": 70799,
     "lang": "es"
   },
   {
-    "text": "porque estos es lo que te dice parcial",
-    "duration": 4800,
-    "offset": 74560,
+    "text": "no borres los ítems y categorías porque",
+    "duration": 4240,
+    "offset": 72960,
     "lang": "es"
   },
   {
-    "text": "1, parcial 2, sino los valores, las",
-    "duration": 4320,
-    "offset": 76800,
+    "text": "estos es lo que te dice parcial uno,",
+    "duration": 4439,
+    "offset": 75040,
     "lang": "es"
   },
   {
-    "text": "calificaciones. Grupos, todos los",
-    "duration": 4800,
-    "offset": 79360,
+    "text": "parcial dos, sino los valores, las",
+    "duration": 4040,
+    "offset": 77200,
     "lang": "es"
   },
   {
-    "text": "grupos, todos los agrupamientos. Tareas.",
-    "duration": 4840,
-    "offset": 81120,
+    "text": "calificaciones, grupos, todos los",
+    "duration": 4761,
+    "offset": 79479,
     "lang": "es"
   },
   {
-    "text": "Borrar las entregas, las excepciones de",
+    "text": "grupos, todos los agrupamientos, tareas,",
+    "duration": 4879,
+    "offset": 81240,
+    "lang": "es"
+  },
+  {
+    "text": "borrar las entregas, las excepciones de",
+    "duration": 3720,
+    "offset": 84240,
+    "lang": "es"
+  },
+  {
+    "text": "usuario y las excepciones de grupo.",
+    "duration": 3481,
+    "offset": 86119,
+    "lang": "es"
+  },
+  {
+    "text": "Borra las entregas, pero la tarea que",
     "duration": 3600,
-    "offset": 84160,
+    "offset": 87960,
     "lang": "es"
   },
   {
-    "text": "usuario, las excepciones de grupo.",
-    "duration": 3520,
-    "offset": 85960,
+    "text": "vos habías creado queda. Bueno, libro,",
+    "duration": 4400,
+    "offset": 89600,
     "lang": "es"
   },
   {
-    "text": "Borrar las entregas, pero la tarea que",
-    "duration": 3800,
-    "offset": 87760,
-    "lang": "es"
-  },
-  {
-    "text": "vos habías creado queda. Bueno, libro no",
-    "duration": 4360,
-    "offset": 89480,
-    "lang": "es"
-  },
-  {
-    "text": "sé si tendrás, encuesta. Deja la",
-    "duration": 4840,
+    "text": "no sé si tendrás encuesta, deja la",
+    "duration": 4919,
     "offset": 91560,
     "lang": "es"
   },
   {
-    "text": "encuesta, pero borra las respuestas.",
-    "duration": 4200,
-    "offset": 93840,
+    "text": "encuestra, pero borra las respuestas.",
+    "duration": 4000,
+    "offset": 94000,
     "lang": "es"
   },
   {
-    "text": "Foros.",
+    "text": "Foros,",
     "duration": 3320,
-    "offset": 96400,
+    "offset": 96479,
     "lang": "es"
   },
   {
-    "text": "Todas las preferencias de usuario, todas",
-    "duration": 4200,
-    "offset": 98040,
+    "text": "todas las preferencias de usuario, todas",
+    "duration": 4280,
+    "offset": 98000,
     "lang": "es"
   },
   {
-    "text": "las suscripciones, todos los mensajes.",
-    "duration": 4880,
-    "offset": 99720,
+    "text": "las suscripciones, todos los mensajes,",
+    "duration": 4920,
+    "offset": 99799,
     "lang": "es"
   },
   {
-    "text": "Eliminar todas las respuestas, eliminar",
-    "duration": 4800,
-    "offset": 102240,
+    "text": "eliminar todas las respuestas, eliminar",
+    "duration": 4920,
+    "offset": 102280,
     "lang": "es"
   },
   {
     "text": "todos los intentos de resolver",
-    "duration": 4280,
-    "offset": 104600,
+    "duration": 4281,
+    "offset": 104719,
     "lang": "es"
   },
   {
-    "text": "cuestionario. Bueno, y esto si tenías",
-    "duration": 4720,
-    "offset": 107040,
+    "text": "cuestionario. Bueno, y esto si tendrías",
+    "duration": 4680,
+    "offset": 107200,
     "lang": "es"
   },
   {
     "text": "H5P.",
-    "duration": 5120,
-    "offset": 108880,
+    "duration": 5159,
+    "offset": 109000,
     "lang": "es"
   },
   {
     "text": "Una vez que seleccionaste todo, hacés",
-    "duration": 5120,
-    "offset": 111760,
+    "duration": 5080,
+    "offset": 111880,
     "lang": "es"
   },
   {
     "text": "clic acá donde dice reiniciar el curso y",
-    "duration": 7720,
-    "offset": 114000,
+    "duration": 7640,
+    "offset": 114159,
     "lang": "es"
   },
   {
-    "text": "ahí el curso se reinicia y se borran em",
-    "duration": 9160,
-    "offset": 116880,
+    "text": "ahí el curso se reinicia y se borran",
+    "duration": 8759,
+    "offset": 116960,
     "lang": "es"
   },
   {
     "text": "se borran todos los estudiantes.",
-    "duration": 4320,
-    "offset": 121720,
+    "duration": 3920,
+    "offset": 121799,
     "lang": "es"
   }
 ]

@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "detecction_caida"
 description: ""
+transcript_summary: "Ahí estamos ahí vemos que está controlando perfecto las articulaciones me muevo sin problema caída detectada Ahí está caída detectada ahí caída detectada bien bueno entonces qué es esto ahí pierde las rodillas Este es un sistema para controlar que la persona esté siempre en posición erguida cualquier movimiento que haga que se pierda la posesión herria aparece la detección de la caída ahí como no ve las rodillas dice caída detectada"
 resource: "https://www.youtube.com/watch?v=6t5LNmqPMY8"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:41.548Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:31.241Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

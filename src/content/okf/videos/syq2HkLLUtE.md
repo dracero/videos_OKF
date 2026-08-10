@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "pose-yolo"
 description: ""
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=syq2HkLLUtE"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:49.178Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:39.072Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

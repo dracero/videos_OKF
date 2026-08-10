@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "mlflow_trayectoria"
 description: ""
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=TqdyuFrsg_0"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:42.298Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:32.685Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

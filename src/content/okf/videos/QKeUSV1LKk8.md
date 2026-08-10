@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "2024 12 14 21 52 02"
 description: ""
+transcript_summary: "Hi how are you hi there I'm doing well thank you for asking how are you doing today fine thank you could you tell me what do you see in the camera sure I see what looks like a room with a brown carpet there is a dog in the foreground and another one standing outside by a door or window there is also a teal chair some red fabric and what appears to be a black table is there anything else you'd like me to describe I look for an an Orange Bowl do you see an Orange Bowl and tell me if you see and if you see it and where yes I see an Orange Bowl on the floor to the left of the image near a teal chair would you like me to describe anything else in the image no thank you thank you very much for your help you're very welcome I'm glad I could assist you do you need help with anything else at this time uh yes please could you tell me how many fingers do you see here certainly I can do that I see five fingers on the hand displayed in the"
 resource: "https://www.youtube.com/watch?v=QKeUSV1LKk8"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:47.498Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:37.100Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

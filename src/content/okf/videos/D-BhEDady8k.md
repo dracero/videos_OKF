@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "Museo"
 description: ""
+transcript_summary: "técnica que llama de Buenos Aires, el papel de profesores a presentar, pero bueno, agradecemos eh acá estén presentes en este ciclo de charlas eh públicas del museo que tiene que ver con ingeniería, pero también más allá de las charlas técnicas que empezamos aar eh y bueno, el proyecto Esto este muy interesante porque no solamente va hacia los proyectos que que fue, sino también pensando los proyectos que no se hicieron. No, pensar también en esta idea de del futuro que nos del pasado futuro que nos puede y tratar también que ver con el el futuro posible, ¿no? También esta idea también deentar otros futuros posibles. Bueno, presento a expositores que no se conocen, pero Raúl Raú González, ingeniero como Buenos Aires, en ingeniería de transporte AMGA, profesor de diseño geométrico de criminales, diseño vial rural de profesor de diseño de vías deción católica argentina profesor invitado de la escuela de ingería de caminos de montaña de la San Juan certificación y de transporte ha desalojado su actividad profesional desde 34 años en el ámbito de domicilio de camino, factibilidad, comisión, inspección yorías de obras viales seor privado administes públicas y actualmente se desempeña en el área de"
 resource: "https://www.youtube.com/watch?v=D-BhEDady8k"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:17.271Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:18.429Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

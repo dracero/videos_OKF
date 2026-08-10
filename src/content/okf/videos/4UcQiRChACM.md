@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "Clase practica Física I, curso SP1 2021 07 15 at 15 36 GMT 7"
 description: ""
+transcript_summary: "bien sí sí sí ahí lo está grabando pilar pilar no existe a grabar no sé si fui yo a justo coincidió con el mensaje dijo algún alumno ya puede también poner a grabar todo en el horno bien la primera cosa con las que suelen confundir los que por ahí uno en la concentración del parcial no se da cuenta es cuando les preguntan e querían que escriban la ecuación para una onda viajera y ustedes escriben por el seno de cada x x el tema es que los senos y los cosenos no son la ecuación de ondas son la solución de la ecuación de onda la ecuación de onda es la derivada segunda definida xt de respecto de tm que es hoy lo vieron con carlos así que ojo si les dice la ecuación muchas veces se refiere a la ecuación no a la solución de la ecuación que es la de la onda que vieron hoy ustedes que tienen los senos los cosenos bien lo segundo que hay que tener en cuenta es que nosotros en física unos vemos ondas sinusoidales polarizadas planas o sea vemos senos y cosenos para nosotros son senos y cosenos polarizado plano porque están"
 resource: "https://www.youtube.com/watch?v=4UcQiRChACM"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:06:30.345Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:39.341Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

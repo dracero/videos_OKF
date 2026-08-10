@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "Clase practica Física I, curso SP1 2021 07 08 at 15 30 GMT 7"
 description: "Clase de óptica geométrica"
+transcript_summary: "bueno yo voy a bancar con un ejercicio de los que les decía hoy carlos que eran un poco más complicado porque tienen varias superficies pero van a ver que es bastante sencillo bueno en este caso nos dicen que tenemos una esfera de vidrio si nos dan el radio de la esfera y nos dicen cuál es el índice de refracción de esa esfera y lo que tienen como particular esta esfera es que tiene toda una pared digamos que está despejada que es esta que está marcada cada como sombreada sí y nos dicen que se coloca un objeto que tiene 10 centímetros de alto a 80 centímetros de la primera pared de esa esfera y entonces lo que nos piden es que encontremos la posición de la imagen final después después de todas las refracciones y reflexiones que ocurren y que hagamos todos los trazados de rayos que correspondan a cada una de las etapas y que vayamos encontrando también las alturas de las imágenes que obtenemos en cada una de las etapas lo que vamos a hacer es todo en simultáneo digamos para cada etapa vamos a ir resolviendo a based yo sí entienden por qué les estaba pidiendo el"
 resource: "https://www.youtube.com/watch?v=Lj2pUuo6dAE"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:06:30.655Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:39.687Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

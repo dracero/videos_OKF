@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "2023 10 28 20 28 52"
 description: "Trayectoria"
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=RPhXIlXasxA"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:45.235Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:46.738Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

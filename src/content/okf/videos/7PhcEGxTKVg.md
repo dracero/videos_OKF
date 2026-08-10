@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "Looker"
 description: ""
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=7PhcEGxTKVg"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:13.982Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:15.031Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "adsfvwerw"
 description: "sdgwvet"
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=ZYGPMeeCXG4"
 tags: ["xf dth tr"]
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:36.104Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:10.323Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"

@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "samiento"
 description: ""
+transcript_summary: "se desprende el diez diez Quiroga es el que está decíamos casi a la altura de él está especulando si salir con"
 resource: "https://www.youtube.com/watch?v=PmExc4IzMss"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:08.105Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:55.337Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

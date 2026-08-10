@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "2024 01 04 15 20 30"
 description: "Creando Atlas 2"
+transcript_summary: "bueno acá va a ser una serie de preguntas construir un nuevo proyecto para evaluar Por cuánto tiempo Soy nuevo qué va a ser tu proyecto mi proyecto javascript noest qué datos va a usar actividad de usuario y mensajes y custom profile a ver si invero y hacemos clic en Finish bien y [Música] acá vamos a elegir esta que es gratis que es para aprender Y explorar a dónde la vamos a poner en Sao Paulo creo que es lo más cerca sa Paulo en aws Qué nombre le vamos a poner acá le vamos a poner plaster colegio y le damos create y ahí se empieza a crear y acá ya tenemos nuestra base de datos nos dice cómo es que te vas a autenticar porque acá nos dice que tenemos que crear un usuario entonces listo ahí le ponemos 2024 No nos deja generar otra password e creamos el usuario eh dónde te vas a conectar [Música] eh desde mi ambiente local muy bien y ahí ya tengo creada la base de datos Entonces ya me metí a Atlas dentro de Atlas hice todo lo necesario para tener creado mi classter o mi base de datos no es el"
 resource: "https://www.youtube.com/watch?v=WN5oj8nNXss"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:00.682Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:49.256Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

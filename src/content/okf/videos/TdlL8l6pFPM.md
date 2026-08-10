@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "entrenando3"
 description: ""
+transcript_summary: "en todo momento si nosotros queremos ver las frases que creamos vamos a donde dice traer en sis y acá tenemos las frases creadas si hacemos clic vemos que la frase dice que es positiva que no tenemos trades creados bien fíjense que por su aparición mal es difícil acá me dicen que es negativa no hay en hits ni trades pero bien podemos nosotros ir éste creando nuevamente en el standing entonces lo que podemos hacer es ir probando y frases negativas positivas para ver cómo es que clasifica nuestro en nuestro sistema bien como es que clasifica entonces ahora vamos a poner m justo pero vamos a decir que es negativo del curso me gustó le vamos a decir que es positivo nuevamente [Música] el lugar me tradición y 2 y no sé [Música] un día nada bien esta es claramente una una oración negativa [Música] me pareció acuérdense que estamos pidiendo opiniones de cómo le pareció un curso opiniones positivas o negativas me pareció muy bueno fíjense que ahí cuando nosotros le dijimos me pareció muy bueno nuevamente aparece acá ya directamente lo clasifica aunque algunas no las clasifica y nosotros tenemos que ir ayudando no me voy"
 resource: "https://www.youtube.com/watch?v=TdlL8l6pFPM"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:24.717Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:13:01.659Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

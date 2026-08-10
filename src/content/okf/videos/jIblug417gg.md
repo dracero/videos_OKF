@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "2024 02 26 16 12 16"
 description: "Video de RL"
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=jIblug417gg"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:06:14.399Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:19.560Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

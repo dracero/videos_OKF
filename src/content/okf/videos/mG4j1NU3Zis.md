@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "A ver si se dan cuenta??"
 description: ""
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=mG4j1NU3Zis"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:06:05.443Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:59.676Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

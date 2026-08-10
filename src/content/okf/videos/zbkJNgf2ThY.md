@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "Yolo-pose-1"
 description: ""
+transcript_summary: "vamos a ver entonces cómo hacemos para entrenar nuestro propio dataset con Yolo post lo que vamos a hacer ahora es tenemos un pegamento vamos a definir dos puntos para el post estimation de ese pegamento para después poder discernir con nuestro sistema de si es que el pomo de pegamento viene bien orientado o no A partir de poder establecer el ángulo de inclinación con el que viene Entonces lo primero que tenemos que hacer es subir nuestras imágenes podemos subir nuestras imágenes en un video y el mismo programa este fracci el video en fotogramas o podemos subir fotos como hice yo que subí directamente fotos que que le fui sacando a e a un pomo de poxy ran tenemos que ver que el elemento esté en el entorno en el que después lo vamos a detectar para que haga un entrenamiento perfectamente Bueno después acá nos dice que le asignemos a alguien las imágenes yo me las voy a asignar a mí mismo porque soy el único que hay acá van a ver acá porque yo ya las asign pero ustedes van a ver que dicen a quién se las asigno se las asignan a ustedes mismos y acá viene la"
 resource: "https://www.youtube.com/watch?v=zbkJNgf2ThY"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:58.373Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:47.253Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

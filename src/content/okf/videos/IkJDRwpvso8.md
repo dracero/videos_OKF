@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "cursoh2"
 description: " "
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=IkJDRwpvso8"
 tags: ["cursoh2"]
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:06:09.723Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:03.678Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

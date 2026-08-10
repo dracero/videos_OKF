@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "2024 01 14 18 25 40"
 description: "Snake"
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=d5iFQLfAcIA"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:59.634Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:48.721Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

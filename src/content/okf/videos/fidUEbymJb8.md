@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "MVP_hsito_test_qdrant"
 description: ""
+transcript_summary: "Vamos a mostrar el sistema que estuvimos haciendo ayer. Terminamos de armarlo trabajando en conjunto con todos los alumnos para la facultad de medicina. En principio vamos a poner imágenes de tejidos. Le vamos a decir si me podés explicar el tejido de la imagen y ahí vamos a esperar para que nos responda de qué tejido se trata esa imagen. En principio es eso. utilizando un sistema multimodal que es Metalama eh 4, lo que vamos a hacer es e que nos diga el tejido de la imagen. Bien, corresponde a tejido nervioso, específicamente corteza cerebelosa y nos dice la referencia del manual porque estamos haando un manual de estopatología. Vamos a buscar otra imagen. Podes escribir el tejo de la imagen. Entonces ahí buscamos otra imagen. Nos va a describir siempre haciendo rag sobre haciendo rag multimodal sobre el manual de histopatología. Bien. eh identificado corresponde tejido contio especializado especial cartílago yalino. Este cartílago. Bien, entonces acá le voy a decir, bueno, ¿me podés explicar los distintos tipos de tejido cartilaginoso que existen? según el manual, acuérdense que esto lo hicimos a través de un manual de histopatología y ahí me va a devolver los distintos tipos de"
 resource: "https://www.youtube.com/watch?v=fidUEbymJb8"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:09.566Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:09.939Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

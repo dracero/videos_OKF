@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "in stream"
 description: ""
+transcript_summary: "[Música]"
 resource: "https://www.youtube.com/watch?v=4ntNLPefuuM"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:40.157Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:13.425Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"

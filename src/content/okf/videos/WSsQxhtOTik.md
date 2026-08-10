@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "skills"
 description: ""
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=WSsQxhtOTik"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:37.679Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:11.850Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"

@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "TDD"
 description: ""
+transcript_summary: "vamos a mostrar como con la ayuda de Cloud 3.7 sonet dentro de github copilot generamos el test para poder hacer un tdd o sea un test dri and development para probar la interfaz de un chatbot el programa está hecho en react el mod bandler es byte bit en realidad Porque es en francés bit y el e está hecho con lenguaje react typescript qué es lo que nosotros le pedimos primero lo que queremos es que genere el mocap de mensajes para probar que nuestra Api está correctamente configurada y después le pedimos que los que verifique que controle que los controles los botones para interactuar con el chatbot están en la parte posterior de la imagen para qué nos sirve este tdd Para qué nos sirve este test dri driving development nos sirve porque si nosotros ahora queremos shipear nuevos features esos features se van a ajustar al test que nosotros definimos y con eso vamos a lograr industrializar el la generación de código y entre los cambios de developers evitar tener problemas o tener inconvenientes y que cada developer genere algún tipo de cosa distinta en la interfaz del chatbot fíjense que estamos en la parte a donde"
 resource: "https://www.youtube.com/watch?v=MtLsm17pd8I"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:41.763Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:31.442Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "2025 05 16 20 53 15"
 description: ""
+transcript_summary: "Vamos a mostrar cómo podemos utilizar el MCP, el servicio de MCP Server para acceder a la AP de Moodle. En principio acá tenemos un MCP server de ejemplo que creamos dentro del entorno V. Acá tenemos un tool que es para sumar números y acá tenemos el tool que es para conectarse y ver los eventos de el calendario de Moodle. Entonces, lo primero que vamos a hacer es con el inspector probar, con el MSP inspector probar a ver si funciona. Acá vemos que levantó, lo conectamos. Ahí vemos que se conectó. Vamos a tools, list tools. Acá tenemos get mood elevens, run tools. Y, evidentemente acá, evidentemente acá sí funcionó y nos trajo lo que queríamos. Ahora, ¿qué es lo que pasa? Esto lo tenemos que configurar en el MCP. Lo tenemos que configurar en el MCP de Visual Studio para poder usarlo con el agente de Visual Studio. Vamos a File, vamos a Preferenci settings, ponemos MCP, vamos a editar settings y configuramos acá de esta manera el MCP Server que levantamos recién. Fíjense que esta es una API de Moodle. Vamos a ver acá en la página principal a buscar los e eventos de calendario. Acá tenemos vemos que"
 resource: "https://www.youtube.com/watch?v=6BzcS6qmkrw"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:28.251Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:27.981Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

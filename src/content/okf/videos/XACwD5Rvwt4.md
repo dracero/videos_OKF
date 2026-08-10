@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "orquestador_a2a"
 description: ""
+transcript_summary: "Utilizamos la página Bol New. En la página Bol New pusimos un prompt y un back, el código de un backend, y nos generó todos los archivos para crear nuestra interfaz de chatbot. Esta interfaz de chatbot después la bajamos, la instalamos en nuestra máquina y creamos un frontend capaz de dialogar con el backend del protocolo A2A. Entonces, toda la interacción, la registración de agentes, la creación de mensajes, todo lo necesario para utilizar el protocolo A2A, ahora lo tenemos en este backend. a partir del archivo que se generó. Esto es un archivo que se generó enteramente a partir de un prompt y del código de un backend. Acá registramos el agente. Una vez que tenemos el agente registrado, ya podemos empezar a intercambiar mensajes. Inclusive también en la interfaz pusimos la posibilidad de manejar imágenes. Todo esto, todo esto lo generamos primero con bold new, con lo que hicimos la parte inicial y después continuamos desarrollando el código utilizando el eh el agente de el GitHub Copilot en modo agente. Y ese GitHub Copilot en modo agente también le incorporamos una serie de tools a través de su MCP server. Sobre todo algo que nos fue muy útil fue Playright para que"
 resource: "https://www.youtube.com/watch?v=XACwD5Rvwt4"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:25.498Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:26.514Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "CEAD"
 description: " "
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=qX6pNIGDC00"
 tags: ["CEAD"]
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:06:08.380Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:02.378Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

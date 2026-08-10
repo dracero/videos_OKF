@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "Yolo-pose-3"
 description: ""
+transcript_summary: "una vez que nuestro modelo está entrenado directamente lo podemos hacer correr Y utilizando el método Ke Point xi de 0 y de 1 podemos ver las coordenadas xi del top y del bottom Y con estas coordenadas x y lo que podemos hacer es detectar Cómo es la posición y por ejemplo podemos detectar si es que está o no está bien orientado para que continúe en la cinta transpor un ejemplo de mecanismo de [Música] visión"
 resource: "https://www.youtube.com/watch?v=rYu38zQ4zHs"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:57.997Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:46.906Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

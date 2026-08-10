@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "voice_RAG"
 description: ""
+transcript_summary: "E, sí, ¿me podrías decir qué es lo que tengo en la mano y de qué color es? Tienes una taza de color azul en la mano. Bueno, te voy a compartir también un una veo que también está. Qué bien. ¿En qué puedo ayudarte? Bueno, mira, te voy a compartir una ventana. Aguardame que estoy buscando. Eh, claro, tómate tu tiempo. Estoy aquí cuando estés listo. Bien, acá estoy. Eh, tengo este problema, el problema número dos. Eh, y yo no sé si las tensiones en en M2 y en m1 son iguales. Y si no son iguales, ¿no me explicas por qué? En el problema dos, las tensiones en las cuerdas unidas a m1 y m2 generalmente no son iguales. Esto se debe a que la masa m sobre la que se enrollan las cuerdas tiene una masa m y un radio r, lo que introduce una rotación en el sistema y por lo tanto una diferencia en las tensiones entre las masas m1 y m2. ¿Te gustaría que profundice en cómo se calcula la tensión en cada caso? Eh, no, está bien. Y te hago una consulta. El problema 1 a podés leer qué es lo que te está"
 resource: "https://www.youtube.com/watch?v=6PjeEMH8C_U"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:15.993Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:16.505Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

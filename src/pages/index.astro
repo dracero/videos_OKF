@@ -126,14 +126,6 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
         />
         <span class="search-icon" id="search-indicator">🔍</span>
       </div>
-      
-      <!-- Content/Transcript Search Option (only shown for Semantic Search) -->
-      <div id="transcript-toggle-wrapper" class="transcript-toggle-wrapper hidden">
-        <label class="switch-label">
-          <input type="checkbox" id="search-transcript-checkbox" />
-          Buscar en el contenido hablado (transcripciones de los videos)
-        </label>
-      </div>
     </div>
 
     <!-- Tags Filter (only visible in Keyword Search mode) -->
@@ -219,8 +211,6 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
   const tagPills = document.querySelectorAll('.tag-pill');
   const emptyState = document.getElementById('empty-state');
   const lowRelevanceWarning = document.getElementById('low-relevance-warning');
-  const transcriptToggleWrapper = document.getElementById('transcript-toggle-wrapper');
-  const searchTranscriptCheckbox = document.getElementById('search-transcript-checkbox') as HTMLInputElement;
   
   // Grids
   const keywordGrid = document.getElementById('keyword-videos-grid');
@@ -255,7 +245,6 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
       semanticGrid.classList.add('hidden');
       if (semanticLoading) semanticLoading.classList.add('hidden');
       if (lowRelevanceWarning) lowRelevanceWarning.classList.add('hidden');
-      if (transcriptToggleWrapper) transcriptToggleWrapper.classList.add('hidden');
       searchInput.placeholder = "Buscar videos por título, descripción o etiqueta...";
       searchInput.value = '';
       currentSearch = '';
@@ -271,17 +260,10 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
       semanticGrid.classList.remove('hidden');
       if (emptyState) emptyState.classList.add('hidden');
       if (lowRelevanceWarning) lowRelevanceWarning.classList.add('hidden');
-      if (transcriptToggleWrapper) transcriptToggleWrapper.classList.remove('hidden');
       searchInput.placeholder = "Haz una consulta semántica al catálogo (ej: 'proyectos de IA y agentes' o 'tutoriales sobre física')...";
       searchInput.value = '';
       currentSearch = '';
       renderSemanticEmpty();
-    });
-  }
-
-  if (searchTranscriptCheckbox && searchInput) {
-    searchTranscriptCheckbox.addEventListener('change', () => {
-      executeSemanticSearch(searchInput.value.trim());
     });
   }
 
@@ -331,12 +313,9 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
       emptyState.classList.remove('hidden');
       const title = emptyState.querySelector('.empty-title');
       const desc = emptyState.querySelector('.empty-desc');
-      const searchTranscript = searchTranscriptCheckbox?.checked || false;
 
-      if (title) title.textContent = searchTranscript ? "Búsqueda Semántica por Contenido Hablado" : "Búsqueda Semántica con IA local";
-      if (desc) desc.textContent = searchTranscript ? 
-        "Escribe una frase o tema que se mencione en los videos (ej: 'cómo usar Home Assistant' o 'instalación de moodle') para buscar directamente lo que se dice dentro de ellos." : 
-        "Escribe una pregunta o tema de interés sobre educación, inteligencia artificial, Nocode o programación para buscar por su significado conceptual.";
+      if (title) title.textContent = "Búsqueda Semántica Unificada (RAG)";
+      if (desc) desc.textContent = "Escribe un concepto o pregunta (ej. 'videos de home assistant' o 'creación de agentes mcp') para buscar en los metadatos y en lo que se dice dentro de los videos.";
     }
   }
 
@@ -356,8 +335,7 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
       searchIndicator.classList.add('loading-spin');
     }
 
-    const searchTranscript = searchTranscriptCheckbox?.checked || false;
-    const mode = searchTranscript ? 'content' : 'concept';
+    const mode = 'unified';
 
     try {
       const response = await fetch(`/api/semantic-search?q=${encodeURIComponent(query)}&mode=${mode}`);
@@ -370,9 +348,9 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
       }
 
       if (data.success && data.results && data.results.length > 0) {
-        // Evaluate similarity threshold
+        // Evaluate similarity threshold - unified RAG threshold is set to 0.38 for warning
         const highestSimilarity = data.results[0].similarity;
-        if (highestSimilarity < (searchTranscript ? 0.35 : 0.6)) {
+        if (highestSimilarity < 0.38) {
           if (lowRelevanceWarning) lowRelevanceWarning.classList.remove('hidden');
         } else {
           if (lowRelevanceWarning) lowRelevanceWarning.classList.add('hidden');

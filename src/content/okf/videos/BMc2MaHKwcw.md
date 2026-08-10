@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "speak_agent"
 description: ""
+transcript_summary: "Hello. How are you? I am doing well. Thank you for asking. How are you doing today? I'm fine, thank you. I going to turn on my You're welcome. Is there anything specific you'd like to talk about or ask me? Okay, I'll be ready to take a look when you do. Uh, can you tell me what I hold in my hand? Certainly. The item you're holding in your hand appears to be a pair of black JBL headphones. Would you like to know more about them? Is there anything else you'd like to know about the JBL headphones or perhaps another object in the video? No. Okay. I just curious about if you're able to see the TVL in the in the headphones. Okay. Okay. Do you have any questions about the headphones you're wearing? No. Could you find information about uh this institution? This institution? I don't know if you're able to see very well, but Could you tell me? Understood. You'd like to see the JBL logo in the headphones more clearly. Is that right? Okay. Could you tell me information about this institution? Thanks for clarifying. You're interested in getting more information about the institution displayed on the calendar."
 resource: "https://www.youtube.com/watch?v=BMc2MaHKwcw"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:40.509Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:30.223Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

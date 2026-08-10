@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "vibe_coding_1"
 description: ""
+transcript_summary: "Bueno, vamos a mostrar un ejemplo de by coding utilizando la página de Bolt New que utiliza, bueno, como todos saben, chip de Grock. Lo primero que vamos a hacer, ¿qué es? Primero teníamos un protocolo A2A, un orquestador de A2A que funcionaba con @ click con línea de comandos. Lo que hicimos utilizando eh Cloud fue convertir ese A2A de línea de comandos a una API de Ben. Acá lo que tenemos es la API de Ben. Entonces, copiamos el código de este orquestador de API de Baken. ¿Por qué el código del orquestador de API de Baken? Porque este código tiene todos los endints de API necesarios para poder interactuar con el front. Entonces, ¿qué hacemos? Vamos a la página de Bol New, a donde nos tenemos que dar de alta. Acá nos dimos de alta con GitHub, acuérdense, 100% by coding y le decimos si me podés hacer un frontend en Astro para este backend. Y aquí laamos tiene que ser una interfaz de chatbot con los botones para crear sesión, ver historia y un infterf de chat con los botones para crear sesión. Eh, ver historia y nada más para crear sesión y ver historia con el"
 resource: "https://www.youtube.com/watch?v=zCROFoHe7uo"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:23.450Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:24.843Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "0001 0100"
 description: ""
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=oHTjAAmqIJM"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:08.847Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:56.523Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

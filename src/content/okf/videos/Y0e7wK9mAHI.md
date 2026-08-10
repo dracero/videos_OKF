@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "LEVA"
 description: "Grabado con mi teléfono móvil Android. - Captured Live on Ustream at http://www.ustream.tv/channel/leva with the Ustream Mobile App"
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=Y0e7wK9mAHI"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:53.371Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:55.249Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

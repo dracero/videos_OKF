@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "writer_video2"
 description: ""
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=vzIcqt2HzIs"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:43.569Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:34.013Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

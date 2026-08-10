@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "Video de Navidad de Albert Einstein"
 description: ""
+transcript_summary: "Feliz Navidad a todos. Que la paz y la curiosidad los acompañen en estas fiestas."
 resource: "https://www.youtube.com/watch?v=dleKpFGJSe0"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:13.825Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:14.147Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "clideo editor dinamica rigido"
 description: ""
+transcript_summary: "Buenas, buenas a todos los oyentes de Física en Fiuba, el podcast donde intentamos que las ecuaciones no nos ganen por goleada. Soy Sofía y como cada semana estoy lista para bombardear a preguntas al profe Armando. ¿Cómo está, profe? Hola, Sofía. Hola a todos. Con el mate listo y preparado para otro desafío. Hoy nos metemos con un tema que es el pan de cada día en ingeniería, la dinámica del cuerpo rígido. ¡Uf! Tema denso si los hay. Leí la punta del cac cátedra y la verdad me surgieron más dudas que certezas. Para empezar siempre hablamos de puntos materiales y de repente pum, cuerpo rígido. ¿Cuál es la gran diferencia? Es una excelente pregunta para arrancar, Sofía. La diferencia es fundamental. Hasta ahora, con un punto material nos importaba dónde aplicábamos una fuerza, daba lo mismo. El punto se movía y listo, pero un cuerpo rígido, un objeto real como una rueda, una viga o tu celular tiene dimensiones. No es lo mismo empujarlo desde el centro que desde un borde. Claro, si empujo una puerta desde el picaporte, gira. Si la empujo justo donde están las bisagras, no pasa nada. Exactamente. Ahí está la clave. El"
 resource: "https://www.youtube.com/watch?v=9bYF37lwVjE"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:20.599Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:21.531Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

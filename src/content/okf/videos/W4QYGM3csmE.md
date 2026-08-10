@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "Transmisión en directo de DiegoTestDireco"
 description: ""
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=W4QYGM3csmE"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:31.571Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:13:08.836Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

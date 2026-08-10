@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "Jul 18 2018 11 10 AM"
 description: ""
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=f24W0ETEa90"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:40.379Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:14.156Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"

@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "mcp_adk"
 description: ""
+transcript_summary: "Una de las ventajas más grandes y más importantes que tiene el nuevo framework de agente Asienteloperit de Google es que tiene como Building Tool un MCP client. Recuerden que cuando nosotros vamos a construir una aplicación MCP necesitamos tres cosas. El host que se comunica con el MCP client y el server, el MCP server, que es el que recibe las peticiones del MCP client. El MSP client es universal y cualquier archivo de configuración para un MCP Server ya lo conecta. Fíjense que acá lo que tenemos es una carpeta, que es esta carpeta donde yo tengo el programa. Y vamos a limpiar acá para poder hacer una llamada de cero, una carpeta donde yo eh tengo el programa y acá lo que tengo es el MCP client, que está directamente como un MCP tool de la gente, o sea, como un un building tool de la gente. Es algo realmente muy importante y que ahorra muchas horas de trabajo. Vamos a mostrar la versatilidad que tiene ADK acá. Como estoyendo v RAM - M de module adc mp samples punagent que es el nombre de el módulo el que voy a hacer correr. Entonces ahí va a"
 resource: "https://www.youtube.com/watch?v=uzhbFxmJcLM"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:22.949Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:24.051Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

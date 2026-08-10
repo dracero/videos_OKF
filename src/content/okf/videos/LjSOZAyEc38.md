@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "ParaCEAD"
 description: "Test para prueba desde el cead"
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=LjSOZAyEc38"
 tags: ["Test"]
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:32.850Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:13:10.213Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

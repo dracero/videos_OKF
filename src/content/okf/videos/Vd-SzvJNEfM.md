@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "Emisión en directo de Diego Racero"
 description: ""
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=Vd-SzvJNEfM"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:49.941Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:51.781Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

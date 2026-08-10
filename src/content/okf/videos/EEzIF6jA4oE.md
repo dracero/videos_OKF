@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "chatbot_01"
 description: ""
+transcript_summary: "vamos a hacer una pregunta en el chatbot que sabemos que el chatbot contesta Como por ejemplo como hago para calcular potencia Ahí va a buscar ahí encontró pudo interpretar que le estábamos preguntando nos dice cómo hago para calcular potencia y a su vez nos da links si ahora le pregunto que es el cir bien ahí le pregunté Qué es el sir y me dice no entiendo tu pregunta en realidad una de las particularidades que tiene la red lstm es que es pierde rápidamente el contexto es muy dependiente del contexto y depende de cómo nosotros formemos formulemos La pregunta es que va a contestar o no por ejemplo si yo le pongo en un cuerpo rígido ahí le estoy ayudando a tomar el contexto Qué es el cir hay pudo darme una respuesta pero pudo darme una respuesta porque yo ayudé a la red a que tomara el contexto"
 resource: "https://www.youtube.com/watch?v=EEzIF6jA4oE"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:09.472Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:56.685Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "2023 11 18 22 05 27"
 description: ""
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=3D-zQk-9rfw"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:02.333Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:51.301Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

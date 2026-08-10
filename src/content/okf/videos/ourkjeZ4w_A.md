@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "2023 10 23 21 33 28"
 description: "Midas depth"
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=ourkjeZ4w_A"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:46.053Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:47.426Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

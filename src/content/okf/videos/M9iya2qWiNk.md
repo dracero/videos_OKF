@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "pucks_1"
 description: ""
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=M9iya2qWiNk"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:03.707Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:52.840Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

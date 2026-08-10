@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "dfsav"
 description: "d ervtr"
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=64Re1CU9rXs"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:51.148Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:53.076Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

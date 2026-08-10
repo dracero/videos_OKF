@@ -2,9 +2,10 @@
 type: YouTube Video
 title: "Transmisión en directo"
 description: "Esto es para la transmisión"
+transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=9lRV_vQJv3s"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:21.347Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:59.125Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
