@@ -5,7 +5,7 @@ description: "Este es un evento de prueba"
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=OLlsXKP1h0E"
 tags: ["Diego"]
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:13:10.765Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:34:09.792Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

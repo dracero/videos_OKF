@@ -5,7 +5,7 @@ description: "Ponete en contacto con nosotros, tenemos un presupuesto adaptado p
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=3UTabO8uSlY"
 tags: ["#marketingdigital #publicidadonlie."]
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:53.658Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:34:18.894Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

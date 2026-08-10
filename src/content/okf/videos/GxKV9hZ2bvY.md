@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Bueno, ahí finalmente eh vamos a volver a la imagen anterior a ver si Bueno, van a ver el video qué es lo que sucede. No sé por qué motivo. Cuando ah, cuando yo hice la extracción de la imagen, no copié la imagen entera y Colpali es muy preciso. En general, todos son muy precisos y tiene una gran parte negra y esa tenía partes blancas y dijo que no estaba en base de datos. Eh, ahora si le digo, podés explicar el tejido de la imagen. El problema es el fondo negro. Se necesita la imagen completa porque todos los sistemas lo que hacen es recorren la imagen completa y son muy precisos, sobre todo este particularmente que no usa en beding, sino que él mismo lo genera. Es muy preciso, muy preciso con el e con las imágenes. O sea, va a contestar bien toda la parte de texto y demás, pero cuando yo quiero que responda sobre imagen, acá responde, ¿ven? Es esófago. Bien, o sea, ahí respondió perfecto. Pero, ¿por qué? Porque antes faltaba toda esta parte negra. Lo ideal, les voy a volver a mostrar la imagen siguiente. Lo ideal es que las imágenes no tengan"
 resource: "https://www.youtube.com/watch?v=GxKV9hZ2bvY"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:09.500Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:03.663Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

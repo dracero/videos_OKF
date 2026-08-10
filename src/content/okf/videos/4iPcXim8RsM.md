@@ -5,7 +5,7 @@ description: "En este video mostramos cómo hacer la búsqueda con similaridad d
 transcript_summary: "lo que vamos a ver ahora es Cómo hacer Tenemos un video que dura 2 horas que es un video de Marcelo Fontana a donde explica distintas cosas de trabajo y energía y dinámica de el cuerpo rígido lo que hicimos ya e generamos en nuestra base de datos qdb ahí los embeddings y a esos embeddings de eh el transcript asociamos el Start Time Entonces ahora lo que vamos a hacer es generar un query a donde pongo que tengo que calcular el trabajo de un cuerpo rígido en rotación y no me doy cuenta cómo Entonces generamos el e el query a la base de datos eh hacemos ejecutamos el algoritmo de similaridad y ese algoritmo de similaridad nos va a dar un starttime a donde se está hablando de el trabajo de rotación eh acá cargamos el ID del video y ahora generamos con eso acá nos dice el momento en donde va a empezar Acá hacemos el enid de ese video y acá vemos el video del profesor Marcelo Fontana y vamos a ver si efectivamente nos ha enviado al e instante correcto calcular el trabajo en la rotación no Y ese trabajo en la rotación por lo que"
 resource: "https://www.youtube.com/watch?v=4iPcXim8RsM"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:18.009Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:24.898Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

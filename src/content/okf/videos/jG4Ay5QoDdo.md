@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Bueno, ahí en principio hay un agente saludador que es el que me dijo hola. Ahora si yo le pongo quiero generar una rúbrica, ahí me da para que suba el documento normativo. Entonces yo voy a buscar acá el documento normativo, que es un documento que inventé yo. Y digo que es acá tengo, profesor alumno grado, posgrado, personal de gestión. digo que es para un alumno de posgrado y le pongo generar rúbrica y ahí empieza a trabajar a generar la rúbrica. ¿Qué es lo que hace? Tiene un orquestador. El orquestador está este es la herramienta VI y ese orquestador lo que hace es eh decide cuál de estos agentes es el que tiene que hacer la rúbrica. Acá sería el agente generador. Si lo saludo va a ser el agente saludador. Está usando el protocolo Agen to Agen y el orquestador orquesta a eh todos los agentes y esto cada agente levanta como un microservicio, o sea, que podría escalar y tener más generadores, más orquestadores. Acá ya generó la rúbrica, entonces la descargo. Ahora le pongo, \"Quiero evaluar un documento eh por ahora tiene un solo evaluador. Si hay que son distintos tipos de documentos, podríamos poner o lo ideal"
 resource: "https://www.youtube.com/watch?v=jG4Ay5QoDdo"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:11.035Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:05.204Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "entonces acá ya tenemos el intento que es rodadura ahora tenemos que buscar un grupo de texto libre y para palabras claves que se puedan asociar al entity entonces acá por ejemplo el cuerpo rígido está rodando sin deslizar y en en la superficie sobre la cual se mueve el índice de rozamiento se hace cero o podemos hacer directamente cuerpo rígido que está rodando sin deslizar entonces acá elegimos cuerpo rígido no vamos a poner acá cuerpo rígido que está rodando sin deslizar y el índice de rozamiento se hace cero sólo a las palabras bien entonces nosotros habíamos dicho que el inti el inta el inti se llamaba percusión bien sin acento por supuesto ahí lo puse con acento entonces elegimos cuerpo rígido ahorrando sin deslizar y el índice de rozamiento se hace cero entonces acá nos da para crear el nuevo en tití le ponemos percusión en que no existe porque si existe me sale esto y hago la creación del ente entonces a esta entidad le puse percusión el rol era en ancón porque es por la velocidad angular constante entonces acá voy a crear el roll an [Música] const y pongo crear el rol y el trade el"
 resource: "https://www.youtube.com/watch?v=Oy5ch8VR6b0"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:28.577Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:34.600Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

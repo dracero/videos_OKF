@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "bien entonces una vez que termina de hacer la copia de seguridad fíjense que acá tenemos la fecha que es el día cuando se hizo el vídeo martes 15 de junio del 2 6 y fíjense que pesa tan sólo 960 mil que ahora vamos a hacer descargar y tenemos ese archivo ya descarga entonces ahora vamos a salir de acá vamos a ir a una instalación demo del local para poder hacer la restauración del archivo s en una instalación de mother de móvil local vamos a ir entonces a vamos a ir entonces a la máquina donde tenemos nuestra instalación local de moodle para hacer la restauración localhost vamos a lograr esto recuerden que esta parte localhost en mi máquina local ya no me estoy conectando a internet restauración entrar al curso y acá tengo que elegir el rector entonces acá que el hijo rector me va a poner que suba un backup file entonces acá lo que hago es subo el backup file que ha bajado el que empezaba casi me iba bien fíjense que prácticamente habíamos sacado todo y pesaba casi un giga y acá bueno vamos muy rápido porque estamos hablando de que acá está"
 resource: "https://www.youtube.com/watch?v=bniQRmA0dfM"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:40.374Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:44.327Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

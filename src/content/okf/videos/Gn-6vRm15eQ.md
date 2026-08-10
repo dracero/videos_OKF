@@ -5,7 +5,7 @@ description: "Visita https://www.roalvarez-psi.com ¡para descubrir más!"
 transcript_summary: "[Music] and i'm just trying to tell you [Music] and i'm just trying to tell you [Music]"
 resource: "https://www.youtube.com/watch?v=Gn-6vRm15eQ"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:08.040Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:49.189Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"

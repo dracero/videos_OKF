@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Ahora, cómo eh manejar, cómo conectarse desde la app. Bien, acá estoy abriendo la app. Dejistan. Ahí vamos a guardar. Justo toqué donde no tenía que tocar. Ahí la voy a abrir. Vamos a esperar un rato. Va a buscar. A ver este. Bien. Acá, ¿qué es lo que me dice? Dice, \"No me puedo conectar. Ha ocurrido un error porque yo hice un cambio de IP y demás. ¿Qué voy a hacer ahora? Voy a configuración. Bien. Eh, le voy a dar añadir servidor y ahí está buscando. Fíjense, acá encontró. Le doy conectar. Acá me pide el usuario. Le voy a poner el mismo usuario que la otra vez y la contraseña y le doy iniciar sesión. Aguárdenme que me equivoqué en la contraseña. Acá le pongo que lo guarde. Bien, me pide una serie de cosas por defecto. Compartir mi ubicación. Menos seguro. Ese siempre conviene. Bien. Y acá está. Fíjense, está por ejemplo living y acá en el living puedo ver la cámara que cargué recién y en general todo lo que le voy a sacar el sonido, todo lo que se hace desde la web se puede hacer desde esta app. Fíjense como me conecté"
 resource: "https://www.youtube.com/watch?v=2utLINfHNfw"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:06.208Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:59.687Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

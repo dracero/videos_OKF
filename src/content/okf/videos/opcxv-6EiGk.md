@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "lo que hicimos ahora es hacer unos cambios para poder utilizar google drive en principio cuando nosotros querramos a acceder ahora nos aparece este botón de google es decir ahora vamos a poderlo guiarnos con google y otra cosa que hicimos aparte de habilitar la posibilidad de lograrse con google fue habilitar la api de google drive para que para poder usar google drive como uno de los tantos repositorios de archivos que tiene google creamos un alumno que va a entrar con el mail de feedback pero miren ahora vamos a entrar como administrador y hacer lo mismo que habíamos hecho la vez pasada de subir un archivo muy pesado antes que nada vamos a ver la carpeta mulata como estuve haciendo algunas pruebas aumentó un poco está en 43 7 mega de tamaño entonces ahora vamos al curso vamos a activar edición añadir un recurso o actividad y vamos a subir un archivo y acá archivo bien entonces le vamos a poner prueba archivo fíjense que ahora cuando clic en link para archivos están los repositorios de siempre pero a su vez me aparece google drive entonces me voy a lograr acá a google drive solamente claro acepta mail esquiva me"
 resource: "https://www.youtube.com/watch?v=opcxv-6EiGk"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:34.193Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:37.524Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

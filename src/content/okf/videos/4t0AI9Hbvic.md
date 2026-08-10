@@ -5,7 +5,7 @@ description: "Dedicado para aquellos que desean comenzar con el armado de su pro
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=4t0AI9Hbvic"
 tags: ["frontend developer", "diseñoweb", "publicidad online", "desarrollo web"]
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:13:03.809Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:34:02.757Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

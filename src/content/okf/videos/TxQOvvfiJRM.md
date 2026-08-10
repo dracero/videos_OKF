@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Da kann man wirklich sehen, wie das Gebäude später aussehen wird. Sehr beeindruckend."
 resource: "https://www.youtube.com/watch?v=TxQOvvfiJRM"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:25.813Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:21.395Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

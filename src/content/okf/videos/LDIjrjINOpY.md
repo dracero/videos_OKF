@@ -5,7 +5,7 @@ description: " "
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=LDIjrjINOpY"
 tags: ["Angry", "Birds", "short", "frame"]
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:01.483Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:34:24.076Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

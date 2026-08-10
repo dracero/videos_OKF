@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Cómo creamos un proyecto de wireframing en miro bien primero desde la web de miro una vez que nos dimos de alta con nuestro email hacemos clic en New y una vez que entramos al Board cuando nos dice qué templates Qué modelo queremos usar acá vamos a poner wireframing [Música] bien y acá nos aparecen los distintos tipos de wireframing que tienen nosotros ahora vamos a empezar con Website Wi framing hacemos clic en use template y acá ya tenemos un modelo armado acá podemos aumentar si hacemos dos veces clic nos aparece el icono de mano y podemos viendo mejor bien acá podemos aumentar o achicar los zoom con el icono de manos vamos buscando y acá ya tenemos todo lo necesario para empezar a trabajar en nuestras páginas fíjense que lo que yo estoy viendo que es estoy viendo cómo va a ser la página y toda la página entera que el la persona que entre usuario va a ver haciendo scroll bien entonces con esto ya podemos empezar a hacer nuestro diseño a partir de los requerimientos de las cosas que nosotros tenemos pensadas podemos empezar a hacer el diseño y todos estos elementos son sobre los que después"
 resource: "https://www.youtube.com/watch?v=FE6z2_TWixA"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:45.680Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:42.746Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

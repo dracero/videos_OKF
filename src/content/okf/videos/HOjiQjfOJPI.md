@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "[Music] and i'm just trying to tell you [Music] and i'm just trying to tell you [Music]"
 resource: "https://www.youtube.com/watch?v=HOjiQjfOJPI"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:13:03.054Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:34:01.988Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

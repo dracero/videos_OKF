@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "[Música] prueba la nueva línea de hierbas serranas cachamate con hierbas 100% naturales [Música] te hace bien a la Argentina las amarillas sábado 10 de julio anticipadas.com.ar sábado 10 de julio estadio Luna Park produce minoría necesaria [Música] bienvenida a este mundo cruel y maravilloso zapatitos de cristal un príncipe azul Ya vendrá ratoncitos lo traerán hoy te reciben en casa [Música] [Aplausos] [Música]"
 resource: "https://www.youtube.com/watch?v=T-LOtuj8XPw"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:55.471Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:54.655Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

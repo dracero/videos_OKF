@@ -5,7 +5,7 @@ description: "awda"
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=xPQWhJfUG_8"
 tags: ["werxd"]
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:16.412Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:58.141Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"

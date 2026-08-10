@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "vamos a pedirle a github copilot que haga un cambio le vamos a decir que busque este mensaje y que lo cambie por bienvenido sarafi entonces queremos eliminar este mensaje y reemplazarlo con el efecto gradiente y [Música] siendo bien le vamos a poner en mayúscula Bienvenidos a la fiba entonces ahí le estamos pidiendo que cambie ese mensaje y que con el efecto gradiente ponga Bienvenidos a la fiba fíjense que él como es un rag agentic él hace todo el trabajo de localizar el archivo y hacer el recoding o sea está chipando un nuevo feature de nuestro programa sin que nosotros hagamos nada y sin que tampoco hayamos entendido demasiado el código bien entonces ahí dice qué es lo que va a cambiar cosas que tiene que sacar otra que tiene que poner lo guardamos guarden acá sa ahí ya lo guardamos bien perfecto y acá aparece Bienvenidos a la fiuba"
 resource: "https://www.youtube.com/watch?v=xI0gGURSytY"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:31.603Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:27.912Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

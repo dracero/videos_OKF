@@ -5,7 +5,7 @@ description: "Tutorial de marketing digital"
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=pycyJesnLcI"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:09.020Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:49.959Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"

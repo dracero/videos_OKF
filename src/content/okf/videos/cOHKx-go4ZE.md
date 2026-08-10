@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "¿Cómo hacer para poder acceder a los apuntes de la página de cátedra? Hacen clic en su foto, van a donde dice perfil, acá dentro del perfil van a donde dice editar perfil. Acá van hasta abajo de todo, donde dice opcional, a donde dice institución, acá escriben Fuba y hacen clic en actualizar información personal y con eso ya los va a dejar bajar eh todos los apuntes."
 resource: "https://www.youtube.com/watch?v=cOHKx-go4ZE"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:10.849Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:05.028Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

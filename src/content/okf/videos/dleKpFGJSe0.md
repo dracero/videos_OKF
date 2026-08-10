@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Feliz Navidad a todos. Que la paz y la curiosidad los acompañen en estas fiestas."
 resource: "https://www.youtube.com/watch?v=dleKpFGJSe0"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:14.147Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:08.546Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

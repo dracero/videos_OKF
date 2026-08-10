@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Bueno entonces si tenemos un problema donde queremos modificar [Música] las entitis tenemos que entrar a white y ahí dentro de wite y ahí vamos a seleccionar el proyecto que en nuestro caso sería clement 3 vamos al tercer icono que está acá que es management y acá tenemos intención y trades en general los que más vamos a tener que cambiar son los entitis hacemos clic ahí buscamos si hay alguno con el que tuvimos problemas que vemos que no está cambiando adecuadamente o que está generando conflictos porque tiene muchas palabras buscamos y acá vemos todos los sinónimos que tienen los keywords y todos los sinónimos entonces acá podemos escribir escribir un sinónimo ahí agregamos un sinónimo más y agregamos una frase más al entity Y si queremos y está de más lo podemos borrar de esa manera y no hace falta bordar nada listo ahí ya quedó listo para que lo probemos"
 resource: "https://www.youtube.com/watch?v=Kb7qWbjWkNo"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:21.351Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:28.996Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

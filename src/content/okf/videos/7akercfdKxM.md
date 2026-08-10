@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Hola a todos y bienvenidos a Física en Foco. Soy su anfitrión Diego y hoy tenemos el placer de contar con un experto en la materia, Marcelo Funtana, para desglosar un tema fundamental, la cinemática. Marcelo, qué bueno tenerte aquí. Gracias por la invitación, Diego. Un placer estar con ustedes y hablar de física. Marcelo, empecemos por lo básico. En el video se menciona algo crucial para describir el movimiento, el sistema de referencia. ¿Qué es y por qué es tan importante? Claro, Diego. Imagina que quieres describir dónde está un objeto. Necesitas un punto de partida, un origen y unas direcciones para orientarte, como un eje X y Z. Eso es un sistema de referencia. Sin él no podemos definir la posición de nada. El vector posición, que es una flecha que va del origen de nuestro sistema hasta el objeto, nos da la ubicación exacta de la partícula en cada instante de tiempo. El lugar geométrico de todos los puntos que son alcanzados por el vector posición es la trayectoria. ¿Entendido? Ahora, hablemos de la velocidad. A menudo escuchamos sobre velocidad media e instantánea. ¿Cuál es la diferencia? Buena pregunta. La velocidad media es el desplazamiento total dividido por el tiempo que tardó"
 resource: "https://www.youtube.com/watch?v=7akercfdKxM"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:23.893Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:19.328Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

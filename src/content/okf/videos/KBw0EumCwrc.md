@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Dale campeón, dale campeón."
 resource: "https://www.youtube.com/watch?v=KBw0EumCwrc"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:12.108Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:06.629Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

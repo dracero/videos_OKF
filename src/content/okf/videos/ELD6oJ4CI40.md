@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "utilizamos aut Shin y el algoritmo reflection incluido dentro del framework autoin para realizar el análisis minucioso y exhaustivo de la resolución de la creación de una carrera después de haber identificado los actores haber identificado las responsabilidades haber establecido los roles al final de todo nos da un análisis de este documento basado en las resoluciones existentes en la universidad de Buenos Aires el análisis con autoin nos es muy útil Porque no solo sirve para descubrir algún tipo de Gap legal sino que también nos sirve para descubrir aquellas aquellas cosas que no se ajustan a la normativa vigente"
 resource: "https://www.youtube.com/watch?v=ELD6oJ4CI40"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:38.394Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:34.754Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

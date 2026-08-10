@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "para poder usar como Hosting el Office 365 en realidad vamos a ver cómo hacerlo para guardar imágenes y poner esas imágenes en nuestros documentos html y cómo usarlo como Hosting de archivos nos logueamos como siempre a en el portal de Office 365 y entramos con el usuario notificación @c bertran russell.com hay que tener en cuenta que tenemos un tera de espacio en onedrive ahí la flecha nos señala el icono de onedrive hacemos clic dentro del icono del onedrive una vez que estamos dentro del icono del onedrive fíjense ahí donde están los menús de la flecha podemos crear una nueva carpeta y justo a la izquierda tenemos para eh hacer el upload de archivos si es que no va ser un archivo en Word en Excel en Powerpoint que son los archivos que sí ya tiene el Office 365 y los podemos crear con New creamos una nueva carpeta y podemos subir una imagen en este caso Yo subí una imagen que se llama image 1 hacemos clic donde dice image 1 y lo que vamos a hacer es abrir la imagen una vez que abrimos la imagen arriba a la derecha tenemos el menú sh"
 resource: "https://www.youtube.com/watch?v=Mt4VWNfGcv4"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:55.613Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:34:20.556Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

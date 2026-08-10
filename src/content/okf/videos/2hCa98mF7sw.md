@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "una vez que el archivo subió hacemos clic en el botón restore para comenzar con la restauración del curso recuerden que como es un archivo de casi un giga va a tardar mucho en el poder porque es un archivo de casi un giga porque está lleno de las imágenes que nos van dejando los alumnos bien ya tenemos el archivo qué bajo fíjense que lo que tenemos son los usuarios estaban escritos en el plus en el curso y recursos y este a siemens que son las tareas porque en definitiva el parcial que nosotros vamos a recuperar es una tarea y acá dice que lo único que tiene es el primer parcial los restaurants se restauran la tarea en este curso o los restaurants dentro de un curso existente que no es esté acá yo voy a elegir restaurarlo el en este curso pongo continuar lo que quiero incluir le pongo que si es todo lo que tiene que la quería el esquema si voy y si quiero mantener el nombre o lo quiero sobreescribir si quiero mantener el orden y lo quiero sobre vivir el momento en que inicia es sobreescribir configuration si quiero importar esto con los datos de usuarios"
 resource: "https://www.youtube.com/watch?v=2hCa98mF7sw"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:40.571Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:44.507Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

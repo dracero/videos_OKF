@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "bueno saben cómo son los tubos de orégano no me acuerdo si julián les explico o les contó cómo podrían ser los tubos de un órgano hicimos una recién ejercicio nos decimos cerrados o abiertos por un extremo clara ver los tubos de órganos son siempre son abiertos en un extremo sí que es por el extremo y hago que se les sople al aire y en el otro extremo pueden ser abiertos o cerrados entonces las opciones son tener un tubo vamos a es que matizarlo así muy sencillo no son tan simples como esto pero una opción es que el tubo se ha abierto a los dos extremos y la otra es que sea con un extremo abierto y unos cerrados y entonces nosotros lo que tenemos que hacer es plantear los dos casos sí y de para cada caso qué longitud debería tener el tubo si considerando que esta es la frecuencia fundamental cómo serían las ondas siglos y dónde estarían ubicados los nudos de desplazamiento y los vientres en cada uno de los casos verificar eso o determinar lo para los dos primeros armónicos sí y ver cómo varía justamente la frecuencia en cada caso por ejemplo con la longitud del"
 resource: "https://www.youtube.com/watch?v=RtTxlPj1l-k"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:38.578Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:42.402Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

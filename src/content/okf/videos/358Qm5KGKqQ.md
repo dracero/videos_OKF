@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "bueno como la idea que tenemos es la de construir un agentic rag lo que vamos a hacer como ya tenemos una aplicación de rag que responde sobre las consultas de materias que es un rag multimodal y una aplicación de rag que responde sobre consultas administrativas que es un graf rag lo que hacemos ahora es definir un agente un Crew de Crew Ai que posee tres agentes un agente se va dedicar a clasificar si la consulta es una consulta administrativa o una consulta técnica que le llamamos no administrativa Entonces si la consulta es administrativa va a disparar al agente administrativo que va a llamar para responder la consulta administrativa Y si la consulta es una consulta técnica va a llamar al agente técnico que tiene a a su cargo responder todas las dudas de materias o que va a ir al graf rack de materias Perdón al rack multimodal de materias y el otro va a ir al gras rack bien Vamos a darle entonces acá le pregunto cómo hago para cursar dos carreras al mismo tiempo lo único que queremos que la gente clasifique y mande el tópico al agente administrativo que ese tópico es el que después va a ir al"
 resource: "https://www.youtube.com/watch?v=358Qm5KGKqQ"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:40.802Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:37.157Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

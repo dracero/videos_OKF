@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Bueno estamos viendo acá cómo trabaja nuestro webcrawler acá hicimos un webcrawler con crow for Ai que tiene la función de hacer un cowling de toda la página de donde está la documentación del programa Astro y guardarlo en un archivo de texto vamos a mostrar después para qué usamos este archivo de texto pero este archivo de texto es la manera de crear un desarrollador senior a través de un web scrap"
 resource: "https://www.youtube.com/watch?v=CImCnqJ_Flk"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:34.191Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:30.407Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

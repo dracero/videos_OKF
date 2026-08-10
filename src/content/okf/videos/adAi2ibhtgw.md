@@ -5,7 +5,7 @@ description: "Tutorial de uso de aske"
 transcript_summary: "para poder registrarnos lo primero que tenemos que hacer una vez que pusimos esta url en la barra de exploración es hacer clic donde dice registrarse acá ponemos nuestro nombre y acá ponemos nuestro apellido acá decimos el rol si somos alumnos o docentes en este caso docente el legajo no lo controla pueden poner cualquier cosa cargo el cargo que tienen la materia física 1 y el email necesariamente tiene que ser un email de figura acá ya aparece automáticamente ciudad y cuando hacemos clic en validar correo acá nos aparece en el correo lugar y ahí vamos a validar el correo perfectamente hacemos clic en crear cuenta y queda creada la cuenta una vez que la cuenta está creada hacemos clic en e ingresar hacemos clic en ingresar ponemos que somos docentes hacemos clic en validar correo ponemos el correo con el que nos dimos de alta acá nos dice que vamos a iniciar sesión con la cuenta diego rasero le decimos que si iniciar sesión y acá ya entramos para poder crear nuestro primer cuestionario para crear un cuestionario hacemos clic en el botón de más acá le ponemos un nombre tema elegimos un cuatrimestre hacemos clic en"
 resource: "https://www.youtube.com/watch?v=adAi2ibhtgw"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:44.207Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:48.127Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

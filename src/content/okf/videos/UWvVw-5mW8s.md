@@ -5,7 +5,7 @@ description: "En este video muestro cómo usar el sistema de proctoring Autoproc
 transcript_summary: "bueno y vamos a ver como loguearnos al auto productor lo primero que tenemos que hacer es ir a este lugar auto productor punto cero y acá hacemos clic en login elegí lo vi arme con google bueno para mí es más sencillo uno se puede lograr en forma manual o también se puede dar de alta con una cuenta de microsoft la pongo sol y password de google y lo siguiente que va a hacer es mandarme para que confirme que soy yo y confirme que soy yo bueno ingrese bien entonces ahora una vez que ingresé que voy a esta pantalla de inicio al home desde el home lo que yo voy a hacer es crear un nuevo examen desde acá entonces vamos a crear un nuevo acá me pregunta si va a ser un examen de google uno de microsoft o otro acá yo le voy a poner que va a ser otro el título le vamos a hacer la url acá en el foro url y le vamos a poner esta dirección esta url esta url no es otra cosa que la url de el cuestionario del examen que van a tener que hacer los alumnos"
 resource: "https://www.youtube.com/watch?v=UWvVw-5mW8s"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:48.868Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:34:13.982Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

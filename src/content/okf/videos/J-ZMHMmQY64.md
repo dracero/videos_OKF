@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "can you see my screen yes I can see your screen it shows a website called campus with different physics topics yes it h it is a model platform and um I want to change the the one of the groups that I made that I made with my students I have eight students in a group and I need 10 student for group uh could you help me to perform that action okay I see you have a module platform and you want to change the number of students in one of your groups from 8 to 10 is that correct yes that's correct okay I understand unfortunately I'm unable to directly interact with the website or make changes to the number of students in your group however I may be able to assist you if you tell me what steps you need to take to make this change yes I need to um to find where to change the the group numbers I don't know where is the the the groups okay you're trying to find where you can change the number of students in a group but you are not sure okay do you see any menu items on"
 resource: "https://www.youtube.com/watch?v=J-ZMHMmQY64"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:36.452Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:32.685Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

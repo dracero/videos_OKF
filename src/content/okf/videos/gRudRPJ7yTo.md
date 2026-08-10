@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Bueno, vamos a ver el funcionamiento de un tutor virtual. Hola, ¿cómo estás? Eh, bien. Mira, ¿me podés decir de qué color y qué es lo que estoy sosteniendo en la mano? Eh, sí. ¿Qué es? Eh, no, no, no. Te pregunté que qué es qué es lo que tengo en la mano. Sí, quiero ver si podés resolver un problema de física o me ayudas. ¿Ves acá el problema 28? A este dispositivo cómo se lo llama. Sí. Yo quiero que me digas si durante el choque se conserva la el vector cantidad de movimiento, es decir, en el eje vertical y en el eje horizontal. Ah, perfecto. O sea, que de plantear la conservación de la cantidad de movimiento durante el choque, solamente lo puedo hacer en el sentido horizontal. Eh, sí. ¿Cómo puedo hacer para hallar la velocidad? Eh, ¿qué qué? sem. No, no, perfecto, ya me voy dando cuenta. Te agradezco muchísimo."
 resource: "https://www.youtube.com/watch?v=gRudRPJ7yTo"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:18.037Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:12.857Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

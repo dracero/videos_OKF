@@ -5,7 +5,7 @@ description: "Creando Atlas video 1"
 transcript_summary: "vamos a ver cómo crear un usuario de Atlas vamos a poner en el buscador Atlas acá nos manda Atlas database empiece gratis regístrese con Google me voy a registrar con Google acepto los términos de privacidad admite"
 resource: "https://www.youtube.com/watch?v=Y9IfFJRmtLA"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:49.059Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:46.544Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

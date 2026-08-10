@@ -5,7 +5,7 @@ description: "Esto es una prueba."
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=RBV7VFsAR0k"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:37.243Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:40.930Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

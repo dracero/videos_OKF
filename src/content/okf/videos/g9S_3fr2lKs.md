@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "fíjense que las tareas ciertas tareas están vinculadas a algo que se llama la épica la épica sería como un título que engloba todas esas tareas por ejemplo el taller de h5p el taller de iones educativos está en talleres regulares Entonces cuando nosotros vamos al cronograma las tareas van a estar agrupadas por Epic bien acá tenemos talleres regulares y acá en talleres regulares nos aparecen todas las tareas que se están desarrollando para tareas regulares y acá sobre qué Sprint se están desarrollando arma lo que sería el gant pero lo arma en forma automática a partir de las definiciones que vamos haciendo Nosotros bien acuérdense todos ustedes pueden crear tareas y vincularlas si lo estiman necesario y Acuérdense que los sprints son de tres semanas y todo lo que se no se termina en tres semanas pasa de un Sprint al siguiente y hay que escribir por qué es que se pasa"
 resource: "https://www.youtube.com/watch?v=g9S_3fr2lKs"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:47.426Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:44.757Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

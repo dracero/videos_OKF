@@ -5,7 +5,7 @@ description: "En este video puede verse cómo funciona y lo que tenemos que solu
 transcript_summary: "Primero vamos a ver cómo funciona nuestra aplicación. ¿De qué aplicación estamos hablando? Estamos hablando de un chatbot multiagéntico. ¿Cómo está compuesto este chatbot multiagéntico? En principio tiene un orquestador. Ese orquestador recibe la consulta utilizando el protocolo A2A. En función de esa consulta se comunica con alguno de los agentes y el sistema multiagente lo que hace es hace ragéntico para poder hacer la recuperación de contenido y darle la respuesta a la consulta que hace el usuario. Lo primero que estamos viendo, ¿qué es? El usuario le dice, en este caso el estudiante si le puede explicar la ecuación de Bernoul. le dice que quiere una explicación detallada y si es posible haciendo mención a los conceptos matemáticos porque ecuación cuadrática me cuesta mucho. O sea, acá no solamente le está pidiendo que le eh explique un tema particular de física, sino que le dice que le cuesta mucho ecuación cuadrática. ¿Qué es lo que va a hacer entonces? El orquestador recibe el query. A partir del que el orquestador recibe el query sabe que tiene que contactar al sistema multiagente especializado en física. Como lo sabe bien, porque cuando eh en el protocolo A2A se presentan los agentes, tienen"
 resource: "https://www.youtube.com/watch?v=-EydMnNrRWg"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:07.129Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:00.883Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

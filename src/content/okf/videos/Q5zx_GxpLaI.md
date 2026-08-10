@@ -5,7 +5,7 @@ description: "Este es el problema del deslizador"
 transcript_summary: "no nos vamos a poner a analizar las fuerzas que actúan sobre el bloque porque no nos hacen falta para la resolución de nuestro problema el problema nos pide hallar la aceleración máxima para que el hombre no se deslice sobre la plataforma entonces hombre y plataforma se van a deslizar hacia la izquierda con la misma aceleración como podemos ver en la siguiente i al an"
 resource: "https://www.youtube.com/watch?v=Q5zx_GxpLaI"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:00.691Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:34:23.380Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

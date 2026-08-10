@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "creamos con crei un sistema multiagente formado por dos agentes primero definimos que íbamos a utilizar agentes Crew Ai después definimos una herramienta que va a ser una herramienta de búsqueda que es exa y lo que hicimos también fue definir una Api de groc que puede emular a la forma que tiene Open Ai para no tener que usar Open Ai como llm de agente de Crew Ai y utilizar groc lo que le dijimos a exa que es el tool que va a realizar la búsqueda es que busque explícitamente en el documento de doble diplomatura con Francia de la Universidad de Buenos Aires de la facultad de ingeniería acá es donde creamos la herramienta y le decimos que busque específicamente en ese lugar el nombre de la herramienta Es muy importante porque con eso va a saber el llm que tiene que usar bueno en este caso tenemos una sola acá definimos el modelo de grock que es un Lama de 70 billones de parámetros en este lugar definimos los agentes acá tenemos el agente investigador y el agente de doble diploma que va a analizar el doble diploma entonces acá tenemos los dos agentes acá se"
 resource: "https://www.youtube.com/watch?v=cd4pYSWPkJs"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:12:41.351Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:37.829Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

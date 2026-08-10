@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "vamos a ver un ejemplo de un algoritmo llamado Deep que Network Deep que Network porque utiliza redes neuronales profundas qué es lo que habíamos visto nosotros habíamos visto que en el caso del aprendizaje por refuerzo teníamos un agente que se movía dentro de un entorno ese agente tenía un espacio de observaciones y un espacio de acciones y en función de las acciones que tomaba iba a tener una recompensa y habíamos visto que había distintos algoritmos sobre los que la gente podía trabajar para mejorar su desempeño dentro del entorno en particular el algoritmo de Deep que Network lo que hace es utilizar redes neuronales profundas para estimar la probabilidad de la transición e intentar maximizar la función valor va aprendiendo a medida que va obteniendo recompensas positivas y negativas pero el objetivo fundamental es encontrar un trayecto que maximice la función valor acá estamos usando la biblioteca stable basel 3 de Open Ai y estamos usando gymnasium que es un entorno para el cual esa biblioteca ha sido diseñada vamos a ponerlo a funcionar y y vamos a ver cómo funciona el algoritmo de dqn acá me tira un error eh perdón eh vamos a buscar dónde lo tenemos"
 resource: "https://www.youtube.com/watch?v=dQyM5CG4ANA"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:18.708Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:25.688Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

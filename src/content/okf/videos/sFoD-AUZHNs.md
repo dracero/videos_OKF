@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "lo primero que tenemos que hacer para poder el servidor en el google cloud es ir a vietnam y puntocom acá tienen la dirección https namic.com bloguear nos vamos a lograr nos entrando con google la primera vez hay que registrarse y entrar directamente y una vez que estamos bloqueados buscamos el servidor en el cual vamos a crear nuestro porque esta aplicación que es el servidor lahm bien entonces vamos al catálogo de apps y ahí está en el catálogo de os buscamos linux apache mysql php ese plan acá encuentra el servidor de lahm le ponemos que es single taller o sea que lo vamos a tener solamente nosotros en un único lugar acá volvemos a escribir para que le quede claro enseguida y acá una vez que lo encontró hacemos clic sobre el nombre del servidor y nos va a decir en que lo lanzamos elegimos lanzarlo acá sobre google cloud una vez que le damos clic nos pide que le pongamos la zona y ya directamente lo va a instalar"
 resource: "https://www.youtube.com/watch?v=sFoD-AUZHNs"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:11:14.816Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:56.259Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"
