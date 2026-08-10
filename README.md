@@ -17,28 +17,28 @@ Este diagrama detalla cómo se extrae la información de YouTube, se estructuran
 ```mermaid
 flowchart TD
     subgraph Ingestion["Fase 1: Ingesta y Estructuración OKF"]
-        YT["YouTube Data API v3"] -->|1. Sincronización| Sync["sync.js (Sync Engine)"]
-        Sub["youtube-transcript"] -->|2. Descarga Subtítulos| Sync
-        Sync -->|3. Escribe Markdown / YAML| Files["Directorio src/content/okf/"]
+        YT["YouTube Data API v3"] -->|"1. Sincronización"| Sync["sync.js (Sync Engine)"]
+        Sub["youtube-transcript"] -->|"2. Descarga Subtítulos"| Sync
+        Sync -->|"3. Escribe Markdown / YAML"| Files["Directorio src/content/okf/"]
         
-        Files -->|Concepto Canal| Chan["channels/:channelId.md"]
-        Files -->|Concepto Video| Vid["videos/:videoId.md"]
-        Files -->|Índice Raíz| Idx["index.md"]
-        Files -->|Sidecar Audio| Trans["transcripts/:videoId.json"]
+        Files -->|"Concepto Canal"| Chan["channels/:channelId.md"]
+        Files -->|"Concepto Video"| Vid["videos/:videoId.md"]
+        Files -->|"Índice Raíz"| Idx["index.md"]
+        Files -->|"Sidecar Audio"| Trans["transcripts/:videoId.json"]
     end
 
     subgraph RAG_Pipeline["Fase 2: Enriquecimiento e Indexación Semántica"]
-        Trans -->|4. Primeras ~200 palabras| Summarizer["Generador de Resúmenes"]
-        Summarizer -->|5. Guarda transcript_summary| Vid
+        Trans -->|"4. Primeras ~200 palabras"| Summarizer["Generador de Resúmenes"]
+        Summarizer -->|"5. Guarda transcript_summary"| Vid
         
-        Vid -->|6. Título + tags + resumen| EmbedCatalog["Vectorizador Catálogo (semantic-search.js)"]
-        Trans -->|7. Split Chunks ~150 palabras| Chunking["Segmentación Textual"]
+        Vid -->|"6. Título + tags + resumen"| EmbedCatalog["Vectorizador Catálogo (semantic-search.js)"]
+        Trans -->|"7. Split Chunks ~150 palabras"| Chunking["Segmentación Textual"]
         
-        Vid -->|8. Contexto OKF (Video/Canal)| EmbedChunks["Vectorizador Chunks (semantic-search.js)"]
-        Chunking -->|9. Contenido de Voz| EmbedChunks
+        Vid -->|"8. Contexto OKF (Video/Canal)"| EmbedChunks["Vectorizador Chunks (semantic-search.js)"]
+        Chunking -->|"9. Contenido de Voz"| EmbedChunks
         
-        EmbedCatalog -->|all-MiniLM-L6-v2| JSON_Cat["embeddings.json (Vectores Catálogo)"]
-        EmbedChunks -->|all-MiniLM-L6-v2| JSON_Chunks["embeddings_chunks.json (Vectores Chunks)"]
+        EmbedCatalog -->|"all-MiniLM-L6-v2"| JSON_Cat["embeddings.json (Vectores Catálogo)"]
+        EmbedChunks -->|"all-MiniLM-L6-v2"| JSON_Chunks["embeddings_chunks.json (Vectores Chunks)"]
     end
 ```
 
@@ -48,22 +48,22 @@ Este diagrama describe la interacción del usuario al realizar una consulta sem�
 
 ```mermaid
 flowchart TD
-    User["Usuario / Navegador"] -->|1. Input: 'home assistant'| FE["Astro Web Frontend (index.astro)"]
-    FE -->|2. GET /api/semantic-search?q=...| API["API Endpoint"]
-    API -->|3. Vectoriza Consulta| Model["all-MiniLM-L6-v2"]
+    User["Usuario / Navegador"] -->|"1. Input: 'home assistant'"| FE["Astro Web Frontend (index.astro)"]
+    FE -->|"2. GET /api/semantic-search?q=..."| API["API Endpoint"]
+    API -->|"3. Vectoriza Consulta"| Model["all-MiniLM-L6-v2"]
     
-    Model -->|4. Consulta Vectorial| VectorSearch["Buscador Vectorial (semantic-search.js)"]
-    VectorSearch -->|Cálculo Similitud Coseno| JSON_Cat["embeddings.json"]
-    VectorSearch -->|Cálculo Similitud Coseno| JSON_Chunks["embeddings_chunks.json"]
+    Model -->|"4. Consulta Vectorial"| VectorSearch["Buscador Vectorial (semantic-search.js)"]
+    VectorSearch -->|"Cálculo Similitud Coseno"| JSON_Cat["embeddings.json"]
+    VectorSearch -->|"Cálculo Similitud Coseno"| JSON_Chunks["embeddings_chunks.json"]
     
-    VectorSearch -->|5. Resultados Semánticos| Fusion["Algoritmo de Fusión e Hibridación"]
-    Fusion -->|Keyword Match Boost| Fusion
-    Fusion -->|Deduplicación por Video| Fusion
+    VectorSearch -->|"5. Resultados Semánticos"| Fusion["Algoritmo de Fusión e Hibridación"]
+    Fusion -->|"Keyword Match Boost"| Fusion
+    Fusion -->|"Deduplicación por Video"| Fusion
     
-    Fusion -->|6. Retorna Lista Fusionada| API
-    API -->|7. Render Intercalado| FE
-    FE -->|8. Clic en: 'Ir al minuto 00:03'| Link["Navigates to /videos/:id?t=3"]
-    Link -->|9. SSR: Inyecta start=3&autoplay=1| Embed["YouTube Iframe Player"]
+    Fusion -->|"6. Retorna Lista Fusionada"| API
+    API -->|"7. Render Intercalado"| FE
+    FE -->|"8. Clic en: 'Ir al minuto 00:03'"| Link["Navigates to /videos/:id?t=3"]
+    Link -->|"9. SSR: Inyecta start=3&autoplay=1"| Embed["YouTube Iframe Player"]
 ```
 
 ---
