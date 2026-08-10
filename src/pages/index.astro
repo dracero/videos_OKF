@@ -112,6 +112,9 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
         <button class="search-tab" id="tab-semantic">
           <span>🧠</span> Búsqueda Semántica (IA)
         </button>
+        <button class="search-tab" id="tab-chat">
+          <span>💬</span> Chat con IA (RAG)
+        </button>
       </div>
     </div>
 
@@ -198,6 +201,30 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
       <p class="empty-title">No se encontraron resultados</p>
       <p class="empty-desc">Prueba a escribir términos diferentes o realiza una pregunta más amplia.</p>
     </div>
+
+    <!-- Chat Interface Container (only visible in Chat mode) -->
+    <div id="chat-container" class="chat-container hidden">
+      <div class="chat-messages-box" id="chat-messages-box">
+        <div class="chat-message assistant">
+          <div class="message-avatar">🤖</div>
+          <div class="message-bubble">
+            <p>¡Hola! Soy tu asistente IA experto en el catálogo de Diego Racero. Puedo responder tus dudas de forma exacta basándome en el contenido de los videos y sus transcripciones. ¿De qué te gustaría hablar hoy?</p>
+          </div>
+        </div>
+      </div>
+      
+      <div class="chat-input-row">
+        <input 
+          type="text" 
+          id="chat-input" 
+          placeholder="Pregúntame algo sobre los videos (ej. '¿De qué trata el video de Wit.ai?')..." 
+          class="chat-input"
+        />
+        <button id="chat-send-btn" class="chat-send-btn">
+          <span>Enviar</span> ➔
+        </button>
+      </div>
+    </div>
   </section>
 </Layout>
 
@@ -205,6 +232,7 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
   // UI selectors
   const tabKeyword = document.getElementById('tab-keyword');
   const tabSemantic = document.getElementById('tab-semantic');
+  const tabChat = document.getElementById('tab-chat');
   const searchInput = document.getElementById('search-input') as HTMLInputElement;
   const searchIndicator = document.getElementById('search-indicator');
   const tagsContainer = document.getElementById('tags-filter-container');
@@ -212,13 +240,19 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
   const emptyState = document.getElementById('empty-state');
   const lowRelevanceWarning = document.getElementById('low-relevance-warning');
   
+  // Chat selectors
+  const chatContainer = document.getElementById('chat-container');
+  const chatInput = document.getElementById('chat-input') as HTMLInputElement;
+  const chatSendBtn = document.getElementById('chat-send-btn');
+  const chatMessagesBox = document.getElementById('chat-messages-box');
+  
   // Grids
   const keywordGrid = document.getElementById('keyword-videos-grid');
   const semanticGrid = document.getElementById('semantic-videos-grid');
   const semanticLoading = document.getElementById('semantic-loading');
   const videoCards = document.querySelectorAll('.video-card-wrapper');
   
-  let searchMode = 'keyword'; // 'keyword' or 'semantic'
+  let searchMode = 'keyword'; // 'keyword', 'semantic', or 'chat'
   let currentSearch = '';
   let currentTag = 'all';
   let debounceTimeout: any = null;
@@ -235,16 +269,21 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
   }
 
   // Toggle Search Modes
-  if (tabKeyword && tabSemantic && searchInput && tagsContainer && keywordGrid && semanticGrid) {
+  if (tabKeyword && tabSemantic && tabChat && searchInput && tagsContainer && keywordGrid && semanticGrid) {
+    const searchBarRow = document.querySelector('.search-bar-row') as HTMLElement;
+
     tabKeyword.addEventListener('click', () => {
       searchMode = 'keyword';
       tabKeyword.classList.add('active');
       tabSemantic.classList.remove('active');
+      tabChat.classList.remove('active');
       tagsContainer.classList.remove('hidden');
       keywordGrid.classList.remove('hidden');
       semanticGrid.classList.add('hidden');
       if (semanticLoading) semanticLoading.classList.add('hidden');
       if (lowRelevanceWarning) lowRelevanceWarning.classList.add('hidden');
+      if (chatContainer) chatContainer.classList.add('hidden');
+      if (searchBarRow) searchBarRow.classList.remove('hidden');
       searchInput.placeholder = "Buscar videos por título, descripción o etiqueta...";
       searchInput.value = '';
       currentSearch = '';
@@ -255,15 +294,34 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
       searchMode = 'semantic';
       tabSemantic.classList.add('active');
       tabKeyword.classList.remove('active');
+      tabChat.classList.remove('active');
       tagsContainer.classList.add('hidden');
       keywordGrid.classList.add('hidden');
       semanticGrid.classList.remove('hidden');
       if (emptyState) emptyState.classList.add('hidden');
       if (lowRelevanceWarning) lowRelevanceWarning.classList.add('hidden');
+      if (chatContainer) chatContainer.classList.add('hidden');
+      if (searchBarRow) searchBarRow.classList.remove('hidden');
       searchInput.placeholder = "Haz una consulta semántica al catálogo (ej: 'proyectos de IA y agentes' o 'tutoriales sobre física')...";
       searchInput.value = '';
       currentSearch = '';
       renderSemanticEmpty();
+    });
+
+    tabChat.addEventListener('click', () => {
+      searchMode = 'chat';
+      tabChat.classList.add('active');
+      tabKeyword.classList.remove('active');
+      tabSemantic.classList.remove('active');
+      tagsContainer.classList.add('hidden');
+      keywordGrid.classList.add('hidden');
+      semanticGrid.classList.add('hidden');
+      if (semanticLoading) semanticLoading.classList.add('hidden');
+      if (emptyState) emptyState.classList.add('hidden');
+      if (lowRelevanceWarning) lowRelevanceWarning.classList.add('hidden');
+      if (chatContainer) chatContainer.classList.remove('hidden');
+      if (searchBarRow) searchBarRow.classList.add('hidden');
+      if (chatInput) chatInput.focus();
     });
   }
 
@@ -489,6 +547,175 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
         debounceTimeout = setTimeout(() => {
           executeSemanticSearch(val.trim());
         }, 500);
+      }
+    });
+  }
+
+  // CHATBOT INTERACTIVE LOGIC
+  async function sendChatMessage() {
+    if (!chatInput || !chatMessagesBox) return;
+    const query = chatInput.value.trim();
+    if (query === '') return;
+
+    // Clear input
+    chatInput.value = '';
+
+    // Append user message bubble
+    const userMsgHtml = `
+      <div class="chat-message user">
+        <div class="message-bubble">
+          <p>${escapeHtml(query)}</p>
+        </div>
+        <div class="message-avatar">👤</div>
+      </div>
+    `;
+    chatMessagesBox.insertAdjacentHTML('beforeend', userMsgHtml);
+    chatMessagesBox.scrollTop = chatMessagesBox.scrollHeight;
+
+    // Append loader typing indicator for assistant
+    const assistantLoaderId = 'assistant-loader-' + Date.now();
+    const assistantLoaderHtml = `
+      <div class="chat-message assistant" id="${assistantLoaderId}">
+        <div class="message-avatar">🤖</div>
+        <div class="message-bubble">
+          <div class="chat-typing-indicator">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </div>
+      </div>
+    `;
+    chatMessagesBox.insertAdjacentHTML('beforeend', assistantLoaderHtml);
+    chatMessagesBox.scrollTop = chatMessagesBox.scrollHeight;
+
+    try {
+      const response = await fetch('/api/chat', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ message: query })
+      });
+      const data = await response.json();
+
+      // Remove typing loader
+      const loaderEl = document.getElementById(assistantLoaderId);
+      if (loaderEl) loaderEl.remove();
+
+      if (data.success) {
+        // Parse markdown text simply
+        const parsedResponse = formatMarkdown(data.response);
+        
+        let citedClipsHtml = '';
+        if (data.selectedChunks && data.selectedChunks.length > 0) {
+          citedClipsHtml = `
+            <div class="chat-cites-box">
+              <p class="cites-title">Videos citados:</p>
+              <div class="cites-clips-grid">
+                ${data.selectedChunks.map((chunk: any) => {
+                  if (chunk.type === 'segment') {
+                    return `
+                      <a href="/videos/${chunk.concept.id}?t=${chunk.segment.start}" class="cite-clip-card">
+                        <img src="${chunk.concept.thumbnail || '/placeholder.jpg'}" alt="${escapeHtml(chunk.concept.title)}" referrerpolicy="no-referrer" />
+                        <div class="cite-clip-info">
+                          <span class="cite-clip-title">${escapeHtml(chunk.concept.title)}</span>
+                          <span class="cite-clip-time">⏱ Ir a ${chunk.segment.formattedStart}</span>
+                        </div>
+                      </a>
+                    `;
+                  }
+                  return '';
+                }).join('')}
+              </div>
+            </div>
+          `;
+        }
+
+        const assistantMsgHtml = `
+          <div class="chat-message assistant">
+            <div class="message-avatar">🤖</div>
+            <div class="message-bubble">
+              <div class="markdown-content">${parsedResponse}</div>
+              ${citedClipsHtml}
+            </div>
+          </div>
+        `;
+        chatMessagesBox.insertAdjacentHTML('beforeend', assistantMsgHtml);
+      } else {
+        throw new Error(data.error || 'Unknown error');
+      }
+    } catch (err) {
+      console.error('Chat failed:', err);
+      const loaderEl = document.getElementById(assistantLoaderId);
+      if (loaderEl) loaderEl.remove();
+
+      const errorMsgHtml = `
+        <div class="chat-message assistant error-msg">
+          <div class="message-avatar">🤖</div>
+          <div class="message-bubble">
+            <p>Lo siento, ocurrió un error al procesar tu consulta con el asistente de IA. Intenta de nuevo.</p>
+          </div>
+        </div>
+      `;
+      chatMessagesBox.insertAdjacentHTML('beforeend', errorMsgHtml);
+    }
+    chatMessagesBox.scrollTop = chatMessagesBox.scrollHeight;
+  }
+
+  // Simple Markdown parser
+  function formatMarkdown(text: string) {
+    if (!text) return '';
+    
+    // Escape HTML first to prevent injection, except we keep our custom tags later
+    let safeText = text
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;");
+
+    // Replace bold **text**
+    safeText = safeText.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+    
+    // Replace italic *text*
+    safeText = safeText.replace(/\*(.*?)\*/g, '<em>$1</em>');
+    
+    // Replace custom links: [text](url)
+    safeText = safeText.replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2" class="markdown-link">$1</a>');
+
+    // Split by lines and parse lists
+    const lines = safeText.split('\n');
+    let insideList = false;
+    const formattedLines = [];
+
+    for (const line of lines) {
+      const trimmed = line.trim();
+      if (trimmed.startsWith('- ') || trimmed.startsWith('* ')) {
+        if (!insideList) {
+          formattedLines.push('<ul>');
+          insideList = true;
+        }
+        formattedLines.push(`<li>${trimmed.substring(2)}</li>`);
+      } else {
+        if (insideList) {
+          formattedLines.push('</ul>');
+          insideList = false;
+        }
+        if (trimmed !== '') {
+          formattedLines.push(`<p>${line}</p>`);
+        }
+      }
+    }
+    if (insideList) {
+      formattedLines.push('</ul>');
+    }
+
+    return formattedLines.join('\n');
+  }
+
+  // Attach event listeners
+  if (chatSendBtn && chatInput) {
+    chatSendBtn.addEventListener('click', sendChatMessage);
+    chatInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        sendChatMessage();
       }
     });
   }
@@ -1166,5 +1393,271 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
   @keyframes fadeIn {
     from { opacity: 0; transform: translateY(-5px); }
     to { opacity: 1; transform: translateY(0); }
+  }
+
+  /* Chat Container Styles */
+  .chat-container {
+    display: flex;
+    flex-direction: column;
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    height: 550px;
+    margin-top: 1rem;
+    overflow: hidden;
+    box-shadow: var(--shadow-sm);
+    animation: fadeIn 0.3s ease;
+  }
+
+  .chat-messages-box {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    background: radial-gradient(circle at top right, rgba(139, 92, 246, 0.02), transparent);
+  }
+
+  .chat-message {
+    display: flex;
+    gap: 0.75rem;
+    max-width: 85%;
+    align-items: flex-start;
+  }
+
+  .chat-message.assistant {
+    align-self: flex-start;
+  }
+
+  .chat-message.user {
+    align-self: flex-end;
+    flex-direction: row-reverse;
+  }
+
+  .message-avatar {
+    width: 2.25rem;
+    height: 2.25rem;
+    border-radius: 50%;
+    background: var(--border-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.15rem;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+
+  .chat-message.assistant .message-avatar {
+    background: var(--accent-purple-glow);
+    border-color: rgba(139, 92, 246, 0.2);
+  }
+
+  .message-bubble {
+    padding: 0.85rem 1.15rem;
+    border-radius: 12px;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+  }
+
+  .chat-message.assistant .message-bubble {
+    background: rgba(255, 255, 255, 0.03);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+    border-top-left-radius: 2px;
+  }
+
+  .chat-message.user .message-bubble {
+    background: linear-gradient(135deg, var(--accent-purple), #7c3aed);
+    color: #fff;
+    border-top-right-radius: 2px;
+  }
+
+  .chat-message.error-msg .message-bubble {
+    background: rgba(239, 68, 68, 0.1);
+    border: 1px solid rgba(239, 68, 68, 0.2);
+    color: #ef4444;
+  }
+
+  .chat-input-row {
+    display: flex;
+    padding: 1rem 1.25rem;
+    background: rgba(255, 255, 255, 0.01);
+    border-top: 1px solid var(--border-color);
+    gap: 0.75rem;
+    align-items: center;
+  }
+
+  .chat-input {
+    flex-grow: 1;
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 0.75rem 1rem;
+    font-size: 0.95rem;
+    color: var(--text-primary);
+    outline: none;
+    transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+  }
+
+  .chat-input:focus {
+    border-color: var(--accent-purple);
+    box-shadow: 0 0 0 2px var(--accent-purple-glow);
+  }
+
+  .chat-send-btn {
+    background: var(--accent-purple);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 0.75rem 1.25rem;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color var(--transition-fast), transform var(--transition-fast);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .chat-send-btn:hover {
+    background: #7c3aed;
+    transform: translateY(-1px);
+  }
+
+  .chat-send-btn:active {
+    transform: translateY(0);
+  }
+
+  /* Citations grid inside chat */
+  .chat-cites-box {
+    margin-top: 1rem;
+    padding-top: 0.85rem;
+    border-top: 1px dashed var(--border-color);
+  }
+
+  .cites-title {
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-secondary);
+    margin-bottom: 0.5rem;
+  }
+
+  .cites-clips-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 0.75rem;
+    margin-top: 0.5rem;
+  }
+
+  .cite-clip-card {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: rgba(255, 255, 255, 0.015);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 0.35rem;
+    text-decoration: none;
+    color: inherit;
+    transition: background-color var(--transition-fast), border-color var(--transition-fast), transform var(--transition-fast);
+  }
+
+  .cite-clip-card:hover {
+    background: rgba(255, 255, 255, 0.04);
+    border-color: rgba(139, 92, 246, 0.3);
+    transform: translateY(-1px);
+  }
+
+  .cite-clip-card img {
+    width: 3.5rem;
+    height: 2.25rem;
+    object-fit: cover;
+    border-radius: 4px;
+  }
+
+  .cite-clip-info {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .cite-clip-title {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .cite-clip-time {
+    font-size: 0.7rem;
+    color: var(--accent-purple);
+    font-weight: 700;
+    margin-top: 0.1rem;
+  }
+
+  /* Chat typing indicator animation */
+  .chat-typing-indicator {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding: 4px 8px;
+  }
+
+  .chat-typing-indicator span {
+    width: 6px;
+    height: 6px;
+    background-color: var(--text-secondary);
+    border-radius: 50%;
+    display: inline-block;
+    animation: typingBounce 1.4s infinite ease-in-out both;
+  }
+
+  .chat-typing-indicator span:nth-child(1) {
+    animation-delay: -0.32s;
+  }
+
+  .chat-typing-indicator span:nth-child(2) {
+    animation-delay: -0.16s;
+  }
+
+  @keyframes typingBounce {
+    0%, 80%, 100% { transform: scale(0); }
+    40% { transform: scale(1.0); }
+  }
+
+  /* Markdown custom links inside chat bubbles */
+  .markdown-content p {
+    margin: 0 0 0.5rem 0;
+  }
+  .markdown-content p:last-child {
+    margin-bottom: 0;
+  }
+  .markdown-content ul {
+    margin: 0 0 0.75rem 0;
+    padding-left: 1.25rem;
+  }
+  .markdown-content li {
+    margin-bottom: 0.25rem;
+    font-size: 0.95rem;
+  }
+  .markdown-link {
+    color: var(--accent-purple);
+    text-decoration: none;
+    font-weight: 600;
+    border-bottom: 1px dashed var(--accent-purple);
+    transition: color var(--transition-fast);
+  }
+  .chat-message.user .markdown-link {
+    color: #fff;
+    border-bottom-color: #fff;
+  }
+  .markdown-link:hover {
+    color: #a78bfa;
   }
 </style>
