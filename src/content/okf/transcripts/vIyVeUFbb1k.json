@@ -1,0 +1,6122 @@
+[
+  {
+    "text": "Bueno,",
+    "duration": 5640,
+    "offset": 3320,
+    "lang": "es"
+  },
+  {
+    "text": "eh, déjenme ver algo. Creo que ya ahora",
+    "duration": 6000,
+    "offset": 5000,
+    "lang": "es"
+  },
+  {
+    "text": "vieron que yo les había pasado un mail",
+    "duration": 4960,
+    "offset": 8960,
+    "lang": "es"
+  },
+  {
+    "text": "con la el",
+    "duration": 5240,
+    "offset": 11000,
+    "lang": "es"
+  },
+  {
+    "text": "protocolo de pruebas precario que uso",
+    "duration": 4359,
+    "offset": 13920,
+    "lang": "es"
+  },
+  {
+    "text": "yo.",
+    "duration": 3720,
+    "offset": 16240,
+    "lang": "es"
+  },
+  {
+    "text": "No sé si tuvieron oportunidad de verlo.",
+    "duration": 4561,
+    "offset": 18279,
+    "lang": "es"
+  },
+  {
+    "text": "Si no, bueno, igual este mírenlo, no se",
+    "duration": 6239,
+    "offset": 19960,
+    "lang": "es"
+  },
+  {
+    "text": "preocupen. O sea, la idea a partir de",
+    "duration": 8800,
+    "offset": 22840,
+    "lang": "es"
+  },
+  {
+    "text": "este momento es empezar a hacer eh",
+    "duration": 7121,
+    "offset": 26199,
+    "lang": "es"
+  },
+  {
+    "text": "empezar a hacer pruebas con los",
+    "duration": 5160,
+    "offset": 31640,
+    "lang": "es"
+  },
+  {
+    "text": "sistemitas que ustedes estuvieron viendo",
+    "duration": 6759,
+    "offset": 33320,
+    "lang": "es"
+  },
+  {
+    "text": "hasta ahora.",
+    "duration": 3279,
+    "offset": 36800,
+    "lang": "es"
+  },
+  {
+    "text": "Aguárdenme que siempre me pasa con esto",
+    "duration": 5601,
+    "offset": 40399,
+    "lang": "es"
+  },
+  {
+    "text": "de Ghira que me manda al",
+    "duration": 6760,
+    "offset": 42920,
+    "lang": "es"
+  },
+  {
+    "text": "Jira que no es.",
+    "duration": 3680,
+    "offset": 46000,
+    "lang": "es"
+  },
+  {
+    "text": "[resoplido]",
+    "duration": 4115,
+    "offset": 54365,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, igualmente quería hablar de algo,",
+    "duration": 6679,
+    "offset": 54680,
+    "lang": "es"
+  },
+  {
+    "text": "eh, por una pregunta que habían hecho un",
+    "duration": 6599,
+    "offset": 58480,
+    "lang": "es"
+  },
+  {
+    "text": "compañero de ustedes,",
+    "duration": 3720,
+    "offset": 61359,
+    "lang": "es"
+  },
+  {
+    "text": "eh,",
+    "duration": 4841,
+    "offset": 74799,
+    "lang": "es"
+  },
+  {
+    "text": "¿cuál es la idea? Ustedes tienen el",
+    "duration": 5519,
+    "offset": 77240,
+    "lang": "es"
+  },
+  {
+    "text": "sistema funcionando como como vieron o",
+    "duration": 5320,
+    "offset": 79640,
+    "lang": "es"
+  },
+  {
+    "text": "como van a ver en el videíto que pasé la",
+    "duration": 4961,
+    "offset": 82759,
+    "lang": "es"
+  },
+  {
+    "text": "semana pasada.",
+    "duration": 7799,
+    "offset": 84960,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, la idea es el manual de",
+    "duration": 7039,
+    "offset": 87720,
+    "lang": "es"
+  },
+  {
+    "text": "eh",
+    "duration": 4881,
+    "offset": 92759,
+    "lang": "es"
+  },
+  {
+    "text": "el manual que tienen ustedes que yo le",
+    "duration": 7040,
+    "offset": 94759,
+    "lang": "es"
+  },
+  {
+    "text": "pasé que se llama Arch 2.",
+    "duration": 6479,
+    "offset": 97640,
+    "lang": "es"
+  },
+  {
+    "text": "Todos todos tienen pudieron entrar, ¿no?",
+    "duration": 4201,
+    "offset": 101799,
+    "lang": "es"
+  },
+  {
+    "text": "A donde está el manual de histología y",
+    "duration": 5040,
+    "offset": 104119,
+    "lang": "es"
+  },
+  {
+    "text": "ver las imágenes esas histológicas. El",
+    "duration": 5000,
+    "offset": 106000,
+    "lang": "es"
+  },
+  {
+    "text": "había un archivito que se llamaba Arch",
+    "duration": 4681,
+    "offset": 109159,
+    "lang": "es"
+  },
+  {
+    "text": "2. ¿Pudieron verlos todos?",
+    "duration": 5119,
+    "offset": 111000,
+    "lang": "es"
+  },
+  {
+    "text": "Si no les muestro dónde está.",
+    "duration": 3480,
+    "offset": 113840,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, sí.",
+    "duration": 4040,
+    "offset": 116119,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. Bueno, si alguien no lo pudo ver,",
+    "duration": 4200,
+    "offset": 117320,
+    "lang": "es"
+  },
+  {
+    "text": "algún grupo no lo pudo ver o alguien no",
+    "duration": 3560,
+    "offset": 120159,
+    "lang": "es"
+  },
+  {
+    "text": "lo pudo ver, avísenme",
+    "duration": 4919,
+    "offset": 121520,
+    "lang": "es"
+  },
+  {
+    "text": "que yo les este",
+    "duration": 6240,
+    "offset": 123719,
+    "lang": "es"
+  },
+  {
+    "text": "les paso otra vez el link a donde están",
+    "duration": 6481,
+    "offset": 126439,
+    "lang": "es"
+  },
+  {
+    "text": "los archivos esos.",
+    "duration": 5961,
+    "offset": 129959,
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es la idea ahora? Es que hagan",
+    "duration": 5240,
+    "offset": 132920,
+    "lang": "es"
+  },
+  {
+    "text": "correr el programa.",
+    "duration": 4520,
+    "offset": 135920,
+    "lang": "es"
+  },
+  {
+    "text": "que prueben con una imagen. Vieron como",
+    "duration": 4880,
+    "offset": 138160,
+    "lang": "es"
+  },
+  {
+    "text": "ahí está muestran el videío que lo que",
+    "duration": 5120,
+    "offset": 140440,
+    "lang": "es"
+  },
+  {
+    "text": "hay que poner es el link de la imagen y",
+    "duration": 5680,
+    "offset": 143040,
+    "lang": "es"
+  },
+  {
+    "text": "que se fijen primero que sea una imagen",
+    "duration": 6399,
+    "offset": 145560,
+    "lang": "es"
+  },
+  {
+    "text": "que está en el eh",
+    "duration": 6440,
+    "offset": 148720,
+    "lang": "es"
+  },
+  {
+    "text": "en el eh en el manual, que se fijen si",
+    "duration": 4920,
+    "offset": 151959,
+    "lang": "es"
+  },
+  {
+    "text": "les responde, si le dicen sí, acá",
+    "duration": 5200,
+    "offset": 155160,
+    "lang": "es"
+  },
+  {
+    "text": "apareció es esta imagen.",
+    "duration": 7440,
+    "offset": 156879,
+    "lang": "es"
+  },
+  {
+    "text": "Y después prueben con una imagen también",
+    "duration": 6400,
+    "offset": 160360,
+    "lang": "es"
+  },
+  {
+    "text": "que sea, no sé, un gato, un perro, algo",
+    "duration": 5000,
+    "offset": 164319,
+    "lang": "es"
+  },
+  {
+    "text": "muy disruptivo, cosa que sepan que es",
+    "duration": 4960,
+    "offset": 166760,
+    "lang": "es"
+  },
+  {
+    "text": "totalmente, o sea, está alejado de lo",
+    "duration": 6081,
+    "offset": 169319,
+    "lang": "es"
+  },
+  {
+    "text": "que están viendo y va a dar un error.",
+    "duration": 6920,
+    "offset": 171720,
+    "lang": "es"
+  },
+  {
+    "text": "Y después prueben con alguna imagen que",
+    "duration": 5040,
+    "offset": 175400,
+    "lang": "es"
+  },
+  {
+    "text": "sea una imagen histológica, pero qué s",
+    "duration": 3440,
+    "offset": 178640,
+    "lang": "es"
+  },
+  {
+    "text": "yo. Si ustedes tienen una biopsia ahí",
+    "duration": 4760,
+    "offset": 180440,
+    "lang": "es"
+  },
+  {
+    "text": "decía, no sé, de células de cerebro,",
+    "duration": 5000,
+    "offset": 182080,
+    "lang": "es"
+  },
+  {
+    "text": "busquen una biopsia de células de",
+    "duration": 3399,
+    "offset": 185200,
+    "lang": "es"
+  },
+  {
+    "text": "hígado,",
+    "duration": 4239,
+    "offset": 187080,
+    "lang": "es"
+  },
+  {
+    "text": "que es algo que sí que no tiene que",
+    "duration": 4841,
+    "offset": 188599,
+    "lang": "es"
+  },
+  {
+    "text": "estar como para que dé error. Sí,",
+    "duration": 4521,
+    "offset": 191319,
+    "lang": "es"
+  },
+  {
+    "text": "decime, Luis.",
+    "duration": 4799,
+    "offset": 193440,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, ¿se me escucha bien, Diego,",
+    "duration": 3880,
+    "offset": 195840,
+    "lang": "es"
+  },
+  {
+    "text": "escuchado?",
+    "duration": 5920,
+    "offset": 198239,
+    "lang": "es"
+  },
+  {
+    "text": "Okay. Eh, esta tarde eh por fin pude",
+    "duration": 6360,
+    "offset": 199720,
+    "lang": "es"
+  },
+  {
+    "text": "hacerlo correr en Google con la Apple,",
+    "duration": 4601,
+    "offset": 204159,
+    "lang": "es"
+  },
+  {
+    "text": "el tiempo de muera que nos había pasado.",
+    "duration": 4840,
+    "offset": 206080,
+    "lang": "es"
+  },
+  {
+    "text": "Mi compañero lo corrió en local y nos",
+    "duration": 5479,
+    "offset": 208760,
+    "lang": "es"
+  },
+  {
+    "text": "está pasando una situación",
+    "duration": 5519,
+    "offset": 210920,
+    "lang": "es"
+  },
+  {
+    "text": "en la que le mandamos la misma consulta",
+    "duration": 4000,
+    "offset": 214239,
+    "lang": "es"
+  },
+  {
+    "text": "al sistema.",
+    "duration": 4921,
+    "offset": 216439,
+    "lang": "es"
+  },
+  {
+    "text": "A él no le anduvo. A mí me anduvo, pero",
+    "duration": 6481,
+    "offset": 218239,
+    "lang": "es"
+  },
+  {
+    "text": "me respondió mal.",
+    "duration": 5040,
+    "offset": 221360,
+    "lang": "es"
+  },
+  {
+    "text": "Con el de Muvera. Ustedes están en el",
+    "duration": 3360,
+    "offset": 224720,
+    "lang": "es"
+  },
+  {
+    "text": "grupo cuatro.",
+    "duration": 6160,
+    "offset": 226400,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, el de mujer con la P.",
+    "duration": 6600,
+    "offset": 228080,
+    "lang": "es"
+  },
+  {
+    "text": "E",
+    "duration": 4599,
+    "offset": 232560,
+    "lang": "es"
+  },
+  {
+    "text": "te respondió mal, o sea, que te dijo eso",
+    "duration": 5320,
+    "offset": 234680,
+    "lang": "es"
+  },
+  {
+    "text": "no existe una cosa así.",
+    "duration": 4961,
+    "offset": 237159,
+    "lang": "es"
+  },
+  {
+    "text": "Le pasé la respuesta a mi compañero y y",
+    "duration": 4879,
+    "offset": 240000,
+    "lang": "es"
+  },
+  {
+    "text": "me dijo que había había respondido mal",
+    "duration": 6479,
+    "offset": 242120,
+    "lang": "es"
+  },
+  {
+    "text": "la consulta. Era algo de eh cómo se",
+    "duration": 5280,
+    "offset": 244879,
+    "lang": "es"
+  },
+  {
+    "text": "dividía el tejido nervioso, una cosa",
+    "duration": 3000,
+    "offset": 248599,
+    "lang": "es"
+  },
+  {
+    "text": "así.",
+    "duration": 4481,
+    "offset": 250159,
+    "lang": "es"
+  },
+  {
+    "text": "Igual el sistema este funciona, digamos,",
+    "duration": 5801,
+    "offset": 251599,
+    "lang": "es"
+  },
+  {
+    "text": "la idea es poner una imagen y que",
+    "duration": 4439,
+    "offset": 254640,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes le pregunten, no sé, de qué",
+    "duration": 5120,
+    "offset": 257400,
+    "lang": "es"
+  },
+  {
+    "text": "tejido se trata o algo así.",
+    "duration": 4961,
+    "offset": 259079,
+    "lang": "es"
+  },
+  {
+    "text": "Igualmente,",
+    "duration": 3320,
+    "offset": 262520,
+    "lang": "es"
+  },
+  {
+    "text": "a siempre se la tendría que subir una",
+    "duration": 2640,
+    "offset": 264040,
+    "lang": "es"
+  },
+  {
+    "text": "imagen, ¿no?",
+    "duration": 3760,
+    "offset": 265840,
+    "lang": "es"
+  },
+  {
+    "text": "Claro. O sea, hay que subir una imagen y",
+    "duration": 4799,
+    "offset": 266680,
+    "lang": "es"
+  },
+  {
+    "text": "después una vez que lo hagan funcionar",
+    "duration": 4879,
+    "offset": 269600,
+    "lang": "es"
+  },
+  {
+    "text": "con imagen, hay que ver si podemos no",
+    "duration": 5720,
+    "offset": 271479,
+    "lang": "es"
+  },
+  {
+    "text": "ponerle una imagen. Pero en general, al",
+    "duration": 5041,
+    "offset": 274479,
+    "lang": "es"
+  },
+  {
+    "text": "principio todo estaba pensado como era",
+    "duration": 4641,
+    "offset": 277199,
+    "lang": "es"
+  },
+  {
+    "text": "subir una imagen y que explique algo de",
+    "duration": 5280,
+    "offset": 279520,
+    "lang": "es"
+  },
+  {
+    "text": "esa imagen. O, por ejemplo, más fácil,",
+    "duration": 6280,
+    "offset": 281840,
+    "lang": "es"
+  },
+  {
+    "text": "decme de qué tejido se trata.",
+    "duration": 5959,
+    "offset": 284800,
+    "lang": "es"
+  },
+  {
+    "text": "La verdad es que no no recuerdo si el de",
+    "duration": 4359,
+    "offset": 288120,
+    "lang": "es"
+  },
+  {
+    "text": "Muvera yo lo había hecho para que vos",
+    "duration": 3280,
+    "offset": 290759,
+    "lang": "es"
+  },
+  {
+    "text": "pudieses",
+    "duration": 3720,
+    "offset": 292479,
+    "lang": "es"
+  },
+  {
+    "text": "seguir sin imagen, pero igual acá les",
+    "duration": 4121,
+    "offset": 294039,
+    "lang": "es"
+  },
+  {
+    "text": "quería comentar algo.",
+    "duration": 3881,
+    "offset": 296199,
+    "lang": "es"
+  },
+  {
+    "text": "Te deja pedir sin imágenes.",
+    "duration": 5039,
+    "offset": 298160,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, pero igual si te deja pedir sin",
+    "duration": 4920,
+    "offset": 300080,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes,",
+    "duration": 5440,
+    "offset": 303199,
+    "lang": "es"
+  },
+  {
+    "text": "lo que no sé es si se si te deja",
+    "duration": 5440,
+    "offset": 305000,
+    "lang": "es"
+  },
+  {
+    "text": "te deja pedir sin imagen. Es como para",
+    "duration": 3321,
+    "offset": 308639,
+    "lang": "es"
+  },
+  {
+    "text": "seguir una inconversación de una imagen",
+    "duration": 3199,
+    "offset": 310440,
+    "lang": "es"
+  },
+  {
+    "text": "que había subido en un principio y si no",
+    "duration": 3880,
+    "offset": 311960,
+    "lang": "es"
+  },
+  {
+    "text": "tenés imagen no tiene que responderte y",
+    "duration": 5041,
+    "offset": 313639,
+    "lang": "es"
+  },
+  {
+    "text": "te y te dice cualquier pavada.",
+    "duration": 4560,
+    "offset": 315840,
+    "lang": "es"
+  },
+  {
+    "text": "Claro, porque en general es la imagen",
+    "duration": 5920,
+    "offset": 318680,
+    "lang": "es"
+  },
+  {
+    "text": "anterior. Sí, Nicolás, decime.",
+    "duration": 4200,
+    "offset": 320400,
+    "lang": "es"
+  },
+  {
+    "text": "Hola, ¿se me escucha?",
+    "duration": 3240,
+    "offset": 325120,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, sí.",
+    "duration": 5160,
+    "offset": 326080,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, yo lo había corrido justamente con",
+    "duration": 5800,
+    "offset": 328360,
+    "lang": "es"
+  },
+  {
+    "text": "una captura de la página 17 y le",
+    "duration": 6399,
+    "offset": 331240,
+    "lang": "es"
+  },
+  {
+    "text": "pregunté cómo sean los y su compañero y",
+    "duration": 7080,
+    "offset": 334160,
+    "lang": "es"
+  },
+  {
+    "text": "a mí no me la tuvo responder porque",
+    "duration": 5641,
+    "offset": 337639,
+    "lang": "es"
+  },
+  {
+    "text": "no superaban el score, o sea, traía de",
+    "duration": 4360,
+    "offset": 341240,
+    "lang": "es"
+  },
+  {
+    "text": "la base de datos, pero después se fijaba",
+    "duration": 4120,
+    "offset": 343280,
+    "lang": "es"
+  },
+  {
+    "text": "el score y no le daba. Entonces decía",
+    "duration": 5599,
+    "offset": 345600,
+    "lang": "es"
+  },
+  {
+    "text": "que aunque había obtenido información eh",
+    "duration": 5880,
+    "offset": 347400,
+    "lang": "es"
+  },
+  {
+    "text": "alguno algunos vectores que eran",
+    "duration": 4881,
+    "offset": 351199,
+    "lang": "es"
+  },
+  {
+    "text": "relevantes, como había descartado al",
+    "duration": 5880,
+    "offset": 353280,
+    "lang": "es"
+  },
+  {
+    "text": "menos uno, no me la podía responder.",
+    "duration": 4040,
+    "offset": 356080,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, eso",
+    "duration": 2640,
+    "offset": 359160,
+    "lang": "es"
+  },
+  {
+    "text": "es",
+    "duration": 4799,
+    "offset": 360120,
+    "lang": "es"
+  },
+  {
+    "text": "por ahí hay que modificar la lógica. Lo",
+    "duration": 6920,
+    "offset": 361800,
+    "lang": "es"
+  },
+  {
+    "text": "ideal tanto si eh",
+    "duration": 6041,
+    "offset": 364919,
+    "lang": "es"
+  },
+  {
+    "text": "están programando, yo creo que todos",
+    "duration": 7479,
+    "offset": 368720,
+    "lang": "es"
+  },
+  {
+    "text": "están usando eh Google Colab, ¿no?",
+    "duration": 5239,
+    "offset": 370960,
+    "lang": "es"
+  },
+  {
+    "text": "Pero igual Bueno, es lo que",
+    "duration": 3040,
+    "offset": 376400,
+    "lang": "es"
+  },
+  {
+    "text": "yo [carraspeo] la corrí en local. Ah,",
+    "duration": 3840,
+    "offset": 377639,
+    "lang": "es"
+  },
+  {
+    "text": "listo. Bueno, si la corriste en local,",
+    "duration": 6960,
+    "offset": 379440,
+    "lang": "es"
+  },
+  {
+    "text": "mejor. Eh, lo ideal es usar Antigravity",
+    "duration": 8840,
+    "offset": 381479,
+    "lang": "es"
+  },
+  {
+    "text": "con el modelo de Opus 4.6",
+    "duration": 5639,
+    "offset": 386400,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 3361,
+    "offset": 390319,
+    "lang": "es"
+  },
+  {
+    "text": "pedir que haga las correcciones",
+    "duration": 3440,
+    "offset": 392039,
+    "lang": "es"
+  },
+  {
+    "text": "necesarias.",
+    "duration": 3560,
+    "offset": 393680,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué es lo que tienen que tener en",
+    "duration": 3440,
+    "offset": 395479,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta ustedes? Ustedes ahora lo que",
+    "duration": 4200,
+    "offset": 397240,
+    "lang": "es"
+  },
+  {
+    "text": "tienen que tener en cuenta es la manera",
+    "duration": 4041,
+    "offset": 398919,
+    "lang": "es"
+  },
+  {
+    "text": "en la que se procesan los datos de",
+    "duration": 4120,
+    "offset": 401440,
+    "lang": "es"
+  },
+  {
+    "text": "entrada. Lo que hacen en general los",
+    "duration": 5239,
+    "offset": 402960,
+    "lang": "es"
+  },
+  {
+    "text": "sistemas estos con ese PIMU PDF es",
+    "duration": 5919,
+    "offset": 405560,
+    "lang": "es"
+  },
+  {
+    "text": "separar texto de imagen,",
+    "duration": 6041,
+    "offset": 408199,
+    "lang": "es"
+  },
+  {
+    "text": "excepto el que el eh no creo que el de",
+    "duration": 4641,
+    "offset": 411479,
+    "lang": "es"
+  },
+  {
+    "text": "Colpali también hace eso o no. El de",
+    "duration": 3560,
+    "offset": 414240,
+    "lang": "es"
+  },
+  {
+    "text": "Colpali no, el de Colpali trae todo",
+    "duration": 4600,
+    "offset": 416120,
+    "lang": "es"
+  },
+  {
+    "text": "junto, pero los otros tres separan texto",
+    "duration": 4720,
+    "offset": 417800,
+    "lang": "es"
+  },
+  {
+    "text": "de imagen y generan en vez de",
+    "duration": 5720,
+    "offset": 420720,
+    "lang": "es"
+  },
+  {
+    "text": "multimodales con esa separación.",
+    "duration": 7359,
+    "offset": 422520,
+    "lang": "es"
+  },
+  {
+    "text": "Lo que tienen que ver ustedes es eh yo",
+    "duration": 8680,
+    "offset": 426440,
+    "lang": "es"
+  },
+  {
+    "text": "ahora les voy a pasar eh un e",
+    "duration": 8361,
+    "offset": 429879,
+    "lang": "es"
+  },
+  {
+    "text": "un mail a donde hay para que se guíen",
+    "duration": 6960,
+    "offset": 435120,
+    "lang": "es"
+  },
+  {
+    "text": "técnicas de rag, técnicas de chanking",
+    "duration": 7160,
+    "offset": 438240,
+    "lang": "es"
+  },
+  {
+    "text": "y este explica un poco qué es ontología.",
+    "duration": 5160,
+    "offset": 442080,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora les comento bien, o sea, la idea",
+    "duration": 4960,
+    "offset": 445400,
+    "lang": "es"
+  },
+  {
+    "text": "que es si a ustedes no le responde, por",
+    "duration": 5639,
+    "offset": 447240,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo, Nicolás, en tu caso tiene un",
+    "duration": 4959,
+    "offset": 450360,
+    "lang": "es"
+  },
+  {
+    "text": "índice de similaridad. Acuérdense que",
+    "duration": 6440,
+    "offset": 452879,
+    "lang": "es"
+  },
+  {
+    "text": "cómo funciona el RAG. El rag aplica en",
+    "duration": 5521,
+    "offset": 455319,
+    "lang": "es"
+  },
+  {
+    "text": "definitiva cuando te va a dar la",
+    "duration": 3961,
+    "offset": 459319,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta, el índice de similaridad de",
+    "duration": 6880,
+    "offset": 460840,
+    "lang": "es"
+  },
+  {
+    "text": "coseno. A lo mejor, en el caso de las",
+    "duration": 6720,
+    "offset": 463280,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes, ese índice de similaridad de",
+    "duration": 5960,
+    "offset": 467720,
+    "lang": "es"
+  },
+  {
+    "text": "coseno está en 0708, como si fuera texto",
+    "duration": 5479,
+    "offset": 470000,
+    "lang": "es"
+  },
+  {
+    "text": "y para la imagen debe ser un valor",
+    "duration": 4519,
+    "offset": 473680,
+    "lang": "es"
+  },
+  {
+    "text": "menor.",
+    "duration": 8280,
+    "offset": 475479,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, lo que debieran ver ustedes es",
+    "duration": 7601,
+    "offset": 478199,
+    "lang": "es"
+  },
+  {
+    "text": "qué pasa con ese índice de similaridad",
+    "duration": 6840,
+    "offset": 483759,
+    "lang": "es"
+  },
+  {
+    "text": "de coseno. Si está corriendo e",
+    "duration": 8000,
+    "offset": 485800,
+    "lang": "es"
+  },
+  {
+    "text": "si están corriendo LMIT, hay una parte",
+    "duration": 5600,
+    "offset": 490599,
+    "lang": "es"
+  },
+  {
+    "text": "en Langith donde dice consulta a la base",
+    "duration": 6079,
+    "offset": 493800,
+    "lang": "es"
+  },
+  {
+    "text": "de datos Qudran o New for y ahí en esa",
+    "duration": 5641,
+    "offset": 496199,
+    "lang": "es"
+  },
+  {
+    "text": "parte de consulta está el output y ahí",
+    "duration": 4561,
+    "offset": 499879,
+    "lang": "es"
+  },
+  {
+    "text": "en el output pueden ver el coeficiente",
+    "duration": 4120,
+    "offset": 501840,
+    "lang": "es"
+  },
+  {
+    "text": "de similaridad con el que se está",
+    "duration": 4199,
+    "offset": 504440,
+    "lang": "es"
+  },
+  {
+    "text": "trabajando. O sea, probablemente si te",
+    "duration": 4199,
+    "offset": 505960,
+    "lang": "es"
+  },
+  {
+    "text": "dice, \"No, no te puedo responder porque",
+    "duration": 3760,
+    "offset": 508639,
+    "lang": "es"
+  },
+  {
+    "text": "descarté alguno.\"",
+    "duration": 4641,
+    "offset": 510159,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense si no tienen que ajustar para",
+    "duration": 5281,
+    "offset": 512399,
+    "lang": "es"
+  },
+  {
+    "text": "abajo el coeficiente de similaridad y si",
+    "duration": 4960,
+    "offset": 514800,
+    "lang": "es"
+  },
+  {
+    "text": "eso después no los perjudica a la hora",
+    "duration": 4799,
+    "offset": 517680,
+    "lang": "es"
+  },
+  {
+    "text": "de discriminar imágenes que no son.",
+    "duration": 6720,
+    "offset": 519760,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. O sea, lo primero que que habría",
+    "duration": 7201,
+    "offset": 522479,
+    "lang": "es"
+  },
+  {
+    "text": "que ver es el tamaño del chank,",
+    "duration": 6400,
+    "offset": 526480,
+    "lang": "es"
+  },
+  {
+    "text": "¿correcto? Las técnicas de chanking,",
+    "duration": 5080,
+    "offset": 529680,
+    "lang": "es"
+  },
+  {
+    "text": "el índice de similaridad con el que",
+    "duration": 4600,
+    "offset": 532880,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes están pidiendo que vuelva.",
+    "duration": 8160,
+    "offset": 534760,
+    "lang": "es"
+  },
+  {
+    "text": "E y después hay algo que no sé si ya",
+    "duration": 7039,
+    "offset": 537480,
+    "lang": "es"
+  },
+  {
+    "text": "habrán leído o no, pero alguien me",
+    "duration": 5120,
+    "offset": 542920,
+    "lang": "es"
+  },
+  {
+    "text": "preguntó que es la ontología.",
+    "duration": 6161,
+    "offset": 544519,
+    "lang": "es"
+  },
+  {
+    "text": "Hoy el mundo de los agentes está",
+    "duration": 5600,
+    "offset": 548040,
+    "lang": "es"
+  },
+  {
+    "text": "manejado por tres cosas: memoria,",
+    "duration": 6000,
+    "offset": 550680,
+    "lang": "es"
+  },
+  {
+    "text": "identidad y ontología.",
+    "duration": 4360,
+    "offset": 553640,
+    "lang": "es"
+  },
+  {
+    "text": "Ustedes van a tener que ver que su",
+    "duration": 3200,
+    "offset": 556680,
+    "lang": "es"
+  },
+  {
+    "text": "agente tenga memoria porque eso es lo",
+    "duration": 3720,
+    "offset": 558000,
+    "lang": "es"
+  },
+  {
+    "text": "que le permite mantener la coherencia de",
+    "duration": 4639,
+    "offset": 559880,
+    "lang": "es"
+  },
+  {
+    "text": "la conversación. O sea, si ustedes se",
+    "duration": 5960,
+    "offset": 561720,
+    "lang": "es"
+  },
+  {
+    "text": "ponen a chatear con el agente,",
+    "duration": 6521,
+    "offset": 564519,
+    "lang": "es"
+  },
+  {
+    "text": "de alguna manera eh",
+    "duration": 6599,
+    "offset": 567680,
+    "lang": "es"
+  },
+  {
+    "text": "van a tener que este va a tener que",
+    "duration": 5400,
+    "offset": 571040,
+    "lang": "es"
+  },
+  {
+    "text": "tener algo de memoria para mantener la",
+    "duration": 5481,
+    "offset": 574279,
+    "lang": "es"
+  },
+  {
+    "text": "coherencia de la conversación.",
+    "duration": 5399,
+    "offset": 576440,
+    "lang": "es"
+  },
+  {
+    "text": "Eh,",
+    "duration": 4600,
+    "offset": 579760,
+    "lang": "es"
+  },
+  {
+    "text": "la identidad, ¿qué es la identidad? La",
+    "duration": 8120,
+    "offset": 581839,
+    "lang": "es"
+  },
+  {
+    "text": "identidad es la lo que ustedes le dicen",
+    "duration": 8479,
+    "offset": 584360,
+    "lang": "es"
+  },
+  {
+    "text": "que a la gente que asuma que es.",
+    "duration": 5320,
+    "offset": 589959,
+    "lang": "es"
+  },
+  {
+    "text": "Por ejemplo, usted es un experto en",
+    "duration": 4440,
+    "offset": 592839,
+    "lang": "es"
+  },
+  {
+    "text": "istopatología",
+    "duration": 4401,
+    "offset": 595279,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene que contestar de la manera más",
+    "duration": 4680,
+    "offset": 597279,
+    "lang": "es"
+  },
+  {
+    "text": "detallada posible solamente del",
+    "duration": 5080,
+    "offset": 599680,
+    "lang": "es"
+  },
+  {
+    "text": "contenido recuperado. Bien, o sea,",
+    "duration": 4801,
+    "offset": 601959,
+    "lang": "es"
+  },
+  {
+    "text": "cuando ustedes le dicen, \"Usted es un",
+    "duration": 6040,
+    "offset": 604760,
+    "lang": "es"
+  },
+  {
+    "text": "experto y eso\", uno dice, \"Y pero no",
+    "duration": 5840,
+    "offset": 606760,
+    "lang": "es"
+  },
+  {
+    "text": "suena muy serio esto decir que soy un",
+    "duration": 4279,
+    "offset": 610800,
+    "lang": "es"
+  },
+  {
+    "text": "experto y demás.\" ¿Qué es lo que pasa?",
+    "duration": 4239,
+    "offset": 612600,
+    "lang": "es"
+  },
+  {
+    "text": "La arquitectura con la que están",
+    "duration": 4760,
+    "offset": 615079,
+    "lang": "es"
+  },
+  {
+    "text": "construidos todos los sistemas LLM, que",
+    "duration": 5000,
+    "offset": 616839,
+    "lang": "es"
+  },
+  {
+    "text": "son los cerebros de los agentes, se",
+    "duration": 4560,
+    "offset": 619839,
+    "lang": "es"
+  },
+  {
+    "text": "llama arquitectura MO. Ahí se las estoy",
+    "duration": 4081,
+    "offset": 621839,
+    "lang": "es"
+  },
+  {
+    "text": "escribiendo.",
+    "duration": 3841,
+    "offset": 624399,
+    "lang": "es"
+  },
+  {
+    "text": "Y eso no significa otra cosa que",
+    "duration": 4359,
+    "offset": 625920,
+    "lang": "es"
+  },
+  {
+    "text": "mixture.",
+    "duration": 4159,
+    "offset": 628240,
+    "lang": "es"
+  },
+  {
+    "text": "Seguro esta palabra la habrán escuchado.",
+    "duration": 3641,
+    "offset": 630279,
+    "lang": "es"
+  },
+  {
+    "text": "Mixture",
+    "duration": 4321,
+    "offset": 632399,
+    "lang": "es"
+  },
+  {
+    "text": "of experts.",
+    "duration": 4800,
+    "offset": 633920,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, la arquitectura [resoplido]",
+    "duration": 5239,
+    "offset": 636720,
+    "lang": "es"
+  },
+  {
+    "text": "MO o mixture of experts. ¿Qué es lo que",
+    "duration": 5919,
+    "offset": 638720,
+    "lang": "es"
+  },
+  {
+    "text": "hacen ustedes al darle identidad?",
+    "duration": 5081,
+    "offset": 641959,
+    "lang": "es"
+  },
+  {
+    "text": "hacen que esa mezcla de expertos",
+    "duration": 4961,
+    "offset": 644639,
+    "lang": "es"
+  },
+  {
+    "text": "encienda solamente aquella parte del",
+    "duration": 4239,
+    "offset": 647040,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de los billones de parámetros",
+    "duration": 3840,
+    "offset": 649600,
+    "lang": "es"
+  },
+  {
+    "text": "que tienen. La identidad hace que se",
+    "duration": 3761,
+    "offset": 651279,
+    "lang": "es"
+  },
+  {
+    "text": "encienda solamente aquellas partes que",
+    "duration": 3240,
+    "offset": 653440,
+    "lang": "es"
+  },
+  {
+    "text": "van a servir para responder las",
+    "duration": 3039,
+    "offset": 655040,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas que ustedes están haciendo,",
+    "duration": 4200,
+    "offset": 656680,
+    "lang": "es"
+  },
+  {
+    "text": "que son de histopatología.",
+    "duration": 4440,
+    "offset": 658079,
+    "lang": "es"
+  },
+  {
+    "text": "Por eso la identidad es importante,",
+    "duration": 3880,
+    "offset": 660880,
+    "lang": "es"
+  },
+  {
+    "text": "porque la identidad lo que hace es",
+    "duration": 5440,
+    "offset": 662519,
+    "lang": "es"
+  },
+  {
+    "text": "establece un camino, una trayectoria de",
+    "duration": 5360,
+    "offset": 664760,
+    "lang": "es"
+  },
+  {
+    "text": "neuronas que se van a encender y que",
+    "duration": 4161,
+    "offset": 667959,
+    "lang": "es"
+  },
+  {
+    "text": "tienen que ver exclusivamente con el",
+    "duration": 4680,
+    "offset": 670120,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento que recibió en su corpus",
+    "duration": 4680,
+    "offset": 672120,
+    "lang": "es"
+  },
+  {
+    "text": "de eso que ustedes le están preguntando.",
+    "duration": 5360,
+    "offset": 674800,
+    "lang": "es"
+  },
+  {
+    "text": "O sea, la la eh la identidad es muy",
+    "duration": 5240,
+    "offset": 676800,
+    "lang": "es"
+  },
+  {
+    "text": "importante",
+    "duration": 3720,
+    "offset": 680160,
+    "lang": "es"
+  },
+  {
+    "text": "para que les dé la respuesta y la",
+    "duration": 3640,
+    "offset": 682040,
+    "lang": "es"
+  },
+  {
+    "text": "ontología",
+    "duration": 7199,
+    "offset": 683880,
+    "lang": "es"
+  },
+  {
+    "text": "se refiere a las e",
+    "duration": 7120,
+    "offset": 685680,
+    "lang": "es"
+  },
+  {
+    "text": "la ontología,",
+    "duration": 4241,
+    "offset": 691079,
+    "lang": "es"
+  },
+  {
+    "text": "la la denominación, digamos así,",
+    "duration": 5320,
+    "offset": 692800,
+    "lang": "es"
+  },
+  {
+    "text": "estricta, serían entidades,",
+    "duration": 4800,
+    "offset": 695320,
+    "lang": "es"
+  },
+  {
+    "text": "propiedades y las relaciones entre",
+    "duration": 4360,
+    "offset": 698120,
+    "lang": "es"
+  },
+  {
+    "text": "entidades y propiedades. Para el que",
+    "duration": 6040,
+    "offset": 700120,
+    "lang": "es"
+  },
+  {
+    "text": "tiene una base de datos como Neo Forrese",
+    "duration": 5400,
+    "offset": 702480,
+    "lang": "es"
+  },
+  {
+    "text": "un grafo,",
+    "duration": 5200,
+    "offset": 706160,
+    "lang": "es"
+  },
+  {
+    "text": "sí o sí lo que hace el sistema antes de",
+    "duration": 7040,
+    "offset": 707880,
+    "lang": "es"
+  },
+  {
+    "text": "crear la base de datos de grafos es eh",
+    "duration": 7279,
+    "offset": 711360,
+    "lang": "es"
+  },
+  {
+    "text": "buscar la ontología de lo que tiene que",
+    "duration": 5560,
+    "offset": 714920,
+    "lang": "es"
+  },
+  {
+    "text": "guardar",
+    "duration": 4320,
+    "offset": 718639,
+    "lang": "es"
+  },
+  {
+    "text": "la ontología. En el caso, imagínense,",
+    "duration": 4400,
+    "offset": 720480,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo, yo ahora en Telecom estoy",
+    "duration": 4120,
+    "offset": 722959,
+    "lang": "es"
+  },
+  {
+    "text": "armando un sistema para ver eventos y",
+    "duration": 4480,
+    "offset": 724880,
+    "lang": "es"
+  },
+  {
+    "text": "demás. ¿Qué es la ontología? La",
+    "duration": 5801,
+    "offset": 727079,
+    "lang": "es"
+  },
+  {
+    "text": "ontología son las reglas del negocio.",
+    "duration": 6000,
+    "offset": 729360,
+    "lang": "es"
+  },
+  {
+    "text": "La lo que por ejemplo, no sé, en el caso",
+    "duration": 5480,
+    "offset": 732880,
+    "lang": "es"
+  },
+  {
+    "text": "de ustedes sería definir una ontología.",
+    "duration": 8200,
+    "offset": 735360,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, eh una célula, una neurona,",
+    "duration": 9240,
+    "offset": 738360,
+    "lang": "es"
+  },
+  {
+    "text": "tiene como propiedad que es este con",
+    "duration": 6000,
+    "offset": 743560,
+    "lang": "es"
+  },
+  {
+    "text": "forma de estrella.",
+    "duration": 5520,
+    "offset": 747600,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces entre célula y estrella hay una",
+    "duration": 7760,
+    "offset": 749560,
+    "lang": "es"
+  },
+  {
+    "text": "conexión que es la forma. Bien,",
+    "duration": 5839,
+    "offset": 753120,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 4280,
+    "offset": 757320,
+    "lang": "es"
+  },
+  {
+    "text": "una de las cosas que es importante es",
+    "duration": 5401,
+    "offset": 758959,
+    "lang": "es"
+  },
+  {
+    "text": "tener una ontología normalizada, porque",
+    "duration": 6080,
+    "offset": 761600,
+    "lang": "es"
+  },
+  {
+    "text": "esa ontología normalizada va sería como",
+    "duration": 6479,
+    "offset": 764360,
+    "lang": "es"
+  },
+  {
+    "text": "un glosario de términos y cuando le va a",
+    "duration": 5440,
+    "offset": 767680,
+    "lang": "es"
+  },
+  {
+    "text": "dar la respuesta, él busca ese glosario",
+    "duration": 4120,
+    "offset": 770839,
+    "lang": "es"
+  },
+  {
+    "text": "de términos y no le va a responder una",
+    "duration": 3399,
+    "offset": 773120,
+    "lang": "es"
+  },
+  {
+    "text": "pavada.",
+    "duration": 4801,
+    "offset": 774959,
+    "lang": "es"
+  },
+  {
+    "text": "Así que fíjense que creo que todos los",
+    "duration": 5880,
+    "offset": 776519,
+    "lang": "es"
+  },
+  {
+    "text": "sistemitas que hice yo tenían una parte",
+    "duration": 5120,
+    "offset": 779760,
+    "lang": "es"
+  },
+  {
+    "text": "de una ontología normalizada. Una cosa",
+    "duration": 4440,
+    "offset": 782399,
+    "lang": "es"
+  },
+  {
+    "text": "que sucede es que alguien dijo que el",
+    "duration": 3959,
+    "offset": 784880,
+    "lang": "es"
+  },
+  {
+    "text": "sistema le había recomendado ponerlo",
+    "duration": 4481,
+    "offset": 786839,
+    "lang": "es"
+  },
+  {
+    "text": "ontología en una base de Neo for Sha. No",
+    "duration": 5481,
+    "offset": 788839,
+    "lang": "es"
+  },
+  {
+    "text": "está mal eso, pero eso es como que",
+    "duration": 5079,
+    "offset": 791320,
+    "lang": "es"
+  },
+  {
+    "text": "recargar mucho el sistema y generar",
+    "duration": 6199,
+    "offset": 794320,
+    "lang": "es"
+  },
+  {
+    "text": "mucha eh mucho este tiempo de de mucho",
+    "duration": 6201,
+    "offset": 796399,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo para la respuesta. Lo mejor es la",
+    "duration": 4880,
+    "offset": 800519,
+    "lang": "es"
+  },
+  {
+    "text": "ontología definirla en un archivo tipo",
+    "duration": 5599,
+    "offset": 802600,
+    "lang": "es"
+  },
+  {
+    "text": "un archivo Jason, un Yaml y que esté en",
+    "duration": 5120,
+    "offset": 805399,
+    "lang": "es"
+  },
+  {
+    "text": "memoria,",
+    "duration": 4561,
+    "offset": 808199,
+    "lang": "es"
+  },
+  {
+    "text": "porque tampoco es que es tan grande todo",
+    "duration": 4241,
+    "offset": 810519,
+    "lang": "es"
+  },
+  {
+    "text": "lo que tienen que guardar como para que",
+    "duration": 4280,
+    "offset": 812760,
+    "lang": "es"
+  },
+  {
+    "text": "necesite una base de datos.",
+    "duration": 4759,
+    "offset": 814760,
+    "lang": "es"
+  },
+  {
+    "text": "Usar dos bases de datos, uno solo para",
+    "duration": 4280,
+    "offset": 817040,
+    "lang": "es"
+  },
+  {
+    "text": "guardar",
+    "duration": 3680,
+    "offset": 819519,
+    "lang": "es"
+  },
+  {
+    "text": "toda la parte de ontología, no es algo",
+    "duration": 4000,
+    "offset": 821320,
+    "lang": "es"
+  },
+  {
+    "text": "que que vaya a ser eficiente, pero",
+    "duration": 4721,
+    "offset": 823199,
+    "lang": "es"
+  },
+  {
+    "text": "definir ontología, una ontología es",
+    "duration": 5280,
+    "offset": 825320,
+    "lang": "es"
+  },
+  {
+    "text": "necesario.",
+    "duration": 4359,
+    "offset": 827920,
+    "lang": "es"
+  },
+  {
+    "text": "Recuerden lo siguiente. Cuando hay una",
+    "duration": 4000,
+    "offset": 830600,
+    "lang": "es"
+  },
+  {
+    "text": "implementación, o sea, cuando hay reglas",
+    "duration": 6721,
+    "offset": 832279,
+    "lang": "es"
+  },
+  {
+    "text": "definidas claras, como por ejemplo, si",
+    "duration": 6960,
+    "offset": 834600,
+    "lang": "es"
+  },
+  {
+    "text": "este valor es mayor que 20, haga tal",
+    "duration": 4920,
+    "offset": 839000,
+    "lang": "es"
+  },
+  {
+    "text": "cosa. que es una heurística clara, o",
+    "duration": 4959,
+    "offset": 841560,
+    "lang": "es"
+  },
+  {
+    "text": "sea, que que hay una regla definida",
+    "duration": 4400,
+    "offset": 843920,
+    "lang": "es"
+  },
+  {
+    "text": "clara, ahí la inteligencia artificial no",
+    "duration": 4601,
+    "offset": 846519,
+    "lang": "es"
+  },
+  {
+    "text": "tiene sentido. ¿Por qué? Porque es mucho",
+    "duration": 4680,
+    "offset": 848320,
+    "lang": "es"
+  },
+  {
+    "text": "más barato poner un IF que poner",
+    "duration": 4399,
+    "offset": 851120,
+    "lang": "es"
+  },
+  {
+    "text": "inteligencia artificial.",
+    "duration": 4120,
+    "offset": 853000,
+    "lang": "es"
+  },
+  {
+    "text": "Cuando hay una metaurística, por",
+    "duration": 4120,
+    "offset": 855519,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo, si ustedes ya van a ver este",
+    "duration": 7360,
+    "offset": 857120,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmos como el algoritmo de el eh",
+    "duration": 7440,
+    "offset": 859639,
+    "lang": "es"
+  },
+  {
+    "text": "el algoritmo del camino de hormigas o la",
+    "duration": 4680,
+    "offset": 864480,
+    "lang": "es"
+  },
+  {
+    "text": "optimización de partículas de colmena y",
+    "duration": 4481,
+    "offset": 867079,
+    "lang": "es"
+  },
+  {
+    "text": "demás, eso que es metaurístico tampoco",
+    "duration": 3799,
+    "offset": 869160,
+    "lang": "es"
+  },
+  {
+    "text": "tiene sentido la inteligencia",
+    "duration": 3079,
+    "offset": 871560,
+    "lang": "es"
+  },
+  {
+    "text": "artificial.",
+    "duration": 4041,
+    "offset": 872959,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora, cuando hay una lógica difusa,",
+    "duration": 4081,
+    "offset": 874639,
+    "lang": "es"
+  },
+  {
+    "text": "como acá, que ustedes le ponen una",
+    "duration": 5360,
+    "offset": 877000,
+    "lang": "es"
+  },
+  {
+    "text": "imagen y la imagen que ser comparada con",
+    "duration": 6679,
+    "offset": 878720,
+    "lang": "es"
+  },
+  {
+    "text": "otra imagen patrón para ver si coinciden",
+    "duration": 6440,
+    "offset": 882360,
+    "lang": "es"
+  },
+  {
+    "text": "y buscar cosas similares, esa en ese",
+    "duration": 5440,
+    "offset": 885399,
+    "lang": "es"
+  },
+  {
+    "text": "caso de lógica difusa, ahí sí tiene",
+    "duration": 4599,
+    "offset": 888800,
+    "lang": "es"
+  },
+  {
+    "text": "sentido usar inteligencia artificial",
+    "duration": 5800,
+    "offset": 890839,
+    "lang": "es"
+  },
+  {
+    "text": "y va a ser tanto cuán más exitosa cuanto",
+    "duration": 5841,
+    "offset": 893399,
+    "lang": "es"
+  },
+  {
+    "text": "más posible sea definir una ontología",
+    "duration": 4481,
+    "offset": 896639,
+    "lang": "es"
+  },
+  {
+    "text": "normalizada.",
+    "duration": 5320,
+    "offset": 899240,
+    "lang": "es"
+  },
+  {
+    "text": "O sea, que si yo estoy en ciencias",
+    "duration": 5440,
+    "offset": 901120,
+    "lang": "es"
+  },
+  {
+    "text": "sociales,",
+    "duration": 4639,
+    "offset": 904560,
+    "lang": "es"
+  },
+  {
+    "text": "a donde cada palabra depende del sujeto",
+    "duration": 4760,
+    "offset": 906560,
+    "lang": "es"
+  },
+  {
+    "text": "que la está diciendo, yo necesito una",
+    "duration": 3721,
+    "offset": 909199,
+    "lang": "es"
+  },
+  {
+    "text": "interpretación subjetiva. Esa",
+    "duration": 4280,
+    "offset": 911320,
+    "lang": "es"
+  },
+  {
+    "text": "interpretación subjetiva no sirve, de",
+    "duration": 4440,
+    "offset": 912920,
+    "lang": "es"
+  },
+  {
+    "text": "hecho, o sea, en ciencias sociales es a",
+    "duration": 3320,
+    "offset": 915600,
+    "lang": "es"
+  },
+  {
+    "text": "donde menos sirve la inteligencia",
+    "duration": 3800,
+    "offset": 917360,
+    "lang": "es"
+  },
+  {
+    "text": "artificial, pero todo lo que tiene que",
+    "duration": 4080,
+    "offset": 918920,
+    "lang": "es"
+  },
+  {
+    "text": "ver con ciencias duras o ciencias",
+    "duration": 4679,
+    "offset": 921160,
+    "lang": "es"
+  },
+  {
+    "text": "naturales, sí sirve. Y sirve por qué y",
+    "duration": 4199,
+    "offset": 923000,
+    "lang": "es"
+  },
+  {
+    "text": "porque ahí es posible definir una",
+    "duration": 4281,
+    "offset": 925839,
+    "lang": "es"
+  },
+  {
+    "text": "ontología normalizada. Bien, ahora",
+    "duration": 6241,
+    "offset": 927199,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes con lo que tienen que jugar es",
+    "duration": 6279,
+    "offset": 930120,
+    "lang": "es"
+  },
+  {
+    "text": "con los índices de similaridad,",
+    "duration": 7839,
+    "offset": 933440,
+    "lang": "es"
+  },
+  {
+    "text": "con eh el tamaño de los chanks y después",
+    "duration": 6800,
+    "offset": 936399,
+    "lang": "es"
+  },
+  {
+    "text": "a la salida, digamos, cuando van a",
+    "duration": 4120,
+    "offset": 941279,
+    "lang": "es"
+  },
+  {
+    "text": "explicar, pero que sería el 20% del",
+    "duration": 5640,
+    "offset": 943199,
+    "lang": "es"
+  },
+  {
+    "text": "éxito, el 80% es la precisión con la que",
+    "duration": 5641,
+    "offset": 945399,
+    "lang": "es"
+  },
+  {
+    "text": "se recupera el contenido de la base de",
+    "duration": 5841,
+    "offset": 948839,
+    "lang": "es"
+  },
+  {
+    "text": "datos. y el 20% es tener una buena",
+    "duration": 6000,
+    "offset": 951040,
+    "lang": "es"
+  },
+  {
+    "text": "ontología y un buen prompting para que",
+    "duration": 6040,
+    "offset": 954680,
+    "lang": "es"
+  },
+  {
+    "text": "les responda correctamente. Bien,",
+    "duration": 7159,
+    "offset": 957040,
+    "lang": "es"
+  },
+  {
+    "text": "pero ahora ya empieza, terminamos el",
+    "duration": 4919,
+    "offset": 960720,
+    "lang": "es"
+  },
+  {
+    "text": "sprint donde estamos estudiando y",
+    "duration": 4080,
+    "offset": 964199,
+    "lang": "es"
+  },
+  {
+    "text": "empieza el momento en donde hay que",
+    "duration": 4200,
+    "offset": 965639,
+    "lang": "es"
+  },
+  {
+    "text": "empezar a hacer correr y hacer las",
+    "duration": 4000,
+    "offset": 968279,
+    "lang": "es"
+  },
+  {
+    "text": "pruebas.",
+    "duration": 4321,
+    "offset": 969839,
+    "lang": "es"
+  },
+  {
+    "text": "La e",
+    "duration": 6961,
+    "offset": 972279,
+    "lang": "es"
+  },
+  {
+    "text": "ahora también es a donde el la el grupo",
+    "duration": 10239,
+    "offset": 974160,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene la parte de métricas de y e y",
+    "duration": 7240,
+    "offset": 979240,
+    "lang": "es"
+  },
+  {
+    "text": "evaluación",
+    "duration": 4401,
+    "offset": 984399,
+    "lang": "es"
+  },
+  {
+    "text": "es a donde va a tener que ver realmente",
+    "duration": 5400,
+    "offset": 986480,
+    "lang": "es"
+  },
+  {
+    "text": "cuáles son las mejores métricas para el",
+    "duration": 6399,
+    "offset": 988800,
+    "lang": "es"
+  },
+  {
+    "text": "rag y ver en el caso que falle, o sea,",
+    "duration": 5319,
+    "offset": 991880,
+    "lang": "es"
+  },
+  {
+    "text": "cuando ahí es donde van a tener por ahí",
+    "duration": 5921,
+    "offset": 995199,
+    "lang": "es"
+  },
+  {
+    "text": "que este estar con el grupo de métricas.",
+    "duration": 7601,
+    "offset": 997199,
+    "lang": "es"
+  },
+  {
+    "text": "y evaluación. Si ustedes hacen pruebas,",
+    "duration": 5639,
+    "offset": 1001120,
+    "lang": "es"
+  },
+  {
+    "text": "documéntenlo bien, dicen, \"Bueno, yo",
+    "duration": 5120,
+    "offset": 1004800,
+    "lang": "es"
+  },
+  {
+    "text": "agarré esta imagen en la imagen, porque",
+    "duration": 5440,
+    "offset": 1006759,
+    "lang": "es"
+  },
+  {
+    "text": "la idea es poner una imagen en principio",
+    "duration": 4359,
+    "offset": 1009920,
+    "lang": "es"
+  },
+  {
+    "text": "y decirle, explícame de qué tejido se",
+    "duration": 4200,
+    "offset": 1012199,
+    "lang": "es"
+  },
+  {
+    "text": "trata.\"",
+    "duration": 3401,
+    "offset": 1014279,
+    "lang": "es"
+  },
+  {
+    "text": "Si yo agarré su imagen, le dije,",
+    "duration": 3041,
+    "offset": 1016399,
+    "lang": "es"
+  },
+  {
+    "text": "\"Explícame de qué tejido se trata y",
+    "duration": 3279,
+    "offset": 1017680,
+    "lang": "es"
+  },
+  {
+    "text": "falló.\"",
+    "duration": 4759,
+    "offset": 1019440,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, ahí lo ideal es hablar con la",
+    "duration": 6161,
+    "offset": 1020959,
+    "lang": "es"
+  },
+  {
+    "text": "gente de evaluación y métricas para ver",
+    "duration": 4880,
+    "offset": 1024199,
+    "lang": "es"
+  },
+  {
+    "text": "realmente, bueno, vemos la métrica de",
+    "duration": 4319,
+    "offset": 1027120,
+    "lang": "es"
+  },
+  {
+    "text": "similaridad. Sí, vamos a buscar ahí que",
+    "duration": 5561,
+    "offset": 1029079,
+    "lang": "es"
+  },
+  {
+    "text": "ellos los ayuden. Búsquenlas entre todos",
+    "duration": 4441,
+    "offset": 1031439,
+    "lang": "es"
+  },
+  {
+    "text": "porque la idea es que todos estén",
+    "duration": 4760,
+    "offset": 1034640,
+    "lang": "es"
+  },
+  {
+    "text": "involucrados. A ver dónde ven que tiene",
+    "duration": 5520,
+    "offset": 1035880,
+    "lang": "es"
+  },
+  {
+    "text": "el índice de similaridad. Usen",
+    "duration": 5159,
+    "offset": 1039400,
+    "lang": "es"
+  },
+  {
+    "text": "antigravity. Fíjense cómo pueden hacer",
+    "duration": 6799,
+    "offset": 1041400,
+    "lang": "es"
+  },
+  {
+    "text": "para mejorar ese índice de similaridad.",
+    "duration": 5681,
+    "offset": 1044559,
+    "lang": "es"
+  },
+  {
+    "text": "Otra cosa que es muy importante es el",
+    "duration": 4521,
+    "offset": 1048199,
+    "lang": "es"
+  },
+  {
+    "text": "tema de los embeddings. Ustedes están",
+    "duration": 4720,
+    "offset": 1050240,
+    "lang": "es"
+  },
+  {
+    "text": "usando clip o image bind, que son",
+    "duration": 4800,
+    "offset": 1052720,
+    "lang": "es"
+  },
+  {
+    "text": "embeddings de uso general.",
+    "duration": 4560,
+    "offset": 1054960,
+    "lang": "es"
+  },
+  {
+    "text": "Hay otros en beding. Yo ahora se los voy",
+    "duration": 7920,
+    "offset": 1057520,
+    "lang": "es"
+  },
+  {
+    "text": "a pasar de un laboratorio muy conocido.",
+    "duration": 5920,
+    "offset": 1059520,
+    "lang": "es"
+  },
+  {
+    "text": "Aguárdenme. Eh,",
+    "duration": 9000,
+    "offset": 1067520,
+    "lang": "es"
+  },
+  {
+    "text": "lo que se puede hacer es",
+    "duration": 5481,
+    "offset": 1071039,
+    "lang": "es"
+  },
+  {
+    "text": "quiero eh",
+    "duration": 7000,
+    "offset": 1079080,
+    "lang": "es"
+  },
+  {
+    "text": "quiero copiar algo.",
+    "duration": 3800,
+    "offset": 1082280,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, esperen que les voy a pasar este.",
+    "duration": 6800,
+    "offset": 1086280,
+    "lang": "es"
+  },
+  {
+    "text": "Si ustedes cambian el cambian el tamaño",
+    "duration": 5160,
+    "offset": 1089960,
+    "lang": "es"
+  },
+  {
+    "text": "de Chan, se fijan que esté el prom",
+    "duration": 4880,
+    "offset": 1093080,
+    "lang": "es"
+  },
+  {
+    "text": "correcto y demás y no tienen un buen",
+    "duration": 5280,
+    "offset": 1095120,
+    "lang": "es"
+  },
+  {
+    "text": "índice de similaridad, prueben con estos",
+    "duration": 4240,
+    "offset": 1097960,
+    "lang": "es"
+  },
+  {
+    "text": "embeding. Estos embeddings están en",
+    "duration": 6080,
+    "offset": 1100400,
+    "lang": "es"
+  },
+  {
+    "text": "haging face. Tienen que pedir a Huging",
+    "duration": 7080,
+    "offset": 1102200,
+    "lang": "es"
+  },
+  {
+    "text": "Face que se los habilite.",
+    "duration": 7240,
+    "offset": 1106480,
+    "lang": "es"
+  },
+  {
+    "text": "¿Conocen la página Haging Face?",
+    "duration": 4440,
+    "offset": 1109280,
+    "lang": "es"
+  },
+  {
+    "text": "¿Alguien la usó alguna vez?",
+    "duration": 3640,
+    "offset": 1113840,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 3000,
+    "offset": 1122360,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, es una empresa que se dedica a hacer",
+    "duration": 3801,
+    "offset": 1126159,
+    "lang": "es"
+  },
+  {
+    "text": "embedings y esos embeddings están",
+    "duration": 3960,
+    "offset": 1128240,
+    "lang": "es"
+  },
+  {
+    "text": "especialmente entrenados con imágenes de",
+    "duration": 5199,
+    "offset": 1129960,
+    "lang": "es"
+  },
+  {
+    "text": "histopatología.",
+    "duration": 5880,
+    "offset": 1132200,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, listo, listo.",
+    "duration": 5921,
+    "offset": 1135159,
+    "lang": "es"
+  },
+  {
+    "text": "Buenísimo.",
+    "duration": 3000,
+    "offset": 1138080,
+    "lang": "es"
+  },
+  {
+    "text": "E",
+    "duration": 3241,
+    "offset": 1142159,
+    "lang": "es"
+  },
+  {
+    "text": "bien,",
+    "duration": 5640,
+    "offset": 1143880,
+    "lang": "es"
+  },
+  {
+    "text": "¿cuál es la la idea? Es último de todo,",
+    "duration": 6000,
+    "offset": 1145400,
+    "lang": "es"
+  },
+  {
+    "text": "prueben cambiar los embedings. Igual no",
+    "duration": 3519,
+    "offset": 1149520,
+    "lang": "es"
+  },
+  {
+    "text": "se hagan problema que tenemos tiempo",
+    "duration": 4279,
+    "offset": 1151400,
+    "lang": "es"
+  },
+  {
+    "text": "porque hasta junio tenemos que ver qué",
+    "duration": 5841,
+    "offset": 1153039,
+    "lang": "es"
+  },
+  {
+    "text": "es lo que eh qué es lo que funciona",
+    "duration": 4880,
+    "offset": 1155679,
+    "lang": "es"
+  },
+  {
+    "text": "mejor.",
+    "duration": 4520,
+    "offset": 1158880,
+    "lang": "es"
+  },
+  {
+    "text": "Tenemos los sistemas eh dos sistemas que",
+    "duration": 6281,
+    "offset": 1160559,
+    "lang": "es"
+  },
+  {
+    "text": "usan Cudran, un sistema que usa Neo For",
+    "duration": 6040,
+    "offset": 1163400,
+    "lang": "es"
+  },
+  {
+    "text": "y un sistema que usa Colpali, sistemas",
+    "duration": 5360,
+    "offset": 1166840,
+    "lang": "es"
+  },
+  {
+    "text": "que usa Nimaswin",
+    "duration": 8560,
+    "offset": 1169440,
+    "lang": "es"
+  },
+  {
+    "text": "y eh lo que podemos hacer es e",
+    "duration": 9959,
+    "offset": 1172200,
+    "lang": "es"
+  },
+  {
+    "text": "probar si, o sea, primero van a agarrar,",
+    "duration": 6400,
+    "offset": 1178000,
+    "lang": "es"
+  },
+  {
+    "text": "van a ponerle la imagen y le van a",
+    "duration": 4281,
+    "offset": 1182159,
+    "lang": "es"
+  },
+  {
+    "text": "decir, \"Explicame qué tejido es este.\"",
+    "duration": 3920,
+    "offset": 1184400,
+    "lang": "es"
+  },
+  {
+    "text": "la imagen",
+    "duration": 6320,
+    "offset": 1186440,
+    "lang": "es"
+  },
+  {
+    "text": "cortada o copyasteada de el",
+    "duration": 7560,
+    "offset": 1188320,
+    "lang": "es"
+  },
+  {
+    "text": "manual que ustedes están usando.",
+    "duration": 5440,
+    "offset": 1192760,
+    "lang": "es"
+  },
+  {
+    "text": "Si se los contesta bien, perfecto. Si no",
+    "duration": 4360,
+    "offset": 1195880,
+    "lang": "es"
+  },
+  {
+    "text": "se los contesta bien, si no lo encuentra",
+    "duration": 4640,
+    "offset": 1198200,
+    "lang": "es"
+  },
+  {
+    "text": "por algún motivo, ahí primero con",
+    "duration": 5360,
+    "offset": 1200240,
+    "lang": "es"
+  },
+  {
+    "text": "Antigravity, a ver por qué no contesta.",
+    "duration": 8199,
+    "offset": 1202840,
+    "lang": "es"
+  },
+  {
+    "text": "Y lo que sí está bueno es que eh ya",
+    "duration": 10240,
+    "offset": 1205600,
+    "lang": "es"
+  },
+  {
+    "text": "empiecen a usar Langsmith y de última",
+    "duration": 6481,
+    "offset": 1211039,
+    "lang": "es"
+  },
+  {
+    "text": "hablen con los chicos que están",
+    "duration": 3640,
+    "offset": 1215840,
+    "lang": "es"
+  },
+  {
+    "text": "solamente para la parte de evaluación y",
+    "duration": 3680,
+    "offset": 1217520,
+    "lang": "es"
+  },
+  {
+    "text": "métricas",
+    "duration": 4120,
+    "offset": 1219480,
+    "lang": "es"
+  },
+  {
+    "text": "y entre todos intenten ver a ver si se",
+    "duration": 4640,
+    "offset": 1221200,
+    "lang": "es"
+  },
+  {
+    "text": "dan cuenta qué métricas son las que",
+    "duration": 5040,
+    "offset": 1223600,
+    "lang": "es"
+  },
+  {
+    "text": "tienen que buscar para ver si pueden de",
+    "duration": 5560,
+    "offset": 1225840,
+    "lang": "es"
+  },
+  {
+    "text": "ahí deducir por qué falló. Bien, o sea,",
+    "duration": 5519,
+    "offset": 1228640,
+    "lang": "es"
+  },
+  {
+    "text": "por un lado van a hacer eso de ver si",
+    "duration": 5759,
+    "offset": 1231400,
+    "lang": "es"
+  },
+  {
+    "text": "funciona o no funciona, ajustar promps,",
+    "duration": 6281,
+    "offset": 1234159,
+    "lang": "es"
+  },
+  {
+    "text": "ajustar tamaños de chans.",
+    "duration": 5400,
+    "offset": 1237159,
+    "lang": "es"
+  },
+  {
+    "text": "Tal vez en algunos casos recomienda,",
+    "duration": 5040,
+    "offset": 1240440,
+    "lang": "es"
+  },
+  {
+    "text": "bueno, cambien PMU PDF, cambie Pesser",
+    "duration": 5240,
+    "offset": 1242559,
+    "lang": "es"
+  },
+  {
+    "text": "use otra cosa, o sea, busquen eso. No",
+    "duration": 6040,
+    "offset": 1245480,
+    "lang": "es"
+  },
+  {
+    "text": "usen otra base de datos. Bien,",
+    "duration": 5681,
+    "offset": 1247799,
+    "lang": "es"
+  },
+  {
+    "text": "no cambien la base de datos porque eso",
+    "duration": 5720,
+    "offset": 1251520,
+    "lang": "es"
+  },
+  {
+    "text": "no no va a a generar más retraso, pero",
+    "duration": 7079,
+    "offset": 1253480,
+    "lang": "es"
+  },
+  {
+    "text": "por el momento no no porque en general",
+    "duration": 4840,
+    "offset": 1257240,
+    "lang": "es"
+  },
+  {
+    "text": "la base de datos vectorial va a",
+    "duration": 3120,
+    "offset": 1260559,
+    "lang": "es"
+  },
+  {
+    "text": "funcionar bien. El tema acá es toda la",
+    "duration": 4520,
+    "offset": 1262080,
+    "lang": "es"
+  },
+  {
+    "text": "parte del chanking y cómo se generan los",
+    "duration": 5681,
+    "offset": 1263679,
+    "lang": "es"
+  },
+  {
+    "text": "y los embeddings.",
+    "duration": 4240,
+    "offset": 1266600,
+    "lang": "es"
+  },
+  {
+    "text": "Si ustedes prueban y no funciona,",
+    "duration": 3400,
+    "offset": 1269360,
+    "lang": "es"
+  },
+  {
+    "text": "prueben cambiar los embeding. Si prueban",
+    "duration": 4000,
+    "offset": 1270840,
+    "lang": "es"
+  },
+  {
+    "text": "y no funciona, tal vez entonces no sea",
+    "duration": 5080,
+    "offset": 1272760,
+    "lang": "es"
+  },
+  {
+    "text": "por ese camino. Y empecé a decir, bueno,",
+    "duration": 6240,
+    "offset": 1274840,
+    "lang": "es"
+  },
+  {
+    "text": "a ver, probé con el de Neo For, no",
+    "duration": 4640,
+    "offset": 1277840,
+    "lang": "es"
+  },
+  {
+    "text": "funcionó. Probé con el de Kan, no",
+    "duration": 3479,
+    "offset": 1281080,
+    "lang": "es"
+  },
+  {
+    "text": "funcionó. Probé con el de Colpali, sí",
+    "duration": 4000,
+    "offset": 1282480,
+    "lang": "es"
+  },
+  {
+    "text": "funcionó. Y entonces vamos todos con",
+    "duration": 4681,
+    "offset": 1284559,
+    "lang": "es"
+  },
+  {
+    "text": "Colpali y a ver métricas de Colpali y",
+    "duration": 4799,
+    "offset": 1286480,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a estar todos haciendo pruebas con",
+    "duration": 4000,
+    "offset": 1289240,
+    "lang": "es"
+  },
+  {
+    "text": "ese sistema.",
+    "duration": 3880,
+    "offset": 1291279,
+    "lang": "es"
+  },
+  {
+    "text": "Si funciona y les dice, \"Sí, bueno, este",
+    "duration": 3280,
+    "offset": 1293240,
+    "lang": "es"
+  },
+  {
+    "text": "tejido es tal cosa que está en el",
+    "duration": 2721,
+    "offset": 1295159,
+    "lang": "es"
+  },
+  {
+    "text": "manual.\" Lo siguiente que tiene que",
+    "duration": 2920,
+    "offset": 1296520,
+    "lang": "es"
+  },
+  {
+    "text": "hacer, como ya les dije, le ponen una",
+    "duration": 4760,
+    "offset": 1297880,
+    "lang": "es"
+  },
+  {
+    "text": "imagen de un gato, algo que sea",
+    "duration": 5880,
+    "offset": 1299440,
+    "lang": "es"
+  },
+  {
+    "text": "imposible de discernir y después le",
+    "duration": 4120,
+    "offset": 1302640,
+    "lang": "es"
+  },
+  {
+    "text": "ponen una imagen de una biopsia de",
+    "duration": 3839,
+    "offset": 1305320,
+    "lang": "es"
+  },
+  {
+    "text": "hígado demás que no esté a ver si dice,",
+    "duration": 4159,
+    "offset": 1306760,
+    "lang": "es"
+  },
+  {
+    "text": "\"No, mira, no la encontré, vi tal cosa,",
+    "duration": 3041,
+    "offset": 1309159,
+    "lang": "es"
+  },
+  {
+    "text": "tal otra.\"",
+    "duration": 3120,
+    "offset": 1310919,
+    "lang": "es"
+  },
+  {
+    "text": "Como tiene una ontología, una ontología",
+    "duration": 4640,
+    "offset": 1312200,
+    "lang": "es"
+  },
+  {
+    "text": "normalizada, el LL me va a contestar",
+    "duration": 5561,
+    "offset": 1314039,
+    "lang": "es"
+  },
+  {
+    "text": "bien por la imagen, pero puede que les",
+    "duration": 4480,
+    "offset": 1316840,
+    "lang": "es"
+  },
+  {
+    "text": "diga, \"No tengo contenido para",
+    "duration": 3400,
+    "offset": 1319600,
+    "lang": "es"
+  },
+  {
+    "text": "responderte esto, no hay para",
+    "duration": 4959,
+    "offset": 1321320,
+    "lang": "es"
+  },
+  {
+    "text": "responderte esto y demás.\" Bien, ese",
+    "duration": 5480,
+    "offset": 1323000,
+    "lang": "es"
+  },
+  {
+    "text": "sería el caso ideal. Vamos a",
+    "duration": 4081,
+    "offset": 1326279,
+    "lang": "es"
+  },
+  {
+    "text": "encontrarnos para que ustedes me cuenten",
+    "duration": 4720,
+    "offset": 1328480,
+    "lang": "es"
+  },
+  {
+    "text": "cómo fueron las pruebas y al que le dio",
+    "duration": 5360,
+    "offset": 1330360,
+    "lang": "es"
+  },
+  {
+    "text": "bien, esto es como vieron cuando eh van",
+    "duration": 5200,
+    "offset": 1333200,
+    "lang": "es"
+  },
+  {
+    "text": "a pescar y sale en un lado y se van a",
+    "duration": 4280,
+    "offset": 1335720,
+    "lang": "es"
+  },
+  {
+    "text": "tirar anzuelo de ese lado. Bueno, vamos",
+    "duration": 3080,
+    "offset": 1338400,
+    "lang": "es"
+  },
+  {
+    "text": "a ir haciendo así.",
+    "duration": 3200,
+    "offset": 1340000,
+    "lang": "es"
+  },
+  {
+    "text": "Por eso es que estamos probando todo",
+    "duration": 5640,
+    "offset": 1341480,
+    "lang": "es"
+  },
+  {
+    "text": "esto. Bien. Y busquen siempre explicar",
+    "duration": 6599,
+    "offset": 1343200,
+    "lang": "es"
+  },
+  {
+    "text": "el el funcionamiento en función de las",
+    "duration": 5120,
+    "offset": 1347120,
+    "lang": "es"
+  },
+  {
+    "text": "métricas. Los chicos de métricas van a",
+    "duration": 5521,
+    "offset": 1349799,
+    "lang": "es"
+  },
+  {
+    "text": "estar estudiando ahora métricas ragas",
+    "duration": 4640,
+    "offset": 1352240,
+    "lang": "es"
+  },
+  {
+    "text": "para ver todo lo que es la parte de",
+    "duration": 4719,
+    "offset": 1355320,
+    "lang": "es"
+  },
+  {
+    "text": "evaluación del rag y van a necesitar",
+    "duration": 5080,
+    "offset": 1356880,
+    "lang": "es"
+  },
+  {
+    "text": "también la ayuda de todos porque ustedes",
+    "duration": 3161,
+    "offset": 1360039,
+    "lang": "es"
+  },
+  {
+    "text": "son los que van a estar también",
+    "duration": 3199,
+    "offset": 1361960,
+    "lang": "es"
+  },
+  {
+    "text": "generando contenido para ver qué pasa,",
+    "duration": 3479,
+    "offset": 1363200,
+    "lang": "es"
+  },
+  {
+    "text": "qué no pasa. Bien.",
+    "duration": 3561,
+    "offset": 1365159,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, una consulta.",
+    "duration": 4120,
+    "offset": 1366679,
+    "lang": "es"
+  },
+  {
+    "text": "Sí. Eh, por parte del grupo de métricas",
+    "duration": 3319,
+    "offset": 1368720,
+    "lang": "es"
+  },
+  {
+    "text": "te había escuchado algo que en realidad",
+    "duration": 3161,
+    "offset": 1370799,
+    "lang": "es"
+  },
+  {
+    "text": "no me terminó de cuadrar, que dijiste",
+    "duration": 4081,
+    "offset": 1372039,
+    "lang": "es"
+  },
+  {
+    "text": "como que si es que digamos fallan lo que",
+    "duration": 3800,
+    "offset": 1373960,
+    "lang": "es"
+  },
+  {
+    "text": "estén haciendo, como que busquemos unas",
+    "duration": 3240,
+    "offset": 1376120,
+    "lang": "es"
+  },
+  {
+    "text": "métricas en particular como para",
+    "duration": 4120,
+    "offset": 1377760,
+    "lang": "es"
+  },
+  {
+    "text": "entender qué es lo que está fallando, o",
+    "duration": 5600,
+    "offset": 1379360,
+    "lang": "es"
+  },
+  {
+    "text": "sea, como especializar las métricas como",
+    "duration": 4960,
+    "offset": 1381880,
+    "lang": "es"
+  },
+  {
+    "text": "para ver qué aspecto es que está",
+    "duration": 3560,
+    "offset": 1384960,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo que en general la experiencia",
+    "duration": 3760,
+    "offset": 1386840,
+    "lang": "es"
+  },
+  {
+    "text": "sea mala. Claro. Lo primero es, por",
+    "duration": 5720,
+    "offset": 1388520,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo, si ustedes dicen, \"Puse una",
+    "duration": 10480,
+    "offset": 1390600,
+    "lang": "es"
+  },
+  {
+    "text": "puse eh una eh imagen que está en el eh",
+    "duration": 9160,
+    "offset": 1394240,
+    "lang": "es"
+  },
+  {
+    "text": "en la base de datos, o sea, una imagen,",
+    "duration": 5599,
+    "offset": 1401080,
+    "lang": "es"
+  },
+  {
+    "text": "hice un copy paste de una imagen de el",
+    "duration": 6080,
+    "offset": 1403400,
+    "lang": "es"
+  },
+  {
+    "text": "eh de la base de datos y no la",
+    "duration": 4561,
+    "offset": 1406679,
+    "lang": "es"
+  },
+  {
+    "text": "encontró.\"",
+    "duration": 5640,
+    "offset": 1409480,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, con lo primero que hay que ver es",
+    "duration": 6000,
+    "offset": 1411240,
+    "lang": "es"
+  },
+  {
+    "text": "ese esa búsqueda en la base de datos,",
+    "duration": 6320,
+    "offset": 1415120,
+    "lang": "es"
+  },
+  {
+    "text": "¿qué índice de similaridad arrojó?",
+    "duration": 7039,
+    "offset": 1417240,
+    "lang": "es"
+  },
+  {
+    "text": "Si el índice de similaridad es muy bajo,",
+    "duration": 6440,
+    "offset": 1421440,
+    "lang": "es"
+  },
+  {
+    "text": "o sea, está debajo de 02,",
+    "duration": 5801,
+    "offset": 1424279,
+    "lang": "es"
+  },
+  {
+    "text": "significa que evidentemente o los",
+    "duration": 5440,
+    "offset": 1427880,
+    "lang": "es"
+  },
+  {
+    "text": "tamaños de Chanks o los embedings. Anda,",
+    "duration": 4760,
+    "offset": 1430080,
+    "lang": "es"
+  },
+  {
+    "text": "andá tranquilo, Luis. Igual yo después",
+    "duration": 3080,
+    "offset": 1433320,
+    "lang": "es"
+  },
+  {
+    "text": "les paso la grabación. Igual ya, ya",
+    "duration": 3360,
+    "offset": 1434840,
+    "lang": "es"
+  },
+  {
+    "text": "terminamos,",
+    "duration": 4480,
+    "offset": 1436400,
+    "lang": "es"
+  },
+  {
+    "text": "¿eh? Puede ser tamaño de chans o los",
+    "duration": 4359,
+    "offset": 1438200,
+    "lang": "es"
+  },
+  {
+    "text": "embedings no sean correctos. No se hay",
+    "duration": 4039,
+    "offset": 1440880,
+    "lang": "es"
+  },
+  {
+    "text": "que ir por tamaño de chans o embeddings.",
+    "duration": 4441,
+    "offset": 1442559,
+    "lang": "es"
+  },
+  {
+    "text": "Sí.",
+    "duration": 4961,
+    "offset": 1444919,
+    "lang": "es"
+  },
+  {
+    "text": "O pront. Sí. Tom, decime.",
+    "duration": 6760,
+    "offset": 1447000,
+    "lang": "es"
+  },
+  {
+    "text": "Una una consulta, profesor. E usted",
+    "duration": 6080,
+    "offset": 1449880,
+    "lang": "es"
+  },
+  {
+    "text": "propuso tres tres escenarios, ¿no? En el",
+    "duration": 5480,
+    "offset": 1453760,
+    "lang": "es"
+  },
+  {
+    "text": "cual tenemos que testear el el el bueno,",
+    "duration": 4120,
+    "offset": 1455960,
+    "lang": "es"
+  },
+  {
+    "text": "la gente,",
+    "duration": 2120,
+    "offset": 1459240,
+    "lang": "es"
+  },
+  {
+    "text": "¿sí?",
+    "duration": 4000,
+    "offset": 1460080,
+    "lang": "es"
+  },
+  {
+    "text": "No me queda claro el caso en el que, por",
+    "duration": 4880,
+    "offset": 1461360,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo, enviamos un una imagen de una",
+    "duration": 4760,
+    "offset": 1464080,
+    "lang": "es"
+  },
+  {
+    "text": "biopsia que no está en el manual.",
+    "duration": 4600,
+    "offset": 1466240,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué sería lo que debería responder el",
+    "duration": 2559,
+    "offset": 1468840,
+    "lang": "es"
+  },
+  {
+    "text": "el agente",
+    "duration": 5040,
+    "offset": 1470840,
+    "lang": "es"
+  },
+  {
+    "text": "ahí? Responder como tiene ya la el igual",
+    "duration": 6321,
+    "offset": 1471399,
+    "lang": "es"
+  },
+  {
+    "text": "son cuatro escenarios, eh, porque está",
+    "duration": 3480,
+    "offset": 1475880,
+    "lang": "es"
+  },
+  {
+    "text": "están los cuatro grupos y después está",
+    "duration": 4319,
+    "offset": 1477720,
+    "lang": "es"
+  },
+  {
+    "text": "métricas y evaluación, así que son",
+    "duration": 5160,
+    "offset": 1479360,
+    "lang": "es"
+  },
+  {
+    "text": "cuatro escenarios. Cuando ustedes ponen",
+    "duration": 5240,
+    "offset": 1482039,
+    "lang": "es"
+  },
+  {
+    "text": "una imagen que no está en el manual, si",
+    "duration": 5200,
+    "offset": 1484520,
+    "lang": "es"
+  },
+  {
+    "text": "no es si es un gato, tiene que decir",
+    "duration": 4721,
+    "offset": 1487279,
+    "lang": "es"
+  },
+  {
+    "text": "definitivamente no te puedo responder",
+    "duration": 4920,
+    "offset": 1489720,
+    "lang": "es"
+  },
+  {
+    "text": "porque esa imagen no la tengo.",
+    "duration": 4600,
+    "offset": 1492000,
+    "lang": "es"
+  },
+  {
+    "text": "Si es una biopsia de hígado que no está",
+    "duration": 4759,
+    "offset": 1494640,
+    "lang": "es"
+  },
+  {
+    "text": "en el manual, le tiene que decir,",
+    "duration": 6679,
+    "offset": 1496600,
+    "lang": "es"
+  },
+  {
+    "text": "\"Es veo que hay una tinción hi y tal",
+    "duration": 7321,
+    "offset": 1499399,
+    "lang": "es"
+  },
+  {
+    "text": "cosas, pero no puedo responderte con un",
+    "duration": 5601,
+    "offset": 1503279,
+    "lang": "es"
+  },
+  {
+    "text": "buen índice de confianza porque no tengo",
+    "duration": 4280,
+    "offset": 1506720,
+    "lang": "es"
+  },
+  {
+    "text": "contenido para responder sobre esta",
+    "duration": 7080,
+    "offset": 1508880,
+    "lang": "es"
+  },
+  {
+    "text": "biopsia en particular. ¿Me explico?",
+    "duration": 7559,
+    "offset": 1511000,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, sí, ahí me quedó mucho más claro.",
+    "duration": 5280,
+    "offset": 1515960,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, Tiago, decime",
+    "duration": 5000,
+    "offset": 1518559,
+    "lang": "es"
+  },
+  {
+    "text": "una consulta. Yo no terminé de entender",
+    "duration": 5120,
+    "offset": 1521240,
+    "lang": "es"
+  },
+  {
+    "text": "algo. O sea, lo que había entendido en",
+    "duration": 5720,
+    "offset": 1523559,
+    "lang": "es"
+  },
+  {
+    "text": "su momento era que",
+    "duration": 6480,
+    "offset": 1526360,
+    "lang": "es"
+  },
+  {
+    "text": "podía responder en, o sea, en cualquier",
+    "duration": 4880,
+    "offset": 1529279,
+    "lang": "es"
+  },
+  {
+    "text": "imagen, que el objetivo final era que",
+    "duration": 3120,
+    "offset": 1532840,
+    "lang": "es"
+  },
+  {
+    "text": "responda en cualquier imagen de una",
+    "duration": 4801,
+    "offset": 1534159,
+    "lang": "es"
+  },
+  {
+    "text": "biopsia. ¿Lo entendí mal? O sea, o es",
+    "duration": 5280,
+    "offset": 1535960,
+    "lang": "es"
+  },
+  {
+    "text": "para una implementación para",
+    "duration": 5839,
+    "offset": 1538960,
+    "lang": "es"
+  },
+  {
+    "text": "La idea es que responda solamente porque",
+    "duration": 7159,
+    "offset": 1541240,
+    "lang": "es"
+  },
+  {
+    "text": "el rag, acuérdense, el chiste del rag es",
+    "duration": 5480,
+    "offset": 1544799,
+    "lang": "es"
+  },
+  {
+    "text": "que no haya alucinación y para que no",
+    "duration": 4561,
+    "offset": 1548399,
+    "lang": "es"
+  },
+  {
+    "text": "haya alucinación debe responder pura y",
+    "duration": 5561,
+    "offset": 1550279,
+    "lang": "es"
+  },
+  {
+    "text": "exclusivamente del contenido que tiene.",
+    "duration": 4360,
+    "offset": 1552960,
+    "lang": "es"
+  },
+  {
+    "text": "Con lo cual, si ustedes le ponen la",
+    "duration": 3520,
+    "offset": 1555840,
+    "lang": "es"
+  },
+  {
+    "text": "imagen de una biopsia, pero que no está",
+    "duration": 3479,
+    "offset": 1557320,
+    "lang": "es"
+  },
+  {
+    "text": "dentro del contenido que ustedes",
+    "duration": 4199,
+    "offset": 1559360,
+    "lang": "es"
+  },
+  {
+    "text": "pusieron, le tiene que responder como",
+    "duration": 5521,
+    "offset": 1560799,
+    "lang": "es"
+  },
+  {
+    "text": "tiene una el el",
+    "duration": 5600,
+    "offset": 1563559,
+    "lang": "es"
+  },
+  {
+    "text": "agente que contesta tiene una ontología",
+    "duration": 5560,
+    "offset": 1566320,
+    "lang": "es"
+  },
+  {
+    "text": "normalizada, les va a decir, \"Mirá, acá",
+    "duration": 5601,
+    "offset": 1569159,
+    "lang": "es"
+  },
+  {
+    "text": "veo una tinción hi veo tal cosa, pero",
+    "duration": 5200,
+    "offset": 1571880,
+    "lang": "es"
+  },
+  {
+    "text": "esto no te lo respondo con un gr alto",
+    "duration": 4360,
+    "offset": 1574760,
+    "lang": "es"
+  },
+  {
+    "text": "con un grado alto de confianza, porque",
+    "duration": 6120,
+    "offset": 1577080,
+    "lang": "es"
+  },
+  {
+    "text": "resulta que yo esto no lo tengo en mi",
+    "duration": 7200,
+    "offset": 1579120,
+    "lang": "es"
+  },
+  {
+    "text": "contenido.\" O sea, tiene que ponerse de",
+    "duration": 5440,
+    "offset": 1583200,
+    "lang": "es"
+  },
+  {
+    "text": "evidencia, tiene que poner en evidencia",
+    "duration": 3920,
+    "offset": 1586320,
+    "lang": "es"
+  },
+  {
+    "text": "que te responde, pero que no lo tiene en",
+    "duration": 3159,
+    "offset": 1588640,
+    "lang": "es"
+  },
+  {
+    "text": "el contenido. Como para que vos sepas",
+    "duration": 4000,
+    "offset": 1590240,
+    "lang": "es"
+  },
+  {
+    "text": "que en realidad eso puede ser cualquier",
+    "duration": 4721,
+    "offset": 1591799,
+    "lang": "es"
+  },
+  {
+    "text": "cosa. Bien.",
+    "duration": 5400,
+    "offset": 1594240,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, okay. O sea, es más que nada que",
+    "duration": 4720,
+    "offset": 1596520,
+    "lang": "es"
+  },
+  {
+    "text": "para no andar buscando en el manual,",
+    "duration": 4039,
+    "offset": 1599640,
+    "lang": "es"
+  },
+  {
+    "text": "pero te voy a decir básicamente en base",
+    "duration": 3919,
+    "offset": 1601240,
+    "lang": "es"
+  },
+  {
+    "text": "todo al manual. Yo lo que había",
+    "duration": 3360,
+    "offset": 1603679,
+    "lang": "es"
+  },
+  {
+    "text": "entendido, que lo entendí mal, era como",
+    "duration": 4361,
+    "offset": 1605159,
+    "lang": "es"
+  },
+  {
+    "text": "que el manual tenía como la explicación",
+    "duration": 4081,
+    "offset": 1607039,
+    "lang": "es"
+  },
+  {
+    "text": "general",
+    "duration": 3440,
+    "offset": 1609520,
+    "lang": "es"
+  },
+  {
+    "text": "y vos le pasas una imagen de una, o sea,",
+    "duration": 6559,
+    "offset": 1611120,
+    "lang": "es"
+  },
+  {
+    "text": "ponerle el, no sé, del cerebro y va el",
+    "duration": 7240,
+    "offset": 1612960,
+    "lang": "es"
+  },
+  {
+    "text": "del hígado, iba la parte donde explicaba",
+    "duration": 4681,
+    "offset": 1617679,
+    "lang": "es"
+  },
+  {
+    "text": "eso y como que te decía, o sea, es",
+    "duration": 3680,
+    "offset": 1620200,
+    "lang": "es"
+  },
+  {
+    "text": "específicamente, o sea, imagen, si la",
+    "duration": 3360,
+    "offset": 1622360,
+    "lang": "es"
+  },
+  {
+    "text": "tiene la imagen, te responde con la",
+    "duration": 3440,
+    "offset": 1623880,
+    "lang": "es"
+  },
+  {
+    "text": "explicación de la imagen,",
+    "duration": 4079,
+    "offset": 1625720,
+    "lang": "es"
+  },
+  {
+    "text": "¿bien? Y si no la tiene, aunque sea de",
+    "duration": 4800,
+    "offset": 1627320,
+    "lang": "es"
+  },
+  {
+    "text": "un mismo tema que está en el manual, te",
+    "duration": 4600,
+    "offset": 1629799,
+    "lang": "es"
+  },
+  {
+    "text": "la rechaza, o sea, te dice, o sea, hace",
+    "duration": 3840,
+    "offset": 1632120,
+    "lang": "es"
+  },
+  {
+    "text": "lo que puede, pero te dicen, \"No tengo",
+    "duration": 2841,
+    "offset": 1634399,
+    "lang": "es"
+  },
+  {
+    "text": "mucha confianza para decirte esto.\"",
+    "duration": 3560,
+    "offset": 1635960,
+    "lang": "es"
+  },
+  {
+    "text": "Claro. Y si es algo que no tiene nada",
+    "duration": 4120,
+    "offset": 1637240,
+    "lang": "es"
+  },
+  {
+    "text": "que ver con una biopsia, te dice, \"No,",
+    "duration": 3440,
+    "offset": 1639520,
+    "lang": "es"
+  },
+  {
+    "text": "esto es una imagen de un gato y yo no",
+    "duration": 4760,
+    "offset": 1641360,
+    "lang": "es"
+  },
+  {
+    "text": "tengo contenido de animales.\"",
+    "duration": 4520,
+    "offset": 1642960,
+    "lang": "es"
+  },
+  {
+    "text": "Buenísimo. Gracias.",
+    "duration": 4240,
+    "offset": 1646120,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. O sea, esa es la idea. Ahora, lo",
+    "duration": 4919,
+    "offset": 1647480,
+    "lang": "es"
+  },
+  {
+    "text": "primero que ustedes, ¿qué es lo que pasa",
+    "duration": 4480,
+    "offset": 1650360,
+    "lang": "es"
+  },
+  {
+    "text": "en con lo que pueden jugar ustedes? es",
+    "duration": 5561,
+    "offset": 1652399,
+    "lang": "es"
+  },
+  {
+    "text": "con e",
+    "duration": 6839,
+    "offset": 1654840,
+    "lang": "es"
+  },
+  {
+    "text": "con los embedings en principio,",
+    "duration": 5880,
+    "offset": 1657960,
+    "lang": "es"
+  },
+  {
+    "text": "si no le funcionan bien con el embeding",
+    "duration": 4961,
+    "offset": 1661679,
+    "lang": "es"
+  },
+  {
+    "text": "clip, prueben cambiar con image bine con",
+    "duration": 5559,
+    "offset": 1663840,
+    "lang": "es"
+  },
+  {
+    "text": "el tamaño del chunk, si está bien hecho",
+    "duration": 6080,
+    "offset": 1666640,
+    "lang": "es"
+  },
+  {
+    "text": "el el tamaño del chank, con algo de",
+    "duration": 5841,
+    "offset": 1669399,
+    "lang": "es"
+  },
+  {
+    "text": "preprocesamiento, cómo es que parte las",
+    "duration": 5920,
+    "offset": 1672720,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes, cómo parte el texto,",
+    "duration": 6679,
+    "offset": 1675240,
+    "lang": "es"
+  },
+  {
+    "text": "eh, anda, anda, tranquila, Andrea.",
+    "duration": 6320,
+    "offset": 1678640,
+    "lang": "es"
+  },
+  {
+    "text": "Y y después lo que a mí me gustaría es",
+    "duration": 4681,
+    "offset": 1681919,
+    "lang": "es"
+  },
+  {
+    "text": "que todos le pongan a funcionar",
+    "duration": 3199,
+    "offset": 1684960,
+    "lang": "es"
+  },
+  {
+    "text": "Langsmith",
+    "duration": 4959,
+    "offset": 1686600,
+    "lang": "es"
+  },
+  {
+    "text": "y que vean en LMI o que intenten",
+    "duration": 5240,
+    "offset": 1688159,
+    "lang": "es"
+  },
+  {
+    "text": "interpretar métricas, sobre todo la",
+    "duration": 4600,
+    "offset": 1691559,
+    "lang": "es"
+  },
+  {
+    "text": "parte de ahora que nos tenemos que",
+    "duration": 5760,
+    "offset": 1693399,
+    "lang": "es"
+  },
+  {
+    "text": "concentrar es los índices los índices de",
+    "duration": 5441,
+    "offset": 1696159,
+    "lang": "es"
+  },
+  {
+    "text": "similaridad con la que responde la base",
+    "duration": 4921,
+    "offset": 1699159,
+    "lang": "es"
+  },
+  {
+    "text": "de datos. Bien.",
+    "duration": 3240,
+    "offset": 1701600,
+    "lang": "es"
+  },
+  {
+    "text": "Eh,",
+    "duration": 1319,
+    "offset": 1704080,
+    "lang": "es"
+  },
+  {
+    "text": "sí.",
+    "duration": 3559,
+    "offset": 1704840,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, sí, sí. Solo que perdón que vuelvo a",
+    "duration": 4880,
+    "offset": 1705399,
+    "lang": "es"
+  },
+  {
+    "text": "interrumpirte. Estaba respondiendo a mi",
+    "duration": 3321,
+    "offset": 1708399,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta, pero no me recuerdo. Alguien",
+    "duration": 2841,
+    "offset": 1710279,
+    "lang": "es"
+  },
+  {
+    "text": "puso otra pregunta y luego empezaron a",
+    "duration": 4240,
+    "offset": 1711720,
+    "lang": "es"
+  },
+  {
+    "text": "surgir más preguntas, pero est notando y",
+    "duration": 4799,
+    "offset": 1713120,
+    "lang": "es"
+  },
+  {
+    "text": "como que no terminaste explicar la idea,",
+    "duration": 5760,
+    "offset": 1715960,
+    "lang": "es"
+  },
+  {
+    "text": "que era como que en el caso de que e",
+    "duration": 5120,
+    "offset": 1717919,
+    "lang": "es"
+  },
+  {
+    "text": "como que falla una pregunta, como que",
+    "duration": 4240,
+    "offset": 1721720,
+    "lang": "es"
+  },
+  {
+    "text": "vemos que algo está mal, e el equipo de",
+    "duration": 4561,
+    "offset": 1723039,
+    "lang": "es"
+  },
+  {
+    "text": "métricas más o menos no no entendí muy",
+    "duration": 4599,
+    "offset": 1725960,
+    "lang": "es"
+  },
+  {
+    "text": "bien. Tenemos que buscar métricas para",
+    "duration": 5079,
+    "offset": 1727600,
+    "lang": "es"
+  },
+  {
+    "text": "entender de mejor forma por qué está",
+    "duration": 3441,
+    "offset": 1730559,
+    "lang": "es"
+  },
+  {
+    "text": "respondiendo, porque el índice de",
+    "duration": 3281,
+    "offset": 1732679,
+    "lang": "es"
+  },
+  {
+    "text": "similaridad, digamos, está mal. Claro. A",
+    "duration": 4279,
+    "offset": 1734000,
+    "lang": "es"
+  },
+  {
+    "text": "ver, claro, porque ustedes, acuérdense",
+    "duration": 4640,
+    "offset": 1735960,
+    "lang": "es"
+  },
+  {
+    "text": "que hay métricas ragas que son métricas,",
+    "duration": 4520,
+    "offset": 1738279,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes lo primero que tienen que ver",
+    "duration": 7280,
+    "offset": 1740600,
+    "lang": "es"
+  },
+  {
+    "text": "son eh las métricas de e",
+    "duration": 7521,
+    "offset": 1742799,
+    "lang": "es"
+  },
+  {
+    "text": "de generación.",
+    "duration": 4799,
+    "offset": 1747880,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, perdón, sí, las métricas de",
+    "duration": 4120,
+    "offset": 1750320,
+    "lang": "es"
+  },
+  {
+    "text": "recuperación se tienen que concentrar",
+    "duration": 4321,
+    "offset": 1752679,
+    "lang": "es"
+  },
+  {
+    "text": "ahora en métricas de recuperación para",
+    "duration": 5239,
+    "offset": 1754440,
+    "lang": "es"
+  },
+  {
+    "text": "rag. Y la métrica más sencilla de ver en",
+    "duration": 8720,
+    "offset": 1757000,
+    "lang": "es"
+  },
+  {
+    "text": "la recuperación es el eh",
+    "duration": 6041,
+    "offset": 1759679,
+    "lang": "es"
+  },
+  {
+    "text": "este la métrica más sencilla de ver en",
+    "duration": 4279,
+    "offset": 1767000,
+    "lang": "es"
+  },
+  {
+    "text": "recuperación es el índice de similaridad",
+    "duration": 4240,
+    "offset": 1768919,
+    "lang": "es"
+  },
+  {
+    "text": "con el que vuelve de la base de datos.",
+    "duration": 4721,
+    "offset": 1771279,
+    "lang": "es"
+  },
+  {
+    "text": "Aguárdenme que estoy buscando porque yo",
+    "duration": 6841,
+    "offset": 1773159,
+    "lang": "es"
+  },
+  {
+    "text": "tengo acá eh,",
+    "duration": 4000,
+    "offset": 1776000,
+    "lang": "es"
+  },
+  {
+    "text": "déjenme si veo,",
+    "duration": 4400,
+    "offset": 1780519,
+    "lang": "es"
+  },
+  {
+    "text": "creo que me borra todos los",
+    "duration": 6920,
+    "offset": 1789440,
+    "lang": "es"
+  },
+  {
+    "text": "te lo guardas solo por 7 días",
+    "duration": 6000,
+    "offset": 1792880,
+    "lang": "es"
+  },
+  {
+    "text": "y si no tenés te borra todo. Qué mala",
+    "duration": 5360,
+    "offset": 1796360,
+    "lang": "es"
+  },
+  {
+    "text": "suerte, porque acá tengo todos los",
+    "duration": 5840,
+    "offset": 1798880,
+    "lang": "es"
+  },
+  {
+    "text": "tracing,",
+    "duration": 3000,
+    "offset": 1801720,
+    "lang": "es"
+  },
+  {
+    "text": "¿eh? Pero bueno, aunque sea acá, a ver,",
+    "duration": 5720,
+    "offset": 1806360,
+    "lang": "es"
+  },
+  {
+    "text": "aprovecho y te hago otra consulta,",
+    "duration": 2840,
+    "offset": 1815000,
+    "lang": "es"
+  },
+  {
+    "text": "Diego.",
+    "duration": 5559,
+    "offset": 1816240,
+    "lang": "es"
+  },
+  {
+    "text": "Igual el en el índice de similaridad es",
+    "duration": 5959,
+    "offset": 1817840,
+    "lang": "es"
+  },
+  {
+    "text": "lo último que tendríamos que tocar, ¿no?",
+    "duration": 5921,
+    "offset": 1821799,
+    "lang": "es"
+  },
+  {
+    "text": "Porque en sí, o sea, pareciera que es",
+    "duration": 5841,
+    "offset": 1823799,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, okay. Perdón, ustedes tienen que",
+    "duration": 3920,
+    "offset": 1827720,
+    "lang": "es"
+  },
+  {
+    "text": "controlar cómo es el índice de",
+    "duration": 5639,
+    "offset": 1829640,
+    "lang": "es"
+  },
+  {
+    "text": "similaridad y ahí preguntarle a con el",
+    "duration": 6360,
+    "offset": 1831640,
+    "lang": "es"
+  },
+  {
+    "text": "código que Antigravity vea el código y",
+    "duration": 7321,
+    "offset": 1835279,
+    "lang": "es"
+  },
+  {
+    "text": "preguntar qué puedo tocar acá del chan o",
+    "duration": 7159,
+    "offset": 1838000,
+    "lang": "es"
+  },
+  {
+    "text": "qué tipo o cómo puedo hacer cambiar el",
+    "duration": 7480,
+    "offset": 1842600,
+    "lang": "es"
+  },
+  {
+    "text": "eh el preprocesamiento de texto del PDF",
+    "duration": 6760,
+    "offset": 1845159,
+    "lang": "es"
+  },
+  {
+    "text": "para mejorar un poco ese índice de",
+    "duration": 4280,
+    "offset": 1850080,
+    "lang": "es"
+  },
+  {
+    "text": "similaridad.",
+    "duration": 4120,
+    "offset": 1851919,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, o sea, en lo que tienen que",
+    "duration": 4039,
+    "offset": 1854360,
+    "lang": "es"
+  },
+  {
+    "text": "investigar ahora, si no sale bien cuando",
+    "duration": 4120,
+    "offset": 1856039,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes hacen la consulta es cómo se",
+    "duration": 5481,
+    "offset": 1858399,
+    "lang": "es"
+  },
+  {
+    "text": "puede mejorar el índice de similaridad.",
+    "duration": 5360,
+    "offset": 1860159,
+    "lang": "es"
+  },
+  {
+    "text": "Y",
+    "duration": 4360,
+    "offset": 1863880,
+    "lang": "es"
+  },
+  {
+    "text": "a lo último, digamos, si ven que no hay",
+    "duration": 6280,
+    "offset": 1865519,
+    "lang": "es"
+  },
+  {
+    "text": "nada, le dicen de eh vayan tranquilo que",
+    "duration": 5640,
+    "offset": 1868240,
+    "lang": "es"
+  },
+  {
+    "text": "yo después le paso la grabación de le",
+    "duration": 4641,
+    "offset": 1871799,
+    "lang": "es"
+  },
+  {
+    "text": "dicen de ver eh de cambiar el tipo de",
+    "duration": 5000,
+    "offset": 1873880,
+    "lang": "es"
+  },
+  {
+    "text": "embeding. Esperen que les muestro",
+    "duration": 2880,
+    "offset": 1876440,
+    "lang": "es"
+  },
+  {
+    "text": "rápidamente.",
+    "duration": 2240,
+    "offset": 1878880,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, perdón, sí, lo que decía es el de el",
+    "duration": 4319,
+    "offset": 1879320,
+    "lang": "es"
+  },
+  {
+    "text": "de tolerancia. el de tolerancia. O sea,",
+    "duration": 6320,
+    "offset": 1881120,
+    "lang": "es"
+  },
+  {
+    "text": "yo cuando vi el código con Notebook LM",
+    "duration": 6801,
+    "offset": 1883639,
+    "lang": "es"
+  },
+  {
+    "text": "me dijo que era un índice normal. Eso",
+    "duration": 5640,
+    "offset": 1887440,
+    "lang": "es"
+  },
+  {
+    "text": "casi que ni lo tocamos ya, ¿no? Para",
+    "duration": 4599,
+    "offset": 1890440,
+    "lang": "es"
+  },
+  {
+    "text": "decimalería cosa. Okay. Buenísim,",
+    "duration": 3400,
+    "offset": 1893080,
+    "lang": "es"
+  },
+  {
+    "text": "no, no, ustedes tienen que ver con mejor",
+    "duration": 3321,
+    "offset": 1895039,
+    "lang": "es"
+  },
+  {
+    "text": "y a veces no se va a poder porque lo que",
+    "duration": 3919,
+    "offset": 1896480,
+    "lang": "es"
+  },
+  {
+    "text": "pasa es que, bueno, no se puede porque",
+    "duration": 4720,
+    "offset": 1898360,
+    "lang": "es"
+  },
+  {
+    "text": "resulta que los, o sea, hay que usar",
+    "duration": 5841,
+    "offset": 1900399,
+    "lang": "es"
+  },
+  {
+    "text": "otro método va otra cosa. Bien,",
+    "duration": 5199,
+    "offset": 1903080,
+    "lang": "es"
+  },
+  {
+    "text": "aguárdenme que estoy viendo acá. Fíjense",
+    "duration": 6439,
+    "offset": 1906240,
+    "lang": "es"
+  },
+  {
+    "text": "que está acá, dice,",
+    "duration": 4400,
+    "offset": 1908279,
+    "lang": "es"
+  },
+  {
+    "text": "me está pidiendo hacer una encuesta.",
+    "duration": 4160,
+    "offset": 1913080,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, análisis comparativo. Déjenme que",
+    "duration": 5441,
+    "offset": 1917679,
+    "lang": "es"
+  },
+  {
+    "text": "estoy viendo.",
+    "duration": 4201,
+    "offset": 1921039,
+    "lang": "es"
+  },
+  {
+    "text": "Es bastante largo todo lo que sale. Acá",
+    "duration": 3720,
+    "offset": 1923120,
+    "lang": "es"
+  },
+  {
+    "text": "está la salida. ¿Ven que acá tienen la",
+    "duration": 5240,
+    "offset": 1925240,
+    "lang": "es"
+  },
+  {
+    "text": "salida? Output.",
+    "duration": 3640,
+    "offset": 1926840,
+    "lang": "es"
+  },
+  {
+    "text": "Acá está la salida. Diagnóstico.",
+    "duration": 5159,
+    "offset": 1930760,
+    "lang": "es"
+  },
+  {
+    "text": "Diferencial visual. Aguárdenme que acá",
+    "duration": 6439,
+    "offset": 1932960,
+    "lang": "es"
+  },
+  {
+    "text": "en algún lado tiene que estar",
+    "duration": 6480,
+    "offset": 1935919,
+    "lang": "es"
+  },
+  {
+    "text": "eh",
+    "duration": 6681,
+    "offset": 1939399,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes recuperadas.",
+    "duration": 3681,
+    "offset": 1942399,
+    "lang": "es"
+  },
+  {
+    "text": "Acá similitud. ¿Ven que acá hay algún",
+    "duration": 4719,
+    "offset": 1950080,
+    "lang": "es"
+  },
+  {
+    "text": "una parte donde les dice o índice de",
+    "duration": 4081,
+    "offset": 1952919,
+    "lang": "es"
+  },
+  {
+    "text": "similaridad o similitud semántica de",
+    "duration": 6201,
+    "offset": 1954799,
+    "lang": "es"
+  },
+  {
+    "text": "cada domini? Fíjense acá",
+    "duration": 6880,
+    "offset": 1957000,
+    "lang": "es"
+  },
+  {
+    "text": "están viendo ahí, ¿no? La página esta de",
+    "duration": 4159,
+    "offset": 1961000,
+    "lang": "es"
+  },
+  {
+    "text": "Lang Smith.",
+    "duration": 2240,
+    "offset": 1963880,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, sí se ve.",
+    "duration": 4201,
+    "offset": 1965159,
+    "lang": "es"
+  },
+  {
+    "text": "¿Ven que acá dice buscar en Cudrant?",
+    "duration": 6320,
+    "offset": 1966120,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá dice similitud semántica",
+    "duration": 6080,
+    "offset": 1969360,
+    "lang": "es"
+  },
+  {
+    "text": "098.",
+    "duration": 3000,
+    "offset": 1972440,
+    "lang": "es"
+  },
+  {
+    "text": "Eh,",
+    "duration": 6720,
+    "offset": 1975880,
+    "lang": "es"
+  },
+  {
+    "text": "trayectoria 23 íems",
+    "duration": 4520,
+    "offset": 1978080,
+    "lang": "es"
+  },
+  {
+    "text": "y el similitud de dominio. Bien. Bueno,",
+    "duration": 5840,
+    "offset": 1982880,
+    "lang": "es"
+  },
+  {
+    "text": "acá",
+    "duration": 3560,
+    "offset": 1987200,
+    "lang": "es"
+  },
+  {
+    "text": "estaba probando cosas de texto y el",
+    "duration": 4720,
+    "offset": 1988720,
+    "lang": "es"
+  },
+  {
+    "text": "texto definitivamente",
+    "duration": 4799,
+    "offset": 1990760,
+    "lang": "es"
+  },
+  {
+    "text": "eh sale muy bueno, pero ustedes tienen",
+    "duration": 5199,
+    "offset": 1993440,
+    "lang": "es"
+  },
+  {
+    "text": "que buscar en la parte de Langsmith a",
+    "duration": 5881,
+    "offset": 1995559,
+    "lang": "es"
+  },
+  {
+    "text": "donde dice buscar en CURAT, tienen que",
+    "duration": 4880,
+    "offset": 1998639,
+    "lang": "es"
+  },
+  {
+    "text": "buscar algo a donde está el índice de",
+    "duration": 4119,
+    "offset": 2001440,
+    "lang": "es"
+  },
+  {
+    "text": "similaridad. Fíjense que este índice es",
+    "duration": 4481,
+    "offset": 2003519,
+    "lang": "es"
+  },
+  {
+    "text": "recontraalto, ¿no? Pero esto porque era",
+    "duration": 7681,
+    "offset": 2005559,
+    "lang": "es"
+  },
+  {
+    "text": "una prueba, eran cosas de texto y demás,",
+    "duration": 9480,
+    "offset": 2008000,
+    "lang": "es"
+  },
+  {
+    "text": "eh, no era no eran con imágenes,",
+    "duration": 6120,
+    "offset": 2013240,
+    "lang": "es"
+  },
+  {
+    "text": "entonces contexto es mucho más alto.",
+    "duration": 4240,
+    "offset": 2017480,
+    "lang": "es"
+  },
+  {
+    "text": "Pero bien, acá en Langsmith es a donde",
+    "duration": 5919,
+    "offset": 2019360,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes pueden ver todo lo que se fue",
+    "duration": 5520,
+    "offset": 2021720,
+    "lang": "es"
+  },
+  {
+    "text": "generando.",
+    "duration": 4081,
+    "offset": 2025279,
+    "lang": "es"
+  },
+  {
+    "text": "O sea, acá donde dice, bueno, inicializó",
+    "duration": 5760,
+    "offset": 2027240,
+    "lang": "es"
+  },
+  {
+    "text": "el agente, procesó la imagen.",
+    "duration": 7039,
+    "offset": 2029360,
+    "lang": "es"
+  },
+  {
+    "text": "Cuando procesó la imagen, entra acá a",
+    "duration": 8360,
+    "offset": 2033000,
+    "lang": "es"
+  },
+  {
+    "text": "funcionar un este chatemini.",
+    "duration": 8841,
+    "offset": 2036399,
+    "lang": "es"
+  },
+  {
+    "text": "Acá hace la clasificación para después",
+    "duration": 7120,
+    "offset": 2041360,
+    "lang": "es"
+  },
+  {
+    "text": "este ir a la base de datos y una vez que",
+    "duration": 5119,
+    "offset": 2045240,
+    "lang": "es"
+  },
+  {
+    "text": "está clasificado y ve que está todo",
+    "duration": 5119,
+    "offset": 2048480,
+    "lang": "es"
+  },
+  {
+    "text": "bien, lo que hace es genera la consulta",
+    "duration": 5320,
+    "offset": 2050359,
+    "lang": "es"
+  },
+  {
+    "text": "y la va a buscar a la base de datos.",
+    "duration": 4080,
+    "offset": 2053599,
+    "lang": "es"
+  },
+  {
+    "text": "filtra el contenido, hace un análisis",
+    "duration": 4361,
+    "offset": 2055679,
+    "lang": "es"
+  },
+  {
+    "text": "comparativo. Bien, acá está toda la",
+    "duration": 4960,
+    "offset": 2057679,
+    "lang": "es"
+  },
+  {
+    "text": "trayectoria que hacen los agentes, pero",
+    "duration": 4280,
+    "offset": 2060040,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes van a tener que ir a la búsqueda",
+    "duration": 3841,
+    "offset": 2062639,
+    "lang": "es"
+  },
+  {
+    "text": "en Cuand",
+    "duration": 6480,
+    "offset": 2064320,
+    "lang": "es"
+  },
+  {
+    "text": "e con qué coeficiente de similaridad",
+    "duration": 8199,
+    "offset": 2066480,
+    "lang": "es"
+  },
+  {
+    "text": "es que le está trayendo los datos. Bien,",
+    "duration": 6440,
+    "offset": 2070800,
+    "lang": "es"
+  },
+  {
+    "text": "primero que el código funcione. Hagan la",
+    "duration": 5440,
+    "offset": 2074679,
+    "lang": "es"
+  },
+  {
+    "text": "prueba. Fíjense qué les responde.",
+    "duration": 6119,
+    "offset": 2077240,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense antes, como nosotros somos",
+    "duration": 5760,
+    "offset": 2080119,
+    "lang": "es"
+  },
+  {
+    "text": "estudiantes de ingeniería y no sabemos",
+    "duration": 5641,
+    "offset": 2083359,
+    "lang": "es"
+  },
+  {
+    "text": "eh nada de medicina,",
+    "duration": 5040,
+    "offset": 2085879,
+    "lang": "es"
+  },
+  {
+    "text": "el tejido que le van a poner para",
+    "duration": 4520,
+    "offset": 2089000,
+    "lang": "es"
+  },
+  {
+    "text": "probar, primero, fíjense que es como",
+    "duration": 4920,
+    "offset": 2090919,
+    "lang": "es"
+  },
+  {
+    "text": "para tener idea de si es que le está",
+    "duration": 3559,
+    "offset": 2093520,
+    "lang": "es"
+  },
+  {
+    "text": "respondiendo bien o si le está",
+    "duration": 5041,
+    "offset": 2095839,
+    "lang": "es"
+  },
+  {
+    "text": "respondiendo mal. Sí.",
+    "duration": 3801,
+    "offset": 2097079,
+    "lang": "es"
+  },
+  {
+    "text": "Bien,",
+    "duration": 3000,
+    "offset": 2103599,
+    "lang": "es"
+  },
+  {
+    "text": "buenísimo. Bueno, eh entonces e",
+    "duration": 9280,
+    "offset": 2106640,
+    "lang": "es"
+  },
+  {
+    "text": "yo ahora pongo las tareas en curso y",
+    "duration": 5599,
+    "offset": 2113760,
+    "lang": "es"
+  },
+  {
+    "text": "disparo el sprint y ya ustedes empiezan",
+    "duration": 5400,
+    "offset": 2115920,
+    "lang": "es"
+  },
+  {
+    "text": "a hacer las pruebas. están hablando,",
+    "duration": 5000,
+    "offset": 2119359,
+    "lang": "es"
+  },
+  {
+    "text": "¿no?, con sus compañeros de grupo. Sí,",
+    "duration": 4560,
+    "offset": 2121320,
+    "lang": "es"
+  },
+  {
+    "text": "sí, perdón que te vuelva a interrumpir,",
+    "duration": 3601,
+    "offset": 2124359,
+    "lang": "es"
+  },
+  {
+    "text": "como que es que sigue sin quedarme en",
+    "duration": 3959,
+    "offset": 2125880,
+    "lang": "es"
+  },
+  {
+    "text": "claro como que la respuesta como que a",
+    "duration": 3520,
+    "offset": 2127960,
+    "lang": "es"
+  },
+  {
+    "text": "mi pregunta, como que entendí esto de",
+    "duration": 3441,
+    "offset": 2129839,
+    "lang": "es"
+  },
+  {
+    "text": "ahorita buscar el, o sea, que la",
+    "duration": 5160,
+    "offset": 2131480,
+    "lang": "es"
+  },
+  {
+    "text": "primera, la básica métrica rag, que",
+    "duration": 5559,
+    "offset": 2133280,
+    "lang": "es"
+  },
+  {
+    "text": "tendríamos que buscar ese eh coeficiente",
+    "duration": 3680,
+    "offset": 2136640,
+    "lang": "es"
+  },
+  {
+    "text": "de similaridad, pero el índice de",
+    "duration": 2401,
+    "offset": 2138839,
+    "lang": "es"
+  },
+  {
+    "text": "similaridad, pero",
+    "duration": 1519,
+    "offset": 2140320,
+    "lang": "es"
+  },
+  {
+    "text": "sí",
+    "duration": 3040,
+    "offset": 2141240,
+    "lang": "es"
+  },
+  {
+    "text": "como que no tocamos, no buscamos más",
+    "duration": 4041,
+    "offset": 2141839,
+    "lang": "es"
+  },
+  {
+    "text": "como métricas rag, o sea, porque",
+    "duration": 4280,
+    "offset": 2144280,
+    "lang": "es"
+  },
+  {
+    "text": "entiendo que los demás en base a una un",
+    "duration": 5040,
+    "offset": 2145880,
+    "lang": "es"
+  },
+  {
+    "text": "mal índice de similaridad como que",
+    "duration": 5480,
+    "offset": 2148560,
+    "lang": "es"
+  },
+  {
+    "text": "tratan de tocar su sistema los que están",
+    "duration": 5040,
+    "offset": 2150920,
+    "lang": "es"
+  },
+  {
+    "text": "los demás equipos, pero el diamétricas",
+    "duration": 3480,
+    "offset": 2154040,
+    "lang": "es"
+  },
+  {
+    "text": "entiendo que no es como que va a tratar",
+    "duration": 2040,
+    "offset": 2155960,
+    "lang": "es"
+  },
+  {
+    "text": "de mejor.",
+    "duration": 3880,
+    "offset": 2157520,
+    "lang": "es"
+  },
+  {
+    "text": "En realidad lo más importante acá es por",
+    "duration": 7440,
+    "offset": 2158000,
+    "lang": "es"
+  },
+  {
+    "text": "qué porque es eh",
+    "duration": 6919,
+    "offset": 2161400,
+    "lang": "es"
+  },
+  {
+    "text": "es como que lo más difícil acá es que la",
+    "duration": 6800,
+    "offset": 2165440,
+    "lang": "es"
+  },
+  {
+    "text": "similaridad vectorial entre en la imagen",
+    "duration": 5881,
+    "offset": 2168319,
+    "lang": "es"
+  },
+  {
+    "text": "sea lo suficientemente buena como para",
+    "duration": 4520,
+    "offset": 2172240,
+    "lang": "es"
+  },
+  {
+    "text": "que recupere contenido de calidad.",
+    "duration": 6080,
+    "offset": 2174200,
+    "lang": "es"
+  },
+  {
+    "text": "Después vos tenés otras métricas, pero",
+    "duration": 6800,
+    "offset": 2176760,
+    "lang": "es"
+  },
+  {
+    "text": "que no son métricas de generación.",
+    "duration": 5600,
+    "offset": 2180280,
+    "lang": "es"
+  },
+  {
+    "text": "O sea, vos lo que en el tendrían que",
+    "duration": 4360,
+    "offset": 2183560,
+    "lang": "es"
+  },
+  {
+    "text": "ver, no sé, que el chang no sea un chank",
+    "duration": 5400,
+    "offset": 2185880,
+    "lang": "es"
+  },
+  {
+    "text": "muy largo, eh,",
+    "duration": 6399,
+    "offset": 2187920,
+    "lang": "es"
+  },
+  {
+    "text": "que las imágenes las tome realmente y no",
+    "duration": 6079,
+    "offset": 2191280,
+    "lang": "es"
+  },
+  {
+    "text": "las esté segmentando y demás, salvo",
+    "duration": 5161,
+    "offset": 2194319,
+    "lang": "es"
+  },
+  {
+    "text": "Colpali, que Colpali es distinto porque",
+    "duration": 4960,
+    "offset": 2197359,
+    "lang": "es"
+  },
+  {
+    "text": "Colpali sí hace segmentación de imágenes",
+    "duration": 5119,
+    "offset": 2199480,
+    "lang": "es"
+  },
+  {
+    "text": "porque es multivector.",
+    "duration": 4881,
+    "offset": 2202319,
+    "lang": "es"
+  },
+  {
+    "text": "Y después tenés otras métricas como por",
+    "duration": 5841,
+    "offset": 2204599,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo la fidelidad de la respuesta,",
+    "duration": 5760,
+    "offset": 2207200,
+    "lang": "es"
+  },
+  {
+    "text": "la el orden correcto con el que se",
+    "duration": 6399,
+    "offset": 2210440,
+    "lang": "es"
+  },
+  {
+    "text": "generó la respuesta, eh",
+    "duration": 5520,
+    "offset": 2212960,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 4201,
+    "offset": 2216839,
+    "lang": "es"
+  },
+  {
+    "text": "eh la relevancia",
+    "duration": 4599,
+    "offset": 2218480,
+    "lang": "es"
+  },
+  {
+    "text": "respecto del querer del usuario. Esto se",
+    "duration": 5520,
+    "offset": 2221040,
+    "lang": "es"
+  },
+  {
+    "text": "llama context relevance, context recall,",
+    "duration": 6201,
+    "offset": 2223079,
+    "lang": "es"
+  },
+  {
+    "text": "faithfulness, pero esas métricas son",
+    "duration": 5440,
+    "offset": 2226560,
+    "lang": "es"
+  },
+  {
+    "text": "métricas de generación",
+    "duration": 5720,
+    "offset": 2229280,
+    "lang": "es"
+  },
+  {
+    "text": "y es como que ese es el segundo paso. Si",
+    "duration": 5040,
+    "offset": 2232000,
+    "lang": "es"
+  },
+  {
+    "text": "vos decís, \"Bueno, yo vi que la métrica",
+    "duration": 3960,
+    "offset": 2235000,
+    "lang": "es"
+  },
+  {
+    "text": "de recuperación está bien, que me dio",
+    "duration": 5840,
+    "offset": 2237040,
+    "lang": "es"
+  },
+  {
+    "text": "06, 07\", pero está respondiendo mal, ahí",
+    "duration": 8240,
+    "offset": 2238960,
+    "lang": "es"
+  },
+  {
+    "text": "habría que ver métricas de eh métricas",
+    "duration": 6680,
+    "offset": 2242880,
+    "lang": "es"
+  },
+  {
+    "text": "de generación, pero en principio vamos a",
+    "duration": 5200,
+    "offset": 2247200,
+    "lang": "es"
+  },
+  {
+    "text": "ver y a concentrarnos que sean correctas",
+    "duration": 5720,
+    "offset": 2249560,
+    "lang": "es"
+  },
+  {
+    "text": "las métricas de recuperación y a ver qué",
+    "duration": 5360,
+    "offset": 2252400,
+    "lang": "es"
+  },
+  {
+    "text": "trabajamos de chans, embeddings,",
+    "duration": 4960,
+    "offset": 2255280,
+    "lang": "es"
+  },
+  {
+    "text": "preprocesamiento y demás para mejorar",
+    "duration": 4160,
+    "offset": 2257760,
+    "lang": "es"
+  },
+  {
+    "text": "esas métricas, esa métrica de",
+    "duration": 5640,
+    "offset": 2260240,
+    "lang": "es"
+  },
+  {
+    "text": "recuperación. Bien.",
+    "duration": 3960,
+    "offset": 2261920,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, sí, s, s,",
+    "duration": 4681,
+    "offset": 2266079,
+    "lang": "es"
+  },
+  {
+    "text": "buenísimo. O sea, ya solo con eso es",
+    "duration": 5841,
+    "offset": 2267599,
+    "lang": "es"
+  },
+  {
+    "text": "bastante. Sí, decime, Tom,",
+    "duration": 4359,
+    "offset": 2270760,
+    "lang": "es"
+  },
+  {
+    "text": "em",
+    "duration": 3320,
+    "offset": 2273440,
+    "lang": "es"
+  },
+  {
+    "text": "una consulta, porque estamos hablando",
+    "duration": 3601,
+    "offset": 2275119,
+    "lang": "es"
+  },
+  {
+    "text": "mucho de de imágenes, ¿no? Y yo entiendo",
+    "duration": 5359,
+    "offset": 2276760,
+    "lang": "es"
+  },
+  {
+    "text": "que eso es el factor central de la",
+    "duration": 5680,
+    "offset": 2278720,
+    "lang": "es"
+  },
+  {
+    "text": "aplicación, pero",
+    "duration": 4720,
+    "offset": 2282119,
+    "lang": "es"
+  },
+  {
+    "text": "el agente debería, por ejemplo, de yo le",
+    "duration": 4520,
+    "offset": 2284400,
+    "lang": "es"
+  },
+  {
+    "text": "hago una pregunta sin enviarle una",
+    "duration": 4280,
+    "offset": 2286839,
+    "lang": "es"
+  },
+  {
+    "text": "imagen que está relacionada con el",
+    "duration": 5080,
+    "offset": 2288920,
+    "lang": "es"
+  },
+  {
+    "text": "dominio, ¿qué qué debería responder?",
+    "duration": 6601,
+    "offset": 2291119,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, esa es una muy buena pregunta.",
+    "duration": 6640,
+    "offset": 2294000,
+    "lang": "es"
+  },
+  {
+    "text": "Si vos le hacés, le decís, por ejemplo,",
+    "duration": 6920,
+    "offset": 2297720,
+    "lang": "es"
+  },
+  {
+    "text": "que te explique eh cuáles son las",
+    "duration": 5600,
+    "offset": 2300640,
+    "lang": "es"
+  },
+  {
+    "text": "características, si vos le pusiste, no",
+    "duration": 5360,
+    "offset": 2304640,
+    "lang": "es"
+  },
+  {
+    "text": "sé, células del cerebro, ¿no? Y explica",
+    "duration": 5079,
+    "offset": 2306240,
+    "lang": "es"
+  },
+  {
+    "text": "que son las células del cerebro,",
+    "duration": 4359,
+    "offset": 2310000,
+    "lang": "es"
+  },
+  {
+    "text": "explícame cuáles son las características",
+    "duration": 6841,
+    "offset": 2311319,
+    "lang": "es"
+  },
+  {
+    "text": "distintivas de un sistema de células",
+    "duration": 6881,
+    "offset": 2314359,
+    "lang": "es"
+  },
+  {
+    "text": "neuronales. él te debería explicar en",
+    "duration": 5919,
+    "offset": 2318160,
+    "lang": "es"
+  },
+  {
+    "text": "función de ese contenido porque también",
+    "duration": 4879,
+    "offset": 2321240,
+    "lang": "es"
+  },
+  {
+    "text": "lo busca por similaridad semántica,",
+    "duration": 4280,
+    "offset": 2324079,
+    "lang": "es"
+  },
+  {
+    "text": "porque busca tanto texto como imágenes.",
+    "duration": 5121,
+    "offset": 2326119,
+    "lang": "es"
+  },
+  {
+    "text": "Pero yo no sé si los sistemas están",
+    "duration": 5041,
+    "offset": 2328359,
+    "lang": "es"
+  },
+  {
+    "text": "preparados para trabajar sin imágenes,",
+    "duration": 4800,
+    "offset": 2331240,
+    "lang": "es"
+  },
+  {
+    "text": "porque como el problema que yo tenía era",
+    "duration": 4800,
+    "offset": 2333400,
+    "lang": "es"
+  },
+  {
+    "text": "que respondiera imágenes, para mí todo",
+    "duration": 3720,
+    "offset": 2336040,
+    "lang": "es"
+  },
+  {
+    "text": "lo que yo hice solamente responde",
+    "duration": 3119,
+    "offset": 2338200,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes.",
+    "duration": 3319,
+    "offset": 2339760,
+    "lang": "es"
+  },
+  {
+    "text": "Así que está bueno lo que decís, pero",
+    "duration": 3881,
+    "offset": 2341319,
+    "lang": "es"
+  },
+  {
+    "text": "eso veámoslo en una segunda etapa,",
+    "duration": 3921,
+    "offset": 2343079,
+    "lang": "es"
+  },
+  {
+    "text": "cuando estemos todos trabajando sobre un",
+    "duration": 3919,
+    "offset": 2345200,
+    "lang": "es"
+  },
+  {
+    "text": "único sistema que sabemos que es un",
+    "duration": 4760,
+    "offset": 2347000,
+    "lang": "es"
+  },
+  {
+    "text": "sistema preciso para contestar a las",
+    "duration": 4480,
+    "offset": 2349119,
+    "lang": "es"
+  },
+  {
+    "text": "respuestas de imágenes. ¿Están de",
+    "duration": 4680,
+    "offset": 2351760,
+    "lang": "es"
+  },
+  {
+    "text": "acuerdo con eso?",
+    "duration": 3881,
+    "offset": 2353599,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, perfecto.",
+    "duration": 3240,
+    "offset": 2356440,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. Yo como para ir probando una cosa",
+    "duration": 4280,
+    "offset": 2357480,
+    "lang": "es"
+  },
+  {
+    "text": "a la vez.",
+    "duration": 4120,
+    "offset": 2359680,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. Si a mí me suena que cuando estuve",
+    "duration": 5160,
+    "offset": 2361760,
+    "lang": "es"
+  },
+  {
+    "text": "leyendo por lo menos la parte del grupo",
+    "duration": 7279,
+    "offset": 2363800,
+    "lang": "es"
+  },
+  {
+    "text": "dos, creo que creo que sí o sí te pido",
+    "duration": 6120,
+    "offset": 2366920,
+    "lang": "es"
+  },
+  {
+    "text": "una imagen. O sea, si hay una imagen",
+    "duration": 6601,
+    "offset": 2371079,
+    "lang": "es"
+  },
+  {
+    "text": "anterior, trabaja con la anterior, pero",
+    "duration": 6680,
+    "offset": 2373040,
+    "lang": "es"
+  },
+  {
+    "text": "cuando empieza el chat creo que sí o sí",
+    "duration": 3639,
+    "offset": 2377680,
+    "lang": "es"
+  },
+  {
+    "text": "te pide una imagen. Me suena que leí,",
+    "duration": 3359,
+    "offset": 2379720,
+    "lang": "es"
+  },
+  {
+    "text": "capaz me estoy equivocando,",
+    "duration": 5721,
+    "offset": 2381319,
+    "lang": "es"
+  },
+  {
+    "text": "¿no? Es así. te pide sí o sí una imagen",
+    "duration": 5961,
+    "offset": 2383079,
+    "lang": "es"
+  },
+  {
+    "text": "y si hay una imagen anterior la guarda",
+    "duration": 4000,
+    "offset": 2387040,
+    "lang": "es"
+  },
+  {
+    "text": "en memoria y te dice imagen del turno",
+    "duration": 3799,
+    "offset": 2389040,
+    "lang": "es"
+  },
+  {
+    "text": "anterior.",
+    "duration": 4440,
+    "offset": 2391040,
+    "lang": "es"
+  },
+  {
+    "text": "Hoy está hecho así, pero la idea ahora",
+    "duration": 4721,
+    "offset": 2392839,
+    "lang": "es"
+  },
+  {
+    "text": "es que ustedes pongan una imagen y le",
+    "duration": 5320,
+    "offset": 2395480,
+    "lang": "es"
+  },
+  {
+    "text": "pidan que le explique qué es ese tejido,",
+    "duration": 9480,
+    "offset": 2397560,
+    "lang": "es"
+  },
+  {
+    "text": "eh, y ver qué pasa con esa imagen. Sí",
+    "duration": 6240,
+    "offset": 2400800,
+    "lang": "es"
+  },
+  {
+    "text": "están de acuerdo. No sé si",
+    "duration": 4800,
+    "offset": 2409000,
+    "lang": "es"
+  },
+  {
+    "text": "igual creo que si le das a enter apenas",
+    "duration": 4881,
+    "offset": 2411119,
+    "lang": "es"
+  },
+  {
+    "text": "empezas la iteración no le das una",
+    "duration": 4080,
+    "offset": 2413800,
+    "lang": "es"
+  },
+  {
+    "text": "imagen y puedes preguntarle como chat de",
+    "duration": 3640,
+    "offset": 2416000,
+    "lang": "es"
+  },
+  {
+    "text": "texto.",
+    "duration": 4080,
+    "offset": 2417880,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, si funciona así bien.",
+    "duration": 3959,
+    "offset": 2419640,
+    "lang": "es"
+  },
+  {
+    "text": "Si yo no lo probé todavía porque estaba",
+    "duration": 3600,
+    "offset": 2421960,
+    "lang": "es"
+  },
+  {
+    "text": "con imágenes, pero después me voy a dar",
+    "duration": 4000,
+    "offset": 2423599,
+    "lang": "es"
+  },
+  {
+    "text": "me voy a probar eso. No me di cuenta de",
+    "duration": 2559,
+    "offset": 2425560,
+    "lang": "es"
+  },
+  {
+    "text": "de hacerlo.",
+    "duration": 4121,
+    "offset": 2427599,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, igual ahora prueben y hablen con",
+    "duration": 7321,
+    "offset": 2428119,
+    "lang": "es"
+  },
+  {
+    "text": "el grupo de métricas y demás. Prueben",
+    "duration": 5879,
+    "offset": 2431720,
+    "lang": "es"
+  },
+  {
+    "text": "poner una imagen, pedir de qué tejido se",
+    "duration": 5639,
+    "offset": 2435440,
+    "lang": "es"
+  },
+  {
+    "text": "trata, ver con qué índice de similaridad",
+    "duration": 6121,
+    "offset": 2437599,
+    "lang": "es"
+  },
+  {
+    "text": "responde y ajustar tamaños de chat,",
+    "duration": 4881,
+    "offset": 2441079,
+    "lang": "es"
+  },
+  {
+    "text": "preprocesamiento y en si en caso cambiar",
+    "duration": 4599,
+    "offset": 2443720,
+    "lang": "es"
+  },
+  {
+    "text": "en beding. Sí.",
+    "duration": 4359,
+    "offset": 2445960,
+    "lang": "es"
+  },
+  {
+    "text": "Ver si tienen que poner algo en la",
+    "duration": 5321,
+    "offset": 2448319,
+    "lang": "es"
+  },
+  {
+    "text": "identidad de la gente y demás.",
+    "duration": 4121,
+    "offset": 2450319,
+    "lang": "es"
+  },
+  {
+    "text": "Okay.",
+    "duration": 3280,
+    "offset": 2453640,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, en disparamos ahora el sprint de",
+    "duration": 4280,
+    "offset": 2454440,
+    "lang": "es"
+  },
+  {
+    "text": "tres semanas,",
+    "duration": 4199,
+    "offset": 2456920,
+    "lang": "es"
+  },
+  {
+    "text": "nos agarra feriado largo, nos agarra",
+    "duration": 4920,
+    "offset": 2458720,
+    "lang": "es"
+  },
+  {
+    "text": "Pascua, así que por eso lo puse, perdón,",
+    "duration": 6281,
+    "offset": 2461119,
+    "lang": "es"
+  },
+  {
+    "text": "de 4 semanas e",
+    "duration": 7840,
+    "offset": 2463640,
+    "lang": "es"
+  },
+  {
+    "text": "hasta el 10 de abril.",
+    "duration": 7080,
+    "offset": 2467400,
+    "lang": "es"
+  },
+  {
+    "text": "Eh,",
+    "duration": 3000,
+    "offset": 2471480,
+    "lang": "es"
+  },
+  {
+    "text": "nos toca de 4 semanas hasta el 10 de",
+    "duration": 5441,
+    "offset": 2477599,
+    "lang": "es"
+  },
+  {
+    "text": "abril. Y lo que me gustaría ahora sí, en",
+    "duration": 5681,
+    "offset": 2479319,
+    "lang": "es"
+  },
+  {
+    "text": "los próximos encuentros, que sean más",
+    "duration": 4600,
+    "offset": 2483040,
+    "lang": "es"
+  },
+  {
+    "text": "que nada ustedes los protagonistas y",
+    "duration": 4520,
+    "offset": 2485000,
+    "lang": "es"
+  },
+  {
+    "text": "algún grupo tome la posta y me diga,",
+    "duration": 4439,
+    "offset": 2487640,
+    "lang": "es"
+  },
+  {
+    "text": "bueno, que si tuvo algún problema, que",
+    "duration": 7079,
+    "offset": 2489520,
+    "lang": "es"
+  },
+  {
+    "text": "lo dice antes, ¿no? Como para no eh para",
+    "duration": 6520,
+    "offset": 2492079,
+    "lang": "es"
+  },
+  {
+    "text": "no detenernos o que no sea una falla",
+    "duration": 6720,
+    "offset": 2496599,
+    "lang": "es"
+  },
+  {
+    "text": "bloqueante. Y este",
+    "duration": 4720,
+    "offset": 2498599,
+    "lang": "es"
+  },
+  {
+    "text": "me va comentando a mí algún curso, algún",
+    "duration": 5360,
+    "offset": 2503640,
+    "lang": "es"
+  },
+  {
+    "text": "grupo va comentando a ver qué hicieron,",
+    "duration": 3760,
+    "offset": 2507079,
+    "lang": "es"
+  },
+  {
+    "text": "cómo le fue, qué estuvieron probando.",
+    "duration": 3200,
+    "offset": 2509000,
+    "lang": "es"
+  },
+  {
+    "text": "Sí,",
+    "duration": 2641,
+    "offset": 2510839,
+    "lang": "es"
+  },
+  {
+    "text": "dale dale. Sí,",
+    "duration": 2840,
+    "offset": 2512200,
+    "lang": "es"
+  },
+  {
+    "text": "buenísimo.",
+    "duration": 4040,
+    "offset": 2513480,
+    "lang": "es"
+  },
+  {
+    "text": "Okay. Entonces la idea sería testear con",
+    "duration": 5640,
+    "offset": 2515040,
+    "lang": "es"
+  },
+  {
+    "text": "todo y si vemos que hay que hacer un",
+    "duration": 5839,
+    "offset": 2517520,
+    "lang": "es"
+  },
+  {
+    "text": "cambio porque anda mal, es ir probando",
+    "duration": 5880,
+    "offset": 2520680,
+    "lang": "es"
+  },
+  {
+    "text": "con Antigravity, que podemos ir",
+    "duration": 5441,
+    "offset": 2523359,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, que Antigravity los vaya Claro, que",
+    "duration": 4320,
+    "offset": 2526560,
+    "lang": "es"
+  },
+  {
+    "text": "Antigravity los vaya guiando respecto de",
+    "duration": 4279,
+    "offset": 2528800,
+    "lang": "es"
+  },
+  {
+    "text": "que pueden ir mejorando. Igual",
+    "duration": 5760,
+    "offset": 2530880,
+    "lang": "es"
+  },
+  {
+    "text": "acuérdense que e estudiar y dar",
+    "duration": 5601,
+    "offset": 2533079,
+    "lang": "es"
+  },
+  {
+    "text": "especificaciones correctas va a ser casi",
+    "duration": 5320,
+    "offset": 2536640,
+    "lang": "es"
+  },
+  {
+    "text": "el futuro de su vida profesional, ¿no?",
+    "duration": 5639,
+    "offset": 2538680,
+    "lang": "es"
+  },
+  {
+    "text": "El tema de los spec Driv development, si",
+    "duration": 4440,
+    "offset": 2541960,
+    "lang": "es"
+  },
+  {
+    "text": "no usan antigravity cuando vayan a",
+    "duration": 4841,
+    "offset": 2544319,
+    "lang": "es"
+  },
+  {
+    "text": "trabajar van a usar Kiro o lo que venga",
+    "duration": 4520,
+    "offset": 2546400,
+    "lang": "es"
+  },
+  {
+    "text": "después de eso porque cambia todos los",
+    "duration": 4040,
+    "offset": 2549160,
+    "lang": "es"
+  },
+  {
+    "text": "días, ¿no?",
+    "duration": 5240,
+    "offset": 2550920,
+    "lang": "es"
+  },
+  {
+    "text": "Oh, no sé, como que yo estoy cursando",
+    "duration": 5399,
+    "offset": 2553200,
+    "lang": "es"
+  },
+  {
+    "text": "distri 4 y como que la primera la",
+    "duration": 5439,
+    "offset": 2556160,
+    "lang": "es"
+  },
+  {
+    "text": "primera clase fue más o menos un speech",
+    "duration": 5681,
+    "offset": 2558599,
+    "lang": "es"
+  },
+  {
+    "text": "contrario, literalmente contrario.",
+    "duration": 6480,
+    "offset": 2561599,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, puede ser, puede ser. E",
+    "duration": 6559,
+    "offset": 2564280,
+    "lang": "es"
+  },
+  {
+    "text": "se ahí sale en primer plano mi perro",
+    "duration": 4121,
+    "offset": 2568079,
+    "lang": "es"
+  },
+  {
+    "text": "Chihuahua.",
+    "duration": 3841,
+    "offset": 2570839,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, lo que sucede es que todos los",
+    "duration": 5520,
+    "offset": 2572200,
+    "lang": "es"
+  },
+  {
+    "text": "cambios son controversiales,",
+    "duration": 7600,
+    "offset": 2574680,
+    "lang": "es"
+  },
+  {
+    "text": "eh, pero fíjense la nota de que dio",
+    "duration": 7000,
+    "offset": 2577720,
+    "lang": "es"
+  },
+  {
+    "text": "Galperín hace poco",
+    "duration": 5000,
+    "offset": 2582280,
+    "lang": "es"
+  },
+  {
+    "text": "cuando dijo que,",
+    "duration": 4440,
+    "offset": 2584720,
+    "lang": "es"
+  },
+  {
+    "text": "bueno, el tipo directamente dijo que no",
+    "duration": 3240,
+    "offset": 2587280,
+    "lang": "es"
+  },
+  {
+    "text": "era necesario aprender a programar yo,",
+    "duration": 4320,
+    "offset": 2589160,
+    "lang": "es"
+  },
+  {
+    "text": "lo cual me parece una pavada, pero lo",
+    "duration": 5480,
+    "offset": 2590520,
+    "lang": "es"
+  },
+  {
+    "text": "que pasa es que definitivamente los spec",
+    "duration": 4160,
+    "offset": 2593480,
+    "lang": "es"
+  },
+  {
+    "text": "driving development, o sea, el spec",
+    "duration": 4599,
+    "offset": 2596000,
+    "lang": "es"
+  },
+  {
+    "text": "driving development está driveando todo,",
+    "duration": 5600,
+    "offset": 2597640,
+    "lang": "es"
+  },
+  {
+    "text": "aunque ustedes que sepan programar la el",
+    "duration": 4641,
+    "offset": 2600599,
+    "lang": "es"
+  },
+  {
+    "text": "aumento de la productividad a través de",
+    "duration": 3240,
+    "offset": 2603240,
+    "lang": "es"
+  },
+  {
+    "text": "la inteligencia artificial es",
+    "duration": 4240,
+    "offset": 2605240,
+    "lang": "es"
+  },
+  {
+    "text": "monstruoso.",
+    "duration": 3000,
+    "offset": 2606480,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, o sea, que está bueno que usen",
+    "duration": 5720,
+    "offset": 2609960,
+    "lang": "es"
+  },
+  {
+    "text": "inteligencia artificial. La inteligencia",
+    "duration": 3161,
+    "offset": 2614359,
+    "lang": "es"
+  },
+  {
+    "text": "artificial lo que va a hacer es que",
+    "duration": 4040,
+    "offset": 2615680,
+    "lang": "es"
+  },
+  {
+    "text": "programen y aprendan a una velocidad que",
+    "duration": 5760,
+    "offset": 2617520,
+    "lang": "es"
+  },
+  {
+    "text": "antes no existía. Y aparte de eso,",
+    "duration": 5359,
+    "offset": 2619720,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes una vez que vean y dominen el",
+    "duration": 4079,
+    "offset": 2623280,
+    "lang": "es"
+  },
+  {
+    "text": "Spec Driver Development,",
+    "duration": 5081,
+    "offset": 2625079,
+    "lang": "es"
+  },
+  {
+    "text": "eh, si alguien les dice, no sé, ¿saben",
+    "duration": 6720,
+    "offset": 2627359,
+    "lang": "es"
+  },
+  {
+    "text": "el lenguaje Java? Sí, ¿saben el lenguaje",
+    "duration": 6080,
+    "offset": 2630160,
+    "lang": "es"
+  },
+  {
+    "text": "Gol? Sí.",
+    "duration": 4161,
+    "offset": 2634079,
+    "lang": "es"
+  },
+  {
+    "text": "O sea, si ustedes saben algoritmos, si",
+    "duration": 5000,
+    "offset": 2636240,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes saben estructura de datos, si",
+    "duration": 6520,
+    "offset": 2638240,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes saben álgebra relacional,",
+    "duration": 5560,
+    "offset": 2641240,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes conocen la lógica computacional",
+    "duration": 5680,
+    "offset": 2644760,
+    "lang": "es"
+  },
+  {
+    "text": "y depas saben algún lenguaje y demás,",
+    "duration": 5559,
+    "offset": 2646800,
+    "lang": "es"
+  },
+  {
+    "text": "con los spec driving development se",
+    "duration": 6000,
+    "offset": 2650440,
+    "lang": "es"
+  },
+  {
+    "text": "pueden animar a cualquier cosa.",
+    "duration": 4081,
+    "offset": 2652359,
+    "lang": "es"
+  },
+  {
+    "text": "y la y aparte lo que tiene la",
+    "duration": 3799,
+    "offset": 2656760,
+    "lang": "es"
+  },
+  {
+    "text": "inteligencia artificial evita la",
+    "duration": 3520,
+    "offset": 2658839,
+    "lang": "es"
+  },
+  {
+    "text": "procastinación",
+    "duration": 4401,
+    "offset": 2660559,
+    "lang": "es"
+  },
+  {
+    "text": "porque antes uno tenía que ponerse a",
+    "duration": 4321,
+    "offset": 2662359,
+    "lang": "es"
+  },
+  {
+    "text": "estudiar, le costaba, en cambio ahora",
+    "duration": 3320,
+    "offset": 2664960,
+    "lang": "es"
+  },
+  {
+    "text": "directamente puede ir buscar el link,",
+    "duration": 4760,
+    "offset": 2666680,
+    "lang": "es"
+  },
+  {
+    "text": "decir leelo de acá y haceme tal cosa. Y",
+    "duration": 5839,
+    "offset": 2668280,
+    "lang": "es"
+  },
+  {
+    "text": "tiene eh a alguien que le va a hacer",
+    "duration": 4560,
+    "offset": 2671440,
+    "lang": "es"
+  },
+  {
+    "text": "todo el tema del desarrollo de código,",
+    "duration": 3601,
+    "offset": 2674119,
+    "lang": "es"
+  },
+  {
+    "text": "que por ahí es lo más tedioso. Y lo",
+    "duration": 3480,
+    "offset": 2676000,
+    "lang": "es"
+  },
+  {
+    "text": "mejor es que ustedes pueden ver",
+    "duration": 5480,
+    "offset": 2677720,
+    "lang": "es"
+  },
+  {
+    "text": "estimulada muchísimo más su intuición y",
+    "duration": 6079,
+    "offset": 2679480,
+    "lang": "es"
+  },
+  {
+    "text": "su creatividad si se ponen a estudiar,",
+    "duration": 5359,
+    "offset": 2683200,
+    "lang": "es"
+  },
+  {
+    "text": "¿no?",
+    "duration": 3000,
+    "offset": 2685559,
+    "lang": "es"
+  },
+  {
+    "text": "Pero bueno, como se darán cuenta, yo soy",
+    "duration": 6760,
+    "offset": 2689160,
+    "lang": "es"
+  },
+  {
+    "text": "pro inteligencia artificial. M.",
+    "duration": 4601,
+    "offset": 2691319,
+    "lang": "es"
+  }
+]

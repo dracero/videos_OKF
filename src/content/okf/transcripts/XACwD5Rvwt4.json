@@ -1,0 +1,236 @@
+[
+  {
+    "text": "Utilizamos la página Bol New. En la",
+    "duration": 6400,
+    "offset": 3600,
+    "lang": "es"
+  },
+  {
+    "text": "página Bol New pusimos un prompt y un",
+    "duration": 6280,
+    "offset": 6600,
+    "lang": "es"
+  },
+  {
+    "text": "back, el código de un",
+    "duration": 6359,
+    "offset": 10000,
+    "lang": "es"
+  },
+  {
+    "text": "backend, y nos generó todos los archivos",
+    "duration": 5720,
+    "offset": 12880,
+    "lang": "es"
+  },
+  {
+    "text": "para crear nuestra interfaz de chatbot.",
+    "duration": 6481,
+    "offset": 16359,
+    "lang": "es"
+  },
+  {
+    "text": "Esta interfaz de chatbot después la",
+    "duration": 8280,
+    "offset": 18600,
+    "lang": "es"
+  },
+  {
+    "text": "bajamos, la instalamos en nuestra",
+    "duration": 6080,
+    "offset": 22840,
+    "lang": "es"
+  },
+  {
+    "text": "máquina y",
+    "duration": 5519,
+    "offset": 26880,
+    "lang": "es"
+  },
+  {
+    "text": "creamos un frontend capaz de dialogar",
+    "duration": 6720,
+    "offset": 28920,
+    "lang": "es"
+  },
+  {
+    "text": "con el backend del protocolo A2A.",
+    "duration": 5041,
+    "offset": 32399,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, toda la interacción, la",
+    "duration": 4000,
+    "offset": 35640,
+    "lang": "es"
+  },
+  {
+    "text": "registración de agentes, la creación de",
+    "duration": 4400,
+    "offset": 37440,
+    "lang": "es"
+  },
+  {
+    "text": "mensajes, todo lo necesario para",
+    "duration": 4720,
+    "offset": 39640,
+    "lang": "es"
+  },
+  {
+    "text": "utilizar el protocolo A2A, ahora lo",
+    "duration": 6719,
+    "offset": 41840,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos en este backend.",
+    "duration": 4199,
+    "offset": 44360,
+    "lang": "es"
+  },
+  {
+    "text": "a partir del archivo que se generó.",
+    "duration": 6360,
+    "offset": 49760,
+    "lang": "es"
+  },
+  {
+    "text": "Esto es un archivo que se generó",
+    "duration": 5441,
+    "offset": 53039,
+    "lang": "es"
+  },
+  {
+    "text": "enteramente a partir de un prompt y del",
+    "duration": 5000,
+    "offset": 56120,
+    "lang": "es"
+  },
+  {
+    "text": "código de un backend.",
+    "duration": 6240,
+    "offset": 58480,
+    "lang": "es"
+  },
+  {
+    "text": "Acá registramos el agente. Una vez que",
+    "duration": 6480,
+    "offset": 61120,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos el agente registrado, ya podemos",
+    "duration": 6520,
+    "offset": 64720,
+    "lang": "es"
+  },
+  {
+    "text": "empezar a intercambiar mensajes.",
+    "duration": 6320,
+    "offset": 67600,
+    "lang": "es"
+  },
+  {
+    "text": "Inclusive también en la interfaz pusimos",
+    "duration": 7000,
+    "offset": 71240,
+    "lang": "es"
+  },
+  {
+    "text": "la posibilidad de manejar",
+    "duration": 7519,
+    "offset": 73920,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes. Todo esto, todo esto lo",
+    "duration": 7040,
+    "offset": 78240,
+    "lang": "es"
+  },
+  {
+    "text": "generamos primero con bold new, con lo",
+    "duration": 8241,
+    "offset": 81439,
+    "lang": "es"
+  },
+  {
+    "text": "que hicimos la parte inicial y después",
+    "duration": 7920,
+    "offset": 85280,
+    "lang": "es"
+  },
+  {
+    "text": "continuamos desarrollando el código",
+    "duration": 8600,
+    "offset": 89680,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando el eh el agente de",
+    "duration": 8959,
+    "offset": 93200,
+    "lang": "es"
+  },
+  {
+    "text": "el GitHub Copilot en modo agente. Y ese",
+    "duration": 6879,
+    "offset": 98280,
+    "lang": "es"
+  },
+  {
+    "text": "GitHub Copilot en modo agente también le",
+    "duration": 5481,
+    "offset": 102159,
+    "lang": "es"
+  },
+  {
+    "text": "incorporamos una serie de tools a través",
+    "duration": 4960,
+    "offset": 105159,
+    "lang": "es"
+  },
+  {
+    "text": "de su MCP server. Sobre todo algo que",
+    "duration": 5680,
+    "offset": 107640,
+    "lang": "es"
+  },
+  {
+    "text": "nos fue muy útil fue Playright para que",
+    "duration": 5481,
+    "offset": 110119,
+    "lang": "es"
+  },
+  {
+    "text": "Playwright se metiera en las páginas a",
+    "duration": 3759,
+    "offset": 113320,
+    "lang": "es"
+  },
+  {
+    "text": "donde está la documentación del",
+    "duration": 4839,
+    "offset": 115600,
+    "lang": "es"
+  },
+  {
+    "text": "protocolo A2A y nos ayude a programar",
+    "duration": 6000,
+    "offset": 117079,
+    "lang": "es"
+  },
+  {
+    "text": "todos los ends necesarios para tener",
+    "duration": 7481,
+    "offset": 120439,
+    "lang": "es"
+  },
+  {
+    "text": "nuestro orquestador funcionando. No.",
+    "duration": 4841,
+    "offset": 123079,
+    "lang": "es"
+  }
+]

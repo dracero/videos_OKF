@@ -1,0 +1,242 @@
+[
+  {
+    "text": "Bien, acá terminó de trabajar como",
+    "duration": 6601,
+    "offset": 1439,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros habíamos pedido que cree eh un",
+    "duration": 8961,
+    "offset": 3919,
+    "lang": "es"
+  },
+  {
+    "text": "frontend en astro. Fíjense que acá están",
+    "duration": 7960,
+    "offset": 8040,
+    "lang": "es"
+  },
+  {
+    "text": "todos los archivos",
+    "duration": 7399,
+    "offset": 12880,
+    "lang": "es"
+  },
+  {
+    "text": "necesarios para poder hacer ese",
+    "duration": 7160,
+    "offset": 16000,
+    "lang": "es"
+  },
+  {
+    "text": "ese frontend en astro.",
+    "duration": 7080,
+    "offset": 20279,
+    "lang": "es"
+  },
+  {
+    "text": "Acá tenemos index astro, el layout",
+    "duration": 6720,
+    "offset": 23160,
+    "lang": "es"
+  },
+  {
+    "text": "para las distintas. Y acá tenemos el",
+    "duration": 5801,
+    "offset": 27359,
+    "lang": "es"
+  },
+  {
+    "text": "chat interface, todo hecho en e en",
+    "duration": 7359,
+    "offset": 29880,
+    "lang": "es"
+  },
+  {
+    "text": "lenguaje astro. Y este chat interface lo",
+    "duration": 5640,
+    "offset": 33160,
+    "lang": "es"
+  },
+  {
+    "text": "que después vamos a tener que hacer",
+    "duration": 4921,
+    "offset": 37239,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros es customizarlo para las",
+    "duration": 6680,
+    "offset": 38800,
+    "lang": "es"
+  },
+  {
+    "text": "direcciones de nuestros APN points y",
+    "duration": 6280,
+    "offset": 42160,
+    "lang": "es"
+  },
+  {
+    "text": "para que se conecte a lo que",
+    "duration": 6079,
+    "offset": 45480,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros necesitamos.",
+    "duration": 6720,
+    "offset": 48440,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, pero fíjense acá es a donde",
+    "duration": 5840,
+    "offset": 51559,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos, por ejemplo, crear create new",
+    "duration": 3480,
+    "offset": 55160,
+    "lang": "es"
+  },
+  {
+    "text": "session.",
+    "duration": 4401,
+    "offset": 57399,
+    "lang": "es"
+  },
+  {
+    "text": "Y lo que va a hacer es va acá tiene",
+    "duration": 5440,
+    "offset": 58640,
+    "lang": "es"
+  },
+  {
+    "text": "definido un APUR URL. Nosotros lo que",
+    "duration": 3760,
+    "offset": 61800,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que hacer es poner en esta",
+    "duration": 7039,
+    "offset": 64080,
+    "lang": "es"
+  },
+  {
+    "text": "variable los valores en función de los",
+    "duration": 8160,
+    "offset": 65560,
+    "lang": "es"
+  },
+  {
+    "text": "eh de las direcciones que nosotros",
+    "duration": 6401,
+    "offset": 71119,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos para nuestra e para nuestra",
+    "duration": 6439,
+    "offset": 73720,
+    "lang": "es"
+  },
+  {
+    "text": "experiencia. Bien, y acá tenemos el",
+    "duration": 5360,
+    "offset": 77520,
+    "lang": "es"
+  },
+  {
+    "text": "preview. Acá en el preview tenemos la",
+    "duration": 5801,
+    "offset": 80159,
+    "lang": "es"
+  },
+  {
+    "text": "interfaz de chatbot que creó acá para",
+    "duration": 5720,
+    "offset": 82880,
+    "lang": "es"
+  },
+  {
+    "text": "escribir el mensaje y enviar.",
+    "duration": 4760,
+    "offset": 85960,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá nos dice bien que no se pudo",
+    "duration": 4440,
+    "offset": 88600,
+    "lang": "es"
+  },
+  {
+    "text": "conectar a local host 8000, lo que es",
+    "duration": 6000,
+    "offset": 90720,
+    "lang": "es"
+  },
+  {
+    "text": "claro porque esto lo tenemos en eh en",
+    "duration": 8719,
+    "offset": 93040,
+    "lang": "es"
+  },
+  {
+    "text": "internet, pero nosotros si queremos e lo",
+    "duration": 11320,
+    "offset": 96720,
+    "lang": "es"
+  },
+  {
+    "text": "que podemos hacer acá es o em",
+    "duration": 6281,
+    "offset": 101759,
+    "lang": "es"
+  },
+  {
+    "text": "bien bajarlo en GitHub o si no lo otro",
+    "duration": 6881,
+    "offset": 108159,
+    "lang": "es"
+  },
+  {
+    "text": "que podemos hacer es export, abrirlo en",
+    "duration": 5041,
+    "offset": 112479,
+    "lang": "es"
+  },
+  {
+    "text": "Statlix o hacer un download, ¿no? nos",
+    "duration": 5560,
+    "offset": 115040,
+    "lang": "es"
+  },
+  {
+    "text": "baja el archivo y haciendo un MPM, un",
+    "duration": 6360,
+    "offset": 117520,
+    "lang": "es"
+  },
+  {
+    "text": "npm install, ya tenemos el front end",
+    "duration": 5199,
+    "offset": 120600,
+    "lang": "es"
+  },
+  {
+    "text": "funcionando.",
+    "duration": 5519,
+    "offset": 123880,
+    "lang": "es"
+  },
+  {
+    "text": "100% coding.",
+    "duration": 3600,
+    "offset": 125799,
+    "lang": "es"
+  }
+]

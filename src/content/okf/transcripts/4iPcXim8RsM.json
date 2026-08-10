@@ -1,0 +1,224 @@
+[
+  {
+    "text": "lo que vamos a ver ahora es Cómo hacer",
+    "duration": 5041,
+    "offset": 1599,
+    "lang": "es"
+  },
+  {
+    "text": "Tenemos un video que dura 2 horas que es",
+    "duration": 5680,
+    "offset": 4160,
+    "lang": "es"
+  },
+  {
+    "text": "un video de Marcelo Fontana a donde",
+    "duration": 7199,
+    "offset": 6640,
+    "lang": "es"
+  },
+  {
+    "text": "explica distintas cosas de trabajo y",
+    "duration": 7320,
+    "offset": 9840,
+    "lang": "es"
+  },
+  {
+    "text": "energía y dinámica de el cuerpo",
+    "duration": 6360,
+    "offset": 13839,
+    "lang": "es"
+  },
+  {
+    "text": "rígido lo que hicimos ya",
+    "duration": 7199,
+    "offset": 17160,
+    "lang": "es"
+  },
+  {
+    "text": "e generamos en nuestra base de datos qdb",
+    "duration": 7801,
+    "offset": 20199,
+    "lang": "es"
+  },
+  {
+    "text": "ahí los embeddings y a esos embeddings",
+    "duration": 4601,
+    "offset": 24359,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 5600,
+    "offset": 28000,
+    "lang": "es"
+  },
+  {
+    "text": "eh el transcript asociamos el Start Time",
+    "duration": 8800,
+    "offset": 28960,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces ahora lo que vamos a hacer es",
+    "duration": 6600,
+    "offset": 33600,
+    "lang": "es"
+  },
+  {
+    "text": "generar un query a donde pongo que tengo",
+    "duration": 4000,
+    "offset": 37760,
+    "lang": "es"
+  },
+  {
+    "text": "que calcular el trabajo de un cuerpo",
+    "duration": 4760,
+    "offset": 40200,
+    "lang": "es"
+  },
+  {
+    "text": "rígido en rotación y no me doy cuenta",
+    "duration": 8400,
+    "offset": 41760,
+    "lang": "es"
+  },
+  {
+    "text": "cómo Entonces generamos el e el query a",
+    "duration": 7960,
+    "offset": 44960,
+    "lang": "es"
+  },
+  {
+    "text": "la base de datos",
+    "duration": 2760,
+    "offset": 50160,
+    "lang": "es"
+  },
+  {
+    "text": "eh hacemos ejecutamos el algoritmo de",
+    "duration": 5879,
+    "offset": 53320,
+    "lang": "es"
+  },
+  {
+    "text": "similaridad y ese algoritmo de",
+    "duration": 4919,
+    "offset": 56960,
+    "lang": "es"
+  },
+  {
+    "text": "similaridad nos va a dar un starttime a",
+    "duration": 5201,
+    "offset": 59199,
+    "lang": "es"
+  },
+  {
+    "text": "donde se está hablando de el trabajo de",
+    "duration": 6641,
+    "offset": 61879,
+    "lang": "es"
+  },
+  {
+    "text": "rotación eh acá cargamos el ID del video",
+    "duration": 7880,
+    "offset": 64400,
+    "lang": "es"
+  },
+  {
+    "text": "y ahora generamos con eso acá nos dice",
+    "duration": 6360,
+    "offset": 68520,
+    "lang": "es"
+  },
+  {
+    "text": "el momento en donde va a empezar Acá",
+    "duration": 5600,
+    "offset": 72280,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos el enid de ese video y acá vemos",
+    "duration": 5199,
+    "offset": 74880,
+    "lang": "es"
+  },
+  {
+    "text": "el video del profesor Marcelo Fontana y",
+    "duration": 4520,
+    "offset": 77880,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver si efectivamente nos ha",
+    "duration": 6561,
+    "offset": 80079,
+    "lang": "es"
+  },
+  {
+    "text": "enviado al e instante correcto calcular",
+    "duration": 6280,
+    "offset": 82400,
+    "lang": "es"
+  },
+  {
+    "text": "el trabajo en la rotación no Y ese",
+    "duration": 3439,
+    "offset": 86640,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo en la rotación por lo que",
+    "duration": 3880,
+    "offset": 88680,
+    "lang": "es"
+  },
+  {
+    "text": "estamos diciendo hace ganar energía",
+    "duration": 5080,
+    "offset": 90079,
+    "lang": "es"
+  },
+  {
+    "text": "cinética de rotación eh Entonces vamos a",
+    "duration": 4599,
+    "offset": 92560,
+    "lang": "es"
+  },
+  {
+    "text": "ver la expresión",
+    "duration": 4081,
+    "offset": 95159,
+    "lang": "es"
+  },
+  {
+    "text": "este",
+    "duration": 6560,
+    "offset": 97159,
+    "lang": "es"
+  },
+  {
+    "text": "Eh bueno acá efectivamente Nos mandó",
+    "duration": 7159,
+    "offset": 99240,
+    "lang": "es"
+  },
+  {
+    "text": "directamente dentro de la clase de 2",
+    "duration": 5000,
+    "offset": 103719,
+    "lang": "es"
+  },
+  {
+    "text": "horas al instante específico que",
+    "duration": 6201,
+    "offset": 106399,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros queremos ver",
+    "duration": 3881,
+    "offset": 108719,
+    "lang": "es"
+  }
+]

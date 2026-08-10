@@ -1,0 +1,248 @@
+[
+  {
+    "text": "A2 Wii. A2U WI es un lenguaje",
+    "duration": 4320,
+    "offset": 560,
+    "lang": "es"
+  },
+  {
+    "text": "declarativo",
+    "duration": 5440,
+    "offset": 3360,
+    "lang": "es"
+  },
+  {
+    "text": "de Google que sirve para que los agentes",
+    "duration": 6719,
+    "offset": 4880,
+    "lang": "es"
+  },
+  {
+    "text": "envíen mensajes al frontend. Es un",
+    "duration": 4919,
+    "offset": 8800,
+    "lang": "es"
+  },
+  {
+    "text": "lenguaje declarativo de Jason que",
+    "duration": 4481,
+    "offset": 11599,
+    "lang": "es"
+  },
+  {
+    "text": "utiliza su Vesco Pilot kit, es decir, a",
+    "duration": 5161,
+    "offset": 13719,
+    "lang": "es"
+  },
+  {
+    "text": "GUI, para poder transformar ese lenguaje",
+    "duration": 5640,
+    "offset": 16080,
+    "lang": "es"
+  },
+  {
+    "text": "de Jason en un frontend, en la parte",
+    "duration": 4639,
+    "offset": 18880,
+    "lang": "es"
+  },
+  {
+    "text": "nativa del frontend que estoy usando.",
+    "duration": 4240,
+    "offset": 21720,
+    "lang": "es"
+  },
+  {
+    "text": "Por ahora soporta solamente JavaScript,",
+    "duration": 5641,
+    "offset": 23519,
+    "lang": "es"
+  },
+  {
+    "text": "pero va a soportar Angular, React y,",
+    "duration": 5000,
+    "offset": 25960,
+    "lang": "es"
+  },
+  {
+    "text": "finalmente todos los lenguajes de",
+    "duration": 4880,
+    "offset": 29160,
+    "lang": "es"
+  },
+  {
+    "text": "frontend que conocemos basados en NS. Lo",
+    "duration": 5119,
+    "offset": 30960,
+    "lang": "es"
+  },
+  {
+    "text": "importante es que este lenguaje",
+    "duration": 3640,
+    "offset": 34040,
+    "lang": "es"
+  },
+  {
+    "text": "declarativo",
+    "duration": 4000,
+    "offset": 36079,
+    "lang": "es"
+  },
+  {
+    "text": "cambia en función de lo que uno le dice",
+    "duration": 4480,
+    "offset": 37680,
+    "lang": "es"
+  },
+  {
+    "text": "a la gente.",
+    "duration": 5480,
+    "offset": 40079,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos entonces",
+    "duration": 3399,
+    "offset": 42160,
+    "lang": "es"
+  },
+  {
+    "text": "a entrar acá. Le podemos decir, qué sé",
+    "duration": 4840,
+    "offset": 46520,
+    "lang": "es"
+  },
+  {
+    "text": "yo, que haga un saludo. Ahí generó un",
+    "duration": 5680,
+    "offset": 49399,
+    "lang": "es"
+  },
+  {
+    "text": "saludo. Lo podemos personalizar.",
+    "duration": 6600,
+    "offset": 51360,
+    "lang": "es"
+  },
+  {
+    "text": "Hola, ¿qué tal?",
+    "duration": 7120,
+    "offset": 55079,
+    "lang": "es"
+  },
+  {
+    "text": "Pero también le podemos decir",
+    "duration": 4239,
+    "offset": 57960,
+    "lang": "es"
+  },
+  {
+    "text": "hace un botón",
+    "duration": 3401,
+    "offset": 62239,
+    "lang": "es"
+  },
+  {
+    "text": "con fondo",
+    "duration": 5320,
+    "offset": 65760,
+    "lang": "es"
+  },
+  {
+    "text": "naranja",
+    "duration": 6240,
+    "offset": 68720,
+    "lang": "es"
+  },
+  {
+    "text": "que diga hola.",
+    "duration": 3880,
+    "offset": 71080,
+    "lang": "es"
+  },
+  {
+    "text": "Y ahí le estamos pidiendo que nos haga",
+    "duration": 3520,
+    "offset": 75040,
+    "lang": "es"
+  },
+  {
+    "text": "un botón con fondo naranja que diga",
+    "duration": 3519,
+    "offset": 76640,
+    "lang": "es"
+  },
+  {
+    "text": "hola.",
+    "duration": 5720,
+    "offset": 78560,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí, fíjense que cree el le enviamos un",
+    "duration": 7481,
+    "offset": 80159,
+    "lang": "es"
+  },
+  {
+    "text": "mensaje a la gente, el agente genera ese",
+    "duration": 5280,
+    "offset": 84280,
+    "lang": "es"
+  },
+  {
+    "text": "lenguaje declarativo de Jason, lo",
+    "duration": 4320,
+    "offset": 87640,
+    "lang": "es"
+  },
+  {
+    "text": "transforma al lenguaje del frontend a",
+    "duration": 4760,
+    "offset": 89560,
+    "lang": "es"
+  },
+  {
+    "text": "través de GUI. Y acá lo estamos viendo.",
+    "duration": 4360,
+    "offset": 91960,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que acá le hacemos clic y",
+    "duration": 5560,
+    "offset": 94320,
+    "lang": "es"
+  },
+  {
+    "text": "aparece un alert.",
+    "duration": 3560,
+    "offset": 96320,
+    "lang": "es"
+  },
+  {
+    "text": "E",
+    "duration": 6600,
+    "offset": 100159,
+    "lang": "es"
+  },
+  {
+    "text": "le vamos a poner acá cambiar",
+    "duration": 7441,
+    "offset": 103159,
+    "lang": "es"
+  },
+  {
+    "text": "el fondo aja.",
+    "duration": 3841,
+    "offset": 106759,
+    "lang": "es"
+  },
+  {
+    "text": "M.",
+    "duration": 2240,
+    "offset": 112320,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,848 @@
+[
+  {
+    "text": "Bueno, vamos a empezar con un dato del",
+    "duration": 4280,
+    "offset": 160,
+    "lang": "es"
+  },
+  {
+    "text": "MIT del año 2025 que sinceramente es",
+    "duration": 5680,
+    "offset": 1560,
+    "lang": "es"
+  },
+  {
+    "text": "brutal. El 95% de los pilotos",
+    "duration": 5000,
+    "offset": 4440,
+    "lang": "es"
+  },
+  {
+    "text": "empresariales de inteligencia artificial",
+    "duration": 4319,
+    "offset": 7240,
+    "lang": "es"
+  },
+  {
+    "text": "fracasaron. No lograron ofrecer ni un",
+    "duration": 4119,
+    "offset": 9440,
+    "lang": "es"
+  },
+  {
+    "text": "solo retorno de inversión medible cuando",
+    "duration": 4401,
+    "offset": 11559,
+    "lang": "es"
+  },
+  {
+    "text": "por fin se enfrentaron al mundo real. Y",
+    "duration": 4720,
+    "offset": 13559,
+    "lang": "es"
+  },
+  {
+    "text": "claro, la gran pregunta es por qué.",
+    "duration": 3800,
+    "offset": 15960,
+    "lang": "es"
+  },
+  {
+    "text": "Resulta que el sueño de que bastaba con",
+    "duration": 3721,
+    "offset": 18279,
+    "lang": "es"
+  },
+  {
+    "text": "unas palabras mágicas se derrumbó por",
+    "duration": 4519,
+    "offset": 19760,
+    "lang": "es"
+  },
+  {
+    "text": "completo. El problema central no eran",
+    "duration": 4560,
+    "offset": 22000,
+    "lang": "es"
+  },
+  {
+    "text": "los modelos de IA en sí, para nada, sino",
+    "duration": 4121,
+    "offset": 24279,
+    "lang": "es"
+  },
+  {
+    "text": "los sistemas frágiles e impredecibles",
+    "duration": 3520,
+    "offset": 26560,
+    "lang": "es"
+  },
+  {
+    "text": "que se habían construido a su alrededor",
+    "duration": 3920,
+    "offset": 28400,
+    "lang": "es"
+  },
+  {
+    "text": "para intentar controlarlos. Bienvenidos",
+    "duration": 4120,
+    "offset": 30080,
+    "lang": "es"
+  },
+  {
+    "text": "a este análisis a fondo donde vamos a",
+    "duration": 3680,
+    "offset": 32320,
+    "lang": "es"
+  },
+  {
+    "text": "descubrir exactamente por qué el",
+    "duration": 3480,
+    "offset": 34200,
+    "lang": "es"
+  },
+  {
+    "text": "tradicional Prompt Engineering está",
+    "duration": 3719,
+    "offset": 36000,
+    "lang": "es"
+  },
+  {
+    "text": "fallando en los entornos empresariales",
+    "duration": 4440,
+    "offset": 37680,
+    "lang": "es"
+  },
+  {
+    "text": "más exigentes. Y vamos a desglosar paso",
+    "duration": 5081,
+    "offset": 39719,
+    "lang": "es"
+  },
+  {
+    "text": "a paso cuál es la solución definitiva.",
+    "duration": 4439,
+    "offset": 42120,
+    "lang": "es"
+  },
+  {
+    "text": "Echad un vistazo rápido a nuestra hoja",
+    "duration": 3919,
+    "offset": 44800,
+    "lang": "es"
+  },
+  {
+    "text": "de ruta. Vamos a hablar de la crisis de",
+    "duration": 4480,
+    "offset": 46559,
+    "lang": "es"
+  },
+  {
+    "text": "los agentes, la evolución técnica, la",
+    "duration": 4961,
+    "offset": 48719,
+    "lang": "es"
+  },
+  {
+    "text": "anatomía de un harness, sus cinco capas,",
+    "duration": 4921,
+    "offset": 51039,
+    "lang": "es"
+  },
+  {
+    "text": "cómo funciona en producción y por último",
+    "duration": 4320,
+    "offset": 53680,
+    "lang": "es"
+  },
+  {
+    "text": "el gran cambio de paradigma. Vamos al",
+    "duration": 4640,
+    "offset": 55960,
+    "lang": "es"
+  },
+  {
+    "text": "lío. Punto uno, la crisis de los",
+    "duration": 5719,
+    "offset": 58000,
+    "lang": "es"
+  },
+  {
+    "text": "agentes. Un coche deportivo sin volante.",
+    "duration": 5120,
+    "offset": 60600,
+    "lang": "es"
+  },
+  {
+    "text": "Imaginad un modelo de IA hiperpotente",
+    "duration": 4001,
+    "offset": 63719,
+    "lang": "es"
+  },
+  {
+    "text": "como si fuera un motor de Fórmula 1,",
+    "duration": 4439,
+    "offset": 65720,
+    "lang": "es"
+  },
+  {
+    "text": "pero sin caja de cambios, sin frenos y",
+    "duration": 4719,
+    "offset": 67720,
+    "lang": "es"
+  },
+  {
+    "text": "sin volante. Literalmente incontrolable,",
+    "duration": 4960,
+    "offset": 70159,
+    "lang": "es"
+  },
+  {
+    "text": "¿verdad? Pues es una metáfora perfecta.",
+    "duration": 4761,
+    "offset": 72439,
+    "lang": "es"
+  },
+  {
+    "text": "Toda esa potencia bruta es totalmente",
+    "duration": 4040,
+    "offset": 75119,
+    "lang": "es"
+  },
+  {
+    "text": "inútil si no le ponemos ese equivalente",
+    "duration": 3919,
+    "offset": 77200,
+    "lang": "es"
+  },
+  {
+    "text": "al volante para poder gobernar toda esa",
+    "duration": 4481,
+    "offset": 79159,
+    "lang": "es"
+  },
+  {
+    "text": "inmensa capacidad de cálculo. Pasamos al",
+    "duration": 4481,
+    "offset": 81119,
+    "lang": "es"
+  },
+  {
+    "text": "punto dos, la evolución del AI",
+    "duration": 4200,
+    "offset": 83640,
+    "lang": "es"
+  },
+  {
+    "text": "engineering, de las palabras a los",
+    "duration": 4479,
+    "offset": 85600,
+    "lang": "es"
+  },
+  {
+    "text": "sistemas. Fijaos en la locura de esta",
+    "duration": 4360,
+    "offset": 87840,
+    "lang": "es"
+  },
+  {
+    "text": "línea temporal. Hemos avanzado a una",
+    "duration": 4961,
+    "offset": 90079,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad de vértigo. En la ELA de 2022",
+    "duration": 4520,
+    "offset": 92200,
+    "lang": "es"
+  },
+  {
+    "text": "estábamos con los prompts escribiendo",
+    "duration": 3719,
+    "offset": 95040,
+    "lang": "es"
+  },
+  {
+    "text": "instrucciones sueltas. Luego pasamos al",
+    "duration": 4439,
+    "offset": 96720,
+    "lang": "es"
+  },
+  {
+    "text": "contexto, luego a los agentes autónomos",
+    "duration": 5281,
+    "offset": 98759,
+    "lang": "es"
+  },
+  {
+    "text": "y ahora en 2026 el estándar es el",
+    "duration": 4841,
+    "offset": 101159,
+    "lang": "es"
+  },
+  {
+    "text": "harness engineering. Ya no escribimos",
+    "duration": 3719,
+    "offset": 104040,
+    "lang": "es"
+  },
+  {
+    "text": "textos, ahora construimos el sistema de",
+    "duration": 3439,
+    "offset": 106000,
+    "lang": "es"
+  },
+  {
+    "text": "software estructurado y completo que",
+    "duration": 3801,
+    "offset": 107759,
+    "lang": "es"
+  },
+  {
+    "text": "envuelve a la gente. Esto nos lleva al",
+    "duration": 5000,
+    "offset": 109439,
+    "lang": "es"
+  },
+  {
+    "text": "punto tres, la anatomía del harness, el",
+    "duration": 5199,
+    "offset": 111560,
+    "lang": "es"
+  },
+  {
+    "text": "sistema operativo para la IA. Mitchell",
+    "duration": 4521,
+    "offset": 114439,
+    "lang": "es"
+  },
+  {
+    "text": "Hashimoto dio en el clavo en febrero de",
+    "duration": 4640,
+    "offset": 116759,
+    "lang": "es"
+  },
+  {
+    "text": "2026 con esta ecuación milimétrica.",
+    "duration": 5199,
+    "offset": 118960,
+    "lang": "es"
+  },
+  {
+    "text": "agente es igual a modelo más harness. La",
+    "duration": 4161,
+    "offset": 121399,
+    "lang": "es"
+  },
+  {
+    "text": "clave de todo esto es que tenemos que",
+    "duration": 3201,
+    "offset": 124159,
+    "lang": "es"
+  },
+  {
+    "text": "dejar de suplicarle al modelo que sea",
+    "duration": 3839,
+    "offset": 125560,
+    "lang": "es"
+  },
+  {
+    "text": "más listo y empezar a diseñar sistemas",
+    "duration": 4200,
+    "offset": 127360,
+    "lang": "es"
+  },
+  {
+    "text": "donde cometer el mismo error dos veces",
+    "duration": 4681,
+    "offset": 129399,
+    "lang": "es"
+  },
+  {
+    "text": "sea estructuralmente imposible. Pensadlo",
+    "duration": 4360,
+    "offset": 131560,
+    "lang": "es"
+  },
+  {
+    "text": "como un ordenador de toda la vida. A",
+    "duration": 3200,
+    "offset": 134080,
+    "lang": "es"
+  },
+  {
+    "text": "nadie se le ocurriría ejecutar una",
+    "duration": 2720,
+    "offset": 135920,
+    "lang": "es"
+  },
+  {
+    "text": "aplicación directamente sobre el",
+    "duration": 2599,
+    "offset": 137280,
+    "lang": "es"
+  },
+  {
+    "text": "procesador sin tener un sistema",
+    "duration": 3319,
+    "offset": 138640,
+    "lang": "es"
+  },
+  {
+    "text": "operativo, ¿no? Pues es exactamente lo",
+    "duration": 3961,
+    "offset": 139879,
+    "lang": "es"
+  },
+  {
+    "text": "mismo. El modelo es el cerebro, la",
+    "duration": 3761,
+    "offset": 141959,
+    "lang": "es"
+  },
+  {
+    "text": "ventana de contexto es la memoria RAM y",
+    "duration": 4479,
+    "offset": 143840,
+    "lang": "es"
+  },
+  {
+    "text": "el harness es operativo fundamental para",
+    "duration": 4360,
+    "offset": 145720,
+    "lang": "es"
+  },
+  {
+    "text": "que controle los fallos y no explote",
+    "duration": 4401,
+    "offset": 148319,
+    "lang": "es"
+  },
+  {
+    "text": "todo por los aires. Punto cuatro, las",
+    "duration": 5320,
+    "offset": 150080,
+    "lang": "es"
+  },
+  {
+    "text": "cinco capas de control. Estructurando el",
+    "duration": 5159,
+    "offset": 152720,
+    "lang": "es"
+  },
+  {
+    "text": "jarn. Para que este sistema operativo",
+    "duration": 4839,
+    "offset": 155400,
+    "lang": "es"
+  },
+  {
+    "text": "funcione bien, necesitamos cinco piezas",
+    "duration": 5041,
+    "offset": 157879,
+    "lang": "es"
+  },
+  {
+    "text": "clave. Uno, orquestar las herramientas",
+    "duration": 5041,
+    "offset": 160239,
+    "lang": "es"
+  },
+  {
+    "text": "para que la gente sepa qué puede hacer.",
+    "duration": 4520,
+    "offset": 162920,
+    "lang": "es"
+  },
+  {
+    "text": "Dos, usar bucles de verificación para",
+    "duration": 3920,
+    "offset": 165280,
+    "lang": "es"
+  },
+  {
+    "text": "forzar al modelo a corregirse a sí",
+    "duration": 4159,
+    "offset": 167440,
+    "lang": "es"
+  },
+  {
+    "text": "mismo. Tres, gestionar la memoria",
+    "duration": 5240,
+    "offset": 169200,
+    "lang": "es"
+  },
+  {
+    "text": "activamente. Cuatro, aplicar guardrails",
+    "duration": 4720,
+    "offset": 171599,
+    "lang": "es"
+  },
+  {
+    "text": "o guardianes super estrictos para la",
+    "duration": 4879,
+    "offset": 174440,
+    "lang": "es"
+  },
+  {
+    "text": "seguridad. Y cinco, observabilidad total",
+    "duration": 5241,
+    "offset": 176319,
+    "lang": "es"
+  },
+  {
+    "text": "en tiempo real para saber qué pasa bajo",
+    "duration": 4681,
+    "offset": 179319,
+    "lang": "es"
+  },
+  {
+    "text": "el capo. Para ilustrar esto, mirad el",
+    "duration": 5080,
+    "offset": 181560,
+    "lang": "es"
+  },
+  {
+    "text": "Antigravity CLI de Google que anunciaron",
+    "duration": 5680,
+    "offset": 184000,
+    "lang": "es"
+  },
+  {
+    "text": "en el IO de 2026. es la encarnación",
+    "duration": 5480,
+    "offset": 186640,
+    "lang": "es"
+  },
+  {
+    "text": "perfecta de este enfoque. Básicamente,",
+    "duration": 4919,
+    "offset": 189680,
+    "lang": "es"
+  },
+  {
+    "text": "usa un único backen de arnés unificado y",
+    "duration": 4800,
+    "offset": 192120,
+    "lang": "es"
+  },
+  {
+    "text": "tira de archivos Mardown sers sencillos",
+    "duration": 4000,
+    "offset": 194599,
+    "lang": "es"
+  },
+  {
+    "text": "para darle a la gente habilidades que",
+    "duration": 4840,
+    "offset": 196920,
+    "lang": "es"
+  },
+  {
+    "text": "son 100% modulares. Vamos con el punto",
+    "duration": 6081,
+    "offset": 198599,
+    "lang": "es"
+  },
+  {
+    "text": "cinco, el harness en producción.",
+    "duration": 4800,
+    "offset": 201760,
+    "lang": "es"
+  },
+  {
+    "text": "Evidencia del mundo real.",
+    "duration": 4160,
+    "offset": 204680,
+    "lang": "es"
+  },
+  {
+    "text": "Porque ojo, esto no es solo teoría. El",
+    "duration": 4560,
+    "offset": 206560,
+    "lang": "es"
+  },
+  {
+    "text": "caso de Microsoft es espectacular. Su",
+    "duration": 5200,
+    "offset": 208840,
+    "lang": "es"
+  },
+  {
+    "text": "agente sre llegó a gestionar 35,000",
+    "duration": 5039,
+    "offset": 211120,
+    "lang": "es"
+  },
+  {
+    "text": "incidentes y gracias a usar un harness",
+    "duration": 3720,
+    "offset": 214040,
+    "lang": "es"
+  },
+  {
+    "text": "que expone el contexto como simples",
+    "duration": 3561,
+    "offset": 216159,
+    "lang": "es"
+  },
+  {
+    "text": "archivos legibles, lograron bajar el",
+    "duration": 4559,
+    "offset": 217760,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo de resolución de más de 40 horas",
+    "duration": 5599,
+    "offset": 219720,
+    "lang": "es"
+  },
+  {
+    "text": "a tan solo 3 minutos. Es alucinante.",
+    "duration": 4840,
+    "offset": 222319,
+    "lang": "es"
+  },
+  {
+    "text": "Luego tenemos a Meta, que consiguió",
+    "duration": 3560,
+    "offset": 225319,
+    "lang": "es"
+  },
+  {
+    "text": "crear flujos de trabajo autónomos que",
+    "duration": 4000,
+    "offset": 227159,
+    "lang": "es"
+  },
+  {
+    "text": "duran varios días. Tienen un mecanismo",
+    "duration": 4041,
+    "offset": 228879,
+    "lang": "es"
+  },
+  {
+    "text": "en su arnés que hace hibernar y",
+    "duration": 4041,
+    "offset": 231159,
+    "lang": "es"
+  },
+  {
+    "text": "despartar a la gente. Guardan el estado",
+    "duration": 4159,
+    "offset": 232920,
+    "lang": "es"
+  },
+  {
+    "text": "en el disco duro y de esta forma el",
+    "duration": 3360,
+    "offset": 235200,
+    "lang": "es"
+  },
+  {
+    "text": "sistema no pierde el hilo en tareas",
+    "duration": 3601,
+    "offset": 237079,
+    "lang": "es"
+  },
+  {
+    "text": "larguísimas de más de 6 horas. Muy",
+    "duration": 5039,
+    "offset": 238560,
+    "lang": "es"
+  },
+  {
+    "text": "inteligente y el equipo de Open AI Codex",
+    "duration": 5279,
+    "offset": 240680,
+    "lang": "es"
+  },
+  {
+    "text": "ya nos vuela la cabeza por completo. Han",
+    "duration": 4081,
+    "offset": 243599,
+    "lang": "es"
+  },
+  {
+    "text": "creado una aplicación con más de un",
+    "duration": 3601,
+    "offset": 245959,
+    "lang": "es"
+  },
+  {
+    "text": "millón de líneas de código donde",
+    "duration": 3520,
+    "offset": 247680,
+    "lang": "es"
+  },
+  {
+    "text": "absolutamente ninguna ha sido escrita",
+    "duration": 3560,
+    "offset": 249560,
+    "lang": "es"
+  },
+  {
+    "text": "por un humano. Esto demuestra un cambio",
+    "duration": 4280,
+    "offset": 251200,
+    "lang": "es"
+  },
+  {
+    "text": "masivo. Los ingenieros hoy ya no pican",
+    "duration": 4239,
+    "offset": 253120,
+    "lang": "es"
+  },
+  {
+    "text": "código. Se dedican a diseñar los",
+    "duration": 3240,
+    "offset": 255480,
+    "lang": "es"
+  },
+  {
+    "text": "sistemas de validación y las",
+    "duration": 3361,
+    "offset": 257359,
+    "lang": "es"
+  },
+  {
+    "text": "restricciones que guían a la gente. Y",
+    "duration": 4160,
+    "offset": 258720,
+    "lang": "es"
+  },
+  {
+    "text": "por fin llegamos al punto seis, el",
+    "duration": 4280,
+    "offset": 260720,
+    "lang": "es"
+  },
+  {
+    "text": "cambio de paradigma. Sistemas por encima",
+    "duration": 4680,
+    "offset": 262880,
+    "lang": "es"
+  },
+  {
+    "text": "de palabras mágicas. A día de hoy, el",
+    "duration": 4479,
+    "offset": 265000,
+    "lang": "es"
+  },
+  {
+    "text": "rendimiento de los modelos en sí está",
+    "duration": 5359,
+    "offset": 267560,
+    "lang": "es"
+  },
+  {
+    "text": "mercantilizado. Los datos cantan. El 82%",
+    "duration": 5560,
+    "offset": 269479,
+    "lang": "es"
+  },
+  {
+    "text": "de los líderes tecnológicos ya pasan de",
+    "duration": 5000,
+    "offset": 272919,
+    "lang": "es"
+  },
+  {
+    "text": "los simples promps. El 95% invierte",
+    "duration": 5160,
+    "offset": 275039,
+    "lang": "es"
+  },
+  {
+    "text": "fuertemente en ingeniería de sistemas y",
+    "duration": 4521,
+    "offset": 277919,
+    "lang": "es"
+  },
+  {
+    "text": "contexto. Y ojo con este último dato,",
+    "duration": 3961,
+    "offset": 280199,
+    "lang": "es"
+  },
+  {
+    "text": "porque si no hacemos esta transición",
+    "duration": 4720,
+    "offset": 282440,
+    "lang": "es"
+  },
+  {
+    "text": "hacia sistemas robustos, el 40% de los",
+    "duration": 5479,
+    "offset": 284160,
+    "lang": "es"
+  },
+  {
+    "text": "proyectos de IA se van a cancelar. Así",
+    "duration": 4319,
+    "offset": 287160,
+    "lang": "es"
+  },
+  {
+    "text": "que la ventaja competitiva ya no es",
+    "duration": 3721,
+    "offset": 289639,
+    "lang": "es"
+  },
+  {
+    "text": "tener el modelo de moda, sino el sistema",
+    "duration": 3801,
+    "offset": 291479,
+    "lang": "es"
+  },
+  {
+    "text": "que lo envuelve. Todo esto nos deja con",
+    "duration": 3600,
+    "offset": 293360,
+    "lang": "es"
+  },
+  {
+    "text": "una reflexión crucial. En nuestro",
+    "duration": 3680,
+    "offset": 295280,
+    "lang": "es"
+  },
+  {
+    "text": "próximo gran proyecto tecnológico,",
+    "duration": 3640,
+    "offset": 296960,
+    "lang": "es"
+  },
+  {
+    "text": "¿vamos a seguir perdiendo el tiempo",
+    "duration": 3320,
+    "offset": 298960,
+    "lang": "es"
+  },
+  {
+    "text": "intentando encontrar las palabras",
+    "duration": 3879,
+    "offset": 300600,
+    "lang": "es"
+  },
+  {
+    "text": "mágicas perfectas o vamos a empezar a",
+    "duration": 4199,
+    "offset": 302280,
+    "lang": "es"
+  },
+  {
+    "text": "construir sistemas verdaderamente",
+    "duration": 6121,
+    "offset": 304479,
+    "lang": "es"
+  },
+  {
+    "text": "fiables? Ahí queda eso.",
+    "duration": 4121,
+    "offset": 306479,
+    "lang": "es"
+  }
+]

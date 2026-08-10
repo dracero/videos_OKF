@@ -1,0 +1,584 @@
+[
+  {
+    "text": "Bueno, ahí ya arreglamos el problema que",
+    "duration": 6760,
+    "offset": 1480,
+    "lang": "es"
+  },
+  {
+    "text": "habíamos tenido y ya tenemos las",
+    "duration": 6519,
+    "offset": 5000,
+    "lang": "es"
+  },
+  {
+    "text": "ecuaciones matemáticas saliendo sin",
+    "duration": 7040,
+    "offset": 8240,
+    "lang": "es"
+  },
+  {
+    "text": "problema en el frontend.",
+    "duration": 7001,
+    "offset": 11519,
+    "lang": "es"
+  },
+  {
+    "text": "Así que ahora pasemos a ver lo que",
+    "duration": 6120,
+    "offset": 15280,
+    "lang": "es"
+  },
+  {
+    "text": "habíamos dicho. Tiene un sistema de",
+    "duration": 5800,
+    "offset": 18520,
+    "lang": "es"
+  },
+  {
+    "text": "telemetría denominado Langsmith. En este",
+    "duration": 5639,
+    "offset": 21400,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de telemetría se puede analizar",
+    "duration": 5520,
+    "offset": 24320,
+    "lang": "es"
+  },
+  {
+    "text": "toda la interacción que hubo con el",
+    "duration": 5680,
+    "offset": 27039,
+    "lang": "es"
+  },
+  {
+    "text": "usuario. Acá, fíjense,",
+    "duration": 6360,
+    "offset": 29840,
+    "lang": "es"
+  },
+  {
+    "text": "está la primer pregunta",
+    "duration": 5881,
+    "offset": 32719,
+    "lang": "es"
+  },
+  {
+    "text": "que hace.",
+    "duration": 4480,
+    "offset": 36200,
+    "lang": "es"
+  },
+  {
+    "text": "Esta es la primer pregunta. Consulta",
+    "duration": 5040,
+    "offset": 38600,
+    "lang": "es"
+  },
+  {
+    "text": "original del estudiante. La pregunta que",
+    "duration": 6080,
+    "offset": 40680,
+    "lang": "es"
+  },
+  {
+    "text": "hizo, el output, que es lo que escribe",
+    "duration": 8520,
+    "offset": 43640,
+    "lang": "es"
+  },
+  {
+    "text": "el el Llm. La segunda pregunta, la",
+    "duration": 9760,
+    "offset": 46760,
+    "lang": "es"
+  },
+  {
+    "text": "tercera y acá está la parte",
+    "duration": 10079,
+    "offset": 52160,
+    "lang": "es"
+  },
+  {
+    "text": "donde eh va a empezar a eh la última",
+    "duration": 8719,
+    "offset": 56520,
+    "lang": "es"
+  },
+  {
+    "text": "parte",
+    "duration": 3000,
+    "offset": 62239,
+    "lang": "es"
+  },
+  {
+    "text": "que vamos a ver en función de",
+    "duration": 7040,
+    "offset": 67040,
+    "lang": "es"
+  },
+  {
+    "text": "acá está",
+    "duration": 6359,
+    "offset": 71400,
+    "lang": "es"
+  },
+  {
+    "text": "las tres preguntas",
+    "duration": 3679,
+    "offset": 74080,
+    "lang": "es"
+  },
+  {
+    "text": "y acá Está la salida. A ver, no, este.",
+    "duration": 7600,
+    "offset": 79000,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, sí, sí. Explicación teórica. Bueno,",
+    "duration": 5199,
+    "offset": 83960,
+    "lang": "es"
+  },
+  {
+    "text": "acá no se va a ver el látex.",
+    "duration": 4519,
+    "offset": 86600,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, se va a ver el látex porque no está",
+    "duration": 5162,
+    "offset": 89159,
+    "lang": "es"
+  },
+  {
+    "text": "renderizado como en el frontend.",
+    "duration": 3921,
+    "offset": 91119,
+    "lang": "es"
+  },
+  {
+    "text": "[resoplido]",
+    "duration": 3519,
+    "offset": 94321,
+    "lang": "es"
+  },
+  {
+    "text": "Pero acá se eh",
+    "duration": 4200,
+    "offset": 95040,
+    "lang": "es"
+  },
+  {
+    "text": "tu proceso de pensamiento ha sido",
+    "duration": 4520,
+    "offset": 97840,
+    "lang": "es"
+  },
+  {
+    "text": "excelente. Bien, acá se puede ver",
+    "duration": 5919,
+    "offset": 99240,
+    "lang": "es"
+  },
+  {
+    "text": "la el output de la explicación teórica,",
+    "duration": 6759,
+    "offset": 102360,
+    "lang": "es"
+  },
+  {
+    "text": "o sea, acá eh lo que bueno, el system",
+    "duration": 6960,
+    "offset": 105159,
+    "lang": "es"
+  },
+  {
+    "text": "promptteado",
+    "duration": 3000,
+    "offset": 109119,
+    "lang": "es"
+  },
+  {
+    "text": "para que responda y el output que es la",
+    "duration": 6041,
+    "offset": 112479,
+    "lang": "es"
+  },
+  {
+    "text": "e",
+    "duration": 4201,
+    "offset": 116759,
+    "lang": "es"
+  },
+  {
+    "text": "lo que le respondió el alumno y lo que",
+    "duration": 5320,
+    "offset": 118520,
+    "lang": "es"
+  },
+  {
+    "text": "va a servir al profesor",
+    "duration": 5320,
+    "offset": 120960,
+    "lang": "es"
+  },
+  {
+    "text": "para empezar a modificar usando dispa y",
+    "duration": 5039,
+    "offset": 123840,
+    "lang": "es"
+  },
+  {
+    "text": "jepa. Otra cosa muy importante, acá se",
+    "duration": 5679,
+    "offset": 126280,
+    "lang": "es"
+  },
+  {
+    "text": "ve la cantidad de tokens y el modelo que",
+    "duration": 5161,
+    "offset": 128879,
+    "lang": "es"
+  },
+  {
+    "text": "estamos usando. Esto es muy importante",
+    "duration": 4401,
+    "offset": 131959,
+    "lang": "es"
+  },
+  {
+    "text": "porque esto sirve para calcular el costo",
+    "duration": 5279,
+    "offset": 134040,
+    "lang": "es"
+  },
+  {
+    "text": "y de acá sale donde el costo realmente",
+    "duration": 6440,
+    "offset": 136360,
+    "lang": "es"
+  },
+  {
+    "text": "es muy [carraspeo] bajo. ¿Qué pasa si el",
+    "duration": 5321,
+    "offset": 139319,
+    "lang": "es"
+  },
+  {
+    "text": "docente ve acá? Dice, \"Bueno, a ver, veo",
+    "duration": 5439,
+    "offset": 142800,
+    "lang": "es"
+  },
+  {
+    "text": "el output, veo la explicación teórica y",
+    "duration": 5160,
+    "offset": 144640,
+    "lang": "es"
+  },
+  {
+    "text": "esto, bueno, hay que analizarlo con",
+    "duration": 3000,
+    "offset": 148239,
+    "lang": "es"
+  },
+  {
+    "text": "látex.",
+    "duration": 3480,
+    "offset": 149800,
+    "lang": "es"
+  },
+  {
+    "text": "Las aceleraciones son iguales, qué sé",
+    "duration": 5561,
+    "offset": 151239,
+    "lang": "es"
+  },
+  {
+    "text": "yo. Bueno, esto me gusta, pero",
+    "duration": 6520,
+    "offset": 153280,
+    "lang": "es"
+  },
+  {
+    "text": "e",
+    "duration": 3000,
+    "offset": 156800,
+    "lang": "es"
+  },
+  {
+    "text": "no se conserva la presencia de fuerzas",
+    "duration": 4080,
+    "offset": 159840,
+    "lang": "es"
+  },
+  {
+    "text": "externas, los pesos que realizan trabajo",
+    "duration": 4401,
+    "offset": 161879,
+    "lang": "es"
+  },
+  {
+    "text": "sobre el sistema. Bien, esta explicación",
+    "duration": 5120,
+    "offset": 163920,
+    "lang": "es"
+  },
+  {
+    "text": "no es correcta. Esta explicación no. El",
+    "duration": 4800,
+    "offset": 166280,
+    "lang": "es"
+  },
+  {
+    "text": "docente dice, \"No, esta explicación no",
+    "duration": 4360,
+    "offset": 169040,
+    "lang": "es"
+  },
+  {
+    "text": "me gusta porque acá lo que va a decir es",
+    "duration": 3560,
+    "offset": 171080,
+    "lang": "es"
+  },
+  {
+    "text": "que no se conserva porque se",
+    "duration": 2680,
+    "offset": 173400,
+    "lang": "es"
+  },
+  {
+    "text": "transforma.\" Dice, \"Está bien, la",
+    "duration": 3440,
+    "offset": 174640,
+    "lang": "es"
+  },
+  {
+    "text": "energía cinética no se conserva.\" No le",
+    "duration": 4439,
+    "offset": 176080,
+    "lang": "es"
+  },
+  {
+    "text": "puso energía mecánica, pero tendría que",
+    "duration": 4600,
+    "offset": 178080,
+    "lang": "es"
+  },
+  {
+    "text": "haber dicho la energía mecánica sí se",
+    "duration": 4561,
+    "offset": 180519,
+    "lang": "es"
+  },
+  {
+    "text": "conserva porque toda la energía cinética",
+    "duration": 4000,
+    "offset": 182680,
+    "lang": "es"
+  },
+  {
+    "text": "se transforma en energía potencial",
+    "duration": 3519,
+    "offset": 185080,
+    "lang": "es"
+  },
+  {
+    "text": "gravitatoria. y tendría que haber",
+    "duration": 4559,
+    "offset": 186680,
+    "lang": "es"
+  },
+  {
+    "text": "hablado del trabajo de las tensiones.",
+    "duration": 6241,
+    "offset": 188599,
+    "lang": "es"
+  },
+  {
+    "text": "Acá es a donde el docente dice, \"Bueno,",
+    "duration": 5920,
+    "offset": 191239,
+    "lang": "es"
+  },
+  {
+    "text": "yo lo que voy a armar es un archivo",
+    "duration": 6119,
+    "offset": 194840,
+    "lang": "es"
+  },
+  {
+    "text": "Jason para disp",
+    "duration": 3800,
+    "offset": 197159,
+    "lang": "es"
+  },
+  {
+    "text": "este este",
+    "duration": 6080,
+    "offset": 204680,
+    "lang": "es"
+  },
+  {
+    "text": "voy a a ir a ese archivo que tiene Dispa",
+    "duration": 5959,
+    "offset": 206480,
+    "lang": "es"
+  },
+  {
+    "text": "y Shepa,",
+    "duration": 5399,
+    "offset": 210760,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene esos algoritmos genéticos",
+    "duration": 8080,
+    "offset": 212439,
+    "lang": "es"
+  },
+  {
+    "text": "para este que se optimice. Por un lado",
+    "duration": 9041,
+    "offset": 216159,
+    "lang": "es"
+  },
+  {
+    "text": "voy a tener el e",
+    "duration": 8640,
+    "offset": 220519,
+    "lang": "es"
+  },
+  {
+    "text": "el archivo en formato Jason,",
+    "duration": 6520,
+    "offset": 225200,
+    "lang": "es"
+  },
+  {
+    "text": "que es a donde yo voy a empezar a",
+    "duration": 4961,
+    "offset": 229159,
+    "lang": "es"
+  },
+  {
+    "text": "escribir ese juego de preguntas y",
+    "duration": 4480,
+    "offset": 231720,
+    "lang": "es"
+  },
+  {
+    "text": "respuestas, a donde voy a poner la",
+    "duration": 4880,
+    "offset": 234120,
+    "lang": "es"
+  },
+  {
+    "text": "explicación como yo la daría.",
+    "duration": 5560,
+    "offset": 236200,
+    "lang": "es"
+  },
+  {
+    "text": "Más allá de que tiene todo el material y",
+    "duration": 4720,
+    "offset": 239000,
+    "lang": "es"
+  },
+  {
+    "text": "todo el elemento para responder, voy a",
+    "duration": 5679,
+    "offset": 241760,
+    "lang": "es"
+  },
+  {
+    "text": "dar la explicación como yo e la daría y",
+    "duration": 6920,
+    "offset": 243720,
+    "lang": "es"
+  },
+  {
+    "text": "después hago correr este que es el",
+    "duration": 6761,
+    "offset": 247439,
+    "lang": "es"
+  },
+  {
+    "text": "optimiz de prompt, que es acá el e donde",
+    "duration": 5800,
+    "offset": 250640,
+    "lang": "es"
+  },
+  {
+    "text": "tiene el dispay",
+    "duration": 4680,
+    "offset": 254200,
+    "lang": "es"
+  },
+  {
+    "text": "y el dispay está funcionando con el",
+    "duration": 4479,
+    "offset": 256440,
+    "lang": "es"
+  },
+  {
+    "text": "formato sheep.",
+    "duration": 5960,
+    "offset": 258880,
+    "lang": "es"
+  },
+  {
+    "text": "Y esto de acá es lo que va a generar",
+    "duration": 6201,
+    "offset": 260919,
+    "lang": "es"
+  },
+  {
+    "text": "toda una reescritura",
+    "duration": 6799,
+    "offset": 264840,
+    "lang": "es"
+  },
+  {
+    "text": "de los códigos de prompt para que el",
+    "duration": 7760,
+    "offset": 267120,
+    "lang": "es"
+  },
+  {
+    "text": "sistema empiece a actuar como yo quiero.",
+    "duration": 5481,
+    "offset": 271639,
+    "lang": "es"
+  },
+  {
+    "text": "Y de esa manera lo que logro es que el",
+    "duration": 6280,
+    "offset": 274880,
+    "lang": "es"
+  },
+  {
+    "text": "tutor socrático explique clonando",
+    "duration": 7480,
+    "offset": 277120,
+    "lang": "es"
+  },
+  {
+    "text": "la manera en la que yo explicaría el",
+    "duration": 6240,
+    "offset": 281160,
+    "lang": "es"
+  },
+  {
+    "text": "tema. M.",
+    "duration": 2800,
+    "offset": 284600,
+    "lang": "es"
+  }
+]

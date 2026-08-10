@@ -1,0 +1,764 @@
+[
+  {
+    "text": "bien entonces una vez que yo ejecuto",
+    "duration": 6141,
+    "offset": 1319,
+    "lang": "es"
+  },
+  {
+    "text": "este y que Bob hace un zen Pro pousal",
+    "duration": 7020,
+    "offset": 4020,
+    "lang": "es"
+  },
+  {
+    "text": "Alice va a procesar ese envío de",
+    "duration": 5740,
+    "offset": 7460,
+    "lang": "es"
+  },
+  {
+    "text": "propuesta y yo tengo que usar este",
+    "duration": 6420,
+    "offset": 11040,
+    "lang": "es"
+  },
+  {
+    "text": "método que es illo credencial 2.0",
+    "duration": 7260,
+    "offset": 13200,
+    "lang": "es"
+  },
+  {
+    "text": "Records Y en este método lo que voy a",
+    "duration": 5340,
+    "offset": 17460,
+    "lang": "es"
+  },
+  {
+    "text": "ver son todas las credenciales que le",
+    "duration": 4319,
+    "offset": 20460,
+    "lang": "es"
+  },
+  {
+    "text": "pidieron a Bob",
+    "duration": 4799,
+    "offset": 22800,
+    "lang": "es"
+  },
+  {
+    "text": "y acá en particular las credenciales",
+    "duration": 5221,
+    "offset": 24779,
+    "lang": "es"
+  },
+  {
+    "text": "Perdón que le pidieron a Alice y acá en",
+    "duration": 4881,
+    "offset": 27599,
+    "lang": "es"
+  },
+  {
+    "text": "particular tengo que identificar el",
+    "duration": 5899,
+    "offset": 30000,
+    "lang": "es"
+  },
+  {
+    "text": "Creedence ID",
+    "duration": 3419,
+    "offset": 32480,
+    "lang": "es"
+  },
+  {
+    "text": "este valor de acá credex ID Este es el",
+    "duration": 6180,
+    "offset": 36120,
+    "lang": "es"
+  },
+  {
+    "text": "credex id que tiene que usar Alice para",
+    "duration": 5781,
+    "offset": 39899,
+    "lang": "es"
+  },
+  {
+    "text": "comunicarse con Bob entonces",
+    "duration": 3380,
+    "offset": 42300,
+    "lang": "es"
+  },
+  {
+    "text": "tomo este Creed ex ID y voy a un Send o",
+    "duration": 8280,
+    "offset": 46140,
+    "lang": "es"
+  },
+  {
+    "text": "sea Bob le hace un sem prosal le llega a",
+    "duration": 5999,
+    "offset": 50700,
+    "lang": "es"
+  },
+  {
+    "text": "Alice que se lee que le están pidiendo",
+    "duration": 6000,
+    "offset": 54420,
+    "lang": "es"
+  },
+  {
+    "text": "esas credenciales con este valor de este",
+    "duration": 6961,
+    "offset": 56699,
+    "lang": "es"
+  },
+  {
+    "text": "nombre y edad que son las credenciales",
+    "duration": 6300,
+    "offset": 60420,
+    "lang": "es"
+  },
+  {
+    "text": "que Ali tienen su esquema yo hago un get",
+    "duration": 5700,
+    "offset": 63660,
+    "lang": "es"
+  },
+  {
+    "text": "para fijarme Cuál es el create next ID y",
+    "duration": 5100,
+    "offset": 66720,
+    "lang": "es"
+  },
+  {
+    "text": "ese create next ID lo tengo que pegar",
+    "duration": 6680,
+    "offset": 69360,
+    "lang": "es"
+  },
+  {
+    "text": "acá en este método",
+    "duration": 4220,
+    "offset": 71820,
+    "lang": "es"
+  },
+  {
+    "text": "cuando hago zen acá hizo el Send offer y",
+    "duration": 8639,
+    "offset": 77340,
+    "lang": "es"
+  },
+  {
+    "text": "ese Creedence ID le mandó a Bob un Send",
+    "duration": 6899,
+    "offset": 82680,
+    "lang": "es"
+  },
+  {
+    "text": "over entonces una vez que manda elsfer",
+    "duration": 6061,
+    "offset": 85979,
+    "lang": "es"
+  },
+  {
+    "text": "Bob tiene que hacer un Send request",
+    "duration": 5761,
+    "offset": 89579,
+    "lang": "es"
+  },
+  {
+    "text": "ahora en ese centro tiene que escribir",
+    "duration": 6600,
+    "offset": 92040,
+    "lang": "es"
+  },
+  {
+    "text": "acá el create next ID para comunicarse",
+    "duration": 6840,
+    "offset": 95340,
+    "lang": "es"
+  },
+  {
+    "text": "con Alice cuando",
+    "duration": 3540,
+    "offset": 98640,
+    "lang": "es"
+  },
+  {
+    "text": "Send offer",
+    "duration": 3080,
+    "offset": 107100,
+    "lang": "es"
+  },
+  {
+    "text": "no esquema definición esperen que me",
+    "duration": 5520,
+    "offset": 110360,
+    "lang": "es"
+  },
+  {
+    "text": "corrí",
+    "duration": 2301,
+    "offset": 113579,
+    "lang": "es"
+  },
+  {
+    "text": "Quest Ese es Henry Quest vamos a ver",
+    "duration": 4500,
+    "offset": 116060,
+    "lang": "es"
+  },
+  {
+    "text": "cuando hizo Bob elsen",
+    "duration": 5521,
+    "offset": 121439,
+    "lang": "es"
+  },
+  {
+    "text": "Cuando vos hizo el centro pausal le vino",
+    "duration": 5840,
+    "offset": 132720,
+    "lang": "es"
+  },
+  {
+    "text": "un Creed next next",
+    "duration": 7941,
+    "offset": 135239,
+    "lang": "es"
+  },
+  {
+    "text": "es el que yo tengo que pegar acá",
+    "duration": 4620,
+    "offset": 138560,
+    "lang": "es"
+  },
+  {
+    "text": "en el centro rico es tengo que pegar ese",
+    "duration": 7200,
+    "offset": 144420,
+    "lang": "es"
+  },
+  {
+    "text": "cret next ID",
+    "duration": 6280,
+    "offset": 148520,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí este fíjense que acá estoy en voz",
+    "duration": 6240,
+    "offset": 151620,
+    "lang": "es"
+  },
+  {
+    "text": "Es Secret XD",
+    "duration": 6120,
+    "offset": 154800,
+    "lang": "es"
+  },
+  {
+    "text": "es en la ID que tiene que enviarle voz",
+    "duration": 5760,
+    "offset": 157860,
+    "lang": "es"
+  },
+  {
+    "text": "para hacer el Henry Quest y acá ya",
+    "duration": 5220,
+    "offset": 160920,
+    "lang": "es"
+  },
+  {
+    "text": "intercambiaron le dice bueno primero yo",
+    "duration": 5460,
+    "offset": 163620,
+    "lang": "es"
+  },
+  {
+    "text": "te propuse Dame estas credenciales Ali",
+    "duration": 4560,
+    "offset": 166140,
+    "lang": "es"
+  },
+  {
+    "text": "te las ofrece te ofrezco esta",
+    "duration": 4680,
+    "offset": 169080,
+    "lang": "es"
+  },
+  {
+    "text": "credenciales él le dice Bueno Dame las",
+    "duration": 5220,
+    "offset": 170700,
+    "lang": "es"
+  },
+  {
+    "text": "esas credenciales las quiero con un sen",
+    "duration": 3540,
+    "offset": 173760,
+    "lang": "es"
+  },
+  {
+    "text": "request",
+    "duration": 4020,
+    "offset": 175920,
+    "lang": "es"
+  },
+  {
+    "text": "ahora que hace el senricost con ese",
+    "duration": 5340,
+    "offset": 177300,
+    "lang": "es"
+  },
+  {
+    "text": "mismo Creed next ID",
+    "duration": 5340,
+    "offset": 179940,
+    "lang": "es"
+  },
+  {
+    "text": "con el mismo Creed next ID que Alice",
+    "duration": 7200,
+    "offset": 182640,
+    "lang": "es"
+  },
+  {
+    "text": "utilizó acá para hacer el Cent offer",
+    "duration": 8220,
+    "offset": 185280,
+    "lang": "es"
+  },
+  {
+    "text": "tengo que pegarlo",
+    "duration": 3660,
+    "offset": 189840,
+    "lang": "es"
+  },
+  {
+    "text": "y hacer el",
+    "duration": 3021,
+    "offset": 193739,
+    "lang": "es"
+  },
+  {
+    "text": "este ID lo tengo que",
+    "duration": 8220,
+    "offset": 196860,
+    "lang": "es"
+  },
+  {
+    "text": "pegar acá y hacer el ISO",
+    "duration": 7540,
+    "offset": 200900,
+    "lang": "es"
+  },
+  {
+    "text": "acá lo que hice fue isyu o sea acá",
+    "duration": 7620,
+    "offset": 205080,
+    "lang": "es"
+  },
+  {
+    "text": "realmente cree las credenciales para vos",
+    "duration": 8159,
+    "offset": 208440,
+    "lang": "es"
+  },
+  {
+    "text": "ahora vos lo que tiene que hacer es usar",
+    "duration": 7459,
+    "offset": 212700,
+    "lang": "es"
+  },
+  {
+    "text": "este Creed next ID",
+    "duration": 3560,
+    "offset": 216599,
+    "lang": "es"
+  },
+  {
+    "text": "acá dice lillo acá Bob hace usa este",
+    "duration": 7141,
+    "offset": 222299,
+    "lang": "es"
+  },
+  {
+    "text": "Creed next ID para comunicarse con Alice",
+    "duration": 5100,
+    "offset": 226680,
+    "lang": "es"
+  },
+  {
+    "text": "y decirle que va a ser el Store O sea",
+    "duration": 4200,
+    "offset": 229440,
+    "lang": "es"
+  },
+  {
+    "text": "que ya esas credenciales las acepta y",
+    "duration": 4860,
+    "offset": 231780,
+    "lang": "es"
+  },
+  {
+    "text": "las va a guardar acá aceptó esas",
+    "duration": 4739,
+    "offset": 233640,
+    "lang": "es"
+  },
+  {
+    "text": "credenciales y la va a guardar Y si",
+    "duration": 5760,
+    "offset": 236640,
+    "lang": "es"
+  },
+  {
+    "text": "vamos acá a Bob y hacemos un localhost",
+    "duration": 6661,
+    "offset": 238379,
+    "lang": "es"
+  },
+  {
+    "text": "credencial en 11.001 que es Box fíjense",
+    "duration": 6180,
+    "offset": 242400,
+    "lang": "es"
+  },
+  {
+    "text": "que acá ya me dice que tengo creadas las",
+    "duration": 6800,
+    "offset": 245040,
+    "lang": "es"
+  },
+  {
+    "text": "credenciales con mi edad y mi nombre",
+    "duration": 6180,
+    "offset": 248580,
+    "lang": "es"
+  },
+  {
+    "text": "Todas de estas transacciones quedan",
+    "duration": 5859,
+    "offset": 251840,
+    "lang": "es"
+  },
+  {
+    "text": "grabadas en el licher todas estas",
+    "duration": 4740,
+    "offset": 254760,
+    "lang": "es"
+  },
+  {
+    "text": "transacciones todo lo que yo hago queda",
+    "duration": 6261,
+    "offset": 257699,
+    "lang": "es"
+  },
+  {
+    "text": "grabado en el leager que es secuencial",
+    "duration": 9380,
+    "offset": 259500,
+    "lang": "es"
+  },
+  {
+    "text": "encriptado y es",
+    "duration": 4920,
+    "offset": 263960,
+    "lang": "es"
+  },
+  {
+    "text": "y tiene también las marcas de tiempo",
+    "duration": 5280,
+    "offset": 269160,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver entonces el leager que está",
+    "duration": 5700,
+    "offset": 271080,
+    "lang": "es"
+  },
+  {
+    "text": "en la font Network",
+    "duration": 6360,
+    "offset": 274440,
+    "lang": "es"
+  },
+  {
+    "text": "do Main acá tenemos el licher y acá",
+    "duration": 6780,
+    "offset": 276780,
+    "lang": "es"
+  },
+  {
+    "text": "último de todo vamos a tener Esta última",
+    "duration": 5459,
+    "offset": 280800,
+    "lang": "es"
+  },
+  {
+    "text": "transacción que es la definición de",
+    "duration": 5699,
+    "offset": 283560,
+    "lang": "es"
+  },
+  {
+    "text": "credenciales y toda la encriptación que",
+    "duration": 5341,
+    "offset": 286259,
+    "lang": "es"
+  },
+  {
+    "text": "se realizó para poder darle a Bob sus",
+    "duration": 4921,
+    "offset": 289259,
+    "lang": "es"
+  },
+  {
+    "text": "credenciales bien Entonces qué es lo que",
+    "duration": 3440,
+    "offset": 291600,
+    "lang": "es"
+  },
+  {
+    "text": "pasa",
+    "duration": 3600,
+    "offset": 294180,
+    "lang": "es"
+  },
+  {
+    "text": "como todo en el protocolo blockchain",
+    "duration": 6900,
+    "offset": 295040,
+    "lang": "es"
+  },
+  {
+    "text": "esto se escribió en el leager cualquier",
+    "duration": 7500,
+    "offset": 297780,
+    "lang": "es"
+  },
+  {
+    "text": "nodo que se conecte a esta red",
+    "duration": 5259,
+    "offset": 301940,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando el archivo Genesis va a tomar",
+    "duration": 4979,
+    "offset": 305280,
+    "lang": "es"
+  },
+  {
+    "text": "ese elisher y",
+    "duration": 5521,
+    "offset": 307199,
+    "lang": "es"
+  },
+  {
+    "text": "cualquier persona que esté portando",
+    "duration": 4681,
+    "offset": 310259,
+    "lang": "es"
+  },
+  {
+    "text": "ahora las identidades va a poder",
+    "duration": 3960,
+    "offset": 312720,
+    "lang": "es"
+  },
+  {
+    "text": "acreditar sin ningún problema su",
+    "duration": 3539,
+    "offset": 314940,
+    "lang": "es"
+  },
+  {
+    "text": "identidad sin tener que usar papeles sin",
+    "duration": 4859,
+    "offset": 316680,
+    "lang": "es"
+  },
+  {
+    "text": "tener que usar nada porque está validado",
+    "duration": 5401,
+    "offset": 318479,
+    "lang": "es"
+  },
+  {
+    "text": "a través de los algoritmos de consenso",
+    "duration": 5281,
+    "offset": 321539,
+    "lang": "es"
+  },
+  {
+    "text": "del protocolo blockchain Qué es lo bueno",
+    "duration": 5539,
+    "offset": 323880,
+    "lang": "es"
+  },
+  {
+    "text": "de cómo hicimos todo esto",
+    "duration": 6960,
+    "offset": 326820,
+    "lang": "es"
+  },
+  {
+    "text": "habrán visto que todo lo hicimos con el",
+    "duration": 6521,
+    "offset": 329419,
+    "lang": "es"
+  },
+  {
+    "text": "postman que es lo bueno que tiene el",
+    "duration": 5280,
+    "offset": 333780,
+    "lang": "es"
+  },
+  {
+    "text": "postman todos los pasos que hicimos todo",
+    "duration": 4440,
+    "offset": 335940,
+    "lang": "es"
+  },
+  {
+    "text": "lo que hicimos fue registrado con",
+    "duration": 3660,
+    "offset": 339060,
+    "lang": "es"
+  },
+  {
+    "text": "postman Y si ustedes se fijan el postman",
+    "duration": 4580,
+    "offset": 340380,
+    "lang": "es"
+  },
+  {
+    "text": "automáticamente me genera el código",
+    "duration": 6060,
+    "offset": 342720,
+    "lang": "es"
+  },
+  {
+    "text": "notegias para si yo quiero poder hacer",
+    "duration": 5920,
+    "offset": 344960,
+    "lang": "es"
+  },
+  {
+    "text": "un backen y un frontend es decir un",
+    "duration": 4680,
+    "offset": 348780,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollo fullstack y tener una",
+    "duration": 4560,
+    "offset": 350880,
+    "lang": "es"
+  },
+  {
+    "text": "interfaz web que me permita hacer todo",
+    "duration": 3660,
+    "offset": 353460,
+    "lang": "es"
+  },
+  {
+    "text": "esto todos los pasos que hice",
+    "duration": 4580,
+    "offset": 355440,
+    "lang": "es"
+  },
+  {
+    "text": "absolutamente todos los pasos que hice",
+    "duration": 8579,
+    "offset": 357120,
+    "lang": "es"
+  },
+  {
+    "text": "tienen ya desarrollado su código en el",
+    "duration": 9640,
+    "offset": 360020,
+    "lang": "es"
+  },
+  {
+    "text": "nougies para que yo pueda ponerlo en un",
+    "duration": 6840,
+    "offset": 365699,
+    "lang": "es"
+  },
+  {
+    "text": "backen hacerle un esto en cambio de",
+    "duration": 4740,
+    "offset": 369660,
+    "lang": "es"
+  },
+  {
+    "text": "tener que escribir a mano todo es",
+    "duration": 3421,
+    "offset": 372539,
+    "lang": "es"
+  },
+  {
+    "text": "transparente al usuario y el usuario se",
+    "duration": 5220,
+    "offset": 374400,
+    "lang": "es"
+  },
+  {
+    "text": "limita simplemente a pedir que le den su",
+    "duration": 5280,
+    "offset": 375960,
+    "lang": "es"
+  },
+  {
+    "text": "credencial o sea Podría tener por",
+    "duration": 4260,
+    "offset": 379620,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo un registro civil metido dentro",
+    "duration": 4799,
+    "offset": 381240,
+    "lang": "es"
+  },
+  {
+    "text": "de un protocolo blockchain o una emisión",
+    "duration": 3960,
+    "offset": 383880,
+    "lang": "es"
+  },
+  {
+    "text": "de títulos todo metido dentro del",
+    "duration": 4380,
+    "offset": 386039,
+    "lang": "es"
+  },
+  {
+    "text": "protocolo blockchain con la validación",
+    "duration": 4260,
+    "offset": 387840,
+    "lang": "es"
+  },
+  {
+    "text": "de identidad con sus algoritmos de",
+    "duration": 3961,
+    "offset": 390419,
+    "lang": "es"
+  },
+  {
+    "text": "consenso y con todo este código generado",
+    "duration": 6680,
+    "offset": 392100,
+    "lang": "es"
+  },
+  {
+    "text": "para poder ya implementarlo directamente",
+    "duration": 4400,
+    "offset": 394380,
+    "lang": "es"
+  }
+]

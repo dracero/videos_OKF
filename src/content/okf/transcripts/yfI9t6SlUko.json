@@ -1,0 +1,332 @@
+[
+  {
+    "text": "bueno y ahora llevamos finalmente a la",
+    "duration": 6510,
+    "offset": 1870,
+    "lang": "es"
+  },
+  {
+    "text": "parte del chat bot este es la inglés",
+    "duration": 5100,
+    "offset": 5380,
+    "lang": "es"
+  },
+  {
+    "text": "está en la interfaz que va a interactuar",
+    "duration": 4620,
+    "offset": 8380,
+    "lang": "es"
+  },
+  {
+    "text": "con los salud cómo va a funcionar cuando",
+    "duration": 4500,
+    "offset": 10480,
+    "lang": "es"
+  },
+  {
+    "text": "el alumno escribe algo en el chat bot el",
+    "duration": 5040,
+    "offset": 13000,
+    "lang": "es"
+  },
+  {
+    "text": "mensaje va a ir a conectarse al servidor",
+    "duration": 4920,
+    "offset": 14980,
+    "lang": "es"
+  },
+  {
+    "text": "al servidor de huité y hay al servidor",
+    "duration": 6080,
+    "offset": 18040,
+    "lang": "es"
+  },
+  {
+    "text": "de nl el servidor de nlv va a",
+    "duration": 7160,
+    "offset": 19900,
+    "lang": "es"
+  },
+  {
+    "text": "transformarlo en las cuatro estructuras",
+    "duration": 6910,
+    "offset": 24120,
+    "lang": "es"
+  },
+  {
+    "text": "esas cuatro estructuras van a volver al",
+    "duration": 7089,
+    "offset": 27060,
+    "lang": "es"
+  },
+  {
+    "text": "chat bot y de ahí van a ser enviadas a",
+    "duration": 4919,
+    "offset": 31030,
+    "lang": "es"
+  },
+  {
+    "text": "la base de datos que fueron creando",
+    "duration": 4861,
+    "offset": 34149,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes con las estructuras y los textos",
+    "duration": 6331,
+    "offset": 35949,
+    "lang": "es"
+  },
+  {
+    "text": "de ahí van a volver nuevamente al chat",
+    "duration": 7919,
+    "offset": 39010,
+    "lang": "es"
+  },
+  {
+    "text": "voz y lo que se va a hacer con eso es",
+    "duration": 7230,
+    "offset": 42280,
+    "lang": "es"
+  },
+  {
+    "text": "crear el mensaje para que lo vea el",
+    "duration": 5011,
+    "offset": 46929,
+    "lang": "es"
+  },
+  {
+    "text": "alumno fíjense cuando el alumno hace una",
+    "duration": 4330,
+    "offset": 49510,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta",
+    "duration": 4470,
+    "offset": 51940,
+    "lang": "es"
+  },
+  {
+    "text": "m",
+    "duration": 2570,
+    "offset": 53840,
+    "lang": "es"
+  },
+  {
+    "text": "a ver",
+    "duration": 3190,
+    "offset": 56540,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 5160,
+    "offset": 57570,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración",
+    "duration": 3000,
+    "offset": 59730,
+    "lang": "es"
+  },
+  {
+    "text": "un tiro",
+    "duration": 3170,
+    "offset": 66600,
+    "lang": "es"
+  },
+  {
+    "text": "público",
+    "duration": 6650,
+    "offset": 70210,
+    "lang": "es"
+  },
+  {
+    "text": "lic o en coordenadas",
+    "duration": 4850,
+    "offset": 72010,
+    "lang": "es"
+  },
+  {
+    "text": "green secas ahí manda el mensaje",
+    "duration": 4820,
+    "offset": 81659,
+    "lang": "es"
+  },
+  {
+    "text": "ahí está la de la aceleración todavía no",
+    "duration": 4320,
+    "offset": 122140,
+    "lang": "es"
+  },
+  {
+    "text": "se lo había programado pero acá que le",
+    "duration": 3540,
+    "offset": 124510,
+    "lang": "es"
+  },
+  {
+    "text": "puse es cambiar la aceleración la",
+    "duration": 3019,
+    "offset": 126460,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad",
+    "duration": 4110,
+    "offset": 128050,
+    "lang": "es"
+  },
+  {
+    "text": "recuerden que yo había programado la",
+    "duration": 4541,
+    "offset": 129479,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración para que respondiera con",
+    "duration": 4470,
+    "offset": 132160,
+    "lang": "es"
+  },
+  {
+    "text": "otro rol entonces tengo que ir y",
+    "duration": 5040,
+    "offset": 134020,
+    "lang": "es"
+  },
+  {
+    "text": "configurarlo eso en el chapo pero eso lo",
+    "duration": 5460,
+    "offset": 136630,
+    "lang": "es"
+  },
+  {
+    "text": "puedo ver en el sistema pero bien ven",
+    "duration": 6060,
+    "offset": 139060,
+    "lang": "es"
+  },
+  {
+    "text": "este sería el resultado final acá lo que",
+    "duration": 5100,
+    "offset": 142090,
+    "lang": "es"
+  },
+  {
+    "text": "se pueden poner son links a otras",
+    "duration": 4290,
+    "offset": 145120,
+    "lang": "es"
+  },
+  {
+    "text": "páginas se pueden borrar recomendaciones",
+    "duration": 4799,
+    "offset": 147190,
+    "lang": "es"
+  },
+  {
+    "text": "pero es todo a través de la palabra no",
+    "duration": 4640,
+    "offset": 149410,
+    "lang": "es"
+  },
+  {
+    "text": "puede haber ningún tipo de gráficos",
+    "duration": 4381,
+    "offset": 151989,
+    "lang": "es"
+  },
+  {
+    "text": "hagan de cuenta que es alguien que le",
+    "duration": 3970,
+    "offset": 154050,
+    "lang": "es"
+  },
+  {
+    "text": "está haciendo una pregunta y ustedes le",
+    "duration": 3690,
+    "offset": 156370,
+    "lang": "es"
+  },
+  {
+    "text": "tienen que dar indicaciones",
+    "duration": 3810,
+    "offset": 158020,
+    "lang": "es"
+  },
+  {
+    "text": "solamente usando la palabra sin hacer",
+    "duration": 4080,
+    "offset": 160060,
+    "lang": "es"
+  },
+  {
+    "text": "ningún tipo de gráfico lo que sí se",
+    "duration": 5120,
+    "offset": 161830,
+    "lang": "es"
+  },
+  {
+    "text": "puede hacer es",
+    "duration": 2810,
+    "offset": 164140,
+    "lang": "es"
+  },
+  {
+    "text": "y costear gráficos en",
+    "duration": 4150,
+    "offset": 167010,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 4800,
+    "offset": 169630,
+    "lang": "es"
+  },
+  {
+    "text": "una página o utilizar páginas en",
+    "duration": 6180,
+    "offset": 171160,
+    "lang": "es"
+  },
+  {
+    "text": "gráficos aplicaciones páginas pueden ser",
+    "duration": 6150,
+    "offset": 174430,
+    "lang": "es"
+  },
+  {
+    "text": "del campus y nosotros introducimos links",
+    "duration": 6180,
+    "offset": 177340,
+    "lang": "es"
+  },
+  {
+    "text": "a esas páginas para que los alumnos vean",
+    "duration": 5430,
+    "offset": 180580,
+    "lang": "es"
+  },
+  {
+    "text": "los gráficos o las explicaciones",
+    "duration": 6710,
+    "offset": 183520,
+    "lang": "es"
+  },
+  {
+    "text": "pero el tema solo acepta",
+    "duration": 8860,
+    "offset": 186010,
+    "lang": "es"
+  },
+  {
+    "text": "y escribamos cosas o pongamos links",
+    "duration": 4640,
+    "offset": 190230,
+    "lang": "es"
+  }
+]

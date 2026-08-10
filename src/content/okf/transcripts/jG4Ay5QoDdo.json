@@ -1,0 +1,476 @@
+[
+  {
+    "text": "Bueno, ahí en principio hay un agente",
+    "duration": 5200,
+    "offset": 1360,
+    "lang": "es"
+  },
+  {
+    "text": "saludador que es el que me dijo hola.",
+    "duration": 8159,
+    "offset": 3600,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora si yo le pongo quiero generar una",
+    "duration": 7480,
+    "offset": 6560,
+    "lang": "es"
+  },
+  {
+    "text": "rúbrica,",
+    "duration": 4040,
+    "offset": 11759,
+    "lang": "es"
+  },
+  {
+    "text": "ahí me da para que suba el documento",
+    "duration": 4399,
+    "offset": 14040,
+    "lang": "es"
+  },
+  {
+    "text": "normativo.",
+    "duration": 7681,
+    "offset": 15799,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces yo voy a buscar acá",
+    "duration": 6561,
+    "offset": 18439,
+    "lang": "es"
+  },
+  {
+    "text": "el documento normativo, que es un",
+    "duration": 4080,
+    "offset": 23480,
+    "lang": "es"
+  },
+  {
+    "text": "documento que inventé yo. Y digo que es",
+    "duration": 3920,
+    "offset": 25000,
+    "lang": "es"
+  },
+  {
+    "text": "acá tengo, profesor alumno grado,",
+    "duration": 3639,
+    "offset": 27560,
+    "lang": "es"
+  },
+  {
+    "text": "posgrado, personal de gestión. digo que",
+    "duration": 4680,
+    "offset": 28920,
+    "lang": "es"
+  },
+  {
+    "text": "es para un alumno de posgrado y le pongo",
+    "duration": 4360,
+    "offset": 31199,
+    "lang": "es"
+  },
+  {
+    "text": "generar rúbrica",
+    "duration": 4760,
+    "offset": 33600,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí empieza a trabajar a generar la",
+    "duration": 4480,
+    "offset": 35559,
+    "lang": "es"
+  },
+  {
+    "text": "rúbrica.",
+    "duration": 2840,
+    "offset": 38360,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué es lo que hace? Tiene un",
+    "duration": 5481,
+    "offset": 40039,
+    "lang": "es"
+  },
+  {
+    "text": "orquestador. El orquestador está este",
+    "duration": 8160,
+    "offset": 41200,
+    "lang": "es"
+  },
+  {
+    "text": "es la herramienta VI y ese orquestador",
+    "duration": 8800,
+    "offset": 45520,
+    "lang": "es"
+  },
+  {
+    "text": "lo que hace es eh decide cuál de estos",
+    "duration": 7519,
+    "offset": 49360,
+    "lang": "es"
+  },
+  {
+    "text": "agentes es el que tiene que hacer la",
+    "duration": 4640,
+    "offset": 54320,
+    "lang": "es"
+  },
+  {
+    "text": "rúbrica. Acá sería el agente generador.",
+    "duration": 3480,
+    "offset": 56879,
+    "lang": "es"
+  },
+  {
+    "text": "Si lo saludo va a ser el agente",
+    "duration": 3040,
+    "offset": 58960,
+    "lang": "es"
+  },
+  {
+    "text": "saludador.",
+    "duration": 4480,
+    "offset": 60359,
+    "lang": "es"
+  },
+  {
+    "text": "Está usando el protocolo Agen to Agen y",
+    "duration": 7000,
+    "offset": 62000,
+    "lang": "es"
+  },
+  {
+    "text": "el orquestador orquesta a eh todos los",
+    "duration": 6721,
+    "offset": 64839,
+    "lang": "es"
+  },
+  {
+    "text": "agentes y esto cada agente levanta como",
+    "duration": 4080,
+    "offset": 69000,
+    "lang": "es"
+  },
+  {
+    "text": "un microservicio, o sea, que podría",
+    "duration": 3879,
+    "offset": 71560,
+    "lang": "es"
+  },
+  {
+    "text": "escalar y tener más generadores, más",
+    "duration": 4880,
+    "offset": 73080,
+    "lang": "es"
+  },
+  {
+    "text": "orquestadores.",
+    "duration": 6801,
+    "offset": 75439,
+    "lang": "es"
+  },
+  {
+    "text": "Acá ya generó la rúbrica,",
+    "duration": 7720,
+    "offset": 77960,
+    "lang": "es"
+  },
+  {
+    "text": "entonces la descargo.",
+    "duration": 4919,
+    "offset": 82240,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora le pongo, \"Quiero evaluar un",
+    "duration": 4479,
+    "offset": 85680,
+    "lang": "es"
+  },
+  {
+    "text": "documento",
+    "duration": 3000,
+    "offset": 87159,
+    "lang": "es"
+  },
+  {
+    "text": "eh por ahora tiene un solo evaluador. Si",
+    "duration": 3840,
+    "offset": 94360,
+    "lang": "es"
+  },
+  {
+    "text": "hay que son distintos tipos de",
+    "duration": 4680,
+    "offset": 96560,
+    "lang": "es"
+  },
+  {
+    "text": "documentos, podríamos poner o lo ideal",
+    "duration": 4599,
+    "offset": 98200,
+    "lang": "es"
+  },
+  {
+    "text": "sería tener distintos tipos de",
+    "duration": 3600,
+    "offset": 101240,
+    "lang": "es"
+  },
+  {
+    "text": "evaluadores según el tipo de documento.",
+    "duration": 5280,
+    "offset": 102799,
+    "lang": "es"
+  },
+  {
+    "text": "Por ahora, bueno, es el trial. Dice,",
+    "duration": 4639,
+    "offset": 104840,
+    "lang": "es"
+  },
+  {
+    "text": "\"¿Tienes listos los documentos para",
+    "duration": 3601,
+    "offset": 108079,
+    "lang": "es"
+  },
+  {
+    "text": "proceder?\" Sí.",
+    "duration": 4441,
+    "offset": 109479,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, acá me dice, para subir el",
+    "duration": 4320,
+    "offset": 111680,
+    "lang": "es"
+  },
+  {
+    "text": "archivo, lo primero que tengo que hacer",
+    "duration": 5400,
+    "offset": 113920,
+    "lang": "es"
+  },
+  {
+    "text": "es ir a descargas,",
+    "duration": 5640,
+    "offset": 116000,
+    "lang": "es"
+  },
+  {
+    "text": "buscar la rúbrica, que es la que se",
+    "duration": 4880,
+    "offset": 119320,
+    "lang": "es"
+  },
+  {
+    "text": "generó recién. Después",
+    "duration": 6600,
+    "offset": 121640,
+    "lang": "es"
+  },
+  {
+    "text": "selecciono un archivo.",
+    "duration": 4040,
+    "offset": 124200,
+    "lang": "es"
+  },
+  {
+    "text": "Eh,",
+    "duration": 3000,
+    "offset": 128280,
+    "lang": "es"
+  },
+  {
+    "text": "a dónde hay acá los de física. Estos son",
+    "duration": 5200,
+    "offset": 131360,
+    "lang": "es"
+  },
+  {
+    "text": "de grado, con lo cual debería decir",
+    "duration": 5199,
+    "offset": 133760,
+    "lang": "es"
+  },
+  {
+    "text": "algo. Y acá inicio la evaluación. Y acá",
+    "duration": 5280,
+    "offset": 136560,
+    "lang": "es"
+  },
+  {
+    "text": "está empezando a evaluar eso. Ahora",
+    "duration": 5560,
+    "offset": 138959,
+    "lang": "es"
+  },
+  {
+    "text": "después les muestro que son esos errores",
+    "duration": 4119,
+    "offset": 141840,
+    "lang": "es"
+  },
+  {
+    "text": "porque tiene también un sistema de",
+    "duration": 4201,
+    "offset": 144519,
+    "lang": "es"
+  },
+  {
+    "text": "evaluación de agentes",
+    "duration": 7041,
+    "offset": 145959,
+    "lang": "es"
+  },
+  {
+    "text": "que este que se llama Langsmith.",
+    "duration": 6400,
+    "offset": 148720,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí está usando. Bueno, usa embeddings,",
+    "duration": 4360,
+    "offset": 153000,
+    "lang": "es"
+  },
+  {
+    "text": "busca tiene un Asian skill que genera la",
+    "duration": 4240,
+    "offset": 155120,
+    "lang": "es"
+  },
+  {
+    "text": "ontología normalizada, entonces busca en",
+    "duration": 4360,
+    "offset": 157360,
+    "lang": "es"
+  },
+  {
+    "text": "un vector store",
+    "duration": 4680,
+    "offset": 159360,
+    "lang": "es"
+  },
+  {
+    "text": "y acá está la evaluación completada y",
+    "duration": 4760,
+    "offset": 161720,
+    "lang": "es"
+  },
+  {
+    "text": "acá me da para que descargue el informe",
+    "duration": 4960,
+    "offset": 164040,
+    "lang": "es"
+  },
+  {
+    "text": "de evaluación. Acá está el informe de",
+    "duration": 5440,
+    "offset": 166480,
+    "lang": "es"
+  },
+  {
+    "text": "evaluación.",
+    "duration": 5720,
+    "offset": 169000,
+    "lang": "es"
+  },
+  {
+    "text": "Eh,",
+    "duration": 6080,
+    "offset": 171920,
+    "lang": "es"
+  },
+  {
+    "text": "no le pegué otra cosa. Ah, acá está el",
+    "duration": 5400,
+    "offset": 174720,
+    "lang": "es"
+  },
+  {
+    "text": "informe de evaluación. Dice, \"El",
+    "duration": 3599,
+    "offset": 178000,
+    "lang": "es"
+  },
+  {
+    "text": "documento física una seminári cuerpo",
+    "duration": 3399,
+    "offset": 180120,
+    "lang": "es"
+  },
+  {
+    "text": "rígido cumple parcialmente con los",
+    "duration": 4081,
+    "offset": 181599,
+    "lang": "es"
+  },
+  {
+    "text": "requisitos normativos establecidos en la",
+    "duration": 4000,
+    "offset": 183519,
+    "lang": "es"
+  },
+  {
+    "text": "rúbrica. Punto que cumple, formato,",
+    "duration": 3360,
+    "offset": 185680,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollo y estructura visible",
+    "duration": 3761,
+    "offset": 187519,
+    "lang": "es"
+  },
+  {
+    "text": "completa. Puntos que no cumplen, no hay",
+    "duration": 4080,
+    "offset": 189040,
+    "lang": "es"
+  },
+  {
+    "text": "referencias bibliobográficas y no se",
+    "duration": 3560,
+    "offset": 191280,
+    "lang": "es"
+  },
+  {
+    "text": "profundizan los conceptos. Acuérdense",
+    "duration": 3119,
+    "offset": 193120,
+    "lang": "es"
+  },
+  {
+    "text": "que yo le dije que era de posgrado.\"",
+    "duration": 5959,
+    "offset": 194840,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. Y acá me da algunos eh",
+    "duration": 6360,
+    "offset": 196239,
+    "lang": "es"
+  },
+  {
+    "text": "algunas recomendaciones. Bueno, todo",
+    "duration": 5720,
+    "offset": 200799,
+    "lang": "es"
+  },
+  {
+    "text": "esto es lo que se puede mejorar.",
+    "duration": 3920,
+    "offset": 202599,
+    "lang": "es"
+  }
+]

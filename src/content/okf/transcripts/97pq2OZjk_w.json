@@ -1,0 +1,374 @@
+[
+  {
+    "text": "vamos a utilizar Microsoft ain para",
+    "duration": 6281,
+    "offset": 399,
+    "lang": "es"
+  },
+  {
+    "text": "generar código python lo primero que",
+    "duration": 5320,
+    "offset": 3399,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos Es definir un config list a",
+    "duration": 5959,
+    "offset": 6680,
+    "lang": "es"
+  },
+  {
+    "text": "donde reemplazamos la apik de Open Ai",
+    "duration": 6601,
+    "offset": 8719,
+    "lang": "es"
+  },
+  {
+    "text": "por un modelo grock que podemos utilizar",
+    "duration": 4041,
+    "offset": 12639,
+    "lang": "es"
+  },
+  {
+    "text": "en forma",
+    "duration": 4240,
+    "offset": 15320,
+    "lang": "es"
+  },
+  {
+    "text": "gratuita después lo que vamos a hacer es",
+    "duration": 6919,
+    "offset": 16680,
+    "lang": "es"
+  },
+  {
+    "text": "definir un asistente ese asistente va a",
+    "duration": 6879,
+    "offset": 19560,
+    "lang": "es"
+  },
+  {
+    "text": "comunicarse con un agente Proxy y ese",
+    "duration": 5080,
+    "offset": 23599,
+    "lang": "es"
+  },
+  {
+    "text": "agente Proxy va a tener el executor que",
+    "duration": 5841,
+    "offset": 26439,
+    "lang": "es"
+  },
+  {
+    "text": "por default es un generador de código",
+    "duration": 7161,
+    "offset": 28679,
+    "lang": "es"
+  },
+  {
+    "text": "python acá le pedimos que nos diga Cuál",
+    "duration": 6360,
+    "offset": 32280,
+    "lang": "es"
+  },
+  {
+    "text": "es la que nos compare la ganancia de las",
+    "duration": 5480,
+    "offset": 35840,
+    "lang": "es"
+  },
+  {
+    "text": "acciones entre tesla y",
+    "duration": 6040,
+    "offset": 38640,
+    "lang": "es"
+  },
+  {
+    "text": "meta lo hace y genera este código python",
+    "duration": 6919,
+    "offset": 41320,
+    "lang": "es"
+  },
+  {
+    "text": "y acá le decimos que nos haga un e",
+    "duration": 7359,
+    "offset": 44680,
+    "lang": "es"
+  },
+  {
+    "text": "gráfico que muestre Esa diferencia que",
+    "duration": 5401,
+    "offset": 48239,
+    "lang": "es"
+  },
+  {
+    "text": "hay entre las",
+    "duration": 4281,
+    "offset": 52039,
+    "lang": "es"
+  },
+  {
+    "text": "acciones esta parte de acá es el código",
+    "duration": 5200,
+    "offset": 53640,
+    "lang": "es"
+  },
+  {
+    "text": "que genera Este es el código que generó",
+    "duration": 5039,
+    "offset": 56320,
+    "lang": "es"
+  },
+  {
+    "text": "a través del prom",
+    "duration": 5760,
+    "offset": 58840,
+    "lang": "es"
+  },
+  {
+    "text": "el agente se comunica con el Proxy",
+    "duration": 6760,
+    "offset": 61359,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense acá Proxy to asistan o sea el",
+    "duration": 6559,
+    "offset": 64600,
+    "lang": "es"
+  },
+  {
+    "text": "Proxy es el que habla con el asistente y",
+    "duration": 7081,
+    "offset": 68119,
+    "lang": "es"
+  },
+  {
+    "text": "el asistente es el que maneja el llm y a",
+    "duration": 6640,
+    "offset": 71159,
+    "lang": "es"
+  },
+  {
+    "text": "su vez el Proxy es el que tiene el",
+    "duration": 6239,
+    "offset": 75200,
+    "lang": "es"
+  },
+  {
+    "text": "executor entonces entre es llm y el",
+    "duration": 6960,
+    "offset": 77799,
+    "lang": "es"
+  },
+  {
+    "text": "executor generan el código vamos a ver",
+    "duration": 4881,
+    "offset": 81439,
+    "lang": "es"
+  },
+  {
+    "text": "si esto salió",
+    "duration": 6601,
+    "offset": 84759,
+    "lang": "es"
+  },
+  {
+    "text": "bien Vamos a pegar acá y lo",
+    "duration": 9600,
+    "offset": 86320,
+    "lang": "es"
+  },
+  {
+    "text": "ejecutamos y fíjense que acá está la las",
+    "duration": 8079,
+    "offset": 91360,
+    "lang": "es"
+  },
+  {
+    "text": "acciones de meta y las acciones de tesla",
+    "duration": 5040,
+    "offset": 95920,
+    "lang": "es"
+  },
+  {
+    "text": "desde enero del",
+    "duration": 5481,
+    "offset": 99439,
+    "lang": "es"
+  },
+  {
+    "text": "2024 hasta finales de diciembre del 2024",
+    "duration": 5479,
+    "offset": 100960,
+    "lang": "es"
+  },
+  {
+    "text": "que es como estamos ahora sea esto se",
+    "duration": 4440,
+    "offset": 104920,
+    "lang": "es"
+  },
+  {
+    "text": "conectó a internet Lo buscó generó el",
+    "duration": 6241,
+    "offset": 106439,
+    "lang": "es"
+  },
+  {
+    "text": "código y nos está mostrando esto ahora",
+    "duration": 5399,
+    "offset": 109360,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que pasa Nosotros Si queremos",
+    "duration": 3320,
+    "offset": 112680,
+    "lang": "es"
+  },
+  {
+    "text": "podemos",
+    "duration": 6761,
+    "offset": 114759,
+    "lang": "es"
+  },
+  {
+    "text": "redefinir el asistente para que enio",
+    "duration": 7880,
+    "offset": 116000,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 5360,
+    "offset": 121520,
+    "lang": "es"
+  },
+  {
+    "text": "manejar python lo haga en",
+    "duration": 5680,
+    "offset": 123880,
+    "lang": "es"
+  },
+  {
+    "text": "next entonces acá le hacemos asumir el",
+    "duration": 4760,
+    "offset": 126880,
+    "lang": "es"
+  },
+  {
+    "text": "rol de que es un experto",
+    "duration": 7399,
+    "offset": 129560,
+    "lang": "es"
+  },
+  {
+    "text": "en y este el executor es el que tiene el",
+    "duration": 9560,
+    "offset": 131640,
+    "lang": "es"
+  },
+  {
+    "text": "Proxy y acá lo que va a ser cuando le",
+    "duration": 6920,
+    "offset": 136959,
+    "lang": "es"
+  },
+  {
+    "text": "demos run en cambio de ejecutar en",
+    "duration": 4520,
+    "offset": 141200,
+    "lang": "es"
+  },
+  {
+    "text": "python lo va a hacer en ese código que",
+    "duration": 4521,
+    "offset": 143879,
+    "lang": "es"
+  },
+  {
+    "text": "Nosotros le dijimos que era el next va a",
+    "duration": 5239,
+    "offset": 145720,
+    "lang": "es"
+  },
+  {
+    "text": "ir a buscar la información",
+    "duration": 5360,
+    "offset": 148400,
+    "lang": "es"
+  },
+  {
+    "text": "soest es un código bien conocido o sea",
+    "duration": 5041,
+    "offset": 150959,
+    "lang": "es"
+  },
+  {
+    "text": "es un lenguaje relativamente que tiene",
+    "duration": 4479,
+    "offset": 153760,
+    "lang": "es"
+  },
+  {
+    "text": "mucha información en internet y va a",
+    "duration": 4560,
+    "offset": 156000,
+    "lang": "es"
+  },
+  {
+    "text": "generar fíjense que este código que está",
+    "duration": 5441,
+    "offset": 158239,
+    "lang": "es"
+  },
+  {
+    "text": "generando acá es evidentemente un código",
+    "duration": 5759,
+    "offset": 160560,
+    "lang": "es"
+  },
+  {
+    "text": "en nex que como sabemos es un framework",
+    "duration": 6440,
+    "offset": 163680,
+    "lang": "es"
+  },
+  {
+    "text": "de react entonces acá lo que hizo fue",
+    "duration": 8081,
+    "offset": 166319,
+    "lang": "es"
+  },
+  {
+    "text": "tomar algunos valores de ejemplo y acá",
+    "duration": 7800,
+    "offset": 170120,
+    "lang": "es"
+  },
+  {
+    "text": "lo que está haciendo es generando el",
+    "duration": 6160,
+    "offset": 174400,
+    "lang": "es"
+  },
+  {
+    "text": "este el mismo",
+    "duration": 4640,
+    "offset": 177920,
+    "lang": "es"
+  },
+  {
+    "text": "gráfico que arriba pero en cambio de en",
+    "duration": 6319,
+    "offset": 180560,
+    "lang": "es"
+  },
+  {
+    "text": "python en nextjs",
+    "duration": 4319,
+    "offset": 182560,
+    "lang": "es"
+  }
+]

@@ -4,7 +4,7 @@ title: "Uso de Autoproctor con Moodle"
 description: "En este video muestro cómo usar el sistema de proctoring Autoproctor para monitorear un examen de Moodle"
 resource: "https://www.youtube.com/watch?v=UWvVw-5mW8s"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-02T00:21:58.263Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:47.831Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"
@@ -18,7 +18,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-02"
+    last_modified: "2026-08-10"
   - id: channel-concept
     resource: "src/content/okf/channels/UCx1KkYmHhghhGFgA7VP2aWQ.md"
     title: "Channel: Diego Racero"

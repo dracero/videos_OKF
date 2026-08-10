@@ -1,0 +1,206 @@
+[
+  {
+    "text": "Bueno nos vamos acercando a lo que",
+    "duration": 4440,
+    "offset": 1959,
+    "lang": "es"
+  },
+  {
+    "text": "queríamos hacer acá tenemos un juego de",
+    "duration": 6000,
+    "offset": 3840,
+    "lang": "es"
+  },
+  {
+    "text": "p game que es el me el juego del",
+    "duration": 7881,
+    "offset": 6399,
+    "lang": "es"
+  },
+  {
+    "text": "Laberinto y lo que hicimos fue programar",
+    "duration": 7840,
+    "offset": 9840,
+    "lang": "es"
+  },
+  {
+    "text": "un algoritmo de proximal policy",
+    "duration": 7400,
+    "offset": 14280,
+    "lang": "es"
+  },
+  {
+    "text": "optimization para que el mismo algoritmo",
+    "duration": 5560,
+    "offset": 17680,
+    "lang": "es"
+  },
+  {
+    "text": "en un",
+    "duration": 5800,
+    "offset": 21680,
+    "lang": "es"
+  },
+  {
+    "text": "espacio de acción discreto de cuatro",
+    "duration": 6400,
+    "offset": 23240,
+    "lang": "es"
+  },
+  {
+    "text": "elementos izquierda derecha arriba y",
+    "duration": 4079,
+    "offset": 27480,
+    "lang": "es"
+  },
+  {
+    "text": "abajo",
+    "duration": 5680,
+    "offset": 29640,
+    "lang": "es"
+  },
+  {
+    "text": "resuelva este Laberinto que está armado",
+    "duration": 8121,
+    "offset": 31559,
+    "lang": "es"
+  },
+  {
+    "text": "en una matriz de 4 por4 acá vemos el",
+    "duration": 8360,
+    "offset": 35320,
+    "lang": "es"
+  },
+  {
+    "text": "bloque azul son los movimientos de el",
+    "duration": 7199,
+    "offset": 39680,
+    "lang": "es"
+  },
+  {
+    "text": "jugador y tiene que ir del punto verde",
+    "duration": 7920,
+    "offset": 43680,
+    "lang": "es"
+  },
+  {
+    "text": "hasta el punto rojo evitando los puntos",
+    "duration": 8320,
+    "offset": 46879,
+    "lang": "es"
+  },
+  {
+    "text": "negros pero bien ya está entrenándose la",
+    "duration": 6040,
+    "offset": 51600,
+    "lang": "es"
+  },
+  {
+    "text": "red neuronal usando proximal policy",
+    "duration": 9481,
+    "offset": 55199,
+    "lang": "es"
+  },
+  {
+    "text": "optimization con 3 para poder lograr que",
+    "duration": 10560,
+    "offset": 57640,
+    "lang": "es"
+  },
+  {
+    "text": "funcione nuestro sistema que va a",
+    "duration": 6759,
+    "offset": 64680,
+    "lang": "es"
+  },
+  {
+    "text": "resolver los obstáculos En estos casos",
+    "duration": 7040,
+    "offset": 68200,
+    "lang": "es"
+  },
+  {
+    "text": "los obstáculos son eh",
+    "duration": 5441,
+    "offset": 71439,
+    "lang": "es"
+  },
+  {
+    "text": "determinísticos",
+    "duration": 4720,
+    "offset": 75240,
+    "lang": "es"
+  },
+  {
+    "text": "Pero más adelante podemos hacer que los",
+    "duration": 4919,
+    "offset": 76880,
+    "lang": "es"
+  },
+  {
+    "text": "obstáculos sean aleatorios cuando el",
+    "duration": 3920,
+    "offset": 79960,
+    "lang": "es"
+  },
+  {
+    "text": "sistema esté convenientemente entrenado",
+    "duration": 5201,
+    "offset": 81799,
+    "lang": "es"
+  },
+  {
+    "text": "pero bien acá está gran parte del",
+    "duration": 7440,
+    "offset": 83880,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollo de la clase Jim que tuve que",
+    "duration": 7240,
+    "offset": 87000,
+    "lang": "es"
+  },
+  {
+    "text": "acomodarla para poder utilizarla con p",
+    "duration": 7720,
+    "offset": 91320,
+    "lang": "es"
+  },
+  {
+    "text": "game eh lo hice utilizando Bing chat",
+    "duration": 7480,
+    "offset": 94240,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando Inteligencia artificial la",
+    "duration": 5480,
+    "offset": 99040,
+    "lang": "es"
+  },
+  {
+    "text": "verdad es que hubiese sido un trabajo",
+    "duration": 5960,
+    "offset": 101720,
+    "lang": "es"
+  },
+  {
+    "text": "que llevaba meses y gracias a eso lo",
+    "duration": 6760,
+    "offset": 104520,
+    "lang": "es"
+  },
+  {
+    "text": "hice tan solo en un par de",
+    "duration": 3600,
+    "offset": 107680,
+    "lang": "es"
+  },
+  {
+    "text": "horas",
+    "duration": 3000,
+    "offset": 113280,
+    "lang": "es"
+  }
+]

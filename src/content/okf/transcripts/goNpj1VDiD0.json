@@ -1,0 +1,1106 @@
+[
+  {
+    "text": "A ver, imaginemos por un momento qué",
+    "duration": 3520,
+    "offset": 80,
+    "lang": "es"
+  },
+  {
+    "text": "pasaría si una inteligencia artificial",
+    "duration": 3761,
+    "offset": 1839,
+    "lang": "es"
+  },
+  {
+    "text": "pudiera aprender de sus propios errores,",
+    "duration": 3799,
+    "offset": 3600,
+    "lang": "es"
+  },
+  {
+    "text": "pero no a base de prueba y error a lo",
+    "duration": 3840,
+    "offset": 5600,
+    "lang": "es"
+  },
+  {
+    "text": "loco, sino reflexionando sobre ellos,",
+    "duration": 3721,
+    "offset": 7399,
+    "lang": "es"
+  },
+  {
+    "text": "casi como lo haría una persona. Bueno,",
+    "duration": 3400,
+    "offset": 9440,
+    "lang": "es"
+  },
+  {
+    "text": "pues vamos a meternos de lleno en esta",
+    "duration": 4559,
+    "offset": 11120,
+    "lang": "es"
+  },
+  {
+    "text": "idea porque es bastante revolucionaria.",
+    "duration": 4640,
+    "offset": 12840,
+    "lang": "es"
+  },
+  {
+    "text": "Esta es la pregunta del millón, ¿no?",
+    "duration": 3360,
+    "offset": 15679,
+    "lang": "es"
+  },
+  {
+    "text": "Cuando nos enfrentamos a tareas que son",
+    "duration": 3320,
+    "offset": 17480,
+    "lang": "es"
+  },
+  {
+    "text": "realmente difíciles, como por ejemplo",
+    "duration": 4160,
+    "offset": 19039,
+    "lang": "es"
+  },
+  {
+    "text": "razonar en varios pasos o generar código",
+    "duration": 4360,
+    "offset": 20800,
+    "lang": "es"
+  },
+  {
+    "text": "complejo, el método que se usa para",
+    "duration": 3840,
+    "offset": 23199,
+    "lang": "es"
+  },
+  {
+    "text": "entrenar a la IA lo es, bueno,",
+    "duration": 4640,
+    "offset": 25160,
+    "lang": "es"
+  },
+  {
+    "text": "literalmente todo. Y aquí está el kit de",
+    "duration": 4801,
+    "offset": 27039,
+    "lang": "es"
+  },
+  {
+    "text": "la cuestión. El enfoque de toda la vida",
+    "duration": 3880,
+    "offset": 29800,
+    "lang": "es"
+  },
+  {
+    "text": "se ha centrado en el resultado. Un",
+    "duration": 4239,
+    "offset": 31840,
+    "lang": "es"
+  },
+  {
+    "text": "simple, lo has hecho bien o lo has hecho",
+    "duration": 5280,
+    "offset": 33680,
+    "lang": "es"
+  },
+  {
+    "text": "mal. Pero, ¿y si hubiera otra manera,",
+    "duration": 5000,
+    "offset": 36079,
+    "lang": "es"
+  },
+  {
+    "text": "una que busca algo mucho más profundo,",
+    "duration": 4599,
+    "offset": 38960,
+    "lang": "es"
+  },
+  {
+    "text": "que la IA entienda el proceso? Para",
+    "duration": 4160,
+    "offset": 41079,
+    "lang": "es"
+  },
+  {
+    "text": "entender por qué lo nuevo es tan",
+    "duration": 3081,
+    "offset": 43559,
+    "lang": "es"
+  },
+  {
+    "text": "importante, primero hay que echar un",
+    "duration": 3361,
+    "offset": 45239,
+    "lang": "es"
+  },
+  {
+    "text": "vistazo al problema del método actual,",
+    "duration": 3840,
+    "offset": 46640,
+    "lang": "es"
+  },
+  {
+    "text": "un método que, seamos sinceros, a menudo",
+    "duration": 3479,
+    "offset": 48600,
+    "lang": "es"
+  },
+  {
+    "text": "se parece más a usar un martillo para",
+    "duration": 3960,
+    "offset": 50480,
+    "lang": "es"
+  },
+  {
+    "text": "todo que un visturí de cirujano. El",
+    "duration": 3921,
+    "offset": 52079,
+    "lang": "es"
+  },
+  {
+    "text": "estándar de la industria, el que se ha",
+    "duration": 3919,
+    "offset": 54440,
+    "lang": "es"
+  },
+  {
+    "text": "usado durante años, se llama aprendizaje",
+    "duration": 5760,
+    "offset": 56000,
+    "lang": "es"
+  },
+  {
+    "text": "por refuerzo ORL. Ojo, es muy potente,",
+    "duration": 5520,
+    "offset": 58359,
+    "lang": "es"
+  },
+  {
+    "text": "pero tiene un coste oculto enorme.",
+    "duration": 3640,
+    "offset": 61760,
+    "lang": "es"
+  },
+  {
+    "text": "Funciona para que nos entendamos como",
+    "duration": 3560,
+    "offset": 63879,
+    "lang": "es"
+  },
+  {
+    "text": "cuando adiestramos a una mascota. Si la",
+    "duration": 3600,
+    "offset": 65400,
+    "lang": "es"
+  },
+  {
+    "text": "IA lo hace bien, se le da una",
+    "duration": 4281,
+    "offset": 67439,
+    "lang": "es"
+  },
+  {
+    "text": "recompensa, un premio numérico. El gran",
+    "duration": 4200,
+    "offset": 69000,
+    "lang": "es"
+  },
+  {
+    "text": "problema de este método es que para",
+    "duration": 3640,
+    "offset": 71720,
+    "lang": "es"
+  },
+  {
+    "text": "aprender necesita miles y miles de",
+    "duration": 4120,
+    "offset": 73200,
+    "lang": "es"
+  },
+  {
+    "text": "intentos. Cada uno de estos intentos,",
+    "duration": 4079,
+    "offset": 75360,
+    "lang": "es"
+  },
+  {
+    "text": "que en la jerga se llaman rollouts, es",
+    "duration": 3839,
+    "offset": 77320,
+    "lang": "es"
+  },
+  {
+    "text": "una ejecución completa del sistema de",
+    "duration": 3481,
+    "offset": 79439,
+    "lang": "es"
+  },
+  {
+    "text": "principio a fin, solo para ver si",
+    "duration": 3801,
+    "offset": 81159,
+    "lang": "es"
+  },
+  {
+    "text": "funciona. Y esto, claro, consume una",
+    "duration": 4720,
+    "offset": 82920,
+    "lang": "es"
+  },
+  {
+    "text": "cantidad de recursos brutal. Es que",
+    "duration": 4960,
+    "offset": 84960,
+    "lang": "es"
+  },
+  {
+    "text": "estamos hablando de esto, de decenas de",
+    "duration": 4519,
+    "offset": 87640,
+    "lang": "es"
+  },
+  {
+    "text": "miles de ejecuciones para una única y",
+    "duration": 4519,
+    "offset": 89920,
+    "lang": "es"
+  },
+  {
+    "text": "simple tarea. Esto no es que sea lento,",
+    "duration": 5280,
+    "offset": 92159,
+    "lang": "es"
+  },
+  {
+    "text": "es que es computacionalmente carísimo.",
+    "duration": 5081,
+    "offset": 94439,
+    "lang": "es"
+  },
+  {
+    "text": "Un auténtico cuello de botella que frena",
+    "duration": 4561,
+    "offset": 97439,
+    "lang": "es"
+  },
+  {
+    "text": "muchísimas aplicaciones prácticas. Y",
+    "duration": 4760,
+    "offset": 99520,
+    "lang": "es"
+  },
+  {
+    "text": "aquí, justo aquí, es donde la historia",
+    "duration": 4280,
+    "offset": 102000,
+    "lang": "es"
+  },
+  {
+    "text": "da un giro de guion. Un grupo de",
+    "duration": 4000,
+    "offset": 104280,
+    "lang": "es"
+  },
+  {
+    "text": "investigadores ha propuesto una solución",
+    "duration": 5040,
+    "offset": 106280,
+    "lang": "es"
+  },
+  {
+    "text": "a este problemón de la fuerza bruta y",
+    "duration": 6240,
+    "offset": 108280,
+    "lang": "es"
+  },
+  {
+    "text": "esa solución se llama GEPA. Fijaos en el",
+    "duration": 5360,
+    "offset": 111320,
+    "lang": "es"
+  },
+  {
+    "text": "contraste porque es la clave de todo.",
+    "duration": 3480,
+    "offset": 114520,
+    "lang": "es"
+  },
+  {
+    "text": "Mientras que el aprendizaje por",
+    "duration": 3399,
+    "offset": 116680,
+    "lang": "es"
+  },
+  {
+    "text": "refuerzos solo recibe un número, un okay",
+    "duration": 4880,
+    "offset": 118000,
+    "lang": "es"
+  },
+  {
+    "text": "o un mal, GEPA se alimenta del lenguaje.",
+    "duration": 4521,
+    "offset": 120079,
+    "lang": "es"
+  },
+  {
+    "text": "Analiza los pasos de razonamiento que ha",
+    "duration": 3640,
+    "offset": 122880,
+    "lang": "es"
+  },
+  {
+    "text": "seguido o las herramientas que ha usado,",
+    "duration": 4200,
+    "offset": 124600,
+    "lang": "es"
+  },
+  {
+    "text": "incluso los mensajes de error. Todo para",
+    "duration": 4079,
+    "offset": 126520,
+    "lang": "es"
+  },
+  {
+    "text": "entender el contexto completo de lo que",
+    "duration": 4720,
+    "offset": 128800,
+    "lang": "es"
+  },
+  {
+    "text": "ha pasado. Esta cita lo resume a la",
+    "duration": 5401,
+    "offset": 130599,
+    "lang": "es"
+  },
+  {
+    "text": "perfección. La clave ya no es el qué,",
+    "duration": 4920,
+    "offset": 133520,
+    "lang": "es"
+  },
+  {
+    "text": "sino el por qué. GM GEPA utiliza su",
+    "duration": 4239,
+    "offset": 136000,
+    "lang": "es"
+  },
+  {
+    "text": "propia capacidad de lenguaje para",
+    "duration": 3760,
+    "offset": 138440,
+    "lang": "es"
+  },
+  {
+    "text": "literalmente reflexionar sobre lo que ha",
+    "duration": 3921,
+    "offset": 140239,
+    "lang": "es"
+  },
+  {
+    "text": "hecho y reescribir sus propias",
+    "duration": 4039,
+    "offset": 142200,
+    "lang": "es"
+  },
+  {
+    "text": "instrucciones para mejorar la próxima",
+    "duration": 4359,
+    "offset": 144160,
+    "lang": "es"
+  },
+  {
+    "text": "vez. Así que para ponerle nombre y",
+    "duration": 5681,
+    "offset": 146239,
+    "lang": "es"
+  },
+  {
+    "text": "apellidos, GPA, que son las siglas de",
+    "duration": 5921,
+    "offset": 148519,
+    "lang": "es"
+  },
+  {
+    "text": "genético Pareto. Es un desarrollo que",
+    "duration": 4039,
+    "offset": 151920,
+    "lang": "es"
+  },
+  {
+    "text": "viene de algunas de las instituciones",
+    "duration": 2879,
+    "offset": 154440,
+    "lang": "es"
+  },
+  {
+    "text": "más importantes en inteligencia",
+    "duration": 3441,
+    "offset": 155959,
+    "lang": "es"
+  },
+  {
+    "text": "artificial como Berkley, Stanford y",
+    "duration": 4441,
+    "offset": 157319,
+    "lang": "es"
+  },
+  {
+    "text": "Databicks. Y su objetivo es ese, que los",
+    "duration": 4479,
+    "offset": 159400,
+    "lang": "es"
+  },
+  {
+    "text": "modelos se optimicen a sí mismos de una",
+    "duration": 4720,
+    "offset": 161760,
+    "lang": "es"
+  },
+  {
+    "text": "forma mucho más inteligente. ¿Vale? Todo",
+    "duration": 4681,
+    "offset": 163879,
+    "lang": "es"
+  },
+  {
+    "text": "esto suena genial, pero ¿cómo lo hace",
+    "duration": 4039,
+    "offset": 166480,
+    "lang": "es"
+  },
+  {
+    "text": "exactamente? Bueno, pues el proceso se",
+    "duration": 4319,
+    "offset": 168560,
+    "lang": "es"
+  },
+  {
+    "text": "apoya en tres componentes que son clave",
+    "duration": 4800,
+    "offset": 170519,
+    "lang": "es"
+  },
+  {
+    "text": "y estos tres pilares son fascinantes. El",
+    "duration": 4640,
+    "offset": 172879,
+    "lang": "es"
+  },
+  {
+    "text": "primero es la mutación reflexiva. Es",
+    "duration": 3881,
+    "offset": 175319,
+    "lang": "es"
+  },
+  {
+    "text": "como si la IA se mirara en un espejo,",
+    "duration": 3640,
+    "offset": 177519,
+    "lang": "es"
+  },
+  {
+    "text": "analizara su propio razonamiento y",
+    "duration": 3880,
+    "offset": 179200,
+    "lang": "es"
+  },
+  {
+    "text": "dijera, \"A ver cómo puedo mejorar mis",
+    "duration": 4241,
+    "offset": 181159,
+    "lang": "es"
+  },
+  {
+    "text": "propias instrucciones.\" El segundo es el",
+    "duration": 4200,
+    "offset": 183080,
+    "lang": "es"
+  },
+  {
+    "text": "muestreo basado en Pareto, que es una",
+    "duration": 3960,
+    "offset": 185400,
+    "lang": "es"
+  },
+  {
+    "text": "forma muy lista de no apostarlo todo a",
+    "duration": 4039,
+    "offset": 187280,
+    "lang": "es"
+  },
+  {
+    "text": "una única solución, sino de explorar",
+    "duration": 3840,
+    "offset": 189360,
+    "lang": "es"
+  },
+  {
+    "text": "varias estrategias prometedoras a la",
+    "duration": 4000,
+    "offset": 191319,
+    "lang": "es"
+  },
+  {
+    "text": "vez. Y el tercero es la fusión",
+    "duration": 3840,
+    "offset": 193200,
+    "lang": "es"
+  },
+  {
+    "text": "consciente del sistema, que le permite",
+    "duration": 3521,
+    "offset": 195319,
+    "lang": "es"
+  },
+  {
+    "text": "las mejores ideas de diferentes",
+    "duration": 3919,
+    "offset": 197040,
+    "lang": "es"
+  },
+  {
+    "text": "intentos y combinarlas en una estrategia",
+    "duration": 4080,
+    "offset": 198840,
+    "lang": "es"
+  },
+  {
+    "text": "maestra que es mejor que todas las",
+    "duration": 4560,
+    "offset": 200959,
+    "lang": "es"
+  },
+  {
+    "text": "anteriores. Así que el ciclo en realidad",
+    "duration": 4840,
+    "offset": 202920,
+    "lang": "es"
+  },
+  {
+    "text": "es bastante intuitivo. Se empieza con",
+    "duration": 4080,
+    "offset": 205519,
+    "lang": "es"
+  },
+  {
+    "text": "una instrucción inicial, la IA la",
+    "duration": 3839,
+    "offset": 207760,
+    "lang": "es"
+  },
+  {
+    "text": "ejecuta y al hacerlo genera una especie",
+    "duration": 4801,
+    "offset": 209599,
+    "lang": "es"
+  },
+  {
+    "text": "de rastro de su pensamiento. Luego esa",
+    "duration": 5280,
+    "offset": 211599,
+    "lang": "es"
+  },
+  {
+    "text": "misma IA lee ese rastro y se dice a sí",
+    "duration": 4680,
+    "offset": 214400,
+    "lang": "es"
+  },
+  {
+    "text": "misma, \"Mm, esto podría haberlo hecho",
+    "duration": 4080,
+    "offset": 216879,
+    "lang": "es"
+  },
+  {
+    "text": "mejor. Voy a reescribir mi instrucción",
+    "duration": 4159,
+    "offset": 219080,
+    "lang": "es"
+  },
+  {
+    "text": "de esta otra manera y venga a repetir el",
+    "duration": 4721,
+    "offset": 220959,
+    "lang": "es"
+  },
+  {
+    "text": "ciclo mejorando un poquito más cada vez.",
+    "duration": 4601,
+    "offset": 223239,
+    "lang": "es"
+  },
+  {
+    "text": "Claro, todo esto suena muy bien sobre el",
+    "duration": 4199,
+    "offset": 225680,
+    "lang": "es"
+  },
+  {
+    "text": "papel, pero funciona de verdad en la",
+    "duration": 4160,
+    "offset": 227840,
+    "lang": "es"
+  },
+  {
+    "text": "práctica. Vamos a ver los datos, qué es",
+    "duration": 5041,
+    "offset": 229879,
+    "lang": "es"
+  },
+  {
+    "text": "lo que importa. Pues aquí lo tenemos. En",
+    "duration": 4760,
+    "offset": 232000,
+    "lang": "es"
+  },
+  {
+    "text": "una tarea de razonamiento complejo que",
+    "duration": 4239,
+    "offset": 234920,
+    "lang": "es"
+  },
+  {
+    "text": "se llama Hotspot Qyway, HEPA no solo",
+    "duration": 4240,
+    "offset": 236760,
+    "lang": "es"
+  },
+  {
+    "text": "arrasó a los métodos tradicionales como",
+    "duration": 4160,
+    "offset": 239159,
+    "lang": "es"
+  },
+  {
+    "text": "GRPO, sino que también superó a otros",
+    "duration": 3879,
+    "offset": 241000,
+    "lang": "es"
+  },
+  {
+    "text": "optimizadores de prompts de última",
+    "duration": 4361,
+    "offset": 243319,
+    "lang": "es"
+  },
+  {
+    "text": "generación como Micro V2. Y ojo, por un",
+    "duration": 4720,
+    "offset": 244879,
+    "lang": "es"
+  },
+  {
+    "text": "margen bastante considerable.",
+    "duration": 4000,
+    "offset": 247680,
+    "lang": "es"
+  },
+  {
+    "text": "Y este es el dato que es una auténtica",
+    "duration": 4640,
+    "offset": 249599,
+    "lang": "es"
+  },
+  {
+    "text": "locura. Consiguió esos resultados siendo",
+    "duration": 6079,
+    "offset": 251680,
+    "lang": "es"
+  },
+  {
+    "text": "hasta 35 veces más eficiente. O sea, que",
+    "duration": 5720,
+    "offset": 254239,
+    "lang": "es"
+  },
+  {
+    "text": "necesitó una fracción minúscula de los",
+    "duration": 4121,
+    "offset": 257759,
+    "lang": "es"
+  },
+  {
+    "text": "intentos, lo que se traduce en un ahorro",
+    "duration": 3520,
+    "offset": 259959,
+    "lang": "es"
+  },
+  {
+    "text": "masivo de tiempo y de coste",
+    "duration": 4160,
+    "offset": 261880,
+    "lang": "es"
+  },
+  {
+    "text": "computacional. Y esto de aquí ilustra el",
+    "duration": 4761,
+    "offset": 263479,
+    "lang": "es"
+  },
+  {
+    "text": "resultado de una forma brillante. Es el",
+    "duration": 4320,
+    "offset": 266040,
+    "lang": "es"
+  },
+  {
+    "text": "antes y el después. A la izquierda vemos",
+    "duration": 4200,
+    "offset": 268240,
+    "lang": "es"
+  },
+  {
+    "text": "un prompt inicial muy sencillito. A la",
+    "duration": 3920,
+    "offset": 270360,
+    "lang": "es"
+  },
+  {
+    "text": "derecha el prompt que GPPA generó",
+    "duration": 3640,
+    "offset": 272440,
+    "lang": "es"
+  },
+  {
+    "text": "después de reflexionar. pasa de un",
+    "duration": 3600,
+    "offset": 274280,
+    "lang": "es"
+  },
+  {
+    "text": "simple dame la respuesta a una",
+    "duration": 3880,
+    "offset": 276080,
+    "lang": "es"
+  },
+  {
+    "text": "estrategia superdetallada explicando el",
+    "duration": 4200,
+    "offset": 277880,
+    "lang": "es"
+  },
+  {
+    "text": "contexto, los objetivos, las lecciones",
+    "duration": 4320,
+    "offset": 279960,
+    "lang": "es"
+  },
+  {
+    "text": "aprendidas. Es, en definitiva, una",
+    "duration": 4720,
+    "offset": 282080,
+    "lang": "es"
+  },
+  {
+    "text": "instrucción muchísimo más inteligente.",
+    "duration": 4520,
+    "offset": 284280,
+    "lang": "es"
+  },
+  {
+    "text": "El punto crucial de todo esto es que va",
+    "duration": 4040,
+    "offset": 286800,
+    "lang": "es"
+  },
+  {
+    "text": "mucho más allá de un simple experimento",
+    "duration": 4119,
+    "offset": 288800,
+    "lang": "es"
+  },
+  {
+    "text": "de laboratorio. Las implicaciones que",
+    "duration": 3680,
+    "offset": 290840,
+    "lang": "es"
+  },
+  {
+    "text": "tiene para el futuro de la inteligencia",
+    "duration": 5481,
+    "offset": 292919,
+    "lang": "es"
+  },
+  {
+    "text": "artificial son enormes. Si lo resumimos,",
+    "duration": 6880,
+    "offset": 294520,
+    "lang": "es"
+  },
+  {
+    "text": "las ventajas son clarísimas. Al usar el",
+    "duration": 4840,
+    "offset": 298400,
+    "lang": "es"
+  },
+  {
+    "text": "lenguaje, el aprendizaje es más natural",
+    "duration": 3760,
+    "offset": 301400,
+    "lang": "es"
+  },
+  {
+    "text": "para estos modelos. Se reducen los",
+    "duration": 3720,
+    "offset": 303240,
+    "lang": "es"
+  },
+  {
+    "text": "costes, una barbaridad, se crean",
+    "duration": 3960,
+    "offset": 305160,
+    "lang": "es"
+  },
+  {
+    "text": "instrucciones más eficientes y quizá lo",
+    "duration": 3840,
+    "offset": 306960,
+    "lang": "es"
+  },
+  {
+    "text": "más importante, las soluciones que",
+    "duration": 3240,
+    "offset": 309120,
+    "lang": "es"
+  },
+  {
+    "text": "encuentra generalizan mucho mejor a",
+    "duration": 3679,
+    "offset": 310800,
+    "lang": "es"
+  },
+  {
+    "text": "problemas que no había visto nunca. Y",
+    "duration": 3880,
+    "offset": 312360,
+    "lang": "es"
+  },
+  {
+    "text": "no, no estamos hablando de ciencia",
+    "duration": 3801,
+    "offset": 314479,
+    "lang": "es"
+  },
+  {
+    "text": "ficción. Esto ya se está usando en el",
+    "duration": 4320,
+    "offset": 316240,
+    "lang": "es"
+  },
+  {
+    "text": "mundo real para tareas increíblemente",
+    "duration": 4520,
+    "offset": 318280,
+    "lang": "es"
+  },
+  {
+    "text": "complejas como optimizar código para",
+    "duration": 4160,
+    "offset": 320560,
+    "lang": "es"
+  },
+  {
+    "text": "hardware superespecializado. Pero",
+    "duration": 4200,
+    "offset": 322800,
+    "lang": "es"
+  },
+  {
+    "text": "imaginemos el potencial. podría acelerar",
+    "duration": 4160,
+    "offset": 324720,
+    "lang": "es"
+  },
+  {
+    "text": "la investigación científica, crear",
+    "duration": 3600,
+    "offset": 327000,
+    "lang": "es"
+  },
+  {
+    "text": "tutores de IA que de verdad se adapten a",
+    "duration": 3759,
+    "offset": 328880,
+    "lang": "es"
+  },
+  {
+    "text": "cada estudiante o dar a las empresas una",
+    "duration": 3680,
+    "offset": 330600,
+    "lang": "es"
+  },
+  {
+    "text": "capacidad de análisis de mercado casi",
+    "duration": 3921,
+    "offset": 332639,
+    "lang": "es"
+  },
+  {
+    "text": "instantánea. Este es el verdadero salto",
+    "duration": 4520,
+    "offset": 334280,
+    "lang": "es"
+  },
+  {
+    "text": "conceptual. Estamos pasando de un modelo",
+    "duration": 4160,
+    "offset": 336560,
+    "lang": "es"
+  },
+  {
+    "text": "de aprendizaje basado en la repetición",
+    "duration": 4519,
+    "offset": 338800,
+    "lang": "es"
+  },
+  {
+    "text": "masiva, a lo bruto, a uno basado en la",
+    "duration": 5199,
+    "offset": 340720,
+    "lang": "es"
+  },
+  {
+    "text": "reflexión y la eficiencia. Se trata al",
+    "duration": 4801,
+    "offset": 343319,
+    "lang": "es"
+  },
+  {
+    "text": "final de aprender mucho más con mucho",
+    "duration": 4840,
+    "offset": 345919,
+    "lang": "es"
+  },
+  {
+    "text": "menos. GEPA es un paso de gigante, desde",
+    "duration": 4440,
+    "offset": 348120,
+    "lang": "es"
+  },
+  {
+    "text": "luego, pero es solo el principio de este",
+    "duration": 3560,
+    "offset": 350759,
+    "lang": "es"
+  },
+  {
+    "text": "nuevo camino para la inteligencia",
+    "duration": 4000,
+    "offset": 352560,
+    "lang": "es"
+  },
+  {
+    "text": "artificial. La investigación que viene",
+    "duration": 4761,
+    "offset": 354319,
+    "lang": "es"
+  },
+  {
+    "text": "ahora es apasionante. Se va a explorar",
+    "duration": 4960,
+    "offset": 356560,
+    "lang": "es"
+  },
+  {
+    "text": "cómo combinar la reflexión de GPT con",
+    "duration": 4800,
+    "offset": 359080,
+    "lang": "es"
+  },
+  {
+    "text": "otros métodos o incluso crear sistemas",
+    "duration": 4239,
+    "offset": 361520,
+    "lang": "es"
+  },
+  {
+    "text": "híbridos que usen lo mejor de los dos",
+    "duration": 3680,
+    "offset": 363880,
+    "lang": "es"
+  },
+  {
+    "text": "mundos. Y por supuesto, el siguiente",
+    "duration": 3361,
+    "offset": 365759,
+    "lang": "es"
+  },
+  {
+    "text": "paso es extenderlo a modelos que",
+    "duration": 3680,
+    "offset": 367560,
+    "lang": "es"
+  },
+  {
+    "text": "entiendan no solo texto, sino también",
+    "duration": 4760,
+    "offset": 369120,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes y datos. Y todo esto nos deja",
+    "duration": 5120,
+    "offset": 371240,
+    "lang": "es"
+  },
+  {
+    "text": "con una pregunta final para reflexionar.",
+    "duration": 4360,
+    "offset": 373880,
+    "lang": "es"
+  },
+  {
+    "text": "Si la IA puede entender y explicar por",
+    "duration": 3880,
+    "offset": 376360,
+    "lang": "es"
+  },
+  {
+    "text": "qué toma sus decisiones y puede mejorar",
+    "duration": 4040,
+    "offset": 378240,
+    "lang": "es"
+  },
+  {
+    "text": "por sí misma pensando, nuestra relación",
+    "duration": 4079,
+    "offset": 380240,
+    "lang": "es"
+  },
+  {
+    "text": "con ella va a cambiar por completo.",
+    "duration": 4280,
+    "offset": 382280,
+    "lang": "es"
+  },
+  {
+    "text": "Pasaremos de ser simples usuarios a ser",
+    "duration": 4241,
+    "offset": 384319,
+    "lang": "es"
+  },
+  {
+    "text": "verdaderos colaboradores. El futuro de",
+    "duration": 3320,
+    "offset": 386560,
+    "lang": "es"
+  },
+  {
+    "text": "la IA podría ser mucho más",
+    "duration": 5440,
+    "offset": 388560,
+    "lang": "es"
+  },
+  {
+    "text": "conversacional de lo que nos imaginamos.",
+    "duration": 4120,
+    "offset": 389880,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,914 @@
+[
+  {
+    "text": "Hola y bienvenidos a esta exploración.",
+    "duration": 5480,
+    "offset": 40,
+    "lang": "es"
+  },
+  {
+    "text": "Hoy vamos a meternos con eh dos tipos de",
+    "duration": 4800,
+    "offset": 2639,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas clave que explican cómo se",
+    "duration": 4440,
+    "offset": 5520,
+    "lang": "es"
+  },
+  {
+    "text": "comportan los materiales y los fluidos.",
+    "duration": 4761,
+    "offset": 7439,
+    "lang": "es"
+  },
+  {
+    "text": "Hablamos de las fuerzas elásticas, esas",
+    "duration": 4080,
+    "offset": 9960,
+    "lang": "es"
+  },
+  {
+    "text": "que hacen que las cosas vuelvan a su",
+    "duration": 4400,
+    "offset": 12200,
+    "lang": "es"
+  },
+  {
+    "text": "sitio, y por otro lado las que, bueno,",
+    "duration": 4680,
+    "offset": 14040,
+    "lang": "es"
+  },
+  {
+    "text": "las que se oponen al movimiento como el",
+    "duration": 4919,
+    "offset": 16600,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento o la viscosidad. Nos basamos",
+    "duration": 4680,
+    "offset": 18720,
+    "lang": "es"
+  },
+  {
+    "text": "en varios textos de física, desde",
+    "duration": 4641,
+    "offset": 21519,
+    "lang": "es"
+  },
+  {
+    "text": "dinámica básica hasta hidrodinámica. La",
+    "duration": 5879,
+    "offset": 23400,
+    "lang": "es"
+  },
+  {
+    "text": "idea es eh entender bien qué son y en",
+    "duration": 4480,
+    "offset": 26160,
+    "lang": "es"
+  },
+  {
+    "text": "qué se diferencian.",
+    "duration": 3361,
+    "offset": 29279,
+    "lang": "es"
+  },
+  {
+    "text": "Exacto. Vamos a ver por qué algunos",
+    "duration": 4400,
+    "offset": 30640,
+    "lang": "es"
+  },
+  {
+    "text": "materiales parecen tener memoria y",
+    "duration": 4280,
+    "offset": 32640,
+    "lang": "es"
+  },
+  {
+    "text": "recuperan su forma y cómo otros",
+    "duration": 4080,
+    "offset": 35040,
+    "lang": "es"
+  },
+  {
+    "text": "fenómenos actúan más bien como un freno",
+    "duration": 4440,
+    "offset": 36920,
+    "lang": "es"
+  },
+  {
+    "text": "disipando energía. Es importante pillar",
+    "duration": 3200,
+    "offset": 39120,
+    "lang": "es"
+  },
+  {
+    "text": "esa diferencia.",
+    "duration": 2800,
+    "offset": 41360,
+    "lang": "es"
+  },
+  {
+    "text": "Perfecto. Pues empecemos por la",
+    "duration": 4320,
+    "offset": 42320,
+    "lang": "es"
+  },
+  {
+    "text": "elasticidad. ¿Qué significa exactamente",
+    "duration": 5160,
+    "offset": 44160,
+    "lang": "es"
+  },
+  {
+    "text": "que un medio sea elástico? Suena a goma,",
+    "duration": 4280,
+    "offset": 46640,
+    "lang": "es"
+  },
+  {
+    "text": "pero imagino que es más general.",
+    "duration": 4879,
+    "offset": 49320,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, mucho más. un medio elástico, eh, es",
+    "duration": 5000,
+    "offset": 50920,
+    "lang": "es"
+  },
+  {
+    "text": "uno que se deforma si le aplicas una",
+    "duration": 3520,
+    "offset": 54199,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza. ¿Vale? Pero lo interesante es",
+    "duration": 4119,
+    "offset": 55920,
+    "lang": "es"
+  },
+  {
+    "text": "que primero la deformación suele ser",
+    "duration": 4601,
+    "offset": 57719,
+    "lang": "es"
+  },
+  {
+    "text": "proporcional a esa fuerza y segundo, y",
+    "duration": 4601,
+    "offset": 60039,
+    "lang": "es"
+  },
+  {
+    "text": "esto es lo crucial, recupera su forma",
+    "duration": 4560,
+    "offset": 62320,
+    "lang": "es"
+  },
+  {
+    "text": "original en cuanto quitas la fuerza.",
+    "duration": 4280,
+    "offset": 64640,
+    "lang": "es"
+  },
+  {
+    "text": "Piensa en gases o en muchos sólidos, no",
+    "duration": 3160,
+    "offset": 66880,
+    "lang": "es"
+  },
+  {
+    "text": "solo las gomas.",
+    "duration": 2960,
+    "offset": 68920,
+    "lang": "es"
+  },
+  {
+    "text": "O el típico muelle de física. Claro.",
+    "duration": 3680,
+    "offset": 70040,
+    "lang": "es"
+  },
+  {
+    "text": "Ajá. Y ahí es donde entra la ley de",
+    "duration": 4040,
+    "offset": 71880,
+    "lang": "es"
+  },
+  {
+    "text": "Hook, ¿verdad? Esa no suena a todos de",
+    "duration": 2640,
+    "offset": 73720,
+    "lang": "es"
+  },
+  {
+    "text": "clase,",
+    "duration": 2720,
+    "offset": 75920,
+    "lang": "es"
+  },
+  {
+    "text": "¿correcto? La ley de Hook es, digamos,",
+    "duration": 4320,
+    "offset": 76360,
+    "lang": "es"
+  },
+  {
+    "text": "el modelo básico para esto. Describe",
+    "duration": 4080,
+    "offset": 78640,
+    "lang": "es"
+  },
+  {
+    "text": "justo esa relación directa. La fuerza",
+    "duration": 3880,
+    "offset": 80680,
+    "lang": "es"
+  },
+  {
+    "text": "que hace el material para recuperar su",
+    "duration": 3920,
+    "offset": 82720,
+    "lang": "es"
+  },
+  {
+    "text": "forma es proporcional a cuanto lo has",
+    "duration": 5160,
+    "offset": 84560,
+    "lang": "es"
+  },
+  {
+    "text": "deformado. Para un muelle es la famosa f",
+    "duration": 7439,
+    "offset": 86640,
+    "lang": "es"
+  },
+  {
+    "text": "= - k delta x. Esa k mide como de rígido",
+    "duration": 7439,
+    "offset": 89720,
+    "lang": "es"
+  },
+  {
+    "text": "es. Para sólidos, pues se usan otros",
+    "duration": 5761,
+    "offset": 94079,
+    "lang": "es"
+  },
+  {
+    "text": "parámetros como el módulo de Yong y que",
+    "duration": 4761,
+    "offset": 97159,
+    "lang": "es"
+  },
+  {
+    "text": "viene a ser lo mismo, mide la rigidez",
+    "duration": 6160,
+    "offset": 99840,
+    "lang": "es"
+  },
+  {
+    "text": "frente a estirar o comprimir.",
+    "duration": 6360,
+    "offset": 101920,
+    "lang": "es"
+  },
+  {
+    "text": "Entiendo. Es una forma de cuantificar",
+    "duration": 4600,
+    "offset": 106000,
+    "lang": "es"
+  },
+  {
+    "text": "esa resistencia a ser deformado.",
+    "duration": 5920,
+    "offset": 108280,
+    "lang": "es"
+  },
+  {
+    "text": "Eso es. Y mide también esa tendencia a",
+    "duration": 4360,
+    "offset": 110600,
+    "lang": "es"
+  },
+  {
+    "text": "volver.",
+    "duration": 3279,
+    "offset": 114200,
+    "lang": "es"
+  },
+  {
+    "text": "Y claro, deformar algo así no es gratis,",
+    "duration": 5400,
+    "offset": 114960,
+    "lang": "es"
+  },
+  {
+    "text": "no implica almacenar energía.",
+    "duration": 4960,
+    "offset": 117479,
+    "lang": "es"
+  },
+  {
+    "text": "Justo. Se almacena energía dentro del",
+    "duration": 4799,
+    "offset": 120360,
+    "lang": "es"
+  },
+  {
+    "text": "material, energía potencial. elástica,",
+    "duration": 5280,
+    "offset": 122439,
+    "lang": "es"
+  },
+  {
+    "text": "como al tensar la cuerda de un arco y",
+    "duration": 4960,
+    "offset": 125159,
+    "lang": "es"
+  },
+  {
+    "text": "esa energía se puede recuperar. Por eso",
+    "duration": 4481,
+    "offset": 127719,
+    "lang": "es"
+  },
+  {
+    "text": "se dice que estas fuerzas son",
+    "duration": 5400,
+    "offset": 130119,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas. Idealmente la energía no",
+    "duration": 5399,
+    "offset": 132200,
+    "lang": "es"
+  },
+  {
+    "text": "se pierde en el ciclo de deformar y",
+    "duration": 2921,
+    "offset": 135519,
+    "lang": "es"
+  },
+  {
+    "text": "recuperar,",
+    "duration": 2681,
+    "offset": 137599,
+    "lang": "es"
+  },
+  {
+    "text": "¿vale? Como en las colisiones elásticas",
+    "duration": 3640,
+    "offset": 138440,
+    "lang": "es"
+  },
+  {
+    "text": "perfectas que se conserva la energía",
+    "duration": 2920,
+    "offset": 140280,
+    "lang": "es"
+  },
+  {
+    "text": "cinética total.",
+    "duration": 3799,
+    "offset": 142080,
+    "lang": "es"
+  },
+  {
+    "text": "Exactamente. Ahí la elasticidad juega",
+    "duration": 3440,
+    "offset": 143200,
+    "lang": "es"
+  },
+  {
+    "text": "ese papel.",
+    "duration": 3321,
+    "offset": 145879,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, tenemos la elasticidad, memoria de",
+    "duration": 5160,
+    "offset": 146640,
+    "lang": "es"
+  },
+  {
+    "text": "forma, almacenamiento de energía,",
+    "duration": 4160,
+    "offset": 149200,
+    "lang": "es"
+  },
+  {
+    "text": "conservación.",
+    "duration": 4040,
+    "offset": 151800,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora contrastemos qué pasa con las",
+    "duration": 5040,
+    "offset": 153360,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas que se oponen al movimiento. El",
+    "duration": 4319,
+    "offset": 155840,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento es el gran protagonista ahí,",
+    "duration": 2160,
+    "offset": 158400,
+    "lang": "es"
+  },
+  {
+    "text": "¿no?",
+    "duration": 2961,
+    "offset": 160159,
+    "lang": "es"
+  },
+  {
+    "text": "Sin duda. El rozamiento está por todas",
+    "duration": 5120,
+    "offset": 160560,
+    "lang": "es"
+  },
+  {
+    "text": "partes. Las fuentes lo explican como",
+    "duration": 4800,
+    "offset": 163120,
+    "lang": "es"
+  },
+  {
+    "text": "resultado de interacciones a escala",
+    "duration": 5160,
+    "offset": 165680,
+    "lang": "es"
+  },
+  {
+    "text": "micro, eh, sobre todo eléctricas, entre",
+    "duration": 5520,
+    "offset": 167920,
+    "lang": "es"
+  },
+  {
+    "text": "las superficies que están tocándose. Lo",
+    "duration": 4960,
+    "offset": 170840,
+    "lang": "es"
+  },
+  {
+    "text": "fundamental es que siempre se opone al",
+    "duration": 4519,
+    "offset": 173440,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento relativo entre esas",
+    "duration": 4600,
+    "offset": 175800,
+    "lang": "es"
+  },
+  {
+    "text": "superficies. Si intentas mover un libro",
+    "duration": 4801,
+    "offset": 177959,
+    "lang": "es"
+  },
+  {
+    "text": "sobre la mesa, ahí está el rozamiento",
+    "duration": 3160,
+    "offset": 180400,
+    "lang": "es"
+  },
+  {
+    "text": "frenando.",
+    "duration": 3559,
+    "offset": 182760,
+    "lang": "es"
+  },
+  {
+    "text": "Y recuerdo que había dos tipos. No es lo",
+    "duration": 4319,
+    "offset": 183560,
+    "lang": "es"
+  },
+  {
+    "text": "mismo empezar a mover algo que",
+    "duration": 3041,
+    "offset": 186319,
+    "lang": "es"
+  },
+  {
+    "text": "mantenerlo en movimiento.",
+    "duration": 3640,
+    "offset": 187879,
+    "lang": "es"
+  },
+  {
+    "text": "Muy bien visto. Está el rozamiento",
+    "duration": 3840,
+    "offset": 189360,
+    "lang": "es"
+  },
+  {
+    "text": "estático, que es el que tienes que",
+    "duration": 4161,
+    "offset": 191519,
+    "lang": "es"
+  },
+  {
+    "text": "vencer para empezar a mover el objeto.",
+    "duration": 4679,
+    "offset": 193200,
+    "lang": "es"
+  },
+  {
+    "text": "Puede crecer hasta un máximo y luego",
+    "duration": 4720,
+    "offset": 195680,
+    "lang": "es"
+  },
+  {
+    "text": "está el dinámico o cinético que actúa",
+    "duration": 4801,
+    "offset": 197879,
+    "lang": "es"
+  },
+  {
+    "text": "cuando ya hay deslizamiento. Y este",
+    "duration": 4440,
+    "offset": 200400,
+    "lang": "es"
+  },
+  {
+    "text": "suele ser un poquito menor que el máximo",
+    "duration": 2839,
+    "offset": 202680,
+    "lang": "es"
+  },
+  {
+    "text": "estático.",
+    "duration": 2240,
+    "offset": 204840,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, por eso cuesta más el primer",
+    "duration": 4280,
+    "offset": 205519,
+    "lang": "es"
+  },
+  {
+    "text": "empujón. Justo. Y bueno, se cuantifica",
+    "duration": 5120,
+    "offset": 207080,
+    "lang": "es"
+  },
+  {
+    "text": "con los coeficientes de rozamiento mu,",
+    "duration": 4281,
+    "offset": 209799,
+    "lang": "es"
+  },
+  {
+    "text": "que dependen de qué materiales rocen",
+    "duration": 3959,
+    "offset": 212200,
+    "lang": "es"
+  },
+  {
+    "text": "entre sí. Es una fuerza, digamos, de",
+    "duration": 4200,
+    "offset": 214080,
+    "lang": "es"
+  },
+  {
+    "text": "naturaleza estadística, emerge de",
+    "duration": 4280,
+    "offset": 216159,
+    "lang": "es"
+  },
+  {
+    "text": "muchísimas interacciones pequeñitas.",
+    "duration": 3560,
+    "offset": 218280,
+    "lang": "es"
+  },
+  {
+    "text": "Qué interesante lo de la base",
+    "duration": 4121,
+    "offset": 220439,
+    "lang": "es"
+  },
+  {
+    "text": "microscópica. Bueno, y la viscosidad,",
+    "duration": 4640,
+    "offset": 221840,
+    "lang": "es"
+  },
+  {
+    "text": "esa resistencia a los fluidos, como la",
+    "duration": 5360,
+    "offset": 224560,
+    "lang": "es"
+  },
+  {
+    "text": "miel que fluye despacio, ¿cómo encaja?",
+    "duration": 5240,
+    "offset": 226480,
+    "lang": "es"
+  },
+  {
+    "text": "Pues la viscosidad es, en cierto modo,",
+    "duration": 4000,
+    "offset": 229920,
+    "lang": "es"
+  },
+  {
+    "text": "el rozamiento interno de un fluido. Es",
+    "duration": 3920,
+    "offset": 231720,
+    "lang": "es"
+  },
+  {
+    "text": "la resistencia que ofrecen las capas del",
+    "duration": 4200,
+    "offset": 233920,
+    "lang": "es"
+  },
+  {
+    "text": "fluido a deslizar unas sobre otras. A",
+    "duration": 4080,
+    "offset": 235640,
+    "lang": "es"
+  },
+  {
+    "text": "veces, para entenderla bien, se define",
+    "duration": 4360,
+    "offset": 238120,
+    "lang": "es"
+  },
+  {
+    "text": "primero lo contrario, el fluido ideal.",
+    "duration": 4280,
+    "offset": 239720,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, el modelo teórico.",
+    "duration": 3160,
+    "offset": 242480,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, un modelo teórico que es",
+    "duration": 4560,
+    "offset": 244000,
+    "lang": "es"
+  },
+  {
+    "text": "incompresible y lo importante aquí no",
+    "duration": 5200,
+    "offset": 245640,
+    "lang": "es"
+  },
+  {
+    "text": "tiene viscosidad. Cero resistencia",
+    "duration": 4480,
+    "offset": 248560,
+    "lang": "es"
+  },
+  {
+    "text": "interna al corte. sus capas deslizarían",
+    "duration": 3479,
+    "offset": 250840,
+    "lang": "es"
+  },
+  {
+    "text": "sin esfuerzo,",
+    "duration": 3919,
+    "offset": 253040,
+    "lang": "es"
+  },
+  {
+    "text": "reales. Esa fricción interna que hace",
+    "duration": 5681,
+    "offset": 254319,
+    "lang": "es"
+  },
+  {
+    "text": "que la miel sea eh bueno, más pastosa",
+    "duration": 6081,
+    "offset": 256959,
+    "lang": "es"
+  },
+  {
+    "text": "que el agua, disipa energía también.",
+    "duration": 5720,
+    "offset": 260000,
+    "lang": "es"
+  },
+  {
+    "text": "Vale, creo que las piezas encajan.",
+    "duration": 5000,
+    "offset": 263040,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, resumiendo mucho, fuerzas",
+    "duration": 5360,
+    "offset": 265720,
+    "lang": "es"
+  },
+  {
+    "text": "elásticas tienden a restaurar, almacenan",
+    "duration": 5760,
+    "offset": 268040,
+    "lang": "es"
+  },
+  {
+    "text": "energía de forma reversible, son",
+    "duration": 3800,
+    "offset": 271080,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas.",
+    "duration": 3920,
+    "offset": 273800,
+    "lang": "es"
+  },
+  {
+    "text": "Eso es. Y por otro lado, fuerzas como el",
+    "duration": 5599,
+    "offset": 274880,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento o la viscosidad que se oponen",
+    "duration": 5720,
+    "offset": 277720,
+    "lang": "es"
+  },
+  {
+    "text": "al movimiento, lo frenan y disipan",
+    "duration": 5280,
+    "offset": 280479,
+    "lang": "es"
+  },
+  {
+    "text": "energía normalmente en forma de calor,",
+    "duration": 4080,
+    "offset": 283440,
+    "lang": "es"
+  },
+  {
+    "text": "no son conservativas.",
+    "duration": 3601,
+    "offset": 285759,
+    "lang": "es"
+  },
+  {
+    "text": "La energía se pierde del movimiento",
+    "duration": 2880,
+    "offset": 287520,
+    "lang": "es"
+  },
+  {
+    "text": "útil, digamos.",
+    "duration": 3200,
+    "offset": 289360,
+    "lang": "es"
+  },
+  {
+    "text": "Exacto. Se transforma en calor, en",
+    "duration": 3480,
+    "offset": 290400,
+    "lang": "es"
+  },
+  {
+    "text": "energía interna.",
+    "duration": 3680,
+    "offset": 292560,
+    "lang": "es"
+  },
+  {
+    "text": "Perfecto. Pues hemos visto la base de la",
+    "duration": 5039,
+    "offset": 293880,
+    "lang": "es"
+  },
+  {
+    "text": "elasticidad con hook como referencia y",
+    "duration": 4760,
+    "offset": 296240,
+    "lang": "es"
+  },
+  {
+    "text": "lo hemos contrastado con el rozamiento y",
+    "duration": 4081,
+    "offset": 298919,
+    "lang": "es"
+  },
+  {
+    "text": "esa idea de viscosidad a través del",
+    "duration": 4720,
+    "offset": 301000,
+    "lang": "es"
+  },
+  {
+    "text": "concepto de fluido ideal. Queda quizá",
+    "duration": 4759,
+    "offset": 303000,
+    "lang": "es"
+  },
+  {
+    "text": "una idea para darle una vuelta. Las",
+    "duration": 3880,
+    "offset": 305720,
+    "lang": "es"
+  },
+  {
+    "text": "hemos separado para entenderlas, ¿no?",
+    "duration": 3801,
+    "offset": 307759,
+    "lang": "es"
+  },
+  {
+    "text": "Elasticidad por un lado, resistencia por",
+    "duration": 3760,
+    "offset": 309600,
+    "lang": "es"
+  },
+  {
+    "text": "otro. Pero en el mundo real casi todo",
+    "duration": 4440,
+    "offset": 311560,
+    "lang": "es"
+  },
+  {
+    "text": "combina ambas cosas. ¿Cómo interactúan?",
+    "duration": 3920,
+    "offset": 313360,
+    "lang": "es"
+  },
+  {
+    "text": "Piensen, por ejemplo, en la cuerda de",
+    "duration": 3560,
+    "offset": 316000,
+    "lang": "es"
+  },
+  {
+    "text": "una guitarra. Vibra por su elasticidad,",
+    "duration": 4160,
+    "offset": 317280,
+    "lang": "es"
+  },
+  {
+    "text": "pero el sonido se apaga por la fricción",
+    "duration": 4199,
+    "offset": 319560,
+    "lang": "es"
+  },
+  {
+    "text": "interna y con el aire. o un amortiguador",
+    "duration": 5400,
+    "offset": 321440,
+    "lang": "es"
+  },
+  {
+    "text": "de coche. La pregunta es, ¿qué fenómenos",
+    "duration": 5401,
+    "offset": 323759,
+    "lang": "es"
+  },
+  {
+    "text": "complejos y útiles surgen de esa mezcla",
+    "duration": 4359,
+    "offset": 326840,
+    "lang": "es"
+  },
+  {
+    "text": "constante entre la tendencia a volver al",
+    "duration": 5479,
+    "offset": 329160,
+    "lang": "es"
+  },
+  {
+    "text": "sitio y la resistencia a movers?",
+    "duration": 3440,
+    "offset": 331199,
+    "lang": "es"
+  }
+]

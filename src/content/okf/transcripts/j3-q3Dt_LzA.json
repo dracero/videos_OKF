@@ -1,0 +1,152 @@
+[
+  {
+    "text": "[Música]",
+    "duration": 8300,
+    "offset": 740,
+    "lang": "es"
+  },
+  {
+    "text": "Hola En este video voy a estar mostrando",
+    "duration": 5320,
+    "offset": 6720,
+    "lang": "es"
+  },
+  {
+    "text": "Cómo instalar lanflow de forma local",
+    "duration": 5080,
+    "offset": 9040,
+    "lang": "es"
+  },
+  {
+    "text": "para eso se requiere tener la versión",
+    "duration": 5800,
+    "offset": 12040,
+    "lang": "es"
+  },
+  {
+    "text": "3.10 de python o una más reciente y",
+    "duration": 6159,
+    "offset": 14120,
+    "lang": "es"
+  },
+  {
+    "text": "también es necesario tener pip o pip ex",
+    "duration": 4760,
+    "offset": 17840,
+    "lang": "es"
+  },
+  {
+    "text": "instalado yo en este caso voy a estar",
+    "duration": 3601,
+    "offset": 20279,
+    "lang": "es"
+  },
+  {
+    "text": "usando",
+    "duration": 4280,
+    "offset": 22600,
+    "lang": "es"
+  },
+  {
+    "text": "pip para eso voy a ingresar el siguiente",
+    "duration": 7520,
+    "offset": 23880,
+    "lang": "es"
+  },
+  {
+    "text": "Comando python y m pip install lanflow",
+    "duration": 7000,
+    "offset": 26880,
+    "lang": "es"
+  },
+  {
+    "text": "gu",
+    "duration": 2480,
+    "offset": 31400,
+    "lang": "es"
+  },
+  {
+    "text": "u Una vez que se terminó de instalar de",
+    "duration": 6160,
+    "offset": 45879,
+    "lang": "es"
+  },
+  {
+    "text": "forma correcta intento correr lanflow",
+    "duration": 7680,
+    "offset": 48640,
+    "lang": "es"
+  },
+  {
+    "text": "usando el comando python guion m lanflow",
+    "duration": 6881,
+    "offset": 52039,
+    "lang": "es"
+  },
+  {
+    "text": "Run Ahora hay que esperar a que nos",
+    "duration": 7199,
+    "offset": 56320,
+    "lang": "es"
+  },
+  {
+    "text": "muestre mensaje de que lanflow ya está",
+    "duration": 4599,
+    "offset": 58920,
+    "lang": "es"
+  },
+  {
+    "text": "listo acá ya nos aparece el link de que",
+    "duration": 6000,
+    "offset": 84119,
+    "lang": "es"
+  },
+  {
+    "text": "el anf está corriendo por lo tanto",
+    "duration": 5680,
+    "offset": 87119,
+    "lang": "es"
+  },
+  {
+    "text": "podemos Acceder al link donde podremos",
+    "duration": 5561,
+    "offset": 90119,
+    "lang": "es"
+  },
+  {
+    "text": "ver todos nuestros",
+    "duration": 2881,
+    "offset": 92799,
+    "lang": "es"
+  },
+  {
+    "text": "proyectos y aquí ya podemos ver nuestros",
+    "duration": 5960,
+    "offset": 101119,
+    "lang": "es"
+  },
+  {
+    "text": "proyectos y agregar nuevos y así es como",
+    "duration": 6630,
+    "offset": 103960,
+    "lang": "es"
+  },
+  {
+    "text": "se instala lanflow de forma local",
+    "duration": 11761,
+    "offset": 107079,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 12290,
+    "offset": 110590,
+    "lang": "es"
+  },
+  {
+    "text": "gracias i",
+    "duration": 4040,
+    "offset": 118840,
+    "lang": "es"
+  }
+]

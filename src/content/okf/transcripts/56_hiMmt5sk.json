@@ -1,0 +1,800 @@
+[
+  {
+    "text": "Ondas en movimiento, el podcast donde",
+    "duration": 4600,
+    "offset": 280,
+    "lang": "es"
+  },
+  {
+    "text": "exploramos los fenómenos físicos que nos",
+    "duration": 5039,
+    "offset": 2720,
+    "lang": "es"
+  },
+  {
+    "text": "rodean. Soy Ana y hoy tenemos el placer",
+    "duration": 4719,
+    "offset": 4880,
+    "lang": "es"
+  },
+  {
+    "text": "de contar con la presencia del doctor",
+    "duration": 4081,
+    "offset": 7759,
+    "lang": "es"
+  },
+  {
+    "text": "Morales, nuestro experto en física de",
+    "duration": 5240,
+    "offset": 9599,
+    "lang": "es"
+  },
+  {
+    "text": "cabecera. Hola, Ana, un gusto estar aquí",
+    "duration": 5599,
+    "offset": 11840,
+    "lang": "es"
+  },
+  {
+    "text": "de nuevo. Doctor Morales, el otro día",
+    "duration": 4761,
+    "offset": 14839,
+    "lang": "es"
+  },
+  {
+    "text": "estaba esperando en un cruce de tren y",
+    "duration": 4000,
+    "offset": 17439,
+    "lang": "es"
+  },
+  {
+    "text": "noté algo que siempre me ha llamado la",
+    "duration": 4320,
+    "offset": 19600,
+    "lang": "es"
+  },
+  {
+    "text": "atención. El silvato del tren suena más",
+    "duration": 4961,
+    "offset": 21439,
+    "lang": "es"
+  },
+  {
+    "text": "agudo cuando se acerca y más grave",
+    "duration": 5840,
+    "offset": 23920,
+    "lang": "es"
+  },
+  {
+    "text": "cuando se aleja. ¿Por qué pasa eso?",
+    "duration": 5240,
+    "offset": 26400,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 4200,
+    "offset": 29760,
+    "lang": "es"
+  },
+  {
+    "text": "Esa es una excelente pregunta, Ana, y",
+    "duration": 5079,
+    "offset": 31640,
+    "lang": "es"
+  },
+  {
+    "text": "has descrito perfectamente el efecto",
+    "duration": 6000,
+    "offset": 33960,
+    "lang": "es"
+  },
+  {
+    "text": "Doppler. Efecto Doppler.",
+    "duration": 4961,
+    "offset": 36719,
+    "lang": "es"
+  },
+  {
+    "text": "Suena algo de una película de ciencia",
+    "duration": 4079,
+    "offset": 39960,
+    "lang": "es"
+  },
+  {
+    "text": "ficción.",
+    "duration": 4600,
+    "offset": 41680,
+    "lang": "es"
+  },
+  {
+    "text": "Aunque suene así, es un principio",
+    "duration": 4881,
+    "offset": 44039,
+    "lang": "es"
+  },
+  {
+    "text": "fundamental de la física de ondas. En",
+    "duration": 5640,
+    "offset": 46280,
+    "lang": "es"
+  },
+  {
+    "text": "pocas palabras, el efecto Doppler es la",
+    "duration": 5400,
+    "offset": 48920,
+    "lang": "es"
+  },
+  {
+    "text": "variación en la frecuencia de una onda",
+    "duration": 4920,
+    "offset": 51920,
+    "lang": "es"
+  },
+  {
+    "text": "percibida por un observador cuando la",
+    "duration": 5000,
+    "offset": 54320,
+    "lang": "es"
+  },
+  {
+    "text": "fuente de la onda y el observador se",
+    "duration": 5440,
+    "offset": 56840,
+    "lang": "es"
+  },
+  {
+    "text": "mueven uno con respecto al otro. A ver,",
+    "duration": 5040,
+    "offset": 59320,
+    "lang": "es"
+  },
+  {
+    "text": "vayamos por partes. ¿Qué es la",
+    "duration": 5360,
+    "offset": 62280,
+    "lang": "es"
+  },
+  {
+    "text": "frecuencia de una onda? Mm, imagina las",
+    "duration": 5399,
+    "offset": 64360,
+    "lang": "es"
+  },
+  {
+    "text": "ondas de sonido como una serie de",
+    "duration": 5320,
+    "offset": 67640,
+    "lang": "es"
+  },
+  {
+    "text": "compresiones y expansiones del aire. La",
+    "duration": 5481,
+    "offset": 69759,
+    "lang": "es"
+  },
+  {
+    "text": "frecuencia es el número de estas",
+    "duration": 4479,
+    "offset": 72960,
+    "lang": "es"
+  },
+  {
+    "text": "compresiones que llegan a tu oído cada",
+    "duration": 5080,
+    "offset": 75240,
+    "lang": "es"
+  },
+  {
+    "text": "segundo. Una frecuencia alta la",
+    "duration": 5441,
+    "offset": 77439,
+    "lang": "es"
+  },
+  {
+    "text": "percibimos como un sonido agudo y una",
+    "duration": 5159,
+    "offset": 80320,
+    "lang": "es"
+  },
+  {
+    "text": "frecuencia baja como un sonido grave.",
+    "duration": 5720,
+    "offset": 82880,
+    "lang": "es"
+  },
+  {
+    "text": "¿Entendido? Entonces, cuando el tren se",
+    "duration": 5561,
+    "offset": 85479,
+    "lang": "es"
+  },
+  {
+    "text": "acerca, las ondas sonoras me llegan con",
+    "duration": 4199,
+    "offset": 88600,
+    "lang": "es"
+  },
+  {
+    "text": "más frecuencia.",
+    "duration": 4439,
+    "offset": 91040,
+    "lang": "es"
+  },
+  {
+    "text": "Exactamente. Piensa que la fuente del",
+    "duration": 5441,
+    "offset": 92799,
+    "lang": "es"
+  },
+  {
+    "text": "sonido, el tren, se está moviendo hacia",
+    "duration": 6241,
+    "offset": 95479,
+    "lang": "es"
+  },
+  {
+    "text": "ti. Cada nueva onda que emite está un",
+    "duration": 6239,
+    "offset": 98240,
+    "lang": "es"
+  },
+  {
+    "text": "poco más cerca de ti que la anterior.",
+    "duration": 5719,
+    "offset": 101720,
+    "lang": "es"
+  },
+  {
+    "text": "Esto hace que las ondas se amontonen,",
+    "duration": 5441,
+    "offset": 104479,
+    "lang": "es"
+  },
+  {
+    "text": "por así decirlo, y la distancia entre",
+    "duration": 5640,
+    "offset": 107439,
+    "lang": "es"
+  },
+  {
+    "text": "ellas, la longitud de onda sea corta.",
+    "duration": 6040,
+    "offset": 109920,
+    "lang": "es"
+  },
+  {
+    "text": "Claro. Y si la longitud de onda es más",
+    "duration": 5720,
+    "offset": 113079,
+    "lang": "es"
+  },
+  {
+    "text": "corta, más ondas me llegan por segundo.",
+    "duration": 5610,
+    "offset": 115960,
+    "lang": "es"
+  },
+  {
+    "text": "Por eso el sonido es más agudo.",
+    "duration": 9361,
+    "offset": 118799,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 9189,
+    "offset": 121570,
+    "lang": "es"
+  },
+  {
+    "text": "Precisamente. Y lo contrario ocurre",
+    "duration": 4400,
+    "offset": 128160,
+    "lang": "es"
+  },
+  {
+    "text": "cuando la ambulancia o el tren se",
+    "duration": 4721,
+    "offset": 130759,
+    "lang": "es"
+  },
+  {
+    "text": "alejan. La fuente se aleja de ti, por lo",
+    "duration": 4880,
+    "offset": 132560,
+    "lang": "es"
+  },
+  {
+    "text": "que cada onda que emite tiene que",
+    "duration": 4360,
+    "offset": 135480,
+    "lang": "es"
+  },
+  {
+    "text": "recorrer un poco más de distancia para",
+    "duration": 5079,
+    "offset": 137440,
+    "lang": "es"
+  },
+  {
+    "text": "llegar a tus oídos. Las ondas se",
+    "duration": 6039,
+    "offset": 139840,
+    "lang": "es"
+  },
+  {
+    "text": "estiran, su longitud de onda aumenta y",
+    "duration": 6201,
+    "offset": 142519,
+    "lang": "es"
+  },
+  {
+    "text": "por lo tanto la frecuencia que percibes",
+    "duration": 6161,
+    "offset": 145879,
+    "lang": "es"
+  },
+  {
+    "text": "disminuye. El resultado es un sonido más",
+    "duration": 7000,
+    "offset": 148720,
+    "lang": "es"
+  },
+  {
+    "text": "grave. Tiene mucho sentido. Ahora, he",
+    "duration": 5360,
+    "offset": 152040,
+    "lang": "es"
+  },
+  {
+    "text": "visto en mis apuntes de clase una",
+    "duration": 3239,
+    "offset": 155720,
+    "lang": "es"
+  },
+  {
+    "text": "fórmula para esto. ¿Podríamos",
+    "duration": 4839,
+    "offset": 157400,
+    "lang": "es"
+  },
+  {
+    "text": "desglosarla? Claro que sí. La fórmula",
+    "duration": 5200,
+    "offset": 158959,
+    "lang": "es"
+  },
+  {
+    "text": "general del efecto Doppler para el",
+    "duration": 7161,
+    "offset": 162239,
+    "lang": "es"
+  },
+  {
+    "text": "sonido es f prima es igual a f * v o -",
+    "duration": 10921,
+    "offset": 164159,
+    "lang": "es"
+  },
+  {
+    "text": "v0 dividido entre v o men- vf.",
+    "duration": 8839,
+    "offset": 169400,
+    "lang": "es"
+  },
+  {
+    "text": "Wow, son varias variables. ¿Cómo sabemos",
+    "duration": 5680,
+    "offset": 175080,
+    "lang": "es"
+  },
+  {
+    "text": "cuándo usar el signo más o el signo",
+    "duration": 6280,
+    "offset": 178239,
+    "lang": "es"
+  },
+  {
+    "text": "menos? Esa es la clave. Se basa en una",
+    "duration": 7160,
+    "offset": 180760,
+    "lang": "es"
+  },
+  {
+    "text": "convención de signos. Generalmente se",
+    "duration": 5521,
+    "offset": 184519,
+    "lang": "es"
+  },
+  {
+    "text": "considera positiva la dirección que va",
+    "duration": 5560,
+    "offset": 187920,
+    "lang": "es"
+  },
+  {
+    "text": "desde la fuente hacia el observador.",
+    "duration": 9720,
+    "offset": 190040,
+    "lang": "es"
+  },
+  {
+    "text": "En el numerador V+ o - V0 usamos + V0 si",
+    "duration": 8640,
+    "offset": 193480,
+    "lang": "es"
+  },
+  {
+    "text": "el observador se mueve hacia la fuente",
+    "duration": 4240,
+    "offset": 199760,
+    "lang": "es"
+  },
+  {
+    "text": "porque interceptará las ondas más",
+    "duration": 5440,
+    "offset": 202120,
+    "lang": "es"
+  },
+  {
+    "text": "rápidamente aumentando la frecuencia.",
+    "duration": 7239,
+    "offset": 204000,
+    "lang": "es"
+  },
+  {
+    "text": "Usamos - v0 si el observador se mueve",
+    "duration": 5840,
+    "offset": 207560,
+    "lang": "es"
+  },
+  {
+    "text": "alejándose de la fuente. En el",
+    "duration": 7920,
+    "offset": 211239,
+    "lang": "es"
+  },
+  {
+    "text": "denominador V - VF usamos - VF. Si la",
+    "duration": 8360,
+    "offset": 213400,
+    "lang": "es"
+  },
+  {
+    "text": "fuente se mueve hacia el observador, el",
+    "duration": 5041,
+    "offset": 219159,
+    "lang": "es"
+  },
+  {
+    "text": "denominador se hace más pequeño, lo que",
+    "duration": 4640,
+    "offset": 221760,
+    "lang": "es"
+  },
+  {
+    "text": "aumenta f prima.",
+    "duration": 5640,
+    "offset": 224200,
+    "lang": "es"
+  },
+  {
+    "text": "Usamos más VF si la fuente se mueve",
+    "duration": 6399,
+    "offset": 226400,
+    "lang": "es"
+  },
+  {
+    "text": "alejándose del observador.",
+    "duration": 5080,
+    "offset": 229840,
+    "lang": "es"
+  },
+  {
+    "text": "A ver,",
+    "duration": 4401,
+    "offset": 232799,
+    "lang": "es"
+  },
+  {
+    "text": "si lo entendí. Para el tren que se",
+    "duration": 5319,
+    "offset": 234920,
+    "lang": "es"
+  },
+  {
+    "text": "acerca, yo estoy quieta. Así que V0 es",
+    "duration": 6039,
+    "offset": 237200,
+    "lang": "es"
+  },
+  {
+    "text": "cer. El tren es la fuente y se mueve",
+    "duration": 7401,
+    "offset": 240239,
+    "lang": "es"
+  },
+  {
+    "text": "hacia mí, así que uso - vf. La fórmula",
+    "duration": 11401,
+    "offset": 243239,
+    "lang": "es"
+  },
+  {
+    "text": "sería F prima f * V sobre V - VF. Como",
+    "duration": 9999,
+    "offset": 247640,
+    "lang": "es"
+  },
+  {
+    "text": "el denominador es más pequeño que v, F",
+    "duration": 5599,
+    "offset": 254640,
+    "lang": "es"
+  },
+  {
+    "text": "prima será mayor que f, por eso el",
+    "duration": 6280,
+    "offset": 257639,
+    "lang": "es"
+  },
+  {
+    "text": "sonido es más agudo. Exactamente. Has",
+    "duration": 6841,
+    "offset": 260239,
+    "lang": "es"
+  },
+  {
+    "text": "hecho la deducción tú misma",
+    "duration": 5521,
+    "offset": 263919,
+    "lang": "es"
+  },
+  {
+    "text": "y cuando el tren se aleja, la fuente se",
+    "duration": 6720,
+    "offset": 267080,
+    "lang": "es"
+  },
+  {
+    "text": "aleja de mí, así que uso más vf. La",
+    "duration": 9720,
+    "offset": 269440,
+    "lang": "es"
+  },
+  {
+    "text": "fórmula ahora es f prima = f * v sobre v",
+    "duration": 9119,
+    "offset": 273800,
+    "lang": "es"
+  },
+  {
+    "text": "+ vf. El denominador es más grande, por",
+    "duration": 8240,
+    "offset": 279160,
+    "lang": "es"
+  },
+  {
+    "text": "lo que f prima será menor que fido",
+    "duration": 8201,
+    "offset": 282919,
+    "lang": "es"
+  },
+  {
+    "text": "es más grave. Exactamente. No es tan",
+    "duration": 5920,
+    "offset": 287400,
+    "lang": "es"
+  },
+  {
+    "text": "intimidante cuando lo analizas paso a",
+    "duration": 3720,
+    "offset": 291120,
+    "lang": "es"
+  },
+  {
+    "text": "paso.",
+    "duration": 3680,
+    "offset": 293320,
+    "lang": "es"
+  },
+  {
+    "text": "Esto es fascinante.",
+    "duration": 4079,
+    "offset": 294840,
+    "lang": "es"
+  },
+  {
+    "text": "¿El efecto Doppler solo se aplica al",
+    "duration": 5199,
+    "offset": 297000,
+    "lang": "es"
+  },
+  {
+    "text": "sonido? No, en absoluto. Se aplica a",
+    "duration": 6361,
+    "offset": 298919,
+    "lang": "es"
+  },
+  {
+    "text": "todo tipo de ondas, incluidas las ondas",
+    "duration": 5881,
+    "offset": 302199,
+    "lang": "es"
+  },
+  {
+    "text": "de luz. De hecho, es una herramienta",
+    "duration": 5120,
+    "offset": 305280,
+    "lang": "es"
+  },
+  {
+    "text": "crucial en astronomía.",
+    "duration": 4839,
+    "offset": 308080,
+    "lang": "es"
+  },
+  {
+    "text": "Los astrónomos observan el corrimiento",
+    "duration": 4560,
+    "offset": 310400,
+    "lang": "es"
+  },
+  {
+    "text": "hacia el rojo o hacia el azul de la luz",
+    "duration": 4641,
+    "offset": 312919,
+    "lang": "es"
+  },
+  {
+    "text": "de las estrellas. Corrimiento hacia el",
+    "duration": 5280,
+    "offset": 314960,
+    "lang": "es"
+  },
+  {
+    "text": "rojo o hacia el azul. Si una estrella se",
+    "duration": 5359,
+    "offset": 317560,
+    "lang": "es"
+  },
+  {
+    "text": "aleja de nosotros, su luz se desplaza",
+    "duration": 5320,
+    "offset": 320240,
+    "lang": "es"
+  },
+  {
+    "text": "hacia longitudes de onda más largas,",
+    "duration": 5280,
+    "offset": 322919,
+    "lang": "es"
+  },
+  {
+    "text": "hacia el extremo rojo del espectro. A",
+    "duration": 6120,
+    "offset": 325560,
+    "lang": "es"
+  },
+  {
+    "text": "esto se le llama corrimiento al rojo. Si",
+    "duration": 6041,
+    "offset": 328199,
+    "lang": "es"
+  },
+  {
+    "text": "se acerca, la luz se desplaza hacia el",
+    "duration": 5040,
+    "offset": 331680,
+    "lang": "es"
+  },
+  {
+    "text": "azul. Así es como el científico Edin",
+    "duration": 5280,
+    "offset": 334240,
+    "lang": "es"
+  },
+  {
+    "text": "Hubble descubrió que el universo se está",
+    "duration": 4599,
+    "offset": 336720,
+    "lang": "es"
+  },
+  {
+    "text": "expandiendo.",
+    "duration": 4280,
+    "offset": 339520,
+    "lang": "es"
+  },
+  {
+    "text": "Increíble. Así que el mismo principio",
+    "duration": 4521,
+    "offset": 341319,
+    "lang": "es"
+  },
+  {
+    "text": "que explica el sonido de un tren que",
+    "duration": 4320,
+    "offset": 343800,
+    "lang": "es"
+  },
+  {
+    "text": "pasa nos ayuda a entender la expansión",
+    "duration": 6079,
+    "offset": 345840,
+    "lang": "es"
+  },
+  {
+    "text": "del universo. Así es. La física tiene",
+    "duration": 7000,
+    "offset": 348120,
+    "lang": "es"
+  },
+  {
+    "text": "esa belleza, principios fundamentales",
+    "duration": 6641,
+    "offset": 351919,
+    "lang": "es"
+  },
+  {
+    "text": "que se aplican a escalas muy diferentes.",
+    "duration": 5400,
+    "offset": 355120,
+    "lang": "es"
+  },
+  {
+    "text": "Muchas gracias, doctor Morales, por esta",
+    "duration": 4240,
+    "offset": 358560,
+    "lang": "es"
+  },
+  {
+    "text": "explicación tan clara y con ejemplos tan",
+    "duration": 4640,
+    "offset": 360520,
+    "lang": "es"
+  },
+  {
+    "text": "sonoros. Ahora, cada vez que escuche una",
+    "duration": 4760,
+    "offset": 362800,
+    "lang": "es"
+  },
+  {
+    "text": "sirena, pensaré en el efecto Doppler y",
+    "duration": 5599,
+    "offset": 365160,
+    "lang": "es"
+  },
+  {
+    "text": "en la expansión del universo.",
+    "duration": 4560,
+    "offset": 367560,
+    "lang": "es"
+  },
+  {
+    "text": "Ese es el espíritu de un buen",
+    "duration": 3160,
+    "offset": 370759,
+    "lang": "es"
+  },
+  {
+    "text": "científico, Ana.",
+    "duration": 3680,
+    "offset": 372120,
+    "lang": "es"
+  },
+  {
+    "text": "Y esto es todo por hoy en Ondas en",
+    "duration": 4720,
+    "offset": 373919,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento.",
+    "duration": 2839,
+    "offset": 375800,
+    "lang": "es"
+  }
+]

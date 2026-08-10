@@ -1,0 +1,1028 @@
+[
+  {
+    "text": "Notebook LM. ¿Qué es Notebook LM?",
+    "duration": 6160,
+    "offset": 1360,
+    "lang": "es"
+  },
+  {
+    "text": "Notebook LM es un sistema",
+    "duration": 7321,
+    "offset": 3879,
+    "lang": "es"
+  },
+  {
+    "text": "de raga géntico. ¿Qué significa? Es un",
+    "duration": 7600,
+    "offset": 7520,
+    "lang": "es"
+  },
+  {
+    "text": "sistema que utiliza como cerebro el LLM,",
+    "duration": 6440,
+    "offset": 11200,
+    "lang": "es"
+  },
+  {
+    "text": "que es Shemini 3.5,",
+    "duration": 5360,
+    "offset": 15120,
+    "lang": "es"
+  },
+  {
+    "text": "pero no responde con su propio corpus de",
+    "duration": 5040,
+    "offset": 17640,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento, lo usa solamente para",
+    "duration": 5480,
+    "offset": 20480,
+    "lang": "es"
+  },
+  {
+    "text": "obtener conclusiones y responde de los",
+    "duration": 5439,
+    "offset": 22680,
+    "lang": "es"
+  },
+  {
+    "text": "contenidos que nosotros le subimos. Por",
+    "duration": 5440,
+    "offset": 25960,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo, acá lo que estamos viendo son",
+    "duration": 6841,
+    "offset": 28119,
+    "lang": "es"
+  },
+  {
+    "text": "contenidos que son bajados de la página",
+    "duration": 6880,
+    "offset": 31400,
+    "lang": "es"
+  },
+  {
+    "text": "de asignatura de física 1. Podemos",
+    "duration": 6599,
+    "offset": 34960,
+    "lang": "es"
+  },
+  {
+    "text": "añadir fuentes, podemos subir archivos,",
+    "duration": 7160,
+    "offset": 38280,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes, PDFs, Word, Excel, podemos",
+    "duration": 6601,
+    "offset": 41559,
+    "lang": "es"
+  },
+  {
+    "text": "subir audios, podemos subir vídeos,",
+    "duration": 5080,
+    "offset": 45440,
+    "lang": "es"
+  },
+  {
+    "text": "podemos poner videos de YouTube, podemos",
+    "duration": 4840,
+    "offset": 48160,
+    "lang": "es"
+  },
+  {
+    "text": "hacer texto copiado, podemos poner",
+    "duration": 4920,
+    "offset": 50520,
+    "lang": "es"
+  },
+  {
+    "text": "páginas web,",
+    "duration": 5079,
+    "offset": 53000,
+    "lang": "es"
+  },
+  {
+    "text": "podemos poner cualquier tipo de",
+    "duration": 5000,
+    "offset": 55440,
+    "lang": "es"
+  },
+  {
+    "text": "contenido que nosotros querramos. Con la",
+    "duration": 4320,
+    "offset": 58079,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta de Fuva esto lo tenemos",
+    "duration": 4600,
+    "offset": 60440,
+    "lang": "es"
+  },
+  {
+    "text": "totalmente disponible. Una vez que",
+    "duration": 4961,
+    "offset": 62399,
+    "lang": "es"
+  },
+  {
+    "text": "subimos esto, si queremos mayor",
+    "duration": 5439,
+    "offset": 65040,
+    "lang": "es"
+  },
+  {
+    "text": "versatilidad, por ejemplo, poder",
+    "duration": 6119,
+    "offset": 67360,
+    "lang": "es"
+  },
+  {
+    "text": "insertar imágenes, podemos utilizar",
+    "duration": 6161,
+    "offset": 70479,
+    "lang": "es"
+  },
+  {
+    "text": "yemini. Vamos a hacer clic en el botón",
+    "duration": 7401,
+    "offset": 73479,
+    "lang": "es"
+  },
+  {
+    "text": "más, más subidas, notebooks. Y acá lo",
+    "duration": 6479,
+    "offset": 76640,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a conectar al tutor de física de",
+    "duration": 4360,
+    "offset": 80880,
+    "lang": "es"
+  },
+  {
+    "text": "notebook LM.",
+    "duration": 4761,
+    "offset": 83119,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué logramos con eso? Con eso logramos",
+    "duration": 5280,
+    "offset": 85240,
+    "lang": "es"
+  },
+  {
+    "text": "que responda, pero responda con el",
+    "duration": 5879,
+    "offset": 87880,
+    "lang": "es"
+  },
+  {
+    "text": "contenido de nuestra propia materia.",
+    "duration": 6840,
+    "offset": 90520,
+    "lang": "es"
+  },
+  {
+    "text": "Por ejemplo, si tenemos un problema,",
+    "duration": 5720,
+    "offset": 93759,
+    "lang": "es"
+  },
+  {
+    "text": "podemos copiar el problema como hicimos",
+    "duration": 6480,
+    "offset": 97360,
+    "lang": "es"
+  },
+  {
+    "text": "acá y pegarlo en la ventana de contextos",
+    "duration": 8280,
+    "offset": 99479,
+    "lang": "es"
+  },
+  {
+    "text": "de Gemini. Y lo que le podemos decir es",
+    "duration": 7360,
+    "offset": 103840,
+    "lang": "es"
+  },
+  {
+    "text": "que en cambio de",
+    "duration": 7121,
+    "offset": 107759,
+    "lang": "es"
+  },
+  {
+    "text": "actuar respondiendo el problema, trabaje",
+    "duration": 7199,
+    "offset": 111200,
+    "lang": "es"
+  },
+  {
+    "text": "en modo aprendizaje guiado. Entonces,",
+    "duration": 6320,
+    "offset": 114880,
+    "lang": "es"
+  },
+  {
+    "text": "con una inteligencia personalizada en",
+    "duration": 6601,
+    "offset": 118399,
+    "lang": "es"
+  },
+  {
+    "text": "modo aprendizaje guiado,",
+    "duration": 6360,
+    "offset": 121200,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando nuestro propio contenido, le",
+    "duration": 8360,
+    "offset": 125000,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a pedir que nos explique",
+    "duration": 10160,
+    "offset": 127560,
+    "lang": "es"
+  },
+  {
+    "text": "cómo resolver el problema.",
+    "duration": 4360,
+    "offset": 133360,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí va a empezar a contestar acerca del",
+    "duration": 7560,
+    "offset": 144120,
+    "lang": "es"
+  },
+  {
+    "text": "problema guiándonos con preguntas, pero",
+    "duration": 5879,
+    "offset": 148360,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando",
+    "duration": 6680,
+    "offset": 151680,
+    "lang": "es"
+  },
+  {
+    "text": "nuestro propio contenido.",
+    "duration": 4121,
+    "offset": 154239,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, fíjense que acá que dice, \"Veo que",
+    "duration": 4041,
+    "offset": 162959,
+    "lang": "es"
+  },
+  {
+    "text": "compartiste varios archivos y captura de",
+    "duration": 4041,
+    "offset": 165239,
+    "lang": "es"
+  },
+  {
+    "text": "física uno que es lo del notebook. Como",
+    "duration": 3920,
+    "offset": 167000,
+    "lang": "es"
+  },
+  {
+    "text": "hay varios parcialitos, recuperatorios,",
+    "duration": 2920,
+    "offset": 169280,
+    "lang": "es"
+  },
+  {
+    "text": "documentos teóricos del archivo,",
+    "duration": 3679,
+    "offset": 170920,
+    "lang": "es"
+  },
+  {
+    "text": "necesito saber con exactitud en cuál nos",
+    "duration": 4160,
+    "offset": 172200,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a enfocar. Me podrías indicar qué",
+    "duration": 3601,
+    "offset": 174599,
+    "lang": "es"
+  },
+  {
+    "text": "archivo imagen se trata y cuál es el",
+    "duration": 4280,
+    "offset": 176360,
+    "lang": "es"
+  },
+  {
+    "text": "número de ejercicio específico?\"",
+    "duration": 6240,
+    "offset": 178200,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces le voy a decir",
+    "duration": 3800,
+    "offset": 180640,
+    "lang": "es"
+  },
+  {
+    "text": "el ejercicio",
+    "duration": 3360,
+    "offset": 184519,
+    "lang": "es"
+  },
+  {
+    "text": "que",
+    "duration": 3481,
+    "offset": 189519,
+    "lang": "es"
+  },
+  {
+    "text": "subí",
+    "duration": 3881,
+    "offset": 191239,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 5120,
+    "offset": 193000,
+    "lang": "es"
+  },
+  {
+    "text": "imagen",
+    "duration": 3000,
+    "offset": 195120,
+    "lang": "es"
+  },
+  {
+    "text": "porque tiene un montón de contenido.",
+    "duration": 3840,
+    "offset": 198959,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces acá le vamos a decir que es el",
+    "duration": 6281,
+    "offset": 200799,
+    "lang": "es"
+  },
+  {
+    "text": "ejercicio que subí en la imagen.",
+    "duration": 6761,
+    "offset": 202799,
+    "lang": "es"
+  },
+  {
+    "text": "ahora nos va a empezar a ayudar a",
+    "duration": 5000,
+    "offset": 207080,
+    "lang": "es"
+  },
+  {
+    "text": "resolver el problema, pero en modo",
+    "duration": 6239,
+    "offset": 209560,
+    "lang": "es"
+  },
+  {
+    "text": "aprendizaje guiado.",
+    "duration": 3719,
+    "offset": 212080,
+    "lang": "es"
+  },
+  {
+    "text": "Como el sistema es un sistema",
+    "duration": 4241,
+    "offset": 219599,
+    "lang": "es"
+  },
+  {
+    "text": "multimodal, puede también interpretar",
+    "duration": 6479,
+    "offset": 220840,
+    "lang": "es"
+  },
+  {
+    "text": "todo lo que dicen las imágenes.",
+    "duration": 6479,
+    "offset": 223840,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, entonces acá dice, \"Veo que",
+    "duration": 4321,
+    "offset": 227319,
+    "lang": "es"
+  },
+  {
+    "text": "adjuntaste dos imágenes. Vamos a",
+    "duration": 3041,
+    "offset": 230319,
+    "lang": "es"
+  },
+  {
+    "text": "enfocarnos en el problema de la chapa",
+    "duration": 3280,
+    "offset": 231640,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrada, el que tiene el enunciado",
+    "duration": 4439,
+    "offset": 233360,
+    "lang": "es"
+  },
+  {
+    "text": "escrito, que es un ejercicio clásico de",
+    "duration": 5440,
+    "offset": 234920,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido.",
+    "duration": 4360,
+    "offset": 237799,
+    "lang": "es"
+  },
+  {
+    "text": "Si querías resolver el cilindro, avisame",
+    "duration": 3280,
+    "offset": 240360,
+    "lang": "es"
+  },
+  {
+    "text": "y cambiamos de rumbo, ¿no? Bien,",
+    "duration": 2761,
+    "offset": 242159,
+    "lang": "es"
+  },
+  {
+    "text": "entonces lo vamos a ir resolviendo",
+    "duration": 3599,
+    "offset": 243640,
+    "lang": "es"
+  },
+  {
+    "text": "juntos paso a paso. Arranquemos por el",
+    "duration": 4239,
+    "offset": 244920,
+    "lang": "es"
+  },
+  {
+    "text": "inicio. Dice, ¿qué nos pide calcular?",
+    "duration": 5241,
+    "offset": 247239,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, ah, que nos pide calcular, dice, el",
+    "duration": 4920,
+    "offset": 249159,
+    "lang": "es"
+  },
+  {
+    "text": "momento de inercia de la chapa respecto",
+    "duration": 3479,
+    "offset": 252480,
+    "lang": "es"
+  },
+  {
+    "text": "a un eje que pasa por el pivote. A,",
+    "duration": 4081,
+    "offset": 254079,
+    "lang": "es"
+  },
+  {
+    "text": "dice, sabiendo que la chapa es cuadrado,",
+    "duration": 3840,
+    "offset": 255959,
+    "lang": "es"
+  },
+  {
+    "text": "¿cómo te quedaría la expresión? Bien,",
+    "duration": 4319,
+    "offset": 258160,
+    "lang": "es"
+  },
+  {
+    "text": "entonces, ¿qué es lo que pasa? No es que",
+    "duration": 6761,
+    "offset": 259799,
+    "lang": "es"
+  },
+  {
+    "text": "acá le va a dar la respuesta al alumno,",
+    "duration": 6521,
+    "offset": 262479,
+    "lang": "es"
+  },
+  {
+    "text": "es que lo va a ir guiando para que el",
+    "duration": 5880,
+    "offset": 266560,
+    "lang": "es"
+  },
+  {
+    "text": "alumno vaya escribiendo la respuesta. Lo",
+    "duration": 5680,
+    "offset": 269000,
+    "lang": "es"
+  },
+  {
+    "text": "va a ir guiando para que se vaya dando",
+    "duration": 5440,
+    "offset": 272440,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta de qué en qué conceptos urgar.",
+    "duration": 7040,
+    "offset": 274680,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, primero nos pide el momento de",
+    "duration": 5599,
+    "offset": 277880,
+    "lang": "es"
+  },
+  {
+    "text": "inercia respecto al centro de masa y",
+    "duration": 4880,
+    "offset": 281720,
+    "lang": "es"
+  },
+  {
+    "text": "después nos dice qué teorema deberíamos",
+    "duration": 5641,
+    "offset": 283479,
+    "lang": "es"
+  },
+  {
+    "text": "aplicar para trasladar ese momento de",
+    "duration": 4039,
+    "offset": 286600,
+    "lang": "es"
+  },
+  {
+    "text": "inercia desde el centro de masa hasta el",
+    "duration": 5639,
+    "offset": 289120,
+    "lang": "es"
+  },
+  {
+    "text": "vértice. Entonces acá le contesto.",
+    "duration": 4120,
+    "offset": 290639,
+    "lang": "es"
+  },
+  {
+    "text": "Para la parte dos tenemos que usar el",
+    "duration": 11640,
+    "offset": 295360,
+    "lang": "es"
+  },
+  {
+    "text": "teorema de Steiner.",
+    "duration": 5600,
+    "offset": 301400,
+    "lang": "es"
+  },
+  {
+    "text": "Esto es lo importante o lo que hay que",
+    "duration": 4959,
+    "offset": 315080,
+    "lang": "es"
+  },
+  {
+    "text": "destacar, que no es que le va a dar la",
+    "duration": 5200,
+    "offset": 316960,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta al alumno, sino que lo va a",
+    "duration": 5481,
+    "offset": 320039,
+    "lang": "es"
+  },
+  {
+    "text": "guiar a resolver el problema utilizando",
+    "duration": 7000,
+    "offset": 322160,
+    "lang": "es"
+  },
+  {
+    "text": "nuestro propio contenido. Bien, entonces",
+    "duration": 5799,
+    "offset": 325520,
+    "lang": "es"
+  },
+  {
+    "text": "acá dice exactamente es el del teorema",
+    "duration": 4920,
+    "offset": 329160,
+    "lang": "es"
+  },
+  {
+    "text": "de dice primero, ¿cómo te quedaría el",
+    "duration": 4401,
+    "offset": 331319,
+    "lang": "es"
+  },
+  {
+    "text": "segundo? ¿Cómo podemos calcular la",
+    "duration": 3640,
+    "offset": 334080,
+    "lang": "es"
+  },
+  {
+    "text": "distancia d que hay entre el centro de",
+    "duration": 4720,
+    "offset": 335720,
+    "lang": "es"
+  },
+  {
+    "text": "masa y el cuadrado del vértice? Bien,",
+    "duration": 5720,
+    "offset": 337720,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 3000,
+    "offset": 340440,
+    "lang": "es"
+  },
+  {
+    "text": "esa distancia",
+    "duration": 6399,
+    "offset": 344240,
+    "lang": "es"
+  },
+  {
+    "text": "entre el",
+    "duration": 3720,
+    "offset": 346919,
+    "lang": "es"
+  },
+  {
+    "text": "entre el centro de masa y",
+    "duration": 4481,
+    "offset": 355319,
+    "lang": "es"
+  },
+  {
+    "text": "dice",
+    "duration": 5280,
+    "offset": 364880,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 3000,
+    "offset": 367160,
+    "lang": "es"
+  },
+  {
+    "text": "dice",
+    "duration": 3000,
+    "offset": 370560,
+    "lang": "es"
+  },
+  {
+    "text": "Chupita.",
+    "duration": 3000,
+    "offset": 377520,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí le voy diciendo que lo hago por",
+    "duration": 5160,
+    "offset": 401080,
+    "lang": "es"
+  },
+  {
+    "text": "Pitágoras usando trigonometría",
+    "duration": 5119,
+    "offset": 403080,
+    "lang": "es"
+  },
+  {
+    "text": "y poco a poco me va a ir guiando",
+    "duration": 5160,
+    "offset": 406240,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando sus modelos de razonamiento.",
+    "duration": 5400,
+    "offset": 408199,
+    "lang": "es"
+  },
+  {
+    "text": "Volviendo a esto, lo importante es que",
+    "duration": 5040,
+    "offset": 411400,
+    "lang": "es"
+  },
+  {
+    "text": "yo tenga notebooks con el propio",
+    "duration": 5561,
+    "offset": 413599,
+    "lang": "es"
+  },
+  {
+    "text": "contenido. Puedo hacer muchísimas cosas.",
+    "duration": 4800,
+    "offset": 416440,
+    "lang": "es"
+  },
+  {
+    "text": "Nosotros en el CETEC tenemos un curso de",
+    "duration": 5479,
+    "offset": 419160,
+    "lang": "es"
+  },
+  {
+    "text": "notebook LM, pero lo importante es el",
+    "duration": 7480,
+    "offset": 421240,
+    "lang": "es"
+  },
+  {
+    "text": "hecho de que puedo conectarlo a Gemini y",
+    "duration": 6521,
+    "offset": 424639,
+    "lang": "es"
+  },
+  {
+    "text": "lo puedo hacer en modo aprendizaje",
+    "duration": 4720,
+    "offset": 428720,
+    "lang": "es"
+  },
+  {
+    "text": "guiado. Bien, entonces me dice, \"Los dos",
+    "duration": 4159,
+    "offset": 431160,
+    "lang": "es"
+  },
+  {
+    "text": "caminos son perfectamente válidos. Si",
+    "duration": 4479,
+    "offset": 433440,
+    "lang": "es"
+  },
+  {
+    "text": "calculas la diagonal completa del",
+    "duration": 4681,
+    "offset": 435319,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado por Pitágora 10 a la mitad o si",
+    "duration": 4881,
+    "offset": 437919,
+    "lang": "es"
+  },
+  {
+    "text": "usas coordenadas del centro de masa como",
+    "duration": 5000,
+    "offset": 440000,
+    "lang": "es"
+  },
+  {
+    "text": "con trigonometría pasa a llegar al mismo",
+    "duration": 4600,
+    "offset": 442800,
+    "lang": "es"
+  },
+  {
+    "text": "resultado. ¿Cuánto te da la distancia",
+    "duration": 4240,
+    "offset": 445000,
+    "lang": "es"
+  },
+  {
+    "text": "del cuadrado expresada? Dice la fórmula",
+    "duration": 3400,
+    "offset": 447400,
+    "lang": "es"
+  },
+  {
+    "text": "de técnica. Retomando la otra parte del",
+    "duration": 3359,
+    "offset": 449240,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado nos quedó pendiente cómo queda",
+    "duration": 4239,
+    "offset": 450800,
+    "lang": "es"
+  },
+  {
+    "text": "simplificado el centro de masa. Bien,",
+    "duration": 3880,
+    "offset": 452599,
+    "lang": "es"
+  },
+  {
+    "text": "con esta, bien, ahí está porque es",
+    "duration": 3401,
+    "offset": 455039,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado de lado L. Con estas dos piezas",
+    "duration": 3761,
+    "offset": 456479,
+    "lang": "es"
+  },
+  {
+    "text": "ya podemos armar la expresión final del",
+    "duration": 4680,
+    "offset": 458440,
+    "lang": "es"
+  },
+  {
+    "text": "momento de inercia. Entonces lo va",
+    "duration": 6160,
+    "offset": 460240,
+    "lang": "es"
+  },
+  {
+    "text": "guiando para que vaya resolviendo el",
+    "duration": 6320,
+    "offset": 463120,
+    "lang": "es"
+  },
+  {
+    "text": "problema. Entonces ahora perfecto, me di",
+    "duration": 6040,
+    "offset": 466400,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta.",
+    "duration": 3000,
+    "offset": 469440,
+    "lang": "es"
+  },
+  {
+    "text": "Pasemos",
+    "duration": 3000,
+    "offset": 473759,
+    "lang": "es"
+  },
+  {
+    "text": "al siguiente punto.",
+    "duration": 4360,
+    "offset": 477000,
+    "lang": "es"
+  },
+  {
+    "text": "El siguiente punto es para la situación",
+    "duration": 5040,
+    "offset": 482960,
+    "lang": "es"
+  },
+  {
+    "text": "inicial calcular la aceleración del",
+    "duration": 3600,
+    "offset": 486159,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa del cuerpo y la reacción",
+    "duration": 4960,
+    "offset": 488000,
+    "lang": "es"
+  },
+  {
+    "text": "de vínculo.",
+    "duration": 3201,
+    "offset": 489759,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, esto es para que vean que en",
+    "duration": 6120,
+    "offset": 498639,
+    "lang": "es"
+  },
+  {
+    "text": "realidad no es que va ustedes ponen el",
+    "duration": 6199,
+    "offset": 500680,
+    "lang": "es"
+  },
+  {
+    "text": "material que esté correctamente,",
+    "duration": 4241,
+    "offset": 504759,
+    "lang": "es"
+  },
+  {
+    "text": "convenientemente curado, eligen los",
+    "duration": 5000,
+    "offset": 506879,
+    "lang": "es"
+  },
+  {
+    "text": "ejercicios que son tranquilamente los",
+    "duration": 4839,
+    "offset": 509000,
+    "lang": "es"
+  },
+  {
+    "text": "ejercicios de la guía y el alumno puede",
+    "duration": 4960,
+    "offset": 511879,
+    "lang": "es"
+  },
+  {
+    "text": "ir haciendo la guía utilizando Shemini",
+    "duration": 6801,
+    "offset": 513839,
+    "lang": "es"
+  },
+  {
+    "text": "como un tutor que lo va guiando y le va",
+    "duration": 6200,
+    "offset": 516839,
+    "lang": "es"
+  },
+  {
+    "text": "ayudando a asimilar los conceptos, lo va",
+    "duration": 5160,
+    "offset": 520640,
+    "lang": "es"
+  },
+  {
+    "text": "ayudando a resolver los ejercicios.",
+    "duration": 4881,
+    "offset": 523039,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que no le da la respuesta, sino",
+    "duration": 4960,
+    "offset": 525800,
+    "lang": "es"
+  },
+  {
+    "text": "que lo va guiando para que resuelva los",
+    "duration": 5880,
+    "offset": 527920,
+    "lang": "es"
+  },
+  {
+    "text": "ejercicios y poco a poco él vaya",
+    "duration": 5920,
+    "offset": 530760,
+    "lang": "es"
+  },
+  {
+    "text": "descubriendo los conceptos o generando",
+    "duration": 4960,
+    "offset": 533800,
+    "lang": "es"
+  },
+  {
+    "text": "esa tensión necesaria para poder",
+    "duration": 6599,
+    "offset": 536680,
+    "lang": "es"
+  },
+  {
+    "text": "apropiarse del conocimiento. punto.",
+    "duration": 4519,
+    "offset": 538760,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "text": "bueno otra manera de desarrollar código",
+    "duration": 5540,
+    "offset": 1500,
+    "lang": "es"
+  },
+  {
+    "text": "si nosotros no queremos",
+    "duration": 5570,
+    "offset": 4620,
+    "lang": "es"
+  },
+  {
+    "text": "utilizar directamente",
+    "duration": 6340,
+    "offset": 7040,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 6849,
+    "offset": 10190,
+    "lang": "es"
+  },
+  {
+    "text": "Google usar directamente gift es",
+    "duration": 6780,
+    "offset": 13380,
+    "lang": "es"
+  },
+  {
+    "text": "utilizar el chat gpt y escribir en el",
+    "duration": 4861,
+    "offset": 17039,
+    "lang": "es"
+  },
+  {
+    "text": "chat gpt que es lo que queremos hacer",
+    "duration": 4760,
+    "offset": 20160,
+    "lang": "es"
+  },
+  {
+    "text": "entonces hay en esto implemente",
+    "duration": 7500,
+    "offset": 21900,
+    "lang": "es"
+  },
+  {
+    "text": "Just for test y le escribo el model y",
+    "duration": 7920,
+    "offset": 24920,
+    "lang": "es"
+  },
+  {
+    "text": "ahí le doy enter",
+    "duration": 3440,
+    "offset": 29400,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ahí me va a generar el",
+    "duration": 6000,
+    "offset": 33000,
+    "lang": "es"
+  },
+  {
+    "text": "primero me dice que tengo que instalar",
+    "duration": 4361,
+    "offset": 36739,
+    "lang": "es"
+  },
+  {
+    "text": "Transformers",
+    "duration": 4379,
+    "offset": 39000,
+    "lang": "es"
+  },
+  {
+    "text": "después me dice que cree el packline",
+    "duration": 3900,
+    "offset": 41100,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que ahí me está generando el",
+    "duration": 3721,
+    "offset": 43379,
+    "lang": "es"
+  },
+  {
+    "text": "mismo código",
+    "duration": 4760,
+    "offset": 45000,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno ahí genera una lista de",
+    "duration": 5820,
+    "offset": 47100,
+    "lang": "es"
+  },
+  {
+    "text": "en varios idiomas",
+    "duration": 5380,
+    "offset": 49760,
+    "lang": "es"
+  },
+  {
+    "text": "y acá me da para que pruebe el resultado",
+    "duration": 5220,
+    "offset": 52920,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí me explica No es cierto que que es",
+    "duration": 5939,
+    "offset": 55140,
+    "lang": "es"
+  },
+  {
+    "text": "todo lo que hace ese código",
+    "duration": 5239,
+    "offset": 58140,
+    "lang": "es"
+  },
+  {
+    "text": "bueno",
+    "duration": 2300,
+    "offset": 61079,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí bueno es más me explica",
+    "duration": 6360,
+    "offset": 68100,
+    "lang": "es"
+  },
+  {
+    "text": "Qué es este qué es lo que voy a ver si",
+    "duration": 5080,
+    "offset": 70880,
+    "lang": "es"
+  },
+  {
+    "text": "acá ya me dio todo el código para probar",
+    "duration": 4440,
+    "offset": 74460,
+    "lang": "es"
+  },
+  {
+    "text": "que después yo quiero adaptar a ver si",
+    "duration": 9680,
+    "offset": 75960,
+    "lang": "es"
+  },
+  {
+    "text": "será cierto vamos a implementarlo en",
+    "duration": 10620,
+    "offset": 78900,
+    "lang": "es"
+  },
+  {
+    "text": "Google cola primero vamos a copiar el",
+    "duration": 6060,
+    "offset": 85640,
+    "lang": "es"
+  },
+  {
+    "text": "código",
+    "duration": 2180,
+    "offset": 89520,
+    "lang": "es"
+  },
+  {
+    "text": "ya lo copiamos Entonces ahora vamos a",
+    "duration": 4761,
+    "offset": 92759,
+    "lang": "es"
+  },
+  {
+    "text": "Google",
+    "duration": 2540,
+    "offset": 97560,
+    "lang": "es"
+  },
+  {
+    "text": "que sirve para ejecutar python en línea",
+    "duration": 6780,
+    "offset": 102540,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ir abajo de todo vamos a generar",
+    "duration": 6579,
+    "offset": 105500,
+    "lang": "es"
+  },
+  {
+    "text": "una nueva instancia de código ahí",
+    "duration": 4799,
+    "offset": 109320,
+    "lang": "es"
+  },
+  {
+    "text": "pegamos el código Pero antes nos había",
+    "duration": 4161,
+    "offset": 112079,
+    "lang": "es"
+  },
+  {
+    "text": "dicho que teníamos que hacer",
+    "duration": 7021,
+    "offset": 114119,
+    "lang": "es"
+  },
+  {
+    "text": "el pib install Transformers entonces acá",
+    "duration": 9580,
+    "offset": 116240,
+    "lang": "es"
+  },
+  {
+    "text": "primero instalamos Transformers",
+    "duration": 4680,
+    "offset": 121140,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí está haciendo la instalación vamos a",
+    "duration": 6379,
+    "offset": 137220,
+    "lang": "es"
+  },
+  {
+    "text": "esperar que termine de ejecutarse",
+    "duration": 4339,
+    "offset": 139260,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí está haciendo toda la instalación",
+    "duration": 4620,
+    "offset": 149780,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a guardar",
+    "duration": 5600,
+    "offset": 152940,
+    "lang": "es"
+  },
+  {
+    "text": "que termine de ejecutarse",
+    "duration": 4140,
+    "offset": 154400,
+    "lang": "es"
+  },
+  {
+    "text": "listo ahí Ya se instaló Entonces ahora",
+    "duration": 5220,
+    "offset": 160620,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a correr el código que nos había",
+    "duration": 6120,
+    "offset": 162920,
+    "lang": "es"
+  },
+  {
+    "text": "sugerido el charge ppt",
+    "duration": 3200,
+    "offset": 165840,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que está en inglés en alemán y",
+    "duration": 7319,
+    "offset": 172920,
+    "lang": "es"
+  },
+  {
+    "text": "en francés porque bueno el modelo",
+    "duration": 4920,
+    "offset": 177599,
+    "lang": "es"
+  },
+  {
+    "text": "soporta varios idiomas también si",
+    "duration": 4080,
+    "offset": 180239,
+    "lang": "es"
+  },
+  {
+    "text": "queremos Podemos agregar uno más en",
+    "duration": 4321,
+    "offset": 182519,
+    "lang": "es"
+  },
+  {
+    "text": "español cierto o todos en español no sé",
+    "duration": 5941,
+    "offset": 184319,
+    "lang": "es"
+  },
+  {
+    "text": "cómo querramos ahí primero se baja ahí",
+    "duration": 6720,
+    "offset": 186840,
+    "lang": "es"
+  },
+  {
+    "text": "lo que está bajando es el modelo se baja",
+    "duration": 4740,
+    "offset": 190260,
+    "lang": "es"
+  },
+  {
+    "text": "se va a bajar a nuestra máquina local",
+    "duration": 5399,
+    "offset": 193560,
+    "lang": "es"
+  },
+  {
+    "text": "este caso se baja a Google y una vez que",
+    "duration": 5819,
+    "offset": 195000,
+    "lang": "es"
+  },
+  {
+    "text": "se instala el modelo va a empezar a",
+    "duration": 3481,
+    "offset": 198959,
+    "lang": "es"
+  },
+  {
+    "text": "correr",
+    "duration": 5041,
+    "offset": 200819,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí está ven que lo clasifica",
+    "duration": 6799,
+    "offset": 202440,
+    "lang": "es"
+  },
+  {
+    "text": "el que es bueno 5 estrellas",
+    "duration": 5760,
+    "offset": 205860,
+    "lang": "es"
+  },
+  {
+    "text": "acá dice que es una película terrible",
+    "duration": 7181,
+    "offset": 209239,
+    "lang": "es"
+  },
+  {
+    "text": "una estrella dice itch product yo este a",
+    "duration": 7619,
+    "offset": 211620,
+    "lang": "es"
+  },
+  {
+    "text": "mí me gusta este producto porque",
+    "duration": 4399,
+    "offset": 216420,
+    "lang": "es"
+  },
+  {
+    "text": "funciona muy bien",
+    "duration": 4461,
+    "offset": 219239,
+    "lang": "es"
+  },
+  {
+    "text": "5 estrellas",
+    "duration": 5441,
+    "offset": 220819,
+    "lang": "es"
+  },
+  {
+    "text": "y bueno Y acá no sé qué dirá en francés",
+    "duration": 4119,
+    "offset": 223700,
+    "lang": "es"
+  },
+  {
+    "text": "pero también se ve que habla bien porque",
+    "duration": 3500,
+    "offset": 226260,
+    "lang": "es"
+  },
+  {
+    "text": "este",
+    "duration": 6000,
+    "offset": 227819,
+    "lang": "es"
+  },
+  {
+    "text": "ya en Ese par le pa acá le dio cinco",
+    "duration": 6240,
+    "offset": 229760,
+    "lang": "es"
+  },
+  {
+    "text": "estrellas",
+    "duration": 2181,
+    "offset": 233819,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,536 @@
+[
+  {
+    "text": "vamos a usar este documento que describe",
+    "duration": 7160,
+    "offset": 840,
+    "lang": "es"
+  },
+  {
+    "text": "fluidodinámica ecuación de bernou fluido",
+    "duration": 5920,
+    "offset": 5160,
+    "lang": "es"
+  },
+  {
+    "text": "ideal de física 1 para hacer un ejemplo",
+    "duration": 6480,
+    "offset": 8000,
+    "lang": "es"
+  },
+  {
+    "text": "de rack multimodal y vamos a poner en el",
+    "duration": 7080,
+    "offset": 11080,
+    "lang": "es"
+  },
+  {
+    "text": "prom tanto texto como",
+    "duration": 3680,
+    "offset": 14480,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes tenemos acá un código en python",
+    "duration": 7160,
+    "offset": 18320,
+    "lang": "es"
+  },
+  {
+    "text": "que lo que hace es generar embeddings",
+    "duration": 6640,
+    "offset": 22320,
+    "lang": "es"
+  },
+  {
+    "text": "multimodales con image bind de meta esos",
+    "duration": 6599,
+    "offset": 25480,
+    "lang": "es"
+  },
+  {
+    "text": "embeddings multimodales primero toma el",
+    "duration": 6960,
+    "offset": 28960,
+    "lang": "es"
+  },
+  {
+    "text": "PDF ese PDF lo parte separando las",
+    "duration": 6800,
+    "offset": 32079,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes de el texto pero guardando",
+    "duration": 5159,
+    "offset": 35920,
+    "lang": "es"
+  },
+  {
+    "text": "referencia a el lugar donde se",
+    "duration": 5200,
+    "offset": 38879,
+    "lang": "es"
+  },
+  {
+    "text": "encuentran las imágenes todos tanto",
+    "duration": 5480,
+    "offset": 41079,
+    "lang": "es"
+  },
+  {
+    "text": "imagen como texto lo guardan embeddings",
+    "duration": 6201,
+    "offset": 44079,
+    "lang": "es"
+  },
+  {
+    "text": "de 1024 en la base de datos kdb los",
+    "duration": 7680,
+    "offset": 46559,
+    "lang": "es"
+  },
+  {
+    "text": "embeddings los genera con image bind una",
+    "duration": 5880,
+    "offset": 50280,
+    "lang": "es"
+  },
+  {
+    "text": "vez que está guardado en la base de",
+    "duration": 4160,
+    "offset": 54239,
+    "lang": "es"
+  },
+  {
+    "text": "datos acá guardamos el media type el",
+    "duration": 4719,
+    "offset": 56160,
+    "lang": "es"
+  },
+  {
+    "text": "page number",
+    "duration": 4480,
+    "offset": 58399,
+    "lang": "es"
+  },
+  {
+    "text": "y acá guardamos los embeddings y le",
+    "duration": 4081,
+    "offset": 60879,
+    "lang": "es"
+  },
+  {
+    "text": "explicamos que para hacer la búsqueda",
+    "duration": 4201,
+    "offset": 62879,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a usar similaridad de coseno el",
+    "duration": 4360,
+    "offset": 64960,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmo de similaridad de",
+    "duration": 4760,
+    "offset": 67080,
+    "lang": "es"
+  },
+  {
+    "text": "coseno una vez que tenemos la base de",
+    "duration": 5159,
+    "offset": 69320,
+    "lang": "es"
+  },
+  {
+    "text": "datos cargada lo primero que hacemos Es",
+    "duration": 5880,
+    "offset": 71840,
+    "lang": "es"
+  },
+  {
+    "text": "un promt para ver el retrial de la base",
+    "duration": 6241,
+    "offset": 74479,
+    "lang": "es"
+  },
+  {
+    "text": "de datos y vemos Que efectivamente la",
+    "duration": 6000,
+    "offset": 77720,
+    "lang": "es"
+  },
+  {
+    "text": "base de datos guardó tanto texto como",
+    "duration": 4960,
+    "offset": 80720,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes porque en el",
+    "duration": 4960,
+    "offset": 83720,
+    "lang": "es"
+  },
+  {
+    "text": "retrial cuando nosotros hacemos el query",
+    "duration": 5280,
+    "offset": 85680,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos el query tanto de las imágenes",
+    "duration": 8719,
+    "offset": 88680,
+    "lang": "es"
+  },
+  {
+    "text": "como de el texto en el caso de la de el",
+    "duration": 10519,
+    "offset": 90960,
+    "lang": "es"
+  },
+  {
+    "text": "texto lo mostramos con un print y en el",
+    "duration": 6320,
+    "offset": 97399,
+    "lang": "es"
+  },
+  {
+    "text": "caso de las imágenes lo mostramos con un",
+    "duration": 5721,
+    "offset": 101479,
+    "lang": "es"
+  },
+  {
+    "text": "display pero ambos vienen de queries de",
+    "duration": 5281,
+    "offset": 103719,
+    "lang": "es"
+  },
+  {
+    "text": "la base de datos y están guardad con",
+    "duration": 5320,
+    "offset": 107200,
+    "lang": "es"
+  },
+  {
+    "text": "embeddings de la misma dimensión después",
+    "duration": 4880,
+    "offset": 109000,
+    "lang": "es"
+  },
+  {
+    "text": "cargamos",
+    "duration": 3559,
+    "offset": 112520,
+    "lang": "es"
+  },
+  {
+    "text": "un sistema",
+    "duration": 4080,
+    "offset": 113880,
+    "lang": "es"
+  },
+  {
+    "text": "multimodal un",
+    "duration": 5601,
+    "offset": 116079,
+    "lang": "es"
+  },
+  {
+    "text": "llm multimodal en este caso sería un lmm",
+    "duration": 8920,
+    "offset": 117960,
+    "lang": "es"
+  },
+  {
+    "text": "que es gemini 1.5 y con gemini 1.5",
+    "duration": 8840,
+    "offset": 121680,
+    "lang": "es"
+  },
+  {
+    "text": "flash generamos un prompt Y realizamos",
+    "duration": 6359,
+    "offset": 126880,
+    "lang": "es"
+  },
+  {
+    "text": "el query sobre el retrial que había",
+    "duration": 4560,
+    "offset": 130520,
+    "lang": "es"
+  },
+  {
+    "text": "hecho la base de datos le preguntamos",
+    "duration": 4561,
+    "offset": 133239,
+    "lang": "es"
+  },
+  {
+    "text": "Qué es un fluido ideal y acá nos dice",
+    "duration": 5080,
+    "offset": 135080,
+    "lang": "es"
+  },
+  {
+    "text": "Qué es un fluido ideal y nos muestra el",
+    "duration": 5320,
+    "offset": 137800,
+    "lang": "es"
+  },
+  {
+    "text": "gráfico un gráfico ilustrativo de fluido",
+    "duration": 6600,
+    "offset": 140160,
+    "lang": "es"
+  },
+  {
+    "text": "ideal que trajo por similaridad ahora",
+    "duration": 6800,
+    "offset": 143120,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que pasa Nosotros le vamos a",
+    "duration": 7960,
+    "offset": 146760,
+    "lang": "es"
+  },
+  {
+    "text": "ingresar esta imagen que se ve acá como",
+    "duration": 9599,
+    "offset": 149920,
+    "lang": "es"
+  },
+  {
+    "text": "promt en cambio de ponerle como promt",
+    "duration": 8599,
+    "offset": 154720,
+    "lang": "es"
+  },
+  {
+    "text": "un en cambio de ponerle como promt un",
+    "duration": 6681,
+    "offset": 159519,
+    "lang": "es"
+  },
+  {
+    "text": "texto el promt va a ser una imagen y acá",
+    "duration": 5000,
+    "offset": 163319,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que estamos encuestando el",
+    "duration": 5360,
+    "offset": 166200,
+    "lang": "es"
+  },
+  {
+    "text": "modelo Pero en cambio de ponerle",
+    "duration": 5761,
+    "offset": 168319,
+    "lang": "es"
+  },
+  {
+    "text": "un en cambio de ponerle un texto como",
+    "duration": 5399,
+    "offset": 171560,
+    "lang": "es"
+  },
+  {
+    "text": "prompt como prompt le estamos poniendo",
+    "duration": 3879,
+    "offset": 174080,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 4881,
+    "offset": 176959,
+    "lang": "es"
+  },
+  {
+    "text": "imagen la imagen",
+    "duration": 3881,
+    "offset": 177959,
+    "lang": "es"
+  },
+  {
+    "text": "esta que es la que nos va a describir es",
+    "duration": 5401,
+    "offset": 182959,
+    "lang": "es"
+  },
+  {
+    "text": "esta imagen que vemos acá acá le pedimos",
+    "duration": 4761,
+    "offset": 186239,
+    "lang": "es"
+  },
+  {
+    "text": "que nos describa y nos dice la imagen",
+    "duration": 4599,
+    "offset": 188360,
+    "lang": "es"
+  },
+  {
+    "text": "muestra un diagrama de un sistema de",
+    "duration": 4120,
+    "offset": 191000,
+    "lang": "es"
+  },
+  {
+    "text": "flujo de fluido de control que se",
+    "duration": 4481,
+    "offset": 192959,
+    "lang": "es"
+  },
+  {
+    "text": "muestra como un cono Está marcado con un",
+    "duration": 4000,
+    "offset": 195120,
+    "lang": "es"
+  },
+  {
+    "text": "elemento de fluido pequeño en su",
+    "duration": 4240,
+    "offset": 197440,
+    "lang": "es"
+  },
+  {
+    "text": "interior que representan las líneas de",
+    "duration": 4080,
+    "offset": 199120,
+    "lang": "es"
+  },
+  {
+    "text": "corriente que muestran la dirección del",
+    "duration": 3479,
+    "offset": 201680,
+    "lang": "es"
+  },
+  {
+    "text": "fluido el fluido ingresa al cono por el",
+    "duration": 4080,
+    "offset": 203200,
+    "lang": "es"
+  },
+  {
+    "text": "lado izquierdo y sale por el lado",
+    "duration": 5121,
+    "offset": 205159,
+    "lang": "es"
+  },
+  {
+    "text": "derecho",
+    "duration": 3000,
+    "offset": 207280,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que acá está mostrando ven la",
+    "duration": 4161,
+    "offset": 210959,
+    "lang": "es"
+  },
+  {
+    "text": "dirección de entrada y la dirección de",
+    "duration": 4321,
+    "offset": 213439,
+    "lang": "es"
+  },
+  {
+    "text": "salida y qué es lo que sucede con las",
+    "duration": 5440,
+    "offset": 215120,
+    "lang": "es"
+  },
+  {
+    "text": "líneas de corriente y explica Qué",
+    "duration": 5320,
+    "offset": 217760,
+    "lang": "es"
+  },
+  {
+    "text": "representan cada uno de los elementos",
+    "duration": 5399,
+    "offset": 220560,
+    "lang": "es"
+  },
+  {
+    "text": "que se ven en la figura O sea si yo",
+    "duration": 5239,
+    "offset": 223080,
+    "lang": "es"
+  },
+  {
+    "text": "tengo la figura me ayuda mucho a",
+    "duration": 5441,
+    "offset": 225959,
+    "lang": "es"
+  },
+  {
+    "text": "comprender porque yo le puse la figura",
+    "duration": 5200,
+    "offset": 228319,
+    "lang": "es"
+  },
+  {
+    "text": "en función de lo que yo había ingresado",
+    "duration": 5640,
+    "offset": 231400,
+    "lang": "es"
+  },
+  {
+    "text": "en el contenido me responde y yo de esa",
+    "duration": 5920,
+    "offset": 233519,
+    "lang": "es"
+  },
+  {
+    "text": "manera puedo aprender o puedo ver de qué",
+    "duration": 4320,
+    "offset": 237040,
+    "lang": "es"
+  },
+  {
+    "text": "se trata este",
+    "duration": 5080,
+    "offset": 239439,
+    "lang": "es"
+  },
+  {
+    "text": "gráfico tanto proms multimodal Recuerden",
+    "duration": 5360,
+    "offset": 241360,
+    "lang": "es"
+  },
+  {
+    "text": "proms que son pueden ser videos que",
+    "duration": 3881,
+    "offset": 244519,
+    "lang": "es"
+  },
+  {
+    "text": "pueden ser imágenes o que pueden ser",
+    "duration": 3320,
+    "offset": 246720,
+    "lang": "es"
+  },
+  {
+    "text": "texto como hicimos acá primero con un",
+    "duration": 5600,
+    "offset": 248400,
+    "lang": "es"
+  },
+  {
+    "text": "texto después con una imagen",
+    "duration": 3960,
+    "offset": 250040,
+    "lang": "es"
+  }
+]

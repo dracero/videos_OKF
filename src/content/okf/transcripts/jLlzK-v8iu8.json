@@ -1,0 +1,188 @@
+[
+  {
+    "text": "Bueno entonces ahora con este código",
+    "duration": 4999,
+    "offset": 1360,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a bajar ultralytics",
+    "duration": 7400,
+    "offset": 3600,
+    "lang": "es"
+  },
+  {
+    "text": "definimos la variable home acá vamos a",
+    "duration": 7801,
+    "offset": 6359,
+    "lang": "es"
+  },
+  {
+    "text": "bajar el modelo que entrenamos recién",
+    "duration": 5440,
+    "offset": 11000,
+    "lang": "es"
+  },
+  {
+    "text": "Esta es la versión dos ven que acá dice",
+    "duration": 6359,
+    "offset": 14160,
+    "lang": "es"
+  },
+  {
+    "text": "versión dos ahí bajamos el modelo a este",
+    "duration": 6960,
+    "offset": 16440,
+    "lang": "es"
+  },
+  {
+    "text": "directorio le tenemos que",
+    "duration": 6201,
+    "offset": 20519,
+    "lang": "es"
+  },
+  {
+    "text": "poner datasets porque es el nombre que",
+    "duration": 5879,
+    "offset": 23400,
+    "lang": "es"
+  },
+  {
+    "text": "necesita después el Script de",
+    "duration": 4719,
+    "offset": 26720,
+    "lang": "es"
+  },
+  {
+    "text": "ultralytics para poder entrenarlo y",
+    "duration": 8081,
+    "offset": 29279,
+    "lang": "es"
+  },
+  {
+    "text": "dentro de datasets vamos a Data Data yam",
+    "duration": 9521,
+    "offset": 31439,
+    "lang": "es"
+  },
+  {
+    "text": "y acá borramos todo esto y dejamos",
+    "duration": 7080,
+    "offset": 37360,
+    "lang": "es"
+  },
+  {
+    "text": "solamente train images y valid images",
+    "duration": 7680,
+    "offset": 40960,
+    "lang": "es"
+  },
+  {
+    "text": "como directorios lo",
+    "duration": 4200,
+    "offset": 44440,
+    "lang": "es"
+  },
+  {
+    "text": "grabamos esto ya está ya lo bajamos y",
+    "duration": 6040,
+    "offset": 49199,
+    "lang": "es"
+  },
+  {
+    "text": "ahora vamos a ir al proceso de",
+    "duration": 6280,
+    "offset": 52640,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento primero bajamos el",
+    "duration": 8401,
+    "offset": 55239,
+    "lang": "es"
+  },
+  {
+    "text": "modelo y creamos el archivo para hacer",
+    "duration": 8519,
+    "offset": 58920,
+    "lang": "es"
+  },
+  {
+    "text": "el transfer learning de los pesos y acá",
+    "duration": 5360,
+    "offset": 63640,
+    "lang": "es"
+  },
+  {
+    "text": "si tenemos todo",
+    "duration": 6720,
+    "offset": 67439,
+    "lang": "es"
+  },
+  {
+    "text": "bien va a empezar a entrenar el",
+    "duration": 8720,
+    "offset": 69000,
+    "lang": "es"
+  },
+  {
+    "text": "modelo que nosotros le indicamos en Data",
+    "duration": 7041,
+    "offset": 74159,
+    "lang": "es"
+  },
+  {
+    "text": "yam bien Ahora va a empezar a a",
+    "duration": 5800,
+    "offset": 77720,
+    "lang": "es"
+  },
+  {
+    "text": "entrenarlo va a tardar un rato pero",
+    "duration": 6239,
+    "offset": 81200,
+    "lang": "es"
+  },
+  {
+    "text": "bueno cuando termine va a estar el el",
+    "duration": 4760,
+    "offset": 83520,
+    "lang": "es"
+  },
+  {
+    "text": "modelo",
+    "duration": 3921,
+    "offset": 87439,
+    "lang": "es"
+  },
+  {
+    "text": "hecho con tuning fíjense que acá creo un",
+    "duration": 5159,
+    "offset": 88280,
+    "lang": "es"
+  },
+  {
+    "text": "directorio rans después les voy a",
+    "duration": 3560,
+    "offset": 91360,
+    "lang": "es"
+  },
+  {
+    "text": "mostrar como dentro de ese directorio",
+    "duration": 5601,
+    "offset": 93439,
+    "lang": "es"
+  },
+  {
+    "text": "rans tengo los pesos del modelo",
+    "duration": 4120,
+    "offset": 94920,
+    "lang": "es"
+  },
+  {
+    "text": "entrenado",
+    "duration": 3000,
+    "offset": 99320,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "text": "Tenemos acá un problema que hicimos en",
+    "duration": 6039,
+    "offset": 2560,
+    "lang": "es"
+  },
+  {
+    "text": "Notebook LM. Al Notebook LM le pedimos",
+    "duration": 5399,
+    "offset": 5160,
+    "lang": "es"
+  },
+  {
+    "text": "que lo resolviera en modo socrático,",
+    "duration": 3960,
+    "offset": 8599,
+    "lang": "es"
+  },
+  {
+    "text": "porque nuestra idea era no que resuelva",
+    "duration": 4401,
+    "offset": 10559,
+    "lang": "es"
+  },
+  {
+    "text": "el problema, sino que vaya guiando al",
+    "duration": 5121,
+    "offset": 12559,
+    "lang": "es"
+  },
+  {
+    "text": "alumno para que el alumno lo resuelva.",
+    "duration": 4120,
+    "offset": 14960,
+    "lang": "es"
+  },
+  {
+    "text": "Le pusimos que lo hiciera en modo",
+    "duration": 3679,
+    "offset": 17680,
+    "lang": "es"
+  },
+  {
+    "text": "socrático, pero lo resolvió completo y",
+    "duration": 5279,
+    "offset": 19080,
+    "lang": "es"
+  },
+  {
+    "text": "no dio la oportunidad a interacción.",
+    "duration": 6441,
+    "offset": 21359,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora tenemos este sistema. Este es un",
+    "duration": 5361,
+    "offset": 24359,
+    "lang": "es"
+  },
+  {
+    "text": "sistema que está creado con tres",
+    "duration": 4319,
+    "offset": 27800,
+    "lang": "es"
+  },
+  {
+    "text": "agentes, como el sistema que venimos",
+    "duration": 5600,
+    "offset": 29720,
+    "lang": "es"
+  },
+  {
+    "text": "usando normalmente para tutor virtual de",
+    "duration": 5841,
+    "offset": 32119,
+    "lang": "es"
+  },
+  {
+    "text": "las materias de ciencias básicas.",
+    "duration": 5360,
+    "offset": 35320,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, a su vez tiene es una aplicación",
+    "duration": 6520,
+    "offset": 37960,
+    "lang": "es"
+  },
+  {
+    "text": "full stack porque usa el protocolo AGUI",
+    "duration": 7600,
+    "offset": 40680,
+    "lang": "es"
+  },
+  {
+    "text": "agent using interface eh para comunicar",
+    "duration": 5640,
+    "offset": 44480,
+    "lang": "es"
+  },
+  {
+    "text": "el backend de Python con un frontend",
+    "duration": 3439,
+    "offset": 48280,
+    "lang": "es"
+  },
+  {
+    "text": "hecho en Next, o sea, que esta es una",
+    "duration": 4079,
+    "offset": 50120,
+    "lang": "es"
+  },
+  {
+    "text": "aplicación full stack web que corre en",
+    "duration": 4121,
+    "offset": 51719,
+    "lang": "es"
+  },
+  {
+    "text": "una máquina local o que se puede",
+    "duration": 4921,
+    "offset": 54199,
+    "lang": "es"
+  },
+  {
+    "text": "depollar para que corra desde una web.",
+    "duration": 5399,
+    "offset": 55840,
+    "lang": "es"
+  },
+  {
+    "text": "La característica distintiva es que",
+    "duration": 5119,
+    "offset": 59120,
+    "lang": "es"
+  },
+  {
+    "text": "tiene Dispa y Shepa y Dispy Shepa es un",
+    "duration": 5641,
+    "offset": 61239,
+    "lang": "es"
+  },
+  {
+    "text": "optimizador de prom y a su vez tiene",
+    "duration": 4880,
+    "offset": 64239,
+    "lang": "es"
+  },
+  {
+    "text": "configurado LMI para seguir toda la",
+    "duration": 4320,
+    "offset": 66880,
+    "lang": "es"
+  },
+  {
+    "text": "acción que hay entre el alumno y el",
+    "duration": 6040,
+    "offset": 69119,
+    "lang": "es"
+  },
+  {
+    "text": "sistema. Nuestra idea es clonar a un",
+    "duration": 6959,
+    "offset": 71200,
+    "lang": "es"
+  },
+  {
+    "text": "profesor, o sea, que el sistema explique",
+    "duration": 5041,
+    "offset": 75159,
+    "lang": "es"
+  },
+  {
+    "text": "de la misma manera que explicaría un",
+    "duration": 3721,
+    "offset": 78159,
+    "lang": "es"
+  },
+  {
+    "text": "profesor. Para eso es que está la",
+    "duration": 4360,
+    "offset": 80200,
+    "lang": "es"
+  },
+  {
+    "text": "optimización de prompting. Como explica",
+    "duration": 4559,
+    "offset": 81880,
+    "lang": "es"
+  },
+  {
+    "text": "de la misma manera que explicaría un",
+    "duration": 3760,
+    "offset": 84560,
+    "lang": "es"
+  },
+  {
+    "text": "profesor después de haber optimizado el",
+    "duration": 5000,
+    "offset": 86439,
+    "lang": "es"
+  },
+  {
+    "text": "prompt, también pasa a modo socrático.",
+    "duration": 6479,
+    "offset": 88320,
+    "lang": "es"
+  },
+  {
+    "text": "Este es el mismo prompto, copy paste, el",
+    "duration": 4881,
+    "offset": 91439,
+    "lang": "es"
+  },
+  {
+    "text": "que le dijimos que luciera en modo",
+    "duration": 4441,
+    "offset": 94799,
+    "lang": "es"
+  },
+  {
+    "text": "socrático. Y fíjense que acá lejos de",
+    "duration": 6479,
+    "offset": 96320,
+    "lang": "es"
+  },
+  {
+    "text": "resolverlo, lo que va haciendo es ir",
+    "duration": 6040,
+    "offset": 99240,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo que el alumno razone sobre el",
+    "duration": 5521,
+    "offset": 102799,
+    "lang": "es"
+  },
+  {
+    "text": "problema. Lo hace con las instrucciones",
+    "duration": 4720,
+    "offset": 105280,
+    "lang": "es"
+  },
+  {
+    "text": "que nosotros le dimos de cómo nos",
+    "duration": 4079,
+    "offset": 108320,
+    "lang": "es"
+  },
+  {
+    "text": "gustaría que explicara y con el material",
+    "duration": 4719,
+    "offset": 110000,
+    "lang": "es"
+  },
+  {
+    "text": "que nosotros mismos hemos curado para",
+    "duration": 7961,
+    "offset": 112399,
+    "lang": "es"
+  },
+  {
+    "text": "que realice la tarea. Fíjense acá",
+    "duration": 8320,
+    "offset": 114719,
+    "lang": "es"
+  },
+  {
+    "text": "después de hacer muchas preguntas",
+    "duration": 4160,
+    "offset": 120360,
+    "lang": "es"
+  },
+  {
+    "text": "me hizo detectar cuál era la fuerza",
+    "duration": 3440,
+    "offset": 123039,
+    "lang": "es"
+  },
+  {
+    "text": "horizontal y demás.",
+    "duration": 4079,
+    "offset": 124520,
+    "lang": "es"
+  },
+  {
+    "text": "eh",
+    "duration": 5840,
+    "offset": 126479,
+    "lang": "es"
+  },
+  {
+    "text": "me dice que tengo que definir un origen",
+    "duration": 6401,
+    "offset": 128599,
+    "lang": "es"
+  },
+  {
+    "text": "para el sistema de coordenadas",
+    "duration": 4481,
+    "offset": 132319,
+    "lang": "es"
+  },
+  {
+    "text": "e",
+    "duration": 3959,
+    "offset": 135000,
+    "lang": "es"
+  },
+  {
+    "text": "y que eso simplifica y también dice",
+    "duration": 3519,
+    "offset": 136800,
+    "lang": "es"
+  },
+  {
+    "text": "cuáles son las masas y la longitud de la",
+    "duration": 3161,
+    "offset": 138959,
+    "lang": "es"
+  },
+  {
+    "text": "plataforma. Masa del chico, masa de la",
+    "duration": 4441,
+    "offset": 140319,
+    "lang": "es"
+  },
+  {
+    "text": "plataforma. Inicialmente está. Entonces",
+    "duration": 5920,
+    "offset": 142120,
+    "lang": "es"
+  },
+  {
+    "text": "le voy a decir quiero",
+    "duration": 8960,
+    "offset": 144760,
+    "lang": "es"
+  },
+  {
+    "text": "poner mi sistema de",
+    "duration": 8680,
+    "offset": 148040,
+    "lang": "es"
+  },
+  {
+    "text": "coordenadas.",
+    "duration": 3000,
+    "offset": 153720,
+    "lang": "es"
+  },
+  {
+    "text": "fijo",
+    "duration": 5239,
+    "offset": 158080,
+    "lang": "es"
+  },
+  {
+    "text": "a tierra en el",
+    "duration": 6000,
+    "offset": 159760,
+    "lang": "es"
+  },
+  {
+    "text": "extremo",
+    "duration": 5601,
+    "offset": 163319,
+    "lang": "es"
+  },
+  {
+    "text": "izquierdo de la",
+    "duration": 5080,
+    "offset": 165760,
+    "lang": "es"
+  },
+  {
+    "text": "plataforma",
+    "duration": 5080,
+    "offset": 168920,
+    "lang": "es"
+  },
+  {
+    "text": "y ubicar",
+    "duration": 5520,
+    "offset": 170840,
+    "lang": "es"
+  },
+  {
+    "text": "inicialmente",
+    "duration": 5040,
+    "offset": 174000,
+    "lang": "es"
+  },
+  {
+    "text": "al chico en",
+    "duration": 5760,
+    "offset": 176360,
+    "lang": "es"
+  },
+  {
+    "text": "esa posición.",
+    "duration": 4400,
+    "offset": 179040,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces le dije, \"Quiero un sistema de",
+    "duration": 3560,
+    "offset": 182120,
+    "lang": "es"
+  },
+  {
+    "text": "coordenadas fijo a tierra en el extremo",
+    "duration": 5560,
+    "offset": 183440,
+    "lang": "es"
+  },
+  {
+    "text": "izquierdo de la plataforma y ubicar el",
+    "duration": 6760,
+    "offset": 185680,
+    "lang": "es"
+  },
+  {
+    "text": "chico en esa posición.",
+    "duration": 10879,
+    "offset": 189000,
+    "lang": "es"
+  },
+  {
+    "text": "El centro de masa está a L sobre 2 =",
+    "duration": 10680,
+    "offset": 192440,
+    "lang": "es"
+  },
+  {
+    "text": "1 m del",
+    "duration": 5920,
+    "offset": 199879,
+    "lang": "es"
+  },
+  {
+    "text": "cero de mi",
+    "duration": 5520,
+    "offset": 203120,
+    "lang": "es"
+  },
+  {
+    "text": "sistema. Entonces, le expliqué cómo voy",
+    "duration": 4401,
+    "offset": 205799,
+    "lang": "es"
+  },
+  {
+    "text": "a definir mi sistema de coordenadas.\" Y",
+    "duration": 3080,
+    "offset": 208640,
+    "lang": "es"
+  },
+  {
+    "text": "acá me dice, \"Perfecto, es una elección",
+    "duration": 3200,
+    "offset": 210200,
+    "lang": "es"
+  },
+  {
+    "text": "muy lógica y conveniente para el sistema",
+    "duration": 3079,
+    "offset": 211720,
+    "lang": "es"
+  },
+  {
+    "text": "de coordenadas.\" Entonces,",
+    "duration": 3000,
+    "offset": 213400,
+    "lang": "es"
+  },
+  {
+    "text": "recapitulando,",
+    "duration": 4921,
+    "offset": 214799,
+    "lang": "es"
+  },
+  {
+    "text": "bien, me va guiando poco a poco acerca",
+    "duration": 6720,
+    "offset": 216400,
+    "lang": "es"
+  },
+  {
+    "text": "de cómo resolver este problema, pero no",
+    "duration": 5879,
+    "offset": 219720,
+    "lang": "es"
+  },
+  {
+    "text": "me lo dice.",
+    "duration": 4119,
+    "offset": 223120,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, acá me dice, \"Bueno, ¿cómo",
+    "duration": 3481,
+    "offset": 225599,
+    "lang": "es"
+  },
+  {
+    "text": "haces para calcular el centro de masa",
+    "duration": 3560,
+    "offset": 227239,
+    "lang": "es"
+  },
+  {
+    "text": "con ese sistema de referencia que",
+    "duration": 3680,
+    "offset": 229080,
+    "lang": "es"
+  },
+  {
+    "text": "elegiste y demás?\" Imposible hacer esto",
+    "duration": 5280,
+    "offset": 230799,
+    "lang": "es"
+  },
+  {
+    "text": "sin lápiz y papel. Pero además todo el",
+    "duration": 7280,
+    "offset": 232760,
+    "lang": "es"
+  },
+  {
+    "text": "sistema está supervisado por telemetría.",
+    "duration": 8080,
+    "offset": 236079,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando el sistema LMI. Y acá vemos",
+    "duration": 7240,
+    "offset": 240040,
+    "lang": "es"
+  },
+  {
+    "text": "toda la interacción que hay entre el la",
+    "duration": 7561,
+    "offset": 244159,
+    "lang": "es"
+  },
+  {
+    "text": "máquina y el docente se puede",
+    "duration": 7959,
+    "offset": 247280,
+    "lang": "es"
+  },
+  {
+    "text": "e ver en el sistema. ¿Ves? Quiero poner,",
+    "duration": 5280,
+    "offset": 251720,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que acá está lo que yo recién le",
+    "duration": 5641,
+    "offset": 255239,
+    "lang": "es"
+  },
+  {
+    "text": "escribí y acá se ve lo que me contesta",
+    "duration": 6080,
+    "offset": 257000,
+    "lang": "es"
+  },
+  {
+    "text": "el sistema. Si el docente en algún",
+    "duration": 3840,
+    "offset": 260880,
+    "lang": "es"
+  },
+  {
+    "text": "momento dice, \"No, no es la manera en la",
+    "duration": 3760,
+    "offset": 263080,
+    "lang": "es"
+  },
+  {
+    "text": "que yo lo explicaría.\" lo que tiene que",
+    "duration": 4160,
+    "offset": 264720,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es generar",
+    "duration": 5160,
+    "offset": 266840,
+    "lang": "es"
+  },
+  {
+    "text": "el un ejemplo dentro del signature de",
+    "duration": 5960,
+    "offset": 268880,
+    "lang": "es"
+  },
+  {
+    "text": "DPY Shepa para poder ir acomodándolo y",
+    "duration": 5039,
+    "offset": 272000,
+    "lang": "es"
+  },
+  {
+    "text": "de esa manera clonar su forma de",
+    "duration": 3960,
+    "offset": 274840,
+    "lang": "es"
+  },
+  {
+    "text": "explicar o acordar entre todos los",
+    "duration": 4440,
+    "offset": 277039,
+    "lang": "es"
+  },
+  {
+    "text": "docentes la manera correcta de abordar",
+    "duration": 4959,
+    "offset": 278800,
+    "lang": "es"
+  },
+  {
+    "text": "ciertos temas o de explicar e ir dándole",
+    "duration": 4081,
+    "offset": 281479,
+    "lang": "es"
+  },
+  {
+    "text": "poco a poco las herramientas para que el",
+    "duration": 6841,
+    "offset": 283759,
+    "lang": "es"
+  },
+  {
+    "text": "alumno resuelva el ejercicio. Dí.",
+    "duration": 5040,
+    "offset": 285560,
+    "lang": "es"
+  }
+]

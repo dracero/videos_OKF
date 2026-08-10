@@ -1,0 +1,1022 @@
+[
+  {
+    "text": "vamos a mostrar Cómo utilizar rag",
+    "duration": 6600,
+    "offset": 1160,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando gemini y kudr como base de",
+    "duration": 6720,
+    "offset": 4200,
+    "lang": "es"
+  },
+  {
+    "text": "datos para leer",
+    "duration": 6520,
+    "offset": 7760,
+    "lang": "es"
+  },
+  {
+    "text": "documentos para leer dos leyes una es la",
+    "duration": 6040,
+    "offset": 10920,
+    "lang": "es"
+  },
+  {
+    "text": "ley de riesgo de trabajo y otra es la",
+    "duration": 5880,
+    "offset": 14280,
+    "lang": "es"
+  },
+  {
+    "text": "ley de contrato de trabajo Cuál es uno",
+    "duration": 4800,
+    "offset": 16960,
+    "lang": "es"
+  },
+  {
+    "text": "de los problemas más comunes que tenemos",
+    "duration": 4279,
+    "offset": 20160,
+    "lang": "es"
+  },
+  {
+    "text": "cuando usamos un llm o un chatbot es que",
+    "duration": 7080,
+    "offset": 21760,
+    "lang": "es"
+  },
+  {
+    "text": "el llm responde con su propio Corpus Y",
+    "duration": 6281,
+    "offset": 24439,
+    "lang": "es"
+  },
+  {
+    "text": "responde muchas veces es con total",
+    "duration": 5320,
+    "offset": 28840,
+    "lang": "es"
+  },
+  {
+    "text": "convicción algo que es erróneo a eso se",
+    "duration": 4880,
+    "offset": 30720,
+    "lang": "es"
+  },
+  {
+    "text": "se lo denomina",
+    "duration": 3760,
+    "offset": 34160,
+    "lang": "es"
+  },
+  {
+    "text": "alucinación para evitar las",
+    "duration": 4959,
+    "offset": 35600,
+    "lang": "es"
+  },
+  {
+    "text": "alucinaciones es que se desarrolló una",
+    "duration": 5440,
+    "offset": 37920,
+    "lang": "es"
+  },
+  {
+    "text": "metodología denominada rag lo que",
+    "duration": 6721,
+    "offset": 40559,
+    "lang": "es"
+  },
+  {
+    "text": "logramos con el rag es que el llm",
+    "duration": 6160,
+    "offset": 43360,
+    "lang": "es"
+  },
+  {
+    "text": "conteste de un contexto que sale de una",
+    "duration": 4160,
+    "offset": 47280,
+    "lang": "es"
+  },
+  {
+    "text": "base de datos particular que se llama",
+    "duration": 4719,
+    "offset": 49520,
+    "lang": "es"
+  },
+  {
+    "text": "vector Store y que no conteste de otro",
+    "duration": 5240,
+    "offset": 51440,
+    "lang": "es"
+  },
+  {
+    "text": "contexto que no sea ese Y de esa manera",
+    "duration": 4721,
+    "offset": 54239,
+    "lang": "es"
+  },
+  {
+    "text": "evitamos que alucine vamos a ver cómo",
+    "duration": 4240,
+    "offset": 56680,
+    "lang": "es"
+  },
+  {
+    "text": "funciona",
+    "duration": 3399,
+    "offset": 58960,
+    "lang": "es"
+  },
+  {
+    "text": "acá vamos a ver un ejemplo con",
+    "duration": 4760,
+    "offset": 60920,
+    "lang": "es"
+  },
+  {
+    "text": "documentos de leyes pero podría tratarse",
+    "duration": 5281,
+    "offset": 62359,
+    "lang": "es"
+  },
+  {
+    "text": "de cualquier tipo de documento inclusive",
+    "duration": 4439,
+    "offset": 65680,
+    "lang": "es"
+  },
+  {
+    "text": "como estamos utilizando gemini que es un",
+    "duration": 7400,
+    "offset": 67640,
+    "lang": "es"
+  },
+  {
+    "text": "e llm multimodal también podríamos hacer",
+    "duration": 7201,
+    "offset": 70119,
+    "lang": "es"
+  },
+  {
+    "text": "retrials con imágenes también podríamos",
+    "duration": 5200,
+    "offset": 75040,
+    "lang": "es"
+  },
+  {
+    "text": "hacer el rack con imágenes acá tenemos",
+    "duration": 5880,
+    "offset": 77320,
+    "lang": "es"
+  },
+  {
+    "text": "dos documentos Este primer documento",
+    "duration": 5680,
+    "offset": 80240,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver",
+    "duration": 7440,
+    "offset": 83200,
+    "lang": "es"
+  },
+  {
+    "text": "es la ley de contrato de trabajo y este",
+    "duration": 8320,
+    "offset": 85920,
+    "lang": "es"
+  },
+  {
+    "text": "segundo documento",
+    "duration": 6839,
+    "offset": 90640,
+    "lang": "es"
+  },
+  {
+    "text": "es el texto completo de",
+    "duration": 7199,
+    "offset": 94240,
+    "lang": "es"
+  },
+  {
+    "text": "la ley de riesgos de",
+    "duration": 3960,
+    "offset": 97479,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo esto lo vamos a ingestar en esta",
+    "duration": 6600,
+    "offset": 102640,
+    "lang": "es"
+  },
+  {
+    "text": "base de datos y después de esta misma",
+    "duration": 5680,
+    "offset": 106479,
+    "lang": "es"
+  },
+  {
+    "text": "base de datos lo vamos a leer y lo vamos",
+    "duration": 6680,
+    "offset": 109240,
+    "lang": "es"
+  },
+  {
+    "text": "a pasar por el llm para que nos dé una",
+    "duration": 5920,
+    "offset": 112159,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta en forma conversacional vamos",
+    "duration": 4799,
+    "offset": 115920,
+    "lang": "es"
+  },
+  {
+    "text": "a empezar entonces y vamos a mostrar",
+    "duration": 4761,
+    "offset": 118079,
+    "lang": "es"
+  },
+  {
+    "text": "también cómo evitamos la",
+    "duration": 4841,
+    "offset": 120719,
+    "lang": "es"
+  },
+  {
+    "text": "alucinación vamos a empezar Entonces le",
+    "duration": 4960,
+    "offset": 122840,
+    "lang": "es"
+  },
+  {
+    "text": "ponemos como rol que es",
+    "duration": 5280,
+    "offset": 125560,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 5920,
+    "offset": 127800,
+    "lang": "es"
+  },
+  {
+    "text": "un abogado",
+    "duration": 4520,
+    "offset": 130840,
+    "lang": "es"
+  },
+  {
+    "text": "experto",
+    "duration": 3320,
+    "offset": 133720,
+    "lang": "es"
+  },
+  {
+    "text": "en",
+    "duration": 5720,
+    "offset": 135360,
+    "lang": "es"
+  },
+  {
+    "text": "legislación laboral",
+    "duration": 4040,
+    "offset": 137040,
+    "lang": "es"
+  },
+  {
+    "text": "Argentina el contexto",
+    "duration": 4561,
+    "offset": 144239,
+    "lang": "es"
+  },
+  {
+    "text": "determinar los días de",
+    "duration": 3840,
+    "offset": 153920,
+    "lang": "es"
+  },
+  {
+    "text": "vacaciones en",
+    "duration": 5640,
+    "offset": 157840,
+    "lang": "es"
+  },
+  {
+    "text": "función de",
+    "duration": 6270,
+    "offset": 160400,
+    "lang": "es"
+  },
+  {
+    "text": "la de la",
+    "duration": 6960,
+    "offset": 163480,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 9289,
+    "offset": 166670,
+    "lang": "es"
+  },
+  {
+    "text": "antiedad en la empresa de",
+    "duration": 7719,
+    "offset": 170440,
+    "lang": "es"
+  },
+  {
+    "text": "un",
+    "duration": 5881,
+    "offset": 175959,
+    "lang": "es"
+  },
+  {
+    "text": "empleado y el",
+    "duration": 3681,
+    "offset": 178159,
+    "lang": "es"
+  },
+  {
+    "text": "output",
+    "duration": 3000,
+    "offset": 185120,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta indicando las",
+    "duration": 4401,
+    "offset": 189879,
+    "lang": "es"
+  },
+  {
+    "text": "leyes las cuales se basa",
+    "duration": 11441,
+    "offset": 195599,
+    "lang": "es"
+  },
+  {
+    "text": "y generamos ahora entonces la",
+    "duration": 7519,
+    "offset": 202280,
+    "lang": "es"
+  },
+  {
+    "text": "consulta Ya vimos que la base de datos",
+    "duration": 4520,
+    "offset": 207040,
+    "lang": "es"
+  },
+  {
+    "text": "había in gestado esos documentos legales",
+    "duration": 4360,
+    "offset": 209799,
+    "lang": "es"
+  },
+  {
+    "text": "y acá está respondiendo",
+    "duration": 6399,
+    "offset": 211560,
+    "lang": "es"
+  },
+  {
+    "text": "gemin Ya tomó el el prompting que",
+    "duration": 5961,
+    "offset": 214159,
+    "lang": "es"
+  },
+  {
+    "text": "habíamos hecho lo hicimos de la mejor",
+    "duration": 6161,
+    "offset": 217959,
+    "lang": "es"
+  },
+  {
+    "text": "manera posible para que",
+    "duration": 7240,
+    "offset": 220120,
+    "lang": "es"
+  },
+  {
+    "text": "este pueda responder de la forma más",
+    "duration": 7280,
+    "offset": 224120,
+    "lang": "es"
+  },
+  {
+    "text": "precisa y ahí está trayéndonos la",
+    "duration": 6200,
+    "offset": 227360,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta vamos a ver ser una respuesta",
+    "duration": 3839,
+    "offset": 231400,
+    "lang": "es"
+  },
+  {
+    "text": "bastante",
+    "duration": 4519,
+    "offset": 233560,
+    "lang": "es"
+  },
+  {
+    "text": "extensa de",
+    "duration": 6041,
+    "offset": 235239,
+    "lang": "es"
+  },
+  {
+    "text": "eh los días de vacaciones en función de",
+    "duration": 6000,
+    "offset": 238079,
+    "lang": "es"
+  },
+  {
+    "text": "la antigüedad en la empresa del empleado",
+    "duration": 5640,
+    "offset": 241280,
+    "lang": "es"
+  },
+  {
+    "text": "y nos va a indicar en Cuáles son las",
+    "duration": 5921,
+    "offset": 244079,
+    "lang": "es"
+  },
+  {
+    "text": "leyes Cuál es la jurisprudencia en la",
+    "duration": 6039,
+    "offset": 246920,
+    "lang": "es"
+  },
+  {
+    "text": "cual está basada esta",
+    "duration": 7319,
+    "offset": 250000,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta bien acá está acá",
+    "duration": 4360,
+    "offset": 252959,
+    "lang": "es"
+  },
+  {
+    "text": "llegó y acá dice bien para determinar",
+    "duration": 4039,
+    "offset": 257880,
+    "lang": "es"
+  },
+  {
+    "text": "los días vacaciones empleado en función",
+    "duration": 4081,
+    "offset": 260359,
+    "lang": "es"
+  },
+  {
+    "text": "de su antigüedad en la empresa argentina",
+    "duration": 4961,
+    "offset": 261919,
+    "lang": "es"
+  },
+  {
+    "text": "se debe considerar artículo 150 la de",
+    "duration": 5319,
+    "offset": 264440,
+    "lang": "es"
+  },
+  {
+    "text": "contrato de trabajo bien acá nos da todo",
+    "duration": 4840,
+    "offset": 266880,
+    "lang": "es"
+  },
+  {
+    "text": "cantidad de días que tiene según la",
+    "duration": 6000,
+    "offset": 269759,
+    "lang": "es"
+  },
+  {
+    "text": "antigüedad Cómo se computa la",
+    "duration": 4039,
+    "offset": 271720,
+    "lang": "es"
+  },
+  {
+    "text": "antigüedad bien vamos a hacerle otra",
+    "duration": 7400,
+    "offset": 277320,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta por ejemplo nuevamente el rol",
+    "duration": 7159,
+    "offset": 281320,
+    "lang": "es"
+  },
+  {
+    "text": "es vamos a copiar",
+    "duration": 3759,
+    "offset": 284720,
+    "lang": "es"
+  },
+  {
+    "text": "este el rol un abogado experto en",
+    "duration": 7400,
+    "offset": 289120,
+    "lang": "es"
+  },
+  {
+    "text": "legislación laboral el contexto un",
+    "duration": 6400,
+    "offset": 293120,
+    "lang": "es"
+  },
+  {
+    "text": "empleado",
+    "duration": 3000,
+    "offset": 296520,
+    "lang": "es"
+  },
+  {
+    "text": "se",
+    "duration": 2321,
+    "offset": 300919,
+    "lang": "es"
+  },
+  {
+    "text": "accidenta en el en",
+    "duration": 6600,
+    "offset": 304240,
+    "lang": "es"
+  },
+  {
+    "text": "el colectivo",
+    "duration": 5880,
+    "offset": 308360,
+    "lang": "es"
+  },
+  {
+    "text": "de regreso",
+    "duration": 6400,
+    "offset": 310840,
+    "lang": "es"
+  },
+  {
+    "text": "al trabajo y respuesta indicando las",
+    "duration": 5679,
+    "offset": 314240,
+    "lang": "es"
+  },
+  {
+    "text": "leyes en las cuales se basa",
+    "duration": 4519,
+    "offset": 317240,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 4041,
+    "offset": 319919,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces",
+    "duration": 5201,
+    "offset": 321759,
+    "lang": "es"
+  },
+  {
+    "text": "qué",
+    "duration": 3000,
+    "offset": 323960,
+    "lang": "es"
+  },
+  {
+    "text": "corresponde a hacer por",
+    "duration": 4440,
+    "offset": 327039,
+    "lang": "es"
+  },
+  {
+    "text": "parte",
+    "duration": 4600,
+    "offset": 330400,
+    "lang": "es"
+  },
+  {
+    "text": "del empleador y del",
+    "duration": 6321,
+    "offset": 331479,
+    "lang": "es"
+  },
+  {
+    "text": "empleado bien entonces acá le hacemos",
+    "duration": 4479,
+    "offset": 335000,
+    "lang": "es"
+  },
+  {
+    "text": "una pregunta de alguien que tiene un",
+    "duration": 4720,
+    "offset": 337800,
+    "lang": "es"
+  },
+  {
+    "text": "accidente yendo al trabajo siempre",
+    "duration": 5201,
+    "offset": 339479,
+    "lang": "es"
+  },
+  {
+    "text": "intentamos armar el",
+    "duration": 5399,
+    "offset": 342520,
+    "lang": "es"
+  },
+  {
+    "text": "prompting de la manera lo más explícita",
+    "duration": 5720,
+    "offset": 344680,
+    "lang": "es"
+  },
+  {
+    "text": "posible y es importante la forma en la",
+    "duration": 5000,
+    "offset": 347919,
+    "lang": "es"
+  },
+  {
+    "text": "que uno hace el prompting",
+    "duration": 4680,
+    "offset": 350400,
+    "lang": "es"
+  },
+  {
+    "text": "porque eso va a depender también el",
+    "duration": 4481,
+    "offset": 352919,
+    "lang": "es"
+  },
+  {
+    "text": "éxito de la respuesta bien Y entonces",
+    "duration": 6160,
+    "offset": 355080,
+    "lang": "es"
+  },
+  {
+    "text": "acá nos dice a experto en legislación",
+    "duration": 5239,
+    "offset": 357400,
+    "lang": "es"
+  },
+  {
+    "text": "laboral Argentina en el caso de un",
+    "duration": 2760,
+    "offset": 361240,
+    "lang": "es"
+  },
+  {
+    "text": "empleado que sufre un accidente en",
+    "duration": 3921,
+    "offset": 362639,
+    "lang": "es"
+  },
+  {
+    "text": "colectivo receso de trabajo debe anizar",
+    "duration": 4280,
+    "offset": 364000,
+    "lang": "es"
+  },
+  {
+    "text": "situación bajo la ley de riesgo de",
+    "duration": 3840,
+    "offset": 366560,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo y la ley de contrato de trabajo",
+    "duration": 4639,
+    "offset": 368280,
+    "lang": "es"
+  },
+  {
+    "text": "texto ordenado 1976 sus modificaciones",
+    "duration": 4239,
+    "offset": 370400,
+    "lang": "es"
+  },
+  {
+    "text": "responsibilidad del",
+    "duration": 4201,
+    "offset": 372919,
+    "lang": "es"
+  },
+  {
+    "text": "empleador acá dice la responsabilidad",
+    "duration": 4441,
+    "offset": 374639,
+    "lang": "es"
+  },
+  {
+    "text": "del empleador y la responsabilidad del",
+    "duration": 5280,
+    "offset": 377120,
+    "lang": "es"
+  },
+  {
+    "text": "empleado y las normas en las cuales Esto",
+    "duration": 6200,
+    "offset": 379080,
+    "lang": "es"
+  },
+  {
+    "text": "está basado Ahora qué pasa si yo",
+    "duration": 4880,
+    "offset": 382400,
+    "lang": "es"
+  },
+  {
+    "text": "nuevamente le digo que es un abogado",
+    "duration": 4520,
+    "offset": 385280,
+    "lang": "es"
+  },
+  {
+    "text": "experto en legislación Argentina y le",
+    "duration": 4639,
+    "offset": 387280,
+    "lang": "es"
+  },
+  {
+    "text": "digo",
+    "duration": 7480,
+    "offset": 389800,
+    "lang": "es"
+  },
+  {
+    "text": "que cuántos días de trabajo",
+    "duration": 5361,
+    "offset": 391919,
+    "lang": "es"
+  },
+  {
+    "text": "corresponden según",
+    "duration": 4440,
+    "offset": 398479,
+    "lang": "es"
+  },
+  {
+    "text": "el convenio de",
+    "duration": 3880,
+    "offset": 402960,
+    "lang": "es"
+  },
+  {
+    "text": "aceiteros acá nos va a tener que decir",
+    "duration": 5921,
+    "offset": 409599,
+    "lang": "es"
+  },
+  {
+    "text": "que no nos puede responder porque si nos",
+    "duration": 4521,
+    "offset": 413199,
+    "lang": "es"
+  },
+  {
+    "text": "responde va a estar alucinando",
+    "duration": 4799,
+    "offset": 415520,
+    "lang": "es"
+  },
+  {
+    "text": "justamente el rag este de desarrollo es",
+    "duration": 4800,
+    "offset": 417720,
+    "lang": "es"
+  },
+  {
+    "text": "para evitar que haya",
+    "duration": 4201,
+    "offset": 420319,
+    "lang": "es"
+  },
+  {
+    "text": "alucinaciones entonces ahí le",
+    "duration": 4079,
+    "offset": 422520,
+    "lang": "es"
+  },
+  {
+    "text": "preguntamos Cuántos días corresponden",
+    "duration": 5040,
+    "offset": 424520,
+    "lang": "es"
+  },
+  {
+    "text": "según el convenio de",
+    "duration": 2961,
+    "offset": 426599,
+    "lang": "es"
+  },
+  {
+    "text": "aceiteros bien acá está dice no puedo",
+    "duration": 4799,
+    "offset": 435800,
+    "lang": "es"
+  },
+  {
+    "text": "responder a la pregunta sobre Cuánto",
+    "duration": 5081,
+    "offset": 438759,
+    "lang": "es"
+  },
+  {
+    "text": "esto es muy importante no te dice que",
+    "duration": 5961,
+    "offset": 440599,
+    "lang": "es"
+  },
+  {
+    "text": "sobre el contexto que él tiene no puede",
+    "duration": 4759,
+    "offset": 443840,
+    "lang": "es"
+  },
+  {
+    "text": "responder a la pregunta entonces con",
+    "duration": 4880,
+    "offset": 446560,
+    "lang": "es"
+  },
+  {
+    "text": "esto no alucina no puedo responder a la",
+    "duration": 4320,
+    "offset": 448599,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta sobre cuántos días de trabajo",
+    "duration": 4039,
+    "offset": 451440,
+    "lang": "es"
+  },
+  {
+    "text": "corresponden seun el convio aceiteros",
+    "duration": 4120,
+    "offset": 452919,
+    "lang": "es"
+  },
+  {
+    "text": "porque no tengo acceso a la base de",
+    "duration": 3321,
+    "offset": 455479,
+    "lang": "es"
+  },
+  {
+    "text": "datos externas incluyendo convenios",
+    "duration": 4321,
+    "offset": 457039,
+    "lang": "es"
+  },
+  {
+    "text": "colectivos de trabajo para obtener esa",
+    "duration": 5200,
+    "offset": 458800,
+    "lang": "es"
+  },
+  {
+    "text": "información necesitaría consultar la",
+    "duration": 4600,
+    "offset": 461360,
+    "lang": "es"
+  },
+  {
+    "text": "versión más actualizada del convenio de",
+    "duration": 3280,
+    "offset": 464000,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo de aceiteros como abogado",
+    "duration": 2880,
+    "offset": 465960,
+    "lang": "es"
+  },
+  {
+    "text": "experto enación laboral Argentina te",
+    "duration": 2960,
+    "offset": 467280,
+    "lang": "es"
+  },
+  {
+    "text": "indico la información sobre la jornada",
+    "duration": 2600,
+    "offset": 468840,
+    "lang": "es"
+  },
+  {
+    "text": "laboral se encuentra regada",
+    "duration": 3560,
+    "offset": 470240,
+    "lang": "es"
+  },
+  {
+    "text": "principalmente y te da cosas de la",
+    "duration": 5879,
+    "offset": 471440,
+    "lang": "es"
+  },
+  {
+    "text": "legislación laboral Argentina pero no",
+    "duration": 6519,
+    "offset": 473800,
+    "lang": "es"
+  },
+  {
+    "text": "alucina no contesta sobre un contenido",
+    "duration": 6801,
+    "offset": 477319,
+    "lang": "es"
+  },
+  {
+    "text": "que no tiene uno le puede poner todo el",
+    "duration": 5481,
+    "offset": 480319,
+    "lang": "es"
+  },
+  {
+    "text": "contenido que quiera porque es",
+    "duration": 3280,
+    "offset": 484120,
+    "lang": "es"
+  },
+  {
+    "text": "simplemente ir agregando bloques ir",
+    "duration": 6519,
+    "offset": 485800,
+    "lang": "es"
+  },
+  {
+    "text": "agregando urls o agregando archivos o",
+    "duration": 8479,
+    "offset": 487400,
+    "lang": "es"
+  },
+  {
+    "text": "agregando documentos en formato doc Lo",
+    "duration": 6521,
+    "offset": 492319,
+    "lang": "es"
+  },
+  {
+    "text": "que uno tenga para que se convierta en",
+    "duration": 4801,
+    "offset": 495879,
+    "lang": "es"
+  },
+  {
+    "text": "fuerte información Recuerden que por",
+    "duration": 3720,
+    "offset": 498840,
+    "lang": "es"
+  },
+  {
+    "text": "tratarse de un sistema multimodal como",
+    "duration": 5079,
+    "offset": 500680,
+    "lang": "es"
+  },
+  {
+    "text": "gemina que estamos usando también",
+    "duration": 5680,
+    "offset": 502560,
+    "lang": "es"
+  },
+  {
+    "text": "podríamos tener una base de datos que",
+    "duration": 7801,
+    "offset": 505759,
+    "lang": "es"
+  },
+  {
+    "text": "tenga imágenes o que tenga sonidos",
+    "duration": 5320,
+    "offset": 508240,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "text": "y sabes que nosotros completamos el paso",
+    "duration": 6120,
+    "offset": 2210,
+    "lang": "es"
+  },
+  {
+    "text": "1 es decir una vez que a partir del",
+    "duration": 6779,
+    "offset": 5240,
+    "lang": "es"
+  },
+  {
+    "text": "problema definimos los intentos la",
+    "duration": 7080,
+    "offset": 8330,
+    "lang": "es"
+  },
+  {
+    "text": "sentís y el trade nosotros lo que vamos",
+    "duration": 5580,
+    "offset": 12019,
+    "lang": "es"
+  },
+  {
+    "text": "a hacer es ingresar esto en nuestro",
+    "duration": 4099,
+    "offset": 15410,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de lv",
+    "duration": 4381,
+    "offset": 17599,
+    "lang": "es"
+  },
+  {
+    "text": "particularmente en este caso vamos a",
+    "duration": 5741,
+    "offset": 19509,
+    "lang": "es"
+  },
+  {
+    "text": "utilizar un sistema de en el es gratuito",
+    "duration": 5549,
+    "offset": 21980,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollado por facebook que se llama",
+    "duration": 5579,
+    "offset": 25250,
+    "lang": "es"
+  },
+  {
+    "text": "with y hay una de las particularidades",
+    "duration": 6001,
+    "offset": 27529,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene es que yo a este sistema sólo",
+    "duration": 5100,
+    "offset": 30829,
+    "lang": "es"
+  },
+  {
+    "text": "puedo ingresar una cantidad limitada de",
+    "duration": 6200,
+    "offset": 33530,
+    "lang": "es"
+  },
+  {
+    "text": "palabras no le puedo ingresar",
+    "duration": 3801,
+    "offset": 35929,
+    "lang": "es"
+  },
+  {
+    "text": "todas las palabras que estaban en el",
+    "duration": 5811,
+    "offset": 40579,
+    "lang": "es"
+  },
+  {
+    "text": "texto del problema ni le puedo ingresar",
+    "duration": 7791,
+    "offset": 42739,
+    "lang": "es"
+  },
+  {
+    "text": "gráficos pero en realidad",
+    "duration": 6969,
+    "offset": 46390,
+    "lang": "es"
+  },
+  {
+    "text": "lo que va a tener que hacer el alumno es",
+    "duration": 6129,
+    "offset": 50530,
+    "lang": "es"
+  },
+  {
+    "text": "indicar en forma sintética qué es lo que",
+    "duration": 5700,
+    "offset": 53359,
+    "lang": "es"
+  },
+  {
+    "text": "le están viviendo por ejemplo acá me",
+    "duration": 4470,
+    "offset": 56659,
+    "lang": "es"
+  },
+  {
+    "text": "piden encontrar la distancia horizontal",
+    "duration": 5490,
+    "offset": 59059,
+    "lang": "es"
+  },
+  {
+    "text": "y la altura máxima de una flecha que",
+    "duration": 5251,
+    "offset": 61129,
+    "lang": "es"
+  },
+  {
+    "text": "parte con una velocidad inicial y un",
+    "duration": 4471,
+    "offset": 64549,
+    "lang": "es"
+  },
+  {
+    "text": "ángulo de inclinación",
+    "duration": 5580,
+    "offset": 66380,
+    "lang": "es"
+  },
+  {
+    "text": "ahora yo voy a escribir el intento como",
+    "duration": 6570,
+    "offset": 69020,
+    "lang": "es"
+  },
+  {
+    "text": "el intento no existe pero ustedes me han",
+    "duration": 7320,
+    "offset": 71960,
+    "lang": "es"
+  },
+  {
+    "text": "pasado acá que se trata de cinemática yo",
+    "duration": 5629,
+    "offset": 75590,
+    "lang": "es"
+  },
+  {
+    "text": "lo que voy a hacer es",
+    "duration": 4649,
+    "offset": 79280,
+    "lang": "es"
+  },
+  {
+    "text": "copiarlo le voy a sacar el acento porque",
+    "duration": 5951,
+    "offset": 81219,
+    "lang": "es"
+  },
+  {
+    "text": "con los acentos no funciona y presiono",
+    "duration": 5911,
+    "offset": 83929,
+    "lang": "es"
+  },
+  {
+    "text": "create intent",
+    "duration": 5740,
+    "offset": 87170,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ahí le dije que el intento era",
+    "duration": 6100,
+    "offset": 89840,
+    "lang": "es"
+  },
+  {
+    "text": "cinemática ahora qué es lo que pasa que",
+    "duration": 5000,
+    "offset": 92910,
+    "lang": "es"
+  },
+  {
+    "text": "es lo que determina que esto es un",
+    "duration": 6900,
+    "offset": 95940,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo un tiro oblicuo eso no se",
+    "duration": 6520,
+    "offset": 97910,
+    "lang": "es"
+  },
+  {
+    "text": "preocupen porque esto es un tema",
+    "duration": 3630,
+    "offset": 102840,
+    "lang": "es"
+  },
+  {
+    "text": "netamente del desarrollador pero eso es",
+    "duration": 4680,
+    "offset": 104430,
+    "lang": "es"
+  },
+  {
+    "text": "para que vean cómo funciona y sepan qué",
+    "duration": 3990,
+    "offset": 106470,
+    "lang": "es"
+  },
+  {
+    "text": "es lo que ustedes tienen que hacer para",
+    "duration": 4560,
+    "offset": 109110,
+    "lang": "es"
+  },
+  {
+    "text": "ayudarme a mí en la tarea de alimentar o",
+    "duration": 7940,
+    "offset": 110460,
+    "lang": "es"
+  },
+  {
+    "text": "de entrenar al sistema de nl",
+    "duration": 4730,
+    "offset": 113670,
+    "lang": "es"
+  },
+  {
+    "text": "una velocidad inicial parte con una",
+    "duration": 4271,
+    "offset": 118479,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad inicial y un ángulo de",
+    "duration": 4080,
+    "offset": 121310,
+    "lang": "es"
+  },
+  {
+    "text": "inclinación esto de acá definitivamente",
+    "duration": 5970,
+    "offset": 122750,
+    "lang": "es"
+  },
+  {
+    "text": "excelente tiro oblicuo entonces vamos a",
+    "duration": 7530,
+    "offset": 125390,
+    "lang": "es"
+  },
+  {
+    "text": "ver cómo le pusimos repusimos tiro under",
+    "duration": 8630,
+    "offset": 128720,
+    "lang": "es"
+  },
+  {
+    "text": "core doble doble",
+    "duration": 8510,
+    "offset": 132920,
+    "lang": "es"
+  },
+  {
+    "text": "y hacemos clic en create en tití",
+    "duration": 6859,
+    "offset": 137350,
+    "lang": "es"
+  },
+  {
+    "text": "bien entonces ahí creamos",
+    "duration": 7619,
+    "offset": 141430,
+    "lang": "es"
+  },
+  {
+    "text": "nuestro intent y nuestra entidad y ahora",
+    "duration": 6941,
+    "offset": 144209,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos el try que es coordenadas",
+    "duration": 7610,
+    "offset": 149049,
+    "lang": "es"
+  },
+  {
+    "text": "cartesianas entonces acá un trade",
+    "duration": 5509,
+    "offset": 151150,
+    "lang": "es"
+  },
+  {
+    "text": "cartesianas y le damos create trade",
+    "duration": 8800,
+    "offset": 157500,
+    "lang": "es"
+  },
+  {
+    "text": "bien y ahí hacemos clic en",
+    "duration": 8010,
+    "offset": 161830,
+    "lang": "es"
+  },
+  {
+    "text": "y coordenadas cartesianas y un valor acá",
+    "duration": 7820,
+    "offset": 166300,
+    "lang": "es"
+  },
+  {
+    "text": "si hacemos clic en 30 en validez",
+    "duration": 4280,
+    "offset": 169840,
+    "lang": "es"
+  }
+]

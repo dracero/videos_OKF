@@ -31,7 +31,7 @@ const lastSync = lastSyncObj?.timestamp || null;
     <div class="main-column">
       <!-- Channel Info Card -->
       <div class="channel-header-card">
-        <img src={channel.thumbnail} alt={channel.title} class="channel-large-avatar" />
+        <img src={channel.thumbnail} alt={channel.title} class="channel-large-avatar" referrerpolicy="no-referrer" />
         <div class="channel-header-info">
           <h1 class="channel-title">{channel.title}</h1>
           <span class="channel-handle">@{channel.custom_url?.replace('@', '') || channel.id}</span>
@@ -66,7 +66,7 @@ const lastSync = lastSyncObj?.timestamp || null;
           {channelVideos.map(video => (
             <a href={`/videos/${video.id}`} class="video-card">
               <div class="video-thumbnail-wrapper">
-                <img src={video.thumbnail || '/placeholder.jpg'} alt={video.title} class="video-thumbnail" loading="lazy" />
+                <img src={video.thumbnail || '/placeholder.jpg'} alt={video.title} class="video-thumbnail" loading="lazy" referrerpolicy="no-referrer" />
                 <span class="video-duration">{video.duration}</span>
               </div>
               <div class="video-card-content">

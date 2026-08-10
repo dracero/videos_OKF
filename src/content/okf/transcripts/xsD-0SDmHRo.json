@@ -1,0 +1,230 @@
+[
+  {
+    "text": "Bueno, vamos a mostrar en qué consiste",
+    "duration": 5999,
+    "offset": 840,
+    "lang": "es"
+  },
+  {
+    "text": "esta segunda etapa de",
+    "duration": 6720,
+    "offset": 3520,
+    "lang": "es"
+  },
+  {
+    "text": "la segunda etapa del proyecto Ubatic.",
+    "duration": 5361,
+    "offset": 6839,
+    "lang": "es"
+  },
+  {
+    "text": "Una vez que ya tenemos todos los",
+    "duration": 5000,
+    "offset": 10240,
+    "lang": "es"
+  },
+  {
+    "text": "chatbots funcionando,",
+    "duration": 5040,
+    "offset": 12200,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que empezar a generar",
+    "duration": 3959,
+    "offset": 15240,
+    "lang": "es"
+  },
+  {
+    "text": "interacciones.",
+    "duration": 4640,
+    "offset": 17240,
+    "lang": "es"
+  },
+  {
+    "text": "Esas interacciones se van a captar por",
+    "duration": 4481,
+    "offset": 19199,
+    "lang": "es"
+  },
+  {
+    "text": "telemetría a través de un sistema",
+    "duration": 6440,
+    "offset": 21880,
+    "lang": "es"
+  },
+  {
+    "text": "llamado Langsmith y podemos con una API",
+    "duration": 7679,
+    "offset": 23680,
+    "lang": "es"
+  },
+  {
+    "text": "de Backen tomar esas interacciones para",
+    "duration": 5040,
+    "offset": 28320,
+    "lang": "es"
+  },
+  {
+    "text": "que suceda esto que vamos a ver acá, que",
+    "duration": 4841,
+    "offset": 31359,
+    "lang": "es"
+  },
+  {
+    "text": "es ver",
+    "duration": 5560,
+    "offset": 33360,
+    "lang": "es"
+  },
+  {
+    "text": "cómo fueron o qué fue lo que sucedió en",
+    "duration": 6600,
+    "offset": 36200,
+    "lang": "es"
+  },
+  {
+    "text": "esas interacciones entre los alumnos y",
+    "duration": 7080,
+    "offset": 38920,
+    "lang": "es"
+  },
+  {
+    "text": "el sistema. Entonces, acá se carga se",
+    "duration": 6399,
+    "offset": 42800,
+    "lang": "es"
+  },
+  {
+    "text": "carga todo lo que toda la interacción.",
+    "duration": 4640,
+    "offset": 46000,
+    "lang": "es"
+  },
+  {
+    "text": "Acá tenemos un sistemita que",
+    "duration": 3601,
+    "offset": 49199,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollamos que es para hacer el",
+    "duration": 3320,
+    "offset": 50640,
+    "lang": "es"
+  },
+  {
+    "text": "análisis. Entonces, acá está la",
+    "duration": 3279,
+    "offset": 52800,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta.",
+    "duration": 5439,
+    "offset": 53960,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, acá está el contexto recuperado a",
+    "duration": 5241,
+    "offset": 56079,
+    "lang": "es"
+  },
+  {
+    "text": "través de la base de datos de esa",
+    "duration": 4441,
+    "offset": 59399,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta y en definitiva la respuesta lo",
+    "duration": 5320,
+    "offset": 61320,
+    "lang": "es"
+  },
+  {
+    "text": "que generó. Esa respuesta se puede",
+    "duration": 4560,
+    "offset": 63840,
+    "lang": "es"
+  },
+  {
+    "text": "editar.",
+    "duration": 3920,
+    "offset": 66640,
+    "lang": "es"
+  },
+  {
+    "text": "Yo acá puedo editar esa respuesta. Si a",
+    "duration": 7120,
+    "offset": 68400,
+    "lang": "es"
+  },
+  {
+    "text": "mí no me no me parece que sea correcta,",
+    "duration": 7320,
+    "offset": 70560,
+    "lang": "es"
+  },
+  {
+    "text": "yo puedo editar, puedo poner, bueno,",
+    "duration": 4959,
+    "offset": 75520,
+    "lang": "es"
+  },
+  {
+    "text": "¿qué es lo que lo que pondría yo en la",
+    "duration": 5320,
+    "offset": 77880,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta? hasta lo puedo cambiar. Le",
+    "duration": 6481,
+    "offset": 80479,
+    "lang": "es"
+  },
+  {
+    "text": "doy guardar y lo guarda. Y después lo",
+    "duration": 5919,
+    "offset": 83200,
+    "lang": "es"
+  },
+  {
+    "text": "que puedo hacer es un análisis con un",
+    "duration": 3799,
+    "offset": 86960,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de inteligencia artificial",
+    "duration": 5280,
+    "offset": 89119,
+    "lang": "es"
+  },
+  {
+    "text": "superior, en este caso es Gemini 2.5,",
+    "duration": 6481,
+    "offset": 90759,
+    "lang": "es"
+  },
+  {
+    "text": "para que el sistema analice",
+    "duration": 7641,
+    "offset": 94399,
+    "lang": "es"
+  },
+  {
+    "text": "la pregunta, el contexto y la respuesta.",
+    "duration": 4800,
+    "offset": 97240,
+    "lang": "es"
+  },
+  {
+    "text": "Acá vemos cómo sale. Sí.",
+    "duration": 4121,
+    "offset": 103159,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "text": "Bueno ahora vamos a empezar este juego",
+    "duration": 6720,
+    "offset": 1280,
+    "lang": "es"
+  },
+  {
+    "text": "pero lo voy a ir manejando yo a mano",
+    "duration": 5800,
+    "offset": 4680,
+    "lang": "es"
+  },
+  {
+    "text": "intentando que la",
+    "duration": 4280,
+    "offset": 8000,
+    "lang": "es"
+  },
+  {
+    "text": "pelotita",
+    "duration": 6440,
+    "offset": 10480,
+    "lang": "es"
+  },
+  {
+    "text": "no se vaya por el borde como",
+    "duration": 8600,
+    "offset": 12280,
+    "lang": "es"
+  },
+  {
+    "text": "ven Soy bastante malo y",
+    "duration": 8599,
+    "offset": 16920,
+    "lang": "es"
+  },
+  {
+    "text": "ahí se me fue bien bueno y ahora vamos a",
+    "duration": 6440,
+    "offset": 20880,
+    "lang": "es"
+  },
+  {
+    "text": "hacer lo mismo",
+    "duration": 6720,
+    "offset": 25519,
+    "lang": "es"
+  },
+  {
+    "text": "Pero en cambio de que lo maneje yo lo va",
+    "duration": 7200,
+    "offset": 27320,
+    "lang": "es"
+  },
+  {
+    "text": "a manejar directamente un algoritmo de",
+    "duration": 4041,
+    "offset": 32239,
+    "lang": "es"
+  },
+  {
+    "text": "aprendizaje por refuerzo que usa",
+    "duration": 3760,
+    "offset": 34520,
+    "lang": "es"
+  },
+  {
+    "text": "proximal policy",
+    "duration": 7040,
+    "offset": 36280,
+    "lang": "es"
+  },
+  {
+    "text": "optimization vamos a guardar",
+    "duration": 5040,
+    "offset": 38280,
+    "lang": "es"
+  },
+  {
+    "text": "esto vamos a buscar para iniciar el",
+    "duration": 9480,
+    "offset": 49079,
+    "lang": "es"
+  },
+  {
+    "text": "servidor cod reinform learning entonces",
+    "duration": 6599,
+    "offset": 54600,
+    "lang": "es"
+  },
+  {
+    "text": "acá se va a activar",
+    "duration": 6640,
+    "offset": 58559,
+    "lang": "es"
+  },
+  {
+    "text": "rein learning Ahí está aguardando la",
+    "duration": 6361,
+    "offset": 61199,
+    "lang": "es"
+  },
+  {
+    "text": "conexión",
+    "duration": 5361,
+    "offset": 65199,
+    "lang": "es"
+  },
+  {
+    "text": "ahora se va a",
+    "duration": 5760,
+    "offset": 67560,
+    "lang": "es"
+  },
+  {
+    "text": "conectar vamos a ver",
+    "duration": 6480,
+    "offset": 70560,
+    "lang": "es"
+  },
+  {
+    "text": "cómo ahí se va llevar adelante la",
+    "duration": 5159,
+    "offset": 73320,
+    "lang": "es"
+  },
+  {
+    "text": "conexión Y ahí",
+    "duration": 4280,
+    "offset": 77040,
+    "lang": "es"
+  },
+  {
+    "text": "empieza el entrenamiento del algoritmo",
+    "duration": 5521,
+    "offset": 78479,
+    "lang": "es"
+  },
+  {
+    "text": "de proximal policy optimization y acá",
+    "duration": 5520,
+    "offset": 81320,
+    "lang": "es"
+  },
+  {
+    "text": "vemos como lo va manejando directamente",
+    "duration": 6880,
+    "offset": 84000,
+    "lang": "es"
+  },
+  {
+    "text": "acá tenemos las dos cosas entrenar al",
+    "duration": 5360,
+    "offset": 86840,
+    "lang": "es"
+  },
+  {
+    "text": "principio se le",
+    "duration": 3919,
+    "offset": 90880,
+    "lang": "es"
+  },
+  {
+    "text": "escapa pero miren como mueve en forma",
+    "duration": 4360,
+    "offset": 92200,
+    "lang": "es"
+  },
+  {
+    "text": "individual Ahí está en el proceso de",
+    "duration": 4801,
+    "offset": 94799,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento y vamos a ver ya en unos",
+    "duration": 6160,
+    "offset": 96560,
+    "lang": "es"
+  },
+  {
+    "text": "minutos Ahí está fíjense como ahí ya lo",
+    "duration": 5640,
+    "offset": 99600,
+    "lang": "es"
+  },
+  {
+    "text": "está manejando perfecto y prácticamente",
+    "duration": 5399,
+    "offset": 102720,
+    "lang": "es"
+  },
+  {
+    "text": "la pelotita no se le escapa como lo",
+    "duration": 5600,
+    "offset": 105240,
+    "lang": "es"
+  },
+  {
+    "text": "maneja tiene un espacio de observaciones",
+    "duration": 5600,
+    "offset": 108119,
+    "lang": "es"
+  },
+  {
+    "text": "que está basado en la observación de las",
+    "duration": 6800,
+    "offset": 110840,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes del godot se comunica a través",
+    "duration": 9641,
+    "offset": 113719,
+    "lang": "es"
+  },
+  {
+    "text": "de una este apy Rest con el servidor que",
+    "duration": 8360,
+    "offset": 117640,
+    "lang": "es"
+  },
+  {
+    "text": "es el que está haciendo el entrenamiento",
+    "duration": 6039,
+    "offset": 123360,
+    "lang": "es"
+  },
+  {
+    "text": "y tiene también un espacio de acción y",
+    "duration": 5920,
+    "offset": 126000,
+    "lang": "es"
+  },
+  {
+    "text": "una función de refuerzo como todos los",
+    "duration": 4480,
+    "offset": 129399,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmos de aprendizaje por refuerzo",
+    "duration": 4440,
+    "offset": 131920,
+    "lang": "es"
+  },
+  {
+    "text": "Pero bueno particularmente este es",
+    "duration": 5601,
+    "offset": 133879,
+    "lang": "es"
+  },
+  {
+    "text": "proximal policy optimization que para",
+    "duration": 6920,
+    "offset": 136360,
+    "lang": "es"
+  },
+  {
+    "text": "este caso de escenarios continuos es uno",
+    "duration": 6240,
+    "offset": 139480,
+    "lang": "es"
+  },
+  {
+    "text": "de los más",
+    "duration": 5080,
+    "offset": 143280,
+    "lang": "es"
+  },
+  {
+    "text": "indicados fíjense como ya resuelve",
+    "duration": 4680,
+    "offset": 145720,
+    "lang": "es"
+  },
+  {
+    "text": "perfectamente El M",
+    "duration": 4840,
+    "offset": 148360,
+    "lang": "es"
+  },
+  {
+    "text": "y fíjense acá como va haciendo el",
+    "duration": 5839,
+    "offset": 150400,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento y se va",
+    "duration": 3039,
+    "offset": 153200,
+    "lang": "es"
+  },
+  {
+    "text": "Ajustando",
+    "duration": 3000,
+    "offset": 158959,
+    "lang": "es"
+  }
+]

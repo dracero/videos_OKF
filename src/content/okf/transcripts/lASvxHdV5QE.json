@@ -1,0 +1,494 @@
+[
+  {
+    "text": "Tenemos el copilot agent, lo abrimos en",
+    "duration": 8521,
+    "offset": 2639,
+    "lang": "es"
+  },
+  {
+    "text": "modo agente y configuramos dos MCP",
+    "duration": 6639,
+    "offset": 7040,
+    "lang": "es"
+  },
+  {
+    "text": "servers. Recuerden que los agentes son",
+    "duration": 4040,
+    "offset": 11160,
+    "lang": "es"
+  },
+  {
+    "text": "entes autónomos que tienen tres",
+    "duration": 4760,
+    "offset": 13679,
+    "lang": "es"
+  },
+  {
+    "text": "características principales: el LM como",
+    "duration": 5839,
+    "offset": 15200,
+    "lang": "es"
+  },
+  {
+    "text": "cerebro, la posibilidad de tener memoria",
+    "duration": 4721,
+    "offset": 18439,
+    "lang": "es"
+  },
+  {
+    "text": "y razonamiento y la posibilidad de",
+    "duration": 4361,
+    "offset": 21039,
+    "lang": "es"
+  },
+  {
+    "text": "conectarse a herramientas externas.",
+    "duration": 4119,
+    "offset": 23160,
+    "lang": "es"
+  },
+  {
+    "text": "¿Cómo lo vamos a conectar a herramientas",
+    "duration": 4799,
+    "offset": 25400,
+    "lang": "es"
+  },
+  {
+    "text": "externas? con los MCP Servers. Ahora es",
+    "duration": 5960,
+    "offset": 27279,
+    "lang": "es"
+  },
+  {
+    "text": "realmente sencillo utilizar",
+    "duration": 8001,
+    "offset": 30199,
+    "lang": "es"
+  },
+  {
+    "text": "MSP Servers en Visual Studio Code.",
+    "duration": 7840,
+    "offset": 33239,
+    "lang": "es"
+  },
+  {
+    "text": "Acá tenemos instalados dos MCP Servers,",
+    "duration": 5640,
+    "offset": 38200,
+    "lang": "es"
+  },
+  {
+    "text": "pero podemos ir",
+    "duration": 6480,
+    "offset": 41079,
+    "lang": "es"
+  },
+  {
+    "text": "a una página web a donde están todos los",
+    "duration": 7320,
+    "offset": 43840,
+    "lang": "es"
+  },
+  {
+    "text": "MSP Server disponibles y simplemente",
+    "duration": 6000,
+    "offset": 47559,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo clic en el botón de install",
+    "duration": 6879,
+    "offset": 51160,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos los eh MCP servers instalados.",
+    "duration": 6320,
+    "offset": 53559,
+    "lang": "es"
+  },
+  {
+    "text": "En este caso tengo el de Play Rate, que",
+    "duration": 4000,
+    "offset": 58039,
+    "lang": "es"
+  },
+  {
+    "text": "es un web scrapper y un web crowling, y",
+    "duration": 4041,
+    "offset": 59879,
+    "lang": "es"
+  },
+  {
+    "text": "el de Atlasian, que me va a servir para",
+    "duration": 5641,
+    "offset": 62039,
+    "lang": "es"
+  },
+  {
+    "text": "conectarme a ir a Confluence, etcétera.",
+    "duration": 6680,
+    "offset": 63920,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué es lo que voy a hacer? Tengo acá un",
+    "duration": 5520,
+    "offset": 67680,
+    "lang": "es"
+  },
+  {
+    "text": "eh archivo Ridmi",
+    "duration": 5320,
+    "offset": 70600,
+    "lang": "es"
+  },
+  {
+    "text": "que no está completo con toda la",
+    "duration": 5680,
+    "offset": 73200,
+    "lang": "es"
+  },
+  {
+    "text": "documentación y le que le voy a pedir es",
+    "duration": 5280,
+    "offset": 75920,
+    "lang": "es"
+  },
+  {
+    "text": "que se conecte a la página donde está la",
+    "duration": 5640,
+    "offset": 78880,
+    "lang": "es"
+  },
+  {
+    "text": "documentación de Astro. se va a conectar",
+    "duration": 7440,
+    "offset": 81200,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando el MCP Server de Playright.",
+    "duration": 5639,
+    "offset": 84520,
+    "lang": "es"
+  },
+  {
+    "text": "Va a tomar la información porque",
+    "duration": 3400,
+    "offset": 88640,
+    "lang": "es"
+  },
+  {
+    "text": "Playwright es un web scrapper y un web",
+    "duration": 4320,
+    "offset": 90159,
+    "lang": "es"
+  },
+  {
+    "text": "crowler. Y con eso vamos a hacer el",
+    "duration": 4560,
+    "offset": 92040,
+    "lang": "es"
+  },
+  {
+    "text": "context engineering. Con eso le vamos a",
+    "duration": 5320,
+    "offset": 94479,
+    "lang": "es"
+  },
+  {
+    "text": "dar el contexto y vamos a convertir este",
+    "duration": 5000,
+    "offset": 96600,
+    "lang": "es"
+  },
+  {
+    "text": "simple agente en realidad en un rag",
+    "duration": 4640,
+    "offset": 99799,
+    "lang": "es"
+  },
+  {
+    "text": "agéntico y va a tener todo el contexto",
+    "duration": 3960,
+    "offset": 101600,
+    "lang": "es"
+  },
+  {
+    "text": "necesario para escribir la",
+    "duration": 4761,
+    "offset": 104439,
+    "lang": "es"
+  },
+  {
+    "text": "documentación. Entonces podés",
+    "duration": 6120,
+    "offset": 105560,
+    "lang": "es"
+  },
+  {
+    "text": "escribir",
+    "duration": 5720,
+    "offset": 109200,
+    "lang": "es"
+  },
+  {
+    "text": "en el ritmi.",
+    "duration": 6240,
+    "offset": 111680,
+    "lang": "es"
+  },
+  {
+    "text": "de la",
+    "duration": 6000,
+    "offset": 114920,
+    "lang": "es"
+  },
+  {
+    "text": "document",
+    "duration": 3000,
+    "offset": 117920,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 3000,
+    "offset": 122079,
+    "lang": "es"
+  },
+  {
+    "text": "hacen",
+    "duration": 4520,
+    "offset": 125719,
+    "lang": "es"
+  },
+  {
+    "text": "los",
+    "duration": 5120,
+    "offset": 127520,
+    "lang": "es"
+  },
+  {
+    "text": "archivos del",
+    "duration": 5401,
+    "offset": 130239,
+    "lang": "es"
+  },
+  {
+    "text": "directorio",
+    "duration": 3000,
+    "offset": 132640,
+    "lang": "es"
+  },
+  {
+    "text": "components.",
+    "duration": 3000,
+    "offset": 136519,
+    "lang": "es"
+  },
+  {
+    "text": "conectándote",
+    "duration": 5161,
+    "offset": 139959,
+    "lang": "es"
+  },
+  {
+    "text": "a esta",
+    "duration": 3400,
+    "offset": 141720,
+    "lang": "es"
+  },
+  {
+    "text": "página web para obtener la",
+    "duration": 6879,
+    "offset": 146720,
+    "lang": "es"
+  },
+  {
+    "text": "información",
+    "duration": 5239,
+    "offset": 151360,
+    "lang": "es"
+  },
+  {
+    "text": "actualizada.",
+    "duration": 3000,
+    "offset": 153599,
+    "lang": "es"
+  },
+  {
+    "text": "Le pedimos que se conecte a esta página",
+    "duration": 4559,
+    "offset": 157400,
+    "lang": "es"
+  },
+  {
+    "text": "web y necesitamos hacer RAC porque para",
+    "duration": 4679,
+    "offset": 159640,
+    "lang": "es"
+  },
+  {
+    "text": "que la documentación sea asertiva como",
+    "duration": 4360,
+    "offset": 161959,
+    "lang": "es"
+  },
+  {
+    "text": "parte del context engineering, tenemos",
+    "duration": 4121,
+    "offset": 164319,
+    "lang": "es"
+  },
+  {
+    "text": "que darle documentación",
+    "duration": 4721,
+    "offset": 166319,
+    "lang": "es"
+  },
+  {
+    "text": "actualizada.",
+    "duration": 4519,
+    "offset": 168440,
+    "lang": "es"
+  },
+  {
+    "text": "No podemos dejar que esto actúe",
+    "duration": 4240,
+    "offset": 171040,
+    "lang": "es"
+  },
+  {
+    "text": "simplemente con el corpus del propio",
+    "duration": 4681,
+    "offset": 172959,
+    "lang": "es"
+  },
+  {
+    "text": "chatbot y necesitamos hacerlo en modo",
+    "duration": 4920,
+    "offset": 175280,
+    "lang": "es"
+  },
+  {
+    "text": "agéntico porque además de conectarnos a",
+    "duration": 4360,
+    "offset": 177640,
+    "lang": "es"
+  },
+  {
+    "text": "una herramienta externa vamos a tener",
+    "duration": 4080,
+    "offset": 180200,
+    "lang": "es"
+  },
+  {
+    "text": "que conectarnos al propio file system",
+    "duration": 5120,
+    "offset": 182000,
+    "lang": "es"
+  },
+  {
+    "text": "del sistema. Un LM solo no puede hacer",
+    "duration": 5400,
+    "offset": 184280,
+    "lang": "es"
+  },
+  {
+    "text": "esto.",
+    "duration": 5160,
+    "offset": 187120,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces acá va a empezar, nos va a",
+    "duration": 4839,
+    "offset": 189680,
+    "lang": "es"
+  },
+  {
+    "text": "pedir permiso para conectarnos a esa",
+    "duration": 5239,
+    "offset": 192280,
+    "lang": "es"
+  },
+  {
+    "text": "página.",
+    "duration": 3000,
+    "offset": 194519,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí lo autorizamos a que se conecte y",
+    "duration": 6241,
+    "offset": 200959,
+    "lang": "es"
+  },
+  {
+    "text": "ahí va a empezar a trabajar para",
+    "duration": 6599,
+    "offset": 203560,
+    "lang": "es"
+  },
+  {
+    "text": "escribir todo lo que nosotros le pedimos",
+    "duration": 6119,
+    "offset": 207200,
+    "lang": "es"
+  },
+  {
+    "text": "para aumentar este ritmi con la",
+    "duration": 5360,
+    "offset": 210159,
+    "lang": "es"
+  },
+  {
+    "text": "documentación de los archivos que está",
+    "duration": 5721,
+    "offset": 213319,
+    "lang": "es"
+  },
+  {
+    "text": "en el directorio components. Fíjense",
+    "duration": 6360,
+    "offset": 215519,
+    "lang": "es"
+  },
+  {
+    "text": "como ya encontró el directorio",
+    "duration": 5479,
+    "offset": 219040,
+    "lang": "es"
+  },
+  {
+    "text": "components, porque los agentes pueden",
+    "duration": 4920,
+    "offset": 221879,
+    "lang": "es"
+  },
+  {
+    "text": "acceder al file system y ahora va a",
+    "duration": 4321,
+    "offset": 224519,
+    "lang": "es"
+  },
+  {
+    "text": "empezar a escribirlo sin que haya ningún",
+    "duration": 5080,
+    "offset": 226799,
+    "lang": "es"
+  },
+  {
+    "text": "tipo de interacción humana.",
+    "duration": 5080,
+    "offset": 228840,
+    "lang": "es"
+  },
+  {
+    "text": "Yeah.",
+    "duration": 2041,
+    "offset": 231879,
+    "lang": "es"
+  }
+]

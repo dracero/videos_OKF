@@ -1,0 +1,188 @@
+[
+  {
+    "text": "Bueno ya logramos hacer que se genere el",
+    "duration": 8281,
+    "offset": 599,
+    "lang": "es"
+  },
+  {
+    "text": "código completo como lo hicimos para que",
+    "duration": 4879,
+    "offset": 5720,
+    "lang": "es"
+  },
+  {
+    "text": "pueda generar el código completo Qué",
+    "duration": 3879,
+    "offset": 8880,
+    "lang": "es"
+  },
+  {
+    "text": "problema teníamos la ventana de contexto",
+    "duration": 5160,
+    "offset": 10599,
+    "lang": "es"
+  },
+  {
+    "text": "de gemini era una ventana de contexto",
+    "duration": 5041,
+    "offset": 12759,
+    "lang": "es"
+  },
+  {
+    "text": "que no es suficientemente grande para",
+    "duration": 4760,
+    "offset": 15759,
+    "lang": "es"
+  },
+  {
+    "text": "soportar toda la respuesta Entonces",
+    "duration": 5040,
+    "offset": 17800,
+    "lang": "es"
+  },
+  {
+    "text": "modificamos el código para que lo divida",
+    "duration": 4840,
+    "offset": 20519,
+    "lang": "es"
+  },
+  {
+    "text": "en cuatro fases entonces generamos",
+    "duration": 4640,
+    "offset": 22840,
+    "lang": "es"
+  },
+  {
+    "text": "distintos chunks en cada una de esas",
+    "duration": 6921,
+    "offset": 25359,
+    "lang": "es"
+  },
+  {
+    "text": "fases Y tenemos el completo full",
+    "duration": 6399,
+    "offset": 27480,
+    "lang": "es"
+  },
+  {
+    "text": "stack",
+    "duration": 6920,
+    "offset": 32280,
+    "lang": "es"
+  },
+  {
+    "text": "completo pero generado en distintas en",
+    "duration": 7360,
+    "offset": 33879,
+    "lang": "es"
+  },
+  {
+    "text": "cuatro fases en cada una de esas cuatro",
+    "duration": 4920,
+    "offset": 39200,
+    "lang": "es"
+  },
+  {
+    "text": "fases se va dividiendo los chuns y nos",
+    "duration": 5320,
+    "offset": 41239,
+    "lang": "es"
+  },
+  {
+    "text": "va dando el código primero nos da el",
+    "duration": 6320,
+    "offset": 44120,
+    "lang": "es"
+  },
+  {
+    "text": "frontend después nos da el el backend y",
+    "duration": 6401,
+    "offset": 46559,
+    "lang": "es"
+  },
+  {
+    "text": "después lo que hace es toda la parte",
+    "duration": 7119,
+    "offset": 50440,
+    "lang": "es"
+  },
+  {
+    "text": "de bopping o sea user interface acá ven",
+    "duration": 7640,
+    "offset": 52960,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos las tres fases y lo que también",
+    "duration": 5921,
+    "offset": 57559,
+    "lang": "es"
+  },
+  {
+    "text": "para que pueda hacer el bootstrapping es",
+    "duration": 6680,
+    "offset": 60600,
+    "lang": "es"
+  },
+  {
+    "text": "pusimos la página de bootstrap en en el",
+    "duration": 6959,
+    "offset": 63480,
+    "lang": "es"
+  },
+  {
+    "text": "scrapping y cuando hacemos el scrapping",
+    "duration": 6240,
+    "offset": 67280,
+    "lang": "es"
+  },
+  {
+    "text": "y el cowling para obtener los datos",
+    "duration": 5201,
+    "offset": 70439,
+    "lang": "es"
+  },
+  {
+    "text": "necesarios para después Buscar nuestro",
+    "duration": 5120,
+    "offset": 73520,
+    "lang": "es"
+  },
+  {
+    "text": "para que funcione nuestra Gen rag lo que",
+    "duration": 4960,
+    "offset": 75640,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos",
+    "duration": 5400,
+    "offset": 78640,
+    "lang": "es"
+  },
+  {
+    "text": "Es también ahora guardar la página de",
+    "duration": 6800,
+    "offset": 80600,
+    "lang": "es"
+  },
+  {
+    "text": "bootstrap bien Así que ya tenemos",
+    "duration": 6079,
+    "offset": 84040,
+    "lang": "es"
+  },
+  {
+    "text": "nuestro generador de código funcionando",
+    "duration": 5880,
+    "offset": 87400,
+    "lang": "es"
+  },
+  {
+    "text": "full functionality",
+    "duration": 3161,
+    "offset": 90119,
+    "lang": "es"
+  }
+]

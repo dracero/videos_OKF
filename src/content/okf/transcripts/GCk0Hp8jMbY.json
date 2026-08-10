@@ -1,0 +1,236 @@
+[
+  {
+    "text": "bueno Y para hacer el ejemplo de image",
+    "duration": 6240,
+    "offset": 480,
+    "lang": "es"
+  },
+  {
+    "text": "to text vamos a ir directamente a los",
+    "duration": 4860,
+    "offset": 4020,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplos que tiene la misma página de",
+    "duration": 5580,
+    "offset": 6720,
+    "lang": "es"
+  },
+  {
+    "text": "hacking Face acá encontramos el modelo",
+    "duration": 6600,
+    "offset": 8880,
+    "lang": "es"
+  },
+  {
+    "text": "que queremos usar y acá está la parte",
+    "duration": 6120,
+    "offset": 12300,
+    "lang": "es"
+  },
+  {
+    "text": "donde nos dice Cómo podemos hacer para",
+    "duration": 5639,
+    "offset": 15480,
+    "lang": "es"
+  },
+  {
+    "text": "correr el packline",
+    "duration": 6359,
+    "offset": 18420,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense una cosa siempre el packline",
+    "duration": 6420,
+    "offset": 21119,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a copiarlo y a pegarlo en nuestro",
+    "duration": 5361,
+    "offset": 24779,
+    "lang": "es"
+  },
+  {
+    "text": "colap",
+    "duration": 2601,
+    "offset": 27539,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí vamos a pegarlo en nuestro colap",
+    "duration": 5180,
+    "offset": 35100,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 3000,
+    "offset": 43739,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí está acá lo tenemos en colap ahora",
+    "duration": 6899,
+    "offset": 50640,
+    "lang": "es"
+  },
+  {
+    "text": "lo que vamos a hacer es por un lado",
+    "duration": 5159,
+    "offset": 55920,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que instalar Transformers",
+    "duration": 7741,
+    "offset": 57539,
+    "lang": "es"
+  },
+  {
+    "text": "por otro lado pegamos el código y acá le",
+    "duration": 7701,
+    "offset": 61079,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a poner la imagen",
+    "duration": 3500,
+    "offset": 65280,
+    "lang": "es"
+  },
+  {
+    "text": "que tenemos nosotros que es Randall",
+    "duration": 6420,
+    "offset": 69420,
+    "lang": "es"
+  },
+  {
+    "text": "punto j",
+    "duration": 5420,
+    "offset": 73320,
+    "lang": "es"
+  },
+  {
+    "text": "pg bien",
+    "duration": 6139,
+    "offset": 75840,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que siempre el packline tiene",
+    "duration": 6760,
+    "offset": 78740,
+    "lang": "es"
+  },
+  {
+    "text": "algo que le indica Qué tipo de modelo es",
+    "duration": 6341,
+    "offset": 81979,
+    "lang": "es"
+  },
+  {
+    "text": "lo que vamos a usar y acá el nombre del",
+    "duration": 5340,
+    "offset": 85500,
+    "lang": "es"
+  },
+  {
+    "text": "modelo tal cual figura en el Hub de",
+    "duration": 5640,
+    "offset": 88320,
+    "lang": "es"
+  },
+  {
+    "text": "jagging Face entonces acá vamos a correr",
+    "duration": 5459,
+    "offset": 90840,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que ya instalamos la red",
+    "duration": 4940,
+    "offset": 93960,
+    "lang": "es"
+  },
+  {
+    "text": "Transformer",
+    "duration": 2601,
+    "offset": 96299,
+    "lang": "es"
+  },
+  {
+    "text": "Acá empieza a correr baja el modelo la",
+    "duration": 5761,
+    "offset": 102299,
+    "lang": "es"
+  },
+  {
+    "text": "máquina local lo ejecuta y acá Este",
+    "duration": 6841,
+    "offset": 105119,
+    "lang": "es"
+  },
+  {
+    "text": "generate text dice que es un jugador de",
+    "duration": 8099,
+    "offset": 108060,
+    "lang": "es"
+  },
+  {
+    "text": "fútbol pegándole a una pelota de fútbol",
+    "duration": 8000,
+    "offset": 111960,
+    "lang": "es"
+  },
+  {
+    "text": "y la imagen",
+    "duration": 6301,
+    "offset": 116159,
+    "lang": "es"
+  },
+  {
+    "text": "aguarden me que les voy a mostrar que",
+    "duration": 4979,
+    "offset": 119960,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes",
+    "duration": 2479,
+    "offset": 122460,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí está esa es la imagen que está",
+    "duration": 7940,
+    "offset": 127860,
+    "lang": "es"
+  },
+  {
+    "text": "decodificando el",
+    "duration": 5199,
+    "offset": 132680,
+    "lang": "es"
+  },
+  {
+    "text": "image to text fíjense que Efectivamente",
+    "duration": 5019,
+    "offset": 135800,
+    "lang": "es"
+  },
+  {
+    "text": "es un jugador de fútbol que le pega a",
+    "duration": 5961,
+    "offset": 137879,
+    "lang": "es"
+  },
+  {
+    "text": "una pelota de fútbol",
+    "duration": 3021,
+    "offset": 140819,
+    "lang": "es"
+  }
+]

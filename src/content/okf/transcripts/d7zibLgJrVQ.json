@@ -1,0 +1,980 @@
+[
+  {
+    "text": "Terminamos de generar",
+    "duration": 7920,
+    "offset": 1160,
+    "lang": "es"
+  },
+  {
+    "text": "una aplicación Full Stack que busca",
+    "duration": 6920,
+    "offset": 4200,
+    "lang": "es"
+  },
+  {
+    "text": "eventos que pueden haber generado",
+    "duration": 5679,
+    "offset": 9080,
+    "lang": "es"
+  },
+  {
+    "text": "tráfico de internet en Argentina.",
+    "duration": 6640,
+    "offset": 11120,
+    "lang": "es"
+  },
+  {
+    "text": "Lo que hicimos fue primero crear un Deep",
+    "duration": 6001,
+    "offset": 14759,
+    "lang": "es"
+  },
+  {
+    "text": "Research Agent con cuatro agentes que",
+    "duration": 6800,
+    "offset": 17760,
+    "lang": "es"
+  },
+  {
+    "text": "trabajan en paralelo utilizando Langraf.",
+    "duration": 7960,
+    "offset": 20760,
+    "lang": "es"
+  },
+  {
+    "text": "Ese Deep Research Agent utiliza un real",
+    "duration": 7000,
+    "offset": 24560,
+    "lang": "es"
+  },
+  {
+    "text": "time searcher que es stabilir",
+    "duration": 6200,
+    "offset": 28720,
+    "lang": "es"
+  },
+  {
+    "text": "para hacer la búsqueda en internet.",
+    "duration": 6720,
+    "offset": 31560,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora, el plan de Deep Research y el",
+    "duration": 5479,
+    "offset": 34920,
+    "lang": "es"
+  },
+  {
+    "text": "Real Time Searcher no bastan para que",
+    "duration": 4959,
+    "offset": 38280,
+    "lang": "es"
+  },
+  {
+    "text": "este agente funcione correctamente tiene",
+    "duration": 4640,
+    "offset": 40399,
+    "lang": "es"
+  },
+  {
+    "text": "que tener definidas las reglas del",
+    "duration": 3881,
+    "offset": 43239,
+    "lang": "es"
+  },
+  {
+    "text": "negocio. ¿Cómo se definen las reglas del",
+    "duration": 4441,
+    "offset": 45039,
+    "lang": "es"
+  },
+  {
+    "text": "negocio en un agente? Se definen a",
+    "duration": 4959,
+    "offset": 47120,
+    "lang": "es"
+  },
+  {
+    "text": "través de la ontología. Para eso creamos",
+    "duration": 4879,
+    "offset": 49480,
+    "lang": "es"
+  },
+  {
+    "text": "lo que estamos viendo ahora, que es este",
+    "duration": 6721,
+    "offset": 52079,
+    "lang": "es"
+  },
+  {
+    "text": "archivo Yaml. Y este archivo Yaml tiene",
+    "duration": 9441,
+    "offset": 54359,
+    "lang": "es"
+  },
+  {
+    "text": "las reglas del negocio de las eh de los",
+    "duration": 8959,
+    "offset": 58800,
+    "lang": "es"
+  },
+  {
+    "text": "proveedores de CDN, de PIR y de todas",
+    "duration": 5999,
+    "offset": 63800,
+    "lang": "es"
+  },
+  {
+    "text": "los e",
+    "duration": 3601,
+    "offset": 67759,
+    "lang": "es"
+  },
+  {
+    "text": "proveedores que generan tráfico",
+    "duration": 4441,
+    "offset": 69799,
+    "lang": "es"
+  },
+  {
+    "text": "internacional en Argentina.",
+    "duration": 5799,
+    "offset": 71360,
+    "lang": "es"
+  },
+  {
+    "text": "Además de todo eso, como son agentes y",
+    "duration": 5879,
+    "offset": 74240,
+    "lang": "es"
+  },
+  {
+    "text": "son estocásticos, hicimos la supervisión",
+    "duration": 6000,
+    "offset": 77159,
+    "lang": "es"
+  },
+  {
+    "text": "con Langsmith. Bien, vamos a verlo",
+    "duration": 5201,
+    "offset": 80119,
+    "lang": "es"
+  },
+  {
+    "text": "funcionar. Acá ya tenemos la aplicación",
+    "duration": 5161,
+    "offset": 83159,
+    "lang": "es"
+  },
+  {
+    "text": "Full Stack. Yo le voy a poner un día que",
+    "duration": 5759,
+    "offset": 85320,
+    "lang": "es"
+  },
+  {
+    "text": "sé que hubo tráfico y cosas importantes,",
+    "duration": 7640,
+    "offset": 88320,
+    "lang": "es"
+  },
+  {
+    "text": "que fue el uno fue el 15 de febrero del",
+    "duration": 9080,
+    "offset": 91079,
+    "lang": "es"
+  },
+  {
+    "text": "2000 26 y le vamos a poner que",
+    "duration": 6960,
+    "offset": 95960,
+    "lang": "es"
+  },
+  {
+    "text": "investigue y ahí empieza a generar la",
+    "duration": 8521,
+    "offset": 100159,
+    "lang": "es"
+  },
+  {
+    "text": "búsqueda. Acá encontró ya algunos este",
+    "duration": 8080,
+    "offset": 102920,
+    "lang": "es"
+  },
+  {
+    "text": "algunos eventos. Esto es lo que hace eh",
+    "duration": 4600,
+    "offset": 108680,
+    "lang": "es"
+  },
+  {
+    "text": "Tavily directamente y ahora lo que está",
+    "duration": 5159,
+    "offset": 111000,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo es está investigando, está",
+    "duration": 4519,
+    "offset": 113280,
+    "lang": "es"
+  },
+  {
+    "text": "cumpliendo con esa ontología, esas",
+    "duration": 4401,
+    "offset": 116159,
+    "lang": "es"
+  },
+  {
+    "text": "reglas del negocio para darnos un",
+    "duration": 6441,
+    "offset": 117799,
+    "lang": "es"
+  },
+  {
+    "text": "informe concreto de que qué fue lo que",
+    "duration": 5320,
+    "offset": 120560,
+    "lang": "es"
+  },
+  {
+    "text": "sucedió ese día. Bueno, lo más",
+    "duration": 3159,
+    "offset": 124240,
+    "lang": "es"
+  },
+  {
+    "text": "importante, yo ya sé, fue el partido de",
+    "duration": 3879,
+    "offset": 125880,
+    "lang": "es"
+  },
+  {
+    "text": "River Boca, pero quiero ver si él lo",
+    "duration": 5441,
+    "offset": 127399,
+    "lang": "es"
+  },
+  {
+    "text": "encuentro. Fíjense lo más importante. Me",
+    "duration": 5760,
+    "offset": 129759,
+    "lang": "es"
+  },
+  {
+    "text": "dice, \"A las 19:30 Boca Platense,",
+    "duration": 4360,
+    "offset": 132840,
+    "lang": "es"
+  },
+  {
+    "text": "después tuve Gimnasia Estudiantes,",
+    "duration": 3481,
+    "offset": 135519,
+    "lang": "es"
+  },
+  {
+    "text": "Rosario Central, Instituto Central",
+    "duration": 5119,
+    "offset": 137200,
+    "lang": "es"
+  },
+  {
+    "text": "Córdoba. solamente los partidos de",
+    "duration": 5040,
+    "offset": 139000,
+    "lang": "es"
+  },
+  {
+    "text": "primera división, que son los que más",
+    "duration": 5640,
+    "offset": 142319,
+    "lang": "es"
+  },
+  {
+    "text": "generan tráfico. Fíjense que acá me dice",
+    "duration": 6880,
+    "offset": 144040,
+    "lang": "es"
+  },
+  {
+    "text": "tuve, eh, no sabe la hora porque no",
+    "duration": 6161,
+    "offset": 147959,
+    "lang": "es"
+  },
+  {
+    "text": "estaba en internet, pero en streaming",
+    "duration": 5280,
+    "offset": 150920,
+    "lang": "es"
+  },
+  {
+    "text": "está la ley de Las Vegas, el agente",
+    "duration": 4640,
+    "offset": 154120,
+    "lang": "es"
+  },
+  {
+    "text": "nocturno Bridgestone, que se estrenó en",
+    "duration": 8480,
+    "offset": 156200,
+    "lang": "es"
+  },
+  {
+    "text": "Netflix, los premios Oscart y una e",
+    "duration": 10199,
+    "offset": 158760,
+    "lang": "es"
+  },
+  {
+    "text": "un juego de Valorant. Bien.",
+    "duration": 5800,
+    "offset": 164680,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, ¿qué pasa si yo quiero, por",
+    "duration": 5441,
+    "offset": 168959,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo, vamos a ver el 14 de ese mismo",
+    "duration": 8600,
+    "offset": 170480,
+    "lang": "es"
+  },
+  {
+    "text": "mes? Acá le doy para que investigue.",
+    "duration": 6680,
+    "offset": 174400,
+    "lang": "es"
+  },
+  {
+    "text": "Está investigando todos los eventos.",
+    "duration": 5560,
+    "offset": 179080,
+    "lang": "es"
+  },
+  {
+    "text": "Sigue la eh las reglas del negocio. Ah,",
+    "duration": 6400,
+    "offset": 181080,
+    "lang": "es"
+  },
+  {
+    "text": "le puse 14 del 7.",
+    "duration": 5400,
+    "offset": 184640,
+    "lang": "es"
+  },
+  {
+    "text": "Esperen, vamos a volver porque esto no",
+    "duration": 7000,
+    "offset": 187480,
+    "lang": "es"
+  },
+  {
+    "text": "va a funcionar. Le voy a poner 14 del 2",
+    "duration": 7279,
+    "offset": 190040,
+    "lang": "es"
+  },
+  {
+    "text": "del 2026.",
+    "duration": 5640,
+    "offset": 194480,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí le doy para investigar. Fíjense que",
+    "duration": 4480,
+    "offset": 197319,
+    "lang": "es"
+  },
+  {
+    "text": "tiene las reglas del negocio, la",
+    "duration": 4880,
+    "offset": 200120,
+    "lang": "es"
+  },
+  {
+    "text": "ontología de agente que yo le definí y",
+    "duration": 6000,
+    "offset": 201799,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver si realmente encuentra",
+    "duration": 5879,
+    "offset": 205000,
+    "lang": "es"
+  },
+  {
+    "text": "aquellas cosas que que son necesarias.",
+    "duration": 5761,
+    "offset": 207799,
+    "lang": "es"
+  },
+  {
+    "text": "Cuando termine acá se aparece a donde",
+    "duration": 7601,
+    "offset": 210879,
+    "lang": "es"
+  },
+  {
+    "text": "dice e investigar.",
+    "duration": 4920,
+    "offset": 213560,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a ver. Ahí está buscando y",
+    "duration": 5720,
+    "offset": 219640,
+    "lang": "es"
+  },
+  {
+    "text": "buscando qué cosas encuentra.",
+    "duration": 5640,
+    "offset": 221879,
+    "lang": "es"
+  },
+  {
+    "text": "Fútbol, partidos, tenis argentino,",
+    "duration": 4840,
+    "offset": 225360,
+    "lang": "es"
+  },
+  {
+    "text": "selección, Netflix, Disney, Amazon,",
+    "duration": 4481,
+    "offset": 227519,
+    "lang": "es"
+  },
+  {
+    "text": "League of Legends, Valoran, Juegos",
+    "duration": 3640,
+    "offset": 230200,
+    "lang": "es"
+  },
+  {
+    "text": "Triple A, lanzamientos, Premios Carcar,",
+    "duration": 5439,
+    "offset": 232000,
+    "lang": "es"
+  },
+  {
+    "text": "Shivo en Argentina. Ahí está buscando 14",
+    "duration": 6800,
+    "offset": 233840,
+    "lang": "es"
+  },
+  {
+    "text": "de febrero",
+    "duration": 3201,
+    "offset": 237439,
+    "lang": "es"
+  },
+  {
+    "text": "con la ontología que yo le definí. Vamos",
+    "duration": 6039,
+    "offset": 240920,
+    "lang": "es"
+  },
+  {
+    "text": "a ver ahí e qué encuentra finalmente.",
+    "duration": 5200,
+    "offset": 243560,
+    "lang": "es"
+  },
+  {
+    "text": "Acá está",
+    "duration": 3961,
+    "offset": 246959,
+    "lang": "es"
+  },
+  {
+    "text": "este",
+    "duration": 3960,
+    "offset": 248760,
+    "lang": "es"
+  },
+  {
+    "text": "supera a veces el Rail Limit. Eso",
+    "duration": 4120,
+    "offset": 250920,
+    "lang": "es"
+  },
+  {
+    "text": "también lo vamos a ver acá. Si podemos",
+    "duration": 6320,
+    "offset": 252720,
+    "lang": "es"
+  },
+  {
+    "text": "ver en Langsmith.",
+    "duration": 4000,
+    "offset": 255040,
+    "lang": "es"
+  },
+  {
+    "text": "Acá tenemos que ver la eh",
+    "duration": 4880,
+    "offset": 272400,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver si está el tracing y ahí",
+    "duration": 6920,
+    "offset": 283400,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a a ver que los deep research",
+    "duration": 7760,
+    "offset": 286520,
+    "lang": "es"
+  },
+  {
+    "text": "agent tienen tan agresivo el el",
+    "duration": 9960,
+    "offset": 290320,
+    "lang": "es"
+  },
+  {
+    "text": "la forma en la que buscan que terminan e",
+    "duration": 6000,
+    "offset": 294280,
+    "lang": "es"
+  },
+  {
+    "text": "generando. Acá está, ¿ven? Ya terminó",
+    "duration": 4280,
+    "offset": 300520,
+    "lang": "es"
+  },
+  {
+    "text": "acá de investigar.",
+    "duration": 5680,
+    "offset": 302840,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, acá nos da, fíjense una cosa que y",
+    "duration": 6280,
+    "offset": 304800,
+    "lang": "es"
+  },
+  {
+    "text": "que esto lo vimos realmente en se",
+    "duration": 4200,
+    "offset": 308520,
+    "lang": "es"
+  },
+  {
+    "text": "estrena en el barro la segunda",
+    "duration": 3600,
+    "offset": 311080,
+    "lang": "es"
+  },
+  {
+    "text": "temporada,",
+    "duration": 4759,
+    "offset": 312720,
+    "lang": "es"
+  },
+  {
+    "text": "como no hay un horario preciso se pero",
+    "duration": 5720,
+    "offset": 314680,
+    "lang": "es"
+  },
+  {
+    "text": "ese día se estrenó y generó realmente un",
+    "duration": 7401,
+    "offset": 317479,
+    "lang": "es"
+  },
+  {
+    "text": "pico de tráfico. Eh, y los partidos de",
+    "duration": 7200,
+    "offset": 320400,
+    "lang": "es"
+  },
+  {
+    "text": "Argentina y el evento de gaming. Bien,",
+    "duration": 8000,
+    "offset": 324880,
+    "lang": "es"
+  },
+  {
+    "text": "está restringido uno el archivo",
+    "duration": 8719,
+    "offset": 327600,
+    "lang": "es"
+  },
+  {
+    "text": "de ontología.",
+    "duration": 3439,
+    "offset": 332880,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que acá ya dice que terminó de",
+    "duration": 6119,
+    "offset": 337520,
+    "lang": "es"
+  },
+  {
+    "text": "hacer el reporte y el archivo de",
+    "duration": 7360,
+    "offset": 340440,
+    "lang": "es"
+  },
+  {
+    "text": "ontología yo lo puedo seguir este",
+    "duration": 5721,
+    "offset": 343639,
+    "lang": "es"
+  },
+  {
+    "text": "si las reglas del negocio cambian o no",
+    "duration": 3880,
+    "offset": 347800,
+    "lang": "es"
+  },
+  {
+    "text": "se ajustan, pero recuerden el éxito de",
+    "duration": 5200,
+    "offset": 349360,
+    "lang": "es"
+  },
+  {
+    "text": "las cosas de inteligencia artificial",
+    "duration": 5040,
+    "offset": 351680,
+    "lang": "es"
+  },
+  {
+    "text": "están ligadas",
+    "duration": 5000,
+    "offset": 354560,
+    "lang": "es"
+  },
+  {
+    "text": "a la correcta definición de las reglas",
+    "duration": 5199,
+    "offset": 356720,
+    "lang": "es"
+  },
+  {
+    "text": "usando los archivos de ontología y",
+    "duration": 5359,
+    "offset": 359560,
+    "lang": "es"
+  },
+  {
+    "text": "también",
+    "duration": 3000,
+    "offset": 361919,
+    "lang": "es"
+  },
+  {
+    "text": "usando el e",
+    "duration": 4600,
+    "offset": 365560,
+    "lang": "es"
+  },
+  {
+    "text": "usando todo lo que tiene que ver con lo",
+    "duration": 5039,
+    "offset": 372000,
+    "lang": "es"
+  },
+  {
+    "text": "que es el tracing. Ahora les voy a",
+    "duration": 7440,
+    "offset": 374599,
+    "lang": "es"
+  },
+  {
+    "text": "mostrar. Ahí estoy abriendo",
+    "duration": 5000,
+    "offset": 377039,
+    "lang": "es"
+  },
+  {
+    "text": "el tracing para que vean.",
+    "duration": 5160,
+    "offset": 383319,
+    "lang": "es"
+  },
+  {
+    "text": "Acá vamos a ver todo lo que la",
+    "duration": 4079,
+    "offset": 386120,
+    "lang": "es"
+  },
+  {
+    "text": "trayectoria de los agentes, que es muy",
+    "duration": 4521,
+    "offset": 388479,
+    "lang": "es"
+  },
+  {
+    "text": "importante. Bien, acá están los agentes",
+    "duration": 5921,
+    "offset": 390199,
+    "lang": "es"
+  },
+  {
+    "text": "de Deep Research.",
+    "duration": 5639,
+    "offset": 393000,
+    "lang": "es"
+  },
+  {
+    "text": "Acá tengo el último que hice. Fíjense",
+    "duration": 5479,
+    "offset": 396120,
+    "lang": "es"
+  },
+  {
+    "text": "que esos puntos rojos",
+    "duration": 7481,
+    "offset": 398639,
+    "lang": "es"
+  },
+  {
+    "text": "que están mostrando ahí",
+    "duration": 4521,
+    "offset": 401599,
+    "lang": "es"
+  },
+  {
+    "text": "tienen que ver con que e",
+    "duration": 9000,
+    "offset": 406759,
+    "lang": "es"
+  },
+  {
+    "text": "en algún momento se superó lo este",
+    "duration": 6000,
+    "offset": 411560,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que acá está el chat Grock, que",
+    "duration": 3401,
+    "offset": 415759,
+    "lang": "es"
+  },
+  {
+    "text": "es el que estoy usando. Superó la",
+    "duration": 3840,
+    "offset": 417560,
+    "lang": "es"
+  },
+  {
+    "text": "cantidad de o sea, token por minut",
+    "duration": 6560,
+    "offset": 419160,
+    "lang": "es"
+  },
+  {
+    "text": "y me dio ese error. Fíjense que acá está",
+    "duration": 6239,
+    "offset": 421400,
+    "lang": "es"
+  },
+  {
+    "text": "eh especificado",
+    "duration": 4280,
+    "offset": 425720,
+    "lang": "es"
+  },
+  {
+    "text": "y yo eso ya lo tengo cubierto para que",
+    "duration": 5481,
+    "offset": 427639,
+    "lang": "es"
+  },
+  {
+    "text": "lo e fíjense que acá está la búsqueda,",
+    "duration": 5759,
+    "offset": 430000,
+    "lang": "es"
+  },
+  {
+    "text": "cómo hace la búsqueda, las búsquedas en",
+    "duration": 4280,
+    "offset": 433120,
+    "lang": "es"
+  },
+  {
+    "text": "internet. ¿Ven la trayectoria de la",
+    "duration": 4521,
+    "offset": 435759,
+    "lang": "es"
+  },
+  {
+    "text": "gente cuando se llama al chat? Cuando",
+    "duration": 5280,
+    "offset": 437400,
+    "lang": "es"
+  },
+  {
+    "text": "llamo al chat me dice la cantidad de",
+    "duration": 6759,
+    "offset": 440280,
+    "lang": "es"
+  },
+  {
+    "text": "tokens e que gastó, me dice las cosas",
+    "duration": 6799,
+    "offset": 442680,
+    "lang": "es"
+  },
+  {
+    "text": "que encontraron. Bien, todas. Fíjense",
+    "duration": 5201,
+    "offset": 447039,
+    "lang": "es"
+  },
+  {
+    "text": "como acá está esto en color rojo porque",
+    "duration": 6801,
+    "offset": 449479,
+    "lang": "es"
+  },
+  {
+    "text": "los los tok por meaning, acá está,",
+    "duration": 6920,
+    "offset": 452240,
+    "lang": "es"
+  },
+  {
+    "text": "¿ven? Red rate error limité los token",
+    "duration": 5240,
+    "offset": 456280,
+    "lang": "es"
+  },
+  {
+    "text": "por limit. Bien y bien, hasta acá al",
+    "duration": 6599,
+    "offset": 459160,
+    "lang": "es"
+  },
+  {
+    "text": "final está toda la trayectoria y me da",
+    "duration": 6399,
+    "offset": 461520,
+    "lang": "es"
+  },
+  {
+    "text": "la salida final con el reporte que yo",
+    "duration": 4560,
+    "offset": 465759,
+    "lang": "es"
+  },
+  {
+    "text": "quiero. Pero esto es muy importante.",
+    "duration": 4720,
+    "offset": 467919,
+    "lang": "es"
+  },
+  {
+    "text": "¿Por qué? Porque yo necesito evaluar el",
+    "duration": 4320,
+    "offset": 470319,
+    "lang": "es"
+  },
+  {
+    "text": "agente, necesito ver la trayectoria que",
+    "duration": 5520,
+    "offset": 472639,
+    "lang": "es"
+  },
+  {
+    "text": "está cumpliendo, necesito saber qué pasa",
+    "duration": 5641,
+    "offset": 474639,
+    "lang": "es"
+  },
+  {
+    "text": "para ver si realmente la ontología, la",
+    "duration": 6440,
+    "offset": 478159,
+    "lang": "es"
+  },
+  {
+    "text": "arquitectura que yo hice es e es la que",
+    "duration": 7319,
+    "offset": 480280,
+    "lang": "es"
+  },
+  {
+    "text": "corresponde",
+    "duration": 3000,
+    "offset": 484599,
+    "lang": "es"
+  },
+  {
+    "text": "para ver si realmente",
+    "duration": 4960,
+    "offset": 487639,
+    "lang": "es"
+  },
+  {
+    "text": "está funcionando como yo quiero, si está",
+    "duration": 5641,
+    "offset": 489879,
+    "lang": "es"
+  },
+  {
+    "text": "contactando al real time searcher, si",
+    "duration": 5880,
+    "offset": 492599,
+    "lang": "es"
+  },
+  {
+    "text": "está guardando cosas en base de datos,",
+    "duration": 5519,
+    "offset": 495520,
+    "lang": "es"
+  },
+  {
+    "text": "que si vuelve",
+    "duration": 4801,
+    "offset": 498479,
+    "lang": "es"
+  },
+  {
+    "text": "Si no superviso,",
+    "duration": 4801,
+    "offset": 501039,
+    "lang": "es"
+  },
+  {
+    "text": "no puedo decirle,",
+    "duration": 5759,
+    "offset": 503280,
+    "lang": "es"
+  },
+  {
+    "text": "no puedo saber realmente si es que hice",
+    "duration": 7520,
+    "offset": 505840,
+    "lang": "es"
+  },
+  {
+    "text": "algo bueno con los agentes. Yes.",
+    "duration": 4321,
+    "offset": 509039,
+    "lang": "es"
+  }
+]

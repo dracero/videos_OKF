@@ -1,0 +1,1286 @@
+[
+  {
+    "text": "nuestro chat lo vamos a construir",
+    "duration": 5760,
+    "offset": 3670,
+    "lang": "es"
+  },
+  {
+    "text": "fundamentalmente con un sistema de nlp",
+    "duration": 5441,
+    "offset": 6359,
+    "lang": "es"
+  },
+  {
+    "text": "que se llama with y hay en el ep",
+    "duration": 6150,
+    "offset": 9430,
+    "lang": "es"
+  },
+  {
+    "text": "significa natural language processing y",
+    "duration": 6380,
+    "offset": 11800,
+    "lang": "es"
+  },
+  {
+    "text": "hacia un sistema de nl p",
+    "duration": 6860,
+    "offset": 15580,
+    "lang": "es"
+  },
+  {
+    "text": "lo que hace es a partir de texto en un",
+    "duration": 7880,
+    "offset": 18180,
+    "lang": "es"
+  },
+  {
+    "text": "lenguaje común en un lenguaje coloquial",
+    "duration": 7770,
+    "offset": 22440,
+    "lang": "es"
+  },
+  {
+    "text": "obtiene datos estructurados que después",
+    "duration": 7150,
+    "offset": 26060,
+    "lang": "es"
+  },
+  {
+    "text": "en un sistema como el del chat bot nos",
+    "duration": 5220,
+    "offset": 30210,
+    "lang": "es"
+  },
+  {
+    "text": "van a permitir tomar bifurcaciones",
+    "duration": 5000,
+    "offset": 33210,
+    "lang": "es"
+  },
+  {
+    "text": "condicionales",
+    "duration": 2780,
+    "offset": 35430,
+    "lang": "es"
+  },
+  {
+    "text": "el sistema de nlp solamente entiende",
+    "duration": 6390,
+    "offset": 38220,
+    "lang": "es"
+  },
+  {
+    "text": "lenguaje no entiende imágenes no",
+    "duration": 4700,
+    "offset": 41670,
+    "lang": "es"
+  },
+  {
+    "text": "entiende",
+    "duration": 4710,
+    "offset": 44610,
+    "lang": "es"
+  },
+  {
+    "text": "fórmulas lo único que le podemos poner",
+    "duration": 6690,
+    "offset": 46370,
+    "lang": "es"
+  },
+  {
+    "text": "es textos y números porque solamente",
+    "duration": 6710,
+    "offset": 49320,
+    "lang": "es"
+  },
+  {
+    "text": "entiende textos",
+    "duration": 6740,
+    "offset": 53060,
+    "lang": "es"
+  },
+  {
+    "text": "solamente entiende el lenguaje",
+    "duration": 3770,
+    "offset": 56030,
+    "lang": "es"
+  },
+  {
+    "text": "el algoritmo los algoritmos que utiliza",
+    "duration": 5880,
+    "offset": 60240,
+    "lang": "es"
+  },
+  {
+    "text": "son algoritmos de palabra vector world",
+    "duration": 6440,
+    "offset": 62970,
+    "lang": "es"
+  },
+  {
+    "text": "to be principalmente skip gran y",
+    "duration": 6660,
+    "offset": 66120,
+    "lang": "es"
+  },
+  {
+    "text": "continuos para ghost words que esos",
+    "duration": 6100,
+    "offset": 69410,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmos lo que hacen es traduce en",
+    "duration": 5460,
+    "offset": 72780,
+    "lang": "es"
+  },
+  {
+    "text": "palabras a vectores en función del",
+    "duration": 4380,
+    "offset": 75510,
+    "lang": "es"
+  },
+  {
+    "text": "contexto en el que se encuentran las",
+    "duration": 4920,
+    "offset": 78240,
+    "lang": "es"
+  },
+  {
+    "text": "palabras como lo hacen utilizando redes",
+    "duration": 6030,
+    "offset": 79890,
+    "lang": "es"
+  },
+  {
+    "text": "neuronales recurrentes o redes",
+    "duration": 4530,
+    "offset": 83160,
+    "lang": "es"
+  },
+  {
+    "text": "neuronales convolución al es de",
+    "duration": 4060,
+    "offset": 85920,
+    "lang": "es"
+  },
+  {
+    "text": "dimensión 1",
+    "duration": 4420,
+    "offset": 87690,
+    "lang": "es"
+  },
+  {
+    "text": "si bien todo eso es transparente es",
+    "duration": 3840,
+    "offset": 89980,
+    "lang": "es"
+  },
+  {
+    "text": "importante que nosotros tengamos en",
+    "duration": 4700,
+    "offset": 92110,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta que lo que traduce es el lenguaje",
+    "duration": 5760,
+    "offset": 93820,
+    "lang": "es"
+  },
+  {
+    "text": "y nosotros lo que vamos a tener que",
+    "duration": 6480,
+    "offset": 96810,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es a partir de ver un problema",
+    "duration": 6570,
+    "offset": 99580,
+    "lang": "es"
+  },
+  {
+    "text": "traducir cuáles son las consultas que le",
+    "duration": 6640,
+    "offset": 103290,
+    "lang": "es"
+  },
+  {
+    "text": "pueden llegar a surgir al alumno para",
+    "duration": 7950,
+    "offset": 106150,
+    "lang": "es"
+  },
+  {
+    "text": "ponerlas dentro del sistema de lv y",
+    "duration": 7500,
+    "offset": 109930,
+    "lang": "es"
+  },
+  {
+    "text": "crear las estructuras necesarias para",
+    "duration": 6650,
+    "offset": 114100,
+    "lang": "es"
+  },
+  {
+    "text": "que el sistema funcione",
+    "duration": 3320,
+    "offset": 117430,
+    "lang": "es"
+  },
+  {
+    "text": "tampoco hay que preocuparse por el wiki",
+    "duration": 3599,
+    "offset": 122630,
+    "lang": "es"
+  },
+  {
+    "text": "y hay porque eso lo vamos a cargar",
+    "duration": 3479,
+    "offset": 124640,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros por lo que si tienen que",
+    "duration": 5311,
+    "offset": 126229,
+    "lang": "es"
+  },
+  {
+    "text": "preocuparse ustedes es por formular la",
+    "duration": 6271,
+    "offset": 128119,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta correcta y estructurarla como",
+    "duration": 5340,
+    "offset": 131540,
+    "lang": "es"
+  },
+  {
+    "text": "se debe por ejemplo hagamos de cuenta",
+    "duration": 5730,
+    "offset": 134390,
+    "lang": "es"
+  },
+  {
+    "text": "que un alumno está viendo un problema a",
+    "duration": 6840,
+    "offset": 136880,
+    "lang": "es"
+  },
+  {
+    "text": "donde le piden averiguar la velocidad en",
+    "duration": 5720,
+    "offset": 140120,
+    "lang": "es"
+  },
+  {
+    "text": "un tiro oblicuo pero en coordenadas",
+    "duration": 5120,
+    "offset": 143720,
+    "lang": "es"
+  },
+  {
+    "text": "intrínsecas",
+    "duration": 3000,
+    "offset": 145840,
+    "lang": "es"
+  },
+  {
+    "text": "y también le piden a averiguar en",
+    "duration": 4830,
+    "offset": 149410,
+    "lang": "es"
+  },
+  {
+    "text": "coordenadas intrínsecas y lo oblicuo la",
+    "duration": 3800,
+    "offset": 151750,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración",
+    "duration": 4380,
+    "offset": 154240,
+    "lang": "es"
+  },
+  {
+    "text": "entonces nosotros vamos a entrar con",
+    "duration": 5750,
+    "offset": 155550,
+    "lang": "es"
+  },
+  {
+    "text": "este texto",
+    "duration": 5080,
+    "offset": 158620,
+    "lang": "es"
+  },
+  {
+    "text": "estamos viendo un ejemplo bien vamos a",
+    "duration": 5580,
+    "offset": 161300,
+    "lang": "es"
+  },
+  {
+    "text": "entrar con este texto entonces acá en el",
+    "duration": 5730,
+    "offset": 163700,
+    "lang": "es"
+  },
+  {
+    "text": "wiki escribimos el texto puede tener",
+    "duration": 6090,
+    "offset": 166880,
+    "lang": "es"
+  },
+  {
+    "text": "hasta 280 caracteres lo que escribimos",
+    "duration": 5550,
+    "offset": 169430,
+    "lang": "es"
+  },
+  {
+    "text": "acá vemos",
+    "duration": 4700,
+    "offset": 172970,
+    "lang": "es"
+  },
+  {
+    "text": "corramos",
+    "duration": 2690,
+    "offset": 174980,
+    "lang": "es"
+  },
+  {
+    "text": "aparece es el número 280 porque lo que",
+    "duration": 8900,
+    "offset": 180490,
+    "lang": "es"
+  },
+  {
+    "text": "puede tener es hasta 280 caracteres bien",
+    "duration": 8850,
+    "offset": 184420,
+    "lang": "es"
+  },
+  {
+    "text": "entonces una vez que nosotros tenemos el",
+    "duration": 7030,
+    "offset": 189390,
+    "lang": "es"
+  },
+  {
+    "text": "texto a partir de leer el problema nos",
+    "duration": 4280,
+    "offset": 193270,
+    "lang": "es"
+  },
+  {
+    "text": "figuramos",
+    "duration": 3960,
+    "offset": 196420,
+    "lang": "es"
+  },
+  {
+    "text": "texto de la pregunta que puede formular",
+    "duration": 5800,
+    "offset": 197550,
+    "lang": "es"
+  },
+  {
+    "text": "el alumno lo que tenemos que hacer es",
+    "duration": 7530,
+    "offset": 200380,
+    "lang": "es"
+  },
+  {
+    "text": "crear las entidades las estructuras con",
+    "duration": 6330,
+    "offset": 203350,
+    "lang": "es"
+  },
+  {
+    "text": "la que después nosotros vamos a",
+    "duration": 4980,
+    "offset": 207910,
+    "lang": "es"
+  },
+  {
+    "text": "identificar a esa palabra para poder",
+    "duration": 5310,
+    "offset": 209680,
+    "lang": "es"
+  },
+  {
+    "text": "hacer la bifurcación condicional en el",
+    "duration": 4950,
+    "offset": 212890,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de chat acá por ejemplo la",
+    "duration": 5000,
+    "offset": 214990,
+    "lang": "es"
+  },
+  {
+    "text": "primera estructura que tenemos es",
+    "duration": 4740,
+    "offset": 217840,
+    "lang": "es"
+  },
+  {
+    "text": "cinemática o sea me piden averiguar la",
+    "duration": 4750,
+    "offset": 219990,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad en coordenadas intrínsecas en",
+    "duration": 5790,
+    "offset": 222580,
+    "lang": "es"
+  },
+  {
+    "text": "un tiro doble el intento la estructura",
+    "duration": 5640,
+    "offset": 224740,
+    "lang": "es"
+  },
+  {
+    "text": "es cinemática",
+    "duration": 6420,
+    "offset": 228370,
+    "lang": "es"
+  },
+  {
+    "text": "la entidad es tiro oblicuo",
+    "duration": 9449,
+    "offset": 230380,
+    "lang": "es"
+  },
+  {
+    "text": "o sea acá me están pidiendo averiguar la",
+    "duration": 6750,
+    "offset": 234790,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad en coordenadas intrínsecas de",
+    "duration": 3481,
+    "offset": 239829,
+    "lang": "es"
+  },
+  {
+    "text": "un tiro doble esta es la pregunta que",
+    "duration": 3990,
+    "offset": 241540,
+    "lang": "es"
+  },
+  {
+    "text": "formula el alumno",
+    "duration": 5820,
+    "offset": 243310,
+    "lang": "es"
+  },
+  {
+    "text": "este la primera estructura que aparece",
+    "duration": 5940,
+    "offset": 245530,
+    "lang": "es"
+  },
+  {
+    "text": "es éste intente cinemática como aparece",
+    "duration": 3990,
+    "offset": 249130,
+    "lang": "es"
+  },
+  {
+    "text": "eso en realidad parece porque nosotros",
+    "duration": 5340,
+    "offset": 251470,
+    "lang": "es"
+  },
+  {
+    "text": "la escribimos el sistema nos pone acá yo",
+    "duration": 6610,
+    "offset": 253120,
+    "lang": "es"
+  },
+  {
+    "text": "le podría poner si quiero dinámica",
+    "duration": 5800,
+    "offset": 256810,
+    "lang": "es"
+  },
+  {
+    "text": "cualquier cosa",
+    "duration": 4730,
+    "offset": 259730,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 4459,
+    "offset": 262610,
+    "lang": "es"
+  },
+  {
+    "text": "el sistema acá le voy a volver a poner",
+    "duration": 4410,
+    "offset": 264460,
+    "lang": "es"
+  },
+  {
+    "text": "cinemática que es lo correcto nosotros",
+    "duration": 4081,
+    "offset": 267069,
+    "lang": "es"
+  },
+  {
+    "text": "somos lo que les escribimos las",
+    "duration": 6690,
+    "offset": 268870,
+    "lang": "es"
+  },
+  {
+    "text": "estructuras es lo que hace entonces el n",
+    "duration": 7739,
+    "offset": 271150,
+    "lang": "es"
+  },
+  {
+    "text": "l en él el n l uno pone automáticamente",
+    "duration": 6359,
+    "offset": 275560,
+    "lang": "es"
+  },
+  {
+    "text": "las estructuras lo que hace es reconocer",
+    "duration": 5851,
+    "offset": 278889,
+    "lang": "es"
+  },
+  {
+    "text": "lo que escribe el alumno y a partir de",
+    "duration": 4611,
+    "offset": 281919,
+    "lang": "es"
+  },
+  {
+    "text": "ese reconocimiento",
+    "duration": 4320,
+    "offset": 284740,
+    "lang": "es"
+  },
+  {
+    "text": "generar las estructuras que nosotros",
+    "duration": 4960,
+    "offset": 286530,
+    "lang": "es"
+  },
+  {
+    "text": "pusimos por ejemplo vamos a sacar esto y",
+    "duration": 4639,
+    "offset": 289060,
+    "lang": "es"
+  },
+  {
+    "text": "en cambio me piden averiguar",
+    "duration": 5870,
+    "offset": 291490,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a poner",
+    "duration": 3661,
+    "offset": 293699,
+    "lang": "es"
+  },
+  {
+    "text": "para dar la fe",
+    "duration": 6010,
+    "offset": 313000,
+    "lang": "es"
+  },
+  {
+    "text": "2 y dad",
+    "duration": 3350,
+    "offset": 315660,
+    "lang": "es"
+  },
+  {
+    "text": "tengo que hacer la velocidad en",
+    "duration": 3680,
+    "offset": 319729,
+    "lang": "es"
+  },
+  {
+    "text": "por d",
+    "duration": 2690,
+    "offset": 323420,
+    "lang": "es"
+  },
+  {
+    "text": "se complica porque ordenadas",
+    "duration": 3980,
+    "offset": 326460,
+    "lang": "es"
+  },
+  {
+    "text": "intrínsecas",
+    "duration": 3000,
+    "offset": 333030,
+    "lang": "es"
+  },
+  {
+    "text": "en 1",
+    "duration": 3350,
+    "offset": 339569,
+    "lang": "es"
+  },
+  {
+    "text": "yo",
+    "duration": 2540,
+    "offset": 345820,
+    "lang": "es"
+  },
+  {
+    "text": "y por esta es la pregunta que hace el",
+    "duration": 7750,
+    "offset": 349770,
+    "lang": "es"
+  },
+  {
+    "text": "alumno fíjense que acá aparecen las",
+    "duration": 6720,
+    "offset": 353620,
+    "lang": "es"
+  },
+  {
+    "text": "estructuras porque lo reconoce vamos a",
+    "duration": 6560,
+    "offset": 357520,
+    "lang": "es"
+  },
+  {
+    "text": "ver por ejemplo vamos a escribir",
+    "duration": 3740,
+    "offset": 360340,
+    "lang": "es"
+  },
+  {
+    "text": "cambio de velocidad la aceleración",
+    "duration": 3920,
+    "offset": 364400,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 3000,
+    "offset": 369409,
+    "lang": "es"
+  },
+  {
+    "text": "desaparecen las estructuras",
+    "duration": 5890,
+    "offset": 384500,
+    "lang": "es"
+  },
+  {
+    "text": "y yo pongo un texto vamos a escribir un",
+    "duration": 6210,
+    "offset": 387150,
+    "lang": "es"
+  },
+  {
+    "text": "texto nuevo vamos a hacer lo voy a hacer",
+    "duration": 6950,
+    "offset": 390390,
+    "lang": "es"
+  },
+  {
+    "text": "afuera para que sea más rápido",
+    "duration": 3980,
+    "offset": 393360,
+    "lang": "es"
+  },
+  {
+    "text": "o para",
+    "duration": 4360,
+    "offset": 400230,
+    "lang": "es"
+  },
+  {
+    "text": "conocerla así lee",
+    "duration": 4370,
+    "offset": 401840,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3720,
+    "offset": 404590,
+    "lang": "es"
+  },
+  {
+    "text": "estación",
+    "duration": 4250,
+    "offset": 406210,
+    "lang": "es"
+  },
+  {
+    "text": "en",
+    "duration": 2150,
+    "offset": 408310,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3120,
+    "offset": 411730,
+    "lang": "es"
+  },
+  {
+    "text": "pase",
+    "duration": 5540,
+    "offset": 415100,
+    "lang": "es"
+  },
+  {
+    "text": "tiro",
+    "duration": 2690,
+    "offset": 417950,
+    "lang": "es"
+  },
+  {
+    "text": "toby",
+    "duration": 4570,
+    "offset": 422520,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá como hago para conocer la",
+    "duration": 5370,
+    "offset": 424120,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración en intrínsecas en un tiro",
+    "duration": 5820,
+    "offset": 427090,
+    "lang": "es"
+  },
+  {
+    "text": "blico eso lo voy a pegar acá",
+    "duration": 5640,
+    "offset": 429490,
+    "lang": "es"
+  },
+  {
+    "text": "entonces fíjense que hay después de un",
+    "duration": 7300,
+    "offset": 432910,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo que yo lo escribí lo que hace es",
+    "duration": 8950,
+    "offset": 435130,
+    "lang": "es"
+  },
+  {
+    "text": "traer las estructuras y el intento que",
+    "duration": 6060,
+    "offset": 440210,
+    "lang": "es"
+  },
+  {
+    "text": "es la principal la intención la entidad",
+    "duration": 4679,
+    "offset": 444080,
+    "lang": "es"
+  },
+  {
+    "text": "que estira oblicuo el rol obligó en el",
+    "duration": 3979,
+    "offset": 446270,
+    "lang": "es"
+  },
+  {
+    "text": "vacío",
+    "duration": 4070,
+    "offset": 448759,
+    "lang": "es"
+  },
+  {
+    "text": "y el trade que dice bueno coordenadas",
+    "duration": 5160,
+    "offset": 450249,
+    "lang": "es"
+  },
+  {
+    "text": "intrínsecas y que son clasificadores por",
+    "duration": 4560,
+    "offset": 452829,
+    "lang": "es"
+  },
+  {
+    "text": "esto o sea ustedes lo que van a tener",
+    "duration": 5640,
+    "offset": 455409,
+    "lang": "es"
+  },
+  {
+    "text": "que hacer es escribir estas entidades el",
+    "duration": 7691,
+    "offset": 457389,
+    "lang": "es"
+  },
+  {
+    "text": "intento que es la idea principal",
+    "duration": 6191,
+    "offset": 461049,
+    "lang": "es"
+  },
+  {
+    "text": "el en tití que es la entidad acá se",
+    "duration": 4109,
+    "offset": 465080,
+    "lang": "es"
+  },
+  {
+    "text": "trata de un tiro oblicuo es un dato",
+    "duration": 5579,
+    "offset": 467240,
+    "lang": "es"
+  },
+  {
+    "text": "adicional que complementa al intent el",
+    "duration": 5790,
+    "offset": 469189,
+    "lang": "es"
+  },
+  {
+    "text": "rol que me dice oblicuo en el vacío y",
+    "duration": 5791,
+    "offset": 472819,
+    "lang": "es"
+  },
+  {
+    "text": "acá el trade que es un clasificador o sí",
+    "duration": 7530,
+    "offset": 474979,
+    "lang": "es"
+  },
+  {
+    "text": "si no es ordinario puede ser de más",
+    "duration": 6779,
+    "offset": 478610,
+    "lang": "es"
+  },
+  {
+    "text": "posibilidades pero acá le puse el trade",
+    "duration": 5521,
+    "offset": 482509,
+    "lang": "es"
+  },
+  {
+    "text": "intrínsecas y es",
+    "duration": 5551,
+    "offset": 485389,
+    "lang": "es"
+  },
+  {
+    "text": "ahora qué es lo que pasa y por ejemplo",
+    "duration": 5610,
+    "offset": 488030,
+    "lang": "es"
+  },
+  {
+    "text": "yo acá digo no pero a mí no me convence",
+    "duration": 6600,
+    "offset": 490940,
+    "lang": "es"
+  },
+  {
+    "text": "este rol tiene que ser otro rol porque",
+    "duration": 5850,
+    "offset": 493640,
+    "lang": "es"
+  },
+  {
+    "text": "en realidad acá me está hablando de la",
+    "duration": 3660,
+    "offset": 497540,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración y no de la velocidad",
+    "duration": 5540,
+    "offset": 499490,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá yo puedo poner",
+    "duration": 7340,
+    "offset": 501200,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración lo creo yo ven en estas",
+    "duration": 7070,
+    "offset": 505030,
+    "lang": "es"
+  },
+  {
+    "text": "entidades está acción",
+    "duration": 3560,
+    "offset": 508540,
+    "lang": "es"
+  },
+  {
+    "text": "oblicuo",
+    "duration": 2901,
+    "offset": 512209,
+    "lang": "es"
+  },
+  {
+    "text": "le pongo crear el roll",
+    "duration": 3860,
+    "offset": 515969,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ahora tengo el mismo intento la",
+    "duration": 8040,
+    "offset": 520690,
+    "lang": "es"
+  },
+  {
+    "text": "misma entidad pero el rol es otro hay",
+    "duration": 6910,
+    "offset": 523690,
+    "lang": "es"
+  },
+  {
+    "text": "otro rollo",
+    "duration": 4570,
+    "offset": 528730,
+    "lang": "es"
+  },
+  {
+    "text": "y coordenadas intrínseca y es el",
+    "duration": 5190,
+    "offset": 530600,
+    "lang": "es"
+  },
+  {
+    "text": "clasificador es el mismo y una vez que",
+    "duration": 4950,
+    "offset": 533300,
+    "lang": "es"
+  },
+  {
+    "text": "escribo 30 en validez lo que va a hacer",
+    "duration": 5099,
+    "offset": 535790,
+    "lang": "es"
+  },
+  {
+    "text": "ahora es entrenar preparar la red",
+    "duration": 6509,
+    "offset": 538250,
+    "lang": "es"
+  },
+  {
+    "text": "neuronal para que la próxima vez que yo",
+    "duration": 6120,
+    "offset": 540889,
+    "lang": "es"
+  },
+  {
+    "text": "escriba esto acá todavía se está",
+    "duration": 4651,
+    "offset": 544759,
+    "lang": "es"
+  },
+  {
+    "text": "entrenando mientras está así ven que",
+    "duration": 3981,
+    "offset": 547009,
+    "lang": "es"
+  },
+  {
+    "text": "dice que está",
+    "duration": 4280,
+    "offset": 549410,
+    "lang": "es"
+  },
+  {
+    "text": "grueso se está entrenando la red",
+    "duration": 4370,
+    "offset": 550990,
+    "lang": "es"
+  },
+  {
+    "text": "neuronal",
+    "duration": 4459,
+    "offset": 553690,
+    "lang": "es"
+  },
+  {
+    "text": "entonces cuando alguien escriba que",
+    "duration": 4950,
+    "offset": 555360,
+    "lang": "es"
+  },
+  {
+    "text": "necesita conocer la aceleración en un",
+    "duration": 3961,
+    "offset": 558149,
+    "lang": "es"
+  },
+  {
+    "text": "tiro obligó en el vacío lo que va a",
+    "duration": 4200,
+    "offset": 560310,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es le va a generar el intento el",
+    "duration": 4409,
+    "offset": 562110,
+    "lang": "es"
+  },
+  {
+    "text": "en ti ti el rol y el trade que yo",
+    "duration": 4680,
+    "offset": 564510,
+    "lang": "es"
+  },
+  {
+    "text": "escribí recién y una necesariamente",
+    "duration": 4471,
+    "offset": 566519,
+    "lang": "es"
+  },
+  {
+    "text": "tiene que ser textualmente las mismas",
+    "duration": 6149,
+    "offset": 569190,
+    "lang": "es"
+  },
+  {
+    "text": "palabras con que el texto sugiera que se",
+    "duration": 6810,
+    "offset": 570990,
+    "lang": "es"
+  },
+  {
+    "text": "está buscando la aceleración y en",
+    "duration": 4831,
+    "offset": 575339,
+    "lang": "es"
+  },
+  {
+    "text": "coordenadas intrínsecas para un tiro vil",
+    "duration": 6890,
+    "offset": 577800,
+    "lang": "es"
+  },
+  {
+    "text": "con el vacío lo va a ser ahí pongo",
+    "duration": 7039,
+    "offset": 580170,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 4739,
+    "offset": 584690,
+    "lang": "es"
+  },
+  {
+    "text": "bueno grimal acelera siempre para",
+    "duration": 6021,
+    "offset": 587209,
+    "lang": "es"
+  },
+  {
+    "text": "mostrar fíjense que acá le puse la frase",
+    "duration": 8371,
+    "offset": 589429,
+    "lang": "es"
+  },
+  {
+    "text": "no es una porque si yo en cambio de",
+    "duration": 7209,
+    "offset": 593230,
+    "lang": "es"
+  },
+  {
+    "text": "poner como hago acá en cambio de poner",
+    "duration": 7399,
+    "offset": 597800,
+    "lang": "es"
+  },
+  {
+    "text": "como te pongo tengo",
+    "duration": 4760,
+    "offset": 600439,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración",
+    "duration": 4740,
+    "offset": 611590,
+    "lang": "es"
+  },
+  {
+    "text": "intrínsecas en un tiro blico fíjense que",
+    "duration": 5160,
+    "offset": 613470,
+    "lang": "es"
+  },
+  {
+    "text": "traduce a las mismas entidades",
+    "duration": 5850,
+    "offset": 616330,
+    "lang": "es"
+  },
+  {
+    "text": "no es que lo hace textualmente tiene los",
+    "duration": 6910,
+    "offset": 618630,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmos portugués y las redes",
+    "duration": 5670,
+    "offset": 622180,
+    "lang": "es"
+  },
+  {
+    "text": "neuronales que lo que van a hacer es van",
+    "duration": 5670,
+    "offset": 625540,
+    "lang": "es"
+  },
+  {
+    "text": "a comprender este texto y lo van a",
+    "duration": 5580,
+    "offset": 627850,
+    "lang": "es"
+  },
+  {
+    "text": "traducir a las estructuras que yo les",
+    "duration": 3650,
+    "offset": 631210,
+    "lang": "es"
+  },
+  {
+    "text": "puse",
+    "duration": 3920,
+    "offset": 633430,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que se necesita entonces que",
+    "duration": 5100,
+    "offset": 634860,
+    "lang": "es"
+  },
+  {
+    "text": "haya muchas preguntas y muchas variantes",
+    "duration": 5880,
+    "offset": 637350,
+    "lang": "es"
+  },
+  {
+    "text": "de estructuras las suficientes como para",
+    "duration": 7020,
+    "offset": 639960,
+    "lang": "es"
+  },
+  {
+    "text": "poder comprender en aquellas variaciones",
+    "duration": 6180,
+    "offset": 643230,
+    "lang": "es"
+  },
+  {
+    "text": "principales dentro de lo que van a",
+    "duration": 5020,
+    "offset": 646980,
+    "lang": "es"
+  },
+  {
+    "text": "preguntar los salud",
+    "duration": 5050,
+    "offset": 649410,
+    "lang": "es"
+  },
+  {
+    "text": "esto es una parte del sistema para",
+    "duration": 4260,
+    "offset": 652000,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes va a ser mucho más sencillo",
+    "duration": 3990,
+    "offset": 654460,
+    "lang": "es"
+  },
+  {
+    "text": "porque no van a tener que meterse en",
+    "duration": 5510,
+    "offset": 656260,
+    "lang": "es"
+  },
+  {
+    "text": "este wiki y hay que es lo que vamos",
+    "duration": 3320,
+    "offset": 658450,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes van a tener que crear las",
+    "duration": 6229,
+    "offset": 661970,
+    "lang": "es"
+  },
+  {
+    "text": "estructuras y las respuestas",
+    "duration": 4039,
+    "offset": 664160,
+    "lang": "es"
+  },
+  {
+    "text": "carl bien",
+    "duration": 3530,
+    "offset": 669290,
+    "lang": "es"
+  },
+  {
+    "text": "en otro sistema que es el que ya",
+    "duration": 4490,
+    "offset": 670960,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollamos",
+    "duration": 2630,
+    "offset": 672820,
+    "lang": "es"
+  }
+]

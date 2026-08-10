@@ -1,0 +1,152 @@
+[
+  {
+    "text": "Usando el ejemplo de A2A que está en",
+    "duration": 8400,
+    "offset": 2840,
+    "lang": "es"
+  },
+  {
+    "text": "GitHub, que es el que proporciona",
+    "duration": 8161,
+    "offset": 8559,
+    "lang": "es"
+  },
+  {
+    "text": "Google, lo que hicimos fue levantar un",
+    "duration": 8920,
+    "offset": 11240,
+    "lang": "es"
+  },
+  {
+    "text": "backend y ese backend de orquestador de",
+    "duration": 6440,
+    "offset": 16720,
+    "lang": "es"
+  },
+  {
+    "text": "A2A es el que vamos a usar para",
+    "duration": 6240,
+    "offset": 20160,
+    "lang": "es"
+  },
+  {
+    "text": "registrar nuestros agentes y para poder",
+    "duration": 6039,
+    "offset": 23160,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollar nuestro propio orquestador.",
+    "duration": 5800,
+    "offset": 26400,
+    "lang": "es"
+  },
+  {
+    "text": "Acá tenemos, por ejemplo, un agente del",
+    "duration": 5961,
+    "offset": 29199,
+    "lang": "es"
+  },
+  {
+    "text": "cual conocemos su IP y lo que vamos a",
+    "duration": 9160,
+    "offset": 32200,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es vamos a usar las eh APIs Rest",
+    "duration": 9600,
+    "offset": 35160,
+    "lang": "es"
+  },
+  {
+    "text": "de el backend del orquestador de E2A",
+    "duration": 6240,
+    "offset": 41360,
+    "lang": "es"
+  },
+  {
+    "text": "para hacer el proceso de registración.",
+    "duration": 6160,
+    "offset": 44760,
+    "lang": "es"
+  },
+  {
+    "text": "Acá registramos el agente y ya tenemos",
+    "duration": 7560,
+    "offset": 47600,
+    "lang": "es"
+  },
+  {
+    "text": "el ID con el que el agente fue",
+    "duration": 7200,
+    "offset": 50920,
+    "lang": "es"
+  },
+  {
+    "text": "registrado. Entonces, una vez que",
+    "duration": 5760,
+    "offset": 55160,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos el agente registrado, podemos",
+    "duration": 5079,
+    "offset": 58120,
+    "lang": "es"
+  },
+  {
+    "text": "hacer el agent list. Y fíjense como acá",
+    "duration": 5480,
+    "offset": 60920,
+    "lang": "es"
+  },
+  {
+    "text": "nos dice que registró el agente de",
+    "duration": 7681,
+    "offset": 63199,
+    "lang": "es"
+  },
+  {
+    "text": "física y podemos leer el agent card.",
+    "duration": 7240,
+    "offset": 66400,
+    "lang": "es"
+  },
+  {
+    "text": "Con esto lo que vamos a hacer es tenemos",
+    "duration": 5200,
+    "offset": 70880,
+    "lang": "es"
+  },
+  {
+    "text": "todos los points de la API para",
+    "duration": 5080,
+    "offset": 73640,
+    "lang": "es"
+  },
+  {
+    "text": "construir nuestro propio orquestador",
+    "duration": 5800,
+    "offset": 76080,
+    "lang": "es"
+  },
+  {
+    "text": "frontend y poder manejar de esa manera",
+    "duration": 5719,
+    "offset": 78720,
+    "lang": "es"
+  },
+  {
+    "text": "todos los agentes en formas distribuidas",
+    "duration": 7440,
+    "offset": 81880,
+    "lang": "es"
+  },
+  {
+    "text": "de las distintas materias. M.",
+    "duration": 4881,
+    "offset": 84439,
+    "lang": "es"
+  }
+]

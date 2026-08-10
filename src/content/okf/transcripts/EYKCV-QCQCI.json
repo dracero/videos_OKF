@@ -1,0 +1,704 @@
+[
+  {
+    "text": "Bueno, vamos a mostrar acá cómo se",
+    "duration": 7240,
+    "offset": 1120,
+    "lang": "es"
+  },
+  {
+    "text": "amplía un MSP",
+    "duration": 5681,
+    "offset": 5279,
+    "lang": "es"
+  },
+  {
+    "text": "Server. ¿Para qué vamos a usar este MCP",
+    "duration": 4760,
+    "offset": 8360,
+    "lang": "es"
+  },
+  {
+    "text": "Server? Lo vamos a usar como interfaz",
+    "duration": 5079,
+    "offset": 10960,
+    "lang": "es"
+  },
+  {
+    "text": "para distintas APIs. Por un lado",
+    "duration": 8120,
+    "offset": 13120,
+    "lang": "es"
+  },
+  {
+    "text": "teníamos el original, que era la API que",
+    "duration": 8961,
+    "offset": 16039,
+    "lang": "es"
+  },
+  {
+    "text": "servía para dar el clima, pero ahora",
+    "duration": 8279,
+    "offset": 21240,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros lo ampliamos, le pusimos un una",
+    "duration": 7960,
+    "offset": 25000,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta que se conecta a CoinCap,",
+    "duration": 5681,
+    "offset": 29519,
+    "lang": "es"
+  },
+  {
+    "text": "que nos da los distintos exchanges que",
+    "duration": 5320,
+    "offset": 32960,
+    "lang": "es"
+  },
+  {
+    "text": "existen, distintas e empresas que se",
+    "duration": 5440,
+    "offset": 35200,
+    "lang": "es"
+  },
+  {
+    "text": "dedican a hacer transacciones con",
+    "duration": 3880,
+    "offset": 38280,
+    "lang": "es"
+  },
+  {
+    "text": "criptomonedas.",
+    "duration": 6759,
+    "offset": 40640,
+    "lang": "es"
+  },
+  {
+    "text": "Y eh otra API que lo que hace es nos",
+    "duration": 10079,
+    "offset": 42160,
+    "lang": "es"
+  },
+  {
+    "text": "da la otra API que lo que nos da es el",
+    "duration": 7761,
+    "offset": 47399,
+    "lang": "es"
+  },
+  {
+    "text": "rate de cambio entre las distintas",
+    "duration": 7280,
+    "offset": 52239,
+    "lang": "es"
+  },
+  {
+    "text": "monedas y los dólares norteamericanos.",
+    "duration": 8120,
+    "offset": 55160,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, como vemos, lo único que tenemos que",
+    "duration": 5681,
+    "offset": 59519,
+    "lang": "es"
+  },
+  {
+    "text": "hacer si queremos que el chatbot",
+    "duration": 5519,
+    "offset": 63280,
+    "lang": "es"
+  },
+  {
+    "text": "responda con más y con más y con más e",
+    "duration": 7640,
+    "offset": 65200,
+    "lang": "es"
+  },
+  {
+    "text": "elementos de MCP, simplemente es agregar",
+    "duration": 7360,
+    "offset": 68799,
+    "lang": "es"
+  },
+  {
+    "text": "las referencias a las API que nosotros",
+    "duration": 7040,
+    "offset": 72840,
+    "lang": "es"
+  },
+  {
+    "text": "queremos llamar. De la misma",
+    "duration": 7161,
+    "offset": 76159,
+    "lang": "es"
+  },
+  {
+    "text": "manera tenemos el Fast App MCP, que",
+    "duration": 6279,
+    "offset": 79880,
+    "lang": "es"
+  },
+  {
+    "text": "sería nuestro cliente, a donde ponemos",
+    "duration": 7119,
+    "offset": 83320,
+    "lang": "es"
+  },
+  {
+    "text": "las referencias a las APIs y las los eh",
+    "duration": 8280,
+    "offset": 86159,
+    "lang": "es"
+  },
+  {
+    "text": "API Keys. Y en esta parte es a donde",
+    "duration": 6360,
+    "offset": 90439,
+    "lang": "es"
+  },
+  {
+    "text": "definimos cuáles son las funcionalidades",
+    "duration": 5521,
+    "offset": 94439,
+    "lang": "es"
+  },
+  {
+    "text": "que puede tener el",
+    "duration": 7441,
+    "offset": 96799,
+    "lang": "es"
+  },
+  {
+    "text": "eh el servidor.",
+    "duration": 4280,
+    "offset": 99960,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que en definitiva si yo",
+    "duration": 4159,
+    "offset": 105960,
+    "lang": "es"
+  },
+  {
+    "text": "quisiera disponibilizar más APIs, lo",
+    "duration": 4839,
+    "offset": 110200,
+    "lang": "es"
+  },
+  {
+    "text": "único que tendría que hacer",
+    "duration": 5600,
+    "offset": 113119,
+    "lang": "es"
+  },
+  {
+    "text": "sería agrandar el este el MCP Server y",
+    "duration": 6601,
+    "offset": 115039,
+    "lang": "es"
+  },
+  {
+    "text": "el client para que manejan esas APIs.",
+    "duration": 5521,
+    "offset": 118719,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué cambio tengo que hacer en el",
+    "duration": 5040,
+    "offset": 121640,
+    "lang": "es"
+  },
+  {
+    "text": "chatbot? Este es el host que sería el",
+    "duration": 5400,
+    "offset": 124240,
+    "lang": "es"
+  },
+  {
+    "text": "chatbot que es un gemini 2.0. Acá no",
+    "duration": 4639,
+    "offset": 126680,
+    "lang": "es"
+  },
+  {
+    "text": "tengo que hacer absolutamente ningún",
+    "duration": 3800,
+    "offset": 129640,
+    "lang": "es"
+  },
+  {
+    "text": "cambio porque todo se maneja a través de",
+    "duration": 6321,
+    "offset": 131319,
+    "lang": "es"
+  },
+  {
+    "text": "MCP Server y MCP client. O sea, que acá",
+    "duration": 5600,
+    "offset": 133440,
+    "lang": "es"
+  },
+  {
+    "text": "esto sigue como siempre. Le digo",
+    "duration": 4800,
+    "offset": 137640,
+    "lang": "es"
+  },
+  {
+    "text": "simplemente que se va e a conectar",
+    "duration": 7520,
+    "offset": 139040,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando el STD Server Params a",
+    "duration": 7079,
+    "offset": 142440,
+    "lang": "es"
+  },
+  {
+    "text": "eh a esta dirección que es a donde está",
+    "duration": 6430,
+    "offset": 146560,
+    "lang": "es"
+  },
+  {
+    "text": "escuchando el fast y MSP.",
+    "duration": 5360,
+    "offset": 149519,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 5969,
+    "offset": 152990,
+    "lang": "es"
+  },
+  {
+    "text": "E y este después no hay que hacer ningún",
+    "duration": 5881,
+    "offset": 154879,
+    "lang": "es"
+  },
+  {
+    "text": "cambio, por más que aumente aumenten las",
+    "duration": 4441,
+    "offset": 158959,
+    "lang": "es"
+  },
+  {
+    "text": "cosas, porque él solo va a descubrir",
+    "duration": 4559,
+    "offset": 160760,
+    "lang": "es"
+  },
+  {
+    "text": "cuáles son las herramientas en el",
+    "duration": 4080,
+    "offset": 163400,
+    "lang": "es"
+  },
+  {
+    "text": "diálogo con el client va a descubrir",
+    "duration": 3681,
+    "offset": 165319,
+    "lang": "es"
+  },
+  {
+    "text": "cuáles son las herramientas de las que",
+    "duration": 4240,
+    "offset": 167480,
+    "lang": "es"
+  },
+  {
+    "text": "puede disponer. Fíjense, acá levantamos",
+    "duration": 4159,
+    "offset": 169000,
+    "lang": "es"
+  },
+  {
+    "text": "el MSP",
+    "duration": 3200,
+    "offset": 171720,
+    "lang": "es"
+  },
+  {
+    "text": "Server,",
+    "duration": 6000,
+    "offset": 173159,
+    "lang": "es"
+  },
+  {
+    "text": "acá tenemos el fast y MCP que sería el",
+    "duration": 7599,
+    "offset": 174920,
+    "lang": "es"
+  },
+  {
+    "text": "client y este es el host que es nuestro",
+    "duration": 5881,
+    "offset": 179159,
+    "lang": "es"
+  },
+  {
+    "text": "cliente. Entonces, le vamos a decir",
+    "duration": 5601,
+    "offset": 182519,
+    "lang": "es"
+  },
+  {
+    "text": "si me podés",
+    "duration": 6119,
+    "offset": 185040,
+    "lang": "es"
+  },
+  {
+    "text": "listar los",
+    "duration": 8039,
+    "offset": 188120,
+    "lang": "es"
+  },
+  {
+    "text": "eh changes que conozcas.",
+    "duration": 5000,
+    "offset": 191159,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que ahí lo que va a hacer es va",
+    "duration": 7559,
+    "offset": 199760,
+    "lang": "es"
+  },
+  {
+    "text": "a conectarse a la página de Coincap y a",
+    "duration": 5481,
+    "offset": 203879,
+    "lang": "es"
+  },
+  {
+    "text": "través de la página de Coincap es que me",
+    "duration": 3920,
+    "offset": 207319,
+    "lang": "es"
+  },
+  {
+    "text": "da toda la lista de los",
+    "duration": 3840,
+    "offset": 209360,
+    "lang": "es"
+  },
+  {
+    "text": "exchanges. Estoy con el chatbot,",
+    "duration": 5321,
+    "offset": 211239,
+    "lang": "es"
+  },
+  {
+    "text": "entonces le puedo decir los",
+    "duration": 3360,
+    "offset": 213200,
+    "lang": "es"
+  },
+  {
+    "text": "exchanges no son lo mismo que",
+    "duration": 5960,
+    "offset": 217680,
+    "lang": "es"
+  },
+  {
+    "text": "las",
+    "duration": 4760,
+    "offset": 224640,
+    "lang": "es"
+  },
+  {
+    "text": "las",
+    "duration": 3000,
+    "offset": 226400,
+    "lang": "es"
+  },
+  {
+    "text": "criptomonedas, ¿no? Los exchanges no son",
+    "duration": 3480,
+    "offset": 231319,
+    "lang": "es"
+  },
+  {
+    "text": "lo mismo que las criptomonedas. Los",
+    "duration": 2920,
+    "offset": 233519,
+    "lang": "es"
+  },
+  {
+    "text": "exchanges son las plataformas donde se",
+    "duration": 4360,
+    "offset": 234799,
+    "lang": "es"
+  },
+  {
+    "text": "puede intercambiar",
+    "duration": 2720,
+    "offset": 236439,
+    "lang": "es"
+  },
+  {
+    "text": "criptomonedas. ¿Cuáles son los rates?",
+    "duration": 4519,
+    "offset": 239280,
+    "lang": "es"
+  },
+  {
+    "text": "Y ahí me va a dar todos los rapes de las",
+    "duration": 6440,
+    "offset": 247280,
+    "lang": "es"
+  },
+  {
+    "text": "distintas monedas respecto a el",
+    "duration": 6400,
+    "offset": 250239,
+    "lang": "es"
+  },
+  {
+    "text": "e al dólar",
+    "duration": 5359,
+    "offset": 253720,
+    "lang": "es"
+  },
+  {
+    "text": "estadounidense. Acá tarda un rato porque",
+    "duration": 4241,
+    "offset": 256639,
+    "lang": "es"
+  },
+  {
+    "text": "como verán son un",
+    "duration": 4641,
+    "offset": 259079,
+    "lang": "es"
+  },
+  {
+    "text": "montón, pero bueno, la idea es que yo",
+    "duration": 5840,
+    "offset": 260880,
+    "lang": "es"
+  },
+  {
+    "text": "antes tenía que usar una AP, tenía que",
+    "duration": 4840,
+    "offset": 263720,
+    "lang": "es"
+  },
+  {
+    "text": "programar un sistema, hacer un montón de",
+    "duration": 4080,
+    "offset": 266720,
+    "lang": "es"
+  },
+  {
+    "text": "cosas y ahora directamente lo único que",
+    "duration": 4079,
+    "offset": 268560,
+    "lang": "es"
+  },
+  {
+    "text": "necesito es tener un front que se",
+    "duration": 3320,
+    "offset": 270800,
+    "lang": "es"
+  },
+  {
+    "text": "conecta a un chatbot y a través de ese",
+    "duration": 3521,
+    "offset": 272639,
+    "lang": "es"
+  },
+  {
+    "text": "front que se conecta al chatbot puedo",
+    "duration": 4000,
+    "offset": 274120,
+    "lang": "es"
+  },
+  {
+    "text": "agarrar y puedo empezar a hacer todo. De",
+    "duration": 4039,
+    "offset": 276160,
+    "lang": "es"
+  },
+  {
+    "text": "hecho, un agente también podría",
+    "duration": 4200,
+    "offset": 278120,
+    "lang": "es"
+  },
+  {
+    "text": "comunicarse, con lo cual un cliente",
+    "duration": 4560,
+    "offset": 280199,
+    "lang": "es"
+  },
+  {
+    "text": "podría llamar por teléfono y y",
+    "duration": 4439,
+    "offset": 282320,
+    "lang": "es"
+  },
+  {
+    "text": "directamente le estaría conectando",
+    "duration": 4160,
+    "offset": 284759,
+    "lang": "es"
+  },
+  {
+    "text": "contestando el chatbot en tiempo real a",
+    "duration": 6801,
+    "offset": 286759,
+    "lang": "es"
+  },
+  {
+    "text": "través de la API. Y ahora le digo cómo",
+    "duration": 7041,
+    "offset": 288919,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 4760,
+    "offset": 293560,
+    "lang": "es"
+  },
+  {
+    "text": "está,",
+    "duration": 5000,
+    "offset": 295960,
+    "lang": "es"
+  },
+  {
+    "text": "cómo",
+    "duration": 10439,
+    "offset": 298320,
+    "lang": "es"
+  },
+  {
+    "text": "está el clima en Buenos A10.",
+    "duration": 7799,
+    "offset": 300960,
+    "lang": "es"
+  },
+  {
+    "text": "Argentina. Eh, el clima por país.",
+    "duration": 5240,
+    "offset": 314120,
+    "lang": "es"
+  },
+  {
+    "text": "¿Quieres saber clima en Argentina? Le",
+    "duration": 5239,
+    "offset": 317680,
+    "lang": "es"
+  },
+  {
+    "text": "digo que sí, que me diga el clima en",
+    "duration": 8000,
+    "offset": 319360,
+    "lang": "es"
+  },
+  {
+    "text": "Argentina, eh, el dame ahí solo por",
+    "duration": 6441,
+    "offset": 322919,
+    "lang": "es"
+  },
+  {
+    "text": "país. Dame",
+    "duration": 4640,
+    "offset": 327360,
+    "lang": "es"
+  },
+  {
+    "text": "el tema",
+    "duration": 6640,
+    "offset": 329360,
+    "lang": "es"
+  },
+  {
+    "text": "en Argentina.",
+    "duration": 4000,
+    "offset": 332000,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, 18 gr",
+    "duration": 5440,
+    "offset": 339560,
+    "lang": "es"
+  },
+  {
+    "text": "celó las son niebla, velocidad del",
+    "duration": 5361,
+    "offset": 341759,
+    "lang": "es"
+  },
+  {
+    "text": "viento. Bien, y",
+    "duration": 4800,
+    "offset": 345000,
+    "lang": "es"
+  },
+  {
+    "text": "ahí",
+    "duration": 6199,
+    "offset": 347120,
+    "lang": "es"
+  },
+  {
+    "text": "este pasa el clima en Argentina y sigue",
+    "duration": 5200,
+    "offset": 349800,
+    "lang": "es"
+  },
+  {
+    "text": "siendo el chatbot. Obviamente no se",
+    "duration": 3160,
+    "offset": 353319,
+    "lang": "es"
+  },
+  {
+    "text": "puede conectar internet porque no le",
+    "duration": 4800,
+    "offset": 355000,
+    "lang": "es"
+  },
+  {
+    "text": "puse nada disponibilidad, pero cualquier",
+    "duration": 5280,
+    "offset": 356479,
+    "lang": "es"
+  },
+  {
+    "text": "cosa que yo quisiera hacer, puedo",
+    "duration": 4000,
+    "offset": 359800,
+    "lang": "es"
+  },
+  {
+    "text": "conectarlo directamente al API. lo va a",
+    "duration": 6361,
+    "offset": 361759,
+    "lang": "es"
+  },
+  {
+    "text": "hacer a través del protocolo MCP.",
+    "duration": 4320,
+    "offset": 363800,
+    "lang": "es"
+  }
+]

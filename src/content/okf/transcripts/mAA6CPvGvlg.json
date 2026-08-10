@@ -1,0 +1,272 @@
+[
+  {
+    "text": "bien acá tenemos un agente a este agente",
+    "duration": 12200,
+    "offset": 2000,
+    "lang": "es"
+  },
+  {
+    "text": "le adicionamos dos Tools una que es para",
+    "duration": 8041,
+    "offset": 8559,
+    "lang": "es"
+  },
+  {
+    "text": "hacer cuentas sencillas cálculos",
+    "duration": 4440,
+    "offset": 14200,
+    "lang": "es"
+  },
+  {
+    "text": "sencillos y otra que es para hacer",
+    "duration": 6640,
+    "offset": 16600,
+    "lang": "es"
+  },
+  {
+    "text": "cálculos más complejos tenemos",
+    "duration": 7559,
+    "offset": 18640,
+    "lang": "es"
+  },
+  {
+    "text": "un una entrada de chat que va a ser la",
+    "duration": 4199,
+    "offset": 23240,
+    "lang": "es"
+  },
+  {
+    "text": "que",
+    "duration": 4560,
+    "offset": 26199,
+    "lang": "es"
+  },
+  {
+    "text": "PR y a la salida",
+    "duration": 7921,
+    "offset": 27439,
+    "lang": "es"
+  },
+  {
+    "text": "de El prom tenemos el text input para el",
+    "duration": 8960,
+    "offset": 30759,
+    "lang": "es"
+  },
+  {
+    "text": "agente y el Language model que Us elente",
+    "duration": 8199,
+    "offset": 35360,
+    "lang": "es"
+  },
+  {
+    "text": "Recuerden que el Language model es el",
+    "duration": 7320,
+    "offset": 39719,
+    "lang": "es"
+  },
+  {
+    "text": "que va a estar dirigiendo las acciones",
+    "duration": 7601,
+    "offset": 43559,
+    "lang": "es"
+  },
+  {
+    "text": "del agente para que seleccione el tool",
+    "duration": 6200,
+    "offset": 47039,
+    "lang": "es"
+  },
+  {
+    "text": "correspondiente lo que vamos a hacer",
+    "duration": 4800,
+    "offset": 51160,
+    "lang": "es"
+  },
+  {
+    "text": "ahora utilizando la parte experimental y",
+    "duration": 7960,
+    "offset": 53239,
+    "lang": "es"
+  },
+  {
+    "text": "Beta de flow es vamos a agregar",
+    "duration": 7720,
+    "offset": 55960,
+    "lang": "es"
+  },
+  {
+    "text": "que sirva para hacer búsquedas en",
+    "duration": 5761,
+    "offset": 61199,
+    "lang": "es"
+  },
+  {
+    "text": "Wikipedia entonces acá",
+    "duration": 6000,
+    "offset": 63680,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos las búsquedas en",
+    "duration": 6080,
+    "offset": 66960,
+    "lang": "es"
+  },
+  {
+    "text": "Wikipedia y lo que vamos a hacer es la",
+    "duration": 6560,
+    "offset": 69680,
+    "lang": "es"
+  },
+  {
+    "text": "salida de esta herramienta vamos a",
+    "duration": 7520,
+    "offset": 73040,
+    "lang": "es"
+  },
+  {
+    "text": "incorporar a el to de agente Entonces ya",
+    "duration": 8239,
+    "offset": 76240,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos un agente que tiene un que",
+    "duration": 7559,
+    "offset": 80560,
+    "lang": "es"
+  },
+  {
+    "text": "es y a su vez tiene tres",
+    "duration": 7361,
+    "offset": 84479,
+    "lang": "es"
+  },
+  {
+    "text": "Tools vamos ahora a ir el playground Y",
+    "duration": 5640,
+    "offset": 88119,
+    "lang": "es"
+  },
+  {
+    "text": "entonces en el playground le podemos",
+    "duration": 4440,
+    "offset": 91840,
+    "lang": "es"
+  },
+  {
+    "text": "hacer una",
+    "duration": 2521,
+    "offset": 93759,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta Cuánto",
+    "duration": 5641,
+    "offset": 96399,
+    "lang": "es"
+  },
+  {
+    "text": "es",
+    "duration": 8200,
+    "offset": 99320,
+    "lang": "es"
+  },
+  {
+    "text": "2 4 por 5 es una pregunta va usar para",
+    "duration": 9359,
+    "offset": 102040,
+    "lang": "es"
+  },
+  {
+    "text": "eso los Tools que resuelven",
+    "duration": 7480,
+    "offset": 107520,
+    "lang": "es"
+  },
+  {
+    "text": "operaciones Matemáticas perfecto salió",
+    "duration": 7481,
+    "offset": 111399,
+    "lang": "es"
+  },
+  {
+    "text": "muy bien y ahora le podemos preguntar",
+    "duration": 6840,
+    "offset": 115000,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo",
+    "duration": 5960,
+    "offset": 118880,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 3000,
+    "offset": 121840,
+    "lang": "es"
+  },
+  {
+    "text": "Wikipedia donde se fabrica el",
+    "duration": 9519,
+    "offset": 125000,
+    "lang": "es"
+  },
+  {
+    "text": "tequila ahí Eso no tiene nada que ver",
+    "duration": 6640,
+    "offset": 131239,
+    "lang": "es"
+  },
+  {
+    "text": "con operaciones Matemáticas Pero va a",
+    "duration": 5241,
+    "offset": 134519,
+    "lang": "es"
+  },
+  {
+    "text": "ser la búsqueda que va a tardar un poco",
+    "duration": 3241,
+    "offset": 137879,
+    "lang": "es"
+  },
+  {
+    "text": "más en",
+    "duration": 4199,
+    "offset": 139760,
+    "lang": "es"
+  },
+  {
+    "text": "Wikipedia bien ahí nos contesta en este",
+    "duration": 4360,
+    "offset": 141120,
+    "lang": "es"
+  },
+  {
+    "text": "caso nos contesta en inglés porque",
+    "duration": 4401,
+    "offset": 143959,
+    "lang": "es"
+  },
+  {
+    "text": "estamos en una prueba pero acá nos dice",
+    "duration": 4880,
+    "offset": 145480,
+    "lang": "es"
+  },
+  {
+    "text": "que el es originario de la ciudad",
+    "duration": 5920,
+    "offset": 148360,
+    "lang": "es"
+  },
+  {
+    "text": "mexicana de Jalisco",
+    "duration": 3920,
+    "offset": 150360,
+    "lang": "es"
+  }
+]

@@ -4,7 +4,7 @@ title: "Video1 Parcial 21 de Abril SP1"
 description: ""
 resource: "https://www.youtube.com/watch?v=rzjA463i2SY"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-02T00:21:57.421Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T17:06:24.885Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -18,7 +18,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-02"
+    last_modified: "2026-08-10"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"

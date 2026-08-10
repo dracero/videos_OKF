@@ -1,0 +1,416 @@
+[
+  {
+    "text": "el siguiente algoritmo que vamos a ver",
+    "duration": 5760,
+    "offset": 3120,
+    "lang": "es"
+  },
+  {
+    "text": "es el algoritmo de advantage actor",
+    "duration": 5839,
+    "offset": 5960,
+    "lang": "es"
+  },
+  {
+    "text": "critic A diferencia de el algoritmo de",
+    "duration": 7200,
+    "offset": 8880,
+    "lang": "es"
+  },
+  {
+    "text": "Deep que Network que intentaba maximizar",
+    "duration": 8240,
+    "offset": 11799,
+    "lang": "es"
+  },
+  {
+    "text": "la función valor este algoritmo intenta",
+    "duration": 7600,
+    "offset": 16080,
+    "lang": "es"
+  },
+  {
+    "text": "maximizar la función política la función",
+    "duration": 6921,
+    "offset": 20039,
+    "lang": "es"
+  },
+  {
+    "text": "política sería una combinación de el",
+    "duration": 5280,
+    "offset": 23680,
+    "lang": "es"
+  },
+  {
+    "text": "estado en el que me encuentro y la",
+    "duration": 5639,
+    "offset": 26960,
+    "lang": "es"
+  },
+  {
+    "text": "acción que voy a tomar al igual que todo",
+    "duration": 6240,
+    "offset": 28960,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmo de aprendizaje por refuerzo lo",
+    "duration": 6280,
+    "offset": 32599,
+    "lang": "es"
+  },
+  {
+    "text": "que hace es tiene un agente ese agente",
+    "duration": 7080,
+    "offset": 35200,
+    "lang": "es"
+  },
+  {
+    "text": "se mueve dentro de un entorno de un",
+    "duration": 7360,
+    "offset": 38879,
+    "lang": "es"
+  },
+  {
+    "text": "ambiente y va a tener en función de si",
+    "duration": 7080,
+    "offset": 42280,
+    "lang": "es"
+  },
+  {
+    "text": "cumple o no cumple con ciertas",
+    "duration": 6361,
+    "offset": 46239,
+    "lang": "es"
+  },
+  {
+    "text": "premisas una retroalimentación positiva",
+    "duration": 5440,
+    "offset": 49360,
+    "lang": "es"
+  },
+  {
+    "text": "o negativa Lo que sucede es que acá no",
+    "duration": 5880,
+    "offset": 52600,
+    "lang": "es"
+  },
+  {
+    "text": "voy a intentar maximizar la función",
+    "duration": 6160,
+    "offset": 54800,
+    "lang": "es"
+  },
+  {
+    "text": "valor de realimentación sino que voy a",
+    "duration": 5800,
+    "offset": 58480,
+    "lang": "es"
+  },
+  {
+    "text": "intentar maximizar la probabilidad de",
+    "duration": 5560,
+    "offset": 60960,
+    "lang": "es"
+  },
+  {
+    "text": "que haya una transición de mayor valor",
+    "duration": 6560,
+    "offset": 64280,
+    "lang": "es"
+  },
+  {
+    "text": "eso se llama maximizar la política vamos",
+    "duration": 7160,
+    "offset": 66520,
+    "lang": "es"
+  },
+  {
+    "text": "a ponerlo a",
+    "duration": 2840,
+    "offset": 70840,
+    "lang": "es"
+  },
+  {
+    "text": "funcionar fíjense que yo acá en este",
+    "duration": 6840,
+    "offset": 73880,
+    "lang": "es"
+  },
+  {
+    "text": "entorno lo cambié deq Network por a2c",
+    "duration": 6161,
+    "offset": 76799,
+    "lang": "es"
+  },
+  {
+    "text": "que acá le digo que va a ser el actor",
+    "duration": 5320,
+    "offset": 80720,
+    "lang": "es"
+  },
+  {
+    "text": "advantage actor",
+    "duration": 3080,
+    "offset": 82960,
+    "lang": "es"
+  },
+  {
+    "text": "critic lo que hace el actor es el que",
+    "duration": 5561,
+    "offset": 86439,
+    "lang": "es"
+  },
+  {
+    "text": "Toma las decisiones y tiene un algoritmo",
+    "duration": 4559,
+    "offset": 89920,
+    "lang": "es"
+  },
+  {
+    "text": "que es el crítico que es el que evalúa",
+    "duration": 5079,
+    "offset": 92000,
+    "lang": "es"
+  },
+  {
+    "text": "cuán buena ha sido esas decisiones a",
+    "duration": 5841,
+    "offset": 94479,
+    "lang": "es"
+  },
+  {
+    "text": "través del estado al que se",
+    "duration": 3241,
+    "offset": 97079,
+    "lang": "es"
+  },
+  {
+    "text": "llegó acá vemos que este es más apto",
+    "duration": 7039,
+    "offset": 100360,
+    "lang": "es"
+  },
+  {
+    "text": "para realizar pequeños movimientos",
+    "duration": 4559,
+    "offset": 104880,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense respecto del anterior que los",
+    "duration": 5080,
+    "offset": 107399,
+    "lang": "es"
+  },
+  {
+    "text": "movimientos que realiza Son movimientos",
+    "duration": 5161,
+    "offset": 109439,
+    "lang": "es"
+  },
+  {
+    "text": "muy pequeños y cuando vemos que se",
+    "duration": 4801,
+    "offset": 112479,
+    "lang": "es"
+  },
+  {
+    "text": "reinicia es porque la barra se ha movido",
+    "duration": 5839,
+    "offset": 114600,
+    "lang": "es"
+  },
+  {
+    "text": "en esos movimientos aleatorios más del",
+    "duration": 6479,
+    "offset": 117280,
+    "lang": "es"
+  },
+  {
+    "text": "ángulo que está permitido moverse según",
+    "duration": 5841,
+    "offset": 120439,
+    "lang": "es"
+  },
+  {
+    "text": "las condiciones que le",
+    "duration": 6521,
+    "offset": 123759,
+    "lang": "es"
+  },
+  {
+    "text": "pusimos Recuerden que esto es el entorno",
+    "duration": 6560,
+    "offset": 126280,
+    "lang": "es"
+  },
+  {
+    "text": "gymnasium que es un entorno que está",
+    "duration": 5800,
+    "offset": 130280,
+    "lang": "es"
+  },
+  {
+    "text": "preparado es un entorno de openi que",
+    "duration": 6119,
+    "offset": 132840,
+    "lang": "es"
+  },
+  {
+    "text": "está preparado para usar stable basel 3",
+    "duration": 4720,
+    "offset": 136080,
+    "lang": "es"
+  },
+  {
+    "text": "que es una biblioteca de aprendizaje por",
+    "duration": 4280,
+    "offset": 138959,
+    "lang": "es"
+  },
+  {
+    "text": "refuerzo y yo lo único que tengo que",
+    "duration": 4000,
+    "offset": 140800,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es",
+    "duration": 4561,
+    "offset": 143239,
+    "lang": "es"
+  },
+  {
+    "text": "tocar esta parte y esta parte para",
+    "duration": 5840,
+    "offset": 144800,
+    "lang": "es"
+  },
+  {
+    "text": "decirle Qué tipo de",
+    "duration": 5280,
+    "offset": 147800,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmo Qué tipo de modelo es el que",
+    "duration": 3319,
+    "offset": 150640,
+    "lang": "es"
+  },
+  {
+    "text": "voy a",
+    "duration": 3439,
+    "offset": 153080,
+    "lang": "es"
+  },
+  {
+    "text": "usar nosotros vamos a ver tres que son",
+    "duration": 6041,
+    "offset": 153959,
+    "lang": "es"
+  },
+  {
+    "text": "proximal policy optimization advantage",
+    "duration": 7841,
+    "offset": 156519,
+    "lang": "es"
+  },
+  {
+    "text": "actor critic y Deep que Network y",
+    "duration": 6239,
+    "offset": 160000,
+    "lang": "es"
+  },
+  {
+    "text": "después vamos a ver cómo realizarlo en",
+    "duration": 3640,
+    "offset": 164360,
+    "lang": "es"
+  },
+  {
+    "text": "un ambiente custom acá es en un ambiente",
+    "duration": 3681,
+    "offset": 166239,
+    "lang": "es"
+  },
+  {
+    "text": "puro y exclusivamente de gymnasium con",
+    "duration": 3599,
+    "offset": 168000,
+    "lang": "es"
+  },
+  {
+    "text": "algo preparado puro y exclusivamente",
+    "duration": 4800,
+    "offset": 169920,
+    "lang": "es"
+  },
+  {
+    "text": "para Open Ai que a nosotros no nos va a",
+    "duration": 5920,
+    "offset": 171599,
+    "lang": "es"
+  },
+  {
+    "text": "servir mucho simplemente es para ver",
+    "duration": 5360,
+    "offset": 174720,
+    "lang": "es"
+  },
+  {
+    "text": "cómo es que funcionan estos algoritmos",
+    "duration": 5921,
+    "offset": 177519,
+    "lang": "es"
+  },
+  {
+    "text": "de una manera más gráfica pero no nos va",
+    "duration": 5719,
+    "offset": 180080,
+    "lang": "es"
+  },
+  {
+    "text": "a servir de mucho después lo que sí nos",
+    "duration": 4840,
+    "offset": 183440,
+    "lang": "es"
+  },
+  {
+    "text": "va a servir es un ambiente custom porque",
+    "duration": 4481,
+    "offset": 185799,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a poder usar el aprendizaje por",
+    "duration": 5760,
+    "offset": 188280,
+    "lang": "es"
+  },
+  {
+    "text": "refuerzo en cualquier programa que",
+    "duration": 5840,
+    "offset": 190280,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros estemos utilizando o en",
+    "duration": 4000,
+    "offset": 194040,
+    "lang": "es"
+  },
+  {
+    "text": "cualquier situación que nosotros estemos",
+    "duration": 4920,
+    "offset": 196120,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando",
+    "duration": 3000,
+    "offset": 198040,
+    "lang": "es"
+  }
+]

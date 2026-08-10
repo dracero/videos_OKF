@@ -1,0 +1,524 @@
+[
+  {
+    "text": "Vamos a mostrar la implementación de el",
+    "duration": 6240,
+    "offset": 1199,
+    "lang": "es"
+  },
+  {
+    "text": "tutorial de Asient Protocol con tres",
+    "duration": 6521,
+    "offset": 3679,
+    "lang": "es"
+  },
+  {
+    "text": "agentes. Lo que hicimos fue utilizar un",
+    "duration": 6120,
+    "offset": 7439,
+    "lang": "es"
+  },
+  {
+    "text": "tutorial que nos permite nos permitió",
+    "duration": 5800,
+    "offset": 10200,
+    "lang": "es"
+  },
+  {
+    "text": "implementar el modelo de ejemplo que",
+    "duration": 4521,
+    "offset": 13559,
+    "lang": "es"
+  },
+  {
+    "text": "está en la documentación de Agent to",
+    "duration": 4560,
+    "offset": 16000,
+    "lang": "es"
+  },
+  {
+    "text": "Agent. ¿Para qué sirve Asient Agent?",
+    "duration": 6199,
+    "offset": 18080,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, completando el protocolo CMP que",
+    "duration": 6440,
+    "offset": 20560,
+    "lang": "es"
+  },
+  {
+    "text": "servía para conectar a la gente con",
+    "duration": 4840,
+    "offset": 24279,
+    "lang": "es"
+  },
+  {
+    "text": "cualquier herramienta externa. Asi to",
+    "duration": 5120,
+    "offset": 27000,
+    "lang": "es"
+  },
+  {
+    "text": "agent lo que sirve es para hacer",
+    "duration": 6681,
+    "offset": 29119,
+    "lang": "es"
+  },
+  {
+    "text": "conexiones simples entre agentes. O sea,",
+    "duration": 5640,
+    "offset": 32120,
+    "lang": "es"
+  },
+  {
+    "text": "que yo puedo tener distintos tipos de",
+    "duration": 4040,
+    "offset": 35800,
+    "lang": "es"
+  },
+  {
+    "text": "agentes especializados. En este caso",
+    "duration": 4479,
+    "offset": 37760,
+    "lang": "es"
+  },
+  {
+    "text": "tengo Langraf, CRUAI y",
+    "duration": 4399,
+    "offset": 39840,
+    "lang": "es"
+  },
+  {
+    "text": "Googlec. Puedo tener tres tipos de",
+    "duration": 4361,
+    "offset": 42239,
+    "lang": "es"
+  },
+  {
+    "text": "agentes especializados y en función de",
+    "duration": 4281,
+    "offset": 44239,
+    "lang": "es"
+  },
+  {
+    "text": "la tarea que yo necesito hacer, entre",
+    "duration": 5160,
+    "offset": 46600,
+    "lang": "es"
+  },
+  {
+    "text": "ellos dialogan y se pasan la tarea para",
+    "duration": 5320,
+    "offset": 48520,
+    "lang": "es"
+  },
+  {
+    "text": "que lo haga la gente",
+    "duration": 6240,
+    "offset": 51760,
+    "lang": "es"
+  },
+  {
+    "text": "que es más específico para esas cosas.",
+    "duration": 6359,
+    "offset": 53840,
+    "lang": "es"
+  },
+  {
+    "text": "junto con el MCP son los dos protocolos",
+    "duration": 5079,
+    "offset": 58000,
+    "lang": "es"
+  },
+  {
+    "text": "que van a hacer que la programación de",
+    "duration": 5361,
+    "offset": 60199,
+    "lang": "es"
+  },
+  {
+    "text": "agentes y la automatización crezca cada",
+    "duration": 4961,
+    "offset": 63079,
+    "lang": "es"
+  },
+  {
+    "text": "vez más. Lo primero que hacemos es",
+    "duration": 5400,
+    "offset": 65560,
+    "lang": "es"
+  },
+  {
+    "text": "levantamos los tres eh framework de",
+    "duration": 8560,
+    "offset": 68040,
+    "lang": "es"
+  },
+  {
+    "text": "agentes, en este caso corriendo sobre e",
+    "duration": 8040,
+    "offset": 70960,
+    "lang": "es"
+  },
+  {
+    "text": "Ubicorn. Acá tenemos los tres fungs de",
+    "duration": 5559,
+    "offset": 76600,
+    "lang": "es"
+  },
+  {
+    "text": "agentes y este es el main.P, que es el",
+    "duration": 4880,
+    "offset": 79000,
+    "lang": "es"
+  },
+  {
+    "text": "controlador que corre en el puerto",
+    "duration": 2960,
+    "offset": 82159,
+    "lang": "es"
+  },
+  {
+    "text": "12000.",
+    "duration": 6760,
+    "offset": 83880,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces vamos a ir a abrir local",
+    "duration": 9320,
+    "offset": 85119,
+    "lang": "es"
+  },
+  {
+    "text": "hostil. Acá nos abre el controlador de",
+    "duration": 7479,
+    "offset": 90640,
+    "lang": "es"
+  },
+  {
+    "text": "los agentes, es al el chatbot que es el",
+    "duration": 8000,
+    "offset": 94439,
+    "lang": "es"
+  },
+  {
+    "text": "LLM, Gemini 2.0. A través de ese LLM",
+    "duration": 7040,
+    "offset": 98119,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros vamos a establecer la",
+    "duration": 5000,
+    "offset": 102439,
+    "lang": "es"
+  },
+  {
+    "text": "comunicación del chatbot y el mismo",
+    "duration": 3841,
+    "offset": 105159,
+    "lang": "es"
+  },
+  {
+    "text": "chatbot es el que va a buscar a los",
+    "duration": 3441,
+    "offset": 107439,
+    "lang": "es"
+  },
+  {
+    "text": "agentes y los agentes se comunicarán a",
+    "duration": 4680,
+    "offset": 109000,
+    "lang": "es"
+  },
+  {
+    "text": "través del A2A Protocol. Primero vamos a",
+    "duration": 5400,
+    "offset": 110880,
+    "lang": "es"
+  },
+  {
+    "text": "registrar acá los",
+    "duration": 5479,
+    "offset": 113680,
+    "lang": "es"
+  },
+  {
+    "text": "agentes, el",
+    "duration": 7320,
+    "offset": 116280,
+    "lang": "es"
+  },
+  {
+    "text": "local host",
+    "duration": 4441,
+    "offset": 119159,
+    "lang": "es"
+  },
+  {
+    "text": "10,000. Acá tenemos el primer agente.",
+    "duration": 6521,
+    "offset": 125479,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que este dice que nos ayuda con",
+    "duration": 7640,
+    "offset": 128200,
+    "lang": "es"
+  },
+  {
+    "text": "e cambios de monedas. Nos van a nos va a",
+    "duration": 6160,
+    "offset": 132000,
+    "lang": "es"
+  },
+  {
+    "text": "explicar cambios de",
+    "duration": 4720,
+    "offset": 135840,
+    "lang": "es"
+  },
+  {
+    "text": "monedas. Este es el agente Langraf.",
+    "duration": 5960,
+    "offset": 138160,
+    "lang": "es"
+  },
+  {
+    "text": "Después tenemos el",
+    "duration": 3560,
+    "offset": 140560,
+    "lang": "es"
+  },
+  {
+    "text": "100001. Eh, este es el agente CRUEI y lo",
+    "duration": 6600,
+    "offset": 145080,
+    "lang": "es"
+  },
+  {
+    "text": "que hace es genera imágenes. Tiene un",
+    "duration": 5199,
+    "offset": 148760,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de generación de imágenes. Y",
+    "duration": 6199,
+    "offset": 151680,
+    "lang": "es"
+  },
+  {
+    "text": "ahora vamos por el 102, que es el agente",
+    "duration": 6481,
+    "offset": 153959,
+    "lang": "es"
+  },
+  {
+    "text": "Google ADK. Google, este agente dice,",
+    "duration": 8401,
+    "offset": 157879,
+    "lang": "es"
+  },
+  {
+    "text": "maneja el e el proceso de reintegro",
+    "duration": 9799,
+    "offset": 160440,
+    "lang": "es"
+  },
+  {
+    "text": "a empleados.",
+    "duration": 6200,
+    "offset": 166280,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, tres agentes que manejan tres",
+    "duration": 6561,
+    "offset": 170239,
+    "lang": "es"
+  },
+  {
+    "text": "tareas distintas. Ahora vamos a ir al",
+    "duration": 4320,
+    "offset": 172480,
+    "lang": "es"
+  },
+  {
+    "text": "chatbot. Nos dice cómo podemos ayudarle",
+    "duration": 5680,
+    "offset": 177000,
+    "lang": "es"
+  },
+  {
+    "text": "y le vamos a",
+    "duration": 2640,
+    "offset": 180040,
+    "lang": "es"
+  },
+  {
+    "text": "decir",
+    "duration": 3000,
+    "offset": 184120,
+    "lang": "es"
+  },
+  {
+    "text": "gener",
+    "duration": 3000,
+    "offset": 187920,
+    "lang": "es"
+  },
+  {
+    "text": "of",
+    "duration": 3000,
+    "offset": 193360,
+    "lang": "es"
+  },
+  {
+    "text": "not.",
+    "duration": 3000,
+    "offset": 197360,
+    "lang": "es"
+  },
+  {
+    "text": "M eh",
+    "duration": 3599,
+    "offset": 202000,
+    "lang": "es"
+  },
+  {
+    "text": "bike y ahí enviamos el mensaje, empiezan",
+    "duration": 6600,
+    "offset": 206120,
+    "lang": "es"
+  },
+  {
+    "text": "a trabajar, descubre cuál es el agente",
+    "duration": 5280,
+    "offset": 209519,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene que",
+    "duration": 4680,
+    "offset": 212720,
+    "lang": "es"
+  },
+  {
+    "text": "hacerlo y una vez que lo descubra, lo",
+    "duration": 5080,
+    "offset": 214799,
+    "lang": "es"
+  },
+  {
+    "text": "que va a hacer va a hacer la generación",
+    "duration": 3720,
+    "offset": 217400,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 5000,
+    "offset": 219879,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes. Acá vemos cómo va trabajando",
+    "duration": 6399,
+    "offset": 221120,
+    "lang": "es"
+  },
+  {
+    "text": "el servidor. Bien, ahí está. nos",
+    "duration": 4920,
+    "offset": 224879,
+    "lang": "es"
+  },
+  {
+    "text": "devuelve la",
+    "duration": 6881,
+    "offset": 227519,
+    "lang": "es"
+  },
+  {
+    "text": "imagen y acá le podemos",
+    "duration": 4601,
+    "offset": 229799,
+    "lang": "es"
+  },
+  {
+    "text": "decir X",
+    "duration": 4000,
+    "offset": 246439,
+    "lang": "es"
+  },
+  {
+    "text": "dólar. Bien. Y ahí lo que hace",
+    "duration": 7160,
+    "offset": 266240,
+    "lang": "es"
+  },
+  {
+    "text": "es genera un dice, \"Bueno, ¿cuál cuál",
+    "duration": 5080,
+    "offset": 270360,
+    "lang": "es"
+  },
+  {
+    "text": "currency querés que convierta?\" En lo",
+    "duration": 3359,
+    "offset": 273400,
+    "lang": "es"
+  },
+  {
+    "text": "que está haciendo ahora es generar un",
+    "duration": 3160,
+    "offset": 275440,
+    "lang": "es"
+  },
+  {
+    "text": "diálogo con el otro agente. Bien. Y así",
+    "duration": 4440,
+    "offset": 276759,
+    "lang": "es"
+  },
+  {
+    "text": "es como podemos hacer un sistema",
+    "duration": 4400,
+    "offset": 278600,
+    "lang": "es"
+  },
+  {
+    "text": "especializado con agentes especializados",
+    "duration": 3481,
+    "offset": 281199,
+    "lang": "es"
+  },
+  {
+    "text": "en distintas cosas que entre ellos",
+    "duration": 3759,
+    "offset": 283000,
+    "lang": "es"
+  },
+  {
+    "text": "hablan y se van",
+    "duration": 4280,
+    "offset": 284680,
+    "lang": "es"
+  },
+  {
+    "text": "pasando quién es que tiene que hacer",
+    "duration": 4720,
+    "offset": 286759,
+    "lang": "es"
+  },
+  {
+    "text": "cada cosa.",
+    "duration": 2519,
+    "offset": 288960,
+    "lang": "es"
+  }
+]

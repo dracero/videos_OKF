@@ -1,0 +1,1532 @@
+[
+  {
+    "text": "Bueno, vamos a empezar entonces ahora la",
+    "duration": 6360,
+    "offset": 880,
+    "lang": "es"
+  },
+  {
+    "text": "parte ya vimos toda la parte de solo",
+    "duration": 4760,
+    "offset": 4799,
+    "lang": "es"
+  },
+  {
+    "text": "texto, la parte donde pedíamos imágenes,",
+    "duration": 4359,
+    "offset": 7240,
+    "lang": "es"
+  },
+  {
+    "text": "la parte donde establecíamos un diálogo",
+    "duration": 4321,
+    "offset": 9559,
+    "lang": "es"
+  },
+  {
+    "text": "inclusive, bueno, tuvimos un caso donde",
+    "duration": 4641,
+    "offset": 11599,
+    "lang": "es"
+  },
+  {
+    "text": "nos mostró una imagen que no era la",
+    "duration": 5880,
+    "offset": 13880,
+    "lang": "es"
+  },
+  {
+    "text": "correcta y dialogando y cambiando los",
+    "duration": 6279,
+    "offset": 16240,
+    "lang": "es"
+  },
+  {
+    "text": "prompt y nos devuelve la imagen que era",
+    "duration": 4800,
+    "offset": 19760,
+    "lang": "es"
+  },
+  {
+    "text": "la correcta. Vamos ahora a la parte de",
+    "duration": 6041,
+    "offset": 22519,
+    "lang": "es"
+  },
+  {
+    "text": "que nos explique tejidos ingresando solo",
+    "duration": 8639,
+    "offset": 24560,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes. Entonces vamos a buscar",
+    "duration": 4639,
+    "offset": 28560,
+    "lang": "es"
+  },
+  {
+    "text": "e",
+    "duration": 3000,
+    "offset": 33200,
+    "lang": "es"
+  },
+  {
+    "text": "este va a ser el prompting que vamos a",
+    "duration": 3960,
+    "offset": 50480,
+    "lang": "es"
+  },
+  {
+    "text": "poner. Lo vamos a hacer acá con 10",
+    "duration": 5120,
+    "offset": 52320,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes.",
+    "duration": 3000,
+    "offset": 54440,
+    "lang": "es"
+  },
+  {
+    "text": "La idea es que nos tienes que explicar",
+    "duration": 5880,
+    "offset": 58920,
+    "lang": "es"
+  },
+  {
+    "text": "de qué tejido se trata.",
+    "duration": 3921,
+    "offset": 60879,
+    "lang": "es"
+  },
+  {
+    "text": "Me tuve un transversal.",
+    "duration": 5600,
+    "offset": 74280,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, son parte de teorcados en la",
+    "duration": 4000,
+    "offset": 77960,
+    "lang": "es"
+  },
+  {
+    "text": "producción de espermatozoides.",
+    "duration": 4960,
+    "offset": 79880,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, archivo 4, página 4. Esta de acá yo",
+    "duration": 6080,
+    "offset": 81960,
+    "lang": "es"
+  },
+  {
+    "text": "lo hice porque después yo puedo ir a ver",
+    "duration": 6440,
+    "offset": 84840,
+    "lang": "es"
+  },
+  {
+    "text": "si efectivamente",
+    "duration": 3240,
+    "offset": 88040,
+    "lang": "es"
+  },
+  {
+    "text": "Aguárdenme que les voy a mostrar algo.",
+    "duration": 4879,
+    "offset": 91920,
+    "lang": "es"
+  },
+  {
+    "text": "Oh.",
+    "duration": 3000,
+    "offset": 93799,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué es lo que pasa? Ahí decía que era",
+    "duration": 4519,
+    "offset": 116880,
+    "lang": "es"
+  },
+  {
+    "text": "Arch 4, página 4. Nosotros podemos ir",
+    "duration": 6280,
+    "offset": 118439,
+    "lang": "es"
+  },
+  {
+    "text": "acá, buscar donde dice imágenes",
+    "duration": 4841,
+    "offset": 121399,
+    "lang": "es"
+  },
+  {
+    "text": "extraídas,",
+    "duration": 4520,
+    "offset": 124719,
+    "lang": "es"
+  },
+  {
+    "text": "Arch 4, página 4 y efectivamente es la",
+    "duration": 8440,
+    "offset": 126240,
+    "lang": "es"
+  },
+  {
+    "text": "imagen de la cual se está hablando.",
+    "duration": 7441,
+    "offset": 129239,
+    "lang": "es"
+  },
+  {
+    "text": "Lo hice para eso, para que vean si",
+    "duration": 4199,
+    "offset": 134680,
+    "lang": "es"
+  },
+  {
+    "text": "efectivamente referencia bien la imagen",
+    "duration": 5320,
+    "offset": 136680,
+    "lang": "es"
+  },
+  {
+    "text": "y que vean. Bueno, vamos a seguir. Vamos",
+    "duration": 6161,
+    "offset": 138879,
+    "lang": "es"
+  },
+  {
+    "text": "a a seguir con 15 imágenes.",
+    "duration": 5519,
+    "offset": 142000,
+    "lang": "es"
+  },
+  {
+    "text": "La idea es en las 15 imágenes tirarle lo",
+    "duration": 5479,
+    "offset": 145040,
+    "lang": "es"
+  },
+  {
+    "text": "mismo.",
+    "duration": 3000,
+    "offset": 147519,
+    "lang": "es"
+  },
+  {
+    "text": "Hay veces que yo lo puse. Bueno, ahí",
+    "duration": 5520,
+    "offset": 166040,
+    "lang": "es"
+  },
+  {
+    "text": "está trabajando.",
+    "duration": 3280,
+    "offset": 168280,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, entonces una arteria muscular",
+    "duration": 8239,
+    "offset": 174640,
+    "lang": "es"
+  },
+  {
+    "text": "corte transversal. Bien, es una arteria.",
+    "duration": 7159,
+    "offset": 178080,
+    "lang": "es"
+  },
+  {
+    "text": "Nuevamente le vamos a pedir que me",
+    "duration": 4640,
+    "offset": 182879,
+    "lang": "es"
+  },
+  {
+    "text": "explique el tejido de la imagen. Después",
+    "duration": 3961,
+    "offset": 185239,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a buscar uno parecido para ver si",
+    "duration": 4360,
+    "offset": 187519,
+    "lang": "es"
+  },
+  {
+    "text": "lo diferencia y si sobre todo dice que",
+    "duration": 6560,
+    "offset": 189200,
+    "lang": "es"
+  },
+  {
+    "text": "es una imagen distinta.",
+    "duration": 3881,
+    "offset": 191879,
+    "lang": "es"
+  },
+  {
+    "text": "Con imágenes tardo un poco más de",
+    "duration": 2959,
+    "offset": 216280,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo. Esta, acuérdense que esta",
+    "duration": 3319,
+    "offset": 218000,
+    "lang": "es"
+  },
+  {
+    "text": "máquina no tiene GPU. la que van a tener",
+    "duration": 4321,
+    "offset": 219239,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes va a tener una GPU muy buena,",
+    "duration": 4721,
+    "offset": 221319,
+    "lang": "es"
+  },
+  {
+    "text": "una RTX 5050,",
+    "duration": 5160,
+    "offset": 223560,
+    "lang": "es"
+  },
+  {
+    "text": "con lo cual esto va a salir bien, mucho",
+    "duration": 4600,
+    "offset": 226040,
+    "lang": "es"
+  },
+  {
+    "text": "más rápido.",
+    "duration": 4359,
+    "offset": 228720,
+    "lang": "es"
+  },
+  {
+    "text": "Es arteria muscular, eh, la imagen",
+    "duration": 4280,
+    "offset": 230640,
+    "lang": "es"
+  },
+  {
+    "text": "hisológica muestra estructura lumen",
+    "duration": 3841,
+    "offset": 233079,
+    "lang": "es"
+  },
+  {
+    "text": "strat tiene eritrocitos.",
+    "duration": 4280,
+    "offset": 234920,
+    "lang": "es"
+  },
+  {
+    "text": "Eh,",
+    "duration": 5920,
+    "offset": 236920,
+    "lang": "es"
+  },
+  {
+    "text": "bien, no dijo la imagen, pero yo puedo",
+    "duration": 7239,
+    "offset": 239200,
+    "lang": "es"
+  },
+  {
+    "text": "ir a ver acá a ver si",
+    "duration": 9000,
+    "offset": 242840,
+    "lang": "es"
+  },
+  {
+    "text": "me dice de qué imagen se trata acá.",
+    "duration": 5401,
+    "offset": 246439,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, archivo 3, página 3.",
+    "duration": 5760,
+    "offset": 252640,
+    "lang": "es"
+  },
+  {
+    "text": "Efectivamente es correcto. Bien, es",
+    "duration": 5079,
+    "offset": 256120,
+    "lang": "es"
+  },
+  {
+    "text": "archivo 3, página 3. Esto después les",
+    "duration": 5160,
+    "offset": 258400,
+    "lang": "es"
+  },
+  {
+    "text": "voy a explicar cómo hacerlo porque",
+    "duration": 4521,
+    "offset": 261199,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes van a tener que controlar que se",
+    "duration": 4880,
+    "offset": 263560,
+    "lang": "es"
+  },
+  {
+    "text": "referencia a la imagen correcta. Vamos a",
+    "duration": 4720,
+    "offset": 265720,
+    "lang": "es"
+  },
+  {
+    "text": "ver",
+    "duration": 4280,
+    "offset": 268440,
+    "lang": "es"
+  },
+  {
+    "text": "qué pasa con una imagen que es parecida",
+    "duration": 6360,
+    "offset": 270440,
+    "lang": "es"
+  },
+  {
+    "text": "a esa, por ejemplo, esta.",
+    "duration": 7080,
+    "offset": 272720,
+    "lang": "es"
+  },
+  {
+    "text": "Y",
+    "duration": 3000,
+    "offset": 276800,
+    "lang": "es"
+  },
+  {
+    "text": "elegí una imagen que es parecida. Vamos",
+    "duration": 6039,
+    "offset": 283440,
+    "lang": "es"
+  },
+  {
+    "text": "a ver si la discrimina.",
+    "duration": 3720,
+    "offset": 285759,
+    "lang": "es"
+  },
+  {
+    "text": "Le digo que me explique el tejido de la",
+    "duration": 4840,
+    "offset": 290199,
+    "lang": "es"
+  },
+  {
+    "text": "imagen.",
+    "duration": 3000,
+    "offset": 292039,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que este que es el de Neo For es",
+    "duration": 4959,
+    "offset": 303080,
+    "lang": "es"
+  },
+  {
+    "text": "el puerto 1005. Yo después igual se los",
+    "duration": 7960,
+    "offset": 305440,
+    "lang": "es"
+  },
+  {
+    "text": "voy a recordar para que lo tengan.",
+    "duration": 5361,
+    "offset": 308039,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, arteria muscular, corte transversal,",
+    "duration": 5280,
+    "offset": 319919,
+    "lang": "es"
+  },
+  {
+    "text": "imagina, estructura circular, central",
+    "duration": 4680,
+    "offset": 323160,
+    "lang": "es"
+  },
+  {
+    "text": "amplio, bien, arteria muscular. Vamos a",
+    "duration": 5481,
+    "offset": 325199,
+    "lang": "es"
+  },
+  {
+    "text": "ver qué imagen referenció",
+    "duration": 6040,
+    "offset": 327840,
+    "lang": "es"
+  },
+  {
+    "text": "de esa arteria muscular. La otra,",
+    "duration": 5680,
+    "offset": 330680,
+    "lang": "es"
+  },
+  {
+    "text": "acuérdense que era el archivo 3, página",
+    "duration": 6280,
+    "offset": 333880,
+    "lang": "es"
+  },
+  {
+    "text": "3. Vamos a ver",
+    "duration": 6000,
+    "offset": 336360,
+    "lang": "es"
+  },
+  {
+    "text": "esta qué imagen",
+    "duration": 5200,
+    "offset": 340160,
+    "lang": "es"
+  },
+  {
+    "text": "referenció.",
+    "duration": 3000,
+    "offset": 342360,
+    "lang": "es"
+  },
+  {
+    "text": "E",
+    "duration": 3000,
+    "offset": 345680,
+    "lang": "es"
+  },
+  {
+    "text": "acá está archivo 3, página 2 y este",
+    "duration": 7400,
+    "offset": 351160,
+    "lang": "es"
+  },
+  {
+    "text": "archivo 3, página 3.",
+    "duration": 5719,
+    "offset": 355600,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense. Archivo 3, página 2. Archivo 3,",
+    "duration": 5240,
+    "offset": 358560,
+    "lang": "es"
+  },
+  {
+    "text": "página 3. Archivo 3, página 2. Las",
+    "duration": 5561,
+    "offset": 361319,
+    "lang": "es"
+  },
+  {
+    "text": "discrimina perfectamente y las describe",
+    "duration": 5959,
+    "offset": 363800,
+    "lang": "es"
+  },
+  {
+    "text": "a pesar de que son imágenes muy muy",
+    "duration": 5879,
+    "offset": 366880,
+    "lang": "es"
+  },
+  {
+    "text": "similares.",
+    "duration": 3000,
+    "offset": 369759,
+    "lang": "es"
+  },
+  {
+    "text": "Esto se logra gracias a",
+    "duration": 7080,
+    "offset": 373720,
+    "lang": "es"
+  },
+  {
+    "text": "los embeddings especializados",
+    "duration": 5840,
+    "offset": 377680,
+    "lang": "es"
+  },
+  {
+    "text": "de Mahud.",
+    "duration": 5320,
+    "offset": 380800,
+    "lang": "es"
+  },
+  {
+    "text": "Mahmud Lab, perdón.",
+    "duration": 5959,
+    "offset": 383520,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, bien. Vamos nuevamente a seguir con",
+    "duration": 6960,
+    "offset": 386120,
+    "lang": "es"
+  },
+  {
+    "text": "la parte de tejidos.",
+    "duration": 3601,
+    "offset": 389479,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a pasar a este de acá.",
+    "duration": 5840,
+    "offset": 394560,
+    "lang": "es"
+  },
+  {
+    "text": "una arteria muscular eh corte atravesada",
+    "duration": 5601,
+    "offset": 423919,
+    "lang": "es"
+  },
+  {
+    "text": "imag estructura circular Un volumen",
+    "duration": 4361,
+    "offset": 427319,
+    "lang": "es"
+  },
+  {
+    "text": "centralc paredes flujo sanguínea",
+    "duration": 3920,
+    "offset": 429520,
+    "lang": "es"
+  },
+  {
+    "text": "arterial. Bien. Bueno, dice que es la",
+    "duration": 6160,
+    "offset": 431680,
+    "lang": "es"
+  },
+  {
+    "text": "imagen ocho. A ver,",
+    "duration": 7840,
+    "offset": 433440,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver.",
+    "duration": 7400,
+    "offset": 437840,
+    "lang": "es"
+  },
+  {
+    "text": "Imagen 8o. Sí, efectivamente es la",
+    "duration": 7560,
+    "offset": 441280,
+    "lang": "es"
+  },
+  {
+    "text": "imagen 8. Bien, vamos con tres imágenes",
+    "duration": 6600,
+    "offset": 445240,
+    "lang": "es"
+  },
+  {
+    "text": "más.",
+    "duration": 3000,
+    "offset": 448840,
+    "lang": "es"
+  },
+  {
+    "text": "A ver si es que Bien. Bueno, una de las",
+    "duration": 4600,
+    "offset": 513640,
+    "lang": "es"
+  },
+  {
+    "text": "cosas que le va a pasar",
+    "duration": 4680,
+    "offset": 515880,
+    "lang": "es"
+  },
+  {
+    "text": "es esta,",
+    "duration": 4520,
+    "offset": 518240,
+    "lang": "es"
+  },
+  {
+    "text": "eh, que se llega al límite de cuota de",
+    "duration": 5440,
+    "offset": 520560,
+    "lang": "es"
+  },
+  {
+    "text": "API de servidor. Bien,",
+    "duration": 7280,
+    "offset": 522760,
+    "lang": "es"
+  },
+  {
+    "text": "¿qué hay que hacer en ese caso?",
+    "duration": 7560,
+    "offset": 526000,
+    "lang": "es"
+  },
+  {
+    "text": "apretar control C, parar todo,",
+    "duration": 6200,
+    "offset": 530040,
+    "lang": "es"
+  },
+  {
+    "text": "ir a este que dice,",
+    "duration": 4680,
+    "offset": 533560,
+    "lang": "es"
+  },
+  {
+    "text": "eh, igual,",
+    "duration": 3719,
+    "offset": 536240,
+    "lang": "es"
+  },
+  {
+    "text": "aguárdenme. Bueno, no, esto como lo voy",
+    "duration": 4800,
+    "offset": 538240,
+    "lang": "es"
+  },
+  {
+    "text": "a poner privado.",
+    "duration": 6320,
+    "offset": 539959,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá",
+    "duration": 3239,
+    "offset": 543040,
+    "lang": "es"
+  },
+  {
+    "text": "cambian el API key, o sea, le tienen que",
+    "duration": 4519,
+    "offset": 547320,
+    "lang": "es"
+  },
+  {
+    "text": "pedir a todos los que puedan que se den",
+    "duration": 6720,
+    "offset": 549640,
+    "lang": "es"
+  },
+  {
+    "text": "de alta en Grock, que genere un API.",
+    "duration": 4521,
+    "offset": 551839,
+    "lang": "es"
+  },
+  {
+    "text": "Este lo borramos y acá empezamos de",
+    "duration": 5841,
+    "offset": 558839,
+    "lang": "es"
+  },
+  {
+    "text": "nuevo",
+    "duration": 3000,
+    "offset": 561680,
+    "lang": "es"
+  },
+  {
+    "text": "y vamos a ir nuevamente con esta imagen",
+    "duration": 6919,
+    "offset": 565480,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que vuelva todo.",
+    "duration": 3919,
+    "offset": 568480,
+    "lang": "es"
+  },
+  {
+    "text": "Eso pasa por porque la cantidad de",
+    "duration": 4401,
+    "offset": 581519,
+    "lang": "es"
+  },
+  {
+    "text": "request o de cosas que puedo pedir está",
+    "duration": 4841,
+    "offset": 583959,
+    "lang": "es"
+  },
+  {
+    "text": "limitada. Entonces ahí me dice, \"Bueno,",
+    "duration": 5680,
+    "offset": 585920,
+    "lang": "es"
+  },
+  {
+    "text": "no,",
+    "duration": 4840,
+    "offset": 588800,
+    "lang": "es"
+  },
+  {
+    "text": "ahora apagar.\"",
+    "duration": 4679,
+    "offset": 591600,
+    "lang": "es"
+  },
+  {
+    "text": "Pero bien, ahí lo que hay que hacer es",
+    "duration": 5080,
+    "offset": 593640,
+    "lang": "es"
+  },
+  {
+    "text": "cambiar el API Key y con ese API key,",
+    "duration": 3881,
+    "offset": 596279,
+    "lang": "es"
+  },
+  {
+    "text": "esperen que voy a sacar esto porque",
+    "duration": 5480,
+    "offset": 598720,
+    "lang": "es"
+  },
+  {
+    "text": "después Google si no chilla.",
+    "duration": 4040,
+    "offset": 600160,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí volvió a levantar, dice application",
+    "duration": 4600,
+    "offset": 605160,
+    "lang": "es"
+  },
+  {
+    "text": "start complete. O sea, que ahora sí se",
+    "duration": 4560,
+    "offset": 608000,
+    "lang": "es"
+  },
+  {
+    "text": "puede empezar a usar nuevamente. Y",
+    "duration": 7440,
+    "offset": 609760,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ahí vamos a otro intento.",
+    "duration": 4640,
+    "offset": 612560,
+    "lang": "es"
+  },
+  {
+    "text": "Eh,",
+    "duration": 3000,
+    "offset": 618680,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí le digo que",
+    "duration": 7040,
+    "offset": 625200,
+    "lang": "es"
+  },
+  {
+    "text": "me explique el tejido de la imagen.",
+    "duration": 4440,
+    "offset": 627800,
+    "lang": "es"
+  },
+  {
+    "text": "Y ahora, si se fijan",
+    "duration": 5679,
+    "offset": 633600,
+    "lang": "es"
+  },
+  {
+    "text": "si está trabajando y haciendo la",
+    "duration": 6680,
+    "offset": 637000,
+    "lang": "es"
+  },
+  {
+    "text": "clasificación semántica.",
+    "duration": 4401,
+    "offset": 639279,
+    "lang": "es"
+  },
+  {
+    "text": "Estógica tejido epitelio seminífero",
+    "duration": 3920,
+    "offset": 655760,
+    "lang": "es"
+  },
+  {
+    "text": "donde desarrol células identificados con",
+    "duration": 5440,
+    "offset": 657839,
+    "lang": "es"
+  },
+  {
+    "text": "espermatogonia A. Esta célula sea por su",
+    "duration": 5520,
+    "offset": 659680,
+    "lang": "es"
+  },
+  {
+    "text": "núcleo. Bien. Bueno, vamos con una",
+    "duration": 4481,
+    "offset": 663279,
+    "lang": "es"
+  },
+  {
+    "text": "imagen más. Dice que es archivo 4,",
+    "duration": 4600,
+    "offset": 665200,
+    "lang": "es"
+  },
+  {
+    "text": "página 6.",
+    "duration": 4240,
+    "offset": 667760,
+    "lang": "es"
+  },
+  {
+    "text": "Estos también, acuérdense, está bueno",
+    "duration": 4560,
+    "offset": 669800,
+    "lang": "es"
+  },
+  {
+    "text": "verlo.",
+    "duration": 5839,
+    "offset": 672000,
+    "lang": "es"
+  },
+  {
+    "text": "Archivo 4, página 6,",
+    "duration": 6599,
+    "offset": 674360,
+    "lang": "es"
+  },
+  {
+    "text": "espermatogonia oscura. Sí, efectivamente",
+    "duration": 10361,
+    "offset": 677839,
+    "lang": "es"
+  },
+  {
+    "text": "es lo que está indicando. Bien. Bueno,",
+    "duration": 7241,
+    "offset": 680959,
+    "lang": "es"
+  },
+  {
+    "text": "vamos entonces con una última por acá.",
+    "duration": 6199,
+    "offset": 688880,
+    "lang": "es"
+  },
+  {
+    "text": "El de ustedes va a andar más rápido",
+    "duration": 3599,
+    "offset": 718920,
+    "lang": "es"
+  },
+  {
+    "text": "porque el de ustedes tiene GPU, el mío",
+    "duration": 6760,
+    "offset": 720360,
+    "lang": "es"
+  },
+  {
+    "text": "no tiene GPU. Yen que acá dice CPU",
+    "duration": 7201,
+    "offset": 722519,
+    "lang": "es"
+  },
+  {
+    "text": "y por eso es que está tardando todo este",
+    "duration": 5959,
+    "offset": 727120,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo, ¿no?",
+    "duration": 3359,
+    "offset": 729720,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, corresponde en tejido de epiterio",
+    "duration": 2839,
+    "offset": 739240,
+    "lang": "es"
+  },
+  {
+    "text": "seminífero donde se puede observar la",
+    "duration": 4161,
+    "offset": 740959,
+    "lang": "es"
+  },
+  {
+    "text": "célula identificamos célula de certoli.",
+    "duration": 4880,
+    "offset": 742079,
+    "lang": "es"
+  },
+  {
+    "text": "Esta célula se extiende bien y dice",
+    "duration": 4760,
+    "offset": 745120,
+    "lang": "es"
+  },
+  {
+    "text": "archivo 4 página 13. Vamos a ver si es",
+    "duration": 5401,
+    "offset": 746959,
+    "lang": "es"
+  },
+  {
+    "text": "cierto.",
+    "duration": 6280,
+    "offset": 749880,
+    "lang": "es"
+  },
+  {
+    "text": "Archivo 4, página 13, célula de Certoli.",
+    "duration": 6360,
+    "offset": 752360,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, ustedes la verdad que muy bueno como",
+    "duration": 6880,
+    "offset": 756160,
+    "lang": "es"
+  },
+  {
+    "text": "armaron todo el documento. Bien. Bueno,",
+    "duration": 8600,
+    "offset": 758720,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a pasar a otro. Esperen que apago",
+    "duration": 7280,
+    "offset": 763040,
+    "lang": "es"
+  },
+  {
+    "text": "este.",
+    "duration": 3000,
+    "offset": 767320,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí estoy cambiando El",
+    "duration": 4920,
+    "offset": 818680,
+    "lang": "es"
+  },
+  {
+    "text": "estoy cambiando. Voy a cambiar ahora el",
+    "duration": 4400,
+    "offset": 826160,
+    "lang": "es"
+  },
+  {
+    "text": "sistema. Voy a usar Colpali. Antes",
+    "duration": 6079,
+    "offset": 828560,
+    "lang": "es"
+  },
+  {
+    "text": "estaba usando New Forali.",
+    "duration": 4079,
+    "offset": 830560,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí está levantando como siempre va",
+    "duration": 5199,
+    "offset": 839000,
+    "lang": "es"
+  },
+  {
+    "text": "achillar. Yo no tengo GPU.",
+    "duration": 6120,
+    "offset": 841120,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, no, este de col pali como no usa en",
+    "duration": 5241,
+    "offset": 844199,
+    "lang": "es"
+  },
+  {
+    "text": "beddings",
+    "duration": 4880,
+    "offset": 847240,
+    "lang": "es"
+  },
+  {
+    "text": "eh propio, sí va a funcionar con mi CP,",
+    "duration": 5079,
+    "offset": 849440,
+    "lang": "es"
+  },
+  {
+    "text": "así que este por ahí lo ven más rápido y",
+    "duration": 5079,
+    "offset": 852120,
+    "lang": "es"
+  },
+  {
+    "text": "no va a ser tan aburrido",
+    "duration": 5120,
+    "offset": 854519,
+    "lang": "es"
+  },
+  {
+    "text": "como el otro. Fíjense acá todas las API.",
+    "duration": 4200,
+    "offset": 857199,
+    "lang": "es"
+  },
+  {
+    "text": "Esto lo voy a sacar porque si no después",
+    "duration": 5601,
+    "offset": 859639,
+    "lang": "es"
+  },
+  {
+    "text": "me banean el video.",
+    "duration": 3841,
+    "offset": 861399,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, acá está todo el prompting. Los",
+    "duration": 5881,
+    "offset": 870839,
+    "lang": "es"
+  },
+  {
+    "text": "prompts costaron muchísimo.",
+    "duration": 4081,
+    "offset": 872639,
+    "lang": "es"
+  },
+  {
+    "text": "Se tardó muchísimo en armar los prompts.",
+    "duration": 6681,
+    "offset": 876759,
+    "lang": "es"
+  },
+  {
+    "text": "Muchísimo, muchísimo.",
+    "duration": 3560,
+    "offset": 879880,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí está levantando. Hay que esperar.",
+    "duration": 6560,
+    "offset": 885519,
+    "lang": "es"
+  },
+  {
+    "text": "E va, yo les voy a mostrar, tiene un",
+    "duration": 6159,
+    "offset": 888680,
+    "lang": "es"
+  },
+  {
+    "text": "mensaje que indica cuando ya la",
+    "duration": 6200,
+    "offset": 892079,
+    "lang": "es"
+  },
+  {
+    "text": "aplicación levantó",
+    "duration": 5201,
+    "offset": 894839,
+    "lang": "es"
+  },
+  {
+    "text": "y eso es lo que les va a decir, que ya",
+    "duration": 5521,
+    "offset": 898279,
+    "lang": "es"
+  },
+  {
+    "text": "pueden ir y loguearse en el en en en el",
+    "duration": 6760,
+    "offset": 900040,
+    "lang": "es"
+  },
+  {
+    "text": "browser.",
+    "duration": 3000,
+    "offset": 903800,
+    "lang": "es"
+  },
+  {
+    "text": "Todavía no levantó.",
+    "duration": 3641,
+    "offset": 912839,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí todavía falta que instale toda la",
+    "duration": 4440,
+    "offset": 917920,
+    "lang": "es"
+  },
+  {
+    "text": "parte de colpal y demás, o sea, va a",
+    "duration": 5000,
+    "offset": 920000,
+    "lang": "es"
+  },
+  {
+    "text": "tardar un rato.",
+    "duration": 2640,
+    "offset": 922360,
+    "lang": "es"
+  },
+  {
+    "text": "Todavía falta, eh, tarda bastante en",
+    "duration": 4000,
+    "offset": 949000,
+    "lang": "es"
+  },
+  {
+    "text": "levantar igual en la máquina A ustedes",
+    "duration": 4320,
+    "offset": 951319,
+    "lang": "es"
+  },
+  {
+    "text": "no va a tardar tanto porque",
+    "duration": 4800,
+    "offset": 953000,
+    "lang": "es"
+  },
+  {
+    "text": "tienen más memoria, más GPU, más todo,",
+    "duration": 6401,
+    "offset": 955639,
+    "lang": "es"
+  },
+  {
+    "text": "¿no? Ahí está levantando Colpali.",
+    "duration": 4240,
+    "offset": 957800,
+    "lang": "es"
+  },
+  {
+    "text": "Falta un ratín todavía.",
+    "duration": 4000,
+    "offset": 988959,
+    "lang": "es"
+  },
+  {
+    "text": "Probablemente este mensaje ustedes no lo",
+    "duration": 5000,
+    "offset": 997519,
+    "lang": "es"
+  },
+  {
+    "text": "van a ver.",
+    "duration": 3279,
+    "offset": 999240,
+    "lang": "es"
+  },
+  {
+    "text": "Acá cuando aparece este mensaje, Ubic",
+    "duration": 6159,
+    "offset": 1005120,
+    "lang": "es"
+  },
+  {
+    "text": "Running 1270018000,",
+    "duration": 6120,
+    "offset": 1008519,
+    "lang": "es"
+  },
+  {
+    "text": "acá es que la aplicación levantó y ahí",
+    "duration": 7641,
+    "offset": 1011279,
+    "lang": "es"
+  },
+  {
+    "text": "tienen que ir al local host1.",
+    "duration": 4281,
+    "offset": 1014639,
+    "lang": "es"
+  },
+  {
+    "text": "Acá, este es lo que estaba antes. Acá en",
+    "duration": 9640,
+    "offset": 1024919,
+    "lang": "es"
+  },
+  {
+    "text": "cambio de poner local host ponen 4321",
+    "duration": 6159,
+    "offset": 1028400,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí va a levantar el frontend de",
+    "duration": 6000,
+    "offset": 1039439,
+    "lang": "es"
+  },
+  {
+    "text": "Colpali. Entonces, acá ponen seleccionar",
+    "duration": 4919,
+    "offset": 1042520,
+    "lang": "es"
+  },
+  {
+    "text": "imagen,",
+    "duration": 5240,
+    "offset": 1045439,
+    "lang": "es"
+  },
+  {
+    "text": "seleccionan una imagen y le ponemos,",
+    "duration": 5081,
+    "offset": 1047439,
+    "lang": "es"
+  },
+  {
+    "text": "\"¿Me podéis explicar el tejido de la",
+    "duration": 4841,
+    "offset": 1050679,
+    "lang": "es"
+  },
+  {
+    "text": "imagen?",
+    "duration": 3000,
+    "offset": 1052520,
+    "lang": "es"
+  },
+  {
+    "text": "No existente convisión y búsqueda en",
+    "duration": 6481,
+    "offset": 1064919,
+    "lang": "es"
+  },
+  {
+    "text": "PDF. Ahí está realizando la búsqueda.",
+    "duration": 6480,
+    "offset": 1066880,
+    "lang": "es"
+  },
+  {
+    "text": "Creo que la primera vez simplemente va a",
+    "duration": 3720,
+    "offset": 1071400,
+    "lang": "es"
+  },
+  {
+    "text": "tardar tanto, pero después va a ir más",
+    "duration": 8040,
+    "offset": 1073360,
+    "lang": "es"
+  },
+  {
+    "text": "rápido, ¿eh? Pero bueno, ya vamos a ver.",
+    "duration": 8640,
+    "offset": 1075120,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, entonces la imagen recuperada,",
+    "duration": 4279,
+    "offset": 1081400,
+    "lang": "es"
+  },
+  {
+    "text": "figura 11, etiquetada como vista de",
+    "duration": 3600,
+    "offset": 1083760,
+    "lang": "es"
+  },
+  {
+    "text": "mayor aumento de un tubo lo suministro",
+    "duration": 3880,
+    "offset": 1085679,
+    "lang": "es"
+  },
+  {
+    "text": "en corresales. El archivo 4, página 4,",
+    "duration": 5240,
+    "offset": 1087360,
+    "lang": "es"
+  },
+  {
+    "text": "imagen 2.",
+    "duration": 5081,
+    "offset": 1089559,
+    "lang": "es"
+  },
+  {
+    "text": "Análisis de la figura recuperada. Bien.",
+    "duration": 3800,
+    "offset": 1092600,
+    "lang": "es"
+  },
+  {
+    "text": "Y este lo que tiene que también hacen",
+    "duration": 4880,
+    "offset": 1094640,
+    "lang": "es"
+  },
+  {
+    "text": "clic y les muestra la imagen y les dice",
+    "duration": 6840,
+    "offset": 1096400,
+    "lang": "es"
+  },
+  {
+    "text": "bien de qué se trata.",
+    "duration": 5360,
+    "offset": 1099520,
+    "lang": "es"
+  },
+  {
+    "text": "Tejido testigamente tubo los",
+    "duration": 5200,
+    "offset": 1103240,
+    "lang": "es"
+  },
+  {
+    "text": "seminíferos. Bien. Eh, acá describe la",
+    "duration": 6400,
+    "offset": 1104880,
+    "lang": "es"
+  },
+  {
+    "text": "imagen.",
+    "duration": 6760,
+    "offset": 1108440,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, bueno, y como siempre dice página 4,",
+    "duration": 7360,
+    "offset": 1111280,
+    "lang": "es"
+  },
+  {
+    "text": "imagen 2.",
+    "duration": 3440,
+    "offset": 1115200,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a ver. Acá tienen que ir donde",
+    "duration": 4681,
+    "offset": 1120799,
+    "lang": "es"
+  },
+  {
+    "text": "dice este logical data embedings",
+    "duration": 7920,
+    "offset": 1122280,
+    "lang": "es"
+  },
+  {
+    "text": "archivo 4 página 4 imagen 2 y es",
+    "duration": 8000,
+    "offset": 1125480,
+    "lang": "es"
+  },
+  {
+    "text": "efectivamente esa imagen. Sí, señor.",
+    "duration": 6280,
+    "offset": 1130200,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 3000,
+    "offset": 1133480,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno,",
+    "duration": 4760,
+    "offset": 1139200,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a seguir.",
+    "duration": 7640,
+    "offset": 1140880,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, vamos a poner esta imagen.",
+    "duration": 8440,
+    "offset": 1143960,
+    "lang": "es"
+  },
+  {
+    "text": "Hice click donde no era.",
+    "duration": 3880,
+    "offset": 1148520,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, no está en base de datos.",
+    "duration": 9120,
+    "offset": 1167000,
+    "lang": "es"
+  },
+  {
+    "text": "Acá apareció algún problema. A ver.",
+    "duration": 5920,
+    "offset": 1170200,
+    "lang": "es"
+  }
+]

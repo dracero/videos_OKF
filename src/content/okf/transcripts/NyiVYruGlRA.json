@@ -1,0 +1,350 @@
+[
+  {
+    "text": "Ya habíamos visto la creación de el",
+    "duration": 5440,
+    "offset": 1160,
+    "lang": "es"
+  },
+  {
+    "text": "server, a donde habíamos puesto algunos",
+    "duration": 7559,
+    "offset": 4200,
+    "lang": "es"
+  },
+  {
+    "text": "endpints de Moodle",
+    "duration": 8440,
+    "offset": 6600,
+    "lang": "es"
+  },
+  {
+    "text": "y lo que hicimos posteriormente fue la",
+    "duration": 6881,
+    "offset": 11759,
+    "lang": "es"
+  },
+  {
+    "text": "creación de un cliente para conectarnos",
+    "duration": 9559,
+    "offset": 15040,
+    "lang": "es"
+  },
+  {
+    "text": "a ese MCP Server, pero fuimos más allá y",
+    "duration": 9879,
+    "offset": 18640,
+    "lang": "es"
+  },
+  {
+    "text": "configuramos el cliente que tiene eh",
+    "duration": 5160,
+    "offset": 24599,
+    "lang": "es"
+  },
+  {
+    "text": "Gemini",
+    "duration": 5560,
+    "offset": 28519,
+    "lang": "es"
+  },
+  {
+    "text": "2.0 como LLM lo configuramos de tal",
+    "duration": 10001,
+    "offset": 29759,
+    "lang": "es"
+  },
+  {
+    "text": "manera que podía leer los servers de e",
+    "duration": 8721,
+    "offset": 34079,
+    "lang": "es"
+  },
+  {
+    "text": "MCP de un archivo de configuración y así",
+    "duration": 5160,
+    "offset": 39760,
+    "lang": "es"
+  },
+  {
+    "text": "es como nuestro server maneja nuestro",
+    "duration": 4680,
+    "offset": 42800,
+    "lang": "es"
+  },
+  {
+    "text": "Mul MCP, pero también tiene playrght y",
+    "duration": 3760,
+    "offset": 44920,
+    "lang": "es"
+  },
+  {
+    "text": "también",
+    "duration": 4879,
+    "offset": 47480,
+    "lang": "es"
+  },
+  {
+    "text": "tiene eh el la posibilidad de manejar",
+    "duration": 5600,
+    "offset": 48680,
+    "lang": "es"
+  },
+  {
+    "text": "Confluence y la posibilidad de manejar",
+    "duration": 6601,
+    "offset": 52359,
+    "lang": "es"
+  },
+  {
+    "text": "girira. Vamos a ver cómo",
+    "duration": 4680,
+    "offset": 54280,
+    "lang": "es"
+  },
+  {
+    "text": "funciona. Lee todo el archivo de",
+    "duration": 4199,
+    "offset": 59320,
+    "lang": "es"
+  },
+  {
+    "text": "configuración y está hecho de tal manera",
+    "duration": 3881,
+    "offset": 61399,
+    "lang": "es"
+  },
+  {
+    "text": "que si yo quiero que tenga más y más y",
+    "duration": 4441,
+    "offset": 63519,
+    "lang": "es"
+  },
+  {
+    "text": "más server, simplemente tengo que poner",
+    "duration": 5320,
+    "offset": 65280,
+    "lang": "es"
+  },
+  {
+    "text": "la instalar el server y poner la",
+    "duration": 4920,
+    "offset": 67960,
+    "lang": "es"
+  },
+  {
+    "text": "configuración del archivo de",
+    "duration": 6720,
+    "offset": 70600,
+    "lang": "es"
+  },
+  {
+    "text": "configuración en el config, el mcp",
+    "duration": 7800,
+    "offset": 72880,
+    "lang": "es"
+  },
+  {
+    "text": "configon y con eso ya puedo seguir",
+    "duration": 5600,
+    "offset": 77320,
+    "lang": "es"
+  },
+  {
+    "text": "creciendo y creciendo. Vamos a ver acá",
+    "duration": 4520,
+    "offset": 80680,
+    "lang": "es"
+  },
+  {
+    "text": "cómo",
+    "duration": 2280,
+    "offset": 82920,
+    "lang": "es"
+  },
+  {
+    "text": "funciona. Acá tenemos nuestro cliente.",
+    "duration": 6440,
+    "offset": 91880,
+    "lang": "es"
+  },
+  {
+    "text": "Acá empieza, nos dice, fíjense todas las",
+    "duration": 8600,
+    "offset": 94640,
+    "lang": "es"
+  },
+  {
+    "text": "herramientas que lee. Ahora le podemos",
+    "duration": 9439,
+    "offset": 98320,
+    "lang": "es"
+  },
+  {
+    "text": "decir cuáles son los",
+    "duration": 9280,
+    "offset": 103240,
+    "lang": "es"
+  },
+  {
+    "text": "eventos de Moodle.",
+    "duration": 4761,
+    "offset": 107759,
+    "lang": "es"
+  },
+  {
+    "text": "Y ahí nos",
+    "duration": 5280,
+    "offset": 119600,
+    "lang": "es"
+  },
+  {
+    "text": "contesta eh el evento",
+    "duration": 6880,
+    "offset": 121439,
+    "lang": "es"
+  },
+  {
+    "text": "de nos contesta cuáles son los eventos",
+    "duration": 6599,
+    "offset": 124880,
+    "lang": "es"
+  },
+  {
+    "text": "de Moodle.",
+    "duration": 3160,
+    "offset": 128319,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, entonces, bueno, acá dice que puede",
+    "duration": 4159,
+    "offset": 131800,
+    "lang": "es"
+  },
+  {
+    "text": "listar los eventos más comunes. Le vamos",
+    "duration": 4560,
+    "offset": 134080,
+    "lang": "es"
+  },
+  {
+    "text": "a decir los",
+    "duration": 2681,
+    "offset": 135959,
+    "lang": "es"
+  },
+  {
+    "text": "eventos de",
+    "duration": 6121,
+    "offset": 140519,
+    "lang": "es"
+  },
+  {
+    "text": "sitio, los eventos totales del sitio",
+    "duration": 6119,
+    "offset": 143200,
+    "lang": "es"
+  },
+  {
+    "text": "Moodle. Es y acá me dice que encontró",
+    "duration": 4480,
+    "offset": 146640,
+    "lang": "es"
+  },
+  {
+    "text": "uno que es el uso de la jala multimedia,",
+    "duration": 4881,
+    "offset": 149319,
+    "lang": "es"
+  },
+  {
+    "text": "el 5 junto a las 10. Ahora le podemos",
+    "duration": 6320,
+    "offset": 151120,
+    "lang": "es"
+  },
+  {
+    "text": "decir, por ejemplo,",
+    "duration": 3240,
+    "offset": 154200,
+    "lang": "es"
+  },
+  {
+    "text": "que nos dé los titulares de esta página",
+    "duration": 6640,
+    "offset": 159879,
+    "lang": "es"
+  },
+  {
+    "text": "web, que eso lo va a hacer con",
+    "duration": 6961,
+    "offset": 164159,
+    "lang": "es"
+  },
+  {
+    "text": "Playwright, eh nos das",
+    "duration": 4601,
+    "offset": 166519,
+    "lang": "es"
+  },
+  {
+    "text": "los titulares de esta",
+    "duration": 5241,
+    "offset": 171239,
+    "lang": "es"
+  },
+  {
+    "text": "web y ahí con Playgright, que es otro",
+    "duration": 10679,
+    "offset": 178480,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, otro de los este MCP Server que",
+    "duration": 8000,
+    "offset": 183959,
+    "lang": "es"
+  },
+  {
+    "text": "instalamos lo que va a hacer es ir y",
+    "duration": 6800,
+    "offset": 189159,
+    "lang": "es"
+  },
+  {
+    "text": "fijarse cuáles son los titulares de la",
+    "duration": 6560,
+    "offset": 191959,
+    "lang": "es"
+  },
+  {
+    "text": "página web y así podríamos poner",
+    "duration": 4000,
+    "offset": 195959,
+    "lang": "es"
+  },
+  {
+    "text": "cualquier API que",
+    "duration": 4800,
+    "offset": 198519,
+    "lang": "es"
+  },
+  {
+    "text": "quisiéramos y tendríamos todos los",
+    "duration": 7321,
+    "offset": 199959,
+    "lang": "es"
+  },
+  {
+    "text": "sistemas en nuestro LLM.",
+    "duration": 6121,
+    "offset": 203319,
+    "lang": "es"
+  },
+  {
+    "text": "Sí.",
+    "duration": 2160,
+    "offset": 207280,
+    "lang": "es"
+  }
+]

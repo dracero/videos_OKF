@@ -1,0 +1,1754 @@
+[
+  {
+    "text": "vamos a ver cómo poner a funcionar dos",
+    "duration": 7139,
+    "offset": 430,
+    "lang": "es"
+  },
+  {
+    "text": "instancias de aries cloud agent una",
+    "duration": 7230,
+    "offset": 3520,
+    "lang": "es"
+  },
+  {
+    "text": "instancia va a ser el isr o sea el que",
+    "duration": 5731,
+    "offset": 7569,
+    "lang": "es"
+  },
+  {
+    "text": "genera las credenciales la otra",
+    "duration": 4890,
+    "offset": 10750,
+    "lang": "es"
+  },
+  {
+    "text": "instancia que se va a llamar voz va a",
+    "duration": 5160,
+    "offset": 13300,
+    "lang": "es"
+  },
+  {
+    "text": "ser el holder o sea la persona que pide",
+    "duration": 6990,
+    "offset": 15640,
+    "lang": "es"
+  },
+  {
+    "text": "las credenciales recuerden que la del",
+    "duration": 6900,
+    "offset": 18460,
+    "lang": "es"
+  },
+  {
+    "text": "aire es cloud edition tiene que",
+    "duration": 5510,
+    "offset": 22630,
+    "lang": "es"
+  },
+  {
+    "text": "conectarse a un láser para poder dejar",
+    "duration": 5220,
+    "offset": 25360,
+    "lang": "es"
+  },
+  {
+    "text": "sentada todas las transacciones que",
+    "duration": 6270,
+    "offset": 28140,
+    "lang": "es"
+  },
+  {
+    "text": "hacen el ligero hacer un servidor indie",
+    "duration": 7020,
+    "offset": 30580,
+    "lang": "es"
+  },
+  {
+    "text": "lo que vamos a hacer nosotros es atraer",
+    "duration": 6610,
+    "offset": 34410,
+    "lang": "es"
+  },
+  {
+    "text": "una imagen de docker que tiene",
+    "duration": 6060,
+    "offset": 37600,
+    "lang": "es"
+  },
+  {
+    "text": "justamente cuatro servidores sindey y un",
+    "duration": 7470,
+    "offset": 41020,
+    "lang": "es"
+  },
+  {
+    "text": "web server que escucha en el puerto 9000",
+    "duration": 8790,
+    "offset": 43660,
+    "lang": "es"
+  },
+  {
+    "text": "para que vamos a traer ese servidor esos",
+    "duration": 6540,
+    "offset": 48490,
+    "lang": "es"
+  },
+  {
+    "text": "servidores indie porque en esos",
+    "duration": 5010,
+    "offset": 52450,
+    "lang": "es"
+  },
+  {
+    "text": "servidores indie nosotros vamos a tener",
+    "duration": 6090,
+    "offset": 55030,
+    "lang": "es"
+  },
+  {
+    "text": "que registrar el lead público de alice",
+    "duration": 6270,
+    "offset": 57460,
+    "lang": "es"
+  },
+  {
+    "text": "que es el isr vamos a tener que",
+    "duration": 5640,
+    "offset": 61120,
+    "lang": "es"
+  },
+  {
+    "text": "registrar ahí el lead público de alice y",
+    "duration": 5790,
+    "offset": 63730,
+    "lang": "es"
+  },
+  {
+    "text": "con ese público vamos a tener un isr que",
+    "duration": 5490,
+    "offset": 66760,
+    "lang": "es"
+  },
+  {
+    "text": "el holder al quien el holder le va a",
+    "duration": 5340,
+    "offset": 69520,
+    "lang": "es"
+  },
+  {
+    "text": "poder pedir una vez que establezca",
+    "duration": 6720,
+    "offset": 72250,
+    "lang": "es"
+  },
+  {
+    "text": "conexión que le pase credenciales bien",
+    "duration": 6880,
+    "offset": 74860,
+    "lang": "es"
+  },
+  {
+    "text": "primero vamos a",
+    "duration": 5350,
+    "offset": 78970,
+    "lang": "es"
+  },
+  {
+    "text": "levantar",
+    "duration": 6120,
+    "offset": 81740,
+    "lang": "es"
+  },
+  {
+    "text": "la instancia d",
+    "duration": 6600,
+    "offset": 84320,
+    "lang": "es"
+  },
+  {
+    "text": "font network que es el que tiene los",
+    "duration": 5580,
+    "offset": 87860,
+    "lang": "es"
+  },
+  {
+    "text": "cuatro servidores y ahí vemos que están",
+    "duration": 5040,
+    "offset": 90920,
+    "lang": "es"
+  },
+  {
+    "text": "levantando los cuatro servidores ahí nos",
+    "duration": 3890,
+    "offset": 93440,
+    "lang": "es"
+  },
+  {
+    "text": "dio en",
+    "duration": 5310,
+    "offset": 95960,
+    "lang": "es"
+  },
+  {
+    "text": "este el pronto y lo que podemos hacer",
+    "duration": 7020,
+    "offset": 97330,
+    "lang": "es"
+  },
+  {
+    "text": "ahora vamos",
+    "duration": 6220,
+    "offset": 101270,
+    "lang": "es"
+  },
+  {
+    "text": "localhost 9000",
+    "duration": 6620,
+    "offset": 104350,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí tenemos el localhost 9000 nuestros",
+    "duration": 7589,
+    "offset": 107490,
+    "lang": "es"
+  },
+  {
+    "text": "4 servidores indie y acá tenemos la",
+    "duration": 8160,
+    "offset": 110970,
+    "lang": "es"
+  },
+  {
+    "text": "posibilidad de registrar nuestro ser",
+    "duration": 7141,
+    "offset": 115079,
+    "lang": "es"
+  },
+  {
+    "text": "bien entonces",
+    "duration": 5760,
+    "offset": 119130,
+    "lang": "es"
+  },
+  {
+    "text": "ahora una vez que está funcionando el",
+    "duration": 4920,
+    "offset": 122220,
+    "lang": "es"
+  },
+  {
+    "text": "servidor tenemos que levantar las dos",
+    "duration": 4680,
+    "offset": 124890,
+    "lang": "es"
+  },
+  {
+    "text": "instancias primero vamos a levantar a",
+    "duration": 4440,
+    "offset": 127140,
+    "lang": "es"
+  },
+  {
+    "text": "alice que es el isr y después vamos a",
+    "duration": 5010,
+    "offset": 129570,
+    "lang": "es"
+  },
+  {
+    "text": "levantar a voz que es el holder",
+    "duration": 5790,
+    "offset": 131580,
+    "lang": "es"
+  },
+  {
+    "text": "pero tanto al ies como bob tienen que",
+    "duration": 5790,
+    "offset": 134580,
+    "lang": "es"
+  },
+  {
+    "text": "conectarse al láser indie como se",
+    "duration": 6360,
+    "offset": 137370,
+    "lang": "es"
+  },
+  {
+    "text": "conectan al desert indie necesitan como",
+    "duration": 5160,
+    "offset": 140370,
+    "lang": "es"
+  },
+  {
+    "text": "pasa siempre en block change para la",
+    "duration": 4470,
+    "offset": 143730,
+    "lang": "es"
+  },
+  {
+    "text": "primera transacción un archivo de",
+    "duration": 4420,
+    "offset": 145530,
+    "lang": "es"
+  },
+  {
+    "text": "génesis",
+    "duration": 4899,
+    "offset": 148200,
+    "lang": "es"
+  },
+  {
+    "text": "el servidor phone network este server",
+    "duration": 5490,
+    "offset": 149950,
+    "lang": "es"
+  },
+  {
+    "text": "que levantamos tiene su archivo es una",
+    "duration": 4511,
+    "offset": 153099,
+    "lang": "es"
+  },
+  {
+    "text": "particularidad de",
+    "duration": 5590,
+    "offset": 155440,
+    "lang": "es"
+  },
+  {
+    "text": "de los servidores indie en localhost",
+    "duration": 7020,
+    "offset": 157610,
+    "lang": "es"
+  },
+  {
+    "text": "9000 barra génesis o en el servidor",
+    "duration": 6240,
+    "offset": 161030,
+    "lang": "es"
+  },
+  {
+    "text": "génesis tenemos el archivo de génesis",
+    "duration": 4800,
+    "offset": 164630,
+    "lang": "es"
+  },
+  {
+    "text": "que esto nos los da directamente el",
+    "duration": 4950,
+    "offset": 167270,
+    "lang": "es"
+  },
+  {
+    "text": "propio servidor indie ese archivo de",
+    "duration": 4820,
+    "offset": 169430,
+    "lang": "es"
+  },
+  {
+    "text": "génesis es el que va a tener que llamar",
+    "duration": 6950,
+    "offset": 172220,
+    "lang": "es"
+  },
+  {
+    "text": "las instancias de acáp y para poder",
+    "duration": 8820,
+    "offset": 174250,
+    "lang": "es"
+  },
+  {
+    "text": "conectarse a esta red",
+    "duration": 3900,
+    "offset": 179170,
+    "lang": "es"
+  },
+  {
+    "text": "y lo que va a necesitar aparte para",
+    "duration": 4770,
+    "offset": 183610,
+    "lang": "es"
+  },
+  {
+    "text": "levantar el isr es tener un día",
+    "duration": 5670,
+    "offset": 186310,
+    "lang": "es"
+  },
+  {
+    "text": "declarado dentro del láser entonces acá",
+    "duration": 6030,
+    "offset": 188380,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a poner un día un beat que es",
+    "duration": 5550,
+    "offset": 191980,
+    "lang": "es"
+  },
+  {
+    "text": "alice 001 es decir es el que va a usar",
+    "duration": 5480,
+    "offset": 194410,
+    "lang": "es"
+  },
+  {
+    "text": "después para establecer",
+    "duration": 4950,
+    "offset": 197530,
+    "lang": "es"
+  },
+  {
+    "text": "las",
+    "duration": 6400,
+    "offset": 199890,
+    "lang": "es"
+  },
+  {
+    "text": "la criptografía en base 64 con la que va",
+    "duration": 6300,
+    "offset": 202480,
+    "lang": "es"
+  },
+  {
+    "text": "a encriptar las diferentes transacciones",
+    "duration": 5460,
+    "offset": 206290,
+    "lang": "es"
+  },
+  {
+    "text": "y acá en el alias le ponemos a list el",
+    "duration": 5700,
+    "offset": 208780,
+    "lang": "es"
+  },
+  {
+    "text": "lead no ponemos nada acá le damos",
+    "duration": 5940,
+    "offset": 211750,
+    "lang": "es"
+  },
+  {
+    "text": "registrar y cuando le damos registrar se",
+    "duration": 6089,
+    "offset": 214480,
+    "lang": "es"
+  },
+  {
+    "text": "va a escribir a list en el líder y vamos",
+    "duration": 5659,
+    "offset": 217690,
+    "lang": "es"
+  },
+  {
+    "text": "a estar listo para levantar el servidor",
+    "duration": 5730,
+    "offset": 220569,
+    "lang": "es"
+  },
+  {
+    "text": "entonces yo acá ya tengo las instancias",
+    "duration": 5201,
+    "offset": 223349,
+    "lang": "es"
+  },
+  {
+    "text": "de acáp y que también",
+    "duration": 6231,
+    "offset": 226299,
+    "lang": "es"
+  },
+  {
+    "text": "las voy a levantar con do care",
+    "duration": 3980,
+    "offset": 228550,
+    "lang": "es"
+  },
+  {
+    "text": "acá las tengo ya guardadas entonces acá",
+    "duration": 6260,
+    "offset": 232720,
+    "lang": "es"
+  },
+  {
+    "text": "le vamos a poner la instancia de acáp y",
+    "duration": 5670,
+    "offset": 236710,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que acá estamos indicando el",
+    "duration": 5410,
+    "offset": 238980,
+    "lang": "es"
+  },
+  {
+    "text": "archivo de génesis para que se conecte",
+    "duration": 4770,
+    "offset": 242380,
+    "lang": "es"
+  },
+  {
+    "text": "al isr que estamos levantando el cid",
+    "duration": 4230,
+    "offset": 244390,
+    "lang": "es"
+  },
+  {
+    "text": "para que tenga como armar la",
+    "duration": 3780,
+    "offset": 247150,
+    "lang": "es"
+  },
+  {
+    "text": "criptografía la clave la semilla para",
+    "duration": 4820,
+    "offset": 248620,
+    "lang": "es"
+  },
+  {
+    "text": "hacer los algoritmos criptográficos",
+    "duration": 5490,
+    "offset": 250930,
+    "lang": "es"
+  },
+  {
+    "text": "estamos definiendo los endpoints a dónde",
+    "duration": 4590,
+    "offset": 253440,
+    "lang": "es"
+  },
+  {
+    "text": "va a escuchar y a dónde se va a poder",
+    "duration": 5580,
+    "offset": 256420,
+    "lang": "es"
+  },
+  {
+    "text": "divagar y el nombre del wallet y acá le",
+    "duration": 6940,
+    "offset": 258030,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a poner el auto acepte quest para",
+    "duration": 5700,
+    "offset": 262000,
+    "lang": "es"
+  },
+  {
+    "text": "que establezca directamente la conexión",
+    "duration": 5370,
+    "offset": 264970,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que el holder le se la pida",
+    "duration": 4930,
+    "offset": 267700,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá",
+    "duration": 5450,
+    "offset": 270340,
+    "lang": "es"
+  },
+  {
+    "text": "tomamos estos valores",
+    "duration": 5680,
+    "offset": 272630,
+    "lang": "es"
+  },
+  {
+    "text": "volvemos a la terminal recuerden que",
+    "duration": 5820,
+    "offset": 275790,
+    "lang": "es"
+  },
+  {
+    "text": "primero el sit de alice debe haber sido",
+    "duration": 5460,
+    "offset": 278310,
+    "lang": "es"
+  },
+  {
+    "text": "creado previamente en la red y estar",
+    "duration": 4519,
+    "offset": 281610,
+    "lang": "es"
+  },
+  {
+    "text": "dado de alta en el líder indie",
+    "duration": 5000,
+    "offset": 283770,
+    "lang": "es"
+  },
+  {
+    "text": "acá lo pegamos",
+    "duration": 5961,
+    "offset": 286129,
+    "lang": "es"
+  },
+  {
+    "text": "va a tardar un ratito",
+    "duration": 3320,
+    "offset": 288770,
+    "lang": "es"
+  },
+  {
+    "text": "ahí tenemos levantado a lis fíjense que",
+    "duration": 6570,
+    "offset": 292240,
+    "lang": "es"
+  },
+  {
+    "text": "acá levantó a lis y fíjense que tiene",
+    "duration": 6210,
+    "offset": 296440,
+    "lang": "es"
+  },
+  {
+    "text": "este público porque este es el isr este",
+    "duration": 8070,
+    "offset": 298810,
+    "lang": "es"
+  },
+  {
+    "text": "es el agente que lo que va a hacer es va",
+    "duration": 6350,
+    "offset": 302650,
+    "lang": "es"
+  },
+  {
+    "text": "a",
+    "duration": 5840,
+    "offset": 306880,
+    "lang": "es"
+  },
+  {
+    "text": "va a generar las credenciales vamos",
+    "duration": 7170,
+    "offset": 309000,
+    "lang": "es"
+  },
+  {
+    "text": "ahora a levantar el holder box y vamos a",
+    "duration": 7070,
+    "offset": 312720,
+    "lang": "es"
+  },
+  {
+    "text": "ver cuál es la diferencia principal",
+    "duration": 3620,
+    "offset": 316170,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que el holder voz no tiene un",
+    "duration": 4969,
+    "offset": 326200,
+    "lang": "es"
+  },
+  {
+    "text": "grid público",
+    "duration": 4610,
+    "offset": 329380,
+    "lang": "es"
+  },
+  {
+    "text": "bot es simplemente un holder es el que",
+    "duration": 4941,
+    "offset": 331169,
+    "lang": "es"
+  },
+  {
+    "text": "va a pedir las credenciales para",
+    "duration": 4620,
+    "offset": 333990,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplificarlo rápidamente por ejemplo",
+    "duration": 5739,
+    "offset": 336110,
+    "lang": "es"
+  },
+  {
+    "text": "joven voz el holder es el que tiene el",
+    "duration": 5309,
+    "offset": 338610,
+    "lang": "es"
+  },
+  {
+    "text": "documento que va al registro civil a",
+    "duration": 4801,
+    "offset": 341849,
+    "lang": "es"
+  },
+  {
+    "text": "pedir que le hagan un documento y alice",
+    "duration": 6030,
+    "offset": 343919,
+    "lang": "es"
+  },
+  {
+    "text": "es el registro civil es la autoridad que",
+    "duration": 6419,
+    "offset": 346650,
+    "lang": "es"
+  },
+  {
+    "text": "va a emitir el documento bien entonces",
+    "duration": 5671,
+    "offset": 349949,
+    "lang": "es"
+  },
+  {
+    "text": "ahora para que puedan empezar ahora ya",
+    "duration": 5460,
+    "offset": 353069,
+    "lang": "es"
+  },
+  {
+    "text": "los levantamos pero todavía no hay nada",
+    "duration": 6269,
+    "offset": 355620,
+    "lang": "es"
+  },
+  {
+    "text": "en el láser tenemos que establecer la",
+    "duration": 5070,
+    "offset": 358529,
+    "lang": "es"
+  },
+  {
+    "text": "conexión y una vez que establezcamos la",
+    "duration": 3960,
+    "offset": 361889,
+    "lang": "es"
+  },
+  {
+    "text": "conexión vamos a tener que establecer",
+    "duration": 5040,
+    "offset": 363599,
+    "lang": "es"
+  },
+  {
+    "text": "las transacciones de credenciales para",
+    "duration": 4740,
+    "offset": 365849,
+    "lang": "es"
+  },
+  {
+    "text": "que esa credencial quede en el láser",
+    "duration": 6301,
+    "offset": 368639,
+    "lang": "es"
+  },
+  {
+    "text": "entonces lo primero que vamos a hacer es",
+    "duration": 6781,
+    "offset": 370589,
+    "lang": "es"
+  },
+  {
+    "text": "algo que hay que decir cuando levantamos",
+    "duration": 5880,
+    "offset": 374940,
+    "lang": "es"
+  },
+  {
+    "text": "la instancia de alice y voz hay un",
+    "duration": 6380,
+    "offset": 377370,
+    "lang": "es"
+  },
+  {
+    "text": "puerto que es el 11 mil y el 11.000 uno",
+    "duration": 5430,
+    "offset": 380820,
+    "lang": "es"
+  },
+  {
+    "text": "que son los puertos que se van a",
+    "duration": 3510,
+    "offset": 383750,
+    "lang": "es"
+  },
+  {
+    "text": "utilizar",
+    "duration": 4620,
+    "offset": 386250,
+    "lang": "es"
+  },
+  {
+    "text": "para recibir las distintas transacciones",
+    "duration": 6670,
+    "offset": 387260,
+    "lang": "es"
+  },
+  {
+    "text": "y para poder ver o para poder guiarnos",
+    "duration": 5670,
+    "offset": 390870,
+    "lang": "es"
+  },
+  {
+    "text": "respecto de cómo hacer esas distintas",
+    "duration": 3800,
+    "offset": 393930,
+    "lang": "es"
+  },
+  {
+    "text": "transacciones",
+    "duration": 2930,
+    "offset": 396540,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos",
+    "duration": 5140,
+    "offset": 397730,
+    "lang": "es"
+  },
+  {
+    "text": "documentación en schwager fíjense que",
+    "duration": 7090,
+    "offset": 399470,
+    "lang": "es"
+  },
+  {
+    "text": "este es el server 11 1001 que éste sería",
+    "duration": 7800,
+    "offset": 402870,
+    "lang": "es"
+  },
+  {
+    "text": "voz y acá tenemos todas las los métodos",
+    "duration": 6330,
+    "offset": 406560,
+    "lang": "es"
+  },
+  {
+    "text": "con los cuales los podemos este",
+    "duration": 3780,
+    "offset": 410670,
+    "lang": "es"
+  },
+  {
+    "text": "encuestar todos los métodos de app y",
+    "duration": 4440,
+    "offset": 412890,
+    "lang": "es"
+  },
+  {
+    "text": "rest y sí en cambio de 11 mil unos",
+    "duration": 4950,
+    "offset": 414450,
+    "lang": "es"
+  },
+  {
+    "text": "ponemos 11 mil",
+    "duration": 4980,
+    "offset": 417330,
+    "lang": "es"
+  },
+  {
+    "text": "este es nuestro y ser alice y acá",
+    "duration": 5130,
+    "offset": 419400,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos todos los métodos que podemos",
+    "duration": 7850,
+    "offset": 422310,
+    "lang": "es"
+  },
+  {
+    "text": "utilizar con el isr alice bien entonces",
+    "duration": 7190,
+    "offset": 424530,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo primero que tenemos que hacer",
+    "duration": 3770,
+    "offset": 430160,
+    "lang": "es"
+  },
+  {
+    "text": "es establecer una conexión",
+    "duration": 4950,
+    "offset": 431720,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense acá estamos en 11.000 que es",
+    "duration": 5800,
+    "offset": 433930,
+    "lang": "es"
+  },
+  {
+    "text": "alice alice va a crear una invitación",
+    "duration": 7200,
+    "offset": 436670,
+    "lang": "es"
+  },
+  {
+    "text": "entonces alice crea la invitación una",
+    "duration": 6060,
+    "offset": 439730,
+    "lang": "es"
+  },
+  {
+    "text": "vez que a les crea la invitación se",
+    "duration": 5859,
+    "offset": 443870,
+    "lang": "es"
+  },
+  {
+    "text": "genera este al ésta",
+    "duration": 5739,
+    "offset": 445790,
+    "lang": "es"
+  },
+  {
+    "text": "esperen que lo voy a sacar porque no lo",
+    "duration": 4220,
+    "offset": 449729,
+    "lang": "es"
+  },
+  {
+    "text": "quería así",
+    "duration": 2420,
+    "offset": 451529,
+    "lang": "es"
+  },
+  {
+    "text": "se genera este hash",
+    "duration": 3320,
+    "offset": 454440,
+    "lang": "es"
+  },
+  {
+    "text": "que vengo acá se genera este caso en",
+    "duration": 5849,
+    "offset": 462040,
+    "lang": "es"
+  },
+  {
+    "text": "base 64",
+    "duration": 6840,
+    "offset": 464470,
+    "lang": "es"
+  },
+  {
+    "text": "que es tejas es el que tiene los datos",
+    "duration": 5960,
+    "offset": 467889,
+    "lang": "es"
+  },
+  {
+    "text": "para que boca acepte la conexión",
+    "duration": 4129,
+    "offset": 471310,
+    "lang": "es"
+  },
+  {
+    "text": "normalmente",
+    "duration": 4540,
+    "offset": 473849,
+    "lang": "es"
+  },
+  {
+    "text": "ahora nosotros vamos a hacer vamos a",
+    "duration": 4961,
+    "offset": 475439,
+    "lang": "es"
+  },
+  {
+    "text": "hacer copy-paste vamos a hacer todo a",
+    "duration": 4011,
+    "offset": 478389,
+    "lang": "es"
+  },
+  {
+    "text": "mano pero normalmente este hash",
+    "duration": 6650,
+    "offset": 480400,
+    "lang": "es"
+  },
+  {
+    "text": "codificado en beige 64 yo se lo mando a",
+    "duration": 8109,
+    "offset": 482400,
+    "lang": "es"
+  },
+  {
+    "text": "él holder o la persona que me está",
+    "duration": 6310,
+    "offset": 487050,
+    "lang": "es"
+  },
+  {
+    "text": "requiriendo conectarse que está",
+    "duration": 4740,
+    "offset": 490509,
+    "lang": "es"
+  },
+  {
+    "text": "requiriendo conectarse conmigo para que",
+    "duration": 4679,
+    "offset": 493360,
+    "lang": "es"
+  },
+  {
+    "text": "yo le dé una credencial esto está",
+    "duration": 5790,
+    "offset": 495249,
+    "lang": "es"
+  },
+  {
+    "text": "codificado en beige 64 entonces vamos a",
+    "duration": 7981,
+    "offset": 498039,
+    "lang": "es"
+  },
+  {
+    "text": "ir a una página de veis 64 que es beige",
+    "duration": 7891,
+    "offset": 501039,
+    "lang": "es"
+  },
+  {
+    "text": "64 group",
+    "duration": 5910,
+    "offset": 506020,
+    "lang": "es"
+  },
+  {
+    "text": "acá en esta página del bei 64 guru vamos",
+    "duration": 9049,
+    "offset": 508930,
+    "lang": "es"
+  },
+  {
+    "text": "a convertir 20 64 pegamos el hash",
+    "duration": 6049,
+    "offset": 511930,
+    "lang": "es"
+  },
+  {
+    "text": "no esperen que me olvidé de copiarlo",
+    "duration": 5930,
+    "offset": 518150,
+    "lang": "es"
+  },
+  {
+    "text": "pegamos el hash",
+    "duration": 3140,
+    "offset": 520940,
+    "lang": "es"
+  },
+  {
+    "text": "en la página está y damos de code",
+    "duration": 5890,
+    "offset": 524960,
+    "lang": "es"
+  },
+  {
+    "text": "hay una vez que decodifica vamos tenemos",
+    "duration": 4979,
+    "offset": 528540,
+    "lang": "es"
+  },
+  {
+    "text": "la cadena que va a ser necesario que a",
+    "duration": 4780,
+    "offset": 530850,
+    "lang": "es"
+  },
+  {
+    "text": "ver que enviarle",
+    "duration": 5051,
+    "offset": 533519,
+    "lang": "es"
+  },
+  {
+    "text": "desde bob a alice para aceptar la",
+    "duration": 4820,
+    "offset": 535630,
+    "lang": "es"
+  },
+  {
+    "text": "invitación de conexión acuérdense que",
+    "duration": 5010,
+    "offset": 538570,
+    "lang": "es"
+  },
+  {
+    "text": "este hack en realidad le va a llegar a",
+    "duration": 4720,
+    "offset": 540450,
+    "lang": "es"
+  },
+  {
+    "text": "través de un mail oa través de algo que",
+    "duration": 4140,
+    "offset": 543580,
+    "lang": "es"
+  },
+  {
+    "text": "certifique su identidad entonces acá",
+    "duration": 8039,
+    "offset": 545170,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ir a un decodificador jason",
+    "duration": 8279,
+    "offset": 547720,
+    "lang": "es"
+  },
+  {
+    "text": "jason válida editor entonces le vamos a",
+    "duration": 5091,
+    "offset": 553209,
+    "lang": "es"
+  },
+  {
+    "text": "pegar",
+    "duration": 2301,
+    "offset": 555999,
+    "lang": "es"
+  },
+  {
+    "text": "esta cadena y le vamos a dar que la",
+    "duration": 6720,
+    "offset": 560000,
+    "lang": "es"
+  },
+  {
+    "text": "procese y ahí nos arma la cadena jason",
+    "duration": 6830,
+    "offset": 562580,
+    "lang": "es"
+  },
+  {
+    "text": "que necesitamos para",
+    "duration": 6660,
+    "offset": 566720,
+    "lang": "es"
+  },
+  {
+    "text": "conectarnos bien todo esto por supuesto",
+    "duration": 5680,
+    "offset": 569410,
+    "lang": "es"
+  },
+  {
+    "text": "lo podemos hacer programáticamente acá",
+    "duration": 3240,
+    "offset": 573380,
+    "lang": "es"
+  },
+  {
+    "text": "lo estoy haciendo a mano para mostrar",
+    "duration": 5010,
+    "offset": 575090,
+    "lang": "es"
+  },
+  {
+    "text": "cómo son los pasos entonces ahora vamos",
+    "duration": 6930,
+    "offset": 576620,
+    "lang": "es"
+  },
+  {
+    "text": "a voz y vamos a poner el método recibi",
+    "duration": 6510,
+    "offset": 580100,
+    "lang": "es"
+  },
+  {
+    "text": "invitation autos van autos van significa",
+    "duration": 4530,
+    "offset": 583550,
+    "lang": "es"
+  },
+  {
+    "text": "auto flyer esto no va a quedar",
+    "duration": 3000,
+    "offset": 586610,
+    "lang": "es"
+  },
+  {
+    "text": "registrado en el dicho nos estamos",
+    "duration": 4380,
+    "offset": 588080,
+    "lang": "es"
+  },
+  {
+    "text": "conectando entre nosotros entonces ahora",
+    "duration": 6680,
+    "offset": 589610,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a donde dice bar y y acá",
+    "duration": 3830,
+    "offset": 592460,
+    "lang": "es"
+  },
+  {
+    "text": "pegamos la invitación que nos termina de",
+    "duration": 6980,
+    "offset": 598870,
+    "lang": "es"
+  },
+  {
+    "text": "mandar a alice y le damos en",
+    "duration": 7130,
+    "offset": 602560,
+    "lang": "es"
+  },
+  {
+    "text": "bien acá fíjense el 200 ok se lo",
+    "duration": 6390,
+    "offset": 605850,
+    "lang": "es"
+  },
+  {
+    "text": "enviamos al y si vemos las instancias",
+    "duration": 4620,
+    "offset": 609690,
+    "lang": "es"
+  },
+  {
+    "text": "como le habíamos puesto",
+    "duration": 3360,
+    "offset": 612240,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 4700,
+    "offset": 614310,
+    "lang": "es"
+  },
+  {
+    "text": "que nos permita divagar",
+    "duration": 7150,
+    "offset": 615600,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver las instancias",
+    "duration": 3740,
+    "offset": 619010,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que acá ya tenemos tanto en",
+    "duration": 6559,
+    "offset": 623550,
+    "lang": "es"
+  },
+  {
+    "text": "alice como en voz",
+    "duration": 6509,
+    "offset": 627000,
+    "lang": "es"
+  },
+  {
+    "text": "acabando la conexión acá recibió la",
+    "duration": 5350,
+    "offset": 630109,
+    "lang": "es"
+  },
+  {
+    "text": "conexión primero acá promovió la",
+    "duration": 5730,
+    "offset": 633509,
+    "lang": "es"
+  },
+  {
+    "text": "conexión acá lo que hizo es la acepto y",
+    "duration": 5640,
+    "offset": 635459,
+    "lang": "es"
+  },
+  {
+    "text": "como tiene el auto a ser rico es lo que",
+    "duration": 4170,
+    "offset": 639239,
+    "lang": "es"
+  },
+  {
+    "text": "hace en ella la conexión se auto acepta",
+    "duration": 4500,
+    "offset": 641099,
+    "lang": "es"
+  },
+  {
+    "text": "y queda establecida entonces acá ya los",
+    "duration": 4890,
+    "offset": 643409,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos conectados una vez que se",
+    "duration": 4651,
+    "offset": 645599,
+    "lang": "es"
+  },
+  {
+    "text": "conectaron",
+    "duration": 6091,
+    "offset": 648299,
+    "lang": "es"
+  },
+  {
+    "text": "lo que nos da al volver es el connection",
+    "duration": 8700,
+    "offset": 650250,
+    "lang": "es"
+  },
+  {
+    "text": "aid y este connection aid y slide y que",
+    "duration": 8340,
+    "offset": 654390,
+    "lang": "es"
+  },
+  {
+    "text": "va a tener que usar voz para conectarse",
+    "duration": 7160,
+    "offset": 658950,
+    "lang": "es"
+  },
+  {
+    "text": "a alice y establecer las distintas",
+    "duration": 6060,
+    "offset": 662730,
+    "lang": "es"
+  },
+  {
+    "text": "conexiones para poder requerir las en",
+    "duration": 4920,
+    "offset": 666110,
+    "lang": "es"
+  },
+  {
+    "text": "las",
+    "duration": 4820,
+    "offset": 668790,
+    "lang": "es"
+  },
+  {
+    "text": "credenciales bien",
+    "duration": 7420,
+    "offset": 671030,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense acá estamos en alice y alice lo",
+    "duration": 6070,
+    "offset": 673610,
+    "lang": "es"
+  },
+  {
+    "text": "que va a hacer es va a definir un",
+    "duration": 4170,
+    "offset": 678450,
+    "lang": "es"
+  },
+  {
+    "text": "esquema acá es algo simple vamos a",
+    "duration": 7740,
+    "offset": 679680,
+    "lang": "es"
+  },
+  {
+    "text": "definir un esquema que tiene",
+    "duration": 7740,
+    "offset": 682620,
+    "lang": "es"
+  },
+  {
+    "text": "nombre de atributo y un nombre y una",
+    "duration": 5670,
+    "offset": 687420,
+    "lang": "es"
+  },
+  {
+    "text": "edad simplemente es o sea es hagan de",
+    "duration": 4230,
+    "offset": 690360,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta que acá nosotros lo que podríamos",
+    "duration": 3270,
+    "offset": 693090,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es definir por ejemplo los datos",
+    "duration": 3660,
+    "offset": 694590,
+    "lang": "es"
+  },
+  {
+    "text": "de un documento de identidad podríamos",
+    "duration": 4200,
+    "offset": 696360,
+    "lang": "es"
+  },
+  {
+    "text": "definir los datos de un título",
+    "duration": 3620,
+    "offset": 698250,
+    "lang": "es"
+  },
+  {
+    "text": "universitario",
+    "duration": 3540,
+    "offset": 700560,
+    "lang": "es"
+  },
+  {
+    "text": "podríamos definir los datos de una",
+    "duration": 7090,
+    "offset": 701870,
+    "lang": "es"
+  },
+  {
+    "text": "célula de cédula de identidad o un un",
+    "duration": 7549,
+    "offset": 704100,
+    "lang": "es"
+  },
+  {
+    "text": "registro de conducir",
+    "duration": 5749,
+    "offset": 708960,
+    "lang": "es"
+  },
+  {
+    "text": "los datos del título por ejemplo para",
+    "duration": 4470,
+    "offset": 711649,
+    "lang": "es"
+  },
+  {
+    "text": "certificar que una persona tiene el",
+    "duration": 3660,
+    "offset": 714709,
+    "lang": "es"
+  },
+  {
+    "text": "título los datos de una matrícula acá en",
+    "duration": 4921,
+    "offset": 716119,
+    "lang": "es"
+  },
+  {
+    "text": "este esquema es lo podemos armar siempre",
+    "duration": 4741,
+    "offset": 718369,
+    "lang": "es"
+  },
+  {
+    "text": "y cuando respetemos está sintaxis lo que",
+    "duration": 3570,
+    "offset": 721040,
+    "lang": "es"
+  },
+  {
+    "text": "querramos como este yo ya lo había",
+    "duration": 3409,
+    "offset": 723110,
+    "lang": "es"
+  },
+  {
+    "text": "armado",
+    "duration": 6620,
+    "offset": 724610,
+    "lang": "es"
+  },
+  {
+    "text": "aquel acá le voy a poner",
+    "duration": 4711,
+    "offset": 726519,
+    "lang": "es"
+  },
+  {
+    "text": "esquema versión 1 y le doy sen",
+    "duration": 8390,
+    "offset": 732620,
+    "lang": "es"
+  },
+  {
+    "text": "y acá ya creé un esquema y me devuelve",
+    "duration": 7940,
+    "offset": 736120,
+    "lang": "es"
+  },
+  {
+    "text": "un esquema",
+    "duration": 5330,
+    "offset": 741010,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que esto lo hago en 11.000 que",
+    "duration": 4500,
+    "offset": 744060,
+    "lang": "es"
+  },
+  {
+    "text": "es siempre del lado de alice alice creo",
+    "duration": 5700,
+    "offset": 746340,
+    "lang": "es"
+  },
+  {
+    "text": "un esquema y me devuelve el esquema aid",
+    "duration": 5890,
+    "offset": 748560,
+    "lang": "es"
+  },
+  {
+    "text": "y ahora",
+    "duration": 4010,
+    "offset": 752040,
+    "lang": "es"
+  },
+  {
+    "text": "voy",
+    "duration": 4480,
+    "offset": 754450,
+    "lang": "es"
+  },
+  {
+    "text": "a definir credenciales yo creé el",
+    "duration": 4860,
+    "offset": 756050,
+    "lang": "es"
+  },
+  {
+    "text": "esquema ahora tengo que ir también a",
+    "duration": 4290,
+    "offset": 758930,
+    "lang": "es"
+  },
+  {
+    "text": "alice a usar el método definir",
+    "duration": 4350,
+    "offset": 760910,
+    "lang": "es"
+  },
+  {
+    "text": "credenciales y tengo que pegar el",
+    "duration": 4140,
+    "offset": 763220,
+    "lang": "es"
+  },
+  {
+    "text": "esquema y di que me dio en el paso",
+    "duration": 5900,
+    "offset": 765260,
+    "lang": "es"
+  },
+  {
+    "text": "anterior entonces acá hago sen",
+    "duration": 7399,
+    "offset": 767360,
+    "lang": "es"
+  },
+  {
+    "text": "ay tarda un rato porque está tanto la",
+    "duration": 5310,
+    "offset": 771160,
+    "lang": "es"
+  },
+  {
+    "text": "definición de esquema como la definición",
+    "duration": 4320,
+    "offset": 774759,
+    "lang": "es"
+  },
+  {
+    "text": "de credenciales tarda un rato porque ahí",
+    "duration": 5640,
+    "offset": 776470,
+    "lang": "es"
+  },
+  {
+    "text": "si está escribiendo en el líder todas",
+    "duration": 4861,
+    "offset": 779079,
+    "lang": "es"
+  },
+  {
+    "text": "las transacciones que vienen de ahora en",
+    "duration": 5849,
+    "offset": 782110,
+    "lang": "es"
+  },
+  {
+    "text": "más son tras transacciones que quedan en",
+    "duration": 9839,
+    "offset": 783940,
+    "lang": "es"
+  },
+  {
+    "text": "el líder bien entonces ahora pop fíjense",
+    "duration": 10161,
+    "offset": 787959,
+    "lang": "es"
+  },
+  {
+    "text": "que es 11 mil 12 lo que va a ser es un",
+    "duration": 7860,
+    "offset": 793779,
+    "lang": "es"
+  },
+  {
+    "text": "centro postal le va a pedir al y le dice",
+    "duration": 6159,
+    "offset": 798120,
+    "lang": "es"
+  },
+  {
+    "text": "bueno yo te propongo que vos me envíes",
+    "duration": 4771,
+    "offset": 801639,
+    "lang": "es"
+  },
+  {
+    "text": "credenciales le está pidiendo es como",
+    "duration": 3360,
+    "offset": 804279,
+    "lang": "es"
+  },
+  {
+    "text": "cuando uno va a pedir que le den el",
+    "duration": 2669,
+    "offset": 806410,
+    "lang": "es"
+  },
+  {
+    "text": "documento va a pedir que le den el",
+    "duration": 3450,
+    "offset": 807639,
+    "lang": "es"
+  },
+  {
+    "text": "registro de conducir a cabo le está",
+    "duration": 5250,
+    "offset": 809079,
+    "lang": "es"
+  },
+  {
+    "text": "pidiendo que le dé credenciales nombre y",
+    "duration": 6901,
+    "offset": 811089,
+    "lang": "es"
+  },
+  {
+    "text": "edad 30 bien y fíjense que acá está el",
+    "duration": 5971,
+    "offset": 814329,
+    "lang": "es"
+  },
+  {
+    "text": "conexión haití que yo voy a tener que",
+    "duration": 5099,
+    "offset": 817990,
+    "lang": "es"
+  },
+  {
+    "text": "buscar en este paso que es este conexión",
+    "duration": 5519,
+    "offset": 820300,
+    "lang": "es"
+  },
+  {
+    "text": "aid y este conexión haití es el que",
+    "duration": 5690,
+    "offset": 823089,
+    "lang": "es"
+  },
+  {
+    "text": "necesita voz",
+    "duration": 2960,
+    "offset": 825819,
+    "lang": "es"
+  },
+  {
+    "text": "para conectarse con alice y hacer el",
+    "duration": 6390,
+    "offset": 829120,
+    "lang": "es"
+  },
+  {
+    "text": "centro postal entonces acá voy a buscar",
+    "duration": 5840,
+    "offset": 832870,
+    "lang": "es"
+  },
+  {
+    "text": "este conexión haití",
+    "duration": 3200,
+    "offset": 835510,
+    "lang": "es"
+  },
+  {
+    "text": "sen bien y acá lo que hace es yo envió",
+    "duration": 9750,
+    "offset": 840649,
+    "lang": "es"
+  },
+  {
+    "text": "la propuesta al y recibe la propuesta y",
+    "duration": 7769,
+    "offset": 846110,
+    "lang": "es"
+  },
+  {
+    "text": "me da un credencial credit side y éste",
+    "duration": 5011,
+    "offset": 850399,
+    "lang": "es"
+  },
+  {
+    "text": "cree de exalead y es el que voy a",
+    "duration": 3421,
+    "offset": 853879,
+    "lang": "es"
+  },
+  {
+    "text": "necesitar de ahora en más para",
+    "duration": 4019,
+    "offset": 855410,
+    "lang": "es"
+  },
+  {
+    "text": "intercambiar valores dentro de las",
+    "duration": 4370,
+    "offset": 857300,
+    "lang": "es"
+  },
+  {
+    "text": "credenciales",
+    "duration": 2241,
+    "offset": 859429,
+    "lang": "es"
+  }
+]

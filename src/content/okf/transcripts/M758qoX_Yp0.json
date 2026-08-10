@@ -1,0 +1,770 @@
+[
+  {
+    "text": "Bueno, les voy a mostrar cómo hacer la",
+    "duration": 5881,
+    "offset": 1079,
+    "lang": "es"
+  },
+  {
+    "text": "prueba. Termino de poner en el Drive un",
+    "duration": 7439,
+    "offset": 3240,
+    "lang": "es"
+  },
+  {
+    "text": "archivo PDF que se llama Arch 2. Ese",
+    "duration": 5920,
+    "offset": 6960,
+    "lang": "es"
+  },
+  {
+    "text": "archivo que se llama Arch 2 ya tiene",
+    "duration": 5160,
+    "offset": 10679,
+    "lang": "es"
+  },
+  {
+    "text": "listo todo para que ustedes hagan la",
+    "duration": 6000,
+    "offset": 12880,
+    "lang": "es"
+  },
+  {
+    "text": "prueba. Fíjense",
+    "duration": 5561,
+    "offset": 15839,
+    "lang": "es"
+  },
+  {
+    "text": "acá hay una carpeta que se llama PDF. En",
+    "duration": 5040,
+    "offset": 18880,
+    "lang": "es"
+  },
+  {
+    "text": "esa carpeta PDF tienen que poner el",
+    "duration": 6520,
+    "offset": 21400,
+    "lang": "es"
+  },
+  {
+    "text": "archivo este Arch 2. Y después hay unas",
+    "duration": 8639,
+    "offset": 23920,
+    "lang": "es"
+  },
+  {
+    "text": "JPG con eh nombres muy largos que yo acá",
+    "duration": 6920,
+    "offset": 27920,
+    "lang": "es"
+  },
+  {
+    "text": "los puse más cortitos porque si no",
+    "duration": 4761,
+    "offset": 32559,
+    "lang": "es"
+  },
+  {
+    "text": "Google Colab no los toma, que los tienen",
+    "duration": 4559,
+    "offset": 34840,
+    "lang": "es"
+  },
+  {
+    "text": "que poner directamente en el directorio",
+    "duration": 4640,
+    "offset": 37320,
+    "lang": "es"
+  },
+  {
+    "text": "raíz.",
+    "duration": 4721,
+    "offset": 39399,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, fíjense, yo acá al primero que",
+    "duration": 5520,
+    "offset": 41960,
+    "lang": "es"
+  },
+  {
+    "text": "es para el grupo dos le di run, lo que",
+    "duration": 7000,
+    "offset": 44120,
+    "lang": "es"
+  },
+  {
+    "text": "hizo fue cargar los embedings clip.",
+    "duration": 6280,
+    "offset": 47480,
+    "lang": "es"
+  },
+  {
+    "text": "Una vez que cargó los embedims, va a la",
+    "duration": 7279,
+    "offset": 51120,
+    "lang": "es"
+  },
+  {
+    "text": "carpeta PDF y procesa el PDF. Fíjense",
+    "duration": 9000,
+    "offset": 53760,
+    "lang": "es"
+  },
+  {
+    "text": "que acá eh primero extrae los temas,",
+    "duration": 7760,
+    "offset": 58399,
+    "lang": "es"
+  },
+  {
+    "text": "saca los 78 temas de los que va a tratar",
+    "duration": 5880,
+    "offset": 62760,
+    "lang": "es"
+  },
+  {
+    "text": "para hacer el clasificador semántico.",
+    "duration": 4441,
+    "offset": 66159,
+    "lang": "es"
+  },
+  {
+    "text": "Eso lo van a ver si le piden a Cloud que",
+    "duration": 4720,
+    "offset": 68640,
+    "lang": "es"
+  },
+  {
+    "text": "les explique qué es el archivo. Acá",
+    "duration": 6040,
+    "offset": 70600,
+    "lang": "es"
+  },
+  {
+    "text": "indexa el PDF, genera los chanks",
+    "duration": 6960,
+    "offset": 73360,
+    "lang": "es"
+  },
+  {
+    "text": "y eh fíjense que acá dice que extrajo 25",
+    "duration": 5159,
+    "offset": 76640,
+    "lang": "es"
+  },
+  {
+    "text": "páginas.",
+    "duration": 4280,
+    "offset": 80320,
+    "lang": "es"
+  },
+  {
+    "text": "procesas las 25 páginas y crea la",
+    "duration": 5481,
+    "offset": 81799,
+    "lang": "es"
+  },
+  {
+    "text": "colección Histología Multimodal en",
+    "duration": 4440,
+    "offset": 84600,
+    "lang": "es"
+  },
+  {
+    "text": "Cuadrant.",
+    "duration": 3839,
+    "offset": 87280,
+    "lang": "es"
+  },
+  {
+    "text": "Si ustedes se van a Cuadrant, acá está",
+    "duration": 6039,
+    "offset": 89040,
+    "lang": "es"
+  },
+  {
+    "text": "Histología Multimodal. Y fíjense que acá",
+    "duration": 8360,
+    "offset": 91119,
+    "lang": "es"
+  },
+  {
+    "text": "tienen los distintos chans",
+    "duration": 4400,
+    "offset": 95079,
+    "lang": "es"
+  },
+  {
+    "text": "e si ustedes acá eh",
+    "duration": 8119,
+    "offset": 99600,
+    "lang": "es"
+  },
+  {
+    "text": "siguen ahondando, si hacen acá este clic",
+    "duration": 7320,
+    "offset": 103600,
+    "lang": "es"
+  },
+  {
+    "text": "donde dice copy, lo que van a ver son",
+    "duration": 6321,
+    "offset": 107719,
+    "lang": "es"
+  },
+  {
+    "text": "los embeddings que se generaron.",
+    "duration": 5199,
+    "offset": 110920,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces acá están todos los chans y los",
+    "duration": 4800,
+    "offset": 114040,
+    "lang": "es"
+  },
+  {
+    "text": "embeddings. Genera embedings de cada",
+    "duration": 5241,
+    "offset": 116119,
+    "lang": "es"
+  },
+  {
+    "text": "chans de texto. Ven que acá dice chan",
+    "duration": 4919,
+    "offset": 118840,
+    "lang": "es"
+  },
+  {
+    "text": "id. están los distintos textos. Cada",
+    "duration": 5000,
+    "offset": 121360,
+    "lang": "es"
+  },
+  {
+    "text": "chan de texto tiene una dimensión de",
+    "duration": 4521,
+    "offset": 123759,
+    "lang": "es"
+  },
+  {
+    "text": "512.",
+    "duration": 4879,
+    "offset": 126360,
+    "lang": "es"
+  },
+  {
+    "text": "Es la dimensión que tienen los chans de",
+    "duration": 5920,
+    "offset": 128280,
+    "lang": "es"
+  },
+  {
+    "text": "clip. Entonces, ahora ustedes qué van a",
+    "duration": 7000,
+    "offset": 131239,
+    "lang": "es"
+  },
+  {
+    "text": "hacer? le dicen, \"Me",
+    "duration": 8399,
+    "offset": 134200,
+    "lang": "es"
+  },
+  {
+    "text": "podés decir qué tejido",
+    "duration": 7961,
+    "offset": 138239,
+    "lang": "es"
+  },
+  {
+    "text": "es este.\" Aprietan clic y les va a decir",
+    "duration": 6121,
+    "offset": 142599,
+    "lang": "es"
+  },
+  {
+    "text": "que pongan el pad de la imagen. Hacen",
+    "duration": 8119,
+    "offset": 146200,
+    "lang": "es"
+  },
+  {
+    "text": "clic acá, ponen copiar la ruta de acceso",
+    "duration": 5599,
+    "offset": 148720,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí le dan enter. Copian la ruta y le",
+    "duration": 7519,
+    "offset": 154720,
+    "lang": "es"
+  },
+  {
+    "text": "dan enter y ahí va. empieza",
+    "duration": 7360,
+    "offset": 157560,
+    "lang": "es"
+  },
+  {
+    "text": "empieza a hacer todo el procesamiento,",
+    "duration": 5761,
+    "offset": 162239,
+    "lang": "es"
+  },
+  {
+    "text": "toda la búsqueda en la base de datos, o",
+    "duration": 4959,
+    "offset": 164920,
+    "lang": "es"
+  },
+  {
+    "text": "sea, ahí empieza a actuar todo el",
+    "duration": 4480,
+    "offset": 168000,
+    "lang": "es"
+  },
+  {
+    "text": "proceso de rag. Ese es el querer de",
+    "duration": 4440,
+    "offset": 169879,
+    "lang": "es"
+  },
+  {
+    "text": "usuario a partir del cual va a ir",
+    "duration": 5800,
+    "offset": 172480,
+    "lang": "es"
+  },
+  {
+    "text": "actuando todo el e proceso de rag.",
+    "duration": 8121,
+    "offset": 174319,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que acá ya está. Dice creando,",
+    "duration": 7760,
+    "offset": 178280,
+    "lang": "es"
+  },
+  {
+    "text": "precalculando embedding. Recuerden que",
+    "duration": 7439,
+    "offset": 182440,
+    "lang": "es"
+  },
+  {
+    "text": "eh los mismos embeddings con los que",
+    "duration": 6600,
+    "offset": 186040,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes generaron la imagen los va a",
+    "duration": 4241,
+    "offset": 189879,
+    "lang": "es"
+  },
+  {
+    "text": "generar el querer de usuario, los va a",
+    "duration": 3000,
+    "offset": 192640,
+    "lang": "es"
+  },
+  {
+    "text": "convertir en el mismo querer. Acá está",
+    "duration": 4240,
+    "offset": 194120,
+    "lang": "es"
+  },
+  {
+    "text": "buscando en Cudrand, dice encontró 15",
+    "duration": 4440,
+    "offset": 195640,
+    "lang": "es"
+  },
+  {
+    "text": "resultados, va a tomar los mejores",
+    "duration": 4280,
+    "offset": 198360,
+    "lang": "es"
+  },
+  {
+    "text": "cinco. Ahí va a ser un análisis",
+    "duration": 5560,
+    "offset": 200080,
+    "lang": "es"
+  },
+  {
+    "text": "comparativo.",
+    "duration": 3000,
+    "offset": 202640,
+    "lang": "es"
+  },
+  {
+    "text": "Tejido nervioso central. Es, fíjense,",
+    "duration": 6321,
+    "offset": 206159,
+    "lang": "es"
+  },
+  {
+    "text": "creo que le puse la imagen uno",
+    "duration": 6440,
+    "offset": 208840,
+    "lang": "es"
+  },
+  {
+    "text": "y efectivamente la imagen uno es tejido",
+    "duration": 7440,
+    "offset": 212480,
+    "lang": "es"
+  },
+  {
+    "text": "nervioso central y está en el",
+    "duration": 4640,
+    "offset": 215280,
+    "lang": "es"
+  },
+  {
+    "text": "eh está en el libro, ahí la la buscó en",
+    "duration": 5241,
+    "offset": 222239,
+    "lang": "es"
+  },
+  {
+    "text": "Kudran, la encontró por similaridad",
+    "duration": 5200,
+    "offset": 225599,
+    "lang": "es"
+  },
+  {
+    "text": "semántica, ahí la está eh trayendo y ahí",
+    "duration": 5440,
+    "offset": 227480,
+    "lang": "es"
+  },
+  {
+    "text": "bueno, en cualquier momento bien, ahí me",
+    "duration": 4520,
+    "offset": 230799,
+    "lang": "es"
+  },
+  {
+    "text": "contesta. Fíjese como está en modo",
+    "duration": 4599,
+    "offset": 232920,
+    "lang": "es"
+  },
+  {
+    "text": "interactivo, da para que siga. Si yo acá",
+    "duration": 5120,
+    "offset": 235319,
+    "lang": "es"
+  },
+  {
+    "text": "le pongo salir, hasta luego, me dice, y",
+    "duration": 5800,
+    "offset": 237519,
+    "lang": "es"
+  },
+  {
+    "text": "ahí termina. Y fíjense, una cosa que les",
+    "duration": 5160,
+    "offset": 240439,
+    "lang": "es"
+  },
+  {
+    "text": "pido que hagan es cuando está haciendo",
+    "duration": 3801,
+    "offset": 243319,
+    "lang": "es"
+  },
+  {
+    "text": "todo el procesamiento de la imagen,",
+    "duration": 5241,
+    "offset": 245599,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense acá cuánto se ocupa de GPU,",
+    "duration": 5440,
+    "offset": 247120,
+    "lang": "es"
+  },
+  {
+    "text": "cuánto se ocupa de RAM y cuánto de",
+    "duration": 4039,
+    "offset": 250840,
+    "lang": "es"
+  },
+  {
+    "text": "disco, porque eso nos va a ayudar a",
+    "duration": 4600,
+    "offset": 252560,
+    "lang": "es"
+  },
+  {
+    "text": "dimensionar la infraestructura.",
+    "duration": 4920,
+    "offset": 254879,
+    "lang": "es"
+  },
+  {
+    "text": "Y fíjense que acá dice la descripción de",
+    "duration": 3799,
+    "offset": 257160,
+    "lang": "es"
+  },
+  {
+    "text": "la imagen del usar, la imagen",
+    "duration": 2761,
+    "offset": 259799,
+    "lang": "es"
+  },
+  {
+    "text": "histológicacionada",
+    "duration": 4680,
+    "offset": 260959,
+    "lang": "es"
+  },
+  {
+    "text": "teñida con, bueno, esto muestra un campo",
+    "duration": 5600,
+    "offset": 262560,
+    "lang": "es"
+  },
+  {
+    "text": "de tejido con una alta densidad celular.",
+    "duration": 4241,
+    "offset": 265639,
+    "lang": "es"
+  },
+  {
+    "text": "Se observa predominante células grandes",
+    "duration": 4599,
+    "offset": 268160,
+    "lang": "es"
+  },
+  {
+    "text": "de hemorfíaal periminal. Vaya sa a Dios",
+    "duration": 6039,
+    "offset": 269880,
+    "lang": "es"
+  },
+  {
+    "text": "esto, pero al final dice conclusión y",
+    "duration": 4761,
+    "offset": 272759,
+    "lang": "es"
+  },
+  {
+    "text": "confiancia diagnóstica basada en la",
+    "duration": 3401,
+    "offset": 275919,
+    "lang": "es"
+  },
+  {
+    "text": "morfología celular distintiva de las",
+    "duration": 3160,
+    "offset": 277520,
+    "lang": "es"
+  },
+  {
+    "text": "neuronas, cuerpos celulares grandes,",
+    "duration": 3120,
+    "offset": 279320,
+    "lang": "es"
+  },
+  {
+    "text": "piramidales con núcleos",
+    "duration": 4120,
+    "offset": 280680,
+    "lang": "es"
+  },
+  {
+    "text": "vesicularescente, la presencia de un",
+    "duration": 4120,
+    "offset": 282440,
+    "lang": "es"
+  },
+  {
+    "text": "neuropas giliales y la fuerte",
+    "duration": 4160,
+    "offset": 284800,
+    "lang": "es"
+  },
+  {
+    "text": "correlación de tejido nervioso central y",
+    "duration": 4240,
+    "offset": 286560,
+    "lang": "es"
+  },
+  {
+    "text": "corteza cerebral en los fragmentos de",
+    "duration": 3079,
+    "offset": 288960,
+    "lang": "es"
+  },
+  {
+    "text": "referencia. El tejido de imagen es",
+    "duration": 4040,
+    "offset": 290800,
+    "lang": "es"
+  },
+  {
+    "text": "tejido nervioso central y es tal cual si",
+    "duration": 4681,
+    "offset": 292039,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes se fijan en el libro, porque ya",
+    "duration": 3320,
+    "offset": 294840,
+    "lang": "es"
+  },
+  {
+    "text": "estas imágenes son imágenes que",
+    "duration": 4120,
+    "offset": 296720,
+    "lang": "es"
+  },
+  {
+    "text": "copipasteé del libro, estejido nervioso",
+    "duration": 5680,
+    "offset": 298160,
+    "lang": "es"
+  },
+  {
+    "text": "central. Fíjense que acá dice, está",
+    "duration": 5400,
+    "offset": 300840,
+    "lang": "es"
+  },
+  {
+    "text": "comparando con las otras imágenes y los",
+    "duration": 4359,
+    "offset": 303840,
+    "lang": "es"
+  },
+  {
+    "text": "otros tejidos y diciendo, \"¿Por qué no",
+    "duration": 4399,
+    "offset": 306240,
+    "lang": "es"
+  },
+  {
+    "text": "es eso?\" Y le da al alumno todas las",
+    "duration": 4081,
+    "offset": 308199,
+    "lang": "es"
+  },
+  {
+    "text": "obviamente si fuésemos estudiantes de",
+    "duration": 3361,
+    "offset": 310639,
+    "lang": "es"
+  },
+  {
+    "text": "medicina sabríamos qué dice, pero lo",
+    "duration": 4120,
+    "offset": 312280,
+    "lang": "es"
+  },
+  {
+    "text": "importante es que se dio cuenta que era",
+    "duration": 3960,
+    "offset": 314000,
+    "lang": "es"
+  },
+  {
+    "text": "tejido",
+    "duration": 4600,
+    "offset": 316400,
+    "lang": "es"
+  },
+  {
+    "text": "nervioso central. Bien. Bueno, así es",
+    "duration": 7040,
+    "offset": 317960,
+    "lang": "es"
+  },
+  {
+    "text": "como tienen que hacer la prueba, vean el",
+    "duration": 7000,
+    "offset": 321000,
+    "lang": "es"
+  },
+  {
+    "text": "videío",
+    "duration": 3000,
+    "offset": 325000,
+    "lang": "es"
+  },
+  {
+    "text": "y bueno, eh no dejen de probar. Primero",
+    "duration": 6440,
+    "offset": 328160,
+    "lang": "es"
+  },
+  {
+    "text": "con Cloud, haga los documentos, estudien",
+    "duration": 4801,
+    "offset": 332039,
+    "lang": "es"
+  },
+  {
+    "text": "bien, vean qué es el código. Una vez que",
+    "duration": 3840,
+    "offset": 334600,
+    "lang": "es"
+  },
+  {
+    "text": "empecemos en el segundo sprint va a",
+    "duration": 3760,
+    "offset": 336840,
+    "lang": "es"
+  },
+  {
+    "text": "estar la prueba, pero yo para calmar un",
+    "duration": 6240,
+    "offset": 338440,
+    "lang": "es"
+  },
+  {
+    "text": "poco en su ansiedad y que vean que ya",
+    "duration": 6039,
+    "offset": 340600,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos todo listo para hacer las",
+    "duration": 4480,
+    "offset": 344680,
+    "lang": "es"
+  },
+  {
+    "text": "pruebas y cómo lo vamos a probar y qué",
+    "duration": 4201,
+    "offset": 346639,
+    "lang": "es"
+  },
+  {
+    "text": "cosas registrar. Bien, después seguimos",
+    "duration": 3879,
+    "offset": 349160,
+    "lang": "es"
+  },
+  {
+    "text": "hablando.",
+    "duration": 2199,
+    "offset": 350840,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "text": "esto",
+    "duration": 4640,
+    "offset": 0,
+    "lang": "es"
+  },
+  {
+    "text": "es buenísimo",
+    "duration": 8280,
+    "offset": 1190,
+    "lang": "es"
+  },
+  {
+    "text": "bueno a ver pasó a presentar pantalla sí",
+    "duration": 7860,
+    "offset": 4640,
+    "lang": "es"
+  },
+  {
+    "text": "para que yo voy a hacer una cosa no",
+    "duration": 6960,
+    "offset": 9470,
+    "lang": "es"
+  },
+  {
+    "text": "tengo permiso para compartir pantalla y",
+    "duration": 7860,
+    "offset": 12500,
+    "lang": "es"
+  },
+  {
+    "text": "para no ser capaz que a ver qué raro más",
+    "duration": 6380,
+    "offset": 16430,
+    "lang": "es"
+  },
+  {
+    "text": "que soy yo",
+    "duration": 2450,
+    "offset": 20360,
+    "lang": "es"
+  },
+  {
+    "text": "otra vez",
+    "duration": 2540,
+    "offset": 27320,
+    "lang": "es"
+  },
+  {
+    "text": "alí solís de listo",
+    "duration": 3600,
+    "offset": 31060,
+    "lang": "es"
+  },
+  {
+    "text": "para que para no distraer salvo mi gozo",
+    "duration": 5750,
+    "offset": 35390,
+    "lang": "es"
+  },
+  {
+    "text": "y mateo",
+    "duration": 2720,
+    "offset": 38420,
+    "lang": "es"
+  },
+  {
+    "text": "bueno",
+    "duration": 4829,
+    "offset": 41870,
+    "lang": "es"
+  },
+  {
+    "text": "bueno bienvenidas la idea es mostrarles",
+    "duration": 4930,
+    "offset": 43180,
+    "lang": "es"
+  },
+  {
+    "text": "cómo va a funcionar esta herramienta",
+    "duration": 3391,
+    "offset": 46699,
+    "lang": "es"
+  },
+  {
+    "text": "para poder cargarle las respuestas al",
+    "duration": 5430,
+    "offset": 48110,
+    "lang": "es"
+  },
+  {
+    "text": "chat bot acá prepare un pequeño diagrama",
+    "duration": 5580,
+    "offset": 50090,
+    "lang": "es"
+  },
+  {
+    "text": "la idea es que el chat con lo que va a",
+    "duration": 3330,
+    "offset": 53540,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es tomar estas preguntas de",
+    "duration": 2700,
+    "offset": 55670,
+    "lang": "es"
+  },
+  {
+    "text": "alumnos vemos haga la misma pregunta",
+    "duration": 4680,
+    "offset": 56870,
+    "lang": "es"
+  },
+  {
+    "text": "hecha varias veces diferentes formas se",
+    "duration": 4709,
+    "offset": 58370,
+    "lang": "es"
+  },
+  {
+    "text": "la va a enviar al chat del chat lo que",
+    "duration": 3120,
+    "offset": 61550,
+    "lang": "es"
+  },
+  {
+    "text": "va a hacer es detectar la intención de",
+    "duration": 4411,
+    "offset": 63079,
+    "lang": "es"
+  },
+  {
+    "text": "esto el intento se le dice en un formato",
+    "duration": 5910,
+    "offset": 64670,
+    "lang": "es"
+  },
+  {
+    "text": "así estandarizado y entonces es para",
+    "duration": 5010,
+    "offset": 67490,
+    "lang": "es"
+  },
+  {
+    "text": "estos formatos estandarizados lo que",
+    "duration": 4440,
+    "offset": 70580,
+    "lang": "es"
+  },
+  {
+    "text": "queremos es la respuesta esta",
+    "duration": 3960,
+    "offset": 72500,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta lo que permite es esta parte",
+    "duration": 4950,
+    "offset": 75020,
+    "lang": "es"
+  },
+  {
+    "text": "de acá como convertir esto en esto estas",
+    "duration": 5130,
+    "offset": 76460,
+    "lang": "es"
+  },
+  {
+    "text": "respuestas pueden ser varias y pueden",
+    "duration": 4230,
+    "offset": 79970,
+    "lang": "es"
+  },
+  {
+    "text": "tener varios formatos no puede ser un",
+    "duration": 4919,
+    "offset": 81590,
+    "lang": "es"
+  },
+  {
+    "text": "texto puede ser un link pues una imagen",
+    "duration": 5309,
+    "offset": 84200,
+    "lang": "es"
+  },
+  {
+    "text": "ahora lo vamos a éste no bueno nada eso",
+    "duration": 6061,
+    "offset": 86509,
+    "lang": "es"
+  },
+  {
+    "text": "esta es la herramienta vamos a ver que",
+    "duration": 5551,
+    "offset": 89509,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos acá se carga esto que les dije",
+    "duration": 4829,
+    "offset": 92570,
+    "lang": "es"
+  },
+  {
+    "text": "el inten por ejemplo el que por defecto",
+    "duration": 4290,
+    "offset": 95060,
+    "lang": "es"
+  },
+  {
+    "text": "cuando no entiende la pregunta dice esto",
+    "duration": 3390,
+    "offset": 97399,
+    "lang": "es"
+  },
+  {
+    "text": "lo lamento no entendí la respuesta",
+    "duration": 3110,
+    "offset": 99350,
+    "lang": "es"
+  },
+  {
+    "text": "intenta nuevamente",
+    "duration": 3861,
+    "offset": 100789,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo tenemos otro cargado que es",
+    "duration": 5100,
+    "offset": 102460,
+    "lang": "es"
+  },
+  {
+    "text": "la de la bibliografía y se en este link",
+    "duration": 4170,
+    "offset": 104650,
+    "lang": "es"
+  },
+  {
+    "text": "puedes encontrar bibliografía de",
+    "duration": 3210,
+    "offset": 107560,
+    "lang": "es"
+  },
+  {
+    "text": "utilidad y acá vemos un link que por",
+    "duration": 3390,
+    "offset": 108820,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo no nos puede gustar entonces",
+    "duration": 5040,
+    "offset": 110770,
+    "lang": "es"
+  },
+  {
+    "text": "podemos sacarlo y le agregamos otro link",
+    "duration": 5460,
+    "offset": 112210,
+    "lang": "es"
+  },
+  {
+    "text": "que sea no sé el más actualizado el",
+    "duration": 4070,
+    "offset": 115810,
+    "lang": "es"
+  },
+  {
+    "text": "campos por ejemplo lo copiamos",
+    "duration": 5180,
+    "offset": 117670,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos acá",
+    "duration": 4770,
+    "offset": 119880,
+    "lang": "es"
+  },
+  {
+    "text": "y cuando lo enviamos de vuelta va a",
+    "duration": 3390,
+    "offset": 122850,
+    "lang": "es"
+  },
+  {
+    "text": "quedar actualizada esta respuesta del",
+    "duration": 3300,
+    "offset": 124650,
+    "lang": "es"
+  },
+  {
+    "text": "chat",
+    "duration": 4400,
+    "offset": 126240,
+    "lang": "es"
+  },
+  {
+    "text": "lo mismo también pueden crear un nuevo",
+    "duration": 6710,
+    "offset": 127950,
+    "lang": "es"
+  },
+  {
+    "text": "no sé hola ejemplo",
+    "duration": 6700,
+    "offset": 130640,
+    "lang": "es"
+  },
+  {
+    "text": "esto estaría bueno esto en un formato de",
+    "duration": 4079,
+    "offset": 134660,
+    "lang": "es"
+  },
+  {
+    "text": "hecho esto creo que se va a tener que",
+    "duration": 4350,
+    "offset": 137340,
+    "lang": "es"
+  },
+  {
+    "text": "charlar cómo va a ser que como se va a",
+    "duration": 6691,
+    "offset": 138739,
+    "lang": "es"
+  },
+  {
+    "text": "llamar cada uno pero bueno",
+    "duration": 3740,
+    "offset": 141690,
+    "lang": "es"
+  },
+  {
+    "text": "sí sí",
+    "duration": 7540,
+    "offset": 147530,
+    "lang": "es"
+  },
+  {
+    "text": "y después habría que ver de estandarizar",
+    "duration": 6040,
+    "offset": 151550,
+    "lang": "es"
+  },
+  {
+    "text": "los intentos pero lo importante viste",
+    "duration": 5280,
+    "offset": 155070,
+    "lang": "es"
+  },
+  {
+    "text": "que estén claro entonces después viste",
+    "duration": 5760,
+    "offset": 157590,
+    "lang": "es"
+  },
+  {
+    "text": "vemos porque el trabajo pasarlo es ese",
+    "duration": 6090,
+    "offset": 160350,
+    "lang": "es"
+  },
+  {
+    "text": "es el de crear todos los intentos claro",
+    "duration": 5820,
+    "offset": 163350,
+    "lang": "es"
+  },
+  {
+    "text": "y eso eso es toda la herramienta que",
+    "duration": 4710,
+    "offset": 166440,
+    "lang": "es"
+  },
+  {
+    "text": "estamos parando más respuesta a esto se",
+    "duration": 3870,
+    "offset": 169170,
+    "lang": "es"
+  },
+  {
+    "text": "van a mostrar por una después de la otra",
+    "duration": 4770,
+    "offset": 171150,
+    "lang": "es"
+  },
+  {
+    "text": "por supuesto y cuando el usuario",
+    "duration": 5340,
+    "offset": 173040,
+    "lang": "es"
+  },
+  {
+    "text": "pregunte algo que el chat los detecte",
+    "duration": 4740,
+    "offset": 175920,
+    "lang": "es"
+  },
+  {
+    "text": "que es con esta intención le va a",
+    "duration": 4080,
+    "offset": 178380,
+    "lang": "es"
+  },
+  {
+    "text": "responder esto esa es la idea de esta",
+    "duration": 4170,
+    "offset": 180660,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta perfecto o sea con la",
+    "duration": 3930,
+    "offset": 182460,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta de esta dichos lo que hacen",
+    "duration": 5220,
+    "offset": 184830,
+    "lang": "es"
+  },
+  {
+    "text": "es escriben una frase o escrito escribe",
+    "duration": 5850,
+    "offset": 186390,
+    "lang": "es"
+  },
+  {
+    "text": "en un intento y le ponen todas las",
+    "duration": 3960,
+    "offset": 190050,
+    "lang": "es"
+  },
+  {
+    "text": "frases que pueden estar asociadas a ese",
+    "duration": 3240,
+    "offset": 192240,
+    "lang": "es"
+  },
+  {
+    "text": "intento",
+    "duration": 4350,
+    "offset": 194010,
+    "lang": "es"
+  },
+  {
+    "text": "perfecto eso es genial porque a mí me va",
+    "duration": 4500,
+    "offset": 195480,
+    "lang": "es"
+  },
+  {
+    "text": "a servir un montón para poder después",
+    "duration": 3360,
+    "offset": 198360,
+    "lang": "es"
+  },
+  {
+    "text": "hacer el entrenamiento del charlotte",
+    "duration": 3750,
+    "offset": 199980,
+    "lang": "es"
+  },
+  {
+    "text": "porque ahora el problema que teníamos",
+    "duration": 5310,
+    "offset": 201720,
+    "lang": "es"
+  },
+  {
+    "text": "que llegaban preguntas que tenían 50",
+    "duration": 6420,
+    "offset": 203730,
+    "lang": "es"
+  },
+  {
+    "text": "palabras y respuesta que eran de tres",
+    "duration": 4700,
+    "offset": 207030,
+    "lang": "es"
+  },
+  {
+    "text": "hojas",
+    "duration": 5630,
+    "offset": 210150,
+    "lang": "es"
+  },
+  {
+    "text": "la verdad que el hecho de que puedan ya",
+    "duration": 5920,
+    "offset": 211730,
+    "lang": "es"
+  },
+  {
+    "text": "acortarlo de esa manera nos viene",
+    "duration": 7120,
+    "offset": 215780,
+    "lang": "es"
+  },
+  {
+    "text": "bárbaro si pegas el link en el tercero",
+    "duration": 7110,
+    "offset": 217650,
+    "lang": "es"
+  },
+  {
+    "text": "en la grabación no si lo pegas en el",
+    "duration": 4820,
+    "offset": 222900,
+    "lang": "es"
+  },
+  {
+    "text": "chat o de su vídeo bueno",
+    "duration": 5150,
+    "offset": 224760,
+    "lang": "es"
+  },
+  {
+    "text": "no lo sé igual capaz lo pueden llegar a",
+    "duration": 4260,
+    "offset": 227720,
+    "lang": "es"
+  },
+  {
+    "text": "la casa si no lo pasamos junto con los",
+    "duration": 7470,
+    "offset": 229910,
+    "lang": "es"
+  },
+  {
+    "text": "niños está listo listo también puede o",
+    "duration": 7200,
+    "offset": 231980,
+    "lang": "es"
+  },
+  {
+    "text": "sea se están cargando en este excel de",
+    "duration": 3720,
+    "offset": 237380,
+    "lang": "es"
+  },
+  {
+    "text": "medida que se que se graban las",
+    "duration": 3420,
+    "offset": 239180,
+    "lang": "es"
+  },
+  {
+    "text": "respuestas si alguien les resulta más",
+    "duration": 3120,
+    "offset": 241100,
+    "lang": "es"
+  },
+  {
+    "text": "cómodo trabajar directamente sobre una",
+    "duration": 3960,
+    "offset": 242600,
+    "lang": "es"
+  },
+  {
+    "text": "excel lo puede realizar sobre cada",
+    "duration": 4230,
+    "offset": 244220,
+    "lang": "es"
+  },
+  {
+    "text": "directamente el tema bueno cuidar no",
+    "duration": 3690,
+    "offset": 246560,
+    "lang": "es"
+  },
+  {
+    "text": "pisar más respuestas y seguir el formato",
+    "duration": 4080,
+    "offset": 248450,
+    "lang": "es"
+  },
+  {
+    "text": "si es una url tiene que poner esto acá",
+    "duration": 4260,
+    "offset": 250250,
+    "lang": "es"
+  },
+  {
+    "text": "si es un texto que impone esto acá por",
+    "duration": 5310,
+    "offset": 252530,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo y así pero nada yo recomiendo",
+    "duration": 6140,
+    "offset": 254510,
+    "lang": "es"
+  },
+  {
+    "text": "trabajar con esto",
+    "duration": 2810,
+    "offset": 257840,
+    "lang": "es"
+  },
+  {
+    "text": "este nada la verdad que está muy bueno",
+    "duration": 5130,
+    "offset": 262780,
+    "lang": "es"
+  },
+  {
+    "text": "es muy buena",
+    "duration": 5220,
+    "offset": 265420,
+    "lang": "es"
+  },
+  {
+    "text": "esteche después bueno lo otro que te voy",
+    "duration": 6360,
+    "offset": 267910,
+    "lang": "es"
+  },
+  {
+    "text": "a pedir es que me pases a parte del link",
+    "duration": 5760,
+    "offset": 270640,
+    "lang": "es"
+  },
+  {
+    "text": "de donde está hecho el triple en toda la",
+    "duration": 5040,
+    "offset": 274270,
+    "lang": "es"
+  },
+  {
+    "text": "lix viste de git hub y demás para en",
+    "duration": 4800,
+    "offset": 276400,
+    "lang": "es"
+  },
+  {
+    "text": "caso de que haya que retocar algo poder",
+    "duration": 3690,
+    "offset": 279310,
+    "lang": "es"
+  },
+  {
+    "text": "retocar",
+    "duration": 4570,
+    "offset": 281200,
+    "lang": "es"
+  },
+  {
+    "text": "sí sí sí te lo dejo todo cargado viste",
+    "duration": 5650,
+    "offset": 283000,
+    "lang": "es"
+  },
+  {
+    "text": "vos sois cosas en los sandbox terrorismo",
+    "duration": 5510,
+    "offset": 285770,
+    "lang": "es"
+  },
+  {
+    "text": "al histórico genial",
+    "duration": 6300,
+    "offset": 288650,
+    "lang": "es"
+  },
+  {
+    "text": "desgastaron varios de los dejo buenísimo",
+    "duration": 6040,
+    "offset": 291280,
+    "lang": "es"
+  },
+  {
+    "text": "esto ya deberíamos dejar de grabar me",
+    "duration": 5000,
+    "offset": 294950,
+    "lang": "es"
+  },
+  {
+    "text": "parece sí",
+    "duration": 4110,
+    "offset": 297320,
+    "lang": "es"
+  },
+  {
+    "text": "para qué",
+    "duration": 4380,
+    "offset": 299950,
+    "lang": "es"
+  },
+  {
+    "text": "tengo",
+    "duration": 2900,
+    "offset": 301430,
+    "lang": "es"
+  }
+]

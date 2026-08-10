@@ -1,0 +1,1124 @@
+[
+  {
+    "text": "Ya tenemos listo nuestro sistema",
+    "duration": 3679,
+    "offset": 680,
+    "lang": "es"
+  },
+  {
+    "text": "multiagente.",
+    "duration": 3800,
+    "offset": 2760,
+    "lang": "es"
+  },
+  {
+    "text": "En principio, ¿qué es lo que tenemos? Un",
+    "duration": 5320,
+    "offset": 4359,
+    "lang": "es"
+  },
+  {
+    "text": "frontend hecho en Next. Ese frontend de",
+    "duration": 6119,
+    "offset": 6560,
+    "lang": "es"
+  },
+  {
+    "text": "Next se conecta con un backend que está",
+    "duration": 5361,
+    "offset": 9679,
+    "lang": "es"
+  },
+  {
+    "text": "hecho en Python. Ese backend hecho en",
+    "duration": 7481,
+    "offset": 12679,
+    "lang": "es"
+  },
+  {
+    "text": "Python se conecta con un agente, un",
+    "duration": 7640,
+    "offset": 15040,
+    "lang": "es"
+  },
+  {
+    "text": "grupo de agente ADK.",
+    "duration": 6000,
+    "offset": 20160,
+    "lang": "es"
+  },
+  {
+    "text": "Y ese grupo de agentes ADK junto con el",
+    "duration": 7679,
+    "offset": 22680,
+    "lang": "es"
+  },
+  {
+    "text": "eh backend de Python se conectan a una",
+    "duration": 6720,
+    "offset": 26160,
+    "lang": "es"
+  },
+  {
+    "text": "serie de host",
+    "duration": 6641,
+    "offset": 30359,
+    "lang": "es"
+  },
+  {
+    "text": "que ofician de e clientes con el",
+    "duration": 6440,
+    "offset": 32880,
+    "lang": "es"
+  },
+  {
+    "text": "protocolo A2A,",
+    "duration": 4719,
+    "offset": 37000,
+    "lang": "es"
+  },
+  {
+    "text": "que es un sistema multiagente de tres",
+    "duration": 4040,
+    "offset": 39320,
+    "lang": "es"
+  },
+  {
+    "text": "agentes para manejar los distintos",
+    "duration": 4041,
+    "offset": 41719,
+    "lang": "es"
+  },
+  {
+    "text": "mensajes. En nuestro caso manejamos",
+    "duration": 5839,
+    "offset": 43360,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes y texto, son es multimodal. Y",
+    "duration": 5160,
+    "offset": 45760,
+    "lang": "es"
+  },
+  {
+    "text": "después cada uno de esos clientes se",
+    "duration": 5200,
+    "offset": 49199,
+    "lang": "es"
+  },
+  {
+    "text": "conectan finalmente a un sistema A2A eh",
+    "duration": 6319,
+    "offset": 50920,
+    "lang": "es"
+  },
+  {
+    "text": "que está dividido en tres partes y tiene",
+    "duration": 4441,
+    "offset": 54399,
+    "lang": "es"
+  },
+  {
+    "text": "a cada uno de nuestros sistemas",
+    "duration": 5160,
+    "offset": 57239,
+    "lang": "es"
+  },
+  {
+    "text": "multiagentes. Tenemos un sistema de para",
+    "duration": 5359,
+    "offset": 58840,
+    "lang": "es"
+  },
+  {
+    "text": "probar lo hicimos de dos agentes que",
+    "duration": 4841,
+    "offset": 62399,
+    "lang": "es"
+  },
+  {
+    "text": "generan imágenes y un sistema de tres",
+    "duration": 5560,
+    "offset": 64199,
+    "lang": "es"
+  },
+  {
+    "text": "agentes, un sistema hecho en CRU AI,",
+    "duration": 4640,
+    "offset": 67240,
+    "lang": "es"
+  },
+  {
+    "text": "otro sistema hecho en ADK, todo",
+    "duration": 4281,
+    "offset": 69759,
+    "lang": "es"
+  },
+  {
+    "text": "comunicado con el protocolo A2A, que lo",
+    "duration": 5520,
+    "offset": 71880,
+    "lang": "es"
+  },
+  {
+    "text": "que hace es utiliza la base de datos",
+    "duration": 5880,
+    "offset": 74040,
+    "lang": "es"
+  },
+  {
+    "text": "CUDRAN con información médica y a su vez",
+    "duration": 5960,
+    "offset": 77400,
+    "lang": "es"
+  },
+  {
+    "text": "también utiliza la conexión de tablet a",
+    "duration": 5040,
+    "offset": 79920,
+    "lang": "es"
+  },
+  {
+    "text": "internet para hacer diagnóstico de",
+    "duration": 4079,
+    "offset": 83360,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes médicas. Vamos a ver cómo",
+    "duration": 3720,
+    "offset": 84960,
+    "lang": "es"
+  },
+  {
+    "text": "funciona. Lo primero que tenemos que",
+    "duration": 3040,
+    "offset": 87439,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es ir a registrar los agentes.",
+    "duration": 3759,
+    "offset": 88680,
+    "lang": "es"
+  },
+  {
+    "text": "Esto porque es experimental. Normalmente",
+    "duration": 5481,
+    "offset": 90479,
+    "lang": "es"
+  },
+  {
+    "text": "esto se registra solo. Pronemos el",
+    "duration": 6521,
+    "offset": 92439,
+    "lang": "es"
+  },
+  {
+    "text": "agente",
+    "duration": 3000,
+    "offset": 95960,
+    "lang": "es"
+  },
+  {
+    "text": "10,001, que es el que va a generar las",
+    "duration": 5600,
+    "offset": 100240,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes. Acá lo tenemos, image",
+    "duration": 4719,
+    "offset": 104040,
+    "lang": "es"
+  },
+  {
+    "text": "generator. Y ahora vamos a registrar el",
+    "duration": 5919,
+    "offset": 105840,
+    "lang": "es"
+  },
+  {
+    "text": "agente",
+    "duration": 3000,
+    "offset": 108759,
+    "lang": "es"
+  },
+  {
+    "text": "102, que es el que maneja las imágenes",
+    "duration": 7920,
+    "offset": 113159,
+    "lang": "es"
+  },
+  {
+    "text": "médicas. Fíjense que estos agentes están",
+    "duration": 6719,
+    "offset": 117320,
+    "lang": "es"
+  },
+  {
+    "text": "en formas distribuidas conectados acá en",
+    "duration": 4921,
+    "offset": 121079,
+    "lang": "es"
+  },
+  {
+    "text": "local host, pero pueden ser en forma",
+    "duration": 3321,
+    "offset": 124039,
+    "lang": "es"
+  },
+  {
+    "text": "distribuida conectados a través de la",
+    "duration": 3840,
+    "offset": 126000,
+    "lang": "es"
+  },
+  {
+    "text": "red. Eso es lo bueno de el protocolo",
+    "duration": 4000,
+    "offset": 127360,
+    "lang": "es"
+  },
+  {
+    "text": "A2A. Los agentes pueden estar",
+    "duration": 4800,
+    "offset": 129840,
+    "lang": "es"
+  },
+  {
+    "text": "físicamente distribuidos y eso baja un",
+    "duration": 7959,
+    "offset": 131360,
+    "lang": "es"
+  },
+  {
+    "text": "montón inversión que hay que hacer en e",
+    "duration": 7360,
+    "offset": 134640,
+    "lang": "es"
+  },
+  {
+    "text": "hardware, porque lo que hago es dividir",
+    "duration": 4841,
+    "offset": 139319,
+    "lang": "es"
+  },
+  {
+    "text": "cada uno de los agentes y cada uno de",
+    "duration": 3599,
+    "offset": 142000,
+    "lang": "es"
+  },
+  {
+    "text": "estos agentes es totalmente",
+    "duration": 3680,
+    "offset": 144160,
+    "lang": "es"
+  },
+  {
+    "text": "doquerizable, se puede poner en un",
+    "duration": 5720,
+    "offset": 145599,
+    "lang": "es"
+  },
+  {
+    "text": "clúster de cubernetes y no hace falta",
+    "duration": 5240,
+    "offset": 147840,
+    "lang": "es"
+  },
+  {
+    "text": "entonces que me esté preocupando por el",
+    "duration": 4801,
+    "offset": 151319,
+    "lang": "es"
+  },
+  {
+    "text": "tema de la escalabilidad. Ahora vamos a",
+    "duration": 5040,
+    "offset": 153080,
+    "lang": "es"
+  },
+  {
+    "text": "generar una nueva conversación que ya",
+    "duration": 5280,
+    "offset": 156120,
+    "lang": "es"
+  },
+  {
+    "text": "está generada y ahora tomamos una",
+    "duration": 5600,
+    "offset": 158120,
+    "lang": "es"
+  },
+  {
+    "text": "conversación y le vamos a pedir, por",
+    "duration": 8960,
+    "offset": 161400,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo, que una imagen me haces un mono",
+    "duration": 9640,
+    "offset": 163720,
+    "lang": "es"
+  },
+  {
+    "text": "astronauta.",
+    "duration": 3000,
+    "offset": 170360,
+    "lang": "es"
+  },
+  {
+    "text": "Esto va a ir al e vamos a ver acá cómo",
+    "duration": 6119,
+    "offset": 174480,
+    "lang": "es"
+  },
+  {
+    "text": "funciona. Esto va a ir por un lado al",
+    "duration": 4200,
+    "offset": 178360,
+    "lang": "es"
+  },
+  {
+    "text": "agente orquestador. El agente",
+    "duration": 4121,
+    "offset": 180599,
+    "lang": "es"
+  },
+  {
+    "text": "orquestador se da cuenta que lo que",
+    "duration": 3679,
+    "offset": 182560,
+    "lang": "es"
+  },
+  {
+    "text": "estoy pidiendo es la generación de una",
+    "duration": 3840,
+    "offset": 184720,
+    "lang": "es"
+  },
+  {
+    "text": "imagen y lo va a mandar al agente",
+    "duration": 5161,
+    "offset": 186239,
+    "lang": "es"
+  },
+  {
+    "text": "generador de imágenes y ahí devuelve el",
+    "duration": 4920,
+    "offset": 188560,
+    "lang": "es"
+  },
+  {
+    "text": "monoastronauta.",
+    "duration": 3800,
+    "offset": 191400,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué pasa ahora? Por ejemplo, si",
+    "duration": 4160,
+    "offset": 193480,
+    "lang": "es"
+  },
+  {
+    "text": "queremos que nos haga un diagnóstico, le",
+    "duration": 5160,
+    "offset": 195200,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a poner acá este diagnóstico y le",
+    "duration": 7599,
+    "offset": 197640,
+    "lang": "es"
+  },
+  {
+    "text": "decimos, \"Me podés dar",
+    "duration": 8280,
+    "offset": 200360,
+    "lang": "es"
+  },
+  {
+    "text": "un diagnóstico",
+    "duration": 3401,
+    "offset": 205239,
+    "lang": "es"
+  },
+  {
+    "text": "médico de esa imagen. Le vamos a pedir",
+    "duration": 5081,
+    "offset": 211319,
+    "lang": "es"
+  },
+  {
+    "text": "que haga un diagnóstico médico.\"",
+    "duration": 5521,
+    "offset": 213959,
+    "lang": "es"
+  },
+  {
+    "text": "Nuevamente va al orquestador. El agente",
+    "duration": 5360,
+    "offset": 216400,
+    "lang": "es"
+  },
+  {
+    "text": "orquestador discrimina de qué se trata.",
+    "duration": 5520,
+    "offset": 219480,
+    "lang": "es"
+  },
+  {
+    "text": "Y ahora en cambio de mandarlo a la gente",
+    "duration": 7399,
+    "offset": 221760,
+    "lang": "es"
+  },
+  {
+    "text": "que hace eh imágenes, lo manda a este",
+    "duration": 6519,
+    "offset": 225000,
+    "lang": "es"
+  },
+  {
+    "text": "sistema multiagente. Recuerden, de tres",
+    "duration": 4241,
+    "offset": 229159,
+    "lang": "es"
+  },
+  {
+    "text": "agentes que va a analizar. Primero,",
+    "duration": 4521,
+    "offset": 231519,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense cómo hace los chans de texto",
+    "duration": 5800,
+    "offset": 233400,
+    "lang": "es"
+  },
+  {
+    "text": "para verificar con CUDRANT. Y fíjense",
+    "duration": 5039,
+    "offset": 236040,
+    "lang": "es"
+  },
+  {
+    "text": "acá lo que está haciendo es utilizando",
+    "duration": 4599,
+    "offset": 239200,
+    "lang": "es"
+  },
+  {
+    "text": "Tab Tabili para buscar información en",
+    "duration": 4961,
+    "offset": 241079,
+    "lang": "es"
+  },
+  {
+    "text": "internet.",
+    "duration": 3961,
+    "offset": 243799,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí ya",
+    "duration": 4559,
+    "offset": 246040,
+    "lang": "es"
+  },
+  {
+    "text": "está tuvo la respuesta de qué se trata",
+    "duration": 4839,
+    "offset": 247760,
+    "lang": "es"
+  },
+  {
+    "text": "la imagen.",
+    "duration": 3840,
+    "offset": 250599,
+    "lang": "es"
+  },
+  {
+    "text": "Lo hicimos con memoria semántica",
+    "duration": 4121,
+    "offset": 252599,
+    "lang": "es"
+  },
+  {
+    "text": "también, que es muy importante para",
+    "duration": 6281,
+    "offset": 254439,
+    "lang": "es"
+  },
+  {
+    "text": "evitar los eh y ahí ya lo hizo y le va a",
+    "duration": 7720,
+    "offset": 256720,
+    "lang": "es"
+  },
+  {
+    "text": "dar la respuesta a el",
+    "duration": 5479,
+    "offset": 260720,
+    "lang": "es"
+  },
+  {
+    "text": "va a dar la respuesta a este agente. Y",
+    "duration": 5360,
+    "offset": 264440,
+    "lang": "es"
+  },
+  {
+    "text": "acá aparece la respuesta. Fíjense",
+    "duration": 6720,
+    "offset": 266199,
+    "lang": "es"
+  },
+  {
+    "text": "que dice la radiografía.",
+    "duration": 4959,
+    "offset": 269800,
+    "lang": "es"
+  },
+  {
+    "text": "Le dije a un diagnóstico de esta imagen.",
+    "duration": 4921,
+    "offset": 272919,
+    "lang": "es"
+  },
+  {
+    "text": "Miren como ya el sistema se da cuenta",
+    "duration": 4280,
+    "offset": 274759,
+    "lang": "es"
+  },
+  {
+    "text": "que se trata de una radiografía de",
+    "duration": 3079,
+    "offset": 277840,
+    "lang": "es"
+  },
+  {
+    "text": "tórax. Dice, \"Muestra un derrame pleural",
+    "duration": 3401,
+    "offset": 279039,
+    "lang": "es"
+  },
+  {
+    "text": "masivo de motórax derecho, lo que",
+    "duration": 3241,
+    "offset": 280919,
+    "lang": "es"
+  },
+  {
+    "text": "significa una acumulación significativa",
+    "duration": 4120,
+    "offset": 282440,
+    "lang": "es"
+  },
+  {
+    "text": "de líquido en el espacio entre el pulmon",
+    "duration": 4120,
+    "offset": 284160,
+    "lang": "es"
+  },
+  {
+    "text": "toráxica\". Este derrame está causado por",
+    "duration": 3280,
+    "offset": 286560,
+    "lang": "es"
+  },
+  {
+    "text": "un desplazamiento importante de las",
+    "duration": 3199,
+    "offset": 288280,
+    "lang": "es"
+  },
+  {
+    "text": "estructuras del mediastino, corazones y",
+    "duration": 3520,
+    "offset": 289840,
+    "lang": "es"
+  },
+  {
+    "text": "grandes vasos hacia el lado izquierdo.",
+    "duration": 3841,
+    "offset": 291479,
+    "lang": "es"
+  },
+  {
+    "text": "Además, se observan opacidades en el",
+    "duration": 4200,
+    "offset": 293360,
+    "lang": "es"
+  },
+  {
+    "text": "pulmón izquierdo, lo que sugiere una",
+    "duration": 5360,
+    "offset": 295320,
+    "lang": "es"
+  },
+  {
+    "text": "afectación pulmonar bilateral. Y acá",
+    "duration": 5639,
+    "offset": 297560,
+    "lang": "es"
+  },
+  {
+    "text": "tira los hallazgos principales y hace",
+    "duration": 4320,
+    "offset": 300680,
+    "lang": "es"
+  },
+  {
+    "text": "todo el análisis y la interpretación",
+    "duration": 4601,
+    "offset": 303199,
+    "lang": "es"
+  },
+  {
+    "text": "clínica, la presencia del derrame,",
+    "duration": 4240,
+    "offset": 305000,
+    "lang": "es"
+  },
+  {
+    "text": "eh las opascidad en el pulmón izquierdo,",
+    "duration": 3920,
+    "offset": 307800,
+    "lang": "es"
+  },
+  {
+    "text": "añad un acá de complejidad sugiriendo la",
+    "duration": 3920,
+    "offset": 309240,
+    "lang": "es"
+  },
+  {
+    "text": "afectación pulmonar. Fíjense que acá",
+    "duration": 3520,
+    "offset": 311720,
+    "lang": "es"
+  },
+  {
+    "text": "dice un catéter venoso central sugiere",
+    "duration": 3319,
+    "offset": 313160,
+    "lang": "es"
+  },
+  {
+    "text": "el paciente podría estar recibiendo",
+    "duration": 3679,
+    "offset": 315240,
+    "lang": "es"
+  },
+  {
+    "text": "tratamiento intravenoso. Miren que ven.",
+    "duration": 5321,
+    "offset": 316479,
+    "lang": "es"
+  },
+  {
+    "text": "Ve acá también esto que es el catéter, o",
+    "duration": 6120,
+    "offset": 318919,
+    "lang": "es"
+  },
+  {
+    "text": "sea, el sistema es un sistema multimodal",
+    "duration": 6720,
+    "offset": 321800,
+    "lang": "es"
+  },
+  {
+    "text": "que ya detecta todo. Y no solamente eso,",
+    "duration": 7921,
+    "offset": 325039,
+    "lang": "es"
+  },
+  {
+    "text": "si quiero puedo también ponerle",
+    "duration": 8280,
+    "offset": 328520,
+    "lang": "es"
+  },
+  {
+    "text": "esta imagen y le digo, \"¿Me",
+    "duration": 5679,
+    "offset": 332960,
+    "lang": "es"
+  },
+  {
+    "text": "me das",
+    "duration": 4839,
+    "offset": 336800,
+    "lang": "es"
+  },
+  {
+    "text": "un",
+    "duration": 3000,
+    "offset": 338639,
+    "lang": "es"
+  },
+  {
+    "text": "diagnóstico",
+    "duration": 3000,
+    "offset": 342240,
+    "lang": "es"
+  },
+  {
+    "text": "de esta imagen? Esto se trata de una",
+    "duration": 7081,
+    "offset": 345919,
+    "lang": "es"
+  },
+  {
+    "text": "imagen, una anatomía patológica.",
+    "duration": 5440,
+    "offset": 350000,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense como esto va al agente",
+    "duration": 4400,
+    "offset": 353000,
+    "lang": "es"
+  },
+  {
+    "text": "orquestador. El agente orquestador",
+    "duration": 4039,
+    "offset": 355440,
+    "lang": "es"
+  },
+  {
+    "text": "detecta que es para el agente médico y",
+    "duration": 7639,
+    "offset": 357400,
+    "lang": "es"
+  },
+  {
+    "text": "ahí ya contactó al agente médico",
+    "duration": 5560,
+    "offset": 359479,
+    "lang": "es"
+  },
+  {
+    "text": "y le está pidiendo la clasificación de",
+    "duration": 6481,
+    "offset": 365199,
+    "lang": "es"
+  },
+  {
+    "text": "la imagen. Bien. Y ahora también va a",
+    "duration": 5599,
+    "offset": 367720,
+    "lang": "es"
+  },
+  {
+    "text": "clasificar",
+    "duration": 4280,
+    "offset": 371680,
+    "lang": "es"
+  },
+  {
+    "text": "esta imagen que se trata de este una",
+    "duration": 4681,
+    "offset": 373319,
+    "lang": "es"
+  },
+  {
+    "text": "anatomía patológica. Vamos a ver qué nos",
+    "duration": 5040,
+    "offset": 375960,
+    "lang": "es"
+  },
+  {
+    "text": "dice. Ahí está.",
+    "duration": 5599,
+    "offset": 378000,
+    "lang": "es"
+  },
+  {
+    "text": "se conecta internet, verifica que es",
+    "duration": 4400,
+    "offset": 381000,
+    "lang": "es"
+  },
+  {
+    "text": "todo bien. Ahí está generando la",
+    "duration": 3361,
+    "offset": 383599,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta",
+    "duration": 5400,
+    "offset": 385400,
+    "lang": "es"
+  },
+  {
+    "text": "a través de los chans de texto.",
+    "duration": 5639,
+    "offset": 386960,
+    "lang": "es"
+  },
+  {
+    "text": "Y",
+    "duration": 4720,
+    "offset": 390800,
+    "lang": "es"
+  },
+  {
+    "text": "ahora seguramente va a aparecer",
+    "duration": 5160,
+    "offset": 392599,
+    "lang": "es"
+  },
+  {
+    "text": "la respuesta. Tarda bastante a veces en",
+    "duration": 5959,
+    "offset": 395520,
+    "lang": "es"
+  },
+  {
+    "text": "elaborarla. Este es una imagen que eh",
+    "duration": 6201,
+    "offset": 397759,
+    "lang": "es"
+  },
+  {
+    "text": "tarda bastante más porque es una",
+    "duration": 5641,
+    "offset": 401479,
+    "lang": "es"
+  },
+  {
+    "text": "anatomía patológica. La otra fue más",
+    "duration": 5519,
+    "offset": 403960,
+    "lang": "es"
+  },
+  {
+    "text": "fácil, ¿no es cierto? porque era una",
+    "duration": 4519,
+    "offset": 407120,
+    "lang": "es"
+  },
+  {
+    "text": "radiografía, pero bien, vio",
+    "duration": 5280,
+    "offset": 409479,
+    "lang": "es"
+  },
+  {
+    "text": "absolutamente todos los detalles. Ahí",
+    "duration": 5601,
+    "offset": 411639,
+    "lang": "es"
+  },
+  {
+    "text": "estamos pronto. Bien, ahí ya está. Llega",
+    "duration": 7840,
+    "offset": 414759,
+    "lang": "es"
+  },
+  {
+    "text": "el 200. Okay. Que le fue el mensaje al e",
+    "duration": 8040,
+    "offset": 417240,
+    "lang": "es"
+  },
+  {
+    "text": "le fue el mensaje, le fue el diagnóstico",
+    "duration": 5961,
+    "offset": 422599,
+    "lang": "es"
+  },
+  {
+    "text": "al agente eh",
+    "duration": 5800,
+    "offset": 425280,
+    "lang": "es"
+  },
+  {
+    "text": "orquestador. Y acá apareció, fíjense lo",
+    "duration": 4520,
+    "offset": 428560,
+    "lang": "es"
+  },
+  {
+    "text": "que dice, es la imagen presenta una",
+    "duration": 3519,
+    "offset": 431080,
+    "lang": "es"
+  },
+  {
+    "text": "sección histopatológica que rea una",
+    "duration": 3160,
+    "offset": 433080,
+    "lang": "es"
+  },
+  {
+    "text": "estructura tubular oquística. Esta",
+    "duration": 4561,
+    "offset": 434599,
+    "lang": "es"
+  },
+  {
+    "text": "estructura muestra una pared engrosada y",
+    "duration": 4480,
+    "offset": 436240,
+    "lang": "es"
+  },
+  {
+    "text": "es",
+    "duration": 4159,
+    "offset": 439160,
+    "lang": "es"
+  },
+  {
+    "text": "eocinofílica y su lumen está ocupado por",
+    "duration": 5080,
+    "offset": 440720,
+    "lang": "es"
+  },
+  {
+    "text": "material amorfogranular pasofílico.",
+    "duration": 4160,
+    "offset": 443319,
+    "lang": "es"
+  },
+  {
+    "text": "Alrededor de esta estructura se observa",
+    "duration": 4119,
+    "offset": 445800,
+    "lang": "es"
+  },
+  {
+    "text": "tejido conectivo fibroso denso. Bien,",
+    "duration": 4641,
+    "offset": 447479,
+    "lang": "es"
+  },
+  {
+    "text": "hallazgos principales. Acaba dando todo.",
+    "duration": 4081,
+    "offset": 449919,
+    "lang": "es"
+  },
+  {
+    "text": "Interpretación clínica. Los de pat",
+    "duration": 3160,
+    "offset": 452120,
+    "lang": "es"
+  },
+  {
+    "text": "describen una lesión bien delitada con",
+    "duration": 4039,
+    "offset": 454000,
+    "lang": "es"
+  },
+  {
+    "text": "característica de cronicidad y necrosis",
+    "duration": 4759,
+    "offset": 455280,
+    "lang": "es"
+  },
+  {
+    "text": "calcificación. La pared deinofílica",
+    "duration": 4081,
+    "offset": 458039,
+    "lang": "es"
+  },
+  {
+    "text": "engrosada y el contenido basinófico",
+    "duration": 3440,
+    "offset": 460039,
+    "lang": "es"
+  },
+  {
+    "text": "amorfo son claves para el diagnóstico",
+    "duration": 3000,
+    "offset": 462120,
+    "lang": "es"
+  },
+  {
+    "text": "diferencial. Esta imágenes altamente",
+    "duration": 3160,
+    "offset": 463479,
+    "lang": "es"
+  },
+  {
+    "text": "sugestiva de procesos que cursan con",
+    "duration": 4479,
+    "offset": 465120,
+    "lang": "es"
+  },
+  {
+    "text": "necrosis y fibrosis encapsulada o con la",
+    "duration": 4641,
+    "offset": 466639,
+    "lang": "es"
+  },
+  {
+    "text": "formación de quistes con degeneración de",
+    "duration": 4801,
+    "offset": 469599,
+    "lang": "es"
+  },
+  {
+    "text": "su contenido. Necrosis casos bien,",
+    "duration": 4800,
+    "offset": 471280,
+    "lang": "es"
+  },
+  {
+    "text": "bueno, un montón de términos médicos que",
+    "duration": 2919,
+    "offset": 474400,
+    "lang": "es"
+  },
+  {
+    "text": "no conozco. Consideraciones",
+    "duration": 3559,
+    "offset": 476080,
+    "lang": "es"
+  },
+  {
+    "text": "diagnósticas, granuloma necrosante,",
+    "duration": 4801,
+    "offset": 477319,
+    "lang": "es"
+  },
+  {
+    "text": "gaseoso calcificación, tuberculosis,",
+    "duration": 4441,
+    "offset": 479639,
+    "lang": "es"
+  },
+  {
+    "text": "micosis profunda, quiste parasitario,",
+    "duration": 4880,
+    "offset": 482120,
+    "lang": "es"
+  },
+  {
+    "text": "absorico. Bien. y acá da todas las",
+    "duration": 5679,
+    "offset": 484080,
+    "lang": "es"
+  },
+  {
+    "text": "recomendaciones.",
+    "duration": 2759,
+    "offset": 487000,
+    "lang": "es"
+  }
+]

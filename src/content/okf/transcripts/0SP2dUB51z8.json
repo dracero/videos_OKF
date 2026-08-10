@@ -1,0 +1,362 @@
+[
+  {
+    "text": "una vez que tenemos nuestra app",
+    "duration": 5639,
+    "offset": 950,
+    "lang": "es"
+  },
+  {
+    "text": "integrada el paso siguiente que podemos",
+    "duration": 7321,
+    "offset": 2889,
+    "lang": "es"
+  },
+  {
+    "text": "dar es por un lado",
+    "duration": 6681,
+    "offset": 6589,
+    "lang": "es"
+  },
+  {
+    "text": "leer comentarios de algún tipo de base",
+    "duration": 5490,
+    "offset": 10210,
+    "lang": "es"
+  },
+  {
+    "text": "de datos otro elemento para leer",
+    "duration": 5700,
+    "offset": 13270,
+    "lang": "es"
+  },
+  {
+    "text": "comentarios escritos y pasarlos por",
+    "duration": 7530,
+    "offset": 15700,
+    "lang": "es"
+  },
+  {
+    "text": "nuestra app que procesa lenguaje o una",
+    "duration": 7320,
+    "offset": 18970,
+    "lang": "es"
+  },
+  {
+    "text": "opción también muy buena es conectar",
+    "duration": 7500,
+    "offset": 23230,
+    "lang": "es"
+  },
+  {
+    "text": "nuestra app de nlp a una app de nl como",
+    "duration": 7560,
+    "offset": 26290,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo facebook mes facebook",
+    "duration": 6980,
+    "offset": 30730,
+    "lang": "es"
+  },
+  {
+    "text": "messenger es una app de natural sándwich",
+    "duration": 6870,
+    "offset": 33850,
+    "lang": "es"
+  },
+  {
+    "text": "understanding es lo que hace eso",
+    "duration": 6099,
+    "offset": 37710,
+    "lang": "es"
+  },
+  {
+    "text": "rápidamente convierte lo que nosotros",
+    "duration": 5670,
+    "offset": 40720,
+    "lang": "es"
+  },
+  {
+    "text": "hablamos en texto",
+    "duration": 6061,
+    "offset": 43809,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ese texto es el que después se",
+    "duration": 8930,
+    "offset": 46390,
+    "lang": "es"
+  },
+  {
+    "text": "puede llevar a la app de ntp para poder",
+    "duration": 8669,
+    "offset": 49870,
+    "lang": "es"
+  },
+  {
+    "text": "analizar si lo que se está diciendo en",
+    "duration": 5710,
+    "offset": 55320,
+    "lang": "es"
+  },
+  {
+    "text": "este caso es positivo o negativo o poder",
+    "duration": 4171,
+    "offset": 58539,
+    "lang": "es"
+  },
+  {
+    "text": "analizar o hacer bifurcaciones",
+    "duration": 3930,
+    "offset": 61030,
+    "lang": "es"
+  },
+  {
+    "text": "condicionales de cualquier otro tipo en",
+    "duration": 4920,
+    "offset": 62710,
+    "lang": "es"
+  },
+  {
+    "text": "blog del tipo de bifurcaciones",
+    "duration": 4620,
+    "offset": 64960,
+    "lang": "es"
+  },
+  {
+    "text": "condicionales que se necesitan en el",
+    "duration": 5130,
+    "offset": 67630,
+    "lang": "es"
+  },
+  {
+    "text": "triage a la entrada de una guardia",
+    "duration": 4360,
+    "offset": 69580,
+    "lang": "es"
+  },
+  {
+    "text": "médica",
+    "duration": 3260,
+    "offset": 72760,
+    "lang": "es"
+  },
+  {
+    "text": "bifurcaciones condicionales de las que",
+    "duration": 5230,
+    "offset": 73940,
+    "lang": "es"
+  },
+  {
+    "text": "alumnos para saber a dónde dirigirse en",
+    "duration": 5220,
+    "offset": 76020,
+    "lang": "es"
+  },
+  {
+    "text": "cambio de tener que escribir uno lo",
+    "duration": 5690,
+    "offset": 79170,
+    "lang": "es"
+  },
+  {
+    "text": "puede hacer directamente a través del",
+    "duration": 5580,
+    "offset": 81240,
+    "lang": "es"
+  },
+  {
+    "text": "lenguaje",
+    "duration": 3830,
+    "offset": 84860,
+    "lang": "es"
+  },
+  {
+    "text": "hablado",
+    "duration": 5030,
+    "offset": 86820,
+    "lang": "es"
+  },
+  {
+    "text": "para que vean un poco qué es",
+    "duration": 6190,
+    "offset": 88690,
+    "lang": "es"
+  },
+  {
+    "text": "natural language understanding les voy a",
+    "duration": 6530,
+    "offset": 91850,
+    "lang": "es"
+  },
+  {
+    "text": "dar un pequeño ejemplo",
+    "duration": 3500,
+    "offset": 94880,
+    "lang": "es"
+  },
+  {
+    "text": "no con el facebook messenger porque es",
+    "duration": 11080,
+    "offset": 101480,
+    "lang": "es"
+  },
+  {
+    "text": "un poco complicado conectarlo pero sí",
+    "duration": 10470,
+    "offset": 105590,
+    "lang": "es"
+  },
+  {
+    "text": "un sistema de lnp",
+    "duration": 3500,
+    "offset": 112560,
+    "lang": "es"
+  },
+  {
+    "text": "un sistema de el lp que ya viene dentro",
+    "duration": 6079,
+    "offset": 118580,
+    "lang": "es"
+  },
+  {
+    "text": "de él",
+    "duration": 5810,
+    "offset": 121880,
+    "lang": "es"
+  },
+  {
+    "text": "el browser chrome",
+    "duration": 4531,
+    "offset": 124659,
+    "lang": "es"
+  },
+  {
+    "text": "y acá vamos a ver yo tengo un pequeño",
+    "duration": 4400,
+    "offset": 127690,
+    "lang": "es"
+  },
+  {
+    "text": "programita",
+    "duration": 2900,
+    "offset": 129190,
+    "lang": "es"
+  },
+  {
+    "text": "que lo configure para que entiendan el",
+    "duration": 8150,
+    "offset": 132520,
+    "lang": "es"
+  },
+  {
+    "text": "lenguaje español entonces miren",
+    "duration": 4160,
+    "offset": 136510,
+    "lang": "es"
+  },
+  {
+    "text": "bueno y empiezo a hablar todo lo que",
+    "duration": 6060,
+    "offset": 141220,
+    "lang": "es"
+  },
+  {
+    "text": "digo",
+    "duration": 5190,
+    "offset": 145360,
+    "lang": "es"
+  },
+  {
+    "text": "se pasa a un texto que puedo seguir",
+    "duration": 4860,
+    "offset": 147280,
+    "lang": "es"
+  },
+  {
+    "text": "hablando y hablando sin problemas",
+    "duration": 4440,
+    "offset": 150550,
+    "lang": "es"
+  },
+  {
+    "text": "permanentemente estaba pasando texto",
+    "duration": 5280,
+    "offset": 152140,
+    "lang": "es"
+  },
+  {
+    "text": "todo lo que estoy hablando inclusive",
+    "duration": 4950,
+    "offset": 154990,
+    "lang": "es"
+  },
+  {
+    "text": "aquellas palabras que uno se puede",
+    "duration": 4320,
+    "offset": 157420,
+    "lang": "es"
+  },
+  {
+    "text": "llegar a imaginar que no comprendería",
+    "duration": 6830,
+    "offset": 159940,
+    "lang": "es"
+  },
+  {
+    "text": "como por ejemplo switch como por ejemplo",
+    "duration": 7450,
+    "offset": 161740,
+    "lang": "es"
+  },
+  {
+    "text": "otorrinolaringología",
+    "duration": 5890,
+    "offset": 166770,
+    "lang": "es"
+  },
+  {
+    "text": "como por ejemplo cualquier otro tipo",
+    "duration": 7480,
+    "offset": 169190,
+    "lang": "es"
+  },
+  {
+    "text": "palabra jurisprudencia",
+    "duration": 7219,
+    "offset": 172660,
+    "lang": "es"
+  },
+  {
+    "text": "a doc",
+    "duration": 3209,
+    "offset": 176670,
+    "lang": "es"
+  },
+  {
+    "text": "está por ahí bueno no la entendió",
+    "duration": 6020,
+    "offset": 179990,
+    "lang": "es"
+  },
+  {
+    "text": "también pero todo lo que digo se escucha",
+    "duration": 4220,
+    "offset": 181790,
+    "lang": "es"
+  },
+  {
+    "text": "y si me detengo bien pero bueno si",
+    "duration": 7010,
+    "offset": 186500,
+    "lang": "es"
+  },
+  {
+    "text": "vuelvo a hablar vuelve",
+    "duration": 2930,
+    "offset": 190580,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,1334 @@
+[
+  {
+    "text": "El proyecto nace de una pregunta simple.",
+    "duration": 6600,
+    "offset": 2280,
+    "lang": "es"
+  },
+  {
+    "text": "¿Puede la inteligencia artificial guiar",
+    "duration": 6121,
+    "offset": 5799,
+    "lang": "es"
+  },
+  {
+    "text": "a un estudiante a pensar en lugar de",
+    "duration": 5879,
+    "offset": 8880,
+    "lang": "es"
+  },
+  {
+    "text": "simplemente darles respuestas evitando",
+    "duration": 5720,
+    "offset": 11920,
+    "lang": "es"
+  },
+  {
+    "text": "de esta manera la inferencia mecánica?",
+    "duration": 4921,
+    "offset": 14759,
+    "lang": "es"
+  },
+  {
+    "text": "Un problema muy común entre los",
+    "duration": 5120,
+    "offset": 17640,
+    "lang": "es"
+  },
+  {
+    "text": "estudiantes que inician la carrera de",
+    "duration": 6160,
+    "offset": 19680,
+    "lang": "es"
+  },
+  {
+    "text": "ingeniería. En esta primera parte vamos",
+    "duration": 6439,
+    "offset": 22760,
+    "lang": "es"
+  },
+  {
+    "text": "a ver los tres agentes y el orquestador",
+    "duration": 5480,
+    "offset": 25840,
+    "lang": "es"
+  },
+  {
+    "text": "y vamos a dar un detalle también de cómo",
+    "duration": 4040,
+    "offset": 29199,
+    "lang": "es"
+  },
+  {
+    "text": "funcionan.",
+    "duration": 4720,
+    "offset": 31320,
+    "lang": "es"
+  },
+  {
+    "text": "Tenemos",
+    "duration": 6041,
+    "offset": 33239,
+    "lang": "es"
+  },
+  {
+    "text": "tres agentes y un orquestador.",
+    "duration": 6679,
+    "offset": 36040,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, dos de los agentes son agentes DAMIS",
+    "duration": 5200,
+    "offset": 39280,
+    "lang": "es"
+  },
+  {
+    "text": "que están utilizados para validar la",
+    "duration": 4201,
+    "offset": 42719,
+    "lang": "es"
+  },
+  {
+    "text": "arquitectura de comunicación. Y el",
+    "duration": 4919,
+    "offset": 44480,
+    "lang": "es"
+  },
+  {
+    "text": "tercero, el corazón del proyecto, es un",
+    "duration": 5319,
+    "offset": 46920,
+    "lang": "es"
+  },
+  {
+    "text": "tutor socrático de física. El tutor",
+    "duration": 5361,
+    "offset": 49399,
+    "lang": "es"
+  },
+  {
+    "text": "socrático de física tiene un sistema LLM",
+    "duration": 5561,
+    "offset": 52239,
+    "lang": "es"
+  },
+  {
+    "text": "open source que se denomina llama 4 y el",
+    "duration": 5319,
+    "offset": 54760,
+    "lang": "es"
+  },
+  {
+    "text": "mismo corre bajo la infraestructura",
+    "duration": 3800,
+    "offset": 57800,
+    "lang": "es"
+  },
+  {
+    "text": "también",
+    "duration": 3761,
+    "offset": 60079,
+    "lang": "es"
+  },
+  {
+    "text": "eh open source o también una",
+    "duration": 4440,
+    "offset": 61600,
+    "lang": "es"
+  },
+  {
+    "text": "arquitectura no open source porque",
+    "duration": 4480,
+    "offset": 63840,
+    "lang": "es"
+  },
+  {
+    "text": "estamos hablando de hardware, pero una",
+    "duration": 4000,
+    "offset": 66040,
+    "lang": "es"
+  },
+  {
+    "text": "de las arquitecturas más baratas que hay",
+    "duration": 4080,
+    "offset": 68320,
+    "lang": "es"
+  },
+  {
+    "text": "para correr hardware en la nube que es",
+    "duration": 5280,
+    "offset": 70040,
+    "lang": "es"
+  },
+  {
+    "text": "Grock.",
+    "duration": 6079,
+    "offset": 72400,
+    "lang": "es"
+  },
+  {
+    "text": "La idea es crear un tutor que no",
+    "duration": 5600,
+    "offset": 75320,
+    "lang": "es"
+  },
+  {
+    "text": "solamente le dé respuestas al",
+    "duration": 5121,
+    "offset": 78479,
+    "lang": "es"
+  },
+  {
+    "text": "estudiante, sino que le haga al menos",
+    "duration": 5879,
+    "offset": 80920,
+    "lang": "es"
+  },
+  {
+    "text": "tres preguntas orientadoras",
+    "duration": 6199,
+    "offset": 83600,
+    "lang": "es"
+  },
+  {
+    "text": "para que el alumno pueda construir el",
+    "duration": 5960,
+    "offset": 86799,
+    "lang": "es"
+  },
+  {
+    "text": "conocimiento por sí mismo. Y si en algún",
+    "duration": 5241,
+    "offset": 89799,
+    "lang": "es"
+  },
+  {
+    "text": "momento el estudiante, porque después de",
+    "duration": 4481,
+    "offset": 92759,
+    "lang": "es"
+  },
+  {
+    "text": "haber hecho esas tres preguntas",
+    "duration": 5280,
+    "offset": 95040,
+    "lang": "es"
+  },
+  {
+    "text": "orientadoras y recibir la respuesta, el",
+    "duration": 5879,
+    "offset": 97240,
+    "lang": "es"
+  },
+  {
+    "text": "estudiante queda con dudas, puede pedir",
+    "duration": 5799,
+    "offset": 100320,
+    "lang": "es"
+  },
+  {
+    "text": "salir del modo socrático y pedir",
+    "duration": 5401,
+    "offset": 103119,
+    "lang": "es"
+  },
+  {
+    "text": "explícitamente que responda sobre algún",
+    "duration": 4081,
+    "offset": 106119,
+    "lang": "es"
+  },
+  {
+    "text": "tema que no le quedó claro de lo que",
+    "duration": 5080,
+    "offset": 108520,
+    "lang": "es"
+  },
+  {
+    "text": "estuvieron viendo. El control siempre",
+    "duration": 6080,
+    "offset": 110200,
+    "lang": "es"
+  },
+  {
+    "text": "queda de el lado del estudiante. El",
+    "duration": 6320,
+    "offset": 113600,
+    "lang": "es"
+  },
+  {
+    "text": "sistema es un sistema escalable.",
+    "duration": 7159,
+    "offset": 116280,
+    "lang": "es"
+  },
+  {
+    "text": "Vemos que tanto el orquestador como el",
+    "duration": 7320,
+    "offset": 119920,
+    "lang": "es"
+  },
+  {
+    "text": "frontend, como todos los agentes",
+    "duration": 7361,
+    "offset": 123439,
+    "lang": "es"
+  },
+  {
+    "text": "están corriendo o son microservicios que",
+    "duration": 6120,
+    "offset": 127240,
+    "lang": "es"
+  },
+  {
+    "text": "potencialmente pueden correr en lugares",
+    "duration": 5400,
+    "offset": 130800,
+    "lang": "es"
+  },
+  {
+    "text": "que están geográficamente distribuidos,",
+    "duration": 4519,
+    "offset": 133360,
+    "lang": "es"
+  },
+  {
+    "text": "lo que hace que sea muy barato el",
+    "duration": 4520,
+    "offset": 136200,
+    "lang": "es"
+  },
+  {
+    "text": "deployment, pero también hace que yo",
+    "duration": 5601,
+    "offset": 137879,
+    "lang": "es"
+  },
+  {
+    "text": "pueda tener distintas entidades que",
+    "duration": 4680,
+    "offset": 140720,
+    "lang": "es"
+  },
+  {
+    "text": "gestionan o que gobiernan distintos",
+    "duration": 4880,
+    "offset": 143480,
+    "lang": "es"
+  },
+  {
+    "text": "agentes. ¿Ven? Acá tenemos los tres",
+    "duration": 5559,
+    "offset": 145400,
+    "lang": "es"
+  },
+  {
+    "text": "agentes que con los que vamos a hacer la",
+    "duration": 3920,
+    "offset": 148360,
+    "lang": "es"
+  },
+  {
+    "text": "demostración, con los que voy a hacer la",
+    "duration": 3721,
+    "offset": 150959,
+    "lang": "es"
+  },
+  {
+    "text": "demostración. Pero puedo, si quiero",
+    "duration": 4120,
+    "offset": 152280,
+    "lang": "es"
+  },
+  {
+    "text": "registrar",
+    "duration": 3880,
+    "offset": 154680,
+    "lang": "es"
+  },
+  {
+    "text": "tantos agentes como yo quiera, esos",
+    "duration": 5400,
+    "offset": 156400,
+    "lang": "es"
+  },
+  {
+    "text": "agentes que yo registro después se van a",
+    "duration": 6319,
+    "offset": 158560,
+    "lang": "es"
+  },
+  {
+    "text": "presentar en el orquestador BAI y ese",
+    "duration": 6560,
+    "offset": 161800,
+    "lang": "es"
+  },
+  {
+    "text": "orquestador BI los va a conocer y va a",
+    "duration": 6561,
+    "offset": 164879,
+    "lang": "es"
+  },
+  {
+    "text": "saber qué hacer en función de lo que yo",
+    "duration": 6000,
+    "offset": 168360,
+    "lang": "es"
+  },
+  {
+    "text": "pido.",
+    "duration": 4560,
+    "offset": 171440,
+    "lang": "es"
+  },
+  {
+    "text": "Em,",
+    "duration": 3720,
+    "offset": 174360,
+    "lang": "es"
+  },
+  {
+    "text": "el protocolo con el que se comunican los",
+    "duration": 5360,
+    "offset": 176000,
+    "lang": "es"
+  },
+  {
+    "text": "agentes se llama agent to agent. ¿Qué",
+    "duration": 4920,
+    "offset": 178080,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo bueno de tener los agentes",
+    "duration": 3239,
+    "offset": 181360,
+    "lang": "es"
+  },
+  {
+    "text": "funcionando de esta manera como",
+    "duration": 3319,
+    "offset": 183000,
+    "lang": "es"
+  },
+  {
+    "text": "microservicios?",
+    "duration": 4041,
+    "offset": 184599,
+    "lang": "es"
+  },
+  {
+    "text": "Es que puedo usar distintos framework,",
+    "duration": 4601,
+    "offset": 186319,
+    "lang": "es"
+  },
+  {
+    "text": "distintos LLMs, distintos archivos,",
+    "duration": 7040,
+    "offset": 188640,
+    "lang": "es"
+  },
+  {
+    "text": "distintas materias y puedo bajar o subir",
+    "duration": 8720,
+    "offset": 190920,
+    "lang": "es"
+  },
+  {
+    "text": "agentes o para para este que contesten",
+    "duration": 6680,
+    "offset": 195680,
+    "lang": "es"
+  },
+  {
+    "text": "las distintas preguntas sin interferir",
+    "duration": 5959,
+    "offset": 199640,
+    "lang": "es"
+  },
+  {
+    "text": "en sin que uno interfiera en el otro.",
+    "duration": 5640,
+    "offset": 202360,
+    "lang": "es"
+  },
+  {
+    "text": "O sea, ¿qué implica en la práctica?",
+    "duration": 5161,
+    "offset": 205599,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, cada gente, como vimos recién, se",
+    "duration": 5439,
+    "offset": 208000,
+    "lang": "es"
+  },
+  {
+    "text": "levanta como microservicio.",
+    "duration": 5399,
+    "offset": 210760,
+    "lang": "es"
+  },
+  {
+    "text": "Cada gente se levanta como un",
+    "duration": 5561,
+    "offset": 213439,
+    "lang": "es"
+  },
+  {
+    "text": "microservicio y ese microservicio se",
+    "duration": 5800,
+    "offset": 216159,
+    "lang": "es"
+  },
+  {
+    "text": "genera en forma independiente como si el",
+    "duration": 6439,
+    "offset": 219000,
+    "lang": "es"
+  },
+  {
+    "text": "otro no estuviese.",
+    "duration": 7721,
+    "offset": 221959,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a empezar a mostrar la e algunos",
+    "duration": 6481,
+    "offset": 225439,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplos.",
+    "duration": 4199,
+    "offset": 229680,
+    "lang": "es"
+  },
+  {
+    "text": "Por ejemplo, vamos a poner a funcionar",
+    "duration": 4879,
+    "offset": 231920,
+    "lang": "es"
+  },
+  {
+    "text": "primero el e",
+    "duration": 6481,
+    "offset": 233879,
+    "lang": "es"
+  },
+  {
+    "text": "el generador de imágenes Dami. Entonces,",
+    "duration": 5440,
+    "offset": 236799,
+    "lang": "es"
+  },
+  {
+    "text": "yo acá le voy a pedir que me haga un",
+    "duration": 4360,
+    "offset": 240360,
+    "lang": "es"
+  },
+  {
+    "text": "astronauta en bicicleta.",
+    "duration": 7560,
+    "offset": 242239,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí va a empezar a pensar la respuesta.",
+    "duration": 9439,
+    "offset": 244720,
+    "lang": "es"
+  },
+  {
+    "text": "Hay que aguardar un momento que",
+    "duration": 7560,
+    "offset": 249799,
+    "lang": "es"
+  },
+  {
+    "text": "está haciendo",
+    "duration": 5640,
+    "offset": 254159,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí tenemos",
+    "duration": 4600,
+    "offset": 257359,
+    "lang": "es"
+  },
+  {
+    "text": "el astronauta en bicicleta. O sea, este",
+    "duration": 3921,
+    "offset": 259799,
+    "lang": "es"
+  },
+  {
+    "text": "es un agente dami. Uno dice, bueno,",
+    "duration": 4121,
+    "offset": 261959,
+    "lang": "es"
+  },
+  {
+    "text": "desde el punto de vista académico no",
+    "duration": 4280,
+    "offset": 263720,
+    "lang": "es"
+  },
+  {
+    "text": "tiene ninguna validez, pero la idea era",
+    "duration": 3520,
+    "offset": 266080,
+    "lang": "es"
+  },
+  {
+    "text": "mostrar este agente Dami está hecho en",
+    "duration": 4479,
+    "offset": 268000,
+    "lang": "es"
+  },
+  {
+    "text": "un framework que se llama Crui y cómo",
+    "duration": 4920,
+    "offset": 269600,
+    "lang": "es"
+  },
+  {
+    "text": "pueden estar totalmente separados y",
+    "duration": 3601,
+    "offset": 272479,
+    "lang": "es"
+  },
+  {
+    "text": "trabajar y hacer cosas totalmente",
+    "duration": 4480,
+    "offset": 274520,
+    "lang": "es"
+  },
+  {
+    "text": "separadas uno del otro. Vamos a ver otra",
+    "duration": 7360,
+    "offset": 276080,
+    "lang": "es"
+  },
+  {
+    "text": "agente Dami, que es el que",
+    "duration": 4440,
+    "offset": 279000,
+    "lang": "es"
+  },
+  {
+    "text": "eh está preparado para imágenes médicas.",
+    "duration": 5640,
+    "offset": 283600,
+    "lang": "es"
+  },
+  {
+    "text": "¿Me podés nuevamente? No está calibrado",
+    "duration": 5400,
+    "offset": 286440,
+    "lang": "es"
+  },
+  {
+    "text": "ni nada, simplemente es un dami para",
+    "duration": 4280,
+    "offset": 289240,
+    "lang": "es"
+  },
+  {
+    "text": "mostrar la posibilidad de interacción",
+    "duration": 3359,
+    "offset": 291840,
+    "lang": "es"
+  },
+  {
+    "text": "entre los distintos ecosistemas de",
+    "duration": 4679,
+    "offset": 293520,
+    "lang": "es"
+  },
+  {
+    "text": "agentes.",
+    "duration": 3000,
+    "offset": 295199,
+    "lang": "es"
+  },
+  {
+    "text": "El tejido de la imagen.",
+    "duration": 4679,
+    "offset": 299360,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí le pedimos el orquestador. ¿Qué es",
+    "duration": 4600,
+    "offset": 304240,
+    "lang": "es"
+  },
+  {
+    "text": "lo que pasa? Vieron recién cuando yo le",
+    "duration": 4960,
+    "offset": 306840,
+    "lang": "es"
+  },
+  {
+    "text": "pedía que me haga un astronauta en",
+    "duration": 6400,
+    "offset": 308840,
+    "lang": "es"
+  },
+  {
+    "text": "bicicleta, el orquestador fue y contactó",
+    "duration": 6720,
+    "offset": 311800,
+    "lang": "es"
+  },
+  {
+    "text": "a la gente que se que está pensado para",
+    "duration": 5880,
+    "offset": 315240,
+    "lang": "es"
+  },
+  {
+    "text": "generar imágenes,",
+    "duration": 5679,
+    "offset": 318520,
+    "lang": "es"
+  },
+  {
+    "text": "que el que veíamos acá es el agente",
+    "duration": 5280,
+    "offset": 321120,
+    "lang": "es"
+  },
+  {
+    "text": "generador de imágenes. Ahora fue al",
+    "duration": 4241,
+    "offset": 324199,
+    "lang": "es"
+  },
+  {
+    "text": "asistente médico. ¿Y cómo se dio cuenta",
+    "duration": 4320,
+    "offset": 326400,
+    "lang": "es"
+  },
+  {
+    "text": "que lo tenía que invocar? Bien,",
+    "duration": 6800,
+    "offset": 328440,
+    "lang": "es"
+  },
+  {
+    "text": "simplemente porque el sistema Yama 4 es",
+    "duration": 6759,
+    "offset": 330720,
+    "lang": "es"
+  },
+  {
+    "text": "un sistema multimodal.",
+    "duration": 4280,
+    "offset": 335240,
+    "lang": "es"
+  },
+  {
+    "text": "Y ese sistema multimodal se da cuenta",
+    "duration": 4801,
+    "offset": 337479,
+    "lang": "es"
+  },
+  {
+    "text": "que la imagen es una imagen médica",
+    "duration": 6360,
+    "offset": 339520,
+    "lang": "es"
+  },
+  {
+    "text": "y eso hace que el orquestador llame a la",
+    "duration": 5400,
+    "offset": 342280,
+    "lang": "es"
+  },
+  {
+    "text": "agente correspondiente y le pase todos",
+    "duration": 5840,
+    "offset": 345880,
+    "lang": "es"
+  },
+  {
+    "text": "los valores. Acá, bueno, describe este",
+    "duration": 7400,
+    "offset": 347680,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que vio. Y ahora vamos a hacer",
+    "duration": 6800,
+    "offset": 351720,
+    "lang": "es"
+  },
+  {
+    "text": "sobre el mismo agente. Una de las cosas",
+    "duration": 7520,
+    "offset": 355080,
+    "lang": "es"
+  },
+  {
+    "text": "que hay que tener en cuenta es que cada",
+    "duration": 6840,
+    "offset": 358520,
+    "lang": "es"
+  },
+  {
+    "text": "e usuario levanta una sesión. Acá se",
+    "duration": 5120,
+    "offset": 362600,
+    "lang": "es"
+  },
+  {
+    "text": "puede ver la conversación, pero se puede",
+    "duration": 4360,
+    "offset": 365360,
+    "lang": "es"
+  },
+  {
+    "text": "generar una conversación nueva. Cada",
+    "duration": 4360,
+    "offset": 367720,
+    "lang": "es"
+  },
+  {
+    "text": "usuario levanta una sesión, o sea, que",
+    "duration": 4960,
+    "offset": 369720,
+    "lang": "es"
+  },
+  {
+    "text": "la interacción y los mensajes se",
+    "duration": 5600,
+    "offset": 372080,
+    "lang": "es"
+  },
+  {
+    "text": "intercambian por sesión entre el usuario",
+    "duration": 4959,
+    "offset": 374680,
+    "lang": "es"
+  },
+  {
+    "text": "y no interfieren con otra sesión de",
+    "duration": 3880,
+    "offset": 377680,
+    "lang": "es"
+  },
+  {
+    "text": "usuario.",
+    "duration": 4400,
+    "offset": 379639,
+    "lang": "es"
+  },
+  {
+    "text": "Eso hace que también esa distribución",
+    "duration": 6039,
+    "offset": 381560,
+    "lang": "es"
+  },
+  {
+    "text": "fomenta que haya facilita que haya más",
+    "duration": 6160,
+    "offset": 384039,
+    "lang": "es"
+  },
+  {
+    "text": "concurrencia en el servidor y hace que",
+    "duration": 5600,
+    "offset": 387599,
+    "lang": "es"
+  },
+  {
+    "text": "el deployment pueda escalar cada vez a",
+    "duration": 6201,
+    "offset": 390199,
+    "lang": "es"
+  },
+  {
+    "text": "mayor mayores dimensiones.",
+    "duration": 6921,
+    "offset": 393199,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a empezar ahora entonces con las",
+    "duration": 7880,
+    "offset": 396400,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas de física.",
+    "duration": 4160,
+    "offset": 400120,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a",
+    "duration": 6320,
+    "offset": 406800,
+    "lang": "es"
+  },
+  {
+    "text": "subir una imagen.",
+    "duration": 3560,
+    "offset": 409560,
+    "lang": "es"
+  },
+  {
+    "text": "Cuando el orquestador",
+    "duration": 4680,
+    "offset": 413440,
+    "lang": "es"
+  },
+  {
+    "text": "vea que",
+    "duration": 5319,
+    "offset": 415560,
+    "lang": "es"
+  },
+  {
+    "text": "estoy haciendo consultas de física, va a",
+    "duration": 6160,
+    "offset": 418120,
+    "lang": "es"
+  },
+  {
+    "text": "llamar a la gente que tiene la",
+    "duration": 5760,
+    "offset": 420879,
+    "lang": "es"
+  },
+  {
+    "text": "programación de tutor socrático.",
+    "duration": 5160,
+    "offset": 424280,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, acá le pongo",
+    "duration": 5881,
+    "offset": 426639,
+    "lang": "es"
+  },
+  {
+    "text": "el enunciado y un problema.",
+    "duration": 6360,
+    "offset": 429440,
+    "lang": "es"
+  },
+  {
+    "text": "Lo importante que es la gente, ahí está",
+    "duration": 5840,
+    "offset": 432520,
+    "lang": "es"
+  },
+  {
+    "text": "la una de las tres preguntas que en las",
+    "duration": 5119,
+    "offset": 435800,
+    "lang": "es"
+  },
+  {
+    "text": "que va a ir guiando al estudiante. Vamos",
+    "duration": 4440,
+    "offset": 438360,
+    "lang": "es"
+  },
+  {
+    "text": "a asumir el rol de un estudiante que no",
+    "duration": 3801,
+    "offset": 440919,
+    "lang": "es"
+  },
+  {
+    "text": "conoce, bueno, ¿qué pasa con algo? para",
+    "duration": 4160,
+    "offset": 442800,
+    "lang": "es"
+  },
+  {
+    "text": "que después pida salir del modo",
+    "duration": 5080,
+    "offset": 444720,
+    "lang": "es"
+  },
+  {
+    "text": "socrático y pida explicaciones.",
+    "duration": 5359,
+    "offset": 446960,
+    "lang": "es"
+  },
+  {
+    "text": "Pero en principio las preguntas que",
+    "duration": 4280,
+    "offset": 449800,
+    "lang": "es"
+  },
+  {
+    "text": "hacen están relacionadas no solo con",
+    "duration": 4241,
+    "offset": 452319,
+    "lang": "es"
+  },
+  {
+    "text": "enunciado, sino también con que el",
+    "duration": 5160,
+    "offset": 454080,
+    "lang": "es"
+  },
+  {
+    "text": "sistema B, porque es un sistema",
+    "duration": 4840,
+    "offset": 456560,
+    "lang": "es"
+  },
+  {
+    "text": "multimodal, la figura que nosotros",
+    "duration": 4840,
+    "offset": 459240,
+    "lang": "es"
+  },
+  {
+    "text": "introdujimos. Entonces, no solamente es",
+    "duration": 4960,
+    "offset": 461400,
+    "lang": "es"
+  },
+  {
+    "text": "que va a responder teniendo en cuenta el",
+    "duration": 3920,
+    "offset": 464080,
+    "lang": "es"
+  },
+  {
+    "text": "enunciado, sino que lo va a hacer",
+    "duration": 4480,
+    "offset": 466360,
+    "lang": "es"
+  },
+  {
+    "text": "teniendo en cuenta la imagen",
+    "duration": 6319,
+    "offset": 468000,
+    "lang": "es"
+  },
+  {
+    "text": "que le proporcionamos. Entonces, vamos a",
+    "duration": 5400,
+    "offset": 470840,
+    "lang": "es"
+  },
+  {
+    "text": "asumir el rol de un estudiante",
+    "duration": 4880,
+    "offset": 474319,
+    "lang": "es"
+  },
+  {
+    "text": "confundido",
+    "duration": 4600,
+    "offset": 476240,
+    "lang": "es"
+  },
+  {
+    "text": "que",
+    "duration": 3400,
+    "offset": 479199,
+    "lang": "es"
+  },
+  {
+    "text": "hace preguntas y no se da cuenta",
+    "duration": 4720,
+    "offset": 480840,
+    "lang": "es"
+  },
+  {
+    "text": "específicamente de algo. Ven que una vez",
+    "duration": 7160,
+    "offset": 482599,
+    "lang": "es"
+  },
+  {
+    "text": "que switche a la gente es bastante",
+    "duration": 7199,
+    "offset": 485560,
+    "lang": "es"
+  },
+  {
+    "text": "rápido.",
+    "duration": 3000,
+    "offset": 489759,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí ya nos va guiando, nos da tips con",
+    "duration": 5560,
+    "offset": 501840,
+    "lang": "es"
+  },
+  {
+    "text": "la lamparita esta que pensemos en una",
+    "duration": 8241,
+    "offset": 505199,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta y ahí seguimos confundidos.",
+    "duration": 6040,
+    "offset": 507400,
+    "lang": "es"
+  },
+  {
+    "text": "Le vamos",
+    "duration": 4320,
+    "offset": 513880,
+    "lang": "es"
+  },
+  {
+    "text": "a responder algo, pero le decimos que no",
+    "duration": 5240,
+    "offset": 516159,
+    "lang": "es"
+  },
+  {
+    "text": "nos damos cuenta",
+    "duration": 7440,
+    "offset": 518200,
+    "lang": "es"
+  },
+  {
+    "text": "de una cosa en particular.",
+    "duration": 4241,
+    "offset": 521399,
+    "lang": "es"
+  },
+  {
+    "text": "Acá me da la solución del problema",
+    "duration": 6720,
+    "offset": 531640,
+    "lang": "es"
+  },
+  {
+    "text": "después que plantea y bueno, me dice,",
+    "duration": 5120,
+    "offset": 534560,
+    "lang": "es"
+  },
+  {
+    "text": "\"Aprecio mucho tu iniciativa, después",
+    "duration": 3280,
+    "offset": 538360,
+    "lang": "es"
+  },
+  {
+    "text": "que hace todo el planteo, que me va",
+    "duration": 4640,
+    "offset": 539680,
+    "lang": "es"
+  },
+  {
+    "text": "orientando y demás, me da la solución",
+    "duration": 4319,
+    "offset": 541640,
+    "lang": "es"
+  },
+  {
+    "text": "del problema.\" Pero hagamos de cuenta",
+    "duration": 3680,
+    "offset": 544320,
+    "lang": "es"
+  },
+  {
+    "text": "que el estudiante inclusive después de",
+    "duration": 4681,
+    "offset": 545959,
+    "lang": "es"
+  },
+  {
+    "text": "leer esta solución necesita que le",
+    "duration": 5720,
+    "offset": 548000,
+    "lang": "es"
+  },
+  {
+    "text": "expliquen un punto específicamente.",
+    "duration": 5199,
+    "offset": 550640,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, ¿qué le tenemos que decir? que",
+    "duration": 4880,
+    "offset": 553720,
+    "lang": "es"
+  },
+  {
+    "text": "salga del modo socrático",
+    "duration": 5240,
+    "offset": 555839,
+    "lang": "es"
+  },
+  {
+    "text": "y que nos explique",
+    "duration": 4440,
+    "offset": 558600,
+    "lang": "es"
+  },
+  {
+    "text": "un tema en particular. Entonces, acá le",
+    "duration": 6041,
+    "offset": 561079,
+    "lang": "es"
+  },
+  {
+    "text": "decimos, \"Salí del modo socrático",
+    "duration": 6840,
+    "offset": 563040,
+    "lang": "es"
+  },
+  {
+    "text": "y explicame el trabajo de la tensión.\" Y",
+    "duration": 7399,
+    "offset": 567120,
+    "lang": "es"
+  },
+  {
+    "text": "ahora vamos a ver cómo va a responder,",
+    "duration": 8399,
+    "offset": 569880,
+    "lang": "es"
+  },
+  {
+    "text": "responde, pero responde específicamente",
+    "duration": 6201,
+    "offset": 574519,
+    "lang": "es"
+  },
+  {
+    "text": "sobre ese tema que el alumno le habría",
+    "duration": 5281,
+    "offset": 578279,
+    "lang": "es"
+  },
+  {
+    "text": "preguntado. Responde específicamente",
+    "duration": 5520,
+    "offset": 580720,
+    "lang": "es"
+  },
+  {
+    "text": "sobre ese tema. O sea,",
+    "duration": 5080,
+    "offset": 583560,
+    "lang": "es"
+  },
+  {
+    "text": "no ahora no le hace consultas, sino que",
+    "duration": 4200,
+    "offset": 586240,
+    "lang": "es"
+  },
+  {
+    "text": "el alumno le pide que salga del modo",
+    "duration": 4960,
+    "offset": 588640,
+    "lang": "es"
+  },
+  {
+    "text": "socrático porque está confundido y le",
+    "duration": 4720,
+    "offset": 590440,
+    "lang": "es"
+  },
+  {
+    "text": "explica",
+    "duration": 4440,
+    "offset": 593600,
+    "lang": "es"
+  },
+  {
+    "text": "detalladamente qué es lo que sucede con",
+    "duration": 7000,
+    "offset": 595160,
+    "lang": "es"
+  },
+  {
+    "text": "ese tema que el alumno no conocía.",
+    "duration": 7039,
+    "offset": 598040,
+    "lang": "es"
+  },
+  {
+    "text": "Algo que es muy importante,",
+    "duration": 5400,
+    "offset": 602160,
+    "lang": "es"
+  },
+  {
+    "text": "el sistema lo vamos a ver en la segunda",
+    "duration": 6161,
+    "offset": 605079,
+    "lang": "es"
+  },
+  {
+    "text": "parte, tiene configurado",
+    "duration": 6760,
+    "offset": 607560,
+    "lang": "es"
+  },
+  {
+    "text": "e telemetría.",
+    "duration": 6520,
+    "offset": 611240,
+    "lang": "es"
+  },
+  {
+    "text": "¿Y para qué sirve la el los sistemas de",
+    "duration": 5680,
+    "offset": 614320,
+    "lang": "es"
+  },
+  {
+    "text": "telemetría? Porque toda esta interacción",
+    "duration": 6280,
+    "offset": 617760,
+    "lang": "es"
+  },
+  {
+    "text": "que hubo entre estudiante y docente,",
+    "duration": 7279,
+    "offset": 620000,
+    "lang": "es"
+  },
+  {
+    "text": "toda esa interacción es capturada por el",
+    "duration": 6200,
+    "offset": 624040,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de telemetría para que después",
+    "duration": 7161,
+    "offset": 627279,
+    "lang": "es"
+  },
+  {
+    "text": "el docente la pueda analizar. M.",
+    "duration": 4200,
+    "offset": 630240,
+    "lang": "es"
+  }
+]

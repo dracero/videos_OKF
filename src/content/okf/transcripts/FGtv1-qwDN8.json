@@ -1,0 +1,1190 @@
+[
+  {
+    "text": "Bienvenidos a esta exploración sobre,",
+    "duration": 4920,
+    "offset": 120,
+    "lang": "es"
+  },
+  {
+    "text": "bueno, sobre algo tan cotidiano y a la",
+    "duration": 5001,
+    "offset": 2639,
+    "lang": "es"
+  },
+  {
+    "text": "vez tan complejo como el movimiento.",
+    "duration": 5440,
+    "offset": 5040,
+    "lang": "es"
+  },
+  {
+    "text": "¿Cómo lo describimos? Y más importante",
+    "duration": 5680,
+    "offset": 7640,
+    "lang": "es"
+  },
+  {
+    "text": "aún, ¿qué lo causa. Hoy vamos a intentar",
+    "duration": 5440,
+    "offset": 10480,
+    "lang": "es"
+  },
+  {
+    "text": "desentrañar un poco la cinemática y la",
+    "duration": 5119,
+    "offset": 13320,
+    "lang": "es"
+  },
+  {
+    "text": "dinámica y para eso nos basamos en",
+    "duration": 4599,
+    "offset": 15920,
+    "lang": "es"
+  },
+  {
+    "text": "algunas ideas clave de la física, ¿no?",
+    "duration": 3920,
+    "offset": 18439,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a ver qué pasa con las leyes de",
+    "duration": 4961,
+    "offset": 20519,
+    "lang": "es"
+  },
+  {
+    "text": "Newton, el rozamiento, eh, y eso de cómo",
+    "duration": 5160,
+    "offset": 22359,
+    "lang": "es"
+  },
+  {
+    "text": "cambia todo según desde donde mires los",
+    "duration": 4559,
+    "offset": 25480,
+    "lang": "es"
+  },
+  {
+    "text": "sistemas de referencia. ¿Vale? Pues",
+    "duration": 5200,
+    "offset": 27519,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ello. Empecemos por la gran",
+    "duration": 5241,
+    "offset": 30039,
+    "lang": "es"
+  },
+  {
+    "text": "distinción. Cinemática frente a",
+    "duration": 3840,
+    "offset": 32719,
+    "lang": "es"
+  },
+  {
+    "text": "dinámica.",
+    "duration": 4119,
+    "offset": 35280,
+    "lang": "es"
+  },
+  {
+    "text": "A ver, la cinemática, si no me equivoco,",
+    "duration": 5160,
+    "offset": 36559,
+    "lang": "es"
+  },
+  {
+    "text": "es como la descripción pura, ¿no?",
+    "duration": 5121,
+    "offset": 39399,
+    "lang": "es"
+  },
+  {
+    "text": "Posición, velocidad, aceleración, el",
+    "duration": 4160,
+    "offset": 41719,
+    "lang": "es"
+  },
+  {
+    "text": "cómo se mueve algo.",
+    "duration": 4440,
+    "offset": 44520,
+    "lang": "es"
+  },
+  {
+    "text": "Exacto. Es como eh como si vieras una",
+    "duration": 4840,
+    "offset": 45879,
+    "lang": "es"
+  },
+  {
+    "text": "carrera y solo notaras los tiempos y las",
+    "duration": 3840,
+    "offset": 48960,
+    "lang": "es"
+  },
+  {
+    "text": "posiciones. Describes el movimiento",
+    "duration": 4281,
+    "offset": 50719,
+    "lang": "es"
+  },
+  {
+    "text": "perfectamente, pero sin preguntarte por",
+    "duration": 3919,
+    "offset": 52800,
+    "lang": "es"
+  },
+  {
+    "text": "qué ese coche va más rápido o por qué",
+    "duration": 2280,
+    "offset": 55000,
+    "lang": "es"
+  },
+  {
+    "text": "frena.",
+    "duration": 3360,
+    "offset": 56719,
+    "lang": "es"
+  },
+  {
+    "text": "La dinámica, en cambio, sí. se meten al",
+    "duration": 6160,
+    "offset": 57280,
+    "lang": "es"
+  },
+  {
+    "text": "por qué estudia las causas, o sea, las",
+    "duration": 5720,
+    "offset": 60079,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas, cómo esas fuerzas se relacionan",
+    "duration": 5039,
+    "offset": 63440,
+    "lang": "es"
+  },
+  {
+    "text": "con la masa del objeto y con cómo cambia",
+    "duration": 4521,
+    "offset": 65799,
+    "lang": "es"
+  },
+  {
+    "text": "su movimiento, su aceleración.",
+    "duration": 4320,
+    "offset": 68479,
+    "lang": "es"
+  },
+  {
+    "text": "Y ahí, claro, entran de lleno las leyes",
+    "duration": 5560,
+    "offset": 70320,
+    "lang": "es"
+  },
+  {
+    "text": "de Newton. La primera, la de inercia.",
+    "duration": 5081,
+    "offset": 72799,
+    "lang": "es"
+  },
+  {
+    "text": "Sueno simple, algo quieto se queda",
+    "duration": 4800,
+    "offset": 75880,
+    "lang": "es"
+  },
+  {
+    "text": "quieto y algo en movimiento sigue. Pero",
+    "duration": 5440,
+    "offset": 77880,
+    "lang": "es"
+  },
+  {
+    "text": "en la práctica todo parece pararse.",
+    "duration": 4600,
+    "offset": 80680,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, esa es la intuición habitual,",
+    "duration": 4320,
+    "offset": 83320,
+    "lang": "es"
+  },
+  {
+    "text": "¿verdad? Pero la ley dice que un cuerpo",
+    "duration": 5240,
+    "offset": 85280,
+    "lang": "es"
+  },
+  {
+    "text": "mantiene su estado reposo o movimiento",
+    "duration": 5159,
+    "offset": 87640,
+    "lang": "es"
+  },
+  {
+    "text": "rectilíneo uniforme a menos que una",
+    "duration": 5200,
+    "offset": 90520,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza exterior neta actúe. Y aquí en la",
+    "duration": 5241,
+    "offset": 92799,
+    "lang": "es"
+  },
+  {
+    "text": "Tierra pues casi siempre hay fuerzas.",
+    "duration": 4759,
+    "offset": 95720,
+    "lang": "es"
+  },
+  {
+    "text": "Rozamiento con el suelo, con el aire.",
+    "duration": 3359,
+    "offset": 98040,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, vale.",
+    "duration": 3000,
+    "offset": 100479,
+    "lang": "es"
+  },
+  {
+    "text": "Esas son las que frenan las cosas. La",
+    "duration": 4161,
+    "offset": 101399,
+    "lang": "es"
+  },
+  {
+    "text": "ley describe una tendencia fundamental",
+    "duration": 4000,
+    "offset": 103479,
+    "lang": "es"
+  },
+  {
+    "text": "de la materia, esa resistencia a cambiar",
+    "duration": 3919,
+    "offset": 105560,
+    "lang": "es"
+  },
+  {
+    "text": "su estado de movimiento que llamamos",
+    "duration": 4561,
+    "offset": 107479,
+    "lang": "es"
+  },
+  {
+    "text": "inercia. Y la masa, de hecho, es la",
+    "duration": 4801,
+    "offset": 109479,
+    "lang": "es"
+  },
+  {
+    "text": "medida de cuánta inercia tiene para",
+    "duration": 4399,
+    "offset": 112040,
+    "lang": "es"
+  },
+  {
+    "text": "verla en acción. digamos pura,",
+    "duration": 4240,
+    "offset": 114280,
+    "lang": "es"
+  },
+  {
+    "text": "necesitaríamos un sistema de referencia",
+    "duration": 4360,
+    "offset": 116439,
+    "lang": "es"
+  },
+  {
+    "text": "inercial, o sea, un punto de vista que",
+    "duration": 3519,
+    "offset": 118520,
+    "lang": "es"
+  },
+  {
+    "text": "no esté acelerando.",
+    "duration": 3841,
+    "offset": 120799,
+    "lang": "es"
+  },
+  {
+    "text": "¿Entendido? Entonces, si la primera ley",
+    "duration": 5601,
+    "offset": 122039,
+    "lang": "es"
+  },
+  {
+    "text": "es, \"¿Qué pasa si no hay fuerza neta?\",",
+    "duration": 5160,
+    "offset": 124640,
+    "lang": "es"
+  },
+  {
+    "text": "la segunda ley nos dice qué pasa cuando",
+    "duration": 4800,
+    "offset": 127640,
+    "lang": "es"
+  },
+  {
+    "text": "sí la hay. Justo. La segunda ley es la",
+    "duration": 5040,
+    "offset": 129800,
+    "lang": "es"
+  },
+  {
+    "text": "que pone números a la relación causa",
+    "duration": 4840,
+    "offset": 132440,
+    "lang": "es"
+  },
+  {
+    "text": "efecto. Dice que la fuerza neta sobre un",
+    "duration": 4479,
+    "offset": 134840,
+    "lang": "es"
+  },
+  {
+    "text": "objeto es igual a cómo cambia su",
+    "duration": 4160,
+    "offset": 137280,
+    "lang": "es"
+  },
+  {
+    "text": "cantidad de movimiento con el tiempo. La",
+    "duration": 4081,
+    "offset": 139319,
+    "lang": "es"
+  },
+  {
+    "text": "cantidad de movimiento es bueno, es el",
+    "duration": 4240,
+    "offset": 141440,
+    "lang": "es"
+  },
+  {
+    "text": "producto de la masa por la velocidad,",
+    "duration": 4559,
+    "offset": 143400,
+    "lang": "es"
+  },
+  {
+    "text": "una medida del impulso que lleva.",
+    "duration": 4960,
+    "offset": 145680,
+    "lang": "es"
+  },
+  {
+    "text": "Mm. Si la masa es constante, que es lo",
+    "duration": 4920,
+    "offset": 147959,
+    "lang": "es"
+  },
+  {
+    "text": "habitual en problemas básicos, llegamos",
+    "duration": 5000,
+    "offset": 150640,
+    "lang": "es"
+  },
+  {
+    "text": "a la fórmula más famosa. Fuerza neta",
+    "duration": 6041,
+    "offset": 152879,
+    "lang": "es"
+  },
+  {
+    "text": "igual a masa por aceleración. Sigma F =",
+    "duration": 7080,
+    "offset": 155640,
+    "lang": "es"
+  },
+  {
+    "text": "MA. Más fuerza implica más aceleración.",
+    "duration": 6280,
+    "offset": 158920,
+    "lang": "es"
+  },
+  {
+    "text": "Más masa, pues menos aceleración para la",
+    "duration": 3599,
+    "offset": 162720,
+    "lang": "es"
+  },
+  {
+    "text": "misma fuerza.",
+    "duration": 3240,
+    "offset": 165200,
+    "lang": "es"
+  },
+  {
+    "text": "Tiene sentido. Cuesta más empujar un",
+    "duration": 4721,
+    "offset": 166319,
+    "lang": "es"
+  },
+  {
+    "text": "camión que una bici. Y la tercera,",
+    "duration": 4680,
+    "offset": 168440,
+    "lang": "es"
+  },
+  {
+    "text": "acción, reacción.",
+    "duration": 3600,
+    "offset": 171040,
+    "lang": "es"
+  },
+  {
+    "text": "Esta esta vez trae cola.",
+    "duration": 4920,
+    "offset": 173120,
+    "lang": "es"
+  },
+  {
+    "text": "¡Uf! Sí, genera mucha confusión. La ley",
+    "duration": 7400,
+    "offset": 174640,
+    "lang": "es"
+  },
+  {
+    "text": "dice, si A empuja a B, entonces B empuja",
+    "duration": 6320,
+    "offset": 178040,
+    "lang": "es"
+  },
+  {
+    "text": "a A con la misma fuerza, pero en sentido",
+    "duration": 6080,
+    "offset": 182040,
+    "lang": "es"
+  },
+  {
+    "text": "contrario. La clave absoluta es actúan",
+    "duration": 5599,
+    "offset": 184360,
+    "lang": "es"
+  },
+  {
+    "text": "sobre cuerpos diferentes.",
+    "duration": 3360,
+    "offset": 188120,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, eso es importante",
+    "duration": 4521,
+    "offset": 189959,
+    "lang": "es"
+  },
+  {
+    "text": "muchísimo. El error típico es pensar que",
+    "duration": 5360,
+    "offset": 191480,
+    "lang": "es"
+  },
+  {
+    "text": "el peso de un libro sobre la mesa y la",
+    "duration": 4479,
+    "offset": 194480,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza que la mesa hace hacia arriba, la",
+    "duration": 5240,
+    "offset": 196840,
+    "lang": "es"
+  },
+  {
+    "text": "normal, son acción reacción. No, no. El",
+    "duration": 5681,
+    "offset": 198959,
+    "lang": "es"
+  },
+  {
+    "text": "peso es la tierra atrayendo al libro. Su",
+    "duration": 4439,
+    "offset": 202080,
+    "lang": "es"
+  },
+  {
+    "text": "reacción es el libro atrayendo a la",
+    "duration": 4400,
+    "offset": 204640,
+    "lang": "es"
+  },
+  {
+    "text": "Tierra. La normal es la mesa empujando",
+    "duration": 4561,
+    "offset": 206519,
+    "lang": "es"
+  },
+  {
+    "text": "al libro hacia arriba. Su reacción es el",
+    "duration": 4240,
+    "offset": 209040,
+    "lang": "es"
+  },
+  {
+    "text": "libro empujando a la mesa hacia abajo.",
+    "duration": 4000,
+    "offset": 211080,
+    "lang": "es"
+  },
+  {
+    "text": "Siempre son pares sobre objetos",
+    "duration": 2920,
+    "offset": 213280,
+    "lang": "es"
+  },
+  {
+    "text": "distintos.",
+    "duration": 4239,
+    "offset": 215080,
+    "lang": "es"
+  },
+  {
+    "text": "Vale, vale, quedamos claros. Sí. Y para",
+    "duration": 5399,
+    "offset": 216200,
+    "lang": "es"
+  },
+  {
+    "text": "aplicar todo esto, sobre todo la segunda",
+    "duration": 4361,
+    "offset": 219319,
+    "lang": "es"
+  },
+  {
+    "text": "ley, cuando hay varias fuerzas actuando,",
+    "duration": 3481,
+    "offset": 221599,
+    "lang": "es"
+  },
+  {
+    "text": "¿cómo nos organizamos?",
+    "duration": 3160,
+    "offset": 223680,
+    "lang": "es"
+  },
+  {
+    "text": "Pues la herramienta fundamental es el",
+    "duration": 4799,
+    "offset": 225080,
+    "lang": "es"
+  },
+  {
+    "text": "diagrama de cuerpo libre. Es eh es como",
+    "duration": 5200,
+    "offset": 226840,
+    "lang": "es"
+  },
+  {
+    "text": "hacer un croquis. Aislas el objeto que",
+    "duration": 4401,
+    "offset": 229879,
+    "lang": "es"
+  },
+  {
+    "text": "te interesa estudiar y dibujas todas las",
+    "duration": 4720,
+    "offset": 232040,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas externas que actúan sobre él. El",
+    "duration": 4799,
+    "offset": 234280,
+    "lang": "es"
+  },
+  {
+    "text": "peso, la normal, si está apoyado,",
+    "duration": 4679,
+    "offset": 236760,
+    "lang": "es"
+  },
+  {
+    "text": "tensiones, si hay cuerdas, rozamiento,",
+    "duration": 4401,
+    "offset": 239079,
+    "lang": "es"
+  },
+  {
+    "text": "como un mapa de fuerzas para ese objeto.",
+    "duration": 4681,
+    "offset": 241439,
+    "lang": "es"
+  },
+  {
+    "text": "Exacto. Es el paso esencial antes de",
+    "duration": 4759,
+    "offset": 243480,
+    "lang": "es"
+  },
+  {
+    "text": "escribir ninguna ecuación. Si el",
+    "duration": 3759,
+    "offset": 246120,
+    "lang": "es"
+  },
+  {
+    "text": "diagrama está mal, las ecuaciones",
+    "duration": 2521,
+    "offset": 248239,
+    "lang": "es"
+  },
+  {
+    "text": "saldrán mal.",
+    "duration": 2560,
+    "offset": 249879,
+    "lang": "es"
+  },
+  {
+    "text": "Has mencionado el rozamiento varias",
+    "duration": 4119,
+    "offset": 250760,
+    "lang": "es"
+  },
+  {
+    "text": "veces. Es esa fuerza que siempre está",
+    "duration": 4640,
+    "offset": 252439,
+    "lang": "es"
+  },
+  {
+    "text": "ahí molestando o ayudando.",
+    "duration": 4600,
+    "offset": 254879,
+    "lang": "es"
+  },
+  {
+    "text": "Ambas cosas, ¿eh? Sin rozamiento no",
+    "duration": 4000,
+    "offset": 257079,
+    "lang": "es"
+  },
+  {
+    "text": "podría más mi andar.",
+    "duration": 3921,
+    "offset": 259479,
+    "lang": "es"
+  },
+  {
+    "text": "surge del contacto microscópico entre",
+    "duration": 4881,
+    "offset": 261079,
+    "lang": "es"
+  },
+  {
+    "text": "superficies. Hay dos tipos principales,",
+    "duration": 5239,
+    "offset": 263400,
+    "lang": "es"
+  },
+  {
+    "text": "bueno, que distinguimos, el estático y",
+    "duration": 3400,
+    "offset": 265960,
+    "lang": "es"
+  },
+  {
+    "text": "el dinámico.",
+    "duration": 1601,
+    "offset": 268639,
+    "lang": "es"
+  },
+  {
+    "text": "A ver,",
+    "duration": 3240,
+    "offset": 269360,
+    "lang": "es"
+  },
+  {
+    "text": "el estático es el que impide que algo",
+    "duration": 5040,
+    "offset": 270240,
+    "lang": "es"
+  },
+  {
+    "text": "empiece a moverse. Si empujas un mueble",
+    "duration": 4760,
+    "offset": 272600,
+    "lang": "es"
+  },
+  {
+    "text": "pesado y no se mueve, es porque el",
+    "duration": 4359,
+    "offset": 275280,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento estático iguala a tu fuerza,",
+    "duration": 3440,
+    "offset": 277360,
+    "lang": "es"
+  },
+  {
+    "text": "pero tiene un límite.",
+    "duration": 3441,
+    "offset": 279639,
+    "lang": "es"
+  },
+  {
+    "text": "El famoso rozamiento estático máximo,",
+    "duration": 4679,
+    "offset": 280800,
+    "lang": "es"
+  },
+  {
+    "text": "ese que depende de las superficies y de",
+    "duration": 4839,
+    "offset": 283080,
+    "lang": "es"
+  },
+  {
+    "text": "cuánto se apriete en la fuerza normal.",
+    "duration": 5160,
+    "offset": 285479,
+    "lang": "es"
+  },
+  {
+    "text": "Si superas ese máximo, zas, el objeto",
+    "duration": 5041,
+    "offset": 287919,
+    "lang": "es"
+  },
+  {
+    "text": "empieza a deslizar y entonces actúa el",
+    "duration": 4201,
+    "offset": 290639,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento dinámico o cinético,",
+    "duration": 3679,
+    "offset": 292960,
+    "lang": "es"
+  },
+  {
+    "text": "que eso ser un poco menor, ¿no?",
+    "duration": 4960,
+    "offset": 294840,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, generalmente miu estático es mayor",
+    "duration": 5641,
+    "offset": 296639,
+    "lang": "es"
+  },
+  {
+    "text": "que miu dinámico, por eso cuesta más",
+    "duration": 4440,
+    "offset": 299800,
+    "lang": "es"
+  },
+  {
+    "text": "arrancar algo que mantenerlo luego en",
+    "duration": 4960,
+    "offset": 302280,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento. Y este rozamiento dinámico",
+    "duration": 5200,
+    "offset": 304240,
+    "lang": "es"
+  },
+  {
+    "text": "se opone al deslizamiento. Es más o",
+    "duration": 4040,
+    "offset": 307240,
+    "lang": "es"
+  },
+  {
+    "text": "menos constante mientras se mueve.",
+    "duration": 4920,
+    "offset": 309440,
+    "lang": "es"
+  },
+  {
+    "text": "Interesante. Y volviendo a los sistemas",
+    "duration": 5080,
+    "offset": 311280,
+    "lang": "es"
+  },
+  {
+    "text": "de referencia, hablamos de los",
+    "duration": 4000,
+    "offset": 314360,
+    "lang": "es"
+  },
+  {
+    "text": "inerciales, donde las leyes de Newton",
+    "duration": 4240,
+    "offset": 316360,
+    "lang": "es"
+  },
+  {
+    "text": "funcionan bien. Pero, ¿qué pasa si",
+    "duration": 4720,
+    "offset": 318360,
+    "lang": "es"
+  },
+  {
+    "text": "nuestro punto de vista, nuestro sistema",
+    "duration": 5200,
+    "offset": 320600,
+    "lang": "es"
+  },
+  {
+    "text": "está acelerando como en un ascensor?",
+    "duration": 4959,
+    "offset": 323080,
+    "lang": "es"
+  },
+  {
+    "text": "Pues ahí entramos en los sistemas no",
+    "duration": 6000,
+    "offset": 325800,
+    "lang": "es"
+  },
+  {
+    "text": "inerciales y las cosas se sienten raras.",
+    "duration": 5561,
+    "offset": 328039,
+    "lang": "es"
+  },
+  {
+    "text": "Desde dentro de un ascensor que acelera",
+    "duration": 3720,
+    "offset": 331800,
+    "lang": "es"
+  },
+  {
+    "text": "hacia arriba, por ejemplo, parece que",
+    "duration": 4480,
+    "offset": 333600,
+    "lang": "es"
+  },
+  {
+    "text": "pesamos más. Si pusiéramos una báscula,",
+    "duration": 4679,
+    "offset": 335520,
+    "lang": "es"
+  },
+  {
+    "text": "marcaría más que nuestro peso real.",
+    "duration": 4640,
+    "offset": 338080,
+    "lang": "es"
+  },
+  {
+    "text": "Sientes como aplastado contra el suelo.",
+    "duration": 4801,
+    "offset": 340199,
+    "lang": "es"
+  },
+  {
+    "text": "Eso es. Y se acelera hacia abajo al",
+    "duration": 4960,
+    "offset": 342720,
+    "lang": "es"
+  },
+  {
+    "text": "revés. Nos sentimos más ligeros. La",
+    "duration": 5440,
+    "offset": 345000,
+    "lang": "es"
+  },
+  {
+    "text": "báscula marcaría menos. Técnicamente lo",
+    "duration": 5239,
+    "offset": 347680,
+    "lang": "es"
+  },
+  {
+    "text": "que cambia es la fuerza normal, la que",
+    "duration": 3680,
+    "offset": 350440,
+    "lang": "es"
+  },
+  {
+    "text": "hace el suelo sobre nosotros",
+    "duration": 4000,
+    "offset": 352919,
+    "lang": "es"
+  },
+  {
+    "text": "y el caso extremo, la caída libre.",
+    "duration": 4880,
+    "offset": 354120,
+    "lang": "es"
+  },
+  {
+    "text": "Si se rompieran los cables, el ascensor",
+    "duration": 3761,
+    "offset": 356919,
+    "lang": "es"
+  },
+  {
+    "text": "y nosotros caeríamos con la misma",
+    "duration": 4520,
+    "offset": 359000,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración, la de la gravedad. G. La",
+    "duration": 5480,
+    "offset": 360680,
+    "lang": "es"
+  },
+  {
+    "text": "normal sería cero. Estaríamos flotando",
+    "duration": 4200,
+    "offset": 363520,
+    "lang": "es"
+  },
+  {
+    "text": "dentro del ascensor.",
+    "duration": 3080,
+    "offset": 366160,
+    "lang": "es"
+  },
+  {
+    "text": "Ingravidez aparente.",
+    "duration": 4080,
+    "offset": 367720,
+    "lang": "es"
+  },
+  {
+    "text": "Exacto. Aunque la gravedad sigue tirando",
+    "duration": 4840,
+    "offset": 369240,
+    "lang": "es"
+  },
+  {
+    "text": "de nosotros, pero como el suelo, el",
+    "duration": 5080,
+    "offset": 371800,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de referencia, cae a la vez, no",
+    "duration": 5200,
+    "offset": 374080,
+    "lang": "es"
+  },
+  {
+    "text": "sentimos el peso de la forma habitual.",
+    "duration": 3879,
+    "offset": 376880,
+    "lang": "es"
+  },
+  {
+    "text": "Es el sistema el que complica la",
+    "duration": 4359,
+    "offset": 379280,
+    "lang": "es"
+  },
+  {
+    "text": "aplicación directa de f = m. Habría que",
+    "duration": 5401,
+    "offset": 380759,
+    "lang": "es"
+  },
+  {
+    "text": "introducir, bueno, las llamadas fuerzas",
+    "duration": 5081,
+    "offset": 383639,
+    "lang": "es"
+  },
+  {
+    "text": "ficticias, pero eso es otra historia.",
+    "duration": 5159,
+    "offset": 386160,
+    "lang": "es"
+  },
+  {
+    "text": "¿Entendido? Entonces, resumiendo un",
+    "duration": 4680,
+    "offset": 388720,
+    "lang": "es"
+  },
+  {
+    "text": "poco, la cinemática nos cuenta la",
+    "duration": 4841,
+    "offset": 391319,
+    "lang": "es"
+  },
+  {
+    "text": "película del movimiento. ¿Cómo es la",
+    "duration": 5199,
+    "offset": 393400,
+    "lang": "es"
+  },
+  {
+    "text": "dinámica? Eh, con Newton al mando nos",
+    "duration": 4319,
+    "offset": 396160,
+    "lang": "es"
+  },
+  {
+    "text": "explica el guion, las fuerzas que lo",
+    "duration": 4481,
+    "offset": 398599,
+    "lang": "es"
+  },
+  {
+    "text": "causan. Hemos tocado el rozamiento, esa",
+    "duration": 4720,
+    "offset": 400479,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza tan presente, y cómo nuestra",
+    "duration": 3920,
+    "offset": 403080,
+    "lang": "es"
+  },
+  {
+    "text": "propia aceleración cambia la película",
+    "duration": 4161,
+    "offset": 405199,
+    "lang": "es"
+  },
+  {
+    "text": "que vemos. Son conceptos que parecen",
+    "duration": 4440,
+    "offset": 407000,
+    "lang": "es"
+  },
+  {
+    "text": "básicos, pero están detrás de casi todo",
+    "duration": 4239,
+    "offset": 409360,
+    "lang": "es"
+  },
+  {
+    "text": "lo que se mueve a nuestro alrededor,",
+    "duration": 4319,
+    "offset": 411440,
+    "lang": "es"
+  },
+  {
+    "text": "desde cómo diseñar un coche seguro,",
+    "duration": 4641,
+    "offset": 413599,
+    "lang": "es"
+  },
+  {
+    "text": "calcular la órbita de un satélite o",
+    "duration": 5000,
+    "offset": 415759,
+    "lang": "es"
+  },
+  {
+    "text": "simplemente entender por qué notamos ese",
+    "duration": 4480,
+    "offset": 418240,
+    "lang": "es"
+  },
+  {
+    "text": "vuelco en el estómago, en un ascensor.",
+    "duration": 4601,
+    "offset": 420759,
+    "lang": "es"
+  },
+  {
+    "text": "Y quizá como reflexión final, estas",
+    "duration": 4759,
+    "offset": 422720,
+    "lang": "es"
+  },
+  {
+    "text": "leyes de Newton son increíblemente",
+    "duration": 3920,
+    "offset": 425360,
+    "lang": "es"
+  },
+  {
+    "text": "potentes para describir nuestro mundo",
+    "duration": 4560,
+    "offset": 427479,
+    "lang": "es"
+  },
+  {
+    "text": "macroscópico el día a día. Pero, ¿qué",
+    "duration": 5000,
+    "offset": 429280,
+    "lang": "es"
+  },
+  {
+    "text": "pasa si nos vamos a los extremos?",
+    "duration": 4961,
+    "offset": 432039,
+    "lang": "es"
+  },
+  {
+    "text": "Velocidades cercanas a la de la luz o el",
+    "duration": 5199,
+    "offset": 434280,
+    "lang": "es"
+  },
+  {
+    "text": "mundo diminuto de los átomos. Ahí la",
+    "duration": 5479,
+    "offset": 437000,
+    "lang": "es"
+  },
+  {
+    "text": "física clásica se queda corta y bueno,",
+    "duration": 5201,
+    "offset": 439479,
+    "lang": "es"
+  },
+  {
+    "text": "empieza otra aventura fascinante.",
+    "duration": 4801,
+    "offset": 442479,
+    "lang": "es"
+  },
+  {
+    "text": "Efectivamente, pero esa, como dices, es",
+    "duration": 4280,
+    "offset": 444680,
+    "lang": "es"
+  },
+  {
+    "text": "materia para otra charla.",
+    "duration": 3560,
+    "offset": 447280,
+    "lang": "es"
+  },
+  {
+    "text": "Pues lo dejamos aquí por hoy. Ha sido",
+    "duration": 4280,
+    "offset": 448960,
+    "lang": "es"
+  },
+  {
+    "text": "una exploración muy interesante. Hasta",
+    "duration": 5840,
+    "offset": 450840,
+    "lang": "es"
+  },
+  {
+    "text": "la próxima. Hasta la próxima.",
+    "duration": 3440,
+    "offset": 453240,
+    "lang": "es"
+  }
+]

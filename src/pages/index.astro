@@ -9,15 +9,25 @@ export const prerender = false;
 const lastSyncObj = await getLastSync();
 let lastSync = lastSyncObj?.timestamp || null;
 
+const apiKey = import.meta.env?.YOUTUBE_API_KEY || process.env.YOUTUBE_API_KEY;
+const hasApiKey = apiKey && apiKey.trim() !== '';
+const isVercel = !!(process.env.VERCEL || import.meta.env?.VERCEL);
+
 if (!lastSync || await isSyncNeeded()) {
-  try {
-    console.log('Triggering auto-sync on page load...');
-    const syncResult = await syncCatalog({ force: false });
-    if (syncResult && !syncResult.skipped) {
-      lastSync = syncResult.timestamp;
+  if (isVercel) {
+    console.log('Running on Vercel. Bypassing auto-sync on page load to prevent read-only filesystem errors.');
+  } else if (hasApiKey) {
+    try {
+      console.log('Triggering auto-sync on page load...');
+      const syncResult = await syncCatalog({ force: false });
+      if (syncResult && !syncResult.skipped) {
+        lastSync = syncResult.timestamp;
+      }
+    } catch (error) {
+      console.error('Failed to auto-sync on page load:', error);
     }
-  } catch (error) {
-    console.error('Failed to auto-sync on page load:', error);
+  } else {
+    console.warn('Auto-sync skipped: YOUTUBE_API_KEY is not defined or is empty in .env. Using local offline data.');
   }
 }
 
@@ -73,7 +83,7 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
       {channels.map(channel => (
         <a href={`/channels/${channel.id}`} class="channel-card">
           <div class="channel-avatar-wrapper">
-            <img src={channel.thumbnail} alt={channel.title} class="channel-avatar" />
+            <img src={channel.thumbnail} alt={channel.title} class="channel-avatar" referrerpolicy="no-referrer" />
           </div>
           <div class="channel-info">
             <h3 class="channel-name">{channel.title}</h3>
@@ -116,6 +126,14 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
         />
         <span class="search-icon" id="search-indicator">🔍</span>
       </div>
+      
+      <!-- Content/Transcript Search Option (only shown for Semantic Search) -->
+      <div id="transcript-toggle-wrapper" class="transcript-toggle-wrapper hidden">
+        <label class="switch-label">
+          <input type="checkbox" id="search-transcript-checkbox" />
+          Buscar en el contenido hablado (transcripciones de los videos)
+        </label>
+      </div>
     </div>
 
     <!-- Tags Filter (only visible in Keyword Search mode) -->
@@ -152,7 +170,7 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
           >
             <a href={`/videos/${video.id}`} class="video-card">
               <div class="video-thumbnail-wrapper">
-                <img src={video.thumbnail || '/placeholder.jpg'} alt={video.title} class="video-thumbnail" loading="lazy" />
+                <img src={video.thumbnail || '/placeholder.jpg'} alt={video.title} class="video-thumbnail" loading="lazy" referrerpolicy="no-referrer" />
                 <span class="video-duration">{video.duration}</span>
                 <span class="play-overlay-icon">▶</span>
               </div>
@@ -201,6 +219,8 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
   const tagPills = document.querySelectorAll('.tag-pill');
   const emptyState = document.getElementById('empty-state');
   const lowRelevanceWarning = document.getElementById('low-relevance-warning');
+  const transcriptToggleWrapper = document.getElementById('transcript-toggle-wrapper');
+  const searchTranscriptCheckbox = document.getElementById('search-transcript-checkbox') as HTMLInputElement;
   
   // Grids
   const keywordGrid = document.getElementById('keyword-videos-grid');
@@ -235,6 +255,7 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
       semanticGrid.classList.add('hidden');
       if (semanticLoading) semanticLoading.classList.add('hidden');
       if (lowRelevanceWarning) lowRelevanceWarning.classList.add('hidden');
+      if (transcriptToggleWrapper) transcriptToggleWrapper.classList.add('hidden');
       searchInput.placeholder = "Buscar videos por título, descripción o etiqueta...";
       searchInput.value = '';
       currentSearch = '';
@@ -250,10 +271,17 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
       semanticGrid.classList.remove('hidden');
       if (emptyState) emptyState.classList.add('hidden');
       if (lowRelevanceWarning) lowRelevanceWarning.classList.add('hidden');
+      if (transcriptToggleWrapper) transcriptToggleWrapper.classList.remove('hidden');
       searchInput.placeholder = "Haz una consulta semántica al catálogo (ej: 'proyectos de IA y agentes' o 'tutoriales sobre física')...";
       searchInput.value = '';
       currentSearch = '';
       renderSemanticEmpty();
+    });
+  }
+
+  if (searchTranscriptCheckbox && searchInput) {
+    searchTranscriptCheckbox.addEventListener('change', () => {
+      executeSemanticSearch(searchInput.value.trim());
     });
   }
 
@@ -303,8 +331,12 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
       emptyState.classList.remove('hidden');
       const title = emptyState.querySelector('.empty-title');
       const desc = emptyState.querySelector('.empty-desc');
-      if (title) title.textContent = "Búsqueda Semántica con IA local";
-      if (desc) desc.textContent = "Escribe una pregunta o tema de interés sobre educación, inteligencia artificial, Nocode o programación para buscar por su significado conceptual.";
+      const searchTranscript = searchTranscriptCheckbox?.checked || false;
+
+      if (title) title.textContent = searchTranscript ? "Búsqueda Semántica por Contenido Hablado" : "Búsqueda Semántica con IA local";
+      if (desc) desc.textContent = searchTranscript ? 
+        "Escribe una frase o tema que se mencione en los videos (ej: 'cómo usar Home Assistant' o 'instalación de moodle') para buscar directamente lo que se dice dentro de ellos." : 
+        "Escribe una pregunta o tema de interés sobre educación, inteligencia artificial, Nocode o programación para buscar por su significado conceptual.";
     }
   }
 
@@ -324,8 +356,11 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
       searchIndicator.classList.add('loading-spin');
     }
 
+    const searchTranscript = searchTranscriptCheckbox?.checked || false;
+    const mode = searchTranscript ? 'content' : 'concept';
+
     try {
-      const response = await fetch(`/api/semantic-search?q=${encodeURIComponent(query)}`);
+      const response = await fetch(`/api/semantic-search?q=${encodeURIComponent(query)}&mode=${mode}`);
       const data = await response.json();
       
       if (semanticLoading) semanticLoading.classList.add('hidden');
@@ -337,7 +372,7 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
       if (data.success && data.results && data.results.length > 0) {
         // Evaluate similarity threshold
         const highestSimilarity = data.results[0].similarity;
-        if (highestSimilarity < 0.6) {
+        if (highestSimilarity < (searchTranscript ? 0.35 : 0.6)) {
           if (lowRelevanceWarning) lowRelevanceWarning.classList.remove('hidden');
         } else {
           if (lowRelevanceWarning) lowRelevanceWarning.classList.add('hidden');
@@ -361,7 +396,7 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
                 <div class="video-card-wrapper">
                   <a href="/videos/${concept.id}" class="video-card">
                     <div class="video-thumbnail-wrapper">
-                      <img src="${concept.thumbnail || '/placeholder.jpg'}" alt="${escapedTitle}" class="video-thumbnail" loading="lazy" />
+                      <img src="${concept.thumbnail || '/placeholder.jpg'}" alt="${escapedTitle}" class="video-thumbnail" loading="lazy" referrerpolicy="no-referrer" />
                       <span class="video-duration">${concept.duration}</span>
                       <span class="similarity-score-badge" style="background-color: ${scoreColor}">${similarityPercent}% coincidencia</span>
                       <span class="play-overlay-icon">▶</span>
@@ -386,7 +421,7 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
                 <div class="video-card-wrapper">
                   <a href="/channels/${concept.id}" class="video-card channel-result-card">
                     <div class="video-thumbnail-wrapper channel-vector-avatar">
-                      <img src="${concept.thumbnail || '/placeholder.jpg'}" alt="${escapedTitle}" class="video-thumbnail channel-round-avatar" loading="lazy" />
+                      <img src="${concept.thumbnail || '/placeholder.jpg'}" alt="${escapedTitle}" class="video-thumbnail channel-round-avatar" loading="lazy" referrerpolicy="no-referrer" />
                       <span class="similarity-score-badge" style="background-color: ${scoreColor}">${similarityPercent}% coincidencia</span>
                     </div>
                     <div class="video-card-content">
@@ -402,6 +437,40 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
                       </div>
                     </div>
                   </a>
+                </div>
+              `;
+            } else if (result.type === 'segment') {
+              const segment = result.segment;
+              return `
+                <div class="video-card-wrapper transcript-result-card">
+                  <div class="video-card">
+                    <div class="video-thumbnail-wrapper">
+                      <img src="${concept.thumbnail || '/placeholder.jpg'}" alt="${escapedTitle}" class="video-thumbnail" loading="lazy" referrerpolicy="no-referrer" />
+                      <span class="video-duration">${concept.duration}</span>
+                      <span class="similarity-score-badge" style="background-color: ${scoreColor}">${similarityPercent}% coincidencia</span>
+                      <a href="/videos/${concept.id}?t=${segment.start}" class="play-overlay-icon" style="text-decoration: none;">▶</a>
+                    </div>
+                    <div class="video-card-content">
+                      <div class="concept-badge-row">
+                        <span class="video-channel-tag">${escapeHtml(concept.channel_title)}</span>
+                        <span class="okf-concept-tag transcript-tag">🗣 Contenido Hablado</span>
+                      </div>
+                      <a href="/videos/${concept.id}?t=${segment.start}" class="video-title-link">
+                        <h3 class="video-title" title="${escapedTitle}">${escapedTitle}</h3>
+                      </a>
+                      
+                      <!-- Speaking snippet -->
+                      <div class="transcript-snippet-box">
+                        <p class="transcript-snippet">"...${escapeHtml(segment.text)}..."</p>
+                      </div>
+                      
+                      <div class="segment-action-row">
+                        <a href="/videos/${concept.id}?t=${segment.start}" class="segment-time-badge">
+                          <span>⏱</span> Ir al minuto ${segment.formattedStart}
+                        </a>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               `;
             }
@@ -1017,5 +1086,107 @@ const topTags = Array.from(allTagsSet).slice(0, 12);
       flex: 1;
       justify-content: center;
     }
+  }
+
+  /* Transcript search UI styles */
+  .transcript-toggle-wrapper {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding-left: 0.5rem;
+    animation: fadeIn 0.2s ease;
+  }
+
+  .switch-label {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    cursor: pointer;
+    user-select: none;
+    transition: color var(--transition-fast);
+  }
+
+  .switch-label:hover {
+    color: var(--text-primary);
+  }
+
+  .switch-label input {
+    cursor: pointer;
+    accent-color: var(--accent-purple);
+    width: 1.15rem;
+    height: 1.15rem;
+  }
+
+  .okf-concept-tag.transcript-tag {
+    background-color: var(--accent-purple-glow);
+    border: 1px solid rgba(139, 92, 246, 0.2);
+    color: var(--accent-purple);
+  }
+
+  .transcript-snippet-box {
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 0.75rem;
+    margin: 0.75rem 0;
+    font-size: 0.85rem;
+    line-height: 1.5;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+  }
+
+  .transcript-snippet {
+    color: var(--text-secondary);
+    font-style: italic;
+    margin: 0 !important;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .segment-action-row {
+    margin-top: auto;
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .segment-time-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    background-color: var(--accent-purple-glow);
+    border: 1px solid rgba(139, 92, 246, 0.2);
+    color: var(--accent-purple);
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 0.35rem 0.75rem;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: background-color var(--transition-fast), border-color var(--transition-fast);
+  }
+
+  .segment-time-badge:hover {
+    background-color: var(--accent-purple);
+    color: #fff;
+    border-color: var(--accent-purple);
+  }
+
+  .video-title-link {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .video-title-link:hover .video-title {
+    color: var(--accent-purple);
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-5px); }
+    to { opacity: 1; transform: translateY(0); }
   }
 </style>

@@ -1,0 +1,356 @@
+[
+  {
+    "text": "vamos a utilizar un agente de lang Chain",
+    "duration": 5680,
+    "offset": 1520,
+    "lang": "es"
+  },
+  {
+    "text": "y vamos a ver la importancia de el uso",
+    "duration": 3881,
+    "offset": 4359,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 3760,
+    "offset": 7200,
+    "lang": "es"
+  },
+  {
+    "text": "llm cuando utilizamos",
+    "duration": 6920,
+    "offset": 8240,
+    "lang": "es"
+  },
+  {
+    "text": "agentes vamos a definir un llm que es",
+    "duration": 8680,
+    "offset": 10960,
+    "lang": "es"
+  },
+  {
+    "text": "gemini 1.5 Y también vamos a usar tabili",
+    "duration": 8039,
+    "offset": 15160,
+    "lang": "es"
+  },
+  {
+    "text": "que es un search engine especialmente",
+    "duration": 7799,
+    "offset": 19640,
+    "lang": "es"
+  },
+  {
+    "text": "diseñado para utilizar con agentes o con",
+    "duration": 6920,
+    "offset": 23199,
+    "lang": "es"
+  },
+  {
+    "text": "sistemas de Inteligencia artificial cuál",
+    "duration": 4761,
+    "offset": 27439,
+    "lang": "es"
+  },
+  {
+    "text": "es el objetivo de lo que vamos a hacer",
+    "duration": 6120,
+    "offset": 30119,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a hacer una búsqueda en internet o",
+    "duration": 6359,
+    "offset": 32200,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a resolver operaciones",
+    "duration": 6561,
+    "offset": 36239,
+    "lang": "es"
+  },
+  {
+    "text": "Matemáticas vamos entonces a definir dos",
+    "duration": 6761,
+    "offset": 38559,
+    "lang": "es"
+  },
+  {
+    "text": "Tools un mat tool que es el que realiza",
+    "duration": 5720,
+    "offset": 42800,
+    "lang": "es"
+  },
+  {
+    "text": "las operaciones Matemáticas y después",
+    "duration": 5879,
+    "offset": 45320,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a definir un Search",
+    "duration": 6719,
+    "offset": 48520,
+    "lang": "es"
+  },
+  {
+    "text": "tool que es el que realiza las",
+    "duration": 5801,
+    "offset": 51199,
+    "lang": "es"
+  },
+  {
+    "text": "operaciones de búsqueda",
+    "duration": 5201,
+    "offset": 55239,
+    "lang": "es"
+  },
+  {
+    "text": "contabili Este es el Search tool que es",
+    "duration": 5320,
+    "offset": 57000,
+    "lang": "es"
+  },
+  {
+    "text": "el que realiza las este operaciones de",
+    "duration": 4999,
+    "offset": 60440,
+    "lang": "es"
+  },
+  {
+    "text": "búsqueda contabili y este es el mat tool",
+    "duration": 4280,
+    "offset": 62320,
+    "lang": "es"
+  },
+  {
+    "text": "que es el que va a realizar las",
+    "duration": 4601,
+    "offset": 65439,
+    "lang": "es"
+  },
+  {
+    "text": "operaciones Matemáticas cuando definimos",
+    "duration": 6879,
+    "offset": 66600,
+    "lang": "es"
+  },
+  {
+    "text": "los Tools que vamos a usar le ponemos un",
+    "duration": 6880,
+    "offset": 70040,
+    "lang": "es"
+  },
+  {
+    "text": "nombre y hay algo muy importante acá",
+    "duration": 5481,
+    "offset": 73479,
+    "lang": "es"
+  },
+  {
+    "text": "definimos Qué es la función que se va a",
+    "duration": 6440,
+    "offset": 76920,
+    "lang": "es"
+  },
+  {
+    "text": "usar acá ma tool o Search Ram por eso a",
+    "duration": 6040,
+    "offset": 78960,
+    "lang": "es"
+  },
+  {
+    "text": "veces tan importante es el uso de",
+    "duration": 4759,
+    "offset": 83360,
+    "lang": "es"
+  },
+  {
+    "text": "decoradores eh cuando trabajamos con",
+    "duration": 6880,
+    "offset": 85000,
+    "lang": "es"
+  },
+  {
+    "text": "agentes y acá ponemos la descripción es",
+    "duration": 5921,
+    "offset": 88119,
+    "lang": "es"
+  },
+  {
+    "text": "importante la descripción Sí es",
+    "duration": 5760,
+    "offset": 91880,
+    "lang": "es"
+  },
+  {
+    "text": "importantísima por qué Porque el el llm",
+    "duration": 6359,
+    "offset": 94040,
+    "lang": "es"
+  },
+  {
+    "text": "que estamos usando que es grock que es",
+    "duration": 5920,
+    "offset": 97640,
+    "lang": "es"
+  },
+  {
+    "text": "el alma de la gente va a decidir qué",
+    "duration": 6961,
+    "offset": 100399,
+    "lang": "es"
+  },
+  {
+    "text": "tool usar en función de la description",
+    "duration": 5599,
+    "offset": 103560,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene cada uno de los Tools y en",
+    "duration": 3719,
+    "offset": 107360,
+    "lang": "es"
+  },
+  {
+    "text": "función del prompt que le hace el",
+    "duration": 4721,
+    "offset": 109159,
+    "lang": "es"
+  },
+  {
+    "text": "usuario miren lo vamos a hacer correr",
+    "duration": 5360,
+    "offset": 111079,
+    "lang": "es"
+  },
+  {
+    "text": "acá tenemos estos prompts que pusimos a",
+    "duration": 6480,
+    "offset": 113880,
+    "lang": "es"
+  },
+  {
+    "text": "mano cuando le preguntamos cosas",
+    "duration": 5680,
+    "offset": 116439,
+    "lang": "es"
+  },
+  {
+    "text": "como el precio del dólar en Argentina",
+    "duration": 3480,
+    "offset": 120360,
+    "lang": "es"
+  },
+  {
+    "text": "Cuál es el centro de masa de un cuerpo",
+    "duration": 5121,
+    "offset": 122119,
+    "lang": "es"
+  },
+  {
+    "text": "rígido lo busca en la web utilizando el",
+    "duration": 6279,
+    "offset": 123840,
+    "lang": "es"
+  },
+  {
+    "text": "Search tool a través de tabl y cuando",
+    "duration": 4920,
+    "offset": 127240,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos preguntas o operaciones",
+    "duration": 5120,
+    "offset": 130119,
+    "lang": "es"
+  },
+  {
+    "text": "Matemáticas directamente lo responde",
+    "duration": 7439,
+    "offset": 132160,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando el el mat tool pero vieron",
+    "duration": 9280,
+    "offset": 135239,
+    "lang": "es"
+  },
+  {
+    "text": "como el alma de la gente es el llm y el",
+    "duration": 8201,
+    "offset": 139599,
+    "lang": "es"
+  },
+  {
+    "text": "llm y la correcta description ayuda a",
+    "duration": 5921,
+    "offset": 144519,
+    "lang": "es"
+  },
+  {
+    "text": "elegir tool esto Qué significa",
+    "duration": 5079,
+    "offset": 147800,
+    "lang": "es"
+  },
+  {
+    "text": "que nosotros podríamos tener muchos",
+    "duration": 5920,
+    "offset": 150440,
+    "lang": "es"
+  },
+  {
+    "text": "agentes muchos Tools distintas tareas y",
+    "duration": 6961,
+    "offset": 152879,
+    "lang": "es"
+  },
+  {
+    "text": "el llm orquestar todo para poder",
+    "duration": 4640,
+    "offset": 156360,
+    "lang": "es"
+  },
+  {
+    "text": "realizar",
+    "duration": 3759,
+    "offset": 159840,
+    "lang": "es"
+  },
+  {
+    "text": "directamente esas tareas un montón de",
+    "duration": 5159,
+    "offset": 161000,
+    "lang": "es"
+  },
+  {
+    "text": "tareas que son tal vez repetitivas a",
+    "duration": 4321,
+    "offset": 163599,
+    "lang": "es"
+  },
+  {
+    "text": "donde yo simplemente puedo escribirle",
+    "duration": 4321,
+    "offset": 166159,
+    "lang": "es"
+  },
+  {
+    "text": "prompts o cosas declarativas y el agente",
+    "duration": 6840,
+    "offset": 167920,
+    "lang": "es"
+  },
+  {
+    "text": "iría haciendo todo por mí",
+    "duration": 4280,
+    "offset": 170480,
+    "lang": "es"
+  }
+]

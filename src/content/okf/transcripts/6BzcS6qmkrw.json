@@ -1,0 +1,410 @@
+[
+  {
+    "text": "Vamos a mostrar cómo podemos utilizar el",
+    "duration": 5399,
+    "offset": 1360,
+    "lang": "es"
+  },
+  {
+    "text": "MCP, el servicio de MCP Server para",
+    "duration": 4921,
+    "offset": 4359,
+    "lang": "es"
+  },
+  {
+    "text": "acceder a la AP de",
+    "duration": 7161,
+    "offset": 6759,
+    "lang": "es"
+  },
+  {
+    "text": "Moodle. En principio acá tenemos un MCP",
+    "duration": 7839,
+    "offset": 9280,
+    "lang": "es"
+  },
+  {
+    "text": "server de ejemplo que creamos dentro del",
+    "duration": 5519,
+    "offset": 13920,
+    "lang": "es"
+  },
+  {
+    "text": "entorno V. Acá tenemos un tool que es",
+    "duration": 5561,
+    "offset": 17119,
+    "lang": "es"
+  },
+  {
+    "text": "para sumar números y acá tenemos el tool",
+    "duration": 5680,
+    "offset": 19439,
+    "lang": "es"
+  },
+  {
+    "text": "que es para conectarse y ver los eventos",
+    "duration": 6400,
+    "offset": 22680,
+    "lang": "es"
+  },
+  {
+    "text": "de el calendario de Moodle. Entonces, lo",
+    "duration": 5441,
+    "offset": 25119,
+    "lang": "es"
+  },
+  {
+    "text": "primero que vamos a hacer es con el",
+    "duration": 3840,
+    "offset": 29080,
+    "lang": "es"
+  },
+  {
+    "text": "inspector probar, con el MSP inspector",
+    "duration": 5159,
+    "offset": 30560,
+    "lang": "es"
+  },
+  {
+    "text": "probar a ver si",
+    "duration": 2799,
+    "offset": 32920,
+    "lang": "es"
+  },
+  {
+    "text": "funciona. Acá vemos que",
+    "duration": 7121,
+    "offset": 36559,
+    "lang": "es"
+  },
+  {
+    "text": "levantó, lo conectamos. Ahí vemos que se",
+    "duration": 6879,
+    "offset": 40520,
+    "lang": "es"
+  },
+  {
+    "text": "conectó. Vamos a tools, list tools. Acá",
+    "duration": 6960,
+    "offset": 43680,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos get mood elevens, run tools. Y,",
+    "duration": 5881,
+    "offset": 47399,
+    "lang": "es"
+  },
+  {
+    "text": "evidentemente acá, evidentemente acá sí",
+    "duration": 5360,
+    "offset": 50640,
+    "lang": "es"
+  },
+  {
+    "text": "funcionó y nos trajo lo que queríamos.",
+    "duration": 4640,
+    "offset": 53280,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora, ¿qué es lo que pasa? Esto lo",
+    "duration": 5239,
+    "offset": 56000,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que configurar",
+    "duration": 6919,
+    "offset": 57920,
+    "lang": "es"
+  },
+  {
+    "text": "en el MCP. Lo tenemos que configurar en",
+    "duration": 6200,
+    "offset": 61239,
+    "lang": "es"
+  },
+  {
+    "text": "el MCP de Visual Studio para poder",
+    "duration": 4640,
+    "offset": 64839,
+    "lang": "es"
+  },
+  {
+    "text": "usarlo con el agente de Visual Studio.",
+    "duration": 3121,
+    "offset": 67439,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a",
+    "duration": 4320,
+    "offset": 69479,
+    "lang": "es"
+  },
+  {
+    "text": "File, vamos a",
+    "duration": 7199,
+    "offset": 70560,
+    "lang": "es"
+  },
+  {
+    "text": "Preferenci settings, ponemos",
+    "duration": 6801,
+    "offset": 73799,
+    "lang": "es"
+  },
+  {
+    "text": "MCP, vamos a editar settings y",
+    "duration": 7000,
+    "offset": 77759,
+    "lang": "es"
+  },
+  {
+    "text": "configuramos acá de esta manera el MCP",
+    "duration": 6920,
+    "offset": 80600,
+    "lang": "es"
+  },
+  {
+    "text": "Server que levantamos recién. Fíjense",
+    "duration": 5761,
+    "offset": 84759,
+    "lang": "es"
+  },
+  {
+    "text": "que esta es una API de Moodle. Vamos a",
+    "duration": 6080,
+    "offset": 87520,
+    "lang": "es"
+  },
+  {
+    "text": "ver acá en la página",
+    "duration": 3080,
+    "offset": 90520,
+    "lang": "es"
+  },
+  {
+    "text": "principal a buscar los e eventos de",
+    "duration": 5920,
+    "offset": 94159,
+    "lang": "es"
+  },
+  {
+    "text": "calendario. Acá tenemos vemos que",
+    "duration": 5760,
+    "offset": 102920,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos un evento del calendario que es",
+    "duration": 7839,
+    "offset": 105640,
+    "lang": "es"
+  },
+  {
+    "text": "probar el server el 20 de mayo. Entonces",
+    "duration": 7439,
+    "offset": 108680,
+    "lang": "es"
+  },
+  {
+    "text": "ahora lo que vamos a hacer es vamos a",
+    "duration": 6201,
+    "offset": 113479,
+    "lang": "es"
+  },
+  {
+    "text": "abrir el chat.",
+    "duration": 3561,
+    "offset": 116119,
+    "lang": "es"
+  },
+  {
+    "text": "y le vamos a decir si vamos",
+    "duration": 7080,
+    "offset": 120200,
+    "lang": "es"
+  },
+  {
+    "text": "aar las herramientas.",
+    "duration": 6201,
+    "offset": 124079,
+    "lang": "es"
+  },
+  {
+    "text": "Podés",
+    "duration": 3000,
+    "offset": 127280,
+    "lang": "es"
+  },
+  {
+    "text": "fijarte los",
+    "duration": 7480,
+    "offset": 133160,
+    "lang": "es"
+  },
+  {
+    "text": "eventos del calendario de",
+    "duration": 7599,
+    "offset": 135920,
+    "lang": "es"
+  },
+  {
+    "text": "Moodle. Y ahí le pedimos que se fije los",
+    "duration": 5040,
+    "offset": 140640,
+    "lang": "es"
+  },
+  {
+    "text": "eventos del calendario de Moodle. va a",
+    "duration": 4401,
+    "offset": 143519,
+    "lang": "es"
+  },
+  {
+    "text": "ir a usar la herramienta en MCP que",
+    "duration": 5040,
+    "offset": 145680,
+    "lang": "es"
+  },
+  {
+    "text": "cargamos recién y nos va a mostrar.",
+    "duration": 5480,
+    "offset": 147920,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a ver,",
+    "duration": 2680,
+    "offset": 150720,
+    "lang": "es"
+  },
+  {
+    "text": "ahora dice que ahí lo va a hacer con esa",
+    "duration": 7079,
+    "offset": 153440,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta. ¿Quieres que te muestre un",
+    "duration": 7360,
+    "offset": 157760,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo? Sí. Ah, perdón. Habría que",
+    "duration": 5481,
+    "offset": 160519,
+    "lang": "es"
+  },
+  {
+    "text": "hacer",
+    "duration": 5560,
+    "offset": 165120,
+    "lang": "es"
+  },
+  {
+    "text": "un eh restar del",
+    "duration": 4680,
+    "offset": 166000,
+    "lang": "es"
+  },
+  {
+    "text": "servidor porque habíamos cambiado el",
+    "duration": 4280,
+    "offset": 173440,
+    "lang": "es"
+  },
+  {
+    "text": "código, así que teníamos una sola",
+    "duration": 5680,
+    "offset": 175760,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta. Le decimos que lo pruebe",
+    "duration": 3720,
+    "offset": 177720,
+    "lang": "es"
+  },
+  {
+    "text": "ahora. Ahí dice que se va a conectar. Le",
+    "duration": 4761,
+    "offset": 182239,
+    "lang": "es"
+  },
+  {
+    "text": "decimos que continúe. Ahí nos muestra",
+    "duration": 4401,
+    "offset": 184879,
+    "lang": "es"
+  },
+  {
+    "text": "que se conectó usando el MSP Server. Y",
+    "duration": 4680,
+    "offset": 187000,
+    "lang": "es"
+  },
+  {
+    "text": "dice que sí. ¿Ven? probar el server que",
+    "duration": 5080,
+    "offset": 189280,
+    "lang": "es"
+  },
+  {
+    "text": "instaló Valladares 20 de mayo a las",
+    "duration": 5360,
+    "offset": 191680,
+    "lang": "es"
+  },
+  {
+    "text": "15:46 y acá, bueno, si queremos ir al",
+    "duration": 4519,
+    "offset": 194360,
+    "lang": "es"
+  },
+  {
+    "text": "evento si te gustaría más detalles, pero",
+    "duration": 3759,
+    "offset": 197040,
+    "lang": "es"
+  },
+  {
+    "text": "ven como acá directamente",
+    "duration": 6080,
+    "offset": 198879,
+    "lang": "es"
+  },
+  {
+    "text": "desde un LLM nos conectamos acá de la",
+    "duration": 6720,
+    "offset": 200799,
+    "lang": "es"
+  },
+  {
+    "text": "gente que tiene",
+    "duration": 6521,
+    "offset": 204959,
+    "lang": "es"
+  },
+  {
+    "text": "eh desde la gente que tiene el server,",
+    "duration": 5401,
+    "offset": 207519,
+    "lang": "es"
+  },
+  {
+    "text": "la gente que tiene el Visual Studio",
+    "duration": 5000,
+    "offset": 211480,
+    "lang": "es"
+  },
+  {
+    "text": "Code, nos conectamos directamente.",
+    "duration": 3560,
+    "offset": 212920,
+    "lang": "es"
+  }
+]

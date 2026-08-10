@@ -1,0 +1,1028 @@
+[
+  {
+    "text": "vamos a resolver",
+    "duration": 2960,
+    "offset": 2320,
+    "lang": "es"
+  },
+  {
+    "text": "que será necesario recordar conceptos de",
+    "duration": 6690,
+    "offset": 9269,
+    "lang": "es"
+  },
+  {
+    "text": "análisis 1 que han visto seguramente en",
+    "duration": 3861,
+    "offset": 13019,
+    "lang": "es"
+  },
+  {
+    "text": "el cbc",
+    "duration": 4501,
+    "offset": 15959,
+    "lang": "es"
+  },
+  {
+    "text": "qué concepto es importante tener en",
+    "duration": 7140,
+    "offset": 16880,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta para resolver este problema",
+    "duration": 3560,
+    "offset": 20460,
+    "lang": "es"
+  },
+  {
+    "text": "el significado geométrico de la derivada",
+    "duration": 6651,
+    "offset": 25289,
+    "lang": "es"
+  },
+  {
+    "text": "de una función de una variable",
+    "duration": 6811,
+    "offset": 28619,
+    "lang": "es"
+  },
+  {
+    "text": "recuerden que cuando uno hallaba la",
+    "duration": 6190,
+    "offset": 31940,
+    "lang": "es"
+  },
+  {
+    "text": "derivada en un punto de una función de",
+    "duration": 4760,
+    "offset": 35430,
+    "lang": "es"
+  },
+  {
+    "text": "una variable",
+    "duration": 4550,
+    "offset": 38130,
+    "lang": "es"
+  },
+  {
+    "text": "esa derivada no era otra cosa que la",
+    "duration": 5820,
+    "offset": 40190,
+    "lang": "es"
+  },
+  {
+    "text": "pendiente de la recta tangente a la",
+    "duration": 6180,
+    "offset": 42680,
+    "lang": "es"
+  },
+  {
+    "text": "gráfica de la función en ese punto",
+    "duration": 6270,
+    "offset": 46010,
+    "lang": "es"
+  },
+  {
+    "text": "y si uno hallaba el arco tangente del",
+    "duration": 6150,
+    "offset": 48860,
+    "lang": "es"
+  },
+  {
+    "text": "valor de la derivada en definitiva lo",
+    "duration": 5010,
+    "offset": 52280,
+    "lang": "es"
+  },
+  {
+    "text": "que estaba obteniendo es el ángulo que",
+    "duration": 5190,
+    "offset": 55010,
+    "lang": "es"
+  },
+  {
+    "text": "se forma entre el eje de las abscisas y",
+    "duration": 5130,
+    "offset": 57290,
+    "lang": "es"
+  },
+  {
+    "text": "la pendiente de la recta tangente a la",
+    "duration": 4710,
+    "offset": 60200,
+    "lang": "es"
+  },
+  {
+    "text": "gráfica de la función medido en sentido",
+    "duration": 4070,
+    "offset": 62420,
+    "lang": "es"
+  },
+  {
+    "text": "antihorario",
+    "duration": 4810,
+    "offset": 64910,
+    "lang": "es"
+  },
+  {
+    "text": "es importante que recuerden eso porque",
+    "duration": 8100,
+    "offset": 66490,
+    "lang": "es"
+  },
+  {
+    "text": "en este ejercicio nos pide resolver",
+    "duration": 7380,
+    "offset": 69720,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 2510,
+    "offset": 74590,
+    "lang": "es"
+  },
+  {
+    "text": "nos piden encontrar los vectores",
+    "duration": 5040,
+    "offset": 77250,
+    "lang": "es"
+  },
+  {
+    "text": "tangencial y normal expresados en",
+    "duration": 4600,
+    "offset": 80000,
+    "lang": "es"
+  },
+  {
+    "text": "coordenadas cartesianas",
+    "duration": 5439,
+    "offset": 82290,
+    "lang": "es"
+  },
+  {
+    "text": "entonces cómo hacemos para encontrar las",
+    "duration": 6040,
+    "offset": 84600,
+    "lang": "es"
+  },
+  {
+    "text": "direcciones del vector tangencial y del",
+    "duration": 6600,
+    "offset": 87729,
+    "lang": "es"
+  },
+  {
+    "text": "vector normal en coordenadas cartesianas",
+    "duration": 6509,
+    "offset": 90640,
+    "lang": "es"
+  },
+  {
+    "text": "si lo único que tenemos es la ecuación",
+    "duration": 4161,
+    "offset": 94329,
+    "lang": "es"
+  },
+  {
+    "text": "de la trayectoria",
+    "duration": 5400,
+    "offset": 97149,
+    "lang": "es"
+  },
+  {
+    "text": "bueno la trayectoria es el lugar",
+    "duration": 6280,
+    "offset": 98490,
+    "lang": "es"
+  },
+  {
+    "text": "geométrico de los puntos que va ocupando",
+    "duration": 5421,
+    "offset": 102549,
+    "lang": "es"
+  },
+  {
+    "text": "el cuerpo durante su movimiento",
+    "duration": 5630,
+    "offset": 104770,
+    "lang": "es"
+  },
+  {
+    "text": "si yo me paro en un punto cualquiera y",
+    "duration": 7710,
+    "offset": 107970,
+    "lang": "es"
+  },
+  {
+    "text": "hay o la derivada de x respecto de y en",
+    "duration": 7290,
+    "offset": 110400,
+    "lang": "es"
+  },
+  {
+    "text": "ese punto lo que voy a estar obteniendo",
+    "duration": 5160,
+    "offset": 115680,
+    "lang": "es"
+  },
+  {
+    "text": "en definitiva es el ángulo de la recta",
+    "duration": 4590,
+    "offset": 117690,
+    "lang": "es"
+  },
+  {
+    "text": "tangente",
+    "duration": 4050,
+    "offset": 120840,
+    "lang": "es"
+  },
+  {
+    "text": "ahora esa recta tangente con que",
+    "duration": 7750,
+    "offset": 122280,
+    "lang": "es"
+  },
+  {
+    "text": "coincide en ese punto ustedes sabrán qué",
+    "duration": 7690,
+    "offset": 124890,
+    "lang": "es"
+  },
+  {
+    "text": "la dirección de la recta tangente no es",
+    "duration": 4410,
+    "offset": 130030,
+    "lang": "es"
+  },
+  {
+    "text": "otra cosa que la dirección del vector",
+    "duration": 4320,
+    "offset": 132580,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad y no es otra cosa que la",
+    "duration": 5790,
+    "offset": 134440,
+    "lang": "es"
+  },
+  {
+    "text": "dirección del vector tangente entonces",
+    "duration": 5330,
+    "offset": 136900,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que hacemos",
+    "duration": 5760,
+    "offset": 140230,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos la derivada de y respecto de x",
+    "duration": 6570,
+    "offset": 142230,
+    "lang": "es"
+  },
+  {
+    "text": "le evaluamos en ese punto",
+    "duration": 6780,
+    "offset": 145990,
+    "lang": "es"
+  },
+  {
+    "text": "hallamos el arco tangente de ese valor y",
+    "duration": 7350,
+    "offset": 148800,
+    "lang": "es"
+  },
+  {
+    "text": "con el arco tangente de ese valor lo que",
+    "duration": 7590,
+    "offset": 152770,
+    "lang": "es"
+  },
+  {
+    "text": "terminamos obteniendo es el ángulo tita",
+    "duration": 6730,
+    "offset": 156150,
+    "lang": "es"
+  },
+  {
+    "text": "que forma la dirección tangente con el",
+    "duration": 4370,
+    "offset": 160360,
+    "lang": "es"
+  },
+  {
+    "text": "eje de las abscisas",
+    "duration": 6130,
+    "offset": 162880,
+    "lang": "es"
+  },
+  {
+    "text": "perfecto ahora nosotros sabemos qué",
+    "duration": 8089,
+    "offset": 164730,
+    "lang": "es"
+  },
+  {
+    "text": "el coseno de tita ver sol y seno de tita",
+    "duration": 7110,
+    "offset": 169010,
+    "lang": "es"
+  },
+  {
+    "text": "ver sor j nos va a dar en coordenadas",
+    "duration": 7191,
+    "offset": 172819,
+    "lang": "es"
+  },
+  {
+    "text": "cartesianas la dirección de inversor",
+    "duration": 7319,
+    "offset": 176120,
+    "lang": "es"
+  },
+  {
+    "text": "tangente y después cuando tenemos que",
+    "duration": 6149,
+    "offset": 180010,
+    "lang": "es"
+  },
+  {
+    "text": "hallar la dirección del verso normal",
+    "duration": 6101,
+    "offset": 183439,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros lo que podemos",
+    "duration": 9161,
+    "offset": 186159,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es conocer o utilizar el este la",
+    "duration": 8770,
+    "offset": 189540,
+    "lang": "es"
+  },
+  {
+    "text": "propiedad que tiene el producto escalar",
+    "duration": 8190,
+    "offset": 195320,
+    "lang": "es"
+  },
+  {
+    "text": "de que dos vectores ortogonales dan cero",
+    "duration": 7630,
+    "offset": 198310,
+    "lang": "es"
+  },
+  {
+    "text": "entonces yo sé que si hago el producto",
+    "duration": 4830,
+    "offset": 203510,
+    "lang": "es"
+  },
+  {
+    "text": "de inversor tangente escalar el dorso",
+    "duration": 7020,
+    "offset": 205940,
+    "lang": "es"
+  },
+  {
+    "text": "normal me va a dar cero entonces a",
+    "duration": 7620,
+    "offset": 208340,
+    "lang": "es"
+  },
+  {
+    "text": "partir de eso puedo hallar el valor del",
+    "duration": 5030,
+    "offset": 212960,
+    "lang": "es"
+  },
+  {
+    "text": "verso normal",
+    "duration": 4190,
+    "offset": 215960,
+    "lang": "es"
+  },
+  {
+    "text": "también teniendo en cuenta que en el",
+    "duration": 4770,
+    "offset": 217990,
+    "lang": "es"
+  },
+  {
+    "text": "punto en el cual estoy evaluando el",
+    "duration": 7290,
+    "offset": 220150,
+    "lang": "es"
+  },
+  {
+    "text": "verso normal va a tener el sentido del",
+    "duration": 7560,
+    "offset": 222760,
+    "lang": "es"
+  },
+  {
+    "text": "verso jota en sentido negativo en",
+    "duration": 4250,
+    "offset": 227440,
+    "lang": "es"
+  },
+  {
+    "text": "considerando el sistema de referencia",
+    "duration": 5100,
+    "offset": 230320,
+    "lang": "es"
+  },
+  {
+    "text": "que está indicado en el problema así que",
+    "duration": 5620,
+    "offset": 231690,
+    "lang": "es"
+  },
+  {
+    "text": "él",
+    "duration": 6030,
+    "offset": 235420,
+    "lang": "es"
+  },
+  {
+    "text": "el verso normal lo que va a tener es un",
+    "duration": 7560,
+    "offset": 237310,
+    "lang": "es"
+  },
+  {
+    "text": "signo negativo en el verso jota que lo",
+    "duration": 4880,
+    "offset": 241450,
+    "lang": "es"
+  },
+  {
+    "text": "que nos va a decir",
+    "duration": 5040,
+    "offset": 244870,
+    "lang": "es"
+  },
+  {
+    "text": "es que es el grosor normal está yendo",
+    "duration": 6360,
+    "offset": 246330,
+    "lang": "es"
+  },
+  {
+    "text": "hacia abajo",
+    "duration": 2780,
+    "offset": 249910,
+    "lang": "es"
+  },
+  {
+    "text": "y la segunda parte del ejercicio nos",
+    "duration": 6120,
+    "offset": 253210,
+    "lang": "es"
+  },
+  {
+    "text": "pide hallar el vector aceleración del",
+    "duration": 4820,
+    "offset": 256870,
+    "lang": "es"
+  },
+  {
+    "text": "móvil",
+    "duration": 2360,
+    "offset": 259330,
+    "lang": "es"
+  },
+  {
+    "text": "para un punto",
+    "duration": 4990,
+    "offset": 262270,
+    "lang": "es"
+  },
+  {
+    "text": "para un punto dado a donde el radio de",
+    "duration": 7520,
+    "offset": 264920,
+    "lang": "es"
+  },
+  {
+    "text": "curvatura es de 65 a 1 metros bien",
+    "duration": 7770,
+    "offset": 267260,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 5490,
+    "offset": 272440,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros",
+    "duration": 2900,
+    "offset": 275030,
+    "lang": "es"
+  },
+  {
+    "text": "sabemos que tenemos como dato que el",
+    "duration": 6570,
+    "offset": 278000,
+    "lang": "es"
+  },
+  {
+    "text": "móvil se mueve aún con una rapidez de 30",
+    "duration": 5630,
+    "offset": 281630,
+    "lang": "es"
+  },
+  {
+    "text": "metros por segundo",
+    "duration": 5420,
+    "offset": 284570,
+    "lang": "es"
+  },
+  {
+    "text": "qué significa una rapidez de 30 metros",
+    "duration": 4590,
+    "offset": 287260,
+    "lang": "es"
+  },
+  {
+    "text": "por segundo la rapidez",
+    "duration": 4140,
+    "offset": 289990,
+    "lang": "es"
+  },
+  {
+    "text": "recuerden es el módulo del vector",
+    "duration": 4690,
+    "offset": 291850,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad",
+    "duration": 4150,
+    "offset": 294130,
+    "lang": "es"
+  },
+  {
+    "text": "ahora nos dice que se mueve con una",
+    "duration": 3510,
+    "offset": 296540,
+    "lang": "es"
+  },
+  {
+    "text": "rapidez de 30 metros por segundo que",
+    "duration": 6390,
+    "offset": 298280,
+    "lang": "es"
+  },
+  {
+    "text": "significa que la rapidez no varía nunca",
+    "duration": 8160,
+    "offset": 300050,
+    "lang": "es"
+  },
+  {
+    "text": "si no varía nunca la rapidez no varía",
+    "duration": 5400,
+    "offset": 304670,
+    "lang": "es"
+  },
+  {
+    "text": "nunca el módulo de la velocidad y",
+    "duration": 4350,
+    "offset": 308210,
+    "lang": "es"
+  },
+  {
+    "text": "entonces eso que significa que la",
+    "duration": 5780,
+    "offset": 310070,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración tangencial vale siempre cero",
+    "duration": 6150,
+    "offset": 312560,
+    "lang": "es"
+  },
+  {
+    "text": "así que la única aceleración que va a",
+    "duration": 5620,
+    "offset": 315850,
+    "lang": "es"
+  },
+  {
+    "text": "tener este móvil es una aceleración",
+    "duration": 5300,
+    "offset": 318710,
+    "lang": "es"
+  },
+  {
+    "text": "normal",
+    "duration": 2540,
+    "offset": 321470,
+    "lang": "es"
+  },
+  {
+    "text": "la única aceleración que va a tener este",
+    "duration": 5360,
+    "offset": 325249,
+    "lang": "es"
+  },
+  {
+    "text": "móvil es la aceleración normal entonces",
+    "duration": 6630,
+    "offset": 327799,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros lo que podemos hacer que",
+    "duration": 6550,
+    "offset": 330609,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros sabemos que la aceleración",
+    "duration": 5550,
+    "offset": 334429,
+    "lang": "es"
+  },
+  {
+    "text": "normal es igual al módulo cuadrado de la",
+    "duration": 6650,
+    "offset": 337159,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad sobre el radio de curvatura",
+    "duration": 3830,
+    "offset": 339979,
+    "lang": "es"
+  },
+  {
+    "text": "el módulo cuadrado de la velocidad es",
+    "duration": 6780,
+    "offset": 344700,
+    "lang": "es"
+  },
+  {
+    "text": "sencillo porque es el módulo cuadrado de",
+    "duration": 5460,
+    "offset": 348390,
+    "lang": "es"
+  },
+  {
+    "text": "30 metros por segundo porque como dice",
+    "duration": 4500,
+    "offset": 351480,
+    "lang": "es"
+  },
+  {
+    "text": "el problema la velocidad es constante y",
+    "duration": 5550,
+    "offset": 353850,
+    "lang": "es"
+  },
+  {
+    "text": "el radio de curvatura de 65.1 así que ya",
+    "duration": 6150,
+    "offset": 355980,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos los datos a partir de eso",
+    "duration": 4830,
+    "offset": 359400,
+    "lang": "es"
+  },
+  {
+    "text": "hallamos el vector aceleración normal",
+    "duration": 4650,
+    "offset": 362130,
+    "lang": "es"
+  },
+  {
+    "text": "perdón hallamos el módulo del vector",
+    "duration": 6060,
+    "offset": 364230,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración normal y después usando el",
+    "duration": 6120,
+    "offset": 366780,
+    "lang": "es"
+  },
+  {
+    "text": "verso normal multiplicamos el módulo por",
+    "duration": 5100,
+    "offset": 370290,
+    "lang": "es"
+  },
+  {
+    "text": "el grosor normal y tenemos nuestro",
+    "duration": 3920,
+    "offset": 372900,
+    "lang": "es"
+  },
+  {
+    "text": "vector",
+    "duration": 4450,
+    "offset": 375390,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración normal",
+    "duration": 5060,
+    "offset": 376820,
+    "lang": "es"
+  },
+  {
+    "text": "por último",
+    "duration": 5090,
+    "offset": 379840,
+    "lang": "es"
+  },
+  {
+    "text": "nos pide nos dice qué",
+    "duration": 5659,
+    "offset": 381880,
+    "lang": "es"
+  },
+  {
+    "text": "si tenemos una persona que está parada",
+    "duration": 4580,
+    "offset": 384930,
+    "lang": "es"
+  },
+  {
+    "text": "en el móvil",
+    "duration": 4931,
+    "offset": 387539,
+    "lang": "es"
+  },
+  {
+    "text": "cuál será",
+    "duration": 2960,
+    "offset": 389510,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración si tenemos perdón una",
+    "duration": 4710,
+    "offset": 392480,
+    "lang": "es"
+  },
+  {
+    "text": "persona que está parada en el origen",
+    "duration": 5970,
+    "offset": 394970,
+    "lang": "es"
+  },
+  {
+    "text": "cuál será la aceleración de esa persona",
+    "duration": 6500,
+    "offset": 397190,
+    "lang": "es"
+  },
+  {
+    "text": "si se toma un sistema de referencia",
+    "duration": 7440,
+    "offset": 400940,
+    "lang": "es"
+  },
+  {
+    "text": "en el móvil o sea nosotros tenemos una",
+    "duration": 7879,
+    "offset": 403690,
+    "lang": "es"
+  },
+  {
+    "text": "persona parada en el origen",
+    "duration": 6399,
+    "offset": 408380,
+    "lang": "es"
+  },
+  {
+    "text": "tomamos como sistema de referencia para",
+    "duration": 4891,
+    "offset": 411569,
+    "lang": "es"
+  },
+  {
+    "text": "ver la aceleración de esa persona que",
+    "duration": 3401,
+    "offset": 414779,
+    "lang": "es"
+  },
+  {
+    "text": "está ahí parada",
+    "duration": 4110,
+    "offset": 416460,
+    "lang": "es"
+  },
+  {
+    "text": "el móvil que se está desplazando",
+    "duration": 6010,
+    "offset": 418180,
+    "lang": "es"
+  },
+  {
+    "text": "a velocidad constante",
+    "duration": 5260,
+    "offset": 420570,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 4430,
+    "offset": 424190,
+    "lang": "es"
+  },
+  {
+    "text": "qué podemos decir de ese sistema de",
+    "duration": 5250,
+    "offset": 425830,
+    "lang": "es"
+  },
+  {
+    "text": "referencias que está sobre el móvil que",
+    "duration": 4100,
+    "offset": 428620,
+    "lang": "es"
+  },
+  {
+    "text": "se desplaza a velocidad constante",
+    "duration": 4500,
+    "offset": 431080,
+    "lang": "es"
+  },
+  {
+    "text": "resulta que si bien la velocidad el",
+    "duration": 5080,
+    "offset": 432720,
+    "lang": "es"
+  },
+  {
+    "text": "módulo de la velocidad es constante el",
+    "duration": 4710,
+    "offset": 435580,
+    "lang": "es"
+  },
+  {
+    "text": "vector velocidad no es constante porque",
+    "duration": 4800,
+    "offset": 437800,
+    "lang": "es"
+  },
+  {
+    "text": "porque está cambiando permanentemente su",
+    "duration": 5100,
+    "offset": 440290,
+    "lang": "es"
+  },
+  {
+    "text": "dirección cómo está cambiando permanente",
+    "duration": 5760,
+    "offset": 442600,
+    "lang": "es"
+  },
+  {
+    "text": "su dirección como ya vimos tiene una",
+    "duration": 5060,
+    "offset": 445390,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración normal",
+    "duration": 6060,
+    "offset": 448360,
+    "lang": "es"
+  },
+  {
+    "text": "entonces la persona que desde tierra",
+    "duration": 6820,
+    "offset": 450450,
+    "lang": "es"
+  },
+  {
+    "text": "está fija en el origen desde ese móvil",
+    "duration": 5400,
+    "offset": 454420,
+    "lang": "es"
+  },
+  {
+    "text": "yo la voy a ver con una aceleración",
+    "duration": 7050,
+    "offset": 457270,
+    "lang": "es"
+  },
+  {
+    "text": "ficticia un vector aceleración ficticio",
+    "duration": 8340,
+    "offset": 459820,
+    "lang": "es"
+  },
+  {
+    "text": "que va a tener el mismo modelo y la",
+    "duration": 6450,
+    "offset": 464320,
+    "lang": "es"
+  },
+  {
+    "text": "misma dirección que el vector",
+    "duration": 5130,
+    "offset": 468160,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración normal pero sentido",
+    "duration": 5880,
+    "offset": 470770,
+    "lang": "es"
+  },
+  {
+    "text": "contrario es decir si yo tengo una",
+    "duration": 6870,
+    "offset": 473290,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración del móvil hacia tierra que",
+    "duration": 6380,
+    "offset": 476650,
+    "lang": "es"
+  },
+  {
+    "text": "va para que el lado",
+    "duration": 5120,
+    "offset": 480160,
+    "lang": "es"
+  },
+  {
+    "text": "tomando como sistema de referencia este",
+    "duration": 4350,
+    "offset": 483030,
+    "lang": "es"
+  },
+  {
+    "text": "móvil acelerado con aceleración normal",
+    "duration": 5700,
+    "offset": 485280,
+    "lang": "es"
+  },
+  {
+    "text": "voy a tener una aceleración de la",
+    "duration": 5610,
+    "offset": 487380,
+    "lang": "es"
+  },
+  {
+    "text": "persona que va para abajo o sea alguien",
+    "duration": 4740,
+    "offset": 490980,
+    "lang": "es"
+  },
+  {
+    "text": "que está en este móvil es va a ver a la",
+    "duration": 4530,
+    "offset": 492990,
+    "lang": "es"
+  },
+  {
+    "text": "persona que está ahí parada en el origen",
+    "duration": 3810,
+    "offset": 495720,
+    "lang": "es"
+  },
+  {
+    "text": "como que esta persona como que él está",
+    "duration": 3630,
+    "offset": 497520,
+    "lang": "es"
+  },
+  {
+    "text": "quieto y esta persona es la que está",
+    "duration": 5030,
+    "offset": 499530,
+    "lang": "es"
+  },
+  {
+    "text": "yéndose hacia abajo",
+    "duration": 3410,
+    "offset": 501150,
+    "lang": "es"
+  }
+]

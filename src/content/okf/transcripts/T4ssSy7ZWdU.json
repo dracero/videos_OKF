@@ -1,0 +1,1412 @@
+[
+  {
+    "text": "bueno tenemos funcionando",
+    "duration": 6401,
+    "offset": 799,
+    "lang": "es"
+  },
+  {
+    "text": "lanflow en nuestro en nuestra máquina",
+    "duration": 7160,
+    "offset": 3200,
+    "lang": "es"
+  },
+  {
+    "text": "local para que lfl funcione sin",
+    "duration": 7880,
+    "offset": 7200,
+    "lang": "es"
+  },
+  {
+    "text": "problemas y responda mínimamente rápido",
+    "duration": 8160,
+    "offset": 10360,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a necesitar tener aproximadamente",
+    "duration": 10039,
+    "offset": 15080,
+    "lang": "es"
+  },
+  {
+    "text": "16 Gb de ram y una placa nvidia 3050 o",
+    "duration": 10800,
+    "offset": 18520,
+    "lang": "es"
+  },
+  {
+    "text": "algo superior una 4090 sería lo ideal no",
+    "duration": 8600,
+    "offset": 25119,
+    "lang": "es"
+  },
+  {
+    "text": "es algo que es carísimo pero no es de lo",
+    "duration": 5360,
+    "offset": 29320,
+    "lang": "es"
+  },
+  {
+    "text": "más",
+    "duration": 5360,
+    "offset": 33719,
+    "lang": "es"
+  },
+  {
+    "text": "barato vamos a usarlo hoy",
+    "duration": 9760,
+    "offset": 34680,
+    "lang": "es"
+  },
+  {
+    "text": "con Google gem 2.0 flash gemini 2.0",
+    "duration": 9081,
+    "offset": 39079,
+    "lang": "es"
+  },
+  {
+    "text": "flash como todos sabemos esta semana fue",
+    "duration": 5680,
+    "offset": 44440,
+    "lang": "es"
+  },
+  {
+    "text": "lanzada la Api para que pueda ser",
+    "duration": 5280,
+    "offset": 48160,
+    "lang": "es"
+  },
+  {
+    "text": "utilizada y lanflow ya la tiene en lugar",
+    "duration": 6320,
+    "offset": 50120,
+    "lang": "es"
+  },
+  {
+    "text": "de hacer rag lo que vamos a hacer Qué es",
+    "duration": 5520,
+    "offset": 53440,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a poner directamente los",
+    "duration": 5200,
+    "offset": 56440,
+    "lang": "es"
+  },
+  {
+    "text": "documentos tenemos acá acá lo que",
+    "duration": 4080,
+    "offset": 58960,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos",
+    "duration": 5479,
+    "offset": 61640,
+    "lang": "es"
+  },
+  {
+    "text": "son todos los documentos de El libro de",
+    "duration": 5840,
+    "offset": 63040,
+    "lang": "es"
+  },
+  {
+    "text": "cátedra de física",
+    "duration": 5161,
+    "offset": 67119,
+    "lang": "es"
+  },
+  {
+    "text": "unos apuntes de cátedra de física unos",
+    "duration": 4400,
+    "offset": 68880,
+    "lang": "es"
+  },
+  {
+    "text": "tem",
+    "duration": 4720,
+    "offset": 72280,
+    "lang": "es"
+  },
+  {
+    "text": "seo necesita leer el estudiante",
+    "duration": 7760,
+    "offset": 73280,
+    "lang": "es"
+  },
+  {
+    "text": "loemos lo vamos poner adentro de este",
+    "duration": 7119,
+    "offset": 77000,
+    "lang": "es"
+  },
+  {
+    "text": "datage le va extraer tant el texto como",
+    "duration": 6640,
+    "offset": 81040,
+    "lang": "es"
+  },
+  {
+    "text": "las imágenes por qué Porque gem es un",
+    "duration": 6521,
+    "offset": 84119,
+    "lang": "es"
+  },
+  {
+    "text": "sistema multimodal",
+    "duration": 5719,
+    "offset": 87680,
+    "lang": "es"
+  },
+  {
+    "text": "y acá tenemos el prompting donde le",
+    "duration": 5040,
+    "offset": 90640,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a decir que nos responda la",
+    "duration": 4841,
+    "offset": 93399,
+    "lang": "es"
+  },
+  {
+    "text": "entrada del chat y lo que vamos a tener",
+    "duration": 5280,
+    "offset": 95680,
+    "lang": "es"
+  },
+  {
+    "text": "también es una memoria para que recuerde",
+    "duration": 5080,
+    "offset": 98240,
+    "lang": "es"
+  },
+  {
+    "text": "de qué es lo que estamos hablando ahora",
+    "duration": 4000,
+    "offset": 100960,
+    "lang": "es"
+  },
+  {
+    "text": "lo que tenemos que tener presente que",
+    "duration": 4960,
+    "offset": 103320,
+    "lang": "es"
+  },
+  {
+    "text": "gemini tiene razonamiento y es",
+    "duration": 5680,
+    "offset": 104960,
+    "lang": "es"
+  },
+  {
+    "text": "multimodal Para qué sirve eso vamos a",
+    "duration": 6640,
+    "offset": 108280,
+    "lang": "es"
+  },
+  {
+    "text": "ver por ejemplo le vamos a decir que eh",
+    "duration": 8560,
+    "offset": 110640,
+    "lang": "es"
+  },
+  {
+    "text": "Me podes explicar",
+    "duration": 4280,
+    "offset": 114920,
+    "lang": "es"
+  },
+  {
+    "text": "que es la",
+    "duration": 3600,
+    "offset": 121119,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 5390,
+    "offset": 125530,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración y cuáles son",
+    "duration": 7160,
+    "offset": 127000,
+    "lang": "es"
+  },
+  {
+    "text": "sus componentes entonces ahí le",
+    "duration": 4679,
+    "offset": 130920,
+    "lang": "es"
+  },
+  {
+    "text": "preguntamos Qué es la aceleración y",
+    "duration": 3680,
+    "offset": 134160,
+    "lang": "es"
+  },
+  {
+    "text": "cuáles son sus componentes Mientras",
+    "duration": 8360,
+    "offset": 135599,
+    "lang": "es"
+  },
+  {
+    "text": "tanto yo voy a ir a buscar la guía de",
+    "duration": 9880,
+    "offset": 137840,
+    "lang": "es"
+  },
+  {
+    "text": "ejercicios que debo tener por",
+    "duration": 7401,
+    "offset": 143959,
+    "lang": "es"
+  },
+  {
+    "text": "acá sí acá tengo la guía de problemas",
+    "duration": 5840,
+    "offset": 147720,
+    "lang": "es"
+  },
+  {
+    "text": "así que voy a buscar la guía de",
+    "duration": 4280,
+    "offset": 151360,
+    "lang": "es"
+  },
+  {
+    "text": "ejercicios",
+    "duration": 9720,
+    "offset": 153560,
+    "lang": "es"
+  },
+  {
+    "text": "para después Mostrar la la capacidad",
+    "duration": 7640,
+    "offset": 155640,
+    "lang": "es"
+  },
+  {
+    "text": "multimodal Bueno yo no tengo eh una 3050",
+    "duration": 7401,
+    "offset": 166159,
+    "lang": "es"
+  },
+  {
+    "text": "si tengo los 16 Gb de ram y tarda un",
+    "duration": 5440,
+    "offset": 170760,
+    "lang": "es"
+  },
+  {
+    "text": "rato en responder bien",
+    "duration": 5679,
+    "offset": 173560,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá me responde Qué es la",
+    "duration": 5240,
+    "offset": 176200,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración normal",
+    "duration": 5841,
+    "offset": 179239,
+    "lang": "es"
+  },
+  {
+    "text": "eh la salida esta salida el playground",
+    "duration": 6439,
+    "offset": 181440,
+    "lang": "es"
+  },
+  {
+    "text": "no trabaja bien con las imágenes pero me",
+    "duration": 5360,
+    "offset": 185080,
+    "lang": "es"
+  },
+  {
+    "text": "dice bien la aceleración me dice que es",
+    "duration": 4401,
+    "offset": 187879,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración me dice que es el cambio",
+    "duration": 3600,
+    "offset": 190440,
+    "lang": "es"
+  },
+  {
+    "text": "de velosidad de un objeto con respecto",
+    "duration": 4280,
+    "offset": 192280,
+    "lang": "es"
+  },
+  {
+    "text": "al tiempo es una magnitud vectorial",
+    "duration": 4400,
+    "offset": 194040,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración tangencial aceleración",
+    "duration": 3959,
+    "offset": 196560,
+    "lang": "es"
+  },
+  {
+    "text": "normal o sea me",
+    "duration": 4600,
+    "offset": 198440,
+    "lang": "es"
+  },
+  {
+    "text": "explica lo que yo no sabía que es queé",
+    "duration": 4601,
+    "offset": 200519,
+    "lang": "es"
+  },
+  {
+    "text": "Es la aceleración",
+    "duration": 5600,
+    "offset": 203040,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora tiene por supuesto todo todo los",
+    "duration": 5280,
+    "offset": 205120,
+    "lang": "es"
+  },
+  {
+    "text": "todo el libro de cátedra física un así",
+    "duration": 3480,
+    "offset": 208640,
+    "lang": "es"
+  },
+  {
+    "text": "que cualquier tema que sea física un lo",
+    "duration": 3839,
+    "offset": 210400,
+    "lang": "es"
+  },
+  {
+    "text": "puede responder a partir de los apuntes",
+    "duration": 4800,
+    "offset": 212120,
+    "lang": "es"
+  },
+  {
+    "text": "de cátedra vamos a mostrar que tiene la",
+    "duration": 5000,
+    "offset": 214239,
+    "lang": "es"
+  },
+  {
+    "text": "capacidad de razonar por ejemplo le",
+    "duration": 3560,
+    "offset": 216920,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a",
+    "duration": 8720,
+    "offset": 219239,
+    "lang": "es"
+  },
+  {
+    "text": "decir me piden hallar la",
+    "duration": 7479,
+    "offset": 220480,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración de una barra",
+    "duration": 6120,
+    "offset": 228080,
+    "lang": "es"
+  },
+  {
+    "text": "rígida que se",
+    "duration": 4521,
+    "offset": 236239,
+    "lang": "es"
+  },
+  {
+    "text": "mueve desde un",
+    "duration": 4720,
+    "offset": 240840,
+    "lang": "es"
+  },
+  {
+    "text": "ángulo Alfa con",
+    "duration": 6360,
+    "offset": 245640,
+    "lang": "es"
+  },
+  {
+    "text": "la horizontal a",
+    "duration": 6240,
+    "offset": 248760,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 3000,
+    "offset": 252000,
+    "lang": "es"
+  },
+  {
+    "text": "posición",
+    "duration": 3000,
+    "offset": 255280,
+    "lang": "es"
+  },
+  {
+    "text": "horizontal",
+    "duration": 8400,
+    "offset": 260600,
+    "lang": "es"
+  },
+  {
+    "text": "podes ayudarme a comprender",
+    "duration": 5760,
+    "offset": 263240,
+    "lang": "es"
+  },
+  {
+    "text": "el problema Entonces ahí le vamos a",
+    "duration": 8440,
+    "offset": 272160,
+    "lang": "es"
+  },
+  {
+    "text": "pedir que utilice su capacidad de",
+    "duration": 4961,
+    "offset": 275639,
+    "lang": "es"
+  },
+  {
+    "text": "razonamiento Ahí va a empezar",
+    "duration": 5921,
+    "offset": 280759,
+    "lang": "es"
+  },
+  {
+    "text": "este con su capacidad de razonamiento",
+    "duration": 6079,
+    "offset": 283680,
+    "lang": "es"
+  },
+  {
+    "text": "Mientras tanto vamos a buscar la guía de",
+    "duration": 6079,
+    "offset": 286680,
+    "lang": "es"
+  },
+  {
+    "text": "problemas esta guía de problemas vamos a",
+    "duration": 6921,
+    "offset": 289759,
+    "lang": "es"
+  },
+  {
+    "text": "imprimir un problema",
+    "duration": 3921,
+    "offset": 292759,
+    "lang": "es"
+  },
+  {
+    "text": "acá hicimos el el screenshot de un",
+    "duration": 7679,
+    "offset": 302360,
+    "lang": "es"
+  },
+  {
+    "text": "problema Ya lo tenemos bien no tengo una",
+    "duration": 5761,
+    "offset": 306759,
+    "lang": "es"
+  },
+  {
+    "text": "3050 tengo una placa un poco más chica y",
+    "duration": 4801,
+    "offset": 310039,
+    "lang": "es"
+  },
+  {
+    "text": "por eso se está tomando su tiempo",
+    "duration": 5760,
+    "offset": 312520,
+    "lang": "es"
+  },
+  {
+    "text": "parte de El unflow necesita parte de",
+    "duration": 5079,
+    "offset": 314840,
+    "lang": "es"
+  },
+  {
+    "text": "procesamiento aquí en el servidor",
+    "duration": 4199,
+    "offset": 318280,
+    "lang": "es"
+  },
+  {
+    "text": "entonces por eso es que está tomándose",
+    "duration": 6361,
+    "offset": 319919,
+    "lang": "es"
+  },
+  {
+    "text": "su tiempo bien Y entonces fíjense que no",
+    "duration": 7560,
+    "offset": 322479,
+    "lang": "es"
+  },
+  {
+    "text": "es que solamente va a extraer por Como",
+    "duration": 6120,
+    "offset": 326280,
+    "lang": "es"
+  },
+  {
+    "text": "haría un rack común que sería extraer",
+    "duration": 4201,
+    "offset": 330039,
+    "lang": "es"
+  },
+  {
+    "text": "porciones de texto y contestar con una",
+    "duration": 4720,
+    "offset": 332400,
+    "lang": "es"
+  },
+  {
+    "text": "lógica conversacional a partir de esas",
+    "duration": 5239,
+    "offset": 334240,
+    "lang": "es"
+  },
+  {
+    "text": "porciones de texto Acá está razonando",
+    "duration": 4600,
+    "offset": 337120,
+    "lang": "es"
+  },
+  {
+    "text": "dice Si puedo sí puedo ayudarte a",
+    "duration": 3921,
+    "offset": 339479,
+    "lang": "es"
+  },
+  {
+    "text": "comprender el problema de la aceleración",
+    "duration": 4199,
+    "offset": 341720,
+    "lang": "es"
+  },
+  {
+    "text": "de una barra rígida que se mueve desde",
+    "duration": 4720,
+    "offset": 343400,
+    "lang": "es"
+  },
+  {
+    "text": "un ángulo Alfa con la horizontal hasta",
+    "duration": 3601,
+    "offset": 345919,
+    "lang": "es"
+  },
+  {
+    "text": "la posición horizontal para ello te",
+    "duration": 3280,
+    "offset": 348120,
+    "lang": "es"
+  },
+  {
+    "text": "explicaré los conceptos clave y cómo",
+    "duration": 3560,
+    "offset": 349520,
+    "lang": "es"
+  },
+  {
+    "text": "abordarlos basándome en el documento",
+    "duration": 4280,
+    "offset": 351400,
+    "lang": "es"
+  },
+  {
+    "text": "proporcional o sea en los apuntes de",
+    "duration": 5200,
+    "offset": 353080,
+    "lang": "es"
+  },
+  {
+    "text": "física un conceptos clave cuerpo rígido",
+    "duration": 4799,
+    "offset": 355680,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento de rotación aceleración",
+    "duration": 4520,
+    "offset": 358280,
+    "lang": "es"
+  },
+  {
+    "text": "angular aceleración tangencial",
+    "duration": 4160,
+    "offset": 360479,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración normal centro de masa",
+    "duration": 3880,
+    "offset": 362800,
+    "lang": "es"
+  },
+  {
+    "text": "momento de Inercia el diagrama de cuerpo",
+    "duration": 4881,
+    "offset": 364639,
+    "lang": "es"
+  },
+  {
+    "text": "libre acá me explica dibuja una barra en",
+    "duration": 5040,
+    "offset": 366680,
+    "lang": "es"
+  },
+  {
+    "text": "una posición angular genérica entre Alfa",
+    "duration": 5560,
+    "offset": 369520,
+    "lang": "es"
+  },
+  {
+    "text": "y entre tita entre Alfa y cero",
+    "duration": 4840,
+    "offset": 371720,
+    "lang": "es"
+  },
+  {
+    "text": "Identifica las fuerzas que actúan sobre",
+    "duration": 3000,
+    "offset": 375080,
+    "lang": "es"
+  },
+  {
+    "text": "la barra el peso aplicado en el centro",
+    "duration": 2800,
+    "offset": 376560,
+    "lang": "es"
+  },
+  {
+    "text": "de masa y la reacción en el punto de",
+    "duration": 3679,
+    "offset": 378080,
+    "lang": "es"
+  },
+  {
+    "text": "apoyo ecuaciones de movimiento entonces",
+    "duration": 6080,
+    "offset": 379360,
+    "lang": "es"
+  },
+  {
+    "text": "acá me dice el torque I por Omega donde",
+    "duration": 5720,
+    "offset": 381759,
+    "lang": "es"
+  },
+  {
+    "text": "la sumatoria de m es la suma de los",
+    "duration": 3640,
+    "offset": 385440,
+    "lang": "es"
+  },
+  {
+    "text": "torques externos respecto al punto de",
+    "duration": 3280,
+    "offset": 387479,
+    "lang": "es"
+  },
+  {
+    "text": "apoyo y es el momento de Inercia de la",
+    "duration": 3519,
+    "offset": 389080,
+    "lang": "es"
+  },
+  {
+    "text": "barra respecto al punto de apoyo y gama",
+    "duration": 3361,
+    "offset": 390759,
+    "lang": "es"
+  },
+  {
+    "text": "es la aceleración angular cálculo del",
+    "duration": 3880,
+    "offset": 392599,
+    "lang": "es"
+  },
+  {
+    "text": "momento de Inercia acá me dice el",
+    "duration": 4120,
+    "offset": 394120,
+    "lang": "es"
+  },
+  {
+    "text": "momento de Inercia de la varilla delgada",
+    "duration": 3481,
+    "offset": 396479,
+    "lang": "es"
+  },
+  {
+    "text": "homogénea de masa m y longitud l que",
+    "duration": 3840,
+    "offset": 398240,
+    "lang": "es"
+  },
+  {
+    "text": "rota alrededor de un eje perpendicular a",
+    "duration": 3720,
+    "offset": 399960,
+    "lang": "es"
+  },
+  {
+    "text": "la varilla y que pasa por uno de sus",
+    "duration": 4040,
+    "offset": 402080,
+    "lang": "es"
+  },
+  {
+    "text": "extremos es un tercio d ML cuadrado está",
+    "duration": 5000,
+    "offset": 403680,
+    "lang": "es"
+  },
+  {
+    "text": "perfecto lo que está calculando es por",
+    "duration": 5799,
+    "offset": 406120,
+    "lang": "es"
+  },
+  {
+    "text": "teorema de steiner el momento de",
+    "duration": 6440,
+    "offset": 408680,
+    "lang": "es"
+  },
+  {
+    "text": "Inercia lo resolvió perfecto pero no es",
+    "duration": 5801,
+    "offset": 411919,
+    "lang": "es"
+  },
+  {
+    "text": "que está sacando extrayendo un texto",
+    "duration": 5400,
+    "offset": 415120,
+    "lang": "es"
+  },
+  {
+    "text": "sino que está razonando a partir fíjense",
+    "duration": 4919,
+    "offset": 417720,
+    "lang": "es"
+  },
+  {
+    "text": "volvamos a la pregunta me piden hallar",
+    "duration": 3720,
+    "offset": 420520,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración de una barra rígida que",
+    "duration": 3120,
+    "offset": 422639,
+    "lang": "es"
+  },
+  {
+    "text": "se mueve desde un ángulo Alfa con la",
+    "duration": 3639,
+    "offset": 424240,
+    "lang": "es"
+  },
+  {
+    "text": "horizontal a la posición horizontal o",
+    "duration": 5560,
+    "offset": 425759,
+    "lang": "es"
+  },
+  {
+    "text": "sea está siendo casi de tutor virtual no",
+    "duration": 5440,
+    "offset": 427879,
+    "lang": "es"
+  },
+  {
+    "text": "le dice el alumno no le dice explicame",
+    "duration": 3801,
+    "offset": 431319,
+    "lang": "es"
+  },
+  {
+    "text": "el problema le no le dice haceme",
+    "duration": 4481,
+    "offset": 433319,
+    "lang": "es"
+  },
+  {
+    "text": "resolvel lo si no dice explicame y le va",
+    "duration": 5320,
+    "offset": 435120,
+    "lang": "es"
+  },
+  {
+    "text": "explicando poco a poco y está perfecto y",
+    "duration": 4920,
+    "offset": 437800,
+    "lang": "es"
+  },
+  {
+    "text": "acá también le dice que tiene en la",
+    "duration": 3400,
+    "offset": 440440,
+    "lang": "es"
+  },
+  {
+    "text": "posición",
+    "duration": 3599,
+    "offset": 442720,
+    "lang": "es"
+  },
+  {
+    "text": "horizontal está perfecta est este valor",
+    "duration": 3840,
+    "offset": 443840,
+    "lang": "es"
+  },
+  {
+    "text": "de aceleración y en la posición",
+    "duration": 3201,
+    "offset": 446319,
+    "lang": "es"
+  },
+  {
+    "text": "horizontal no solamente tenés",
+    "duration": 3320,
+    "offset": 447680,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración tangencial sino que también",
+    "duration": 3320,
+    "offset": 449520,
+    "lang": "es"
+  },
+  {
+    "text": "tenés aceleración",
+    "duration": 5400,
+    "offset": 451000,
+    "lang": "es"
+  },
+  {
+    "text": "normal y para hallar la velocidad usa la",
+    "duration": 6079,
+    "offset": 452840,
+    "lang": "es"
+  },
+  {
+    "text": "conservación de la energía está perfecto",
+    "duration": 6199,
+    "offset": 456400,
+    "lang": "es"
+  },
+  {
+    "text": "como lo resolvió o sea resuelve el",
+    "duration": 5921,
+    "offset": 458919,
+    "lang": "es"
+  },
+  {
+    "text": "problema utilizando su capacidad de",
+    "duration": 5440,
+    "offset": 462599,
+    "lang": "es"
+  },
+  {
+    "text": "razonamiento leyendo too el documento",
+    "duration": 5799,
+    "offset": 464840,
+    "lang": "es"
+  },
+  {
+    "text": "todos los apuntes de física un Qué pasa",
+    "duration": 6801,
+    "offset": 468039,
+    "lang": "es"
+  },
+  {
+    "text": "si yo ahora le pego la imagen que",
+    "duration": 8441,
+    "offset": 470639,
+    "lang": "es"
+  },
+  {
+    "text": "seleccioné ahí le pregunto me acá s le",
+    "duration": 6319,
+    "offset": 474840,
+    "lang": "es"
+  },
+  {
+    "text": "voy decirme",
+    "duration": 3720,
+    "offset": 479080,
+    "lang": "es"
+  },
+  {
+    "text": "podés",
+    "duration": 4641,
+    "offset": 481159,
+    "lang": "es"
+  },
+  {
+    "text": "resolver este",
+    "duration": 5760,
+    "offset": 482800,
+    "lang": "es"
+  },
+  {
+    "text": "problema recuerden que gemini no",
+    "duration": 4799,
+    "offset": 485800,
+    "lang": "es"
+  },
+  {
+    "text": "solamente tiene razonamiento sino que",
+    "duration": 5280,
+    "offset": 488560,
+    "lang": "es"
+  },
+  {
+    "text": "también es multimodal O sea que yo le",
+    "duration": 5600,
+    "offset": 490599,
+    "lang": "es"
+  },
+  {
+    "text": "puedo poner imágenes y él ve las",
+    "duration": 4319,
+    "offset": 493840,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes las entiende y me va a",
+    "duration": 4201,
+    "offset": 496199,
+    "lang": "es"
+  },
+  {
+    "text": "contestar sobre eso ya resolvió esto",
+    "duration": 5720,
+    "offset": 498159,
+    "lang": "es"
+  },
+  {
+    "text": "perfecto bien",
+    "duration": 3479,
+    "offset": 500400,
+    "lang": "es"
+  },
+  {
+    "text": "ahí está se toma su tiempo por qué se",
+    "duration": 6880,
+    "offset": 511120,
+    "lang": "es"
+  },
+  {
+    "text": "toma su tiempo porque yo no tengo una",
+    "duration": 4721,
+    "offset": 513279,
+    "lang": "es"
+  },
+  {
+    "text": "placa para poder",
+    "duration": 4719,
+    "offset": 519240,
+    "lang": "es"
+  },
+  {
+    "text": "eh No tengo una placa suficientemente",
+    "duration": 4200,
+    "offset": 521360,
+    "lang": "es"
+  },
+  {
+    "text": "buena como para poder hacerlo en un",
+    "duration": 3361,
+    "offset": 523959,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo relativamente corto por eso ven",
+    "duration": 3600,
+    "offset": 525560,
+    "lang": "es"
+  },
+  {
+    "text": "que se está tomando su tiempo porque ahí",
+    "duration": 5400,
+    "offset": 527320,
+    "lang": "es"
+  },
+  {
+    "text": "tuvo que subir al cosas al server y",
+    "duration": 6799,
+    "offset": 529160,
+    "lang": "es"
+  },
+  {
+    "text": "demás pero vamos a ver o sea que En",
+    "duration": 5320,
+    "offset": 532720,
+    "lang": "es"
+  },
+  {
+    "text": "definitiva lo que tenemos No es",
+    "duration": 4721,
+    "offset": 535959,
+    "lang": "es"
+  },
+  {
+    "text": "simplemente algo que nos va a responder",
+    "duration": 5160,
+    "offset": 538040,
+    "lang": "es"
+  },
+  {
+    "text": "sobre temas particulares sino que nos va",
+    "duration": 6040,
+    "offset": 540680,
+    "lang": "es"
+  },
+  {
+    "text": "a ayudar a razonar",
+    "duration": 6639,
+    "offset": 543200,
+    "lang": "es"
+  },
+  {
+    "text": "bien acá lo resuelve una de las cosas",
+    "duration": 5440,
+    "offset": 546720,
+    "lang": "es"
+  },
+  {
+    "text": "que hay que ver que es que la salida de",
+    "duration": 4641,
+    "offset": 549839,
+    "lang": "es"
+  },
+  {
+    "text": "este playground no es multimodal",
+    "duration": 5720,
+    "offset": 552160,
+    "lang": "es"
+  },
+  {
+    "text": "entonces me está dando los valores Este",
+    "duration": 6400,
+    "offset": 554480,
+    "lang": "es"
+  },
+  {
+    "text": "pero acá bien lo resolvió perfecto todos",
+    "duration": 4480,
+    "offset": 557880,
+    "lang": "es"
+  },
+  {
+    "text": "los puntos del problema lo que pasa es",
+    "duration": 3360,
+    "offset": 560880,
+    "lang": "es"
+  },
+  {
+    "text": "que me está dando los valores en formato",
+    "duration": 7640,
+    "offset": 562360,
+    "lang": "es"
+  },
+  {
+    "text": "e látex y la interface que tiene el el",
+    "duration": 9320,
+    "offset": 564240,
+    "lang": "es"
+  },
+  {
+    "text": "playground de del lanflow no interpreta",
+    "duration": 6079,
+    "offset": 570000,
+    "lang": "es"
+  },
+  {
+    "text": "el látex Pero bueno eso se soluciona",
+    "duration": 4760,
+    "offset": 573560,
+    "lang": "es"
+  },
+  {
+    "text": "siendo un frontend que tenga la",
+    "duration": 5041,
+    "offset": 576079,
+    "lang": "es"
+  },
+  {
+    "text": "posibilidad de interpretar látex Más",
+    "duration": 5680,
+    "offset": 578320,
+    "lang": "es"
+  },
+  {
+    "text": "allá de eso le puse una imagen y Me",
+    "duration": 5719,
+    "offset": 581120,
+    "lang": "es"
+  },
+  {
+    "text": "resuelve el problema con lo cual yo le",
+    "duration": 4959,
+    "offset": 584000,
+    "lang": "es"
+  },
+  {
+    "text": "extendamos a todas aquellas materias",
+    "duration": 4601,
+    "offset": 586839,
+    "lang": "es"
+  },
+  {
+    "text": "donde sea necesario ver una imagen yo le",
+    "duration": 4000,
+    "offset": 588959,
+    "lang": "es"
+  },
+  {
+    "text": "pongo la imagen y Me resuelve el",
+    "duration": 4920,
+    "offset": 591440,
+    "lang": "es"
+  },
+  {
+    "text": "problema y todo esto se hizo sin tener",
+    "duration": 7641,
+    "offset": 592959,
+    "lang": "es"
+  },
+  {
+    "text": "que generar ningún tipo de",
+    "duration": 7360,
+    "offset": 596360,
+    "lang": "es"
+  },
+  {
+    "text": "si vuelvo el pround y le",
+    "duration": 5370,
+    "offset": 600600,
+    "lang": "es"
+  },
+  {
+    "text": "pregunto si tiene",
+    "duration": 5040,
+    "offset": 603720,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 5590,
+    "offset": 605970,
+    "lang": "es"
+  },
+  {
+    "text": "memoria puede",
+    "duration": 6199,
+    "offset": 608760,
+    "lang": "es"
+  },
+  {
+    "text": "recordar lo que",
+    "duration": 3399,
+    "offset": 611560,
+    "lang": "es"
+  },
+  {
+    "text": "hablamos la parte de la memoria y",
+    "duration": 5641,
+    "offset": 618839,
+    "lang": "es"
+  },
+  {
+    "text": "recordar lo que hablamos No es algo que",
+    "duration": 5880,
+    "offset": 621920,
+    "lang": "es"
+  },
+  {
+    "text": "viene incorporado con Google gemini sino",
+    "duration": 5799,
+    "offset": 624480,
+    "lang": "es"
+  },
+  {
+    "text": "que ahora después lo voy a a mostrar son",
+    "duration": 5159,
+    "offset": 627800,
+    "lang": "es"
+  },
+  {
+    "text": "bloques que hay que ponerle aparte pero",
+    "duration": 4441,
+    "offset": 630279,
+    "lang": "es"
+  },
+  {
+    "text": "que el unflow también nos da la",
+    "duration": 5481,
+    "offset": 632959,
+    "lang": "es"
+  },
+  {
+    "text": "posibilidad de eh poner esos bloques",
+    "duration": 6679,
+    "offset": 634720,
+    "lang": "es"
+  },
+  {
+    "text": "Este Entonces bienen ahí como siempre va",
+    "duration": 5680,
+    "offset": 638440,
+    "lang": "es"
+  },
+  {
+    "text": "a tardar porque no tengo el Hardware",
+    "duration": 4841,
+    "offset": 641399,
+    "lang": "es"
+  },
+  {
+    "text": "adecuado con el Hardware adecuado",
+    "duration": 5519,
+    "offset": 644120,
+    "lang": "es"
+  },
+  {
+    "text": "obviamente esto se resuelve e muchísimo",
+    "duration": 6120,
+    "offset": 646240,
+    "lang": "es"
+  },
+  {
+    "text": "más rápido ese es un tema que es el",
+    "duration": 4401,
+    "offset": 649639,
+    "lang": "es"
+  },
+  {
+    "text": "único tema digamos que hay que resolver",
+    "duration": 4159,
+    "offset": 652360,
+    "lang": "es"
+  },
+  {
+    "text": "o tener en cuenta el hecho del Hardware",
+    "duration": 5479,
+    "offset": 654040,
+    "lang": "es"
+  },
+  {
+    "text": "sobre el cual va a correr porque si el",
+    "duration": 5401,
+    "offset": 656519,
+    "lang": "es"
+  },
+  {
+    "text": "hardware no es el adecuado eh voy a",
+    "duration": 4320,
+    "offset": 659519,
+    "lang": "es"
+  },
+  {
+    "text": "estar en problemas bien s tengo memoria",
+    "duration": 3840,
+    "offset": 661920,
+    "lang": "es"
+  },
+  {
+    "text": "en el contexto de esta conversación",
+    "duration": 3481,
+    "offset": 663839,
+    "lang": "es"
+  },
+  {
+    "text": "puedo recordar lo que hemos discutido",
+    "duration": 3319,
+    "offset": 665760,
+    "lang": "es"
+  },
+  {
+    "text": "per exención por ejemplo recuerdo que me",
+    "duration": 3360,
+    "offset": 667320,
+    "lang": "es"
+  },
+  {
+    "text": "pediste ayuda con un problema de física",
+    "duration": 3760,
+    "offset": 669079,
+    "lang": "es"
+  },
+  {
+    "text": "sobre la aceleración de una barra rígida",
+    "duration": 4159,
+    "offset": 670680,
+    "lang": "es"
+  },
+  {
+    "text": "y luego me solicitaste la resolución de",
+    "duration": 5361,
+    "offset": 672839,
+    "lang": "es"
+  },
+  {
+    "text": "un problema con una imagen bien esta",
+    "duration": 5961,
+    "offset": 674839,
+    "lang": "es"
+  },
+  {
+    "text": "memoria se logra con un bloque que trae",
+    "duration": 7439,
+    "offset": 678200,
+    "lang": "es"
+  },
+  {
+    "text": "lanflow y que se incorpora aparte",
+    "duration": 4839,
+    "offset": 680800,
+    "lang": "es"
+  }
+]

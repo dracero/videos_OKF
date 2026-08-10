@@ -1,0 +1,1046 @@
+[
+  {
+    "text": "Vamos a ver cómo e crear un proyecto en",
+    "duration": 8401,
+    "offset": 1319,
+    "lang": "es"
+  },
+  {
+    "text": "Roboflow.",
+    "duration": 3000,
+    "offset": 6720,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, entonces lo primero que tenemos",
+    "duration": 4681,
+    "offset": 14639,
+    "lang": "es"
+  },
+  {
+    "text": "que hacer es",
+    "duration": 5200,
+    "offset": 16640,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ir a la página de Roboflow.",
+    "duration": 5600,
+    "offset": 19320,
+    "lang": "es"
+  },
+  {
+    "text": "Escribimos Roboflow,",
+    "duration": 6960,
+    "offset": 21840,
+    "lang": "es"
+  },
+  {
+    "text": "entramos a la página. Eh, si no tenemos",
+    "duration": 7440,
+    "offset": 24920,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta, tenemos que crearnos una cuenta.",
+    "duration": 6680,
+    "offset": 28800,
+    "lang": "es"
+  },
+  {
+    "text": "Es totalmente gratis.",
+    "duration": 6240,
+    "offset": 32360,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí está entrando. Lo que vamos a hacer",
+    "duration": 5919,
+    "offset": 35480,
+    "lang": "es"
+  },
+  {
+    "text": "es ir a crear un proyecto.",
+    "duration": 7760,
+    "offset": 38600,
+    "lang": "es"
+  },
+  {
+    "text": "Le vamos a poner un nombre y un grupo de",
+    "duration": 9000,
+    "offset": 41399,
+    "lang": "es"
+  },
+  {
+    "text": "de anotación, el anotation group.",
+    "duration": 6320,
+    "offset": 46360,
+    "lang": "es"
+  },
+  {
+    "text": "Le voy a poner",
+    "duration": 5241,
+    "offset": 50399,
+    "lang": "es"
+  },
+  {
+    "text": "esto anotation",
+    "duration": 4640,
+    "offset": 52680,
+    "lang": "es"
+  },
+  {
+    "text": "para ver que después aparece cuando haga",
+    "duration": 4239,
+    "offset": 55640,
+    "lang": "es"
+  },
+  {
+    "text": "las anotaciones. Acuérdense como es el",
+    "duration": 5360,
+    "offset": 57320,
+    "lang": "es"
+  },
+  {
+    "text": "gratis solamente es público.",
+    "duration": 7001,
+    "offset": 59879,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, y eh el tipo de proyecto que vamos a",
+    "duration": 7200,
+    "offset": 62680,
+    "lang": "es"
+  },
+  {
+    "text": "elegir es instant segmentation. ¿Ves que",
+    "duration": 4520,
+    "offset": 66880,
+    "lang": "es"
+  },
+  {
+    "text": "este es el que hace la segmentación",
+    "duration": 3239,
+    "offset": 69880,
+    "lang": "es"
+  },
+  {
+    "text": "semánticas de la imagen? Y acá",
+    "duration": 5440,
+    "offset": 71400,
+    "lang": "es"
+  },
+  {
+    "text": "obviamente nos remarca create public.",
+    "duration": 7040,
+    "offset": 73119,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí ya creamos el proyecto. Entonces, lo",
+    "duration": 5000,
+    "offset": 76840,
+    "lang": "es"
+  },
+  {
+    "text": "siguiente que tenemos que hacer que es",
+    "duration": 4000,
+    "offset": 80159,
+    "lang": "es"
+  },
+  {
+    "text": "subimos las imágenes.",
+    "duration": 4360,
+    "offset": 81840,
+    "lang": "es"
+  },
+  {
+    "text": "Acá yo ya tengo las imágenes, soporto un",
+    "duration": 5081,
+    "offset": 84159,
+    "lang": "es"
+  },
+  {
+    "text": "montón de formatos.",
+    "duration": 6080,
+    "offset": 86200,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí está eh subiendo las imágenes. Me",
+    "duration": 7360,
+    "offset": 89240,
+    "lang": "es"
+  },
+  {
+    "text": "tiró imágenes similares.",
+    "duration": 6000,
+    "offset": 92280,
+    "lang": "es"
+  },
+  {
+    "text": "Tengo que esperar que todas tengan el",
+    "duration": 5440,
+    "offset": 96600,
+    "lang": "es"
+  },
+  {
+    "text": "tildecito que subieron.",
+    "duration": 3760,
+    "offset": 98280,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, perfecto. Ahí ya subieron.",
+    "duration": 6441,
+    "offset": 103759,
+    "lang": "es"
+  },
+  {
+    "text": "Hago clic acá donde dice label myself",
+    "duration": 6640,
+    "offset": 106600,
+    "lang": "es"
+  },
+  {
+    "text": "porque las voy a eh a etiquetar yo",
+    "duration": 7000,
+    "offset": 110200,
+    "lang": "es"
+  },
+  {
+    "text": "mismo. Y acá empiezo con el proceso de",
+    "duration": 7080,
+    "offset": 113240,
+    "lang": "es"
+  },
+  {
+    "text": "etiquetado de las imágenes. Si yo tengo",
+    "duration": 6360,
+    "offset": 117200,
+    "lang": "es"
+  },
+  {
+    "text": "que etiquetar algo que",
+    "duration": 6240,
+    "offset": 120320,
+    "lang": "es"
+  },
+  {
+    "text": "este Smart Polígonom de acá puede",
+    "duration": 6319,
+    "offset": 123560,
+    "lang": "es"
+  },
+  {
+    "text": "reconocer fácil,",
+    "duration": 6000,
+    "offset": 126560,
+    "lang": "es"
+  },
+  {
+    "text": "entonces voy a usar el Smart Polygon.",
+    "duration": 6881,
+    "offset": 129879,
+    "lang": "es"
+  },
+  {
+    "text": "Por ejemplo, fíjense eh",
+    "duration": 7200,
+    "offset": 132560,
+    "lang": "es"
+  },
+  {
+    "text": "acá",
+    "duration": 3000,
+    "offset": 136760,
+    "lang": "es"
+  },
+  {
+    "text": "si le sirve, por ejemplo, esto de acá,",
+    "duration": 7320,
+    "offset": 140800,
+    "lang": "es"
+  },
+  {
+    "text": "si le sirve que etiquete eso, así",
+    "duration": 7000,
+    "offset": 144000,
+    "lang": "es"
+  },
+  {
+    "text": "me dice si lo quiero mejor o complejo.",
+    "duration": 5960,
+    "offset": 148120,
+    "lang": "es"
+  },
+  {
+    "text": "Complejo. Aprieto enter y acá le voy a",
+    "duration": 5959,
+    "offset": 151000,
+    "lang": "es"
+  },
+  {
+    "text": "poner",
+    "duration": 6320,
+    "offset": 154080,
+    "lang": "es"
+  },
+  {
+    "text": "clase uno porque yo no sé qué es.",
+    "duration": 8601,
+    "offset": 156959,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces le puse clase uno, enter",
+    "duration": 7160,
+    "offset": 160400,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 5280,
+    "offset": 165560,
+    "lang": "es"
+  },
+  {
+    "text": "ya creó este",
+    "duration": 5599,
+    "offset": 167560,
+    "lang": "es"
+  },
+  {
+    "text": "clase uno.",
+    "duration": 4880,
+    "offset": 170840,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora, por ejemplo, si yo quiero algo",
+    "duration": 6961,
+    "offset": 173159,
+    "lang": "es"
+  },
+  {
+    "text": "más pequeño, como esto de acá, que",
+    "duration": 6439,
+    "offset": 175720,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense,",
+    "duration": 4720,
+    "offset": 180120,
+    "lang": "es"
+  },
+  {
+    "text": "es esta parte de acá no la va a",
+    "duration": 4800,
+    "offset": 182159,
+    "lang": "es"
+  },
+  {
+    "text": "reconocer. ¿Ven que reconoce todo? Ah,",
+    "duration": 4119,
+    "offset": 184840,
+    "lang": "es"
+  },
+  {
+    "text": "no, sí. Bueno, ahí la reconoció. si esto",
+    "duration": 5401,
+    "offset": 186959,
+    "lang": "es"
+  },
+  {
+    "text": "les sirve, pero si no pueden ir ir a",
+    "duration": 5920,
+    "offset": 188959,
+    "lang": "es"
+  },
+  {
+    "text": "este a la herramienta polígono y lo",
+    "duration": 4959,
+    "offset": 192360,
+    "lang": "es"
+  },
+  {
+    "text": "pueden englobar",
+    "duration": 6121,
+    "offset": 194879,
+    "lang": "es"
+  },
+  {
+    "text": "así de esta forma.",
+    "duration": 5920,
+    "offset": 197319,
+    "lang": "es"
+  },
+  {
+    "text": "Esto de acá, no sé si será importante o",
+    "duration": 5239,
+    "offset": 201000,
+    "lang": "es"
+  },
+  {
+    "text": "no, lo van englobando de esta forma",
+    "duration": 5521,
+    "offset": 203239,
+    "lang": "es"
+  },
+  {
+    "text": "hasta que, fíjense que ahí aparece un",
+    "duration": 4481,
+    "offset": 206239,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrito verde, que ahí se cierra el",
+    "duration": 7320,
+    "offset": 208760,
+    "lang": "es"
+  },
+  {
+    "text": "polígono. Acá le ponemos clase dos y",
+    "duration": 8439,
+    "offset": 210720,
+    "lang": "es"
+  },
+  {
+    "text": "lo guardamos. Fíjense como ahí ya quedó",
+    "duration": 5600,
+    "offset": 216080,
+    "lang": "es"
+  },
+  {
+    "text": "grabado esto. Bien, entonces pueden usar",
+    "duration": 3921,
+    "offset": 219159,
+    "lang": "es"
+  },
+  {
+    "text": "o esta herramienta, que es la",
+    "duration": 3320,
+    "offset": 221680,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta de construcción de polígono,",
+    "duration": 4879,
+    "offset": 223080,
+    "lang": "es"
+  },
+  {
+    "text": "o este que es el Smart Poligon. Fíjense",
+    "duration": 5360,
+    "offset": 225000,
+    "lang": "es"
+  },
+  {
+    "text": "acá, por ejemplo,",
+    "duration": 7161,
+    "offset": 227959,
+    "lang": "es"
+  },
+  {
+    "text": "acá marco este y acá a este",
+    "duration": 8360,
+    "offset": 230360,
+    "lang": "es"
+  },
+  {
+    "text": "le voy a poner.",
+    "duration": 3600,
+    "offset": 235120,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí ya lo marcó.",
+    "duration": 3560,
+    "offset": 240200,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá a este le voy a poner clase tres.",
+    "duration": 8560,
+    "offset": 244000,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, ahora una vez que hice esto, ya",
+    "duration": 8120,
+    "offset": 249040,
+    "lang": "es"
+  },
+  {
+    "text": "tengo hecha la primer anotación.",
+    "duration": 6600,
+    "offset": 252560,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que si voy a este, que era el",
+    "duration": 4840,
+    "offset": 257160,
+    "lang": "es"
+  },
+  {
+    "text": "primero que hice,",
+    "duration": 5960,
+    "offset": 259160,
+    "lang": "es"
+  },
+  {
+    "text": "eh, no, ese no era. Pero bien. Bueno,",
+    "duration": 6320,
+    "offset": 262000,
+    "lang": "es"
+  },
+  {
+    "text": "tengo ah, porque, perdón,",
+    "duration": 7680,
+    "offset": 265120,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que e que está anotado, lo saca",
+    "duration": 8439,
+    "offset": 268320,
+    "lang": "es"
+  },
+  {
+    "text": "de acá. Entonces",
+    "duration": 7320,
+    "offset": 272800,
+    "lang": "es"
+  },
+  {
+    "text": "voy a este otro. Fíjense que dice sin",
+    "duration": 6880,
+    "offset": 276759,
+    "lang": "es"
+  },
+  {
+    "text": "anotar 13.",
+    "duration": 3519,
+    "offset": 280120,
+    "lang": "es"
+  },
+  {
+    "text": "Voy a este otro y acá puedo hacer lo",
+    "duration": 4919,
+    "offset": 286280,
+    "lang": "es"
+  },
+  {
+    "text": "mismo de",
+    "duration": 6280,
+    "offset": 288960,
+    "lang": "es"
+  },
+  {
+    "text": "tomo el Smart Polygon y si quiero ahí",
+    "duration": 8720,
+    "offset": 291199,
+    "lang": "es"
+  },
+  {
+    "text": "hago la anotación. Bien,",
+    "duration": 7080,
+    "offset": 295240,
+    "lang": "es"
+  },
+  {
+    "text": "aprieto ahí de finish y acá me da ya las",
+    "duration": 4441,
+    "offset": 299919,
+    "lang": "es"
+  },
+  {
+    "text": "clases. Este, por ejemplo, es también",
+    "duration": 5040,
+    "offset": 302320,
+    "lang": "es"
+  },
+  {
+    "text": "clase tres. Y le doy enter. Y así voy",
+    "duration": 5880,
+    "offset": 304360,
+    "lang": "es"
+  },
+  {
+    "text": "etiquetando todas las imágenes. Fíjense",
+    "duration": 6760,
+    "offset": 307360,
+    "lang": "es"
+  },
+  {
+    "text": "que acá dice sin anotar 12.",
+    "duration": 5799,
+    "offset": 310240,
+    "lang": "es"
+  },
+  {
+    "text": "Acá le puedo decir, agregar estas",
+    "duration": 4720,
+    "offset": 314120,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes al dataset. Una vez que tenga",
+    "duration": 5241,
+    "offset": 316039,
+    "lang": "es"
+  },
+  {
+    "text": "todo, va a agregar",
+    "duration": 5240,
+    "offset": 318840,
+    "lang": "es"
+  },
+  {
+    "text": "esas dos imágenes.",
+    "duration": 4720,
+    "offset": 321280,
+    "lang": "es"
+  },
+  {
+    "text": "Una vez que yo tengo, es un proceso",
+    "duration": 4000,
+    "offset": 324080,
+    "lang": "es"
+  },
+  {
+    "text": "largo teo, pero requiere de un experto",
+    "duration": 4560,
+    "offset": 326000,
+    "lang": "es"
+  },
+  {
+    "text": "que lo haga. Una vez que yo tengo todo",
+    "duration": 6440,
+    "offset": 328080,
+    "lang": "es"
+  },
+  {
+    "text": "eso, puedo ir acá donde dice versions.",
+    "duration": 6520,
+    "offset": 330560,
+    "lang": "es"
+  },
+  {
+    "text": "A donde dice versions, lo que va a",
+    "duration": 4920,
+    "offset": 334520,
+    "lang": "es"
+  },
+  {
+    "text": "hacer, va a entrenar",
+    "duration": 5000,
+    "offset": 337080,
+    "lang": "es"
+  },
+  {
+    "text": "el modelo.",
+    "duration": 4240,
+    "offset": 339440,
+    "lang": "es"
+  },
+  {
+    "text": "¿Ven que acá dice para entrenar el",
+    "duration": 3760,
+    "offset": 342080,
+    "lang": "es"
+  },
+  {
+    "text": "modelo? Primero cree una nueva versión",
+    "duration": 4639,
+    "offset": 343680,
+    "lang": "es"
+  },
+  {
+    "text": "de su dataset.",
+    "duration": 4000,
+    "offset": 345840,
+    "lang": "es"
+  },
+  {
+    "text": "Eh,",
+    "duration": 5121,
+    "offset": 348319,
+    "lang": "es"
+  },
+  {
+    "text": "elija e los setting del dataset para",
+    "duration": 6199,
+    "offset": 349840,
+    "lang": "es"
+  },
+  {
+    "text": "empezar. Bien, entonces version name",
+    "duration": 4160,
+    "offset": 353440,
+    "lang": "es"
+  },
+  {
+    "text": "test",
+    "duration": 5160,
+    "offset": 356039,
+    "lang": "es"
+  },
+  {
+    "text": "dice dos imágenes y cuatro clases. Las",
+    "duration": 5719,
+    "offset": 357600,
+    "lang": "es"
+  },
+  {
+    "text": "dos imágenes están anotadas, por eso sin",
+    "duration": 4241,
+    "offset": 361199,
+    "lang": "es"
+  },
+  {
+    "text": "anotar ninguna.",
+    "duration": 5561,
+    "offset": 363319,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá dice training test y validation.",
+    "duration": 6800,
+    "offset": 365440,
+    "lang": "es"
+  },
+  {
+    "text": "Lo que sucede acá yo puedo editar y",
+    "duration": 5840,
+    "offset": 368880,
+    "lang": "es"
+  },
+  {
+    "text": "puedo elegir el training, el test y el",
+    "duration": 5359,
+    "offset": 372240,
+    "lang": "es"
+  },
+  {
+    "text": "validation. El training es el set con el",
+    "duration": 5720,
+    "offset": 374720,
+    "lang": "es"
+  },
+  {
+    "text": "cual va a entrenar la red neuronal.",
+    "duration": 5000,
+    "offset": 377599,
+    "lang": "es"
+  },
+  {
+    "text": "El validation",
+    "duration": 5640,
+    "offset": 380440,
+    "lang": "es"
+  },
+  {
+    "text": "acá son acá, bueno, le digo,",
+    "duration": 6081,
+    "offset": 382599,
+    "lang": "es"
+  },
+  {
+    "text": "puedo elegir si quiero",
+    "duration": 5399,
+    "offset": 386080,
+    "lang": "es"
+  },
+  {
+    "text": "este para validez son poquitas imágenes.",
+    "duration": 4160,
+    "offset": 388680,
+    "lang": "es"
+  },
+  {
+    "text": "El training es lo que va a usar para",
+    "duration": 2921,
+    "offset": 391479,
+    "lang": "es"
+  },
+  {
+    "text": "entrenar.",
+    "duration": 4639,
+    "offset": 392840,
+    "lang": "es"
+  },
+  {
+    "text": "El test es en el proceso de",
+    "duration": 4680,
+    "offset": 394400,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento lo que va a usar. dice,",
+    "duration": 3401,
+    "offset": 397479,
+    "lang": "es"
+  },
+  {
+    "text": "\"Bueno, esto tendría que dar tal cosa.",
+    "duration": 3519,
+    "offset": 399080,
+    "lang": "es"
+  },
+  {
+    "text": "Voy a fijarme a decir tal cosa.\" Y",
+    "duration": 6080,
+    "offset": 400880,
+    "lang": "es"
+  },
+  {
+    "text": "validation es valida una vez que está",
+    "duration": 7000,
+    "offset": 402599,
+    "lang": "es"
+  },
+  {
+    "text": "lista la red neuronal, si efectivamente",
+    "duration": 5519,
+    "offset": 406960,
+    "lang": "es"
+  },
+  {
+    "text": "da, pero no hace un proceso iterativo,",
+    "duration": 4600,
+    "offset": 409599,
+    "lang": "es"
+  },
+  {
+    "text": "simplemente valida ver si dio bien o si",
+    "duration": 4481,
+    "offset": 412479,
+    "lang": "es"
+  },
+  {
+    "text": "dio mal. Y si dio mal, lo que va a hacer",
+    "duration": 4560,
+    "offset": 414199,
+    "lang": "es"
+  },
+  {
+    "text": "es me va a decir a mí que va a tener que",
+    "duration": 3519,
+    "offset": 416960,
+    "lang": "es"
+  },
+  {
+    "text": "seguir entrenando. Vuelve iterar.",
+    "duration": 5880,
+    "offset": 418759,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, training test y validation.",
+    "duration": 7280,
+    "offset": 420479,
+    "lang": "es"
+  },
+  {
+    "text": "Acá le doy continue.",
+    "duration": 5120,
+    "offset": 424639,
+    "lang": "es"
+  },
+  {
+    "text": "Preprocessing. Acá no voy a poner nada,",
+    "duration": 4601,
+    "offset": 427759,
+    "lang": "es"
+  },
+  {
+    "text": "así que le doy continue y augmentation,",
+    "duration": 4401,
+    "offset": 429759,
+    "lang": "es"
+  },
+  {
+    "text": "que es si quiero girar o rotar la",
+    "duration": 5519,
+    "offset": 432360,
+    "lang": "es"
+  },
+  {
+    "text": "imagen. Tampoco. Le doy continue y acá",
+    "duration": 6439,
+    "offset": 434160,
+    "lang": "es"
+  },
+  {
+    "text": "le doy create. Y entonces acá lo que",
+    "duration": 7040,
+    "offset": 437879,
+    "lang": "es"
+  },
+  {
+    "text": "hace es entrena la red neural neuronal",
+    "duration": 6961,
+    "offset": 440599,
+    "lang": "es"
+  },
+  {
+    "text": "y me crea",
+    "duration": 6201,
+    "offset": 444919,
+    "lang": "es"
+  },
+  {
+    "text": "la e",
+    "duration": 7199,
+    "offset": 447560,
+    "lang": "es"
+  },
+  {
+    "text": "me crea el modelo que yo necesito.",
+    "duration": 5560,
+    "offset": 451120,
+    "lang": "es"
+  },
+  {
+    "text": "Tienen estas dos, es muy poquito esto.",
+    "duration": 4280,
+    "offset": 454759,
+    "lang": "es"
+  },
+  {
+    "text": "Pero bien, una vez que está hecho eso,",
+    "duration": 6639,
+    "offset": 456680,
+    "lang": "es"
+  },
+  {
+    "text": "yo voy acá donde dice download dataset,",
+    "duration": 7801,
+    "offset": 459039,
+    "lang": "es"
+  },
+  {
+    "text": "elijo acá show download code. El modelo",
+    "duration": 6201,
+    "offset": 463319,
+    "lang": "es"
+  },
+  {
+    "text": "que voy a elegir de todos estos modelos,",
+    "duration": 5680,
+    "offset": 466840,
+    "lang": "es"
+  },
+  {
+    "text": "el modelo que voy a elegir es Sam 2",
+    "duration": 5519,
+    "offset": 469520,
+    "lang": "es"
+  },
+  {
+    "text": "Segment Anything Model 2. Es un modelo",
+    "duration": 4040,
+    "offset": 472520,
+    "lang": "es"
+  },
+  {
+    "text": "de meta que hace la segmentación",
+    "duration": 3481,
+    "offset": 475039,
+    "lang": "es"
+  },
+  {
+    "text": "semántica de imágenes. Acá le doy",
+    "duration": 4960,
+    "offset": 476560,
+    "lang": "es"
+  },
+  {
+    "text": "continuar.",
+    "duration": 3000,
+    "offset": 478520,
+    "lang": "es"
+  },
+  {
+    "text": "Acá se genera el código.",
+    "duration": 5919,
+    "offset": 482680,
+    "lang": "es"
+  },
+  {
+    "text": "Este código lo copio y este es el que",
+    "duration": 7680,
+    "offset": 485720,
+    "lang": "es"
+  },
+  {
+    "text": "después voy al mail",
+    "duration": 4801,
+    "offset": 488599,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 3601,
+    "offset": 493639,
+    "lang": "es"
+  },
+  {
+    "text": "tengo que compartir en el mail o",
+    "duration": 4720,
+    "offset": 495240,
+    "lang": "es"
+  },
+  {
+    "text": "mandarlo por un pendrive. Pero este es",
+    "duration": 8079,
+    "offset": 497240,
+    "lang": "es"
+  },
+  {
+    "text": "el código. Esto es el modelo entrenado",
+    "duration": 8799,
+    "offset": 499960,
+    "lang": "es"
+  },
+  {
+    "text": "para las imágenes que yo necesito",
+    "duration": 6401,
+    "offset": 505319,
+    "lang": "es"
+  },
+  {
+    "text": "procesar. es el punto de partida para",
+    "duration": 5801,
+    "offset": 508759,
+    "lang": "es"
+  },
+  {
+    "text": "reconocer las imágenes. Acuérdense que",
+    "duration": 5199,
+    "offset": 511720,
+    "lang": "es"
+  },
+  {
+    "text": "lo ideal sería contar con unas 100",
+    "duration": 5839,
+    "offset": 514560,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes o 120 imágenes para que el",
+    "duration": 7800,
+    "offset": 516919,
+    "lang": "es"
+  },
+  {
+    "text": "sistema sea más preciso. To.",
+    "duration": 4320,
+    "offset": 520399,
+    "lang": "es"
+  }
+]

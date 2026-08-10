@@ -1,0 +1,314 @@
+[
+  {
+    "text": "Bueno vamos a mostrar para mí uno de los",
+    "duration": 5801,
+    "offset": 919,
+    "lang": "es"
+  },
+  {
+    "text": "features más importantes que tiene crei",
+    "duration": 5840,
+    "offset": 3320,
+    "lang": "es"
+  },
+  {
+    "text": "que es la posibilidad de hacer reinforce",
+    "duration": 4720,
+    "offset": 6720,
+    "lang": "es"
+  },
+  {
+    "text": "learning for human",
+    "duration": 6000,
+    "offset": 9160,
+    "lang": "es"
+  },
+  {
+    "text": "feedback y realmente lo puede hacer y",
+    "duration": 5960,
+    "offset": 11440,
+    "lang": "es"
+  },
+  {
+    "text": "muy",
+    "duration": 2240,
+    "offset": 15160,
+    "lang": "es"
+  },
+  {
+    "text": "sencillo",
+    "duration": 5920,
+    "offset": 19320,
+    "lang": "es"
+  },
+  {
+    "text": "train ahí empieza con el proceso de",
+    "duration": 8040,
+    "offset": 21600,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento de los agentes",
+    "duration": 4400,
+    "offset": 25240,
+    "lang": "es"
+  },
+  {
+    "text": "entonces va a dar la salida de la gente",
+    "duration": 5479,
+    "offset": 30400,
+    "lang": "es"
+  },
+  {
+    "text": "y una vez que dé la salida de la gente",
+    "duration": 6400,
+    "offset": 32960,
+    "lang": "es"
+  },
+  {
+    "text": "le va a preguntar a la persona fíjense",
+    "duration": 6721,
+    "offset": 35879,
+    "lang": "es"
+  },
+  {
+    "text": "acá ya creó los archivos a donde va a",
+    "duration": 6760,
+    "offset": 39360,
+    "lang": "es"
+  },
+  {
+    "text": "guardar que nosotros leamos y que le",
+    "duration": 6479,
+    "offset": 42600,
+    "lang": "es"
+  },
+  {
+    "text": "digamos si está bien o está mal eso va a",
+    "duration": 4400,
+    "offset": 46120,
+    "lang": "es"
+  },
+  {
+    "text": "ser la",
+    "duration": 4401,
+    "offset": 49079,
+    "lang": "es"
+  },
+  {
+    "text": "recompensa que va a guiar el algoritmo",
+    "duration": 5480,
+    "offset": 50520,
+    "lang": "es"
+  },
+  {
+    "text": "de reing for human feedback O sea la",
+    "duration": 4040,
+    "offset": 53480,
+    "lang": "es"
+  },
+  {
+    "text": "recompensa es una recompensa humana",
+    "duration": 4480,
+    "offset": 56000,
+    "lang": "es"
+  },
+  {
+    "text": "igual que como tiene chat gpt Entonces",
+    "duration": 5719,
+    "offset": 57520,
+    "lang": "es"
+  },
+  {
+    "text": "el Crew que hicimos los agentes que",
+    "duration": 5240,
+    "offset": 60480,
+    "lang": "es"
+  },
+  {
+    "text": "interactúan en este caso lo que nosotros",
+    "duration": 4200,
+    "offset": 63239,
+    "lang": "es"
+  },
+  {
+    "text": "hicimos fue en forma",
+    "duration": 4399,
+    "offset": 65720,
+    "lang": "es"
+  },
+  {
+    "text": "jerárquica esos agentes se van a",
+    "duration": 4881,
+    "offset": 67439,
+    "lang": "es"
+  },
+  {
+    "text": "entrenar y nosotros vamos a poder",
+    "duration": 4881,
+    "offset": 70119,
+    "lang": "es"
+  },
+  {
+    "text": "decidir si es correcto o no Es",
+    "duration": 5680,
+    "offset": 72320,
+    "lang": "es"
+  },
+  {
+    "text": "correcto la salida que dan y todo eso va",
+    "duration": 5240,
+    "offset": 75000,
+    "lang": "es"
+  },
+  {
+    "text": "a quedar en archivos de",
+    "duration": 6119,
+    "offset": 78000,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento y esos archivos de",
+    "duration": 6600,
+    "offset": 80240,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento van a hacer que nuestro",
+    "duration": 4960,
+    "offset": 84119,
+    "lang": "es"
+  },
+  {
+    "text": "sistema mejore y que no solamente de",
+    "duration": 4400,
+    "offset": 86840,
+    "lang": "es"
+  },
+  {
+    "text": "respuestas",
+    "duration": 4320,
+    "offset": 89079,
+    "lang": "es"
+  },
+  {
+    "text": "acordes a lo que nosotros esperábamos",
+    "duration": 4640,
+    "offset": 91240,
+    "lang": "es"
+  },
+  {
+    "text": "sino que también si hay algún tipo de",
+    "duration": 4040,
+    "offset": 93399,
+    "lang": "es"
+  },
+  {
+    "text": "desvío o algún",
+    "duration": 4239,
+    "offset": 95880,
+    "lang": "es"
+  },
+  {
+    "text": "problema se pueda corregir eso tiene que",
+    "duration": 6000,
+    "offset": 97439,
+    "lang": "es"
+  },
+  {
+    "text": "ver con que con el stability del llm va",
+    "duration": 5921,
+    "offset": 100119,
+    "lang": "es"
+  },
+  {
+    "text": "a poder corregir la forma de trabajar",
+    "duration": 5280,
+    "offset": 103439,
+    "lang": "es"
+  },
+  {
+    "text": "del llm para ajustarlo perfectamente no",
+    "duration": 5200,
+    "offset": 106040,
+    "lang": "es"
+  },
+  {
+    "text": "solo con procesos determinísticos sino",
+    "duration": 5241,
+    "offset": 108719,
+    "lang": "es"
+  },
+  {
+    "text": "también va a poder tomar decisiones en",
+    "duration": 5000,
+    "offset": 111240,
+    "lang": "es"
+  },
+  {
+    "text": "forma estocástica a partir",
+    "duration": 5199,
+    "offset": 113960,
+    "lang": "es"
+  },
+  {
+    "text": "de feedback que fuimos dando nosotros en",
+    "duration": 8280,
+    "offset": 116240,
+    "lang": "es"
+  },
+  {
+    "text": "este de simulación que el mismo el mismo",
+    "duration": 5361,
+    "offset": 119159,
+    "lang": "es"
+  },
+  {
+    "text": "trae acá le pusimos que haga cinco",
+    "duration": 6040,
+    "offset": 127640,
+    "lang": "es"
+  },
+  {
+    "text": "iteraciones acá ya vamos por la cuarta",
+    "duration": 5041,
+    "offset": 130599,
+    "lang": "es"
+  },
+  {
+    "text": "ya dio la conclusión nosotros tenemos",
+    "duration": 4639,
+    "offset": 133680,
+    "lang": "es"
+  },
+  {
+    "text": "que evaluar y en función de eso va a ir",
+    "duration": 4879,
+    "offset": 135640,
+    "lang": "es"
+  },
+  {
+    "text": "reajustando toda la tarea que va",
+    "duration": 4121,
+    "offset": 138319,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo va ir reajustando todo para",
+    "duration": 6641,
+    "offset": 140519,
+    "lang": "es"
+  },
+  {
+    "text": "poder llegar a el valor",
+    "duration": 4720,
+    "offset": 142440,
+    "lang": "es"
+  },
+  {
+    "text": "óptimo for",
+    "duration": 4039,
+    "offset": 148840,
+    "lang": "es"
+  }
+]

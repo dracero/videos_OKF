@@ -1,0 +1,404 @@
+[
+  {
+    "text": "E,",
+    "duration": 2920,
+    "offset": 1640,
+    "lang": "es"
+  },
+  {
+    "text": "sí,",
+    "duration": 4160,
+    "offset": 2280,
+    "lang": "es"
+  },
+  {
+    "text": "¿me podrías decir qué es lo que tengo en",
+    "duration": 5879,
+    "offset": 4560,
+    "lang": "es"
+  },
+  {
+    "text": "la mano y de qué color es?",
+    "duration": 3999,
+    "offset": 6440,
+    "lang": "es"
+  },
+  {
+    "text": "Tienes una taza de color azul en la",
+    "duration": 4720,
+    "offset": 11280,
+    "lang": "es"
+  },
+  {
+    "text": "mano.",
+    "duration": 7440,
+    "offset": 13440,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, te voy a compartir también un",
+    "duration": 4880,
+    "offset": 16000,
+    "lang": "es"
+  },
+  {
+    "text": "una",
+    "duration": 4200,
+    "offset": 20960,
+    "lang": "es"
+  },
+  {
+    "text": "veo que también está.",
+    "duration": 3760,
+    "offset": 21400,
+    "lang": "es"
+  },
+  {
+    "text": "Qué bien. ¿En qué puedo ayudarte?",
+    "duration": 5199,
+    "offset": 25560,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, mira, te voy a compartir una",
+    "duration": 4759,
+    "offset": 29000,
+    "lang": "es"
+  },
+  {
+    "text": "ventana.",
+    "duration": 3000,
+    "offset": 30759,
+    "lang": "es"
+  },
+  {
+    "text": "Aguardame que estoy buscando. Eh,",
+    "duration": 4240,
+    "offset": 37800,
+    "lang": "es"
+  },
+  {
+    "text": "claro, tómate tu tiempo. Estoy aquí",
+    "duration": 3640,
+    "offset": 42200,
+    "lang": "es"
+  },
+  {
+    "text": "cuando estés listo.",
+    "duration": 3960,
+    "offset": 44520,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, acá estoy. Eh, tengo este",
+    "duration": 6000,
+    "offset": 45840,
+    "lang": "es"
+  },
+  {
+    "text": "problema, el problema número dos.",
+    "duration": 7640,
+    "offset": 48480,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, y yo no sé si las tensiones",
+    "duration": 7679,
+    "offset": 51840,
+    "lang": "es"
+  },
+  {
+    "text": "en en M2 y en m1 son iguales. Y si no",
+    "duration": 7840,
+    "offset": 56120,
+    "lang": "es"
+  },
+  {
+    "text": "son iguales, ¿no me explicas por qué?",
+    "duration": 4441,
+    "offset": 59519,
+    "lang": "es"
+  },
+  {
+    "text": "En el problema dos, las tensiones en las",
+    "duration": 6761,
+    "offset": 68159,
+    "lang": "es"
+  },
+  {
+    "text": "cuerdas unidas a m1 y m2 generalmente no",
+    "duration": 7360,
+    "offset": 70640,
+    "lang": "es"
+  },
+  {
+    "text": "son iguales. Esto se debe a que la masa",
+    "duration": 6000,
+    "offset": 74920,
+    "lang": "es"
+  },
+  {
+    "text": "m sobre la que se enrollan las cuerdas",
+    "duration": 6439,
+    "offset": 78000,
+    "lang": "es"
+  },
+  {
+    "text": "tiene una masa m y un radio r, lo que",
+    "duration": 6440,
+    "offset": 80920,
+    "lang": "es"
+  },
+  {
+    "text": "introduce una rotación en el sistema y",
+    "duration": 5241,
+    "offset": 84439,
+    "lang": "es"
+  },
+  {
+    "text": "por lo tanto una diferencia en las",
+    "duration": 6280,
+    "offset": 87360,
+    "lang": "es"
+  },
+  {
+    "text": "tensiones entre las masas m1 y m2. ¿Te",
+    "duration": 5880,
+    "offset": 89680,
+    "lang": "es"
+  },
+  {
+    "text": "gustaría que profundice en cómo se",
+    "duration": 4600,
+    "offset": 93640,
+    "lang": "es"
+  },
+  {
+    "text": "calcula la tensión en cada caso?",
+    "duration": 4879,
+    "offset": 95560,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, no, está bien. Y te hago una",
+    "duration": 4680,
+    "offset": 98240,
+    "lang": "es"
+  },
+  {
+    "text": "consulta. El problema",
+    "duration": 4801,
+    "offset": 100439,
+    "lang": "es"
+  },
+  {
+    "text": "1 a podés leer qué es lo que te está",
+    "duration": 5320,
+    "offset": 102920,
+    "lang": "es"
+  },
+  {
+    "text": "preguntando",
+    "duration": 3000,
+    "offset": 105240,
+    "lang": "es"
+  },
+  {
+    "text": "el problema 1a pregunta. Calcular la",
+    "duration": 5760,
+    "offset": 113240,
+    "lang": "es"
+  },
+  {
+    "text": "cantidad de movimiento del sistema",
+    "duration": 5640,
+    "offset": 116640,
+    "lang": "es"
+  },
+  {
+    "text": "respecto al origen o antes y después del",
+    "duration": 6840,
+    "offset": 119000,
+    "lang": "es"
+  },
+  {
+    "text": "choque. ¿Es constante?",
+    "duration": 5280,
+    "offset": 122280,
+    "lang": "es"
+  },
+  {
+    "text": "Yo no sé. Para mí en este caso sí es",
+    "duration": 3399,
+    "offset": 125840,
+    "lang": "es"
+  },
+  {
+    "text": "constante la cantidad de movimiento se",
+    "duration": 5360,
+    "offset": 127560,
+    "lang": "es"
+  },
+  {
+    "text": "conserva porque pero no sé por qué.",
+    "duration": 8041,
+    "offset": 129239,
+    "lang": "es"
+  },
+  {
+    "text": "¿Cómo cómo lo puedo justificar eso?",
+    "duration": 4360,
+    "offset": 132920,
+    "lang": "es"
+  },
+  {
+    "text": "En el caso del problema 1a, la cantidad",
+    "duration": 6161,
+    "offset": 138599,
+    "lang": "es"
+  },
+  {
+    "text": "de movimiento del sistema se conserva si",
+    "duration": 5840,
+    "offset": 141640,
+    "lang": "es"
+  },
+  {
+    "text": "no actúan fuerzas externas netas sobre",
+    "duration": 6199,
+    "offset": 144760,
+    "lang": "es"
+  },
+  {
+    "text": "él. Para justificarlo, debes considerar",
+    "duration": 5960,
+    "offset": 147480,
+    "lang": "es"
+  },
+  {
+    "text": "si la fuerza del choque entre las masas",
+    "duration": 5640,
+    "offset": 150959,
+    "lang": "es"
+  },
+  {
+    "text": "es interna y si hay fuerzas externas",
+    "duration": 5719,
+    "offset": 153440,
+    "lang": "es"
+  },
+  {
+    "text": "como la gravedad o la fricción que",
+    "duration": 4961,
+    "offset": 156599,
+    "lang": "es"
+  },
+  {
+    "text": "actúen sobre las masas en la dirección",
+    "duration": 5241,
+    "offset": 159159,
+    "lang": "es"
+  },
+  {
+    "text": "horizontal. Si solo actúan fuerzas",
+    "duration": 5520,
+    "offset": 161560,
+    "lang": "es"
+  },
+  {
+    "text": "internas en esa dirección, la cantidad",
+    "duration": 5720,
+    "offset": 164400,
+    "lang": "es"
+  },
+  {
+    "text": "de movimiento en ese eje se conserva.",
+    "duration": 5360,
+    "offset": 167080,
+    "lang": "es"
+  },
+  {
+    "text": "¿Necesitas ayuda para identificar las",
+    "duration": 4880,
+    "offset": 170120,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas que actúan sobre cada masa?",
+    "duration": 4240,
+    "offset": 172440,
+    "lang": "es"
+  },
+  {
+    "text": "El tema es que el problema dice que se",
+    "duration": 3959,
+    "offset": 175000,
+    "lang": "es"
+  },
+  {
+    "text": "trata de un sistema aislado y yo no sé",
+    "duration": 5800,
+    "offset": 176680,
+    "lang": "es"
+  },
+  {
+    "text": "qué quiere decir.",
+    "duration": 3521,
+    "offset": 178959,
+    "lang": "es"
+  },
+  {
+    "text": "Un sistema aislado significa que no",
+    "duration": 6000,
+    "offset": 184400,
+    "lang": "es"
+  },
+  {
+    "text": "actúan fuerzas externas netas sobre él.",
+    "duration": 5120,
+    "offset": 187080,
+    "lang": "es"
+  },
+  {
+    "text": "En el contexto de la cantidad de",
+    "duration": 4240,
+    "offset": 190400,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento, esto significa que la",
+    "duration": 5080,
+    "offset": 192200,
+    "lang": "es"
+  },
+  {
+    "text": "cantidad de movimiento total del sistema",
+    "duration": 6400,
+    "offset": 194640,
+    "lang": "es"
+  },
+  {
+    "text": "se conserva antes y después del choque.",
+    "duration": 6160,
+    "offset": 197280,
+    "lang": "es"
+  },
+  {
+    "text": "Esto te ayuda a entender cómo justificar",
+    "duration": 4199,
+    "offset": 201040,
+    "lang": "es"
+  },
+  {
+    "text": "si la cantidad de movimiento se",
+    "duration": 5640,
+    "offset": 203440,
+    "lang": "es"
+  },
+  {
+    "text": "conserva. Sí, perfecto.",
+    "duration": 3841,
+    "offset": 205239,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "text": "vamos a hacer una pregunta en el chatbot",
+    "duration": 7561,
+    "offset": 599,
+    "lang": "es"
+  },
+  {
+    "text": "que sabemos que el chatbot contesta Como",
+    "duration": 10040,
+    "offset": 3360,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo como hago para",
+    "duration": 5240,
+    "offset": 8160,
+    "lang": "es"
+  },
+  {
+    "text": "calcular potencia",
+    "duration": 3899,
+    "offset": 14700,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí va a buscar ahí encontró pudo",
+    "duration": 5219,
+    "offset": 20820,
+    "lang": "es"
+  },
+  {
+    "text": "interpretar que le estábamos preguntando",
+    "duration": 3541,
+    "offset": 24539,
+    "lang": "es"
+  },
+  {
+    "text": "nos dice cómo hago para calcular",
+    "duration": 5041,
+    "offset": 26039,
+    "lang": "es"
+  },
+  {
+    "text": "potencia y a su vez nos da links si",
+    "duration": 6019,
+    "offset": 28080,
+    "lang": "es"
+  },
+  {
+    "text": "ahora le pregunto",
+    "duration": 3019,
+    "offset": 31080,
+    "lang": "es"
+  },
+  {
+    "text": "que es el cir",
+    "duration": 4140,
+    "offset": 36120,
+    "lang": "es"
+  },
+  {
+    "text": "bien ahí le pregunté Qué es el sir y me",
+    "duration": 5699,
+    "offset": 42180,
+    "lang": "es"
+  },
+  {
+    "text": "dice no entiendo tu pregunta en realidad",
+    "duration": 5761,
+    "offset": 45059,
+    "lang": "es"
+  },
+  {
+    "text": "una de las particularidades que tiene la",
+    "duration": 7680,
+    "offset": 47879,
+    "lang": "es"
+  },
+  {
+    "text": "red lstm es que es pierde rápidamente el",
+    "duration": 7440,
+    "offset": 50820,
+    "lang": "es"
+  },
+  {
+    "text": "contexto es muy dependiente del contexto",
+    "duration": 5340,
+    "offset": 55559,
+    "lang": "es"
+  },
+  {
+    "text": "y depende de cómo nosotros formemos",
+    "duration": 5040,
+    "offset": 58260,
+    "lang": "es"
+  },
+  {
+    "text": "formulemos La pregunta es que va a",
+    "duration": 3961,
+    "offset": 60899,
+    "lang": "es"
+  },
+  {
+    "text": "contestar o no por ejemplo si yo le",
+    "duration": 3980,
+    "offset": 63300,
+    "lang": "es"
+  },
+  {
+    "text": "pongo en un",
+    "duration": 5520,
+    "offset": 64860,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido",
+    "duration": 5140,
+    "offset": 67280,
+    "lang": "es"
+  },
+  {
+    "text": "ahí le estoy ayudando a tomar el",
+    "duration": 4580,
+    "offset": 70380,
+    "lang": "es"
+  },
+  {
+    "text": "contexto",
+    "duration": 2540,
+    "offset": 72420,
+    "lang": "es"
+  },
+  {
+    "text": "Qué es el cir",
+    "duration": 3621,
+    "offset": 76439,
+    "lang": "es"
+  },
+  {
+    "text": "hay pudo darme una respuesta pero pudo",
+    "duration": 6279,
+    "offset": 84200,
+    "lang": "es"
+  },
+  {
+    "text": "darme una respuesta porque yo ayudé a la",
+    "duration": 6680,
+    "offset": 87840,
+    "lang": "es"
+  },
+  {
+    "text": "red a que tomara el contexto",
+    "duration": 4041,
+    "offset": 90479,
+    "lang": "es"
+  }
+]

@@ -1,6 +1,7 @@
 import fs from 'fs/promises';
 import path from 'path';
 import dotenv from 'dotenv';
+import { YoutubeTranscript } from 'youtube-transcript';
 import { generateCatalogEmbeddings } from './semantic-search.js';
 
 dotenv.config();
@@ -8,7 +9,8 @@ dotenv.config();
 const CHANNELS_LIST = [
   'UCmyMY4FLYPYoO1IZhZPqc3w', // Diego Racero @diegoracero6447
   'UCx1KkYmHhghhGFgA7VP2aWQ', // Diego Racero @diegoracero
-  'UCDs8wbm1jczac3UNYIAVxZg'  // Diego Racero @diegoracero1263
+  'UCDs8wbm1jczac3UNYIAVxZg', // Diego Racero @diegoracero1263
+  'UCbSbKX3V4J28e4iJtulgEQA'  // DiegoTestDireco @diegotestdireco3494
 ];
 
 const OKF_DIR = path.resolve('./src/content/okf');
@@ -32,7 +34,7 @@ export async function isSyncNeeded(cooldownMs = 60 * 60 * 1000) {
 
 // Main sync logic
 export async function syncCatalog({ force = false } = {}) {
-  const apiKey = process.env.YOUTUBE_API_KEY;
+  const apiKey = import.meta.env?.YOUTUBE_API_KEY || process.env.YOUTUBE_API_KEY;
   if (!apiKey) {
     throw new Error('YOUTUBE_API_KEY is not defined in the environment variables (.env).');
   }
@@ -40,6 +42,7 @@ export async function syncCatalog({ force = false } = {}) {
   // Ensure directories exist
   await fs.mkdir(path.join(OKF_DIR, 'channels'), { recursive: true });
   await fs.mkdir(path.join(OKF_DIR, 'videos'), { recursive: true });
+  await fs.mkdir(path.join(OKF_DIR, 'transcripts'), { recursive: true });
 
   if (!force && !(await isSyncNeeded())) {
     console.log('Catalog is fresh. Sync skipped.');
@@ -244,6 +247,26 @@ ${description || 'Sin descripción.'}
 `;
 
           await fs.writeFile(path.join(OKF_DIR, 'videos', `${videoId}.md`), videoFrontmatter, 'utf-8');
+
+          // Fetch and save video transcript as a sidecar JSON file
+          try {
+            console.log(`Fetching transcript for video ${videoId} (${title.substring(0, 30)})...`);
+            const transcript = await YoutubeTranscript.fetchTranscript(videoId);
+            await fs.writeFile(
+              path.join(OKF_DIR, 'transcripts', `${videoId}.json`),
+              JSON.stringify(transcript, null, 2),
+              'utf-8'
+            );
+          } catch (err) {
+            // Save empty transcript if not found/disabled to prevent errors and cache status
+            console.warn(`No transcript found for video ${videoId}. Saving empty transcript.`);
+            await fs.writeFile(
+              path.join(OKF_DIR, 'transcripts', `${videoId}.json`),
+              JSON.stringify([], null, 2),
+              'utf-8'
+            );
+          }
+
           totalVideosSynced++;
         }
       }

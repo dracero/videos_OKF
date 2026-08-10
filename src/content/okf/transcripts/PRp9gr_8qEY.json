@@ -1,0 +1,428 @@
+[
+  {
+    "text": "Acá podemos ver como iterativamente",
+    "duration": 8040,
+    "offset": 2960,
+    "lang": "es"
+  },
+  {
+    "text": "ingresó a los archivos que estaban en el",
+    "duration": 5880,
+    "offset": 7560,
+    "lang": "es"
+  },
+  {
+    "text": "directorio,",
+    "duration": 5279,
+    "offset": 11000,
+    "lang": "es"
+  },
+  {
+    "text": "utilizó la conexión a la página donde",
+    "duration": 4999,
+    "offset": 13440,
+    "lang": "es"
+  },
+  {
+    "text": "estaba la documentación, o sea, que es",
+    "duration": 6801,
+    "offset": 16279,
+    "lang": "es"
+  },
+  {
+    "text": "documentación actualizada y escribió",
+    "duration": 7801,
+    "offset": 18439,
+    "lang": "es"
+  },
+  {
+    "text": "lo que hace, lo describió lo que hace",
+    "duration": 6720,
+    "offset": 23080,
+    "lang": "es"
+  },
+  {
+    "text": "cada uno de estos elementos. Si yo acá",
+    "duration": 7920,
+    "offset": 26240,
+    "lang": "es"
+  },
+  {
+    "text": "le doy keep, esto lo mantiene y entonces",
+    "duration": 7960,
+    "offset": 29800,
+    "lang": "es"
+  },
+  {
+    "text": "lo que hace ahora es describe",
+    "duration": 6120,
+    "offset": 34160,
+    "lang": "es"
+  },
+  {
+    "text": "basado en la documentación actualizada",
+    "duration": 5160,
+    "offset": 37760,
+    "lang": "es"
+  },
+  {
+    "text": "lo que hace cada uno de esos elementos o",
+    "duration": 6279,
+    "offset": 40280,
+    "lang": "es"
+  },
+  {
+    "text": "lo que hace cada uno de esos",
+    "duration": 6639,
+    "offset": 42920,
+    "lang": "es"
+  },
+  {
+    "text": "componentes.",
+    "duration": 3000,
+    "offset": 46559,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora nosotros queremos que esto sea",
+    "duration": 5960,
+    "offset": 49800,
+    "lang": "es"
+  },
+  {
+    "text": "enviado, se cree una página en",
+    "duration": 6239,
+    "offset": 52840,
+    "lang": "es"
+  },
+  {
+    "text": "confluence que tenga esta documentación.",
+    "duration": 5840,
+    "offset": 55760,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces le vamos a decir como yo",
+    "duration": 6720,
+    "offset": 59079,
+    "lang": "es"
+  },
+  {
+    "text": "también tengo en los MCP Servers, el MCP",
+    "duration": 7720,
+    "offset": 61600,
+    "lang": "es"
+  },
+  {
+    "text": "Server de Atlacia, le vamos a decir si",
+    "duration": 6320,
+    "offset": 65799,
+    "lang": "es"
+  },
+  {
+    "text": "podés crear",
+    "duration": 7320,
+    "offset": 69320,
+    "lang": "es"
+  },
+  {
+    "text": "con la información",
+    "duration": 6841,
+    "offset": 72119,
+    "lang": "es"
+  },
+  {
+    "text": "del",
+    "duration": 5320,
+    "offset": 76640,
+    "lang": "es"
+  },
+  {
+    "text": "ritmi.",
+    "duration": 3000,
+    "offset": 78960,
+    "lang": "es"
+  },
+  {
+    "text": "una página en confluence",
+    "duration": 6559,
+    "offset": 82200,
+    "lang": "es"
+  },
+  {
+    "text": "llamada",
+    "duration": 3000,
+    "offset": 85759,
+    "lang": "es"
+  },
+  {
+    "text": "A2 a",
+    "duration": 5520,
+    "offset": 89320,
+    "lang": "es"
+  },
+  {
+    "text": "client.",
+    "duration": 5600,
+    "offset": 92240,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces ahí le pedimos que utilizando",
+    "duration": 5480,
+    "offset": 94840,
+    "lang": "es"
+  },
+  {
+    "text": "ese MCP server de Atlasian, fíjense como",
+    "duration": 4840,
+    "offset": 97840,
+    "lang": "es"
+  },
+  {
+    "text": "ahí empieza a conectarse a Atlasian a",
+    "duration": 5119,
+    "offset": 100320,
+    "lang": "es"
+  },
+  {
+    "text": "través del MSP Server. Le pedimos que",
+    "duration": 5360,
+    "offset": 102680,
+    "lang": "es"
+  },
+  {
+    "text": "usando SMSP Server toda esta",
+    "duration": 4960,
+    "offset": 105439,
+    "lang": "es"
+  },
+  {
+    "text": "documentación que es documentación hecha",
+    "duration": 5759,
+    "offset": 108040,
+    "lang": "es"
+  },
+  {
+    "text": "con Agentic Rag y que está eh totalmente",
+    "duration": 7000,
+    "offset": 110399,
+    "lang": "es"
+  },
+  {
+    "text": "actualizada y basada también en lo que",
+    "duration": 7320,
+    "offset": 113799,
+    "lang": "es"
+  },
+  {
+    "text": "hace nuestro programa, la ponga en",
+    "duration": 6801,
+    "offset": 117399,
+    "lang": "es"
+  },
+  {
+    "text": "Atlasian. Entonces ahí está creando,",
+    "duration": 6280,
+    "offset": 121119,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense como está creando la página",
+    "duration": 5759,
+    "offset": 124200,
+    "lang": "es"
+  },
+  {
+    "text": "y acá dice que la página ya fue creada.",
+    "duration": 5961,
+    "offset": 127399,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que terminamos de codear,",
+    "duration": 6321,
+    "offset": 129959,
+    "lang": "es"
+  },
+  {
+    "text": "pedimos la documentación y lo mandamos",
+    "duration": 6040,
+    "offset": 133360,
+    "lang": "es"
+  },
+  {
+    "text": "para que lo ponga en Atlasian. Y vamos a",
+    "duration": 7480,
+    "offset": 136280,
+    "lang": "es"
+  },
+  {
+    "text": "ver si lo hizo realmente.",
+    "duration": 4360,
+    "offset": 139400,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora ponemos",
+    "duration": 5800,
+    "offset": 145200,
+    "lang": "es"
+  },
+  {
+    "text": "entramos a Gira",
+    "duration": 3640,
+    "offset": 147360,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí vamos a ir al proyecto FACEC",
+    "duration": 7040,
+    "offset": 156640,
+    "lang": "es"
+  },
+  {
+    "text": "y acá de este proyecto Facetec.",
+    "duration": 6080,
+    "offset": 168200,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a ir a confluence",
+    "duration": 5000,
+    "offset": 176319,
+    "lang": "es"
+  },
+  {
+    "text": "y vamos a ver si efectivamente creó",
+    "duration": 4400,
+    "offset": 183280,
+    "lang": "es"
+  },
+  {
+    "text": "nuestra página y tiene la información",
+    "duration": 4800,
+    "offset": 185680,
+    "lang": "es"
+  },
+  {
+    "text": "que nosotros queríamos.",
+    "duration": 5160,
+    "offset": 187680,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense, acá está creada por Diego",
+    "duration": 6000,
+    "offset": 190480,
+    "lang": "es"
+  },
+  {
+    "text": "Rasero hace un minuto. Y cuando entramos",
+    "duration": 8080,
+    "offset": 192840,
+    "lang": "es"
+  },
+  {
+    "text": "a la página de confluence,",
+    "duration": 4440,
+    "offset": 196480,
+    "lang": "es"
+  },
+  {
+    "text": "vemos que",
+    "duration": 5079,
+    "offset": 201080,
+    "lang": "es"
+  },
+  {
+    "text": "acá efectivamente",
+    "duration": 6000,
+    "offset": 203040,
+    "lang": "es"
+  },
+  {
+    "text": "está el MD. Ahora, obviamente se ve así",
+    "duration": 7401,
+    "offset": 206159,
+    "lang": "es"
+  },
+  {
+    "text": "porque está en eh",
+    "duration": 4520,
+    "offset": 209040,
+    "lang": "es"
+  },
+  {
+    "text": "está hecho en formato markdown. Vemos",
+    "duration": 7479,
+    "offset": 213680,
+    "lang": "es"
+  },
+  {
+    "text": "como acá está toda la documentación",
+    "duration": 8000,
+    "offset": 216360,
+    "lang": "es"
+  },
+  {
+    "text": "que eh que nosotros le habíamos pedido.",
+    "duration": 4601,
+    "offset": 221159,
+    "lang": "es"
+  },
+  {
+    "text": "Dice, \"Estos componentes aprovechan la",
+    "duration": 2720,
+    "offset": 224360,
+    "lang": "es"
+  },
+  {
+    "text": "arquitectura de Astro que permite",
+    "duration": 4039,
+    "offset": 225760,
+    "lang": "es"
+  },
+  {
+    "text": "combinar HTML, JavaScript y estilos de",
+    "duration": 4760,
+    "offset": 227080,
+    "lang": "es"
+  },
+  {
+    "text": "archivo, facilitando la reutilización y",
+    "duration": 3321,
+    "offset": 229799,
+    "lang": "es"
+  },
+  {
+    "text": "el mantenimiento del código para más",
+    "duration": 3200,
+    "offset": 231840,
+    "lang": "es"
+  },
+  {
+    "text": "información sobre componentes Astro.\" Y",
+    "duration": 4319,
+    "offset": 233120,
+    "lang": "es"
+  },
+  {
+    "text": "acá nos manda a la documentación",
+    "duration": 4559,
+    "offset": 235040,
+    "lang": "es"
+  },
+  {
+    "text": "oficial, que es la página que nosotros",
+    "duration": 8440,
+    "offset": 237439,
+    "lang": "es"
+  },
+  {
+    "text": "le pusimos cuando creamos todo esto. St.",
+    "duration": 6280,
+    "offset": 239599,
+    "lang": "es"
+  }
+]

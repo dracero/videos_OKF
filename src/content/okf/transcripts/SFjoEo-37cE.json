@@ -1,0 +1,7166 @@
+[
+  {
+    "text": "bueno eso por un lado o sea",
+    "duration": 5940,
+    "offset": 0,
+    "lang": "es"
+  },
+  {
+    "text": "igual esto ya va a ser estamos hablando",
+    "duration": 5620,
+    "offset": 2270,
+    "lang": "es"
+  },
+  {
+    "text": "de cosas para el año que viene para este",
+    "duration": 3900,
+    "offset": 5940,
+    "lang": "es"
+  },
+  {
+    "text": "año porque estamos al primero de",
+    "duration": 4490,
+    "offset": 7890,
+    "lang": "es"
+  },
+  {
+    "text": "diciembre",
+    "duration": 5480,
+    "offset": 9840,
+    "lang": "es"
+  },
+  {
+    "text": "el próximo miércoles es feriado es 8 de",
+    "duration": 5450,
+    "offset": 12380,
+    "lang": "es"
+  },
+  {
+    "text": "diciembre de la inmaculada concepción",
+    "duration": 5459,
+    "offset": 15320,
+    "lang": "es"
+  },
+  {
+    "text": "y el otro ya es 15 de diciembre ya",
+    "duration": 4330,
+    "offset": 17830,
+    "lang": "es"
+  },
+  {
+    "text": "estamos prácticamente sobre el final de",
+    "duration": 3981,
+    "offset": 20779,
+    "lang": "es"
+  },
+  {
+    "text": "cuatrimestre",
+    "duration": 2600,
+    "offset": 22160,
+    "lang": "es"
+  },
+  {
+    "text": "en enero nos apagamos",
+    "duration": 4670,
+    "offset": 24920,
+    "lang": "es"
+  },
+  {
+    "text": "así que volvemos en febrero y en febrero",
+    "duration": 5580,
+    "offset": 29610,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a volver viendo esto de gracia",
+    "duration": 5280,
+    "offset": 32040,
+    "lang": "es"
+  },
+  {
+    "text": "igual ahora les quiero dar algo de codo",
+    "duration": 4730,
+    "offset": 35190,
+    "lang": "es"
+  },
+  {
+    "text": "y les quiero mostrar",
+    "duration": 5899,
+    "offset": 37320,
+    "lang": "es"
+  },
+  {
+    "text": "y después lo otro que yo en lo que",
+    "duration": 5310,
+    "offset": 39920,
+    "lang": "es"
+  },
+  {
+    "text": "también estuve trabajando y que vamos a",
+    "duration": 4491,
+    "offset": 43219,
+    "lang": "es"
+  },
+  {
+    "text": "hacer después es trabajar en",
+    "duration": 6870,
+    "offset": 45230,
+    "lang": "es"
+  },
+  {
+    "text": "autorización acceso y login",
+    "duration": 7770,
+    "offset": 47710,
+    "lang": "es"
+  },
+  {
+    "text": "para eso lo que vamos a hacer es vamos a",
+    "duration": 5939,
+    "offset": 52100,
+    "lang": "es"
+  },
+  {
+    "text": "autorizar solamente aquellas personas",
+    "duration": 5590,
+    "offset": 55480,
+    "lang": "es"
+  },
+  {
+    "text": "que tengan mail de gmail de firma",
+    "duration": 5101,
+    "offset": 58039,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a usar una estrategia de",
+    "duration": 5250,
+    "offset": 61070,
+    "lang": "es"
+  },
+  {
+    "text": "autenticación que se usa con un malware",
+    "duration": 6769,
+    "offset": 63140,
+    "lang": "es"
+  },
+  {
+    "text": "que ya para word y express",
+    "duration": 3589,
+    "offset": 66320,
+    "lang": "es"
+  },
+  {
+    "text": "el front end va a estar en riad lo que",
+    "duration": 4410,
+    "offset": 71220,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver vamos a hablar de todo lo",
+    "duration": 3720,
+    "offset": 73530,
+    "lang": "es"
+  },
+  {
+    "text": "que falta autenticación que no vimos",
+    "duration": 4130,
+    "offset": 75630,
+    "lang": "es"
+  },
+  {
+    "text": "nunca ahí sí open atendí keys john 2",
+    "duration": 5760,
+    "offset": 77250,
+    "lang": "es"
+  },
+  {
+    "text": "como setear de google para usar el open",
+    "duration": 5770,
+    "offset": 79760,
+    "lang": "es"
+  },
+  {
+    "text": "auto indicación 2 de google",
+    "duration": 4590,
+    "offset": 83010,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a hablar de cookies de sesiones",
+    "duration": 4050,
+    "offset": 85530,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a usar la sesión para hacer render",
+    "duration": 3750,
+    "offset": 87600,
+    "lang": "es"
+  },
+  {
+    "text": "incondicional yo ya tengo todo el código",
+    "duration": 5210,
+    "offset": 89580,
+    "lang": "es"
+  },
+  {
+    "text": "armado estuve estos últimos dos meses",
+    "duration": 5940,
+    "offset": 91350,
+    "lang": "es"
+  },
+  {
+    "text": "armando todo el código de autenticación",
+    "duration": 6310,
+    "offset": 94790,
+    "lang": "es"
+  },
+  {
+    "text": "y login eso ya es mucho más el tema",
+    "duration": 5520,
+    "offset": 97290,
+    "lang": "es"
+  },
+  {
+    "text": "autenticación y login porque es mucho",
+    "duration": 4470,
+    "offset": 101100,
+    "lang": "es"
+  },
+  {
+    "text": "más laburo y también ustedes alguna vez",
+    "duration": 5450,
+    "offset": 102810,
+    "lang": "es"
+  },
+  {
+    "text": "vieron el concepto de cookie de sesión",
+    "duration": 5350,
+    "offset": 105570,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 7140,
+    "offset": 108260,
+    "lang": "es"
+  },
+  {
+    "text": "y un poco más en términos de browser",
+    "duration": 5910,
+    "offset": 110920,
+    "lang": "es"
+  },
+  {
+    "text": "pero",
+    "duration": 3520,
+    "offset": 115400,
+    "lang": "es"
+  },
+  {
+    "text": "guarda",
+    "duration": 4130,
+    "offset": 116830,
+    "lang": "es"
+  },
+  {
+    "text": "ahora ustedes van a estar de los dos",
+    "duration": 4230,
+    "offset": 118920,
+    "lang": "es"
+  },
+  {
+    "text": "lados te van a crear la cookie van a ver",
+    "duration": 5070,
+    "offset": 120960,
+    "lang": "es"
+  },
+  {
+    "text": "como el browser la usa la van a leer del",
+    "duration": 6329,
+    "offset": 123150,
+    "lang": "es"
+  },
+  {
+    "text": "lado front y cuando se desbloquee la van",
+    "duration": 5550,
+    "offset": 126030,
+    "lang": "es"
+  },
+  {
+    "text": "a destruir y aparte también van a usar",
+    "duration": 5911,
+    "offset": 129479,
+    "lang": "es"
+  },
+  {
+    "text": "el session haití para poder seguridad la",
+    "duration": 5340,
+    "offset": 131580,
+    "lang": "es"
+  },
+  {
+    "text": "función es hacer que en este logrado y",
+    "duration": 3480,
+    "offset": 135390,
+    "lang": "es"
+  },
+  {
+    "text": "el quien esté autorizado no ve lo que",
+    "duration": 4340,
+    "offset": 136920,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes hicieron",
+    "duration": 2390,
+    "offset": 138870,
+    "lang": "es"
+  },
+  {
+    "text": "yo creo que eso nos va a llevar",
+    "duration": 4320,
+    "offset": 143580,
+    "lang": "es"
+  },
+  {
+    "text": "aproximadamente unos 3 o 4 meses del año",
+    "duration": 4170,
+    "offset": 145410,
+    "lang": "es"
+  },
+  {
+    "text": "que viene para tener el proyecto",
+    "duration": 4460,
+    "offset": 147900,
+    "lang": "es"
+  },
+  {
+    "text": "terminado del todo",
+    "duration": 2780,
+    "offset": 149580,
+    "lang": "es"
+  },
+  {
+    "text": "ya mediados del año que viene creo que",
+    "duration": 5010,
+    "offset": 153470,
+    "lang": "es"
+  },
+  {
+    "text": "finaliza el batik igual ya hoy estaría",
+    "duration": 5850,
+    "offset": 155540,
+    "lang": "es"
+  },
+  {
+    "text": "el proyecto salvo autenticación y",
+    "duration": 4950,
+    "offset": 158480,
+    "lang": "es"
+  },
+  {
+    "text": "accedes y demás hoy ya estaría para",
+    "duration": 4300,
+    "offset": 161390,
+    "lang": "es"
+  },
+  {
+    "text": "ponerse a funcionar",
+    "duration": 4210,
+    "offset": 163430,
+    "lang": "es"
+  },
+  {
+    "text": "o sea la versión 1 y el sprint es ahora",
+    "duration": 3510,
+    "offset": 165690,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a cerrar y vamos a abrir otro",
+    "duration": 4020,
+    "offset": 167640,
+    "lang": "es"
+  },
+  {
+    "text": "sprint por el tema del gráfico y después",
+    "duration": 4230,
+    "offset": 169200,
+    "lang": "es"
+  },
+  {
+    "text": "otro sprint por el tema de la",
+    "duration": 4820,
+    "offset": 171660,
+    "lang": "es"
+  },
+  {
+    "text": "utilización y acceso",
+    "duration": 3050,
+    "offset": 173430,
+    "lang": "es"
+  },
+  {
+    "text": "y después más adelante sea igual ahí o",
+    "duration": 6240,
+    "offset": 176740,
+    "lang": "es"
+  },
+  {
+    "text": "sea yo tengo más proyectos de sobre todo",
+    "duration": 5980,
+    "offset": 179980,
+    "lang": "es"
+  },
+  {
+    "text": "había visto el sistema de productor in",
+    "duration": 6280,
+    "offset": 182980,
+    "lang": "es"
+  },
+  {
+    "text": "teníamos el sistema de autenticación con",
+    "duration": 6600,
+    "offset": 185960,
+    "lang": "es"
+  },
+  {
+    "text": "rostro y lo que me gustaría enseñarle",
+    "duration": 4980,
+    "offset": 189260,
+    "lang": "es"
+  },
+  {
+    "text": "por ahí ya a partir de la segunda mitad",
+    "duration": 3630,
+    "offset": 192560,
+    "lang": "es"
+  },
+  {
+    "text": "del año que viene algo que no vimos con",
+    "duration": 4050,
+    "offset": 194240,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes que es may in learning lado",
+    "duration": 3840,
+    "offset": 196190,
+    "lang": "es"
+  },
+  {
+    "text": "machine learning no guiado y empezar a",
+    "duration": 3800,
+    "offset": 198290,
+    "lang": "es"
+  },
+  {
+    "text": "ver cosas de inteligencia artificial",
+    "duration": 4890,
+    "offset": 200030,
+    "lang": "es"
+  },
+  {
+    "text": "dudo mucho que transite en su vida",
+    "duration": 4690,
+    "offset": 202090,
+    "lang": "es"
+  },
+  {
+    "text": "profesional sin hacer cosas de",
+    "duration": 3820,
+    "offset": 204920,
+    "lang": "es"
+  },
+  {
+    "text": "inteligencia artificial",
+    "duration": 3910,
+    "offset": 206780,
+    "lang": "es"
+  },
+  {
+    "text": "o sea la inteligencia artificial para",
+    "duration": 5220,
+    "offset": 208740,
+    "lang": "es"
+  },
+  {
+    "text": "aliviar su profesión seguramente todo lo",
+    "duration": 4920,
+    "offset": 210690,
+    "lang": "es"
+  },
+  {
+    "text": "que hagan como esto que hicieron ahora",
+    "duration": 3960,
+    "offset": 213960,
+    "lang": "es"
+  },
+  {
+    "text": "que es para alimentar un sistema de",
+    "duration": 4110,
+    "offset": 215610,
+    "lang": "es"
+  },
+  {
+    "text": "inteligencia artificial seguramente todo",
+    "duration": 5750,
+    "offset": 217920,
+    "lang": "es"
+  },
+  {
+    "text": "lo que hagan va a estar destinado a eso",
+    "duration": 3950,
+    "offset": 219720,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 2660,
+    "offset": 223870,
+    "lang": "es"
+  },
+  {
+    "text": "esperen que les muestro a hice los",
+    "duration": 6480,
+    "offset": 226550,
+    "lang": "es"
+  },
+  {
+    "text": "deployment algo de lo que nos ha hablado",
+    "duration": 8570,
+    "offset": 230990,
+    "lang": "es"
+  },
+  {
+    "text": "nunca que lo hice en hero",
+    "duration": 9200,
+    "offset": 233030,
+    "lang": "es"
+  },
+  {
+    "text": "la gorda ha hablado de heroku que era",
+    "duration": 4530,
+    "offset": 239560,
+    "lang": "es"
+  },
+  {
+    "text": "una plataforma de deployment cervantes",
+    "duration": 7339,
+    "offset": 242230,
+    "lang": "es"
+  },
+  {
+    "text": "para quien quiera usted desconecte él",
+    "duration": 9259,
+    "offset": 244090,
+    "lang": "es"
+  },
+  {
+    "text": "el repo de needham hiroku hilo de",
+    "duration": 7051,
+    "offset": 249569,
+    "lang": "es"
+  },
+  {
+    "text": "explosión heroku y el front end lo hice",
+    "duration": 4971,
+    "offset": 253349,
+    "lang": "es"
+  },
+  {
+    "text": "en verse",
+    "duration": 5180,
+    "offset": 256620,
+    "lang": "es"
+  },
+  {
+    "text": "porque a ver si alguno o escucharon",
+    "duration": 5520,
+    "offset": 258320,
+    "lang": "es"
+  },
+  {
+    "text": "alguna vez el motivo por el cual no se",
+    "duration": 6680,
+    "offset": 261800,
+    "lang": "es"
+  },
+  {
+    "text": "hacen los deployment en el mismo lugar",
+    "duration": 4640,
+    "offset": 263840,
+    "lang": "es"
+  },
+  {
+    "text": "acá esta tarde bueno",
+    "duration": 4460,
+    "offset": 269440,
+    "lang": "es"
+  },
+  {
+    "text": "pero",
+    "duration": 4890,
+    "offset": 272170,
+    "lang": "es"
+  },
+  {
+    "text": "claro porque porque el back y el front",
+    "duration": 6250,
+    "offset": 273900,
+    "lang": "es"
+  },
+  {
+    "text": "están en los de clemente están hechos en",
+    "duration": 5320,
+    "offset": 277060,
+    "lang": "es"
+  },
+  {
+    "text": "distintos",
+    "duration": 4510,
+    "offset": 280150,
+    "lang": "es"
+  },
+  {
+    "text": "en distintas plataformas uno en barceló",
+    "duration": 6730,
+    "offset": 282380,
+    "lang": "es"
+  },
+  {
+    "text": "y otro en hero que en realidad verse",
+    "duration": 7030,
+    "offset": 284660,
+    "lang": "es"
+  },
+  {
+    "text": "y yo les dije no habérseles la creación",
+    "duration": 5830,
+    "offset": 289110,
+    "lang": "es"
+  },
+  {
+    "text": "de un argentino llama visión no rauch",
+    "duration": 5350,
+    "offset": 291690,
+    "lang": "es"
+  },
+  {
+    "text": "que le faltan dos materias para terminar",
+    "duration": 4550,
+    "offset": 294940,
+    "lang": "es"
+  },
+  {
+    "text": "el carlos pellegrini",
+    "duration": 2450,
+    "offset": 297040,
+    "lang": "es"
+  },
+  {
+    "text": "en realidad no sé si es marcelo ofrecer",
+    "duration": 5730,
+    "offset": 299510,
+    "lang": "es"
+  },
+  {
+    "text": "antes se llamaba site site en alemán",
+    "duration": 6690,
+    "offset": 302000,
+    "lang": "es"
+  },
+  {
+    "text": "significa tiempo así que ahora no sé si",
+    "duration": 5910,
+    "offset": 305240,
+    "lang": "es"
+  },
+  {
+    "text": "es o antes tenía un nombre de alemán",
+    "duration": 5190,
+    "offset": 308690,
+    "lang": "es"
+  },
+  {
+    "text": "ahora no sé si es vieron que en alemán",
+    "duration": 4800,
+    "offset": 311150,
+    "lang": "es"
+  },
+  {
+    "text": "la ve corta es como una efe no sé si es",
+    "duration": 5100,
+    "offset": 313880,
+    "lang": "es"
+  },
+  {
+    "text": "cárcel o barcel bien este es una",
+    "duration": 5700,
+    "offset": 315950,
+    "lang": "es"
+  },
+  {
+    "text": "plataforma de prohiben ser verles y la",
+    "duration": 5870,
+    "offset": 318980,
+    "lang": "es"
+  },
+  {
+    "text": "otra es heroku",
+    "duration": 3200,
+    "offset": 321650,
+    "lang": "es"
+  },
+  {
+    "text": "en general cuando se hacen deployment se",
+    "duration": 4340,
+    "offset": 327180,
+    "lang": "es"
+  },
+  {
+    "text": "buscan que los deploy bien sean",
+    "duration": 3750,
+    "offset": 329970,
+    "lang": "es"
+  },
+  {
+    "text": "multiplataformas para evitar algo que se",
+    "duration": 5220,
+    "offset": 331520,
+    "lang": "es"
+  },
+  {
+    "text": "llaman locking",
+    "duration": 3020,
+    "offset": 333720,
+    "lang": "es"
+  },
+  {
+    "text": "blokhín es me faltó una docking",
+    "duration": 6171,
+    "offset": 337409,
+    "lang": "es"
+  },
+  {
+    "text": "pues hagan de cuenta que tienen hecho un",
+    "duration": 4170,
+    "offset": 344360,
+    "lang": "es"
+  },
+  {
+    "text": "deployment que eso le pasó una vez a",
+    "duration": 3631,
+    "offset": 346699,
+    "lang": "es"
+  },
+  {
+    "text": "mercadolibre tenían hecho un experimento",
+    "duration": 4960,
+    "offset": 348530,
+    "lang": "es"
+  },
+  {
+    "text": "totalmente en amazon web services",
+    "duration": 5440,
+    "offset": 350330,
+    "lang": "es"
+  },
+  {
+    "text": "se cayó a amazon y seguridad todo",
+    "duration": 4270,
+    "offset": 353490,
+    "lang": "es"
+  },
+  {
+    "text": "mercado libre",
+    "duration": 4140,
+    "offset": 355770,
+    "lang": "es"
+  },
+  {
+    "text": "eso es porque porque está bloqueado",
+    "duration": 4830,
+    "offset": 357760,
+    "lang": "es"
+  },
+  {
+    "text": "igual en general no estaría del nivel o",
+    "duration": 6390,
+    "offset": 359910,
+    "lang": "es"
+  },
+  {
+    "text": "pereza sino que estaría del the box",
+    "duration": 3710,
+    "offset": 362590,
+    "lang": "es"
+  },
+  {
+    "text": "esta está bloqueado a un único proveedor",
+    "duration": 9269,
+    "offset": 367620,
+    "lang": "es"
+  },
+  {
+    "text": "entonces el proveedor s se cae y son as",
+    "duration": 7840,
+    "offset": 371970,
+    "lang": "es"
+  },
+  {
+    "text": "te tenés login",
+    "duration": 5981,
+    "offset": 376889,
+    "lang": "es"
+  },
+  {
+    "text": "justamente para evitar ese problema de",
+    "duration": 7470,
+    "offset": 379810,
+    "lang": "es"
+  },
+  {
+    "text": "los kings es que hay herramientas",
+    "duration": 7940,
+    "offset": 382870,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo openshift",
+    "duration": 3530,
+    "offset": 387280,
+    "lang": "es"
+  },
+  {
+    "text": "que son extensibles de red hat es",
+    "duration": 6210,
+    "offset": 390980,
+    "lang": "es"
+  },
+  {
+    "text": "openshift lo que hace es te puede",
+    "duration": 3680,
+    "offset": 394760,
+    "lang": "es"
+  },
+  {
+    "text": "levantar el",
+    "duration": 3480,
+    "offset": 397190,
+    "lang": "es"
+  },
+  {
+    "text": "pensar verles o sea desde el punto de",
+    "duration": 4120,
+    "offset": 398440,
+    "lang": "es"
+  },
+  {
+    "text": "vista del developers como hero como",
+    "duration": 5040,
+    "offset": 400670,
+    "lang": "es"
+  },
+  {
+    "text": "universal fox le pones",
+    "duration": 5250,
+    "offset": 402560,
+    "lang": "es"
+  },
+  {
+    "text": "un repo de git hub le pones las",
+    "duration": 5220,
+    "offset": 405710,
+    "lang": "es"
+  },
+  {
+    "text": "dependencias y te va a levantar en algún",
+    "duration": 5790,
+    "offset": 407810,
+    "lang": "es"
+  },
+  {
+    "text": "lugar el deployment desde el punto de",
+    "duration": 4080,
+    "offset": 410930,
+    "lang": "es"
+  },
+  {
+    "text": "vista del the box en realidad lo que",
+    "duration": 4800,
+    "offset": 413600,
+    "lang": "es"
+  },
+  {
+    "text": "hace openshift es crear un clúster de",
+    "duration": 6930,
+    "offset": 415010,
+    "lang": "es"
+  },
+  {
+    "text": "hoover net es dockery goberné test se",
+    "duration": 5100,
+    "offset": 418400,
+    "lang": "es"
+  },
+  {
+    "text": "acuerdan son pequeñas máquinas virtuales",
+    "duration": 4020,
+    "offset": 421940,
+    "lang": "es"
+  },
+  {
+    "text": "y el gobernante sería el orquestador esa",
+    "duration": 3410,
+    "offset": 423500,
+    "lang": "es"
+  },
+  {
+    "text": "máquina",
+    "duration": 4840,
+    "offset": 425960,
+    "lang": "es"
+  },
+  {
+    "text": "pero los ven si ustedes lo tienen en su",
+    "duration": 7789,
+    "offset": 426910,
+    "lang": "es"
+  },
+  {
+    "text": "su lugar en un lugar propio físico por",
+    "duration": 6810,
+    "offset": 430800,
+    "lang": "es"
+  },
+  {
+    "text": "ahí con servidores duplicados y si se",
+    "duration": 4801,
+    "offset": 434699,
+    "lang": "es"
+  },
+  {
+    "text": "muere en donde está haciendo él",
+    "duration": 4290,
+    "offset": 437610,
+    "lang": "es"
+  },
+  {
+    "text": "desplomen de ser verles o sea se muere",
+    "duration": 7400,
+    "offset": 439500,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo si shipilova a w",
+    "duration": 7700,
+    "offset": 441900,
+    "lang": "es"
+  },
+  {
+    "text": "o sea eso es para evitar el loquín",
+    "duration": 4560,
+    "offset": 446900,
+    "lang": "es"
+  },
+  {
+    "text": "siempre los deployment se hacen en",
+    "duration": 4500,
+    "offset": 449600,
+    "lang": "es"
+  },
+  {
+    "text": "lugares múltiples y siempre se está",
+    "duration": 4260,
+    "offset": 451460,
+    "lang": "es"
+  },
+  {
+    "text": "listo para que si se mueve un lugar se",
+    "duration": 3289,
+    "offset": 454100,
+    "lang": "es"
+  },
+  {
+    "text": "levanta el otro cosa que tenes",
+    "duration": 3660,
+    "offset": 455720,
+    "lang": "es"
+  },
+  {
+    "text": "dependiendo obviamente estamos hablando",
+    "duration": 3310,
+    "offset": 457389,
+    "lang": "es"
+  },
+  {
+    "text": "siempre de empresas que necesitan",
+    "duration": 3870,
+    "offset": 459380,
+    "lang": "es"
+  },
+  {
+    "text": "servicio continuo producción danés carl",
+    "duration": 5161,
+    "offset": 460699,
+    "lang": "es"
+  },
+  {
+    "text": "y demás obviamente la página de mi",
+    "duration": 4500,
+    "offset": 463250,
+    "lang": "es"
+  },
+  {
+    "text": "esposa si se me cae viste y ahí bueno",
+    "duration": 4790,
+    "offset": 465860,
+    "lang": "es"
+  },
+  {
+    "text": "esperar a que levante",
+    "duration": 2900,
+    "offset": 467750,
+    "lang": "es"
+  },
+  {
+    "text": "justo y que grabamos están todos los",
+    "duration": 5510,
+    "offset": 472080,
+    "lang": "es"
+  },
+  {
+    "text": "perros laderas más atrás cristian me",
+    "duration": 6769,
+    "offset": 474300,
+    "lang": "es"
+  },
+  {
+    "text": "parece que lo hacen a propósito",
+    "duration": 3479,
+    "offset": 477590,
+    "lang": "es"
+  },
+  {
+    "text": "e",
+    "duration": 4050,
+    "offset": 481270,
+    "lang": "es"
+  },
+  {
+    "text": "bueno",
+    "duration": 5120,
+    "offset": 482840,
+    "lang": "es"
+  },
+  {
+    "text": "entonces por eso es que hice los dos de",
+    "duration": 4650,
+    "offset": 485320,
+    "lang": "es"
+  },
+  {
+    "text": "prohiben ahora qué es lo que pasa esta",
+    "duration": 4080,
+    "offset": 487960,
+    "lang": "es"
+  },
+  {
+    "text": "máquina en donde estoy es un poco lenta",
+    "duration": 4620,
+    "offset": 489970,
+    "lang": "es"
+  },
+  {
+    "text": "así que no voy a poder abrirlo pero si",
+    "duration": 4860,
+    "offset": 492040,
+    "lang": "es"
+  },
+  {
+    "text": "quieren después les paso a los links de",
+    "duration": 4680,
+    "offset": 494590,
+    "lang": "es"
+  },
+  {
+    "text": "allá directamente uno pone la url",
+    "duration": 6210,
+    "offset": 496900,
+    "lang": "es"
+  },
+  {
+    "text": "aparece el front para escribir todas las",
+    "duration": 6590,
+    "offset": 499270,
+    "lang": "es"
+  },
+  {
+    "text": "entidades eso fue lo que hice",
+    "duration": 6400,
+    "offset": 503110,
+    "lang": "es"
+  },
+  {
+    "text": "y después voy al back-end y en él",
+    "duration": 4890,
+    "offset": 505860,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3339,
+    "offset": 509510,
+    "lang": "es"
+  },
+  {
+    "text": "en el backend no tengo que hacer nada",
+    "duration": 7380,
+    "offset": 510750,
+    "lang": "es"
+  },
+  {
+    "text": "porque el back l eso y léelo o sea tengo",
+    "duration": 7380,
+    "offset": 512849,
+    "lang": "es"
+  },
+  {
+    "text": "que trabajar solamente sobre wikileaks y",
+    "duration": 4260,
+    "offset": 518130,
+    "lang": "es"
+  },
+  {
+    "text": "sobre el front escribiendo las entidades",
+    "duration": 5671,
+    "offset": 520229,
+    "lang": "es"
+  },
+  {
+    "text": "y las respuestas el chat bot simplemente",
+    "duration": 5130,
+    "offset": 522390,
+    "lang": "es"
+  },
+  {
+    "text": "se conecta con el sistema que hicieron",
+    "duration": 3450,
+    "offset": 525900,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes de base de datos de las",
+    "duration": 4860,
+    "offset": 527520,
+    "lang": "es"
+  },
+  {
+    "text": "entidades que vienen de witt y te",
+    "duration": 4620,
+    "offset": 529350,
+    "lang": "es"
+  },
+  {
+    "text": "devuelve una respuesta que está guardado",
+    "duration": 4470,
+    "offset": 532380,
+    "lang": "es"
+  },
+  {
+    "text": "en el back end así que ya el sistema",
+    "duration": 6180,
+    "offset": 533970,
+    "lang": "es"
+  },
+  {
+    "text": "quedó funcionando bien bueno ahora",
+    "duration": 5730,
+    "offset": 536850,
+    "lang": "es"
+  },
+  {
+    "text": "esperen que yo les quería mostrar voy a",
+    "duration": 4670,
+    "offset": 540150,
+    "lang": "es"
+  },
+  {
+    "text": "abrir",
+    "duration": 2240,
+    "offset": 542580,
+    "lang": "es"
+  },
+  {
+    "text": "y bajo",
+    "duration": 3260,
+    "offset": 545580,
+    "lang": "es"
+  },
+  {
+    "text": "y me parece que esto se pone si se pone",
+    "duration": 5750,
+    "offset": 551190,
+    "lang": "es"
+  },
+  {
+    "text": "demasiado lento a ver si dejo de",
+    "duration": 6200,
+    "offset": 554070,
+    "lang": "es"
+  },
+  {
+    "text": "transmitir vídeo",
+    "duration": 3330,
+    "offset": 556940,
+    "lang": "es"
+  },
+  {
+    "text": "ward m porque a veces cuando estoy",
+    "duration": 4790,
+    "offset": 560529,
+    "lang": "es"
+  },
+  {
+    "text": "transmitiendo vídeo y el tema es que",
+    "duration": 4860,
+    "offset": 563019,
+    "lang": "es"
+  },
+  {
+    "text": "esto tengo que usar siempre transmito de",
+    "duration": 4510,
+    "offset": 565319,
+    "lang": "es"
+  },
+  {
+    "text": "la máquina que tengo del trabajo que es",
+    "duration": 3541,
+    "offset": 567879,
+    "lang": "es"
+  },
+  {
+    "text": "una máquina que tiene más procesador que",
+    "duration": 5641,
+    "offset": 569829,
+    "lang": "es"
+  },
+  {
+    "text": "está el tema es que",
+    "duration": 6240,
+    "offset": 571420,
+    "lang": "es"
+  },
+  {
+    "text": "acá como tuve que hacer tuve que",
+    "duration": 5000,
+    "offset": 575470,
+    "lang": "es"
+  },
+  {
+    "text": "escribir código en máquinas el trabajo",
+    "duration": 5340,
+    "offset": 577660,
+    "lang": "es"
+  },
+  {
+    "text": "aparte es código que abre puertas y",
+    "duration": 4600,
+    "offset": 580470,
+    "lang": "es"
+  },
+  {
+    "text": "demás entonces le llamaré que son",
+    "duration": 3960,
+    "offset": 583000,
+    "lang": "es"
+  },
+  {
+    "text": "nuestros puertos xavier para generar",
+    "duration": 4250,
+    "offset": 585070,
+    "lang": "es"
+  },
+  {
+    "text": "agentes y de informática",
+    "duration": 6230,
+    "offset": 586960,
+    "lang": "es"
+  },
+  {
+    "text": "entonces no me va a dejar pero aguarde",
+    "duration": 9500,
+    "offset": 589320,
+    "lang": "es"
+  },
+  {
+    "text": "mx estoy voy a ver de abrir el servidor",
+    "duration": 5630,
+    "offset": 593190,
+    "lang": "es"
+  },
+  {
+    "text": "y acá tengo tengo el código del servidor",
+    "duration": 5369,
+    "offset": 599720,
+    "lang": "es"
+  },
+  {
+    "text": "yo después se lo voy a pasar el código",
+    "duration": 4351,
+    "offset": 602329,
+    "lang": "es"
+  },
+  {
+    "text": "del servidor el código el cliente a",
+    "duration": 3871,
+    "offset": 605089,
+    "lang": "es"
+  },
+  {
+    "text": "donde está",
+    "duration": 5910,
+    "offset": 606680,
+    "lang": "es"
+  },
+  {
+    "text": "apoyos a robert por lo que hay en",
+    "duration": 6840,
+    "offset": 608960,
+    "lang": "es"
+  },
+  {
+    "text": "tengo tantas cosas que hice en el draft",
+    "duration": 6050,
+    "offset": 612590,
+    "lang": "es"
+  },
+  {
+    "text": "que el salud",
+    "duration": 2840,
+    "offset": 615800,
+    "lang": "es"
+  },
+  {
+    "text": "bien para qué sirve gráfico graftiaux es",
+    "duration": 4310,
+    "offset": 622529,
+    "lang": "es"
+  },
+  {
+    "text": "un",
+    "duration": 4190,
+    "offset": 625680,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollo de facebook",
+    "duration": 5920,
+    "offset": 626839,
+    "lang": "es"
+  },
+  {
+    "text": "para cuando ustedes tienen como en el",
+    "duration": 5469,
+    "offset": 629870,
+    "lang": "es"
+  },
+  {
+    "text": "caso que nos pasa a nosotros del chat",
+    "duration": 7201,
+    "offset": 632759,
+    "lang": "es"
+  },
+  {
+    "text": "bot que hacer múltiples consultas a",
+    "duration": 7471,
+    "offset": 635339,
+    "lang": "es"
+  },
+  {
+    "text": "a un mismo en point o tienen que",
+    "duration": 4890,
+    "offset": 639960,
+    "lang": "es"
+  },
+  {
+    "text": "consultar varias veces distintos en",
+    "duration": 4940,
+    "offset": 642810,
+    "lang": "es"
+  },
+  {
+    "text": "point d",
+    "duration": 2900,
+    "offset": 644850,
+    "lang": "es"
+  },
+  {
+    "text": "de una app y rest",
+    "duration": 4659,
+    "offset": 648550,
+    "lang": "es"
+  },
+  {
+    "text": "vieron que ustedes tienen que llamar",
+    "duration": 4469,
+    "offset": 651110,
+    "lang": "es"
+  },
+  {
+    "text": "cuatro veces al lápiz para buscar cada",
+    "duration": 4070,
+    "offset": 653209,
+    "lang": "es"
+  },
+  {
+    "text": "una de las cuatro estructuras",
+    "duration": 4471,
+    "offset": 655579,
+    "lang": "es"
+  },
+  {
+    "text": "bueno en graph tiul se puede hacer algo",
+    "duration": 5021,
+    "offset": 657279,
+    "lang": "es"
+  },
+  {
+    "text": "que eso lo haga de una sola vez o sea",
+    "duration": 5279,
+    "offset": 660050,
+    "lang": "es"
+  },
+  {
+    "text": "que te llame a las cuatro de una",
+    "duration": 5339,
+    "offset": 662300,
+    "lang": "es"
+  },
+  {
+    "text": "para eso hay que definir primero el",
+    "duration": 6570,
+    "offset": 665329,
+    "lang": "es"
+  },
+  {
+    "text": "esquema el esquema se parece mucho",
+    "duration": 7361,
+    "offset": 667639,
+    "lang": "es"
+  },
+  {
+    "text": "al esquema de monbús vieron cuando",
+    "duration": 5261,
+    "offset": 671899,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes defienden el esquema monbús el",
+    "duration": 6890,
+    "offset": 675000,
+    "lang": "es"
+  },
+  {
+    "text": "sistema se define muy parecido a eso",
+    "duration": 4730,
+    "offset": 677160,
+    "lang": "es"
+  },
+  {
+    "text": "después tienen algo que se llaman los",
+    "duration": 7800,
+    "offset": 682170,
+    "lang": "es"
+  },
+  {
+    "text": "resolver el resolver sería en la parte",
+    "duration": 8070,
+    "offset": 685139,
+    "lang": "es"
+  },
+  {
+    "text": "del código que toma el esquema y con ese",
+    "duration": 5549,
+    "offset": 689970,
+    "lang": "es"
+  },
+  {
+    "text": "esquema ejecuta todas las cosas que dice",
+    "duration": 5490,
+    "offset": 693209,
+    "lang": "es"
+  },
+  {
+    "text": "el resolver sería como la parte de",
+    "duration": 5010,
+    "offset": 695519,
+    "lang": "es"
+  },
+  {
+    "text": "monbús que se conecta a la base de datos",
+    "duration": 4901,
+    "offset": 698699,
+    "lang": "es"
+  },
+  {
+    "text": "y ejecuta la instrucción",
+    "duration": 5071,
+    "offset": 700529,
+    "lang": "es"
+  },
+  {
+    "text": "y después tienen",
+    "duration": 4260,
+    "offset": 703600,
+    "lang": "es"
+  },
+  {
+    "text": "argumentos que los argumentos serían las",
+    "duration": 4239,
+    "offset": 705600,
+    "lang": "es"
+  },
+  {
+    "text": "variables que ustedes pasan cuando es",
+    "duration": 5159,
+    "offset": 707860,
+    "lang": "es"
+  },
+  {
+    "text": "necesario pasar algún tipo de variable y",
+    "duration": 5221,
+    "offset": 709839,
+    "lang": "es"
+  },
+  {
+    "text": "finalmente miu teis jones que las miopes",
+    "duration": 5281,
+    "offset": 713019,
+    "lang": "es"
+  },
+  {
+    "text": "johnson resolver espero que generar un",
+    "duration": 5219,
+    "offset": 715060,
+    "lang": "es"
+  },
+  {
+    "text": "cambio en el sistema que se está",
+    "duration": 4289,
+    "offset": 718300,
+    "lang": "es"
+  },
+  {
+    "text": "encuestando básicamente mutation es",
+    "duration": 4771,
+    "offset": 720279,
+    "lang": "es"
+  },
+  {
+    "text": "cuando yo hago consultas de delete o",
+    "duration": 5551,
+    "offset": 722589,
+    "lang": "es"
+  },
+  {
+    "text": "update o insert bien",
+    "duration": 5550,
+    "offset": 725050,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros particularmente lo único que",
+    "duration": 4080,
+    "offset": 728140,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a hacer no vamos a usar mi station",
+    "duration": 3480,
+    "offset": 730600,
+    "lang": "es"
+  },
+  {
+    "text": "porque vamos a hacer solamente consultas",
+    "duration": 3820,
+    "offset": 732220,
+    "lang": "es"
+  },
+  {
+    "text": "de lectura",
+    "duration": 5340,
+    "offset": 734080,
+    "lang": "es"
+  },
+  {
+    "text": "pero van a ver qué",
+    "duration": 3380,
+    "offset": 736040,
+    "lang": "es"
+  },
+  {
+    "text": "entonces no es que vamos a agregar el",
+    "duration": 7220,
+    "offset": 742190,
+    "lang": "es"
+  },
+  {
+    "text": "gratis al lo que hicimos",
+    "duration": 4430,
+    "offset": 744980,
+    "lang": "es"
+  },
+  {
+    "text": "claro lo van usar solamente para lo que",
+    "duration": 6090,
+    "offset": 750720,
+    "lang": "es"
+  },
+  {
+    "text": "es el tema de el el chat voy a donde",
+    "duration": 5640,
+    "offset": 752910,
+    "lang": "es"
+  },
+  {
+    "text": "hacen vieron las cuatro cuartos del chat",
+    "duration": 4230,
+    "offset": 756810,
+    "lang": "es"
+  },
+  {
+    "text": "bot eso lo van a hacer con gráficos",
+    "duration": 4830,
+    "offset": 758550,
+    "lang": "es"
+  },
+  {
+    "text": "en realidad no los misterios porque las",
+    "duration": 5370,
+    "offset": 761040,
+    "lang": "es"
+  },
+  {
+    "text": "mutaciones se ingresan de una mano el",
+    "duration": 5639,
+    "offset": 763380,
+    "lang": "es"
+  },
+  {
+    "text": "tema del graf til es cuando vos tenés o",
+    "duration": 4380,
+    "offset": 766410,
+    "lang": "es"
+  },
+  {
+    "text": "sea ahora van a ver el sentido del graf",
+    "duration": 5611,
+    "offset": 769019,
+    "lang": "es"
+  },
+  {
+    "text": "y es cuando vos tenés tías que encuestar",
+    "duration": 6479,
+    "offset": 770790,
+    "lang": "es"
+  },
+  {
+    "text": "varios en points pero forma programática",
+    "duration": 4269,
+    "offset": 774630,
+    "lang": "es"
+  },
+  {
+    "text": "a todos juntos",
+    "duration": 4000,
+    "offset": 777269,
+    "lang": "es"
+  },
+  {
+    "text": "igualmente se podría usar graf til pero",
+    "duration": 3810,
+    "offset": 778899,
+    "lang": "es"
+  },
+  {
+    "text": "no tiene mucho sentido porque si ya lo",
+    "duration": 3120,
+    "offset": 781269,
+    "lang": "es"
+  },
+  {
+    "text": "mismo que usa directamente lápices ya",
+    "duration": 5761,
+    "offset": 782709,
+    "lang": "es"
+  },
+  {
+    "text": "sea uno lo que sucede es que",
+    "duration": 6001,
+    "offset": 784389,
+    "lang": "es"
+  },
+  {
+    "text": "si ustedes se meten después bueno van a",
+    "duration": 4440,
+    "offset": 788470,
+    "lang": "es"
+  },
+  {
+    "text": "tener un tiempo para ver draft cool",
+    "duration": 5280,
+    "offset": 790390,
+    "lang": "es"
+  },
+  {
+    "text": "ellos dicen que hay drivers para para no",
+    "duration": 4740,
+    "offset": 792910,
+    "lang": "es"
+  },
+  {
+    "text": "tener usaron app y red y conectarse",
+    "duration": 4250,
+    "offset": 795670,
+    "lang": "es"
+  },
+  {
+    "text": "directamente a",
+    "duration": 5270,
+    "offset": 797650,
+    "lang": "es"
+  },
+  {
+    "text": "amanda",
+    "duration": 3000,
+    "offset": 799920,
+    "lang": "es"
+  },
+  {
+    "text": "se pusieron a jugar los tres justo hoy",
+    "duration": 4580,
+    "offset": 805840,
+    "lang": "es"
+  },
+  {
+    "text": "igual yo se lo voy a explicar",
+    "duration": 6781,
+    "offset": 811329,
+    "lang": "es"
+  },
+  {
+    "text": "conectándose a lápiz porque facebook que",
+    "duration": 6810,
+    "offset": 813269,
+    "lang": "es"
+  },
+  {
+    "text": "es el que hizo graft él",
+    "duration": 5639,
+    "offset": 818110,
+    "lang": "es"
+  },
+  {
+    "text": "dice que ellos o sea es como que si bien",
+    "duration": 5711,
+    "offset": 820079,
+    "lang": "es"
+  },
+  {
+    "text": "funciona",
+    "duration": 5861,
+    "offset": 823749,
+    "lang": "es"
+  },
+  {
+    "text": "conectándose directo me pongo ellos no",
+    "duration": 6150,
+    "offset": 825790,
+    "lang": "es"
+  },
+  {
+    "text": "te lo",
+    "duration": 2330,
+    "offset": 829610,
+    "lang": "es"
+  },
+  {
+    "text": "no te garantizan nada porque ellos lo",
+    "duration": 5719,
+    "offset": 832170,
+    "lang": "es"
+  },
+  {
+    "text": "que hicieron",
+    "duration": 2360,
+    "offset": 835529,
+    "lang": "es"
+  },
+  {
+    "text": "es que tengo una cachorrita tiene 10",
+    "duration": 5970,
+    "offset": 865089,
+    "lang": "es"
+  },
+  {
+    "text": "meses nosotros pueden a jugar se piensan",
+    "duration": 5340,
+    "offset": 868749,
+    "lang": "es"
+  },
+  {
+    "text": "que es el juguete no pero si no los bajo",
+    "duration": 4741,
+    "offset": 871059,
+    "lang": "es"
+  },
+  {
+    "text": "ahora empiezan no me dan vuelta todo",
+    "duration": 3810,
+    "offset": 874089,
+    "lang": "es"
+  },
+  {
+    "text": "tengo plantas acá todos ya había planta",
+    "duration": 3930,
+    "offset": 875800,
+    "lang": "es"
+  },
+  {
+    "text": "rota",
+    "duration": 4490,
+    "offset": 877899,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 2659,
+    "offset": 879730,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá a ver",
+    "duration": 4529,
+    "offset": 883550,
+    "lang": "es"
+  },
+  {
+    "text": "ya tengo draft esperen que comparto",
+    "duration": 5870,
+    "offset": 888780,
+    "lang": "es"
+  },
+  {
+    "text": "pantalla",
+    "duration": 2510,
+    "offset": 892140,
+    "lang": "es"
+  },
+  {
+    "text": "y después este código alce los pasos lo",
+    "duration": 5510,
+    "offset": 896230,
+    "lang": "es"
+  },
+  {
+    "text": "voy a subir a un",
+    "duration": 3080,
+    "offset": 898660,
+    "lang": "es"
+  },
+  {
+    "text": "aguarde me en toda la pantalla",
+    "duration": 4490,
+    "offset": 902000,
+    "lang": "es"
+  },
+  {
+    "text": "ahí están viendo el código",
+    "duration": 3560,
+    "offset": 908930,
+    "lang": "es"
+  },
+  {
+    "text": "si es él",
+    "duration": 7169,
+    "offset": 913470,
+    "lang": "es"
+  },
+  {
+    "text": "sí sí es arrancar un poquito",
+    "duration": 4789,
+    "offset": 915850,
+    "lang": "es"
+  },
+  {
+    "text": "y agrandar a ver cómo hago para",
+    "duration": 4900,
+    "offset": 920760,
+    "lang": "es"
+  },
+  {
+    "text": "agrandarlo",
+    "duration": 4860,
+    "offset": 923940,
+    "lang": "es"
+  },
+  {
+    "text": "con control más se agranda",
+    "duration": 6220,
+    "offset": 925660,
+    "lang": "es"
+  },
+  {
+    "text": "control más",
+    "duration": 3080,
+    "offset": 928800,
+    "lang": "es"
+  },
+  {
+    "text": "no",
+    "duration": 5481,
+    "offset": 932529,
+    "lang": "es"
+  },
+  {
+    "text": "a ver si saco esto ahí se ve mejor o se",
+    "duration": 4870,
+    "offset": 934740,
+    "lang": "es"
+  },
+  {
+    "text": "ve igual",
+    "duration": 3280,
+    "offset": 938010,
+    "lang": "es"
+  },
+  {
+    "text": "pasa que la letra está un poquito",
+    "duration": 4440,
+    "offset": 939610,
+    "lang": "es"
+  },
+  {
+    "text": "chiquita igual se llega a leer pero a",
+    "duration": 6030,
+    "offset": 941290,
+    "lang": "es"
+  },
+  {
+    "text": "ver apariencia a ver si me da para hacer",
+    "duration": 8330,
+    "offset": 944050,
+    "lang": "es"
+  },
+  {
+    "text": "un zoom acá está ampliar control más más",
+    "duration": 5060,
+    "offset": 947320,
+    "lang": "es"
+  },
+  {
+    "text": "déjeme ver es el mejor pero quiero ir un",
+    "duration": 6221,
+    "offset": 954209,
+    "lang": "es"
+  },
+  {
+    "text": "poquito más",
+    "duration": 4751,
+    "offset": 958199,
+    "lang": "es"
+  },
+  {
+    "text": "para colmo esta máquina el control para",
+    "duration": 4330,
+    "offset": 960430,
+    "lang": "es"
+  },
+  {
+    "text": "usar",
+    "duration": 5440,
+    "offset": 962950,
+    "lang": "es"
+  },
+  {
+    "text": "el control más a ver sí",
+    "duration": 6410,
+    "offset": 964760,
+    "lang": "es"
+  },
+  {
+    "text": "y eso acá",
+    "duration": 2780,
+    "offset": 968390,
+    "lang": "es"
+  },
+  {
+    "text": "y se agrandó un poco no hay demasiado",
+    "duration": 4789,
+    "offset": 975050,
+    "lang": "es"
+  },
+  {
+    "text": "como tarda en responder ahí un poquito",
+    "duration": 5829,
+    "offset": 982310,
+    "lang": "es"
+  },
+  {
+    "text": "más grande a esta perfecta",
+    "duration": 5360,
+    "offset": 985470,
+    "lang": "es"
+  },
+  {
+    "text": "bien bueno",
+    "duration": 5391,
+    "offset": 988139,
+    "lang": "es"
+  },
+  {
+    "text": "esta es la parte venga acá dice import",
+    "duration": 6060,
+    "offset": 990830,
+    "lang": "es"
+  },
+  {
+    "text": "apolo server apolo server que es una",
+    "duration": 6520,
+    "offset": 993530,
+    "lang": "es"
+  },
+  {
+    "text": "dependencia que hay que instalar y",
+    "duration": 6129,
+    "offset": 996890,
+    "lang": "es"
+  },
+  {
+    "text": "gql que es el gráfico pero a por los",
+    "duration": 4800,
+    "offset": 1000050,
+    "lang": "es"
+  },
+  {
+    "text": "aros esta es la dependencia que instale",
+    "duration": 3750,
+    "offset": 1003019,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 6169,
+    "offset": 1004850,
+    "lang": "es"
+  },
+  {
+    "text": "acá empieza a definir el esquema",
+    "duration": 4250,
+    "offset": 1006769,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que primero acá qué es lo que",
+    "duration": 4000,
+    "offset": 1011939,
+    "lang": "es"
+  },
+  {
+    "text": "hago",
+    "duration": 4090,
+    "offset": 1014609,
+    "lang": "es"
+  },
+  {
+    "text": "está comentado y demás como viene de",
+    "duration": 5850,
+    "offset": 1015939,
+    "lang": "es"
+  },
+  {
+    "text": "digamos en los ejemplos para que se",
+    "duration": 6031,
+    "offset": 1018699,
+    "lang": "es"
+  },
+  {
+    "text": "vayan guiando pero fíjense que acá por",
+    "duration": 6660,
+    "offset": 1021789,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo defino el tipo book y el tipo",
+    "duration": 7319,
+    "offset": 1024730,
+    "lang": "es"
+  },
+  {
+    "text": "book es una string y un nombre y después",
+    "duration": 6450,
+    "offset": 1028449,
+    "lang": "es"
+  },
+  {
+    "text": "el tipo autor que es un string y después",
+    "duration": 6240,
+    "offset": 1032049,
+    "lang": "es"
+  },
+  {
+    "text": "acá hago un query a este cuero y le",
+    "duration": 5940,
+    "offset": 1034899,
+    "lang": "es"
+  },
+  {
+    "text": "llamo books y este books lo que hace es",
+    "duration": 6181,
+    "offset": 1038289,
+    "lang": "es"
+  },
+  {
+    "text": "me va a traer un array de book o sea me",
+    "duration": 7691,
+    "offset": 1040839,
+    "lang": "es"
+  },
+  {
+    "text": "va a traer una red de estos dos bien",
+    "duration": 7840,
+    "offset": 1044470,
+    "lang": "es"
+  },
+  {
+    "text": "acá de fin otro query de autor",
+    "duration": 7770,
+    "offset": 1048530,
+    "lang": "es"
+  },
+  {
+    "text": "y acá están definidas las este new times",
+    "duration": 6410,
+    "offset": 1052310,
+    "lang": "es"
+  },
+  {
+    "text": "jones",
+    "duration": 2420,
+    "offset": 1056300,
+    "lang": "es"
+  },
+  {
+    "text": "igual a ver este no era el código",
+    "duration": 4580,
+    "offset": 1059929,
+    "lang": "es"
+  },
+  {
+    "text": "a ver porque",
+    "duration": 5730,
+    "offset": 1064720,
+    "lang": "es"
+  },
+  {
+    "text": "ese es el esquema pero yo tenía",
+    "duration": 7560,
+    "offset": 1066880,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo award m",
+    "duration": 3990,
+    "offset": 1070450,
+    "lang": "es"
+  },
+  {
+    "text": "text",
+    "duration": 5730,
+    "offset": 1085750,
+    "lang": "es"
+  },
+  {
+    "text": "escuelita aguarden más por venir porque",
+    "duration": 6430,
+    "offset": 1087280,
+    "lang": "es"
+  },
+  {
+    "text": "tenía el art",
+    "duration": 3579,
+    "offset": 1091480,
+    "lang": "es"
+  },
+  {
+    "text": "ep",
+    "duration": 4339,
+    "offset": 1093710,
+    "lang": "es"
+  },
+  {
+    "text": "6",
+    "duration": 2990,
+    "offset": 1095059,
+    "lang": "es"
+  },
+  {
+    "text": "tras cursar o ver no",
+    "duration": 4050,
+    "offset": 1098720,
+    "lang": "es"
+  },
+  {
+    "text": "y este me parece",
+    "duration": 2901,
+    "offset": 1105789,
+    "lang": "es"
+  },
+  {
+    "text": "para estar acá está este es el cliente y",
+    "duration": 6390,
+    "offset": 1112330,
+    "lang": "es"
+  },
+  {
+    "text": "este es el servidor este era me parecía",
+    "duration": 6449,
+    "offset": 1115360,
+    "lang": "es"
+  },
+  {
+    "text": "digo no pero acá no veo este ahí estaba",
+    "duration": 8540,
+    "offset": 1118720,
+    "lang": "es"
+  },
+  {
+    "text": "puesto los datos en cambio de venir",
+    "duration": 5451,
+    "offset": 1121809,
+    "lang": "es"
+  },
+  {
+    "text": "pero en que cierro esto los datos en",
+    "duration": 4561,
+    "offset": 1127559,
+    "lang": "es"
+  },
+  {
+    "text": "cambio deben ir de un api rest ahí",
+    "duration": 5071,
+    "offset": 1129659,
+    "lang": "es"
+  },
+  {
+    "text": "estaban puestos en forma directa metidos",
+    "duration": 5029,
+    "offset": 1132120,
+    "lang": "es"
+  },
+  {
+    "text": "a mano",
+    "duration": 2419,
+    "offset": 1134730,
+    "lang": "es"
+  },
+  {
+    "text": "la zanja rodeado bien bueno acá solo se",
+    "duration": 7580,
+    "offset": 1137610,
+    "lang": "es"
+  },
+  {
+    "text": "pare para que se entienda",
+    "duration": 6580,
+    "offset": 1142210,
+    "lang": "es"
+  },
+  {
+    "text": "en el minuto yo no tengo nada esto lo",
+    "duration": 7560,
+    "offset": 1145190,
+    "lang": "es"
+  },
+  {
+    "text": "que hace es que dice type prods estoy",
+    "duration": 7500,
+    "offset": 1148790,
+    "lang": "es"
+  },
+  {
+    "text": "definiendo un tipo que está en un una",
+    "duration": 5310,
+    "offset": 1152750,
+    "lang": "es"
+  },
+  {
+    "text": "api res que construyó que guarda",
+    "duration": 4500,
+    "offset": 1156290,
+    "lang": "es"
+  },
+  {
+    "text": "productos título precio y sam neill que",
+    "duration": 4650,
+    "offset": 1158060,
+    "lang": "es"
+  },
+  {
+    "text": "sería como la foto que son todas tipo",
+    "duration": 4880,
+    "offset": 1160790,
+    "lang": "es"
+  },
+  {
+    "text": "string hoy ven cómo se define el esquema",
+    "duration": 6390,
+    "offset": 1162710,
+    "lang": "es"
+  },
+  {
+    "text": "uno pone type le pone un nombre y pone",
+    "duration": 6250,
+    "offset": 1165670,
+    "lang": "es"
+  },
+  {
+    "text": "las variables lo que sucede que estas",
+    "duration": 5430,
+    "offset": 1169100,
+    "lang": "es"
+  },
+  {
+    "text": "variables se tienen que llamar igual que",
+    "duration": 4890,
+    "offset": 1171920,
+    "lang": "es"
+  },
+  {
+    "text": "como te las trae la app y rest que vos",
+    "duration": 5730,
+    "offset": 1174530,
+    "lang": "es"
+  },
+  {
+    "text": "estás encuestando o sea si vos al título",
+    "duration": 5310,
+    "offset": 1176810,
+    "lang": "es"
+  },
+  {
+    "text": "le pusiste type acá no le podés poner",
+    "duration": 3970,
+    "offset": 1180260,
+    "lang": "es"
+  },
+  {
+    "text": "otro nombre",
+    "duration": 6450,
+    "offset": 1182120,
+    "lang": "es"
+  },
+  {
+    "text": "ya lo probé y no funcas bien",
+    "duration": 4340,
+    "offset": 1184230,
+    "lang": "es"
+  },
+  {
+    "text": "esto es",
+    "duration": 3110,
+    "offset": 1190370,
+    "lang": "es"
+  },
+  {
+    "text": "son distintos tipos que estaban como",
+    "duration": 6511,
+    "offset": 1193639,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplos en realidad a mí el único que",
+    "duration": 6151,
+    "offset": 1195979,
+    "lang": "es"
+  },
+  {
+    "text": "como ejemplos como para que más o menos",
+    "duration": 3930,
+    "offset": 1200150,
+    "lang": "es"
+  },
+  {
+    "text": "vean cómo se hace pero el que yo había",
+    "duration": 5430,
+    "offset": 1202130,
+    "lang": "es"
+  },
+  {
+    "text": "definido era el aluminio tensión podría",
+    "duration": 5700,
+    "offset": 1204080,
+    "lang": "es"
+  },
+  {
+    "text": "poner también está invitation y este",
+    "duration": 6000,
+    "offset": 1207560,
+    "lang": "es"
+  },
+  {
+    "text": "time query lo que dice es el fíjense que",
+    "duration": 7620,
+    "offset": 1209780,
+    "lang": "es"
+  },
+  {
+    "text": "acá en el time query yo encuestó un",
+    "duration": 5760,
+    "offset": 1213560,
+    "lang": "es"
+  },
+  {
+    "text": "montón de cosas y una de las propuestas",
+    "duration": 5730,
+    "offset": 1217400,
+    "lang": "es"
+  },
+  {
+    "text": "son los productos que este producto es",
+    "duration": 5730,
+    "offset": 1219320,
+    "lang": "es"
+  },
+  {
+    "text": "una rey acabe diciendo es un query",
+    "duration": 5479,
+    "offset": 1223130,
+    "lang": "es"
+  },
+  {
+    "text": "después van a ver cómo se ejecuta y lo",
+    "duration": 5900,
+    "offset": 1225050,
+    "lang": "es"
+  },
+  {
+    "text": "que estoy diciendo que en productos voy",
+    "duration": 4530,
+    "offset": 1228609,
+    "lang": "es"
+  },
+  {
+    "text": "a tener un array de productos que es una",
+    "duration": 4079,
+    "offset": 1230950,
+    "lang": "es"
+  },
+  {
+    "text": "raíz de esta estructura que yo definí",
+    "duration": 5220,
+    "offset": 1233139,
+    "lang": "es"
+  },
+  {
+    "text": "acá esto se parece mucho a también las",
+    "duration": 4590,
+    "offset": 1235029,
+    "lang": "es"
+  },
+  {
+    "text": "estructuras vieron cuando ustedes",
+    "duration": 2940,
+    "offset": 1238359,
+    "lang": "es"
+  },
+  {
+    "text": "armaban estructuras de datos en ese",
+    "duration": 4290,
+    "offset": 1239619,
+    "lang": "es"
+  },
+  {
+    "text": "objeto de javascript",
+    "duration": 4830,
+    "offset": 1241299,
+    "lang": "es"
+  },
+  {
+    "text": "o sea que le ponen type prods y acá en",
+    "duration": 3931,
+    "offset": 1243909,
+    "lang": "es"
+  },
+  {
+    "text": "el cuadro éste es que es necesario",
+    "duration": 3600,
+    "offset": 1246129,
+    "lang": "es"
+  },
+  {
+    "text": "porque después el cual y es lo que",
+    "duration": 5230,
+    "offset": 1247840,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes van a ir a buscar al resolver",
+    "duration": 7501,
+    "offset": 1249729,
+    "lang": "es"
+  },
+  {
+    "text": "ahora qué es lo que pasa él",
+    "duration": 4160,
+    "offset": 1253070,
+    "lang": "es"
+  },
+  {
+    "text": "el gran gil se puede conectar se",
+    "duration": 3960,
+    "offset": 1257389,
+    "lang": "es"
+  },
+  {
+    "text": "acuerdan que les había dicho a un montón",
+    "duration": 3540,
+    "offset": 1259669,
+    "lang": "es"
+  },
+  {
+    "text": "de fuente de datos se puede conectar a",
+    "duration": 4500,
+    "offset": 1261349,
+    "lang": "es"
+  },
+  {
+    "text": "un archivo de texto oa directamente a",
+    "duration": 4861,
+    "offset": 1263209,
+    "lang": "es"
+  },
+  {
+    "text": "oa lo que está soportado por el",
+    "duration": 5130,
+    "offset": 1265849,
+    "lang": "es"
+  },
+  {
+    "text": "libro que hizo kraft que es el lápiz",
+    "duration": 6059,
+    "offset": 1268070,
+    "lang": "es"
+  },
+  {
+    "text": "rest es up y rest acá en el directorio",
+    "duration": 6691,
+    "offset": 1270979,
+    "lang": "es"
+  },
+  {
+    "text": "de hasta sur si yo le puse track api",
+    "duration": 7651,
+    "offset": 1274129,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense esto de acá donde dice veis url",
+    "duration": 6960,
+    "offset": 1277670,
+    "lang": "es"
+  },
+  {
+    "text": "es la url del api rest a la que se tiene",
+    "duration": 4880,
+    "offset": 1281780,
+    "lang": "es"
+  },
+  {
+    "text": "que conectar cosas sería el endpoint",
+    "duration": 6840,
+    "offset": 1284630,
+    "lang": "es"
+  },
+  {
+    "text": "este es el en point the rest al que se",
+    "duration": 8340,
+    "offset": 1286660,
+    "lang": "es"
+  },
+  {
+    "text": "tiene que conectar él",
+    "duration": 3530,
+    "offset": 1291470,
+    "lang": "es"
+  },
+  {
+    "text": "el gráfico bien y acá están las",
+    "duration": 6090,
+    "offset": 1295410,
+    "lang": "es"
+  },
+  {
+    "text": "funciones por ejemplo está get protesta",
+    "duration": 7410,
+    "offset": 1298800,
+    "lang": "es"
+  },
+  {
+    "text": "la definió rey tan de get listar",
+    "duration": 7310,
+    "offset": 1301500,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 2600,
+    "offset": 1306210,
+    "lang": "es"
+  },
+  {
+    "text": "y uno dice pero esto al estar que es",
+    "duration": 4680,
+    "offset": 1309260,
+    "lang": "es"
+  },
+  {
+    "text": "porque yo no lo vi en ningún lado bien",
+    "duration": 6500,
+    "offset": 1311900,
+    "lang": "es"
+  },
+  {
+    "text": "para eso están los resolverse",
+    "duration": 4460,
+    "offset": 1313940,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 5690,
+    "offset": 1319100,
+    "lang": "es"
+  },
+  {
+    "text": "acá los resellers es",
+    "duration": 9650,
+    "offset": 1321130,
+    "lang": "es"
+  },
+  {
+    "text": "a dónde va a ir a buscar fíjense yo acá",
+    "duration": 5990,
+    "offset": 1324790,
+    "lang": "es"
+  },
+  {
+    "text": "le dije qué",
+    "duration": 5950,
+    "offset": 1331420,
+    "lang": "es"
+  },
+  {
+    "text": "defino un resolver en el cual y fíjense",
+    "duration": 6000,
+    "offset": 1333860,
+    "lang": "es"
+  },
+  {
+    "text": "el resolver lo único que hace son where",
+    "duration": 5790,
+    "offset": 1337370,
+    "lang": "es"
+  },
+  {
+    "text": "is bien esto después tienen que verlo",
+    "duration": 5220,
+    "offset": 1339860,
+    "lang": "es"
+  },
+  {
+    "text": "bien pero cada una de estas cosas tienen",
+    "duration": 2800,
+    "offset": 1343160,
+    "lang": "es"
+  },
+  {
+    "text": "una",
+    "duration": 2250,
+    "offset": 1345080,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3980,
+    "offset": 1345960,
+    "lang": "es"
+  },
+  {
+    "text": "una razón de ser",
+    "duration": 5050,
+    "offset": 1347330,
+    "lang": "es"
+  },
+  {
+    "text": "acá por ejemplo",
+    "duration": 5580,
+    "offset": 1349940,
+    "lang": "es"
+  },
+  {
+    "text": "no no le pongo nada",
+    "duration": 6960,
+    "offset": 1352380,
+    "lang": "es"
+  },
+  {
+    "text": "entrarían los parámetros",
+    "duration": 6510,
+    "offset": 1355520,
+    "lang": "es"
+  },
+  {
+    "text": "acá entraría",
+    "duration": 5120,
+    "offset": 1359340,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 7460,
+    "offset": 1362030,
+    "lang": "es"
+  },
+  {
+    "text": "como en este caso de acá es un argumento",
+    "duration": 5030,
+    "offset": 1364460,
+    "lang": "es"
+  },
+  {
+    "text": "acá el específico el data sur y acá",
+    "duration": 4890,
+    "offset": 1369720,
+    "lang": "es"
+  },
+  {
+    "text": "tiene un cuarto porque cada resolver",
+    "duration": 4040,
+    "offset": 1372480,
+    "lang": "es"
+  },
+  {
+    "text": "tiene cuatro argumentos",
+    "duration": 5210,
+    "offset": 1374610,
+    "lang": "es"
+  },
+  {
+    "text": "cuatro entradas",
+    "duration": 6630,
+    "offset": 1376520,
+    "lang": "es"
+  },
+  {
+    "text": "una es argumento este argumento se trae",
+    "duration": 5750,
+    "offset": 1379820,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 2420,
+    "offset": 1383150,
+    "lang": "es"
+  },
+  {
+    "text": "cuando yo llamo a la función le pongo el",
+    "duration": 5160,
+    "offset": 1386020,
+    "lang": "es"
+  },
+  {
+    "text": "argumento y esto que dice acá datasur",
+    "duration": 7260,
+    "offset": 1388360,
+    "lang": "es"
+  },
+  {
+    "text": "sis es porque este data sur si se va a",
+    "duration": 6520,
+    "offset": 1391180,
+    "lang": "es"
+  },
+  {
+    "text": "ir a buscarlo",
+    "duration": 6570,
+    "offset": 1395620,
+    "lang": "es"
+  },
+  {
+    "text": "el dato es que yo definí acá",
+    "duration": 7640,
+    "offset": 1397700,
+    "lang": "es"
+  },
+  {
+    "text": "ven que acá le pongo con restas urss y",
+    "duration": 6359,
+    "offset": 1402190,
+    "lang": "es"
+  },
+  {
+    "text": "quite a polo data psuv rest",
+    "duration": 6240,
+    "offset": 1405340,
+    "lang": "es"
+  },
+  {
+    "text": "cuando yo en el resolver le digo en este",
+    "duration": 5490,
+    "offset": 1408549,
+    "lang": "es"
+  },
+  {
+    "text": "tercer parámetro que vaya a buscar",
+    "duration": 6059,
+    "offset": 1411580,
+    "lang": "es"
+  },
+  {
+    "text": "datasur cis le estoy diciendo que va a",
+    "duration": 5941,
+    "offset": 1414039,
+    "lang": "es"
+  },
+  {
+    "text": "tener que ir al archivo a donde yo",
+    "duration": 4471,
+    "offset": 1417639,
+    "lang": "es"
+  },
+  {
+    "text": "definí data sushis eso lo va a ser sólo",
+    "duration": 4679,
+    "offset": 1419980,
+    "lang": "es"
+  },
+  {
+    "text": "el servidor y fíjense que acá dice",
+    "duration": 7110,
+    "offset": 1422110,
+    "lang": "es"
+  },
+  {
+    "text": "datasur cis track up y get prox entonces",
+    "duration": 6691,
+    "offset": 1424659,
+    "lang": "es"
+  },
+  {
+    "text": "vamos acá",
+    "duration": 6420,
+    "offset": 1429220,
+    "lang": "es"
+  },
+  {
+    "text": "datasur sis trucupey porque trucupey es",
+    "duration": 7040,
+    "offset": 1431350,
+    "lang": "es"
+  },
+  {
+    "text": "el como se llama el archivo",
+    "duration": 6710,
+    "offset": 1435640,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que en resolverse",
+    "duration": 3960,
+    "offset": 1438390,
+    "lang": "es"
+  },
+  {
+    "text": "acá en perdón",
+    "duration": 6579,
+    "offset": 1442960,
+    "lang": "es"
+  },
+  {
+    "text": "si en resolverse",
+    "duration": 5480,
+    "offset": 1446200,
+    "lang": "es"
+  },
+  {
+    "text": "está",
+    "duration": 5131,
+    "offset": 1449539,
+    "lang": "es"
+  },
+  {
+    "text": "ahora no lo veo",
+    "duration": 2990,
+    "offset": 1451680,
+    "lang": "es"
+  },
+  {
+    "text": "y acá acá está el dato sur",
+    "duration": 6661,
+    "offset": 1456029,
+    "lang": "es"
+  },
+  {
+    "text": "en la clase se llama trucupey y dice",
+    "duration": 8151,
+    "offset": 1459229,
+    "lang": "es"
+  },
+  {
+    "text": "extreme extend le rescata sus",
+    "duration": 6970,
+    "offset": 1462690,
+    "lang": "es"
+  },
+  {
+    "text": "este es el constructor este super tiene",
+    "duration": 4440,
+    "offset": 1467380,
+    "lang": "es"
+  },
+  {
+    "text": "que estar siempre o sea esto es algo que",
+    "duration": 4920,
+    "offset": 1469660,
+    "lang": "es"
+  },
+  {
+    "text": "está fijo pero la clase se llama track",
+    "duration": 5310,
+    "offset": 1471820,
+    "lang": "es"
+  },
+  {
+    "text": "up y el método de la clase se llama get",
+    "duration": 5340,
+    "offset": 1474580,
+    "lang": "es"
+  },
+  {
+    "text": "proto entonces cuando yo voy al resolver",
+    "duration": 7070,
+    "offset": 1477130,
+    "lang": "es"
+  },
+  {
+    "text": "le digo usa la clase",
+    "duration": 6790,
+    "offset": 1479920,
+    "lang": "es"
+  },
+  {
+    "text": "en",
+    "duration": 2510,
+    "offset": 1484200,
+    "lang": "es"
+  },
+  {
+    "text": "dónde lo tengo acá de data source es la",
+    "duration": 8850,
+    "offset": 1487399,
+    "lang": "es"
+  },
+  {
+    "text": "clase que estoy extendiendo acá usar el",
+    "duration": 6900,
+    "offset": 1492889,
+    "lang": "es"
+  },
+  {
+    "text": "método get prost",
+    "duration": 5730,
+    "offset": 1496249,
+    "lang": "es"
+  },
+  {
+    "text": "hasta la clase track api y dentro de",
+    "duration": 4531,
+    "offset": 1499789,
+    "lang": "es"
+  },
+  {
+    "text": "atrás el método de protesta venga acá",
+    "duration": 4250,
+    "offset": 1501979,
+    "lang": "es"
+  },
+  {
+    "text": "está es",
+    "duration": 6239,
+    "offset": 1504320,
+    "lang": "es"
+  },
+  {
+    "text": "datasur track up y que la definición que",
+    "duration": 6851,
+    "offset": 1506229,
+    "lang": "es"
+  },
+  {
+    "text": "es la clase estaba acá trucupey que es",
+    "duration": 3930,
+    "offset": 1510559,
+    "lang": "es"
+  },
+  {
+    "text": "esta clase",
+    "duration": 4260,
+    "offset": 1513080,
+    "lang": "es"
+  },
+  {
+    "text": "y el método get brotes de esa clase y el",
+    "duration": 4971,
+    "offset": 1514489,
+    "lang": "es"
+  },
+  {
+    "text": "método get próx",
+    "duration": 4520,
+    "offset": 1517340,
+    "lang": "es"
+  },
+  {
+    "text": "y esto lo puedo hacer porque en este",
+    "duration": 5219,
+    "offset": 1519460,
+    "lang": "es"
+  },
+  {
+    "text": "parámetro le metí datasur si acá yo",
+    "duration": 5340,
+    "offset": 1521860,
+    "lang": "es"
+  },
+  {
+    "text": "necesitaron un argumento el argumento se",
+    "duration": 4431,
+    "offset": 1524679,
+    "lang": "es"
+  },
+  {
+    "text": "pasa acá",
+    "duration": 3770,
+    "offset": 1527200,
+    "lang": "es"
+  },
+  {
+    "text": "y ven que le está trayendo acá donde",
+    "duration": 4650,
+    "offset": 1529110,
+    "lang": "es"
+  },
+  {
+    "text": "dice track piguet track haití el",
+    "duration": 5430,
+    "offset": 1530970,
+    "lang": "es"
+  },
+  {
+    "text": "argumento se pasa acá cuando ustedes no",
+    "duration": 6299,
+    "offset": 1533760,
+    "lang": "es"
+  },
+  {
+    "text": "lo van a usar acá le ponen un guión bajo",
+    "duration": 6960,
+    "offset": 1536400,
+    "lang": "es"
+  },
+  {
+    "text": "acá le ponen dos guiones bajos bien son",
+    "duration": 5401,
+    "offset": 1540059,
+    "lang": "es"
+  },
+  {
+    "text": "cuatro argumentos está especificado",
+    "duration": 6180,
+    "offset": 1543360,
+    "lang": "es"
+  },
+  {
+    "text": "vivos uno y otros dos en realidad la",
+    "duration": 5969,
+    "offset": 1545460,
+    "lang": "es"
+  },
+  {
+    "text": "sintaxis es así al primero se le pone",
+    "duration": 5220,
+    "offset": 1549540,
+    "lang": "es"
+  },
+  {
+    "text": "uno se usa y el segundo se le pone dos y",
+    "duration": 5401,
+    "offset": 1551429,
+    "lang": "es"
+  },
+  {
+    "text": "el tercero como o sea porque lo que",
+    "duration": 5039,
+    "offset": 1554760,
+    "lang": "es"
+  },
+  {
+    "text": "tiene hacer es lo que pasa el draft cool",
+    "duration": 5610,
+    "offset": 1556830,
+    "lang": "es"
+  },
+  {
+    "text": "el server apolo va leyendo en forma",
+    "duration": 4221,
+    "offset": 1559799,
+    "lang": "es"
+  },
+  {
+    "text": "secuencial",
+    "duration": 5270,
+    "offset": 1562440,
+    "lang": "es"
+  },
+  {
+    "text": "entonces el hecho de que el primero de",
+    "duration": 5820,
+    "offset": 1564020,
+    "lang": "es"
+  },
+  {
+    "text": "un guión y el segundo tenga dos guiones",
+    "duration": 3840,
+    "offset": 1567710,
+    "lang": "es"
+  },
+  {
+    "text": "le da la idea de que tiene que ir a leer",
+    "duration": 3600,
+    "offset": 1569840,
+    "lang": "es"
+  },
+  {
+    "text": "un tercero sino el tercero no te lo lee",
+    "duration": 4710,
+    "offset": 1571550,
+    "lang": "es"
+  },
+  {
+    "text": "y el cuarto fíjense que está vacío",
+    "duration": 5530,
+    "offset": 1573440,
+    "lang": "es"
+  },
+  {
+    "text": "porque el cuarto no le pusimos nada",
+    "duration": 4500,
+    "offset": 1576260,
+    "lang": "es"
+  },
+  {
+    "text": "bien si",
+    "duration": 4260,
+    "offset": 1578970,
+    "lang": "es"
+  },
+  {
+    "text": "yo en el momento que hice el curso me",
+    "duration": 4659,
+    "offset": 1580760,
+    "lang": "es"
+  },
+  {
+    "text": "acordaba que era cada uno de estos yo sé",
+    "duration": 3780,
+    "offset": 1583230,
+    "lang": "es"
+  },
+  {
+    "text": "que éste de acá es el data su uso porque",
+    "duration": 4081,
+    "offset": 1585419,
+    "lang": "es"
+  },
+  {
+    "text": "está y estos son los argumentos me",
+    "duration": 4909,
+    "offset": 1587010,
+    "lang": "es"
+  },
+  {
+    "text": "acordaba que era cada uno de estos",
+    "duration": 7580,
+    "offset": 1589500,
+    "lang": "es"
+  },
+  {
+    "text": "acaben por ejemplo está este autor ahí",
+    "duration": 5161,
+    "offset": 1591919,
+    "lang": "es"
+  },
+  {
+    "text": "que no es un argumento y acabes que",
+    "duration": 4380,
+    "offset": 1597480,
+    "lang": "es"
+  },
+  {
+    "text": "solamente como esta el primero solamente",
+    "duration": 5180,
+    "offset": 1599580,
+    "lang": "es"
+  },
+  {
+    "text": "acá le pusiste un guión",
+    "duration": 2900,
+    "offset": 1601860,
+    "lang": "es"
+  },
+  {
+    "text": "bien entonces sería el primer argumento",
+    "duration": 5580,
+    "offset": 1604880,
+    "lang": "es"
+  },
+  {
+    "text": "que no está claro",
+    "duration": 7090,
+    "offset": 1607880,
+    "lang": "es"
+  },
+  {
+    "text": "en realidad a fraud y el mi6 john es",
+    "duration": 7390,
+    "offset": 1610460,
+    "lang": "es"
+  },
+  {
+    "text": "este argumento te dice que el argumento",
+    "duration": 5760,
+    "offset": 1614970,
+    "lang": "es"
+  },
+  {
+    "text": "va a entrar con él a través del cuello y",
+    "duration": 4740,
+    "offset": 1617850,
+    "lang": "es"
+  },
+  {
+    "text": "este argumento acá lo que te dice es que",
+    "duration": 4860,
+    "offset": 1620730,
+    "lang": "es"
+  },
+  {
+    "text": "va a entrar pero de lo que sucede acá",
+    "duration": 6089,
+    "offset": 1622590,
+    "lang": "es"
+  },
+  {
+    "text": "anteriormente o sea este vio tensión va",
+    "duration": 4829,
+    "offset": 1625590,
+    "lang": "es"
+  },
+  {
+    "text": "a traer un montón de información y entre",
+    "duration": 3480,
+    "offset": 1628679,
+    "lang": "es"
+  },
+  {
+    "text": "esa información que trae o que genera va",
+    "duration": 3961,
+    "offset": 1630419,
+    "lang": "es"
+  },
+  {
+    "text": "a ser el autor a idi y entonces éste va",
+    "duration": 3841,
+    "offset": 1632159,
+    "lang": "es"
+  },
+  {
+    "text": "a tomar el autor ied y de éste de acá",
+    "duration": 4760,
+    "offset": 1634380,
+    "lang": "es"
+  },
+  {
+    "text": "arriba del cuadro de más arriba",
+    "duration": 3140,
+    "offset": 1636000,
+    "lang": "es"
+  },
+  {
+    "text": "igual después de ustedes si quieren",
+    "duration": 3680,
+    "offset": 1639410,
+    "lang": "es"
+  },
+  {
+    "text": "háganlo bien el curso",
+    "duration": 4340,
+    "offset": 1641210,
+    "lang": "es"
+  },
+  {
+    "text": "pero acá yo lo único que hice fue",
+    "duration": 6640,
+    "offset": 1643090,
+    "lang": "es"
+  },
+  {
+    "text": "modificar y puse este resolver que este",
+    "duration": 6490,
+    "offset": 1645550,
+    "lang": "es"
+  },
+  {
+    "text": "resolver lo que hace es usar el data",
+    "duration": 7220,
+    "offset": 1649730,
+    "lang": "es"
+  },
+  {
+    "text": "surf para traer a get prods bien",
+    "duration": 7999,
+    "offset": 1652040,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense qué trucupey es extender la",
+    "duration": 5640,
+    "offset": 1656950,
+    "lang": "es"
+  },
+  {
+    "text": "clase de redes datasur y este ejemplo es",
+    "duration": 6360,
+    "offset": 1660039,
+    "lang": "es"
+  },
+  {
+    "text": "un jet pro es un método bien y acá",
+    "duration": 7380,
+    "offset": 1662590,
+    "lang": "es"
+  },
+  {
+    "text": "listar porque si yo voy al esquema él",
+    "duration": 6690,
+    "offset": 1666399,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3119,
+    "offset": 1669970,
+    "lang": "es"
+  },
+  {
+    "text": "no yo pensé que el esquema se llamaba",
+    "duration": 8390,
+    "offset": 1673400,
+    "lang": "es"
+  },
+  {
+    "text": "pero no simplemente es un nombre",
+    "duration": 4890,
+    "offset": 1676900,
+    "lang": "es"
+  },
+  {
+    "text": "a casa",
+    "duration": 2690,
+    "offset": 1686060,
+    "lang": "es"
+  },
+  {
+    "text": "tras productos productos buenos",
+    "duration": 4550,
+    "offset": 1688780,
+    "lang": "es"
+  },
+  {
+    "text": "productos y este producto",
+    "duration": 5190,
+    "offset": 1691030,
+    "lang": "es"
+  },
+  {
+    "text": "se llama productos porque en el esquema",
+    "duration": 4780,
+    "offset": 1693330,
+    "lang": "es"
+  },
+  {
+    "text": "está definido en el cuero y como",
+    "duration": 3720,
+    "offset": 1696220,
+    "lang": "es"
+  },
+  {
+    "text": "productos venga acá está definido como",
+    "duration": 3810,
+    "offset": 1698110,
+    "lang": "es"
+  },
+  {
+    "text": "productos",
+    "duration": 5790,
+    "offset": 1699940,
+    "lang": "es"
+  },
+  {
+    "text": "acá en el cuello yo definí productos y",
+    "duration": 6300,
+    "offset": 1701920,
+    "lang": "es"
+  },
+  {
+    "text": "eso mismo cuando yo voy al resolver es",
+    "duration": 4920,
+    "offset": 1705730,
+    "lang": "es"
+  },
+  {
+    "text": "lo que tengo que poner acá si acá no le",
+    "duration": 4170,
+    "offset": 1708220,
+    "lang": "es"
+  },
+  {
+    "text": "pongo productos ahora van a ver me tira",
+    "duration": 4840,
+    "offset": 1710650,
+    "lang": "es"
+  },
+  {
+    "text": "un error y me dice no ahí tienen",
+    "duration": 6520,
+    "offset": 1712390,
+    "lang": "es"
+  },
+  {
+    "text": "ahí hay un error porque está este",
+    "duration": 7000,
+    "offset": 1715490,
+    "lang": "es"
+  },
+  {
+    "text": "producto no está definido en el esquema",
+    "duration": 6220,
+    "offset": 1718910,
+    "lang": "es"
+  },
+  {
+    "text": "este es un cuadro que lo que va a hacer",
+    "duration": 4439,
+    "offset": 1722490,
+    "lang": "es"
+  },
+  {
+    "text": "va a traer un array de productos y",
+    "duration": 4230,
+    "offset": 1725130,
+    "lang": "es"
+  },
+  {
+    "text": "productos este producto está definido",
+    "duration": 6201,
+    "offset": 1726929,
+    "lang": "es"
+  },
+  {
+    "text": "acá bien",
+    "duration": 3770,
+    "offset": 1729360,
+    "lang": "es"
+  },
+  {
+    "text": "y nosotros una cuerda y nada más tenemos",
+    "duration": 4921,
+    "offset": 1734919,
+    "lang": "es"
+  },
+  {
+    "text": "que definir para esto porque sería la",
+    "duration": 6359,
+    "offset": 1737440,
+    "lang": "es"
+  },
+  {
+    "text": "única porque tenía varios tipos y hay un",
+    "duration": 6329,
+    "offset": 1739840,
+    "lang": "es"
+  },
+  {
+    "text": "montón de gemas pero ustedes lo que",
+    "duration": 5161,
+    "offset": 1743799,
+    "lang": "es"
+  },
+  {
+    "text": "deberían definir solamente es un acuerdo",
+    "duration": 6870,
+    "offset": 1746169,
+    "lang": "es"
+  },
+  {
+    "text": "que el perdón ya sé que es story star",
+    "duration": 5760,
+    "offset": 1748960,
+    "lang": "es"
+  },
+  {
+    "text": "saben que es esta lista es lo que",
+    "duration": 3171,
+    "offset": 1753039,
+    "lang": "es"
+  },
+  {
+    "text": "completa el endpoint",
+    "duration": 4329,
+    "offset": 1754720,
+    "lang": "es"
+  },
+  {
+    "text": "porque el en point",
+    "duration": 6260,
+    "offset": 1756210,
+    "lang": "es"
+  },
+  {
+    "text": "aguarden los productos barda tracks",
+    "duration": 6090,
+    "offset": 1759049,
+    "lang": "es"
+  },
+  {
+    "text": "producto de realizar claro ahí están",
+    "duration": 6270,
+    "offset": 1762470,
+    "lang": "es"
+  },
+  {
+    "text": "viendo mi pantalla sí sí",
+    "duration": 6021,
+    "offset": 1765139,
+    "lang": "es"
+  },
+  {
+    "text": "y yo pongo esto",
+    "duration": 5210,
+    "offset": 1768740,
+    "lang": "es"
+  },
+  {
+    "text": "lo más probable ahora esto debería estar",
+    "duration": 6030,
+    "offset": 1771160,
+    "lang": "es"
+  },
+  {
+    "text": "al aire en un giro q va a tardar por ahí",
+    "duration": 5760,
+    "offset": 1773950,
+    "lang": "es"
+  },
+  {
+    "text": "un rato porque lo tiene que estar frío",
+    "duration": 5239,
+    "offset": 1777190,
+    "lang": "es"
+  },
+  {
+    "text": "lo tiene que levantar",
+    "duration": 5480,
+    "offset": 1779710,
+    "lang": "es"
+  },
+  {
+    "text": "porque es gratis dice no lo pueden",
+    "duration": 5250,
+    "offset": 1782429,
+    "lang": "es"
+  },
+  {
+    "text": "carnet pero qué pasa si acá le pongo",
+    "duration": 4969,
+    "offset": 1785190,
+    "lang": "es"
+  },
+  {
+    "text": "listar",
+    "duration": 2480,
+    "offset": 1787679,
+    "lang": "es"
+  },
+  {
+    "text": "acá aparece en todos los productos",
+    "duration": 6520,
+    "offset": 1790530,
+    "lang": "es"
+  },
+  {
+    "text": "o sea en el tema ahora me acordé como la",
+    "duration": 8180,
+    "offset": 1793750,
+    "lang": "es"
+  },
+  {
+    "text": "vieja sin mucho tiempo te vas a oxidando",
+    "duration": 4880,
+    "offset": 1797050,
+    "lang": "es"
+  },
+  {
+    "text": "este listar este listado es lo que",
+    "duration": 5910,
+    "offset": 1802840,
+    "lang": "es"
+  },
+  {
+    "text": "cumple esto de acá sería el basic url",
+    "duration": 4620,
+    "offset": 1806260,
+    "lang": "es"
+  },
+  {
+    "text": "como bien dice la palabra be y su rl y",
+    "duration": 4860,
+    "offset": 1808750,
+    "lang": "es"
+  },
+  {
+    "text": "aca listar es el empeine al que ustedes",
+    "duration": 6650,
+    "offset": 1810880,
+    "lang": "es"
+  },
+  {
+    "text": "quieren consultar bien",
+    "duration": 3920,
+    "offset": 1813610,
+    "lang": "es"
+  },
+  {
+    "text": "esto",
+    "duration": 3980,
+    "offset": 1820360,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 4149,
+    "offset": 1822380,
+    "lang": "es"
+  },
+  {
+    "text": "es el método lo que va a ser este método",
+    "duration": 4140,
+    "offset": 1824340,
+    "lang": "es"
+  },
+  {
+    "text": "es un gadget es un método o sea puede",
+    "duration": 4561,
+    "offset": 1826529,
+    "lang": "es"
+  },
+  {
+    "text": "hacer get puede hacer puede hacer pulpos",
+    "duration": 4980,
+    "offset": 1828480,
+    "lang": "es"
+  },
+  {
+    "text": "tiene un montón de métodos esto lo que",
+    "duration": 4170,
+    "offset": 1831090,
+    "lang": "es"
+  },
+  {
+    "text": "va a hacer es un método get pero el que",
+    "duration": 4260,
+    "offset": 1833460,
+    "lang": "es"
+  },
+  {
+    "text": "digamos acá lo que estoy definiendo es",
+    "duration": 6230,
+    "offset": 1835260,
+    "lang": "es"
+  },
+  {
+    "text": "que éste va a llamar a este el pont",
+    "duration": 5570,
+    "offset": 1837720,
+    "lang": "es"
+  },
+  {
+    "text": "este dakar",
+    "duration": 6980,
+    "offset": 1841490,
+    "lang": "es"
+  },
+  {
+    "text": "llamar a este el point de éste",
+    "duration": 9499,
+    "offset": 1843290,
+    "lang": "es"
+  },
+  {
+    "text": "este data set o este resto pero en el",
+    "duration": 5970,
+    "offset": 1848470,
+    "lang": "es"
+  },
+  {
+    "text": "resolver es donde realmente el",
+    "duration": 3770,
+    "offset": 1852789,
+    "lang": "es"
+  },
+  {
+    "text": "implemento y si ustedes",
+    "duration": 5160,
+    "offset": 1854440,
+    "lang": "es"
+  },
+  {
+    "text": "tuviesen que pasar parámetros si ustedes",
+    "duration": 6971,
+    "offset": 1856559,
+    "lang": "es"
+  },
+  {
+    "text": "dicen bueno pero a mí que no me sirve yo",
+    "duration": 6780,
+    "offset": 1859600,
+    "lang": "es"
+  },
+  {
+    "text": "aparte le tengo que ustedes lo van a",
+    "duration": 5670,
+    "offset": 1863530,
+    "lang": "es"
+  },
+  {
+    "text": "tener que hacer usted no le sirve",
+    "duration": 5970,
+    "offset": 1866380,
+    "lang": "es"
+  },
+  {
+    "text": "solamente es un listado concreto van a",
+    "duration": 5180,
+    "offset": 1869200,
+    "lang": "es"
+  },
+  {
+    "text": "tener que poner acá",
+    "duration": 5220,
+    "offset": 1872350,
+    "lang": "es"
+  },
+  {
+    "text": "argumentos que se ingresan a través de",
+    "duration": 5640,
+    "offset": 1874380,
+    "lang": "es"
+  },
+  {
+    "text": "él",
+    "duration": 2450,
+    "offset": 1877570,
+    "lang": "es"
+  },
+  {
+    "text": "les ingresan a través del cuello pero",
+    "duration": 4560,
+    "offset": 1880330,
+    "lang": "es"
+  },
+  {
+    "text": "bueno vamos a ver cómo funciona porque",
+    "duration": 4591,
+    "offset": 1882909,
+    "lang": "es"
+  },
+  {
+    "text": "por ahí les va a quedar más claro si les",
+    "duration": 5899,
+    "offset": 1884890,
+    "lang": "es"
+  },
+  {
+    "text": "muestro cómo funciona",
+    "duration": 3289,
+    "offset": 1887500,
+    "lang": "es"
+  },
+  {
+    "text": "pues el código se los voy a poner creo",
+    "duration": 6260,
+    "offset": 1894800,
+    "lang": "es"
+  },
+  {
+    "text": "que está en un kit hub",
+    "duration": 3800,
+    "offset": 1897260,
+    "lang": "es"
+  },
+  {
+    "text": "a ver si le había puesto en estar",
+    "duration": 9709,
+    "offset": 1904320,
+    "lang": "es"
+  },
+  {
+    "text": "si entonces le pueden poner nm start",
+    "duration": 8370,
+    "offset": 1908559,
+    "lang": "es"
+  },
+  {
+    "text": "para empezar",
+    "duration": 2900,
+    "offset": 1914029,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 3000,
+    "offset": 1925390,
+    "lang": "es"
+  },
+  {
+    "text": "vamos ahí el port 4000",
+    "duration": 4010,
+    "offset": 1928720,
+    "lang": "es"
+  },
+  {
+    "text": "y les aparece esto esto es un play",
+    "duration": 5870,
+    "offset": 1934909,
+    "lang": "es"
+  },
+  {
+    "text": "ground que les da el mismo",
+    "duration": 4739,
+    "offset": 1938570,
+    "lang": "es"
+  },
+  {
+    "text": "apoyo cuando ven que ustedes están",
+    "duration": 4811,
+    "offset": 1940779,
+    "lang": "es"
+  },
+  {
+    "text": "usando ese package de apolo para hacer",
+    "duration": 4970,
+    "offset": 1943309,
+    "lang": "es"
+  },
+  {
+    "text": "pruebas y",
+    "duration": 2689,
+    "offset": 1945590,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá está entrando",
+    "duration": 4950,
+    "offset": 1949549,
+    "lang": "es"
+  },
+  {
+    "text": "después de después guardar el nombre del",
+    "duration": 4030,
+    "offset": 1952239,
+    "lang": "es"
+  },
+  {
+    "text": "cuero y demás van a tener tiempo para",
+    "duration": 5101,
+    "offset": 1954499,
+    "lang": "es"
+  },
+  {
+    "text": "verlo está entrando al servidor lo que",
+    "duration": 5100,
+    "offset": 1956269,
+    "lang": "es"
+  },
+  {
+    "text": "pasa que tiene un play ground para que",
+    "duration": 4880,
+    "offset": 1959600,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes lo prueben él",
+    "duration": 6841,
+    "offset": 1961369,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que este de acá ahora les voy a",
+    "duration": 5880,
+    "offset": 1964480,
+    "lang": "es"
+  },
+  {
+    "text": "mostrar",
+    "duration": 5210,
+    "offset": 1968210,
+    "lang": "es"
+  },
+  {
+    "text": "lo borro acá aparece fíjense que dice",
+    "duration": 5190,
+    "offset": 1970360,
+    "lang": "es"
+  },
+  {
+    "text": "fields todo lo que tenemos en el",
+    "duration": 4260,
+    "offset": 1973420,
+    "lang": "es"
+  },
+  {
+    "text": "resolver aparece todo lo que tenemos",
+    "duration": 4730,
+    "offset": 1975550,
+    "lang": "es"
+  },
+  {
+    "text": "definido fíjense en el",
+    "duration": 5760,
+    "offset": 1977680,
+    "lang": "es"
+  },
+  {
+    "text": "que acá dice productos barra próxmo de",
+    "duration": 5610,
+    "offset": 1980280,
+    "lang": "es"
+  },
+  {
+    "text": "ultra transforma",
+    "duration": 4820,
+    "offset": 1983440,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a volver fíjense que acá dice",
+    "duration": 5370,
+    "offset": 1985890,
+    "lang": "es"
+  },
+  {
+    "text": "tiene query imitation definido este",
+    "duration": 5700,
+    "offset": 1988260,
+    "lang": "es"
+  },
+  {
+    "text": "servidor entonces cuando veo los query",
+    "duration": 4380,
+    "offset": 1991260,
+    "lang": "es"
+  },
+  {
+    "text": "me dice bueno vos podés hacer query",
+    "duration": 3240,
+    "offset": 1993960,
+    "lang": "es"
+  },
+  {
+    "text": "porque hay definidos query de estos",
+    "duration": 2690,
+    "offset": 1995640,
+    "lang": "es"
+  },
+  {
+    "text": "campos",
+    "duration": 4350,
+    "offset": 1997200,
+    "lang": "es"
+  },
+  {
+    "text": "entonces si aca le dan a más va a ser",
+    "duration": 5870,
+    "offset": 1998330,
+    "lang": "es"
+  },
+  {
+    "text": "una cuadra de productos",
+    "duration": 5379,
+    "offset": 2001550,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí se puso ven que acá te tira un",
+    "duration": 5000,
+    "offset": 2004200,
+    "lang": "es"
+  },
+  {
+    "text": "error",
+    "duration": 2271,
+    "offset": 2006929,
+    "lang": "es"
+  },
+  {
+    "text": "porque porque todavía no tengo nada",
+    "duration": 5720,
+    "offset": 2009360,
+    "lang": "es"
+  },
+  {
+    "text": "adentro bueno lo voy a poner en él",
+    "duration": 6049,
+    "offset": 2011490,
+    "lang": "es"
+  },
+  {
+    "text": "título",
+    "duration": 4679,
+    "offset": 2015080,
+    "lang": "es"
+  },
+  {
+    "text": "acá sí ya se implica más le va poniendo",
+    "duration": 5210,
+    "offset": 2017539,
+    "lang": "es"
+  },
+  {
+    "text": "vengo me van poniendo",
+    "duration": 2990,
+    "offset": 2019759,
+    "lang": "es"
+  },
+  {
+    "text": "de hecho ustedes pueden elegir dicen no",
+    "duration": 6390,
+    "offset": 2023660,
+    "lang": "es"
+  },
+  {
+    "text": "haber por ejemplo yo quiero que me salga",
+    "duration": 6180,
+    "offset": 2026810,
+    "lang": "es"
+  },
+  {
+    "text": "primero a sam neill y después precio y",
+    "duration": 4890,
+    "offset": 2030050,
+    "lang": "es"
+  },
+  {
+    "text": "él",
+    "duration": 4830,
+    "offset": 2032990,
+    "lang": "es"
+  },
+  {
+    "text": "entonces este no tiene ningún argumento",
+    "duration": 6270,
+    "offset": 2034940,
+    "lang": "es"
+  },
+  {
+    "text": "sino las variables y los argumentos",
+    "duration": 5580,
+    "offset": 2037820,
+    "lang": "es"
+  },
+  {
+    "text": "habría que ingresar los acá abajo es lo",
+    "duration": 4680,
+    "offset": 2041210,
+    "lang": "es"
+  },
+  {
+    "text": "que van a tener que hacer ustedes ahora",
+    "duration": 5370,
+    "offset": 2043400,
+    "lang": "es"
+  },
+  {
+    "text": "si yo le doy query ahí se va a conectar",
+    "duration": 7940,
+    "offset": 2045890,
+    "lang": "es"
+  },
+  {
+    "text": "al servidor y va a tirar un producto",
+    "duration": 5060,
+    "offset": 2048770,
+    "lang": "es"
+  },
+  {
+    "text": "ahora qué es lo que tiene yo esto lo",
+    "duration": 6150,
+    "offset": 2056669,
+    "lang": "es"
+  },
+  {
+    "text": "puedo replicar varias veces puede decir",
+    "duration": 5671,
+    "offset": 2059819,
+    "lang": "es"
+  },
+  {
+    "text": "bueno quiero hacer otro acá no tiene",
+    "duration": 4800,
+    "offset": 2062819,
+    "lang": "es"
+  },
+  {
+    "text": "sentido porque bueno no es no no hay",
+    "duration": 5830,
+    "offset": 2065490,
+    "lang": "es"
+  },
+  {
+    "text": "argumento pero puede ser otro",
+    "duration": 8081,
+    "offset": 2067619,
+    "lang": "es"
+  },
+  {
+    "text": "puedo hacer otro y acá le pongo queridos",
+    "duration": 7710,
+    "offset": 2071320,
+    "lang": "es"
+  },
+  {
+    "text": "y si quiero y acá en este querido le",
+    "duration": 6399,
+    "offset": 2075700,
+    "lang": "es"
+  },
+  {
+    "text": "puedo poner si quiero el aire",
+    "duration": 4960,
+    "offset": 2079030,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 5351,
+    "offset": 2082099,
+    "lang": "es"
+  },
+  {
+    "text": "y volvería una sola",
+    "duration": 7480,
+    "offset": 2083990,
+    "lang": "es"
+  },
+  {
+    "text": "el tema es que acá está esta parte así",
+    "duration": 6240,
+    "offset": 2087450,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes están es un play ground a dónde",
+    "duration": 4250,
+    "offset": 2091470,
+    "lang": "es"
+  },
+  {
+    "text": "están probando si funciona",
+    "duration": 4830,
+    "offset": 2093690,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense el aire y se lo voy a sacar de",
+    "duration": 6700,
+    "offset": 2095720,
+    "lang": "es"
+  },
+  {
+    "text": "acá y lo voy a sacar de ahí y lo voy a",
+    "duration": 6500,
+    "offset": 2098520,
+    "lang": "es"
+  },
+  {
+    "text": "poner acá",
+    "duration": 2600,
+    "offset": 2102420,
+    "lang": "es"
+  },
+  {
+    "text": "voy a sacar todo esto",
+    "duration": 5820,
+    "offset": 2105770,
+    "lang": "es"
+  },
+  {
+    "text": "y pongo primero el aire y después pongo",
+    "duration": 5070,
+    "offset": 2109010,
+    "lang": "es"
+  },
+  {
+    "text": "los otros según el orden en el que vaya",
+    "duration": 4790,
+    "offset": 2111590,
+    "lang": "es"
+  },
+  {
+    "text": "apretando acabéis cómo van apareciendo",
+    "duration": 5070,
+    "offset": 2114080,
+    "lang": "es"
+  },
+  {
+    "text": "entonces yo acá puedo tocar y me ejecuta",
+    "duration": 5340,
+    "offset": 2116380,
+    "lang": "es"
+  },
+  {
+    "text": "query 1",
+    "duration": 2570,
+    "offset": 2119150,
+    "lang": "es"
+  },
+  {
+    "text": "puedo tocar y me ejecuta queridos o creo",
+    "duration": 6960,
+    "offset": 2121880,
+    "lang": "es"
+  },
+  {
+    "text": "que lo que puedo hacer directamente es",
+    "duration": 5900,
+    "offset": 2126110,
+    "lang": "es"
+  },
+  {
+    "text": "hacer así",
+    "duration": 3170,
+    "offset": 2128840,
+    "lang": "es"
+  },
+  {
+    "text": "y acá le sacó",
+    "duration": 4819,
+    "offset": 2135040,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 5149,
+    "offset": 2137850,
+    "lang": "es"
+  },
+  {
+    "text": "y de ahí quedó así",
+    "duration": 3140,
+    "offset": 2139859,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí fíjense que empieza este que tiene",
+    "duration": 7800,
+    "offset": 2144680,
+    "lang": "es"
+  },
+  {
+    "text": "al principio y si yo sigo bajando siguió",
+    "duration": 7220,
+    "offset": 2147700,
+    "lang": "es"
+  },
+  {
+    "text": "bajando este re largo",
+    "duration": 5379,
+    "offset": 2152480,
+    "lang": "es"
+  },
+  {
+    "text": "no me aparece uno que tiene ahí día al",
+    "duration": 5470,
+    "offset": 2154920,
+    "lang": "es"
+  },
+  {
+    "text": "principio ven",
+    "duration": 4720,
+    "offset": 2157859,
+    "lang": "es"
+  },
+  {
+    "text": "este es el price de anterior y acá",
+    "duration": 4620,
+    "offset": 2160390,
+    "lang": "es"
+  },
+  {
+    "text": "aparece ahí venga acá lo que hizo fue",
+    "duration": 7321,
+    "offset": 2162579,
+    "lang": "es"
+  },
+  {
+    "text": "ejecutar el acá arme un query y le puse",
+    "duration": 6359,
+    "offset": 2165010,
+    "lang": "es"
+  },
+  {
+    "text": "2",
+    "duration": 3389,
+    "offset": 2169900,
+    "lang": "es"
+  },
+  {
+    "text": "o sea ustedes lo que tendrían que hacer",
+    "duration": 3261,
+    "offset": 2171369,
+    "lang": "es"
+  },
+  {
+    "text": "su",
+    "duration": 4141,
+    "offset": 2173289,
+    "lang": "es"
+  },
+  {
+    "text": "archivo acá debiera recibir cuatro",
+    "duration": 4260,
+    "offset": 2174630,
+    "lang": "es"
+  },
+  {
+    "text": "argumentos",
+    "duration": 3569,
+    "offset": 2177430,
+    "lang": "es"
+  },
+  {
+    "text": "son variables que van a tener que",
+    "duration": 4449,
+    "offset": 2178890,
+    "lang": "es"
+  },
+  {
+    "text": "escribir acá y acá ponen los cuatro",
+    "duration": 4171,
+    "offset": 2180999,
+    "lang": "es"
+  },
+  {
+    "text": "cuadros cada uno con uno de los",
+    "duration": 3571,
+    "offset": 2183339,
+    "lang": "es"
+  },
+  {
+    "text": "argumentos",
+    "duration": 4169,
+    "offset": 2185170,
+    "lang": "es"
+  },
+  {
+    "text": "y cuando le dan run le va a ser como",
+    "duration": 4889,
+    "offset": 2186910,
+    "lang": "es"
+  },
+  {
+    "text": "este que ejecuta todo de una estos dos",
+    "duration": 5250,
+    "offset": 2189339,
+    "lang": "es"
+  },
+  {
+    "text": "que serían vieron que esto acá espero",
+    "duration": 4111,
+    "offset": 2191799,
+    "lang": "es"
+  },
+  {
+    "text": "que lo voy a borrar porque si no da",
+    "duration": 3770,
+    "offset": 2194589,
+    "lang": "es"
+  },
+  {
+    "text": "error",
+    "duration": 2449,
+    "offset": 2195910,
+    "lang": "es"
+  },
+  {
+    "text": "esto que serían normalmente dos",
+    "duration": 4830,
+    "offset": 2198530,
+    "lang": "es"
+  },
+  {
+    "text": "consultas al mismo el point de la base",
+    "duration": 4980,
+    "offset": 2200750,
+    "lang": "es"
+  },
+  {
+    "text": "de datos lo hizo de una sola vez sólo de",
+    "duration": 5790,
+    "offset": 2203360,
+    "lang": "es"
+  },
+  {
+    "text": "query y la segunda vez lo hace muchísimo",
+    "duration": 5370,
+    "offset": 2205730,
+    "lang": "es"
+  },
+  {
+    "text": "más rápido porque lo guarda en un caché",
+    "duration": 6410,
+    "offset": 2209150,
+    "lang": "es"
+  },
+  {
+    "text": "del apolo es el del apolo observar bien",
+    "duration": 4460,
+    "offset": 2211100,
+    "lang": "es"
+  },
+  {
+    "text": "básicamente a ver si pongo acá resolver",
+    "duration": 4820,
+    "offset": 2217900,
+    "lang": "es"
+  },
+  {
+    "text": "risk",
+    "duration": 5310,
+    "offset": 2221390,
+    "lang": "es"
+  },
+  {
+    "text": "para mí el apoyo",
+    "duration": 6290,
+    "offset": 2222720,
+    "lang": "es"
+  },
+  {
+    "text": "igual en los cursos eso que yo les pase",
+    "duration": 3500,
+    "offset": 2226700,
+    "lang": "es"
+  },
+  {
+    "text": "está",
+    "duration": 3870,
+    "offset": 2229010,
+    "lang": "es"
+  },
+  {
+    "text": "resolverse a polo server a ver si dice",
+    "duration": 5500,
+    "offset": 2230200,
+    "lang": "es"
+  },
+  {
+    "text": "que es en el curso de lo repiten varias",
+    "duration": 6080,
+    "offset": 2232880,
+    "lang": "es"
+  },
+  {
+    "text": "veces yo no lo encontré",
+    "duration": 3260,
+    "offset": 2235700,
+    "lang": "es"
+  },
+  {
+    "text": "acá nos dice en el curso acá está parent",
+    "duration": 7100,
+    "offset": 2243980,
+    "lang": "es"
+  },
+  {
+    "text": "acá esta vez a que esta parte el arq",
+    "duration": 4850,
+    "offset": 2248630,
+    "lang": "es"
+  },
+  {
+    "text": "context e info",
+    "duration": 6820,
+    "offset": 2251080,
+    "lang": "es"
+  },
+  {
+    "text": "context se refiere al contexto en el",
+    "duration": 7360,
+    "offset": 2253480,
+    "lang": "es"
+  },
+  {
+    "text": "cual está inmerso el este el resolver",
+    "duration": 4800,
+    "offset": 2257900,
+    "lang": "es"
+  },
+  {
+    "text": "que en este caso el contexto es el",
+    "duration": 4290,
+    "offset": 2260840,
+    "lang": "es"
+  },
+  {
+    "text": "contexto de data set por eso hay que",
+    "duration": 4040,
+    "offset": 2262700,
+    "lang": "es"
+  },
+  {
+    "text": "ponerle el data set",
+    "duration": 4860,
+    "offset": 2265130,
+    "lang": "es"
+  },
+  {
+    "text": "argumentos son variables que ustedes van",
+    "duration": 5410,
+    "offset": 2266740,
+    "lang": "es"
+  },
+  {
+    "text": "a pasar en el cuero o sea su cuero y va",
+    "duration": 4170,
+    "offset": 2269990,
+    "lang": "es"
+  },
+  {
+    "text": "a tener que aceptar argumentos bailes de",
+    "duration": 4760,
+    "offset": 2272150,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplos",
+    "duration": 2750,
+    "offset": 2274160,
+    "lang": "es"
+  },
+  {
+    "text": "acá hay ejemplos en el esquema",
+    "duration": 4770,
+    "offset": 2277360,
+    "lang": "es"
+  },
+  {
+    "text": "acuérdense que los cuadros se definen en",
+    "duration": 4490,
+    "offset": 2279760,
+    "lang": "es"
+  },
+  {
+    "text": "el esquema",
+    "duration": 5450,
+    "offset": 2282130,
+    "lang": "es"
+  },
+  {
+    "text": "en el esquema hay ejemplos de query que",
+    "duration": 6390,
+    "offset": 2284250,
+    "lang": "es"
+  },
+  {
+    "text": "sirven a argumentos ven por ejemplo este",
+    "duration": 6130,
+    "offset": 2287580,
+    "lang": "es"
+  },
+  {
+    "text": "que dice allí dos puntos allí",
+    "duration": 5530,
+    "offset": 2290640,
+    "lang": "es"
+  },
+  {
+    "text": "porque acá a este le están pasando una",
+    "duration": 4500,
+    "offset": 2293710,
+    "lang": "es"
+  },
+  {
+    "text": "pena que a éste se le está pasando un",
+    "duration": 3980,
+    "offset": 2296170,
+    "lang": "es"
+  },
+  {
+    "text": "argumento bien",
+    "duration": 7609,
+    "offset": 2298210,
+    "lang": "es"
+  },
+  {
+    "text": "entonces cuando yo voy al resolver",
+    "duration": 7919,
+    "offset": 2300150,
+    "lang": "es"
+  },
+  {
+    "text": "que va a tener por ejemplo esto del",
+    "duration": 5190,
+    "offset": 2305819,
+    "lang": "es"
+  },
+  {
+    "text": "track aid y el resolver del dragado en",
+    "duration": 4950,
+    "offset": 2308069,
+    "lang": "es"
+  },
+  {
+    "text": "la parte de argumentos tiene acá es que",
+    "duration": 6610,
+    "offset": 2311009,
+    "lang": "es"
+  },
+  {
+    "text": "hay de bien que si ustedes se fijan",
+    "duration": 7800,
+    "offset": 2313019,
+    "lang": "es"
+  },
+  {
+    "text": "acá arq son los argumentos que ustedes",
+    "duration": 7200,
+    "offset": 2317619,
+    "lang": "es"
+  },
+  {
+    "text": "ingresan por cuello parent es porque acá",
+    "duration": 6970,
+    "offset": 2320819,
+    "lang": "es"
+  },
+  {
+    "text": "tiene un valor que hereda del cuero y",
+    "duration": 4831,
+    "offset": 2324819,
+    "lang": "es"
+  },
+  {
+    "text": "quiso anteriormente si cuando yo hice",
+    "duration": 4520,
+    "offset": 2327789,
+    "lang": "es"
+  },
+  {
+    "text": "este cuero",
+    "duration": 2659,
+    "offset": 2329650,
+    "lang": "es"
+  },
+  {
+    "text": "lo tenía ahora lo sé",
+    "duration": 4219,
+    "offset": 2333640,
+    "lang": "es"
+  },
+  {
+    "text": "ah no no no perdón",
+    "duration": 3409,
+    "offset": 2340940,
+    "lang": "es"
+  },
+  {
+    "text": "cuando yo hice este query este query de",
+    "duration": 6861,
+    "offset": 2346099,
+    "lang": "es"
+  },
+  {
+    "text": "acá abajo los lo que los",
+    "duration": 7320,
+    "offset": 2349640,
+    "lang": "es"
+  },
+  {
+    "text": "resultados que obtuvo este de acá pasan",
+    "duration": 5859,
+    "offset": 2352960,
+    "lang": "es"
+  },
+  {
+    "text": "a este cuadro de acá abajo siempre y",
+    "duration": 4470,
+    "offset": 2356960,
+    "lang": "es"
+  },
+  {
+    "text": "cuando yo en el resolver hubiera",
+    "duration": 5401,
+    "offset": 2358819,
+    "lang": "es"
+  },
+  {
+    "text": "definido el parámetro que quiero",
+    "duration": 5820,
+    "offset": 2361430,
+    "lang": "es"
+  },
+  {
+    "text": "a conseguir en este lugar acá vienen los",
+    "duration": 7770,
+    "offset": 2364220,
+    "lang": "es"
+  },
+  {
+    "text": "parents bien acá vienen los argumentos",
+    "duration": 7020,
+    "offset": 2367250,
+    "lang": "es"
+  },
+  {
+    "text": "que yo ingreso por query este es el",
+    "duration": 4020,
+    "offset": 2371990,
+    "lang": "es"
+  },
+  {
+    "text": "contexto que en este caso es el contexto",
+    "duration": 4829,
+    "offset": 2374270,
+    "lang": "es"
+  },
+  {
+    "text": "data sur porque lo va a tomar de la red",
+    "duration": 8540,
+    "offset": 2376010,
+    "lang": "es"
+  },
+  {
+    "text": "que yo definí acá en data source",
+    "duration": 5451,
+    "offset": 2379099,
+    "lang": "es"
+  },
+  {
+    "text": "y el último deseo claro el último todo",
+    "duration": 7470,
+    "offset": 2384950,
+    "lang": "es"
+  },
+  {
+    "text": "info info no vi que lo usara creo que se",
+    "duration": 7320,
+    "offset": 2389000,
+    "lang": "es"
+  },
+  {
+    "text": "usa en la parte avanzada para ver login",
+    "duration": 5880,
+    "offset": 2392420,
+    "lang": "es"
+  },
+  {
+    "text": "y demás eso por ahí lo vemos más",
+    "duration": 4500,
+    "offset": 2396320,
+    "lang": "es"
+  },
+  {
+    "text": "adelante pero los importantes para",
+    "duration": 5279,
+    "offset": 2398300,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes son argumentos y contexto bien y",
+    "duration": 5029,
+    "offset": 2400820,
+    "lang": "es"
+  },
+  {
+    "text": "entonces tienen esquemas resolver",
+    "duration": 5101,
+    "offset": 2403579,
+    "lang": "es"
+  },
+  {
+    "text": "argumentos mutaciones no van a definir",
+    "duration": 5691,
+    "offset": 2405849,
+    "lang": "es"
+  },
+  {
+    "text": "pero bueno es bueno que la sepan",
+    "duration": 5560,
+    "offset": 2408680,
+    "lang": "es"
+  },
+  {
+    "text": "bueno paren que son de un query quise",
+    "duration": 4530,
+    "offset": 2411540,
+    "lang": "es"
+  },
+  {
+    "text": "anteriormente pero la idea ven como yo",
+    "duration": 2870,
+    "offset": 2414240,
+    "lang": "es"
+  },
+  {
+    "text": "acá",
+    "duration": 3870,
+    "offset": 2416070,
+    "lang": "es"
+  },
+  {
+    "text": "contacto los de los dos en point de uno",
+    "duration": 3970,
+    "offset": 2417110,
+    "lang": "es"
+  },
+  {
+    "text": "o sea ustedes van a tener que copiar",
+    "duration": 4500,
+    "offset": 2419940,
+    "lang": "es"
+  },
+  {
+    "text": "cuatro veces y poner los cuatro",
+    "duration": 6810,
+    "offset": 2421080,
+    "lang": "es"
+  },
+  {
+    "text": "argumentos para que se pasen los cuatro",
+    "duration": 5670,
+    "offset": 2424440,
+    "lang": "es"
+  },
+  {
+    "text": "argumentos pero de una y salga todo de",
+    "duration": 5330,
+    "offset": 2427890,
+    "lang": "es"
+  },
+  {
+    "text": "una sola vez bien",
+    "duration": 3110,
+    "offset": 2430110,
+    "lang": "es"
+  },
+  {
+    "text": "siguiente es el código o sea de acá el",
+    "duration": 5790,
+    "offset": 2434010,
+    "lang": "es"
+  },
+  {
+    "text": "único que les va a servir yo después voy",
+    "duration": 5600,
+    "offset": 2436620,
+    "lang": "es"
+  },
+  {
+    "text": "a escuchar",
+    "duration": 2420,
+    "offset": 2439800,
+    "lang": "es"
+  },
+  {
+    "text": "solo es que los demás son ejemplos que",
+    "duration": 4960,
+    "offset": 2443550,
+    "lang": "es"
+  },
+  {
+    "text": "yo había hecho del curso que hice para",
+    "duration": 5820,
+    "offset": 2446500,
+    "lang": "es"
+  },
+  {
+    "text": "aprender a ver cómo funcionaba bien y",
+    "duration": 5820,
+    "offset": 2448510,
+    "lang": "es"
+  },
+  {
+    "text": "del resolver también el que ustedes",
+    "duration": 4550,
+    "offset": 2452320,
+    "lang": "es"
+  },
+  {
+    "text": "tienen que ver",
+    "duration": 2540,
+    "offset": 2454330,
+    "lang": "es"
+  },
+  {
+    "text": "en el que ustedes tienen que ver y el",
+    "duration": 5170,
+    "offset": 2458880,
+    "lang": "es"
+  },
+  {
+    "text": "esquema en realidad es el esquema para",
+    "duration": 3879,
+    "offset": 2461470,
+    "lang": "es"
+  },
+  {
+    "text": "productos",
+    "duration": 3969,
+    "offset": 2464050,
+    "lang": "es"
+  },
+  {
+    "text": "acá tomó los productos sólo este sirve",
+    "duration": 5871,
+    "offset": 2465349,
+    "lang": "es"
+  },
+  {
+    "text": "este es el comentario",
+    "duration": 3201,
+    "offset": 2468019,
+    "lang": "es"
+  },
+  {
+    "text": "este sirve",
+    "duration": 4780,
+    "offset": 2472580,
+    "lang": "es"
+  },
+  {
+    "text": "y acuérdense que tienen que definir el",
+    "duration": 4200,
+    "offset": 2474810,
+    "lang": "es"
+  },
+  {
+    "text": "cuero porque esto lo que van a hacer es",
+    "duration": 3870,
+    "offset": 2477360,
+    "lang": "es"
+  },
+  {
+    "text": "encuestar lo acá le van a tener que",
+    "duration": 4070,
+    "offset": 2479010,
+    "lang": "es"
+  },
+  {
+    "text": "poner como en este caso",
+    "duration": 5430,
+    "offset": 2481230,
+    "lang": "es"
+  },
+  {
+    "text": "aprox ustedes acá le van a tener que",
+    "duration": 6720,
+    "offset": 2483080,
+    "lang": "es"
+  },
+  {
+    "text": "poner el aire o él",
+    "duration": 3140,
+    "offset": 2486660,
+    "lang": "es"
+  },
+  {
+    "text": "quieras llamar para que entre como",
+    "duration": 6110,
+    "offset": 2490050,
+    "lang": "es"
+  },
+  {
+    "text": "argumento y después acá",
+    "duration": 7459,
+    "offset": 2492120,
+    "lang": "es"
+  },
+  {
+    "text": "es a donde se define cómo es que ustedes",
+    "duration": 6480,
+    "offset": 2496160,
+    "lang": "es"
+  },
+  {
+    "text": "en realidad van a tener 23 posiciones el",
+    "duration": 7661,
+    "offset": 2499579,
+    "lang": "es"
+  },
+  {
+    "text": "ied y el nlv y el texto bien",
+    "duration": 6910,
+    "offset": 2502640,
+    "lang": "es"
+  },
+  {
+    "text": "en el esquema va a ser solamente esas",
+    "duration": 6360,
+    "offset": 2507240,
+    "lang": "es"
+  },
+  {
+    "text": "tres posiciones hasta ahí todo bien",
+    "duration": 7280,
+    "offset": 2509550,
+    "lang": "es"
+  },
+  {
+    "text": "es medio complicado hay que verlas así",
+    "duration": 5910,
+    "offset": 2513600,
+    "lang": "es"
+  },
+  {
+    "text": "lo voy a realizar cuando lo pero si se",
+    "duration": 5530,
+    "offset": 2516830,
+    "lang": "es"
+  },
+  {
+    "text": "entiende salir es genial",
+    "duration": 6090,
+    "offset": 2519510,
+    "lang": "es"
+  },
+  {
+    "text": "ser el resolver popular lo que ustedes",
+    "duration": 4950,
+    "offset": 2522360,
+    "lang": "es"
+  },
+  {
+    "text": "pusieran en el esquema si no está en el",
+    "duration": 4800,
+    "offset": 2525600,
+    "lang": "es"
+  },
+  {
+    "text": "esquema no resolver bachiller y yo acá",
+    "duration": 7070,
+    "offset": 2527310,
+    "lang": "es"
+  },
+  {
+    "text": "este le pongo otra cosa miren",
+    "duration": 3980,
+    "offset": 2530400,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a hacer la prueba lo pongo así no",
+    "duration": 3861,
+    "offset": 2536829,
+    "lang": "es"
+  },
+  {
+    "text": "termina",
+    "duration": 2810,
+    "offset": 2544520,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 6180,
+    "offset": 2548160,
+    "lang": "es"
+  },
+  {
+    "text": "al integrar dónde está",
+    "duration": 4280,
+    "offset": 2550060,
+    "lang": "es"
+  },
+  {
+    "text": "bueno",
+    "duration": 6160,
+    "offset": 2555810,
+    "lang": "es"
+  },
+  {
+    "text": "ahí va a abrir el terminal",
+    "duration": 3500,
+    "offset": 2558470,
+    "lang": "es"
+  },
+  {
+    "text": "pero yo seré el otro que bobo entonces",
+    "duration": 5030,
+    "offset": 2562270,
+    "lang": "es"
+  },
+  {
+    "text": "no me va a dejar me va a chillar",
+    "duration": 3889,
+    "offset": 2567380,
+    "lang": "es"
+  },
+  {
+    "text": "a ver no lo voy a tener que iniciar de",
+    "duration": 5600,
+    "offset": 2572150,
+    "lang": "es"
+  },
+  {
+    "text": "nuevo porque",
+    "duration": 2631,
+    "offset": 2575119,
+    "lang": "es"
+  },
+  {
+    "text": "acá el tema es que sí",
+    "duration": 4070,
+    "offset": 2577970,
+    "lang": "es"
+  },
+  {
+    "text": "saca la única que queda es ahora si",
+    "duration": 5840,
+    "offset": 2582240,
+    "lang": "es"
+  },
+  {
+    "text": "perdí el terminal",
+    "duration": 3050,
+    "offset": 2585030,
+    "lang": "es"
+  },
+  {
+    "text": "abrir terminal integrada y creo que ahí",
+    "duration": 4810,
+    "offset": 2589060,
+    "lang": "es"
+  },
+  {
+    "text": "se hace a ver",
+    "duration": 4530,
+    "offset": 2591580,
+    "lang": "es"
+  },
+  {
+    "text": "y no",
+    "duration": 5240,
+    "offset": 2593870,
+    "lang": "es"
+  },
+  {
+    "text": "pero porque luego el verbal ha terminado",
+    "duration": 5940,
+    "offset": 2596110,
+    "lang": "es"
+  },
+  {
+    "text": "tenías antes si me parece que hay al",
+    "duration": 5220,
+    "offset": 2599110,
+    "lang": "es"
+  },
+  {
+    "text": "costado justo al lado de la terminal de",
+    "duration": 4220,
+    "offset": 2602050,
+    "lang": "es"
+  },
+  {
+    "text": "trenes como",
+    "duration": 6970,
+    "offset": 2604330,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá está acá no",
+    "duration": 5030,
+    "offset": 2606270,
+    "lang": "es"
+  },
+  {
+    "text": "a estas sí sí gracias menos mal bien acá",
+    "duration": 6050,
+    "offset": 2613110,
+    "lang": "es"
+  },
+  {
+    "text": "le doy control sí",
+    "duration": 5600,
+    "offset": 2616530,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí le doy",
+    "duration": 6180,
+    "offset": 2619160,
+    "lang": "es"
+  },
+  {
+    "text": "acá le doy npm estar de vuelta y ahora",
+    "duration": 8090,
+    "offset": 2622130,
+    "lang": "es"
+  },
+  {
+    "text": "van a ver que chilla por qué",
+    "duration": 4880,
+    "offset": 2625340,
+    "lang": "es"
+  },
+  {
+    "text": "ven que ahí tiene un error",
+    "duration": 3290,
+    "offset": 2630270,
+    "lang": "es"
+  },
+  {
+    "text": "todo este error haz o de acá",
+    "duration": 6130,
+    "offset": 2634030,
+    "lang": "es"
+  },
+  {
+    "text": "dice vez que dice cuerpo producto",
+    "duration": 8000,
+    "offset": 2637230,
+    "lang": "es"
+  },
+  {
+    "text": "defining resolverse but not in esquema",
+    "duration": 5070,
+    "offset": 2640160,
+    "lang": "es"
+  },
+  {
+    "text": "porque en el esquema el cuero se llama",
+    "duration": 4410,
+    "offset": 2646920,
+    "lang": "es"
+  },
+  {
+    "text": "productos",
+    "duration": 4020,
+    "offset": 2650050,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá le tenéis que poner",
+    "duration": 5430,
+    "offset": 2651330,
+    "lang": "es"
+  },
+  {
+    "text": "productos",
+    "duration": 2690,
+    "offset": 2654070,
+    "lang": "es"
+  },
+  {
+    "text": "pero de archivo guardar todo",
+    "duration": 4250,
+    "offset": 2658960,
+    "lang": "es"
+  },
+  {
+    "text": "y le doy a star y ahí va a salir andando",
+    "duration": 4070,
+    "offset": 2665560,
+    "lang": "es"
+  },
+  {
+    "text": "en que hay levanto sin problema",
+    "duration": 3830,
+    "offset": 2674920,
+    "lang": "es"
+  },
+  {
+    "text": "eso por un lado y la otra son los",
+    "duration": 6179,
+    "offset": 2678900,
+    "lang": "es"
+  },
+  {
+    "text": "nombres allí está levantando la otra son",
+    "duration": 6679,
+    "offset": 2680910,
+    "lang": "es"
+  },
+  {
+    "text": "los nombres si yo acá",
+    "duration": 7250,
+    "offset": 2685079,
+    "lang": "es"
+  },
+  {
+    "text": "cambio de ponerle",
+    "duration": 4740,
+    "offset": 2687589,
+    "lang": "es"
+  },
+  {
+    "text": "productos",
+    "duration": 4110,
+    "offset": 2692640,
+    "lang": "es"
+  },
+  {
+    "text": "si en cambio de ponerle under score le",
+    "duration": 6390,
+    "offset": 2694230,
+    "lang": "es"
+  },
+  {
+    "text": "pongo con mayúscula",
+    "duration": 5700,
+    "offset": 2696750,
+    "lang": "es"
+  },
+  {
+    "text": "y lo que va a pasar es que no me lo trae",
+    "duration": 3990,
+    "offset": 2700620,
+    "lang": "es"
+  },
+  {
+    "text": "porque se tienen que llamar igual que",
+    "duration": 6810,
+    "offset": 2702450,
+    "lang": "es"
+  },
+  {
+    "text": "como se llaman en la en lápiz rest",
+    "duration": 8010,
+    "offset": 2704610,
+    "lang": "es"
+  },
+  {
+    "text": "los nombres que vos le pusiste a él",
+    "duration": 6000,
+    "offset": 2709260,
+    "lang": "es"
+  },
+  {
+    "text": "vieron que cuando nosotros",
+    "duration": 6210,
+    "offset": 2712620,
+    "lang": "es"
+  },
+  {
+    "text": "escribimos express a los parámetros le",
+    "duration": 8430,
+    "offset": 2715260,
+    "lang": "es"
+  },
+  {
+    "text": "ponemos un nombre en el text ese nombre",
+    "duration": 6390,
+    "offset": 2718830,
+    "lang": "es"
+  },
+  {
+    "text": "que vos le pusiste a los parámetros",
+    "duration": 3450,
+    "offset": 2723690,
+    "lang": "es"
+  },
+  {
+    "text": "tiene que ser el mismo que pones en el",
+    "duration": 4200,
+    "offset": 2725220,
+    "lang": "es"
+  },
+  {
+    "text": "esquema de gráfico como si estuvieses",
+    "duration": 4470,
+    "offset": 2727140,
+    "lang": "es"
+  },
+  {
+    "text": "poniendo algo en express porque si no te",
+    "duration": 3960,
+    "offset": 2729420,
+    "lang": "es"
+  },
+  {
+    "text": "no te lo va a atrasar no te va a chillar",
+    "duration": 4200,
+    "offset": 2731610,
+    "lang": "es"
+  },
+  {
+    "text": "porque no te va a tener un error pero",
+    "duration": 4650,
+    "offset": 2733380,
+    "lang": "es"
+  },
+  {
+    "text": "como el nombre ese no está definido en",
+    "duration": 4890,
+    "offset": 2735810,
+    "lang": "es"
+  },
+  {
+    "text": "lápiz rest te va a decir no sabe lo que",
+    "duration": 5690,
+    "offset": 2738030,
+    "lang": "es"
+  },
+  {
+    "text": "es que no existe bien",
+    "duration": 6050,
+    "offset": 2740700,
+    "lang": "es"
+  },
+  {
+    "text": "bueno entonces les quedó claro esto",
+    "duration": 5639,
+    "offset": 2743720,
+    "lang": "es"
+  },
+  {
+    "text": "argumenta acá en esta parte sería lo que",
+    "duration": 5430,
+    "offset": 2746750,
+    "lang": "es"
+  },
+  {
+    "text": "viene del parent esta parte es argumento",
+    "duration": 5341,
+    "offset": 2749359,
+    "lang": "es"
+  },
+  {
+    "text": "este es el contexto y un cuarto info que",
+    "duration": 4770,
+    "offset": 2752180,
+    "lang": "es"
+  },
+  {
+    "text": "no usamos nunca lo que más vamos a usar",
+    "duration": 5010,
+    "offset": 2754700,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros es el segundo y el tercero que",
+    "duration": 6690,
+    "offset": 2756950,
+    "lang": "es"
+  },
+  {
+    "text": "son argumentos y contexto bien tienen",
+    "duration": 6270,
+    "offset": 2759710,
+    "lang": "es"
+  },
+  {
+    "text": "que definir los resolver en función de",
+    "duration": 4740,
+    "offset": 2763640,
+    "lang": "es"
+  },
+  {
+    "text": "como definieron antes esta clase que es",
+    "duration": 5490,
+    "offset": 2765980,
+    "lang": "es"
+  },
+  {
+    "text": "la clase data source para conectarse a",
+    "duration": 6270,
+    "offset": 2768380,
+    "lang": "es"
+  },
+  {
+    "text": "la api y tienen que tener los esquemas",
+    "duration": 5520,
+    "offset": 2771470,
+    "lang": "es"
+  },
+  {
+    "text": "adecuados y no bachiller esto es sólo la",
+    "duration": 4640,
+    "offset": 2774650,
+    "lang": "es"
+  },
+  {
+    "text": "parte del servidor",
+    "duration": 4400,
+    "offset": 2776990,
+    "lang": "es"
+  },
+  {
+    "text": "porque ustedes dicen bueno el servidor",
+    "duration": 4110,
+    "offset": 2779290,
+    "lang": "es"
+  },
+  {
+    "text": "pero no me voy a conectar con el play",
+    "duration": 3550,
+    "offset": 2781390,
+    "lang": "es"
+  },
+  {
+    "text": "ground",
+    "duration": 5500,
+    "offset": 2783400,
+    "lang": "es"
+  },
+  {
+    "text": "a su vez esperen voy a venir otra",
+    "duration": 6040,
+    "offset": 2784940,
+    "lang": "es"
+  },
+  {
+    "text": "carpeta",
+    "duration": 4420,
+    "offset": 2788900,
+    "lang": "es"
+  },
+  {
+    "text": "este es el servidor acuérdense el",
+    "duration": 4620,
+    "offset": 2790980,
+    "lang": "es"
+  },
+  {
+    "text": "servidor de graf til se llama apolo",
+    "duration": 4760,
+    "offset": 2793320,
+    "lang": "es"
+  },
+  {
+    "text": "server",
+    "duration": 2480,
+    "offset": 2795600,
+    "lang": "es"
+  },
+  {
+    "text": "esta es una carpeta a donde yo tengo una",
+    "duration": 5130,
+    "offset": 2798550,
+    "lang": "es"
+  },
+  {
+    "text": "app y hecho en riad ustedes van a tener",
+    "duration": 3930,
+    "offset": 2801430,
+    "lang": "es"
+  },
+  {
+    "text": "que actualizar este código tiene un",
+    "duration": 3450,
+    "offset": 2803680,
+    "lang": "es"
+  },
+  {
+    "text": "montón de basura y solo algunas cosas",
+    "duration": 4490,
+    "offset": 2805360,
+    "lang": "es"
+  },
+  {
+    "text": "que les sirve",
+    "duration": 2720,
+    "offset": 2807130,
+    "lang": "es"
+  },
+  {
+    "text": "y después una vez que tengan eso pasamos",
+    "duration": 5820,
+    "offset": 2810520,
+    "lang": "es"
+  },
+  {
+    "text": "a la parte del cliente la parte del",
+    "duration": 4710,
+    "offset": 2813520,
+    "lang": "es"
+  },
+  {
+    "text": "cliente vieron que ustedes tenían un",
+    "duration": 4320,
+    "offset": 2816340,
+    "lang": "es"
+  },
+  {
+    "text": "play ground a donde pueden probar la",
+    "duration": 5039,
+    "offset": 2818230,
+    "lang": "es"
+  },
+  {
+    "text": "query y ver cómo funciona",
+    "duration": 5369,
+    "offset": 2820660,
+    "lang": "es"
+  },
+  {
+    "text": "bien acá yo lo que estoy haciendo es",
+    "duration": 5701,
+    "offset": 2823269,
+    "lang": "es"
+  },
+  {
+    "text": "leer productos",
+    "duration": 4891,
+    "offset": 2826029,
+    "lang": "es"
+  },
+  {
+    "text": "tiene esto también tiene un montón de",
+    "duration": 3830,
+    "offset": 2828970,
+    "lang": "es"
+  },
+  {
+    "text": "basura que no sirve para nada",
+    "duration": 4400,
+    "offset": 2830920,
+    "lang": "es"
+  },
+  {
+    "text": "pero",
+    "duration": 6890,
+    "offset": 2832800,
+    "lang": "es"
+  },
+  {
+    "text": "ver déjeme ver hay una parte",
+    "duration": 4370,
+    "offset": 2835320,
+    "lang": "es"
+  },
+  {
+    "text": "donde tiene",
+    "duration": 3230,
+    "offset": 2839790,
+    "lang": "es"
+  },
+  {
+    "text": "el mismo query",
+    "duration": 4499,
+    "offset": 2843060,
+    "lang": "es"
+  },
+  {
+    "text": "ward m",
+    "duration": 5169,
+    "offset": 2845450,
+    "lang": "es"
+  },
+  {
+    "text": "y esto lo dice hace hace mucho y",
+    "duration": 5690,
+    "offset": 2847559,
+    "lang": "es"
+  },
+  {
+    "text": "olvidando",
+    "duration": 2630,
+    "offset": 2850619,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense ven que acá tiene importado el",
+    "duration": 4939,
+    "offset": 2854340,
+    "lang": "es"
+  },
+  {
+    "text": "apolo client",
+    "duration": 5780,
+    "offset": 2856860,
+    "lang": "es"
+  },
+  {
+    "text": "para poder ver las cosas y acá lo que",
+    "duration": 6821,
+    "offset": 2859279,
+    "lang": "es"
+  },
+  {
+    "text": "hay en que tengo",
+    "duration": 7180,
+    "offset": 2862640,
+    "lang": "es"
+  },
+  {
+    "text": "definidos los queries",
+    "duration": 3720,
+    "offset": 2866100,
+    "lang": "es"
+  },
+  {
+    "text": "incremento no estoy acá",
+    "duration": 10250,
+    "offset": 2874290,
+    "lang": "es"
+  },
+  {
+    "text": "verdes mb traca rita nos agarre retorno",
+    "duration": 8500,
+    "offset": 2878840,
+    "lang": "es"
+  },
+  {
+    "text": "un montón de cosas",
+    "duration": 6270,
+    "offset": 2884540,
+    "lang": "es"
+  },
+  {
+    "text": "para que las tengas",
+    "duration": 3470,
+    "offset": 2887340,
+    "lang": "es"
+  },
+  {
+    "text": "estas son todos del ejemplo que yo había",
+    "duration": 6020,
+    "offset": 2892910,
+    "lang": "es"
+  },
+  {
+    "text": "hecho si se hace en el ejemplo está",
+    "duration": 3740,
+    "offset": 2895190,
+    "lang": "es"
+  },
+  {
+    "text": "acá está",
+    "duration": 2720,
+    "offset": 2900549,
+    "lang": "es"
+  },
+  {
+    "text": "era éste donde cuelgue tractor pediatra",
+    "duration": 6111,
+    "offset": 2904069,
+    "lang": "es"
+  },
+  {
+    "text": "perdiz",
+    "duration": 2391,
+    "offset": 2907789,
+    "lang": "es"
+  },
+  {
+    "text": "un track",
+    "duration": 6290,
+    "offset": 2910360,
+    "lang": "es"
+  },
+  {
+    "text": "a donde puse los productos",
+    "duration": 3860,
+    "offset": 2912790,
+    "lang": "es"
+  },
+  {
+    "text": "a todos ni en fotos esperen que les",
+    "duration": 5520,
+    "offset": 2917540,
+    "lang": "es"
+  },
+  {
+    "text": "quiero mostrar dónde",
+    "duration": 5490,
+    "offset": 2920210,
+    "lang": "es"
+  },
+  {
+    "text": "daban los productos en algún lugar de",
+    "duration": 5510,
+    "offset": 2923060,
+    "lang": "es"
+  },
+  {
+    "text": "esto yo había puesto",
+    "duration": 6040,
+    "offset": 2925700,
+    "lang": "es"
+  },
+  {
+    "text": "los productos",
+    "duration": 3170,
+    "offset": 2928570,
+    "lang": "es"
+  },
+  {
+    "text": "acá están",
+    "duration": 5350,
+    "offset": 2937860,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense ven",
+    "duration": 3080,
+    "offset": 2940130,
+    "lang": "es"
+  },
+  {
+    "text": "acá tengo un modo un módulo en este",
+    "duration": 7110,
+    "offset": 2943440,
+    "lang": "es"
+  },
+  {
+    "text": "módulo defino una variable que se llama",
+    "duration": 7020,
+    "offset": 2947160,
+    "lang": "es"
+  },
+  {
+    "text": "productos le puse un nombre cualquiera y",
+    "duration": 8280,
+    "offset": 2950550,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que acá este query",
+    "duration": 8370,
+    "offset": 2954180,
+    "lang": "es"
+  },
+  {
+    "text": "este así es exactamente el mismo query",
+    "duration": 6890,
+    "offset": 2958830,
+    "lang": "es"
+  },
+  {
+    "text": "que había funcionado",
+    "duration": 3170,
+    "offset": 2962550,
+    "lang": "es"
+  },
+  {
+    "text": "porque ven que esté acá yo le había",
+    "duration": 9440,
+    "offset": 2966660,
+    "lang": "es"
+  },
+  {
+    "text": "puesto de más no pero este mismo cuello",
+    "duration": 7320,
+    "offset": 2971610,
+    "lang": "es"
+  },
+  {
+    "text": "porque acá lo solo pared por eso me dice",
+    "duration": 5370,
+    "offset": 2976100,
+    "lang": "es"
+  },
+  {
+    "text": "este mismo cuero y que le funcionó acá",
+    "duration": 6060,
+    "offset": 2978930,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes lo pueden copiar pastear en este",
+    "duration": 5570,
+    "offset": 2981470,
+    "lang": "es"
+  },
+  {
+    "text": "código donde acá",
+    "duration": 4060,
+    "offset": 2984990,
+    "lang": "es"
+  },
+  {
+    "text": "y funciona",
+    "duration": 5350,
+    "offset": 2987040,
+    "lang": "es"
+  },
+  {
+    "text": "bien entonces este",
+    "duration": 6759,
+    "offset": 2989050,
+    "lang": "es"
+  },
+  {
+    "text": "este código de acá lo que va a hacer acá",
+    "duration": 6600,
+    "offset": 2992390,
+    "lang": "es"
+  },
+  {
+    "text": "estamos en el cliente react esto después",
+    "duration": 5760,
+    "offset": 2995809,
+    "lang": "es"
+  },
+  {
+    "text": "primero ustedes tienen que sacar el",
+    "duration": 4980,
+    "offset": 2998990,
+    "lang": "es"
+  },
+  {
+    "text": "servidor pero después este cliente",
+    "duration": 5460,
+    "offset": 3001569,
+    "lang": "es"
+  },
+  {
+    "text": "arriba nosotros los podemos echar dentro",
+    "duration": 4950,
+    "offset": 3003970,
+    "lang": "es"
+  },
+  {
+    "text": "del código",
+    "duration": 5261,
+    "offset": 3007029,
+    "lang": "es"
+  },
+  {
+    "text": "del del chat",
+    "duration": 8050,
+    "offset": 3008920,
+    "lang": "es"
+  },
+  {
+    "text": "y acá este cliente react fíjense qué",
+    "duration": 7440,
+    "offset": 3012290,
+    "lang": "es"
+  },
+  {
+    "text": "acá lo que está haciendo esto es",
+    "duration": 5879,
+    "offset": 3016970,
+    "lang": "es"
+  },
+  {
+    "text": "diciéndole es un hub en que esto es un",
+    "duration": 7680,
+    "offset": 3019730,
+    "lang": "es"
+  },
+  {
+    "text": "hub es como yo sé effects acaben no",
+    "duration": 6571,
+    "offset": 3022849,
+    "lang": "es"
+  },
+  {
+    "text": "importa de apolo clay es un casto news",
+    "duration": 4350,
+    "offset": 3027410,
+    "lang": "es"
+  },
+  {
+    "text": "que hicieron los de apolo client así",
+    "duration": 4290,
+    "offset": 3029420,
+    "lang": "es"
+  },
+  {
+    "text": "como ustedes usaban yus efecto news",
+    "duration": 5220,
+    "offset": 3031760,
+    "lang": "es"
+  },
+  {
+    "text": "state que son los de react este square y",
+    "duration": 6240,
+    "offset": 3033710,
+    "lang": "es"
+  },
+  {
+    "text": "es un cash tom cook que hizo la gente de",
+    "duration": 6600,
+    "offset": 3036980,
+    "lang": "es"
+  },
+  {
+    "text": "apolo client bien acá tienen el eje",
+    "duration": 6390,
+    "offset": 3039950,
+    "lang": "es"
+  },
+  {
+    "text": "cuele que es el motor de apolo que va a",
+    "duration": 7150,
+    "offset": 3043580,
+    "lang": "es"
+  },
+  {
+    "text": "ser la query y acá ejecutan con este hub",
+    "duration": 5430,
+    "offset": 3046340,
+    "lang": "es"
+  },
+  {
+    "text": "el",
+    "duration": 4090,
+    "offset": 3050730,
+    "lang": "es"
+  },
+  {
+    "text": "ejecutan él",
+    "duration": 5780,
+    "offset": 3051770,
+    "lang": "es"
+  },
+  {
+    "text": "el cuero y eso los va a guardar acá",
+    "duration": 4890,
+    "offset": 3054820,
+    "lang": "es"
+  },
+  {
+    "text": "tiene loading error y data yo lo único",
+    "duration": 4500,
+    "offset": 3057550,
+    "lang": "es"
+  },
+  {
+    "text": "que tomes data y fíjense que en",
+    "duration": 6170,
+    "offset": 3059710,
+    "lang": "es"
+  },
+  {
+    "text": "definitiva este data lo que hacen es",
+    "duration": 7440,
+    "offset": 3062050,
+    "lang": "es"
+  },
+  {
+    "text": "mapear los productos porque producto se",
+    "duration": 6270,
+    "offset": 3065880,
+    "lang": "es"
+  },
+  {
+    "text": "llama el objeto que va a traer",
+    "duration": 6620,
+    "offset": 3069490,
+    "lang": "es"
+  },
+  {
+    "text": "lo que hacen es mapear lo",
+    "duration": 9090,
+    "offset": 3072150,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando el este la función map bien",
+    "duration": 8220,
+    "offset": 3076110,
+    "lang": "es"
+  },
+  {
+    "text": "esto acá que yo le puse index hay que",
+    "duration": 5280,
+    "offset": 3081240,
+    "lang": "es"
+  },
+  {
+    "text": "ponerlo para que ría noche porque en",
+    "duration": 4350,
+    "offset": 3084330,
+    "lang": "es"
+  },
+  {
+    "text": "cada rendering necesita que cada una de",
+    "duration": 4860,
+    "offset": 3086520,
+    "lang": "es"
+  },
+  {
+    "text": "los elementos de la red tenga un wiki",
+    "duration": 5340,
+    "offset": 3088680,
+    "lang": "es"
+  },
+  {
+    "text": "distinto y no tiene un error eso no sé",
+    "duration": 4320,
+    "offset": 3091380,
+    "lang": "es"
+  },
+  {
+    "text": "si lo vieron cuando estudiaron react",
+    "duration": 4470,
+    "offset": 3094020,
+    "lang": "es"
+  },
+  {
+    "text": "quien estaba en el curso y buenísimo",
+    "duration": 6330,
+    "offset": 3095700,
+    "lang": "es"
+  },
+  {
+    "text": "pero si acá warning si lo ven claro acá",
+    "duration": 5670,
+    "offset": 3098490,
+    "lang": "es"
+  },
+  {
+    "text": "si este bueno es la la callback de mac",
+    "duration": 5100,
+    "offset": 3102030,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene track index index es lo que",
+    "duration": 6150,
+    "offset": 3104160,
+    "lang": "es"
+  },
+  {
+    "text": "voy a usar para evitar el warning y",
+    "duration": 5280,
+    "offset": 3107130,
+    "lang": "es"
+  },
+  {
+    "text": "trata del price son los que traigo",
+    "duration": 4200,
+    "offset": 3110310,
+    "lang": "es"
+  },
+  {
+    "text": "delaware y que estoy trayendo y acá me",
+    "duration": 5160,
+    "offset": 3112410,
+    "lang": "es"
+  },
+  {
+    "text": "va a mostrar lo que yo quiero bien de",
+    "duration": 7370,
+    "offset": 3114510,
+    "lang": "es"
+  },
+  {
+    "text": "hecho éste también funciona a ver",
+    "duration": 4310,
+    "offset": 3117570,
+    "lang": "es"
+  },
+  {
+    "text": "abrimos el terminal",
+    "duration": 5840,
+    "offset": 3122070,
+    "lang": "es"
+  },
+  {
+    "text": "a lo que pasa es que necesito tener",
+    "duration": 4680,
+    "offset": 3125450,
+    "lang": "es"
+  },
+  {
+    "text": "acaba chillar",
+    "duration": 4330,
+    "offset": 3127910,
+    "lang": "es"
+  },
+  {
+    "text": "por qué",
+    "duration": 4969,
+    "offset": 3130130,
+    "lang": "es"
+  },
+  {
+    "text": "necesito si le doy n pm estar va a salir",
+    "duration": 3660,
+    "offset": 3132240,
+    "lang": "es"
+  },
+  {
+    "text": "andando",
+    "duration": 4341,
+    "offset": 3135099,
+    "lang": "es"
+  },
+  {
+    "text": "pero yo no necesito tener el",
+    "duration": 8250,
+    "offset": 3135900,
+    "lang": "es"
+  },
+  {
+    "text": "el servidor a ver sí no",
+    "duration": 4710,
+    "offset": 3139440,
+    "lang": "es"
+  },
+  {
+    "text": "y si hubiera un míster las harinas la",
+    "duration": 5030,
+    "offset": 3148720,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza",
+    "duration": 5110,
+    "offset": 3151640,
+    "lang": "es"
+  },
+  {
+    "text": "esperen",
+    "duration": 3000,
+    "offset": 3153750,
+    "lang": "es"
+  },
+  {
+    "text": "que nunca grabamos y justo y que",
+    "duration": 5870,
+    "offset": 3180640,
+    "lang": "es"
+  },
+  {
+    "text": "grabamos alguien lío",
+    "duration": 3741,
+    "offset": 3182769,
+    "lang": "es"
+  },
+  {
+    "text": "y entonces que los perros como no podían",
+    "duration": 4740,
+    "offset": 3187030,
+    "lang": "es"
+  },
+  {
+    "text": "hacerlo acá se fueron a salida donde",
+    "duration": 3050,
+    "offset": 3190180,
+    "lang": "es"
+  },
+  {
+    "text": "está tendiendo a",
+    "duration": 4360,
+    "offset": 3191770,
+    "lang": "es"
+  },
+  {
+    "text": "venir a dar las quejas",
+    "duration": 5320,
+    "offset": 3193230,
+    "lang": "es"
+  },
+  {
+    "text": "i",
+    "duration": 7690,
+    "offset": 3196130,
+    "lang": "es"
+  },
+  {
+    "text": "aguarde me voy a abrir el servidor",
+    "duration": 5270,
+    "offset": 3198550,
+    "lang": "es"
+  },
+  {
+    "text": "con el tiempo",
+    "duration": 5430,
+    "offset": 3208700,
+    "lang": "es"
+  },
+  {
+    "text": "y le van a ver las ventajas pero",
+    "duration": 5830,
+    "offset": 3210650,
+    "lang": "es"
+  },
+  {
+    "text": "en casos pues por ahí se van a poner a",
+    "duration": 4690,
+    "offset": 3214130,
+    "lang": "es"
+  },
+  {
+    "text": "jugar y ver de cómo evitar de utilizar",
+    "duration": 4130,
+    "offset": 3216480,
+    "lang": "es"
+  },
+  {
+    "text": "la api rest",
+    "duration": 4560,
+    "offset": 3218820,
+    "lang": "es"
+  },
+  {
+    "text": "esperen se ve acá no que estoy poniendo",
+    "duration": 5820,
+    "offset": 3220610,
+    "lang": "es"
+  },
+  {
+    "text": "a funcionar el server",
+    "duration": 3050,
+    "offset": 3223380,
+    "lang": "es"
+  },
+  {
+    "text": "sí sí",
+    "duration": 2690,
+    "offset": 3227030,
+    "lang": "es"
+  },
+  {
+    "text": "y si puedo poner a funcionar el servidor",
+    "duration": 6350,
+    "offset": 3247060,
+    "lang": "es"
+  },
+  {
+    "text": "y les muestro",
+    "duration": 3140,
+    "offset": 3250270,
+    "lang": "es"
+  },
+  {
+    "text": "parece que esta reventa pobreza llegamos",
+    "duration": 5810,
+    "offset": 3258560,
+    "lang": "es"
+  },
+  {
+    "text": "al límite",
+    "duration": 2780,
+    "offset": 3261590,
+    "lang": "es"
+  },
+  {
+    "text": "ahí va a empezar a funcionar el servidor",
+    "duration": 4591,
+    "offset": 3268549,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 7861,
+    "offset": 3270859,
+    "lang": "es"
+  },
+  {
+    "text": "ya tengo el cliente entonces acá voy a",
+    "duration": 9500,
+    "offset": 3273140,
+    "lang": "es"
+  },
+  {
+    "text": "funcionar el cliente",
+    "duration": 3920,
+    "offset": 3278720,
+    "lang": "es"
+  },
+  {
+    "text": "bueno ahí el servidor levanto a ver acá",
+    "duration": 5341,
+    "offset": 3296359,
+    "lang": "es"
+  },
+  {
+    "text": "el cliente que es en riad el react tarda",
+    "duration": 4290,
+    "offset": 3299239,
+    "lang": "es"
+  },
+  {
+    "text": "mucho más pero bueno ahí parece que está",
+    "duration": 3950,
+    "offset": 3301700,
+    "lang": "es"
+  },
+  {
+    "text": "levantando",
+    "duration": 5030,
+    "offset": 3303529,
+    "lang": "es"
+  },
+  {
+    "text": "vieron que en definitiva acá este que",
+    "duration": 5550,
+    "offset": 3305650,
+    "lang": "es"
+  },
+  {
+    "text": "dice model fíjense yo después me voy a",
+    "duration": 4651,
+    "offset": 3308559,
+    "lang": "es"
+  },
+  {
+    "text": "guardar la grabación pero este que dice",
+    "duration": 3780,
+    "offset": 3311200,
+    "lang": "es"
+  },
+  {
+    "text": "móvil sería el único código que había",
+    "duration": 3889,
+    "offset": 3313210,
+    "lang": "es"
+  },
+  {
+    "text": "que habría que agregar",
+    "duration": 6030,
+    "offset": 3314980,
+    "lang": "es"
+  },
+  {
+    "text": "porque acá tiene el hook que lo que hace",
+    "duration": 6881,
+    "offset": 3317099,
+    "lang": "es"
+  },
+  {
+    "text": "es el query que habíamos probado antes",
+    "duration": 7190,
+    "offset": 3321010,
+    "lang": "es"
+  },
+  {
+    "text": "ese query puede traer las cuatro de una",
+    "duration": 6680,
+    "offset": 3323980,
+    "lang": "es"
+  },
+  {
+    "text": "y ese hook",
+    "duration": 7700,
+    "offset": 3328200,
+    "lang": "es"
+  },
+  {
+    "text": "directamente pasaría los valores a él",
+    "duration": 6949,
+    "offset": 3330660,
+    "lang": "es"
+  },
+  {
+    "text": "bueno va a tomar los argumentos para",
+    "duration": 3419,
+    "offset": 3335900,
+    "lang": "es"
+  },
+  {
+    "text": "serían los valores al chat bot para",
+    "duration": 5010,
+    "offset": 3337609,
+    "lang": "es"
+  },
+  {
+    "text": "poder ir analizando lo bueno que va a",
+    "duration": 5460,
+    "offset": 3339319,
+    "lang": "es"
+  },
+  {
+    "text": "tardar en levantar muy así esta tarde",
+    "duration": 4631,
+    "offset": 3342619,
+    "lang": "es"
+  },
+  {
+    "text": "volveré",
+    "duration": 5461,
+    "offset": 3344779,
+    "lang": "es"
+  },
+  {
+    "text": "pero bueno ya son las 7",
+    "duration": 6550,
+    "offset": 3347250,
+    "lang": "es"
+  },
+  {
+    "text": "este funcas así",
+    "duration": 3560,
+    "offset": 3350240,
+    "lang": "es"
+  },
+  {
+    "text": "la verdad que no sé si ahora está",
+    "duration": 4440,
+    "offset": 3356260,
+    "lang": "es"
+  },
+  {
+    "text": "tardando mucho vieron que cuando no",
+    "duration": 3950,
+    "offset": 3358900,
+    "lang": "es"
+  },
+  {
+    "text": "tiene procesador el react",
+    "duration": 3940,
+    "offset": 3360700,
+    "lang": "es"
+  },
+  {
+    "text": "consume recursos",
+    "duration": 5720,
+    "offset": 3362850,
+    "lang": "es"
+  },
+  {
+    "text": "terriblemente así que por ahí",
+    "duration": 7470,
+    "offset": 3364640,
+    "lang": "es"
+  },
+  {
+    "text": "sí sí la carpeta es a los módulos",
+    "duration": 5340,
+    "offset": 3368570,
+    "lang": "es"
+  },
+  {
+    "text": "también siempre está",
+    "duration": 4850,
+    "offset": 3372110,
+    "lang": "es"
+  },
+  {
+    "text": "y por otro",
+    "duration": 5230,
+    "offset": 3373910,
+    "lang": "es"
+  },
+  {
+    "text": "gigante",
+    "duration": 5150,
+    "offset": 3376960,
+    "lang": "es"
+  },
+  {
+    "text": "ahí está ahí ahí a ver si está artea y",
+    "duration": 5100,
+    "offset": 3379140,
+    "lang": "es"
+  },
+  {
+    "text": "les muestra cómo funciona ahí está",
+    "duration": 4820,
+    "offset": 3382110,
+    "lang": "es"
+  },
+  {
+    "text": "levantando",
+    "duration": 2690,
+    "offset": 3384240,
+    "lang": "es"
+  },
+  {
+    "text": "que está levantando",
+    "duration": 3020,
+    "offset": 3394010,
+    "lang": "es"
+  },
+  {
+    "text": "le damos re bien porque ahora van a",
+    "duration": 4949,
+    "offset": 3404170,
+    "lang": "es"
+  },
+  {
+    "text": "tener no sé tiempo hasta febrero del año",
+    "duration": 5910,
+    "offset": 3406240,
+    "lang": "es"
+  },
+  {
+    "text": "que viene para ponerse a ver hacer los",
+    "duration": 6351,
+    "offset": 3409119,
+    "lang": "es"
+  },
+  {
+    "text": "cursos y está no sé si tienen ganas",
+    "duration": 3320,
+    "offset": 3412150,
+    "lang": "es"
+  },
+  {
+    "text": "y también terminar el de fusta",
+    "duration": 9369,
+    "offset": 3418700,
+    "lang": "es"
+  },
+  {
+    "text": "si eso está bueno bueno ahí está",
+    "duration": 7670,
+    "offset": 3423960,
+    "lang": "es"
+  },
+  {
+    "text": "tardando pero",
+    "duration": 3561,
+    "offset": 3428069,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 3780,
+    "offset": 3431920,
+    "lang": "es"
+  },
+  {
+    "text": "créanme que funciona porque yo el código",
+    "duration": 5300,
+    "offset": 3433140,
+    "lang": "es"
+  },
+  {
+    "text": "que le doy funciona",
+    "duration": 5260,
+    "offset": 3435700,
+    "lang": "es"
+  },
+  {
+    "text": "el tema está bueno que lo grabamos saben",
+    "duration": 4409,
+    "offset": 3438440,
+    "lang": "es"
+  },
+  {
+    "text": "por qué no porque de acá febrero nos va",
+    "duration": 4520,
+    "offset": 3440960,
+    "lang": "es"
+  },
+  {
+    "text": "a olvidar de todo",
+    "duration": 2631,
+    "offset": 3442849,
+    "lang": "es"
+  },
+  {
+    "text": "pero bueno yo ahora",
+    "duration": 7919,
+    "offset": 3447600,
+    "lang": "es"
+  },
+  {
+    "text": "pero en que dejó de compartir pantalla",
+    "duration": 4250,
+    "offset": 3451269,
+    "lang": "es"
+  },
+  {
+    "text": "ahora les voy a pasar los dos reportes",
+    "duration": 4230,
+    "offset": 3456890,
+    "lang": "es"
+  },
+  {
+    "text": "con el cliente y el servidor de gráficos",
+    "duration": 3870,
+    "offset": 3459050,
+    "lang": "es"
+  },
+  {
+    "text": "creo que le había pasado los cursos los",
+    "duration": 5420,
+    "offset": 3461120,
+    "lang": "es"
+  },
+  {
+    "text": "cursos no de apolo server",
+    "duration": 3620,
+    "offset": 3462920,
+    "lang": "es"
+  },
+  {
+    "text": "el de las cuales sí",
+    "duration": 6160,
+    "offset": 3467520,
+    "lang": "es"
+  },
+  {
+    "text": "edad por los recuerdos realidad extras",
+    "duration": 5760,
+    "offset": 3470589,
+    "lang": "es"
+  },
+  {
+    "text": "huele que son cinco cursos es apolo en",
+    "duration": 6000,
+    "offset": 3473680,
+    "lang": "es"
+  },
+  {
+    "text": "realidad grass cuál es el protocolo y el",
+    "duration": 5730,
+    "offset": 3476349,
+    "lang": "es"
+  },
+  {
+    "text": "y el servidor se llama polo server y",
+    "duration": 6530,
+    "offset": 3479680,
+    "lang": "es"
+  },
+  {
+    "text": "áporo clay en ese caso maría eugenia",
+    "duration": 4131,
+    "offset": 3482079,
+    "lang": "es"
+  },
+  {
+    "text": "y acá está bueno mira para acá",
+    "duration": 8410,
+    "offset": 3488970,
+    "lang": "es"
+  },
+  {
+    "text": "te muestro a idol joggins a luis te",
+    "duration": 6460,
+    "offset": 3493300,
+    "lang": "es"
+  },
+  {
+    "text": "justo te desconectas te",
+    "duration": 4960,
+    "offset": 3497380,
+    "lang": "es"
+  },
+  {
+    "text": "sí pero apreté el el link que tenía",
+    "duration": 5610,
+    "offset": 3499760,
+    "lang": "es"
+  },
+  {
+    "text": "guardado de graciela y que iba a abrir",
+    "duration": 5729,
+    "offset": 3502340,
+    "lang": "es"
+  },
+  {
+    "text": "en otra ventana y no",
+    "duration": 5909,
+    "offset": 3505370,
+    "lang": "es"
+  },
+  {
+    "text": "ven como atrajo la bondiola y holstein",
+    "duration": 6841,
+    "offset": 3508069,
+    "lang": "es"
+  },
+  {
+    "text": "alguna vez probaron el honstein",
+    "duration": 7050,
+    "offset": 3511279,
+    "lang": "es"
+  },
+  {
+    "text": "no es eso el holstein es un fiambre",
+    "duration": 8540,
+    "offset": 3514910,
+    "lang": "es"
+  },
+  {
+    "text": "alemán que es ideal para el buen aliento",
+    "duration": 9801,
+    "offset": 3518329,
+    "lang": "es"
+  },
+  {
+    "text": "es muy rico pero se dieron las cosas",
+    "duration": 7010,
+    "offset": 3523450,
+    "lang": "es"
+  },
+  {
+    "text": "alemanas probaron alguna vez el chucrut",
+    "duration": 8670,
+    "offset": 3528130,
+    "lang": "es"
+  },
+  {
+    "text": "en alemán sauerkraut no llega",
+    "duration": 8670,
+    "offset": 3530460,
+    "lang": "es"
+  },
+  {
+    "text": "bueno libro significa",
+    "duration": 5180,
+    "offset": 3536800,
+    "lang": "es"
+  },
+  {
+    "text": "hígado de cerdo",
+    "duration": 5250,
+    "offset": 3539130,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 5380,
+    "offset": 3541980,
+    "lang": "es"
+  },
+  {
+    "text": "les recomiendo a ustedes mezclen chucrut",
+    "duration": 7780,
+    "offset": 3544380,
+    "lang": "es"
+  },
+  {
+    "text": "con holstein y sus amigos lo descargan",
+    "duration": 8070,
+    "offset": 3547360,
+    "lang": "es"
+  },
+  {
+    "text": "todo en toda la casa de sus amigos es es",
+    "duration": 5670,
+    "offset": 3552160,
+    "lang": "es"
+  },
+  {
+    "text": "un fiambre muy lindo pero hay que",
+    "duration": 4170,
+    "offset": 3555430,
+    "lang": "es"
+  },
+  {
+    "text": "dejarlo fermentar y tiene un olor a",
+    "duration": 5480,
+    "offset": 3557830,
+    "lang": "es"
+  },
+  {
+    "text": "patas podrida",
+    "duration": 3710,
+    "offset": 3559600,
+    "lang": "es"
+  },
+  {
+    "text": "bueno y justo",
+    "duration": 4940,
+    "offset": 3566040,
+    "lang": "es"
+  },
+  {
+    "text": "holstein",
+    "duration": 5610,
+    "offset": 3568430,
+    "lang": "es"
+  },
+  {
+    "text": "parece un salame leve pues antes de",
+    "duration": 5550,
+    "offset": 3570980,
+    "lang": "es"
+  },
+  {
+    "text": "comerlo e intentar no leerlo porque si",
+    "duration": 5270,
+    "offset": 3574040,
+    "lang": "es"
+  },
+  {
+    "text": "lo lees no lo comes",
+    "duration": 2780,
+    "offset": 3576530,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 6950,
+    "offset": 3580890,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ahora qué es lo que pasa ya el",
+    "duration": 6000,
+    "offset": 3583180,
+    "lang": "es"
+  },
+  {
+    "text": "15 de diciembre",
+    "duration": 3920,
+    "offset": 3587840,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver para saludarnos",
+    "duration": 4930,
+    "offset": 3589180,
+    "lang": "es"
+  },
+  {
+    "text": "y para ver no sé si es que pudieron",
+    "duration": 4210,
+    "offset": 3591760,
+    "lang": "es"
+  },
+  {
+    "text": "hacer algo pero ya digamos es como que",
+    "duration": 4200,
+    "offset": 3594110,
+    "lang": "es"
+  },
+  {
+    "text": "este año ya misión cumplida ahora hay",
+    "duration": 4050,
+    "offset": 3595970,
+    "lang": "es"
+  },
+  {
+    "text": "que empezar a prepararse para el año que",
+    "duration": 5910,
+    "offset": 3598310,
+    "lang": "es"
+  },
+  {
+    "text": "viene bien este draft que está bueno",
+    "duration": 6690,
+    "offset": 3600020,
+    "lang": "es"
+  },
+  {
+    "text": "pero no es algo sencillo asimilar lleva",
+    "duration": 4140,
+    "offset": 3604220,
+    "lang": "es"
+  },
+  {
+    "text": "su tiempo yo me hice los cursos me",
+    "duration": 3900,
+    "offset": 3606710,
+    "lang": "es"
+  },
+  {
+    "text": "certifique y después un tiempo que no se",
+    "duration": 5330,
+    "offset": 3608360,
+    "lang": "es"
+  },
+  {
+    "text": "me olvide todo como sea",
+    "duration": 3080,
+    "offset": 3610610,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3560,
+    "offset": 3614550,
+    "lang": "es"
+  },
+  {
+    "text": "pero es un pequeño es una pequeña",
+    "duration": 3750,
+    "offset": 3615740,
+    "lang": "es"
+  },
+  {
+    "text": "porción de código que va a optimizar",
+    "duration": 3810,
+    "offset": 3618110,
+    "lang": "es"
+  },
+  {
+    "text": "mucho el funcionamiento del chat y es",
+    "duration": 4020,
+    "offset": 3619490,
+    "lang": "es"
+  },
+  {
+    "text": "importante porque nosotros necesitamos",
+    "duration": 4490,
+    "offset": 3621920,
+    "lang": "es"
+  },
+  {
+    "text": "que funcione rápido porque si el",
+    "duration": 5700,
+    "offset": 3623510,
+    "lang": "es"
+  },
+  {
+    "text": "cliente tiene que esperar mucho se va a",
+    "duration": 6480,
+    "offset": 3626410,
+    "lang": "es"
+  },
+  {
+    "text": "tomar el palo bien o sea ahora",
+    "duration": 7210,
+    "offset": 3629210,
+    "lang": "es"
+  },
+  {
+    "text": "retrospectiva ya cerramos un",
+    "duration": 5399,
+    "offset": 3632890,
+    "lang": "es"
+  },
+  {
+    "text": "cerramos",
+    "duration": 4160,
+    "offset": 3636420,
+    "lang": "es"
+  },
+  {
+    "text": "un sprint",
+    "duration": 5771,
+    "offset": 3638289,
+    "lang": "es"
+  },
+  {
+    "text": "y abrimos otro que es el tema de draft",
+    "duration": 5640,
+    "offset": 3640580,
+    "lang": "es"
+  },
+  {
+    "text": "bien y después vamos a abrir otro que va",
+    "duration": 4770,
+    "offset": 3644060,
+    "lang": "es"
+  },
+  {
+    "text": "a ser el tema del login y estrategia de",
+    "duration": 4800,
+    "offset": 3646220,
+    "lang": "es"
+  },
+  {
+    "text": "autenticación igual no se preocupen",
+    "duration": 4080,
+    "offset": 3648830,
+    "lang": "es"
+  },
+  {
+    "text": "porque yo no voy a ir ya no tengo código",
+    "duration": 4590,
+    "offset": 3651020,
+    "lang": "es"
+  },
+  {
+    "text": "de todo pero como verán yo lo que",
+    "duration": 5310,
+    "offset": 3652910,
+    "lang": "es"
+  },
+  {
+    "text": "aprendiendo le transmito algo ustedes",
+    "duration": 5250,
+    "offset": 3655610,
+    "lang": "es"
+  },
+  {
+    "text": "pero tener le gusta donde encima por",
+    "duration": 5420,
+    "offset": 3658220,
+    "lang": "es"
+  },
+  {
+    "text": "criterio ésta sea no te sirve para",
+    "duration": 5790,
+    "offset": 3660860,
+    "lang": "es"
+  },
+  {
+    "text": "sacarlo andando te sirve para tener una",
+    "duration": 4810,
+    "offset": 3663640,
+    "lang": "es"
+  },
+  {
+    "text": "noción y acelerar un poco el proceso de",
+    "duration": 4130,
+    "offset": 3666650,
+    "lang": "es"
+  },
+  {
+    "text": "aprendizaje",
+    "duration": 2330,
+    "offset": 3668450,
+    "lang": "es"
+  },
+  {
+    "text": "bueno yo ahora escribo el sprint",
+    "duration": 6550,
+    "offset": 3672730,
+    "lang": "es"
+  },
+  {
+    "text": "y cierro el otro y después espero en que",
+    "duration": 5520,
+    "offset": 3676010,
+    "lang": "es"
+  },
+  {
+    "text": "ya dejó de grabar hay dos cosas que me",
+    "duration": 4569,
+    "offset": 3679280,
+    "lang": "es"
+  },
+  {
+    "text": "gustaría",
+    "duration": 5160,
+    "offset": 3681530,
+    "lang": "es"
+  },
+  {
+    "text": "vivieran",
+    "duration": 2841,
+    "offset": 3683849,
+    "lang": "es"
+  }
+]

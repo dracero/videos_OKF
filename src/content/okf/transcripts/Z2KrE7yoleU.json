@@ -1,0 +1,770 @@
+[
+  {
+    "text": "En esta segunda parte lo que vamos a ver",
+    "duration": 5320,
+    "offset": 680,
+    "lang": "es"
+  },
+  {
+    "text": "es el complemento de esto que hablábamos",
+    "duration": 5200,
+    "offset": 3600,
+    "lang": "es"
+  },
+  {
+    "text": "en el primer video, que es el sistema de",
+    "duration": 5440,
+    "offset": 6000,
+    "lang": "es"
+  },
+  {
+    "text": "telemetría y cómo a través de ese",
+    "duration": 6320,
+    "offset": 8800,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de telemetría podemos realizar",
+    "duration": 5880,
+    "offset": 11440,
+    "lang": "es"
+  },
+  {
+    "text": "el seguimiento de toda la interacción",
+    "duration": 5880,
+    "offset": 15120,
+    "lang": "es"
+  },
+  {
+    "text": "que hubo entre el alumno y el sistema. Y",
+    "duration": 5360,
+    "offset": 17320,
+    "lang": "es"
+  },
+  {
+    "text": "después, porque uno dice, bueno, pero",
+    "duration": 3680,
+    "offset": 21000,
+    "lang": "es"
+  },
+  {
+    "text": "yo, ¿qué hago con ver esto? ¿Qué puedo",
+    "duration": 5080,
+    "offset": 22680,
+    "lang": "es"
+  },
+  {
+    "text": "corregir si me doy cuenta que no está",
+    "duration": 5599,
+    "offset": 24680,
+    "lang": "es"
+  },
+  {
+    "text": "funcionando como yo quiero? Lo que vamos",
+    "duration": 5799,
+    "offset": 27760,
+    "lang": "es"
+  },
+  {
+    "text": "a ver después es que esas esa",
+    "duration": 7800,
+    "offset": 30279,
+    "lang": "es"
+  },
+  {
+    "text": "interacción yo puedo tomarla, corregirla",
+    "duration": 7320,
+    "offset": 33559,
+    "lang": "es"
+  },
+  {
+    "text": "en un archivo, escribirla corregida en",
+    "duration": 4761,
+    "offset": 38079,
+    "lang": "es"
+  },
+  {
+    "text": "un archivo de un formato especial que se",
+    "duration": 4241,
+    "offset": 40879,
+    "lang": "es"
+  },
+  {
+    "text": "llama Jason.",
+    "duration": 4600,
+    "offset": 42840,
+    "lang": "es"
+  },
+  {
+    "text": "ese archivo, ponerlo nuevamente dentro",
+    "duration": 5680,
+    "offset": 45120,
+    "lang": "es"
+  },
+  {
+    "text": "del sistema y generar una optimización",
+    "duration": 5880,
+    "offset": 47440,
+    "lang": "es"
+  },
+  {
+    "text": "del prompting de sistema para que",
+    "duration": 5840,
+    "offset": 50800,
+    "lang": "es"
+  },
+  {
+    "text": "empiece a responder como yo lo haría de",
+    "duration": 6239,
+    "offset": 53320,
+    "lang": "es"
+  },
+  {
+    "text": "haber explicado el tema en cuestión. O",
+    "duration": 5520,
+    "offset": 56640,
+    "lang": "es"
+  },
+  {
+    "text": "sea, lo que puedo hacer es empezar a que",
+    "duration": 5521,
+    "offset": 59559,
+    "lang": "es"
+  },
+  {
+    "text": "el sistema clone la manera en la que yo",
+    "duration": 5560,
+    "offset": 62160,
+    "lang": "es"
+  },
+  {
+    "text": "explico. Entonces,",
+    "duration": 8399,
+    "offset": 65080,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver el sistema de telemetría.",
+    "duration": 5759,
+    "offset": 67720,
+    "lang": "es"
+  },
+  {
+    "text": "Acá vemos a donde empieza a tomar la",
+    "duration": 9080,
+    "offset": 74200,
+    "lang": "es"
+  },
+  {
+    "text": "interacción. Primero el alumno le pone",
+    "duration": 6800,
+    "offset": 79720,
+    "lang": "es"
+  },
+  {
+    "text": "una pregunta de",
+    "duration": 5199,
+    "offset": 83280,
+    "lang": "es"
+  },
+  {
+    "text": "le pone una pregunta de física. Acá",
+    "duration": 5160,
+    "offset": 86520,
+    "lang": "es"
+  },
+  {
+    "text": "vemos la entrada. El alumno escribió una",
+    "duration": 5960,
+    "offset": 88479,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta de física.",
+    "duration": 5079,
+    "offset": 91680,
+    "lang": "es"
+  },
+  {
+    "text": "Esa pregunta de física, fíjense, gastó",
+    "duration": 8441,
+    "offset": 94439,
+    "lang": "es"
+  },
+  {
+    "text": "223 tokens. Y acá vemos como la procesa",
+    "duration": 10801,
+    "offset": 96759,
+    "lang": "es"
+  },
+  {
+    "text": "el eh este es el prom de sistema y esa",
+    "duration": 9599,
+    "offset": 102880,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta de física es procesada por el e",
+    "duration": 9479,
+    "offset": 107560,
+    "lang": "es"
+  },
+  {
+    "text": "por el LLM. Acá tiene que ver, analizar",
+    "duration": 6721,
+    "offset": 112479,
+    "lang": "es"
+  },
+  {
+    "text": "la imagen. Esta es la imagen en un",
+    "duration": 5961,
+    "offset": 117039,
+    "lang": "es"
+  },
+  {
+    "text": "formato especial que se llama base 64. Y",
+    "duration": 6320,
+    "offset": 119200,
+    "lang": "es"
+  },
+  {
+    "text": "acá es donde genera la primer pregunta.",
+    "duration": 5280,
+    "offset": 123000,
+    "lang": "es"
+  },
+  {
+    "text": "O sea, nosotros vemos qué es lo que",
+    "duration": 5920,
+    "offset": 125520,
+    "lang": "es"
+  },
+  {
+    "text": "preguntó el alumno y vemos",
+    "duration": 8239,
+    "offset": 128280,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que responde el sistema.",
+    "duration": 8000,
+    "offset": 131440,
+    "lang": "es"
+  },
+  {
+    "text": "Acá es donde podemos empezar a hacer el",
+    "duration": 6161,
+    "offset": 136519,
+    "lang": "es"
+  },
+  {
+    "text": "seguimiento. Tenemos",
+    "duration": 7040,
+    "offset": 139440,
+    "lang": "es"
+  },
+  {
+    "text": "todas las este",
+    "duration": 6320,
+    "offset": 142680,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos todas las preguntas. Acá está la",
+    "duration": 5880,
+    "offset": 146480,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta dos.",
+    "duration": 5160,
+    "offset": 149000,
+    "lang": "es"
+  },
+  {
+    "text": "Acá vemos",
+    "duration": 5640,
+    "offset": 152360,
+    "lang": "es"
+  },
+  {
+    "text": "la pregunta tres",
+    "duration": 3840,
+    "offset": 154160,
+    "lang": "es"
+  },
+  {
+    "text": "y acá vemos qué es lo que Le prego.",
+    "duration": 4920,
+    "offset": 158239,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos",
+    "duration": 3000,
+    "offset": 195400,
+    "lang": "es"
+  },
+  {
+    "text": "ver finalmente.",
+    "duration": 3360,
+    "offset": 199159,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, ahí estamos.",
+    "duration": 3840,
+    "offset": 206640,
+    "lang": "es"
+  },
+  {
+    "text": "Tarda [resoplido] un rato el sistema",
+    "duration": 3280,
+    "offset": 210720,
+    "lang": "es"
+  },
+  {
+    "text": "porque son demasiadas.",
+    "duration": 5120,
+    "offset": 212000,
+    "lang": "es"
+  },
+  {
+    "text": "Acá vemos la la",
+    "duration": 6400,
+    "offset": 214000,
+    "lang": "es"
+  },
+  {
+    "text": "acá vemos el alumno finalmente",
+    "duration": 6720,
+    "offset": 217120,
+    "lang": "es"
+  },
+  {
+    "text": "hace una la última pregunta y acá va",
+    "duration": 6960,
+    "offset": 220400,
+    "lang": "es"
+  },
+  {
+    "text": "clasificando, generando una consulta,",
+    "duration": 6560,
+    "offset": 223840,
+    "lang": "es"
+  },
+  {
+    "text": "una base de datos y a partir de esa",
+    "duration": 5879,
+    "offset": 227360,
+    "lang": "es"
+  },
+  {
+    "text": "consulta la base de datos genera la",
+    "duration": 4360,
+    "offset": 230400,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta.",
+    "duration": 5441,
+    "offset": 233239,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces acá vemos la última pregunta",
+    "duration": 7119,
+    "offset": 234760,
+    "lang": "es"
+  },
+  {
+    "text": "del alumno y vemos la respuesta final",
+    "duration": 6160,
+    "offset": 238680,
+    "lang": "es"
+  },
+  {
+    "text": "del sistema. Acá es donde el docente",
+    "duration": 6681,
+    "offset": 241879,
+    "lang": "es"
+  },
+  {
+    "text": "analiza cómo se comportó el sistema a",
+    "duration": 5440,
+    "offset": 244840,
+    "lang": "es"
+  },
+  {
+    "text": "partir de esos ejercicios, que en",
+    "duration": 3360,
+    "offset": 248560,
+    "lang": "es"
+  },
+  {
+    "text": "definitiva son ejercicios de una guía",
+    "duration": 4159,
+    "offset": 250280,
+    "lang": "es"
+  },
+  {
+    "text": "que hizo el mismo docente.",
+    "duration": 6120,
+    "offset": 251920,
+    "lang": "es"
+  },
+  {
+    "text": "Acá vemos que después hay una",
+    "duration": 6601,
+    "offset": 254439,
+    "lang": "es"
+  },
+  {
+    "text": "interacción",
+    "duration": 3000,
+    "offset": 258040,
+    "lang": "es"
+  },
+  {
+    "text": "de salida del chat",
+    "duration": 6161,
+    "offset": 261239,
+    "lang": "es"
+  },
+  {
+    "text": "e",
+    "duration": 3000,
+    "offset": 264400,
+    "lang": "es"
+  },
+  {
+    "text": "y el prom del sistema una vez que da la",
+    "duration": 5879,
+    "offset": 268040,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta final. Y acá vemos nuevamente",
+    "duration": 4600,
+    "offset": 270840,
+    "lang": "es"
+  },
+  {
+    "text": "que",
+    "duration": 5840,
+    "offset": 273919,
+    "lang": "es"
+  },
+  {
+    "text": "eh el alumno le dice que salga del modo",
+    "duration": 7360,
+    "offset": 275440,
+    "lang": "es"
+  },
+  {
+    "text": "socrático y que le explique el trabajo",
+    "duration": 4361,
+    "offset": 279759,
+    "lang": "es"
+  },
+  {
+    "text": "de, o sea, que le explique un tema en",
+    "duration": 4360,
+    "offset": 282800,
+    "lang": "es"
+  },
+  {
+    "text": "particular. Y acá vemos como el sistema,",
+    "duration": 4760,
+    "offset": 284120,
+    "lang": "es"
+  },
+  {
+    "text": "bueno, se pueden ver todos los tokens",
+    "duration": 3520,
+    "offset": 287160,
+    "lang": "es"
+  },
+  {
+    "text": "que va gastando, pero vemos como el",
+    "duration": 5039,
+    "offset": 288880,
+    "lang": "es"
+  },
+  {
+    "text": "sistema sale del modo socrático y",
+    "duration": 6160,
+    "offset": 290680,
+    "lang": "es"
+  },
+  {
+    "text": "explica el tema particular que pidió el",
+    "duration": 4241,
+    "offset": 293919,
+    "lang": "es"
+  },
+  {
+    "text": "alumno. Entonces, acá es donde el",
+    "duration": 4720,
+    "offset": 296840,
+    "lang": "es"
+  },
+  {
+    "text": "docente tiene un dominio total a través",
+    "duration": 6520,
+    "offset": 298160,
+    "lang": "es"
+  },
+  {
+    "text": "del sistema de telemetría de toda la",
+    "duration": 5079,
+    "offset": 301560,
+    "lang": "es"
+  },
+  {
+    "text": "interacción",
+    "duration": 4280,
+    "offset": 304680,
+    "lang": "es"
+  },
+  {
+    "text": "que e [carraspeo]",
+    "duration": 5721,
+    "offset": 306639,
+    "lang": "es"
+  },
+  {
+    "text": "que se realiza entre el alumno y el",
+    "duration": 6079,
+    "offset": 308960,
+    "lang": "es"
+  },
+  {
+    "text": "docente. Acá también puede ver, este es",
+    "duration": 5520,
+    "offset": 312360,
+    "lang": "es"
+  },
+  {
+    "text": "el vector store. El vector store es a",
+    "duration": 5201,
+    "offset": 315039,
+    "lang": "es"
+  },
+  {
+    "text": "donde la base de datos especial para",
+    "duration": 4800,
+    "offset": 317880,
+    "lang": "es"
+  },
+  {
+    "text": "inteligencia artificial, a donde va a ir",
+    "duration": 5440,
+    "offset": 320240,
+    "lang": "es"
+  },
+  {
+    "text": "a hacer la búsqueda y acá vemos los",
+    "duration": 6359,
+    "offset": 322680,
+    "lang": "es"
+  },
+  {
+    "text": "temas y este un índice, el mejor índice",
+    "duration": 5079,
+    "offset": 325680,
+    "lang": "es"
+  },
+  {
+    "text": "o la mayor similaridad semántica es",
+    "duration": 4641,
+    "offset": 329039,
+    "lang": "es"
+  },
+  {
+    "text": "cuando tenemos uno. Pero acá podemos ver",
+    "duration": 6601,
+    "offset": 330759,
+    "lang": "es"
+  },
+  {
+    "text": "los temas de los e los temas que",
+    "duration": 5840,
+    "offset": 333680,
+    "lang": "es"
+  },
+  {
+    "text": "responde la base de datos. También",
+    "duration": 4119,
+    "offset": 337360,
+    "lang": "es"
+  },
+  {
+    "text": "podemos ver si hay algo que no nos gusta",
+    "duration": 4920,
+    "offset": 339520,
+    "lang": "es"
+  },
+  {
+    "text": "en la explicación. si es necesario",
+    "duration": 6000,
+    "offset": 341479,
+    "lang": "es"
+  },
+  {
+    "text": "realizar algún tipo de curaduría de",
+    "duration": 7680,
+    "offset": 344440,
+    "lang": "es"
+  },
+  {
+    "text": "material, porque es e",
+    "duration": 8041,
+    "offset": 347479,
+    "lang": "es"
+  },
+  {
+    "text": "ese esa material o ese contexto que",
+    "duration": 5359,
+    "offset": 352120,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros le estamos dando para que",
+    "duration": 4880,
+    "offset": 355520,
+    "lang": "es"
+  },
+  {
+    "text": "responda no es el contexto adecuado. O",
+    "duration": 7121,
+    "offset": 357479,
+    "lang": "es"
+  },
+  {
+    "text": "sea, acá podremos podemos hacer todo.",
+    "duration": 6480,
+    "offset": 360400,
+    "lang": "es"
+  },
+  {
+    "text": "Una vez que analizamos esto y decimos,",
+    "duration": 5159,
+    "offset": 364600,
+    "lang": "es"
+  },
+  {
+    "text": "\"Bueno, pero yo quiero mejorar eso.\" Lo",
+    "duration": 5520,
+    "offset": 366880,
+    "lang": "es"
+  },
+  {
+    "text": "que podemos es en un formato especial",
+    "duration": 5361,
+    "offset": 369759,
+    "lang": "es"
+  },
+  {
+    "text": "escribir las preguntas y las respuestas",
+    "duration": 6239,
+    "offset": 372400,
+    "lang": "es"
+  },
+  {
+    "text": "en un formato especial que se llama Jon",
+    "duration": 8000,
+    "offset": 375120,
+    "lang": "es"
+  },
+  {
+    "text": "y utilizando este formato especial ir a",
+    "duration": 7601,
+    "offset": 378639,
+    "lang": "es"
+  },
+  {
+    "text": "estes sistemas de evaluación de agentes",
+    "duration": 6240,
+    "offset": 383120,
+    "lang": "es"
+  },
+  {
+    "text": "que utiliza Dispa y Shepa y con ese",
+    "duration": 6359,
+    "offset": 386240,
+    "lang": "es"
+  },
+  {
+    "text": "sistema correr ese sistema, todos esos",
+    "duration": 5279,
+    "offset": 389360,
+    "lang": "es"
+  },
+  {
+    "text": "prompts que nosotros vimos de sistema se",
+    "duration": 5241,
+    "offset": 392599,
+    "lang": "es"
+  },
+  {
+    "text": "van a mejorar o se van a reescribir",
+    "duration": 7601,
+    "offset": 394639,
+    "lang": "es"
+  },
+  {
+    "text": "para que la respuesta ahora se asemeje",
+    "duration": 6919,
+    "offset": 397840,
+    "lang": "es"
+  },
+  {
+    "text": "más a lo que realmente haría el docente",
+    "duration": 5040,
+    "offset": 402240,
+    "lang": "es"
+  },
+  {
+    "text": "de tener que explicarlo el mismo. O sea,",
+    "duration": 5641,
+    "offset": 404759,
+    "lang": "es"
+  },
+  {
+    "text": "la idea es que esto sirva en definitiva",
+    "duration": 4880,
+    "offset": 407280,
+    "lang": "es"
+  },
+  {
+    "text": "no solamente para ser un tutor que",
+    "duration": 4120,
+    "offset": 410400,
+    "lang": "es"
+  },
+  {
+    "text": "oriente al alumno, sino que lo oriente",
+    "duration": 4360,
+    "offset": 412160,
+    "lang": "es"
+  },
+  {
+    "text": "de la misma manera que lo haría el",
+    "duration": 3959,
+    "offset": 414520,
+    "lang": "es"
+  },
+  {
+    "text": "docente que ha escrito los apuntes y que",
+    "duration": 5480,
+    "offset": 416520,
+    "lang": "es"
+  },
+  {
+    "text": "está a cargo de la cátedra. Yeah.",
+    "duration": 3521,
+    "offset": 418479,
+    "lang": "es"
+  }
+]

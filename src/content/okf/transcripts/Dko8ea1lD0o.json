@@ -1,0 +1,926 @@
+[
+  {
+    "text": "[Música]",
+    "duration": 9250,
+    "offset": 980,
+    "lang": "es"
+  },
+  {
+    "text": "Bienvenidos en este vídeo veremos el",
+    "duration": 6220,
+    "offset": 10880,
+    "lang": "es"
+  },
+  {
+    "text": "paso a paso para configurar el diseño de",
+    "duration": 6780,
+    "offset": 13620,
+    "lang": "es"
+  },
+  {
+    "text": "una página de asignatura en pantalla",
+    "duration": 7019,
+    "offset": 17100,
+    "lang": "es"
+  },
+  {
+    "text": "Están viendo la versión antigua de la",
+    "duration": 7440,
+    "offset": 20400,
+    "lang": "es"
+  },
+  {
+    "text": "página de cátedra lo que veremos ahora",
+    "duration": 6240,
+    "offset": 24119,
+    "lang": "es"
+  },
+  {
+    "text": "es",
+    "duration": 4760,
+    "offset": 27840,
+    "lang": "es"
+  },
+  {
+    "text": "Cómo organizar y diseñar",
+    "duration": 6540,
+    "offset": 30359,
+    "lang": "es"
+  },
+  {
+    "text": "esta página en el nuevo diseño de",
+    "duration": 5190,
+    "offset": 32600,
+    "lang": "es"
+  },
+  {
+    "text": "mosaicos",
+    "duration": 5701,
+    "offset": 36899,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 6910,
+    "offset": 37790,
+    "lang": "es"
+  },
+  {
+    "text": "lo primero que tenemos que hacer es",
+    "duration": 6299,
+    "offset": 42600,
+    "lang": "es"
+  },
+  {
+    "text": "organizar el aula para ello deberá",
+    "duration": 6120,
+    "offset": 44700,
+    "lang": "es"
+  },
+  {
+    "text": "activar la edición en la esquina",
+    "duration": 4680,
+    "offset": 48899,
+    "lang": "es"
+  },
+  {
+    "text": "superior derecha",
+    "duration": 6840,
+    "offset": 50820,
+    "lang": "es"
+  },
+  {
+    "text": "y revisar cada uno de los recursos que",
+    "duration": 6721,
+    "offset": 53579,
+    "lang": "es"
+  },
+  {
+    "text": "tiene dentro de su página",
+    "duration": 5699,
+    "offset": 57660,
+    "lang": "es"
+  },
+  {
+    "text": "el nuevo formato está determinado por un",
+    "duration": 7260,
+    "offset": 60300,
+    "lang": "es"
+  },
+  {
+    "text": "grupo de mosaicos fijos y son los que se",
+    "duration": 5781,
+    "offset": 63359,
+    "lang": "es"
+  },
+  {
+    "text": "muestran a continuación",
+    "duration": 5040,
+    "offset": 67560,
+    "lang": "es"
+  },
+  {
+    "text": "si su página de asignatura no cuenta con",
+    "duration": 5380,
+    "offset": 69140,
+    "lang": "es"
+  },
+  {
+    "text": "alguno de los temas o categorías que",
+    "duration": 3600,
+    "offset": 72600,
+    "lang": "es"
+  },
+  {
+    "text": "está viendo en este momento en pantalla",
+    "duration": 4500,
+    "offset": 74520,
+    "lang": "es"
+  },
+  {
+    "text": "no se preocupe podrá modificarlos",
+    "duration": 5040,
+    "offset": 76200,
+    "lang": "es"
+  },
+  {
+    "text": "eliminarlos o reemplazarlos según",
+    "duration": 4940,
+    "offset": 79020,
+    "lang": "es"
+  },
+  {
+    "text": "necesite su asignatura",
+    "duration": 5519,
+    "offset": 81240,
+    "lang": "es"
+  },
+  {
+    "text": "todos los recursos dentro de su página",
+    "duration": 5500,
+    "offset": 83960,
+    "lang": "es"
+  },
+  {
+    "text": "de asignatura deberán estar clasificados",
+    "duration": 6180,
+    "offset": 86759,
+    "lang": "es"
+  },
+  {
+    "text": "dentro de estos grupos de",
+    "duration": 5460,
+    "offset": 89460,
+    "lang": "es"
+  },
+  {
+    "text": "mosaicos",
+    "duration": 4140,
+    "offset": 92939,
+    "lang": "es"
+  },
+  {
+    "text": "veamos a continuación Cómo se van a",
+    "duration": 4500,
+    "offset": 94920,
+    "lang": "es"
+  },
+  {
+    "text": "organizar esos recursos",
+    "duration": 5400,
+    "offset": 97079,
+    "lang": "es"
+  },
+  {
+    "text": "en este caso podemos ver que tenemos el",
+    "duration": 6720,
+    "offset": 99420,
+    "lang": "es"
+  },
+  {
+    "text": "tema 1 llamado novedades y el tema 2 que",
+    "duration": 7561,
+    "offset": 102479,
+    "lang": "es"
+  },
+  {
+    "text": "no ha sido nombrado si hago clic en el",
+    "duration": 6479,
+    "offset": 106140,
+    "lang": "es"
+  },
+  {
+    "text": "lápiz lo colocarle a este tema el nombre",
+    "duration": 5579,
+    "offset": 110040,
+    "lang": "es"
+  },
+  {
+    "text": "de planificación que corresponde con uno",
+    "duration": 5820,
+    "offset": 112619,
+    "lang": "es"
+  },
+  {
+    "text": "de los mosaicos que debo crear",
+    "duration": 6121,
+    "offset": 115619,
+    "lang": "es"
+  },
+  {
+    "text": "Si necesito agregar nuevos temas puedo",
+    "duration": 6061,
+    "offset": 118439,
+    "lang": "es"
+  },
+  {
+    "text": "hacerlo desde la esquina inferior",
+    "duration": 5879,
+    "offset": 121740,
+    "lang": "es"
+  },
+  {
+    "text": "derecha haciendo clic en Añadir",
+    "duration": 5660,
+    "offset": 124500,
+    "lang": "es"
+  },
+  {
+    "text": "secciones",
+    "duration": 2541,
+    "offset": 127619,
+    "lang": "es"
+  },
+  {
+    "text": "esta sección también la puedo renombrar",
+    "duration": 4860,
+    "offset": 130500,
+    "lang": "es"
+  },
+  {
+    "text": "con un nombre que corresponda a los",
+    "duration": 4560,
+    "offset": 132720,
+    "lang": "es"
+  },
+  {
+    "text": "mosaicos determinados por ejemplo",
+    "duration": 4519,
+    "offset": 135360,
+    "lang": "es"
+  },
+  {
+    "text": "calendario",
+    "duration": 2599,
+    "offset": 137280,
+    "lang": "es"
+  },
+  {
+    "text": "para organizar cada recurso simplemente",
+    "duration": 7180,
+    "offset": 140660,
+    "lang": "es"
+  },
+  {
+    "text": "debe hacer clic en él y arrastrarlo a la",
+    "duration": 6179,
+    "offset": 143640,
+    "lang": "es"
+  },
+  {
+    "text": "sección que le corresponde por ejemplo",
+    "duration": 7259,
+    "offset": 147840,
+    "lang": "es"
+  },
+  {
+    "text": "el cronograma de física 1 Lo llevaré al",
+    "duration": 7161,
+    "offset": 149819,
+    "lang": "es"
+  },
+  {
+    "text": "tema calendario",
+    "duration": 4561,
+    "offset": 155099,
+    "lang": "es"
+  },
+  {
+    "text": "de esta forma cuando convierta el",
+    "duration": 4720,
+    "offset": 156980,
+    "lang": "es"
+  },
+  {
+    "text": "formato a",
+    "duration": 4200,
+    "offset": 159660,
+    "lang": "es"
+  },
+  {
+    "text": "mosaicos tendrá todos sus recursos",
+    "duration": 5000,
+    "offset": 161700,
+    "lang": "es"
+  },
+  {
+    "text": "organizados",
+    "duration": 2840,
+    "offset": 163860,
+    "lang": "es"
+  },
+  {
+    "text": "organizados los recursos el siguiente",
+    "duration": 5980,
+    "offset": 169160,
+    "lang": "es"
+  },
+  {
+    "text": "paso es editar los ajustes para",
+    "duration": 6180,
+    "offset": 171540,
+    "lang": "es"
+  },
+  {
+    "text": "configurar el formato",
+    "duration": 5760,
+    "offset": 175140,
+    "lang": "es"
+  },
+  {
+    "text": "mosaico para hacerlo ingresaremos a la",
+    "duration": 6360,
+    "offset": 177720,
+    "lang": "es"
+  },
+  {
+    "text": "edición desde la rueda de ajustes en la",
+    "duration": 5600,
+    "offset": 180900,
+    "lang": "es"
+  },
+  {
+    "text": "esquina superior derecha",
+    "duration": 7040,
+    "offset": 184080,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo clic en editar ajustes",
+    "duration": 4620,
+    "offset": 186500,
+    "lang": "es"
+  },
+  {
+    "text": "deberá Buscar el desplegable formato de",
+    "duration": 8080,
+    "offset": 192680,
+    "lang": "es"
+  },
+  {
+    "text": "curso y en formato seleccionar la opción",
+    "duration": 7041,
+    "offset": 195959,
+    "lang": "es"
+  },
+  {
+    "text": "mosaicos",
+    "duration": 2240,
+    "offset": 200760,
+    "lang": "es"
+  },
+  {
+    "text": "aquí se desplegará una nueva lista de",
+    "duration": 6300,
+    "offset": 203640,
+    "lang": "es"
+  },
+  {
+    "text": "opciones en primer lugar debemos",
+    "duration": 5401,
+    "offset": 207659,
+    "lang": "es"
+  },
+  {
+    "text": "seleccionar el color para los mosaicos",
+    "duration": 6320,
+    "offset": 209940,
+    "lang": "es"
+  },
+  {
+    "text": "el cual está determinado con el naranja",
+    "duration": 7739,
+    "offset": 213060,
+    "lang": "es"
+  },
+  {
+    "text": "institucional las demás opciones deben",
+    "duration": 8020,
+    "offset": 216260,
+    "lang": "es"
+  },
+  {
+    "text": "quedar como se muestra en la imagen que",
+    "duration": 6421,
+    "offset": 220799,
+    "lang": "es"
+  },
+  {
+    "text": "estamos viendo en pantalla",
+    "duration": 6360,
+    "offset": 224280,
+    "lang": "es"
+  },
+  {
+    "text": "luego iremos hasta el final de la página",
+    "duration": 6900,
+    "offset": 227220,
+    "lang": "es"
+  },
+  {
+    "text": "y seleccionaremos la opción guardar",
+    "duration": 5819,
+    "offset": 230640,
+    "lang": "es"
+  },
+  {
+    "text": "cambios y Mostrar",
+    "duration": 4679,
+    "offset": 234120,
+    "lang": "es"
+  },
+  {
+    "text": "de vuelta en la página principal podemos",
+    "duration": 6661,
+    "offset": 236459,
+    "lang": "es"
+  },
+  {
+    "text": "ver que ahora tenemos abajo el formato",
+    "duration": 6720,
+    "offset": 238799,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 5060,
+    "offset": 243120,
+    "lang": "es"
+  },
+  {
+    "text": "mosaicos destacados en color amarillo",
+    "duration": 7080,
+    "offset": 245519,
+    "lang": "es"
+  },
+  {
+    "text": "de esta forma esto lo vemos así porque",
+    "duration": 6479,
+    "offset": 248180,
+    "lang": "es"
+  },
+  {
+    "text": "es la opción",
+    "duration": 6661,
+    "offset": 252599,
+    "lang": "es"
+  },
+  {
+    "text": "de edición que está activada si quieren",
+    "duration": 6941,
+    "offset": 254659,
+    "lang": "es"
+  },
+  {
+    "text": "ver cómo lo puede lo visualizan los",
+    "duration": 4020,
+    "offset": 259260,
+    "lang": "es"
+  },
+  {
+    "text": "estudiantes",
+    "duration": 5340,
+    "offset": 261600,
+    "lang": "es"
+  },
+  {
+    "text": "deben desactivar la edición Y tenemos",
+    "duration": 7580,
+    "offset": 263280,
+    "lang": "es"
+  },
+  {
+    "text": "los mosaicos de esta forma",
+    "duration": 3920,
+    "offset": 266940,
+    "lang": "es"
+  },
+  {
+    "text": "siguiente paso será editar los",
+    "duration": 5200,
+    "offset": 271460,
+    "lang": "es"
+  },
+  {
+    "text": "encabezados y el header de nuestra",
+    "duration": 5821,
+    "offset": 274259,
+    "lang": "es"
+  },
+  {
+    "text": "página de asignatura vamos a volver a",
+    "duration": 7280,
+    "offset": 276660,
+    "lang": "es"
+  },
+  {
+    "text": "activar la edición",
+    "duration": 3860,
+    "offset": 280080,
+    "lang": "es"
+  },
+  {
+    "text": "y haciendo clic en la esquina superior",
+    "duration": 6840,
+    "offset": 284639,
+    "lang": "es"
+  },
+  {
+    "text": "izquierda en la rueda de ajustes",
+    "duration": 7380,
+    "offset": 287720,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a llegar a esta página",
+    "duration": 3621,
+    "offset": 291479,
+    "lang": "es"
+  },
+  {
+    "text": "en primer lugar vamos a eliminar todo lo",
+    "duration": 5940,
+    "offset": 295259,
+    "lang": "es"
+  },
+  {
+    "text": "que correspondía a la página anterior",
+    "duration": 7700,
+    "offset": 298320,
+    "lang": "es"
+  },
+  {
+    "text": "que son todos estos recursos e iconos",
+    "duration": 8541,
+    "offset": 301199,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que tengo la página",
+    "duration": 8140,
+    "offset": 306020,
+    "lang": "es"
+  },
+  {
+    "text": "limpia lo que debo hacer es agregar la",
+    "duration": 7000,
+    "offset": 309740,
+    "lang": "es"
+  },
+  {
+    "text": "imagen que corresponde al género esta",
+    "duration": 5580,
+    "offset": 314160,
+    "lang": "es"
+  },
+  {
+    "text": "imagen la tienen que tener descargada en",
+    "duration": 6959,
+    "offset": 316740,
+    "lang": "es"
+  },
+  {
+    "text": "su PC en su computadora y para",
+    "duration": 6660,
+    "offset": 319740,
+    "lang": "es"
+  },
+  {
+    "text": "insertarla debemos hacer clic en el",
+    "duration": 5521,
+    "offset": 323699,
+    "lang": "es"
+  },
+  {
+    "text": "icono de imagen",
+    "duration": 5400,
+    "offset": 326400,
+    "lang": "es"
+  },
+  {
+    "text": "examinar repositorios",
+    "duration": 6180,
+    "offset": 329220,
+    "lang": "es"
+  },
+  {
+    "text": "seleccionar archivo y acá van a buscar",
+    "duration": 7140,
+    "offset": 331800,
+    "lang": "es"
+  },
+  {
+    "text": "la ubicación en su equipo donde la",
+    "duration": 6780,
+    "offset": 335400,
+    "lang": "es"
+  },
+  {
+    "text": "tengan guardada",
+    "duration": 3240,
+    "offset": 338940,
+    "lang": "es"
+  },
+  {
+    "text": "recuerde que debe ser clic en la opción",
+    "duration": 6839,
+    "offset": 345360,
+    "lang": "es"
+  },
+  {
+    "text": "la imagen es solo decorativa y guardar",
+    "duration": 7679,
+    "offset": 347520,
+    "lang": "es"
+  },
+  {
+    "text": "en segundo instancia puede modificar el",
+    "duration": 5280,
+    "offset": 352199,
+    "lang": "es"
+  },
+  {
+    "text": "nombre de la asignatura el nombre del",
+    "duration": 5041,
+    "offset": 355199,
+    "lang": "es"
+  },
+  {
+    "text": "profesor responsable y el correo",
+    "duration": 5401,
+    "offset": 357479,
+    "lang": "es"
+  },
+  {
+    "text": "electrónico con el que se van a",
+    "duration": 4140,
+    "offset": 360240,
+    "lang": "es"
+  },
+  {
+    "text": "comunicar",
+    "duration": 4140,
+    "offset": 362880,
+    "lang": "es"
+  },
+  {
+    "text": "selecciona el texto para determinar el",
+    "duration": 3980,
+    "offset": 364380,
+    "lang": "es"
+  },
+  {
+    "text": "tamaño",
+    "duration": 4080,
+    "offset": 367020,
+    "lang": "es"
+  },
+  {
+    "text": "colocaremos el tamaño denominado",
+    "duration": 4920,
+    "offset": 368360,
+    "lang": "es"
+  },
+  {
+    "text": "encabezado medio",
+    "duration": 5099,
+    "offset": 371100,
+    "lang": "es"
+  },
+  {
+    "text": "también deberá Resaltar en negrita el",
+    "duration": 5259,
+    "offset": 373280,
+    "lang": "es"
+  },
+  {
+    "text": "nombre de la asignatura",
+    "duration": 6541,
+    "offset": 376199,
+    "lang": "es"
+  },
+  {
+    "text": "cuando tenga lista esta sección debe",
+    "duration": 7341,
+    "offset": 378539,
+    "lang": "es"
+  },
+  {
+    "text": "hacer clic en guardar cambios",
+    "duration": 3140,
+    "offset": 382740,
+    "lang": "es"
+  },
+  {
+    "text": "y volvemos nuevamente a la página de",
+    "duration": 6720,
+    "offset": 386220,
+    "lang": "es"
+  },
+  {
+    "text": "inicio siempre puede desactivar la",
+    "duration": 6240,
+    "offset": 389880,
+    "lang": "es"
+  },
+  {
+    "text": "edición para ir validando cómo va",
+    "duration": 7940,
+    "offset": 392940,
+    "lang": "es"
+  },
+  {
+    "text": "quedando la página en el proceso",
+    "duration": 4760,
+    "offset": 396120,
+    "lang": "es"
+  },
+  {
+    "text": "por último debemos modificar los iconos",
+    "duration": 9260,
+    "offset": 402600,
+    "lang": "es"
+  },
+  {
+    "text": "en cada uno de los mosaicos",
+    "duration": 5420,
+    "offset": 406440,
+    "lang": "es"
+  },
+  {
+    "text": "con la edición activa lo que debemos",
+    "duration": 5580,
+    "offset": 413280,
+    "lang": "es"
+  },
+  {
+    "text": "hacer entonces es ingresar en cada uno",
+    "duration": 7081,
+    "offset": 415199,
+    "lang": "es"
+  },
+  {
+    "text": "de los mosaicos haciendo clic en el",
+    "duration": 5880,
+    "offset": 418860,
+    "lang": "es"
+  },
+  {
+    "text": "icono predeterminado que es un gráfico",
+    "duration": 3680,
+    "offset": 422280,
+    "lang": "es"
+  },
+  {
+    "text": "de torta",
+    "duration": 4920,
+    "offset": 424740,
+    "lang": "es"
+  },
+  {
+    "text": "y seleccionar el correspondiente de el",
+    "duration": 6940,
+    "offset": 425960,
+    "lang": "es"
+  },
+  {
+    "text": "listado que nos ofrece moodle en este",
+    "duration": 5879,
+    "offset": 429660,
+    "lang": "es"
+  },
+  {
+    "text": "caso al Mosaico de Novedades le",
+    "duration": 4519,
+    "offset": 432900,
+    "lang": "es"
+  },
+  {
+    "text": "corresponde el icono de la campana",
+    "duration": 5821,
+    "offset": 435539,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces lo seleccionaré",
+    "duration": 9641,
+    "offset": 437419,
+    "lang": "es"
+  },
+  {
+    "text": "y vemos como automáticamente cambia",
+    "duration": 8820,
+    "offset": 441360,
+    "lang": "es"
+  },
+  {
+    "text": "deberá hacer lo mismo con cada uno de",
+    "duration": 4680,
+    "offset": 447060,
+    "lang": "es"
+  },
+  {
+    "text": "los mosaicos que tenga dentro de su",
+    "duration": 3799,
+    "offset": 450180,
+    "lang": "es"
+  },
+  {
+    "text": "página",
+    "duration": 2239,
+    "offset": 451740,
+    "lang": "es"
+  },
+  {
+    "text": "ya tiene su página de asignatura lista y",
+    "duration": 5141,
+    "offset": 459199,
+    "lang": "es"
+  },
+  {
+    "text": "debería poder verla como está que",
+    "duration": 5759,
+    "offset": 462060,
+    "lang": "es"
+  },
+  {
+    "text": "estamos compartiendo en pantalla dentro",
+    "duration": 5220,
+    "offset": 464340,
+    "lang": "es"
+  },
+  {
+    "text": "de cada",
+    "duration": 5581,
+    "offset": 467819,
+    "lang": "es"
+  },
+  {
+    "text": "mosaico podrá encontrar las páginas con",
+    "duration": 6660,
+    "offset": 469560,
+    "lang": "es"
+  },
+  {
+    "text": "cada recurso",
+    "duration": 8000,
+    "offset": 473400,
+    "lang": "es"
+  },
+  {
+    "text": "podrá encontrar las actividades",
+    "duration": 5180,
+    "offset": 476220,
+    "lang": "es"
+  },
+  {
+    "text": "de una manera organizada",
+    "duration": 3740,
+    "offset": 481440,
+    "lang": "es"
+  },
+  {
+    "text": "lo invitamos a crear su página de",
+    "duration": 5041,
+    "offset": 486479,
+    "lang": "es"
+  },
+  {
+    "text": "asignatura y recuerde que cualquier duda",
+    "duration": 5541,
+    "offset": 488639,
+    "lang": "es"
+  },
+  {
+    "text": "o dificultad que tenga puede comunicarse",
+    "duration": 7700,
+    "offset": 491520,
+    "lang": "es"
+  },
+  {
+    "text": "con nosotros en el cetec",
+    "duration": 5040,
+    "offset": 494180,
+    "lang": "es"
+  }
+]

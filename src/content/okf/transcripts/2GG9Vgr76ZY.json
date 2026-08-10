@@ -1,0 +1,140 @@
+[
+  {
+    "text": "Tenemos nosotros el simulador que toma",
+    "duration": 6600,
+    "offset": 1680,
+    "lang": "es"
+  },
+  {
+    "text": "valores de presión de humedad y",
+    "duration": 6200,
+    "offset": 6040,
+    "lang": "es"
+  },
+  {
+    "text": "temperatura con un SP32 y se conecta un",
+    "duration": 8600,
+    "offset": 8280,
+    "lang": "es"
+  },
+  {
+    "text": "broker público Hind usando MQTT.",
+    "duration": 7280,
+    "offset": 12240,
+    "lang": "es"
+  },
+  {
+    "text": "Lo que vamos a desarrollar ahora es",
+    "duration": 5080,
+    "offset": 16880,
+    "lang": "es"
+  },
+  {
+    "text": "tomamos este código,",
+    "duration": 5440,
+    "offset": 19520,
+    "lang": "es"
+  },
+  {
+    "text": "se lo pegamos a Antigravity y le decimos",
+    "duration": 5440,
+    "offset": 21960,
+    "lang": "es"
+  },
+  {
+    "text": "que queremos que nos desarrolle una app",
+    "duration": 6880,
+    "offset": 24960,
+    "lang": "es"
+  },
+  {
+    "text": "en Astro JS para que muestre la serie",
+    "duration": 7040,
+    "offset": 27400,
+    "lang": "es"
+  },
+  {
+    "text": "temporal de la lectura de los datos y",
+    "duration": 4360,
+    "offset": 31840,
+    "lang": "es"
+  },
+  {
+    "text": "también en una tarjeta cuáles son los",
+    "duration": 4520,
+    "offset": 34440,
+    "lang": "es"
+  },
+  {
+    "text": "datos de humedad y temperatura que está",
+    "duration": 6160,
+    "offset": 36200,
+    "lang": "es"
+  },
+  {
+    "text": "leyendo. Y ahí está creando todo",
+    "duration": 6079,
+    "offset": 38960,
+    "lang": "es"
+  },
+  {
+    "text": "para poder",
+    "duration": 5160,
+    "offset": 42360,
+    "lang": "es"
+  },
+  {
+    "text": "realizar la conexión. Primero va a crear",
+    "duration": 5680,
+    "offset": 45039,
+    "lang": "es"
+  },
+  {
+    "text": "el cliente de MQTT, se va a suscribir al",
+    "duration": 6480,
+    "offset": 47520,
+    "lang": "es"
+  },
+  {
+    "text": "mismo tópico que está el emitiendo el",
+    "duration": 6121,
+    "offset": 50719,
+    "lang": "es"
+  },
+  {
+    "text": "sensor y después va a armar todo con",
+    "duration": 5480,
+    "offset": 54000,
+    "lang": "es"
+  },
+  {
+    "text": "Tailwind para que se vea en una serie",
+    "duration": 7760,
+    "offset": 56840,
+    "lang": "es"
+  },
+  {
+    "text": "serie en una serie temporal y en la",
+    "duration": 7360,
+    "offset": 59480,
+    "lang": "es"
+  },
+  {
+    "text": "tarjeta con los valores. Una vez que",
+    "duration": 4120,
+    "offset": 64600,
+    "lang": "es"
+  },
+  {
+    "text": "esté terminado, lo voy a subir para que",
+    "duration": 4560,
+    "offset": 66840,
+    "lang": "es"
+  },
+  {
+    "text": "lo vean. M.",
+    "duration": 2680,
+    "offset": 68720,
+    "lang": "es"
+  }
+]

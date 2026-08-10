@@ -1,0 +1,146 @@
+[
+  {
+    "text": "Utilizando el feature de Builin MCP host",
+    "duration": 8321,
+    "offset": 1719,
+    "lang": "es"
+  },
+  {
+    "text": "client que tienen los clientes ADK, los",
+    "duration": 6920,
+    "offset": 6560,
+    "lang": "es"
+  },
+  {
+    "text": "agentes ADK, perdón, lo que hicimos fue",
+    "duration": 5080,
+    "offset": 10040,
+    "lang": "es"
+  },
+  {
+    "text": "construir",
+    "duration": 5719,
+    "offset": 13480,
+    "lang": "es"
+  },
+  {
+    "text": "un agente que tiene la posibilidad de",
+    "duration": 6120,
+    "offset": 15120,
+    "lang": "es"
+  },
+  {
+    "text": "conectarse por un lado a nuestro file",
+    "duration": 5761,
+    "offset": 19199,
+    "lang": "es"
+  },
+  {
+    "text": "system y por otro lado le conectamos el",
+    "duration": 8439,
+    "offset": 21240,
+    "lang": "es"
+  },
+  {
+    "text": "e mp server de Playright para que pueda",
+    "duration": 6760,
+    "offset": 24960,
+    "lang": "es"
+  },
+  {
+    "text": "da conectarse a la web. ¿Para qué vamos",
+    "duration": 4921,
+    "offset": 29679,
+    "lang": "es"
+  },
+  {
+    "text": "a usar esto? Por ejemplo, le vamos a",
+    "duration": 5760,
+    "offset": 31720,
+    "lang": "es"
+  },
+  {
+    "text": "pedir que lea archivos de nuestro file",
+    "duration": 6000,
+    "offset": 34600,
+    "lang": "es"
+  },
+  {
+    "text": "system y le vamos a pedir que busque en",
+    "duration": 5680,
+    "offset": 37480,
+    "lang": "es"
+  },
+  {
+    "text": "la webción para decirnos qué es lo que",
+    "duration": 4639,
+    "offset": 40600,
+    "lang": "es"
+  },
+  {
+    "text": "hacen esos archivos de nuestro File",
+    "duration": 6640,
+    "offset": 43160,
+    "lang": "es"
+  },
+  {
+    "text": "System. Vamos a iniciarlo.",
+    "duration": 4561,
+    "offset": 45239,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí estamos iniciando la interfaz web",
+    "duration": 5240,
+    "offset": 52600,
+    "lang": "es"
+  },
+  {
+    "text": "del ADK. Acá inició. Vamos a ir a la",
+    "duration": 5320,
+    "offset": 54640,
+    "lang": "es"
+  },
+  {
+    "text": "interfaz web.",
+    "duration": 4239,
+    "offset": 57840,
+    "lang": "es"
+  },
+  {
+    "text": "Acá estamos, ya levantó la sesión.",
+    "duration": 5800,
+    "offset": 59960,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces le vamos a pedir que",
+    "duration": 8881,
+    "offset": 62079,
+    "lang": "es"
+  },
+  {
+    "text": "podés leer el contenido del directorio",
+    "duration": 7600,
+    "offset": 65760,
+    "lang": "es"
+  },
+  {
+    "text": "ADK",
+    "duration": 4760,
+    "offset": 70960,
+    "lang": "es"
+  },
+  {
+    "text": "MCP",
+    "duration": 5759,
+    "offset": 73360,
+    "lang": "es"
+  },
+  {
+    "text": "Samples. Yes.",
+    "duration": 3399,
+    "offset": 75720,
+    "lang": "es"
+  }
+]

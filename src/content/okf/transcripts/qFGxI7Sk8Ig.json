@@ -1,0 +1,740 @@
+[
+  {
+    "text": "vamos a ver un ejemplo de uso de",
+    "duration": 6599,
+    "offset": 840,
+    "lang": "es"
+  },
+  {
+    "text": "aprendizaje por refuerzo para jugar un",
+    "duration": 4920,
+    "offset": 4480,
+    "lang": "es"
+  },
+  {
+    "text": "juego de Space",
+    "duration": 5801,
+    "offset": 7439,
+    "lang": "es"
+  },
+  {
+    "text": "invaders el space invaders es un juego",
+    "duration": 6639,
+    "offset": 9400,
+    "lang": "es"
+  },
+  {
+    "text": "que se caracteriza por tener movimientos",
+    "duration": 5280,
+    "offset": 13240,
+    "lang": "es"
+  },
+  {
+    "text": "abruptos del jugador de izquierda a",
+    "duration": 6080,
+    "offset": 16039,
+    "lang": "es"
+  },
+  {
+    "text": "derecha y como sabemos para ese caso de",
+    "duration": 5999,
+    "offset": 18520,
+    "lang": "es"
+  },
+  {
+    "text": "juegos con movimientos",
+    "duration": 7041,
+    "offset": 22119,
+    "lang": "es"
+  },
+  {
+    "text": "abruptos algoritmos que utilizan como",
+    "duration": 7121,
+    "offset": 24519,
+    "lang": "es"
+  },
+  {
+    "text": "método",
+    "duration": 6239,
+    "offset": 29160,
+    "lang": "es"
+  },
+  {
+    "text": "de de exploración la entropía de su",
+    "duration": 6400,
+    "offset": 31640,
+    "lang": "es"
+  },
+  {
+    "text": "función de pérdida como los actor critic",
+    "duration": 5961,
+    "offset": 35399,
+    "lang": "es"
+  },
+  {
+    "text": "o los advantage actor critic o proxima",
+    "duration": 4400,
+    "offset": 38040,
+    "lang": "es"
+  },
+  {
+    "text": "policy",
+    "duration": 3359,
+    "offset": 41360,
+    "lang": "es"
+  },
+  {
+    "text": "optimization no son los mejores y los",
+    "duration": 4320,
+    "offset": 42440,
+    "lang": "es"
+  },
+  {
+    "text": "más indicados son los mejores y los más",
+    "duration": 4680,
+    "offset": 44719,
+    "lang": "es"
+  },
+  {
+    "text": "indicados estos algoritmos que nombré",
+    "duration": 5439,
+    "offset": 46760,
+    "lang": "es"
+  },
+  {
+    "text": "antes cuando en realidad hay que",
+    "duration": 5401,
+    "offset": 49399,
+    "lang": "es"
+  },
+  {
+    "text": "recorrer trayectos que implican",
+    "duration": 5761,
+    "offset": 52199,
+    "lang": "es"
+  },
+  {
+    "text": "movimientos cortos ahí sí pueden",
+    "duration": 5559,
+    "offset": 54800,
+    "lang": "es"
+  },
+  {
+    "text": "realizar una buena convergencia Por",
+    "duration": 5120,
+    "offset": 57960,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo si yo tengo que",
+    "duration": 6361,
+    "offset": 60359,
+    "lang": "es"
+  },
+  {
+    "text": "moverme por un laberinto donde aparecen",
+    "duration": 6320,
+    "offset": 63080,
+    "lang": "es"
+  },
+  {
+    "text": "o por un camino poco sinuoso donde",
+    "duration": 5240,
+    "offset": 66720,
+    "lang": "es"
+  },
+  {
+    "text": "aparecen en forma aleatoria distintos",
+    "duration": 4880,
+    "offset": 69400,
+    "lang": "es"
+  },
+  {
+    "text": "obstáculos Y tengo que evitar hacer",
+    "duration": 4120,
+    "offset": 71960,
+    "lang": "es"
+  },
+  {
+    "text": "movimientos abruptos porque si me voy",
+    "duration": 3680,
+    "offset": 74280,
+    "lang": "es"
+  },
+  {
+    "text": "del camino me caigo un precipicio Para",
+    "duration": 4800,
+    "offset": 76080,
+    "lang": "es"
+  },
+  {
+    "text": "eso sí sirven los actor críticos los",
+    "duration": 5960,
+    "offset": 77960,
+    "lang": "es"
+  },
+  {
+    "text": "proximal policy optimization y los",
+    "duration": 6559,
+    "offset": 80880,
+    "lang": "es"
+  },
+  {
+    "text": "mejores y los que consumen menos",
+    "duration": 5960,
+    "offset": 83920,
+    "lang": "es"
+  },
+  {
+    "text": "procesamiento para un juego como este",
+    "duration": 4801,
+    "offset": 87439,
+    "lang": "es"
+  },
+  {
+    "text": "que es un juego de movimientos abruptos",
+    "duration": 4680,
+    "offset": 89880,
+    "lang": "es"
+  },
+  {
+    "text": "de izquierda a derecha es el algoritmo",
+    "duration": 6040,
+    "offset": 92240,
+    "lang": "es"
+  },
+  {
+    "text": "de Deep q Network el",
+    "duration": 5960,
+    "offset": 94560,
+    "lang": "es"
+  },
+  {
+    "text": "dqn porque",
+    "duration": 5640,
+    "offset": 98280,
+    "lang": "es"
+  },
+  {
+    "text": "utiliza no su propia entropía de función",
+    "duration": 6520,
+    "offset": 100520,
+    "lang": "es"
+  },
+  {
+    "text": "de pérdida sino que utiliza la función",
+    "duration": 7879,
+    "offset": 103920,
+    "lang": "es"
+  },
+  {
+    "text": "epsilon gridy o sea es una utiliza otra",
+    "duration": 7480,
+    "offset": 107040,
+    "lang": "es"
+  },
+  {
+    "text": "función Además del algoritmo para hacer",
+    "duration": 5481,
+    "offset": 111799,
+    "lang": "es"
+  },
+  {
+    "text": "la explotación utiliza otra función para",
+    "duration": 5760,
+    "offset": 114520,
+    "lang": "es"
+  },
+  {
+    "text": "hacer la exploración Y entonces ser más",
+    "duration": 4839,
+    "offset": 117280,
+    "lang": "es"
+  },
+  {
+    "text": "óptimo Pero bueno vamos a verlo tenemos",
+    "duration": 8280,
+    "offset": 120280,
+    "lang": "es"
+  },
+  {
+    "text": "acá eh proximal policy optimization Y",
+    "duration": 9641,
+    "offset": 122119,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver cómo funciona con proximal",
+    "duration": 5520,
+    "offset": 128560,
+    "lang": "es"
+  },
+  {
+    "text": "policy",
+    "duration": 2320,
+    "offset": 131760,
+    "lang": "es"
+  },
+  {
+    "text": "optimization",
+    "duration": 5560,
+    "offset": 138720,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense lo que está tardando en dibujar",
+    "duration": 6321,
+    "offset": 140879,
+    "lang": "es"
+  },
+  {
+    "text": "Y ahí",
+    "duration": 2920,
+    "offset": 144280,
+    "lang": "es"
+  },
+  {
+    "text": "empieza el juego no lo pudimos",
+    "duration": 6959,
+    "offset": 147560,
+    "lang": "es"
+  },
+  {
+    "text": "ver tiene un procesamiento tan grande",
+    "duration": 6640,
+    "offset": 151280,
+    "lang": "es"
+  },
+  {
+    "text": "que como el procesamiento se lleva a",
+    "duration": 6681,
+    "offset": 154519,
+    "lang": "es"
+  },
+  {
+    "text": "cabo en la misma placa envidia",
+    "duration": 7920,
+    "offset": 157920,
+    "lang": "es"
+  },
+  {
+    "text": "eh tarda muchísimo en dibujar",
+    "duration": 10440,
+    "offset": 161200,
+    "lang": "es"
+  },
+  {
+    "text": "el a Los invasores y al este a la nave",
+    "duration": 9679,
+    "offset": 165840,
+    "lang": "es"
+  },
+  {
+    "text": "pero fíjense también que los movimientos",
+    "duration": 6160,
+    "offset": 171640,
+    "lang": "es"
+  },
+  {
+    "text": "de la nave Son movimientos que tienen",
+    "duration": 4601,
+    "offset": 175519,
+    "lang": "es"
+  },
+  {
+    "text": "poca amplitud y están siempre orientado",
+    "duration": 5799,
+    "offset": 177800,
+    "lang": "es"
+  },
+  {
+    "text": "sobre un lado no es el mejor",
+    "duration": 6199,
+    "offset": 180120,
+    "lang": "es"
+  },
+  {
+    "text": "eh No es el mejor algoritmo para este",
+    "duration": 6041,
+    "offset": 183599,
+    "lang": "es"
+  },
+  {
+    "text": "tipo de problemas vamos a probar con",
+    "duration": 6840,
+    "offset": 186319,
+    "lang": "es"
+  },
+  {
+    "text": "advantage actor",
+    "duration": 3519,
+    "offset": 189640,
+    "lang": "es"
+  },
+  {
+    "text": "critic vamos a poner acá advantage actor",
+    "duration": 6241,
+    "offset": 197959,
+    "lang": "es"
+  },
+  {
+    "text": "critic",
+    "duration": 2800,
+    "offset": 201400,
+    "lang": "es"
+  },
+  {
+    "text": "grabamos a ver cómo funciona con este",
+    "duration": 5721,
+    "offset": 205959,
+    "lang": "es"
+  },
+  {
+    "text": "otro",
+    "duration": 2760,
+    "offset": 208920,
+    "lang": "es"
+  },
+  {
+    "text": "es un poco más rápido que dqn que el",
+    "duration": 6760,
+    "offset": 212280,
+    "lang": "es"
+  },
+  {
+    "text": "proximal policy optimization Pero",
+    "duration": 4641,
+    "offset": 216439,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense cuál es el problema tiene una",
+    "duration": 4600,
+    "offset": 219040,
+    "lang": "es"
+  },
+  {
+    "text": "convergencia local muy marcada ahí se ve",
+    "duration": 7439,
+    "offset": 221080,
+    "lang": "es"
+  },
+  {
+    "text": "claramente que se quedó a un costado y",
+    "duration": 7200,
+    "offset": 223640,
+    "lang": "es"
+  },
+  {
+    "text": "no se mueve de ese costado empezó el",
+    "duration": 4800,
+    "offset": 228519,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmo",
+    "duration": 5959,
+    "offset": 230840,
+    "lang": "es"
+  },
+  {
+    "text": "e a moverse a tener ciertos movimientos",
+    "duration": 7321,
+    "offset": 233319,
+    "lang": "es"
+  },
+  {
+    "text": "de poca amplitud y finalmente",
+    "duration": 7761,
+    "offset": 236799,
+    "lang": "es"
+  },
+  {
+    "text": "converge a un máximo local y se queda en",
+    "duration": 7720,
+    "offset": 240640,
+    "lang": "es"
+  },
+  {
+    "text": "ese máximo local en el cual converge y",
+    "duration": 6000,
+    "offset": 244560,
+    "lang": "es"
+  },
+  {
+    "text": "de ahí no se",
+    "duration": 4719,
+    "offset": 248360,
+    "lang": "es"
+  },
+  {
+    "text": "mueve estamos teniendo suerte que Los",
+    "duration": 5080,
+    "offset": 250560,
+    "lang": "es"
+  },
+  {
+    "text": "Invasores no bajaron pero al quedarse",
+    "duration": 4680,
+    "offset": 253079,
+    "lang": "es"
+  },
+  {
+    "text": "ahí quieto probablemente se lo coman",
+    "duration": 4760,
+    "offset": 255640,
+    "lang": "es"
+  },
+  {
+    "text": "rápidamente Los invasores y ahora vamos",
+    "duration": 5880,
+    "offset": 257759,
+    "lang": "es"
+  },
+  {
+    "text": "a ver qué pasa con el más recomendado",
+    "duration": 6880,
+    "offset": 260400,
+    "lang": "es"
+  },
+  {
+    "text": "para estos casos que es",
+    "duration": 3641,
+    "offset": 263639,
+    "lang": "es"
+  },
+  {
+    "text": "docn Recuerden que la diferencia con",
+    "duration": 6039,
+    "offset": 268600,
+    "lang": "es"
+  },
+  {
+    "text": "este es que la exploración se realiza",
+    "duration": 5800,
+    "offset": 272000,
+    "lang": "es"
+  },
+  {
+    "text": "con un algoritmo de epsilon gridy no con",
+    "duration": 5241,
+    "offset": 274639,
+    "lang": "es"
+  },
+  {
+    "text": "la entropía propia de la pérdida de la",
+    "duration": 4119,
+    "offset": 277800,
+    "lang": "es"
+  },
+  {
+    "text": "función Entonces los movimientos van a",
+    "duration": 4319,
+    "offset": 279880,
+    "lang": "es"
+  },
+  {
+    "text": "ser más abruptos pero hay menos",
+    "duration": 5041,
+    "offset": 281919,
+    "lang": "es"
+  },
+  {
+    "text": "probabilidad de que converja un máximo",
+    "duration": 8121,
+    "offset": 284199,
+    "lang": "es"
+  },
+  {
+    "text": "local y la otra cosa importante que",
+    "duration": 8239,
+    "offset": 286960,
+    "lang": "es"
+  },
+  {
+    "text": "tiene mucho menos fíjense cuánto",
+    "duration": 4840,
+    "offset": 292320,
+    "lang": "es"
+  },
+  {
+    "text": "consumía de procesamiento que casi no",
+    "duration": 5440,
+    "offset": 295199,
+    "lang": "es"
+  },
+  {
+    "text": "dibujaba el proximal policy optimiz",
+    "duration": 6960,
+    "offset": 297160,
+    "lang": "es"
+  },
+  {
+    "text": "cuá mejor fue pero congi un máximo local",
+    "duration": 8441,
+    "offset": 300639,
+    "lang": "es"
+  },
+  {
+    "text": "el advantage actor critic y ahora miren",
+    "duration": 4960,
+    "offset": 304120,
+    "lang": "es"
+  },
+  {
+    "text": "doen",
+    "duration": 3000,
+    "offset": 312880,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense fíjense ahí aparte ven se van",
+    "duration": 7919,
+    "offset": 319840,
+    "lang": "es"
+  },
+  {
+    "text": "reseteando los episodios pero fíjense",
+    "duration": 7840,
+    "offset": 323720,
+    "lang": "es"
+  },
+  {
+    "text": "comoen se mueve por todo el tablero y",
+    "duration": 7041,
+    "offset": 327759,
+    "lang": "es"
+  },
+  {
+    "text": "miren el poco procesamiento que consume",
+    "duration": 4400,
+    "offset": 331560,
+    "lang": "es"
+  },
+  {
+    "text": "miren",
+    "duration": 6640,
+    "offset": 334800,
+    "lang": "es"
+  },
+  {
+    "text": "eh Como realmente fíjense realmente",
+    "duration": 9359,
+    "offset": 335960,
+    "lang": "es"
+  },
+  {
+    "text": "eh como este lo rápido que se está",
+    "duration": 5599,
+    "offset": 341440,
+    "lang": "es"
+  },
+  {
+    "text": "moviendo casi como si fuese un jugador",
+    "duration": 5320,
+    "offset": 345319,
+    "lang": "es"
+  },
+  {
+    "text": "local y miren la cantidad de puntos que",
+    "duration": 7401,
+    "offset": 347039,
+    "lang": "es"
+  },
+  {
+    "text": "hizo bien entonces para este tipo de",
+    "duration": 6840,
+    "offset": 350639,
+    "lang": "es"
+  },
+  {
+    "text": "problemas Nada mejor que un algoritmo",
+    "duration": 5840,
+    "offset": 354440,
+    "lang": "es"
+  },
+  {
+    "text": "como dqn a donde tiene separado",
+    "duration": 6241,
+    "offset": 357479,
+    "lang": "es"
+  },
+  {
+    "text": "exploración y explotación y es mucho más",
+    "duration": 5199,
+    "offset": 360280,
+    "lang": "es"
+  },
+  {
+    "text": "conveniente fíjense que no converge a",
+    "duration": 4680,
+    "offset": 363720,
+    "lang": "es"
+  },
+  {
+    "text": "máximos locales fíjense como en algún",
+    "duration": 4481,
+    "offset": 365479,
+    "lang": "es"
+  },
+  {
+    "text": "determinado momento la función de",
+    "duration": 4040,
+    "offset": 368400,
+    "lang": "es"
+  },
+  {
+    "text": "exploración lo hace salir y lo empieza a",
+    "duration": 4679,
+    "offset": 369960,
+    "lang": "es"
+  },
+  {
+    "text": "hacer correrse de ese lugar que podría",
+    "duration": 4599,
+    "offset": 372440,
+    "lang": "es"
+  },
+  {
+    "text": "llegar a ser un máximo local igual",
+    "duration": 4361,
+    "offset": 374639,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense en un tiempo mucho menor la",
+    "duration": 4880,
+    "offset": 377039,
+    "lang": "es"
+  },
+  {
+    "text": "cantidad de puntos que hizo ven como ahí",
+    "duration": 4720,
+    "offset": 379000,
+    "lang": "es"
+  },
+  {
+    "text": "no se queda en el máximo local la fun de",
+    "duration": 5481,
+    "offset": 381919,
+    "lang": "es"
+  },
+  {
+    "text": "exploración lo sigue haciendo salir bien",
+    "duration": 8840,
+    "offset": 383720,
+    "lang": "es"
+  },
+  {
+    "text": "Mucho mucho mejor eh este tipo de",
+    "duration": 5160,
+    "offset": 387400,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmo",
+    "duration": 3000,
+    "offset": 400400,
+    "lang": "es"
+  }
+]

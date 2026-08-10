@@ -1,0 +1,422 @@
+[
+  {
+    "text": "tenemos un juego de tatetí que el juego",
+    "duration": 6600,
+    "offset": 840,
+    "lang": "es"
+  },
+  {
+    "text": "de tatetí en lugar",
+    "duration": 5720,
+    "offset": 4080,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 5319,
+    "offset": 7440,
+    "lang": "es"
+  },
+  {
+    "text": "hacerlo manejándolo nosotros o que",
+    "duration": 5719,
+    "offset": 9800,
+    "lang": "es"
+  },
+  {
+    "text": "jueguen distintos jugadores lo que",
+    "duration": 7081,
+    "offset": 12759,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos Es crear Llamar",
+    "duration": 8161,
+    "offset": 15519,
+    "lang": "es"
+  },
+  {
+    "text": "a la biblioteca de gymnasium",
+    "duration": 6880,
+    "offset": 19840,
+    "lang": "es"
+  },
+  {
+    "text": "y en la biblioteca de",
+    "duration": 8280,
+    "offset": 23680,
+    "lang": "es"
+  },
+  {
+    "text": "gymnasium vamos a utilizar las",
+    "duration": 5240,
+    "offset": 26720,
+    "lang": "es"
+  },
+  {
+    "text": "clases que nos da la misma biblioteca el",
+    "duration": 5799,
+    "offset": 32600,
+    "lang": "es"
+  },
+  {
+    "text": "init el self render muy importante para",
+    "duration": 4840,
+    "offset": 35559,
+    "lang": "es"
+  },
+  {
+    "text": "que dibuje después el",
+    "duration": 6881,
+    "offset": 38399,
+    "lang": "es"
+  },
+  {
+    "text": "tablero después tenemos Step reset y",
+    "duration": 8401,
+    "offset": 40399,
+    "lang": "es"
+  },
+  {
+    "text": "render y lo que vamos a hacer después",
+    "duration": 7840,
+    "offset": 45280,
+    "lang": "es"
+  },
+  {
+    "text": "es utilizar stable p 3 y vamos a probar",
+    "duration": 7200,
+    "offset": 48800,
+    "lang": "es"
+  },
+  {
+    "text": "los distintos algoritmos de refor",
+    "duration": 5000,
+    "offset": 53120,
+    "lang": "es"
+  },
+  {
+    "text": "learning para ver cuál funciona mejor a",
+    "duration": 4239,
+    "offset": 56000,
+    "lang": "es"
+  },
+  {
+    "text": "la hora de ganarle el tatti a a un",
+    "duration": 3239,
+    "offset": 58120,
+    "lang": "es"
+  },
+  {
+    "text": "jugador",
+    "duration": 3521,
+    "offset": 60239,
+    "lang": "es"
+  },
+  {
+    "text": "aleatorio vamos a empezar entonces con",
+    "duration": 5880,
+    "offset": 61359,
+    "lang": "es"
+  },
+  {
+    "text": "Deep cer",
+    "duration": 3479,
+    "offset": 63760,
+    "lang": "es"
+  },
+  {
+    "text": "Network vamos a ver cómo funciona",
+    "duration": 6760,
+    "offset": 68080,
+    "lang": "es"
+  },
+  {
+    "text": "limpiamos lo que teníamos de",
+    "duration": 3600,
+    "offset": 71240,
+    "lang": "es"
+  },
+  {
+    "text": "antes Ahí ejecutamos vamos a",
+    "duration": 6440,
+    "offset": 78280,
+    "lang": "es"
+  },
+  {
+    "text": "ver que este Deep Network es",
+    "duration": 5640,
+    "offset": 81880,
+    "lang": "es"
+  },
+  {
+    "text": "relativamente",
+    "duration": 2800,
+    "offset": 84720,
+    "lang": "es"
+  },
+  {
+    "text": "rápido",
+    "duration": 3000,
+    "offset": 88840,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí bueno logró",
+    "duration": 7119,
+    "offset": 96040,
+    "lang": "es"
+  },
+  {
+    "text": "eh logró ganar la",
+    "duration": 4000,
+    "offset": 99159,
+    "lang": "es"
+  },
+  {
+    "text": "partida vamos a ver si podemos",
+    "duration": 4359,
+    "offset": 113360,
+    "lang": "es"
+  },
+  {
+    "text": "repetir",
+    "duration": 3000,
+    "offset": 118840,
+    "lang": "es"
+  },
+  {
+    "text": "ahí",
+    "duration": 2840,
+    "offset": 123840,
+    "lang": "es"
+  },
+  {
+    "text": "perdió ahí volví a perder a ver ahora si",
+    "duration": 10081,
+    "offset": 128319,
+    "lang": "es"
+  },
+  {
+    "text": "usamos actor",
+    "duration": 3600,
+    "offset": 134800,
+    "lang": "es"
+  },
+  {
+    "text": "critic",
+    "duration": 4800,
+    "offset": 148760,
+    "lang": "es"
+  },
+  {
+    "text": "critic si bien puede llegar a tener",
+    "duration": 4759,
+    "offset": 150480,
+    "lang": "es"
+  },
+  {
+    "text": "mayor",
+    "duration": 5039,
+    "offset": 153560,
+    "lang": "es"
+  },
+  {
+    "text": "precisión también es posible que pierda",
+    "duration": 7041,
+    "offset": 155239,
+    "lang": "es"
+  },
+  {
+    "text": "porque toma cambios que son muy bruscos",
+    "duration": 8280,
+    "offset": 158599,
+    "lang": "es"
+  },
+  {
+    "text": "acá ganó vamos a ver nuevamente Qué",
+    "duration": 4599,
+    "offset": 162280,
+    "lang": "es"
+  },
+  {
+    "text": "sucede",
+    "duration": 3000,
+    "offset": 178760,
+    "lang": "es"
+  },
+  {
+    "text": "acá no logró ganar casi como que tuvo un",
+    "duration": 10000,
+    "offset": 182480,
+    "lang": "es"
+  },
+  {
+    "text": "empate no no logró hacer",
+    "duration": 4720,
+    "offset": 187760,
+    "lang": "es"
+  },
+  {
+    "text": "tatetí bien ahí logro ganar pero no gana",
+    "duration": 7761,
+    "offset": 207959,
+    "lang": "es"
+  },
+  {
+    "text": "Siempre vamos a ver una cuarta",
+    "duration": 3561,
+    "offset": 212159,
+    "lang": "es"
+  },
+  {
+    "text": "vez bien y ahí logro ganar y ahora vamos",
+    "duration": 7319,
+    "offset": 227840,
+    "lang": "es"
+  },
+  {
+    "text": "a ver con proximal policy",
+    "duration": 4280,
+    "offset": 230879,
+    "lang": "es"
+  },
+  {
+    "text": "optimization que es el actor critic pero",
+    "duration": 7241,
+    "offset": 235239,
+    "lang": "es"
+  },
+  {
+    "text": "mejorado y to coma bifurcaciones que no",
+    "duration": 7040,
+    "offset": 238360,
+    "lang": "es"
+  },
+  {
+    "text": "son tan bruscas y siempre",
+    "duration": 6360,
+    "offset": 242480,
+    "lang": "es"
+  },
+  {
+    "text": "converge utilizando la mejor política",
+    "duration": 7640,
+    "offset": 245400,
+    "lang": "es"
+  },
+  {
+    "text": "siempre logra la convergencia y logra",
+    "duration": 5880,
+    "offset": 248840,
+    "lang": "es"
+  },
+  {
+    "text": "siempre",
+    "duration": 4400,
+    "offset": 253040,
+    "lang": "es"
+  },
+  {
+    "text": "maximizar la ganancia O sea que es muy",
+    "duration": 4079,
+    "offset": 254720,
+    "lang": "es"
+  },
+  {
+    "text": "difícil verlo",
+    "duration": 5240,
+    "offset": 257440,
+    "lang": "es"
+  },
+  {
+    "text": "perder vamos a ver nuevamente ahora",
+    "duration": 7441,
+    "offset": 258799,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando próxima policy",
+    "duration": 3560,
+    "offset": 262680,
+    "lang": "es"
+  },
+  {
+    "text": "optimization",
+    "duration": 3000,
+    "offset": 268600,
+    "lang": "es"
+  },
+  {
+    "text": "ahí vemos que",
+    "duration": 7239,
+    "offset": 278960,
+    "lang": "es"
+  },
+  {
+    "text": "ganó vamos a hacerlo cinco",
+    "duration": 4280,
+    "offset": 281919,
+    "lang": "es"
+  },
+  {
+    "text": "veces ahí vol voy a",
+    "duration": 3560,
+    "offset": 298560,
+    "lang": "es"
+  },
+  {
+    "text": "ganar ahí empató por eso tiene",
+    "duration": 5641,
+    "offset": 319199,
+    "lang": "es"
+  },
+  {
+    "text": "05",
+    "duration": 3000,
+    "offset": 328479,
+    "lang": "es"
+  },
+  {
+    "text": "ahí volví a ganar una vez",
+    "duration": 4040,
+    "offset": 343840,
+    "lang": "es"
+  },
+  {
+    "text": "más",
+    "duration": 3000,
+    "offset": 358479,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí volvi a empatar bien en este caso",
+    "duration": 4440,
+    "offset": 364400,
+    "lang": "es"
+  },
+  {
+    "text": "por los resultados obtenidos y por el",
+    "duration": 4840,
+    "offset": 366680,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo la mejor opción para este tipo de",
+    "duration": 6919,
+    "offset": 368840,
+    "lang": "es"
+  },
+  {
+    "text": "problema es actor",
+    "duration": 4239,
+    "offset": 371520,
+    "lang": "es"
+  },
+  {
+    "text": "critic",
+    "duration": 3000,
+    "offset": 376919,
+    "lang": "es"
+  }
+]

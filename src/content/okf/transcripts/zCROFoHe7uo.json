@@ -1,0 +1,374 @@
+[
+  {
+    "text": "Bueno, vamos a mostrar un ejemplo de by",
+    "duration": 5161,
+    "offset": 359,
+    "lang": "es"
+  },
+  {
+    "text": "coding utilizando la página de Bolt New",
+    "duration": 5400,
+    "offset": 2560,
+    "lang": "es"
+  },
+  {
+    "text": "que utiliza, bueno, como todos saben,",
+    "duration": 5079,
+    "offset": 5520,
+    "lang": "es"
+  },
+  {
+    "text": "chip de Grock.",
+    "duration": 4240,
+    "offset": 7960,
+    "lang": "es"
+  },
+  {
+    "text": "Lo primero que vamos a hacer, ¿qué es?",
+    "duration": 4920,
+    "offset": 10599,
+    "lang": "es"
+  },
+  {
+    "text": "Primero teníamos un",
+    "duration": 7360,
+    "offset": 12200,
+    "lang": "es"
+  },
+  {
+    "text": "protocolo A2A, un orquestador de A2A que",
+    "duration": 6000,
+    "offset": 15519,
+    "lang": "es"
+  },
+  {
+    "text": "funcionaba con @ click con línea de",
+    "duration": 5479,
+    "offset": 19560,
+    "lang": "es"
+  },
+  {
+    "text": "comandos. Lo que hicimos utilizando",
+    "duration": 9361,
+    "offset": 21519,
+    "lang": "es"
+  },
+  {
+    "text": "eh Cloud fue convertir ese A2A de línea",
+    "duration": 8520,
+    "offset": 25039,
+    "lang": "es"
+  },
+  {
+    "text": "de comandos a una API de Ben. Acá lo que",
+    "duration": 4760,
+    "offset": 30880,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos es la API de Ben. Entonces,",
+    "duration": 4441,
+    "offset": 33559,
+    "lang": "es"
+  },
+  {
+    "text": "copiamos el código de este orquestador",
+    "duration": 4520,
+    "offset": 35640,
+    "lang": "es"
+  },
+  {
+    "text": "de API de Baken.",
+    "duration": 3840,
+    "offset": 38000,
+    "lang": "es"
+  },
+  {
+    "text": "¿Por qué el código del orquestador de",
+    "duration": 3800,
+    "offset": 40160,
+    "lang": "es"
+  },
+  {
+    "text": "API de Baken? Porque este código tiene",
+    "duration": 5640,
+    "offset": 41840,
+    "lang": "es"
+  },
+  {
+    "text": "todos los endints de API necesarios para",
+    "duration": 5960,
+    "offset": 43960,
+    "lang": "es"
+  },
+  {
+    "text": "poder interactuar con el front.",
+    "duration": 3960,
+    "offset": 47480,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, ¿qué hacemos? Vamos a la",
+    "duration": 4240,
+    "offset": 49920,
+    "lang": "es"
+  },
+  {
+    "text": "página de Bol New, a donde nos tenemos",
+    "duration": 4520,
+    "offset": 51440,
+    "lang": "es"
+  },
+  {
+    "text": "que dar de alta. Acá nos dimos de alta",
+    "duration": 6320,
+    "offset": 54160,
+    "lang": "es"
+  },
+  {
+    "text": "con GitHub, acuérdense, 100% by coding y",
+    "duration": 9320,
+    "offset": 55960,
+    "lang": "es"
+  },
+  {
+    "text": "le decimos si me podés",
+    "duration": 4800,
+    "offset": 60480,
+    "lang": "es"
+  },
+  {
+    "text": "hacer un",
+    "duration": 3840,
+    "offset": 65720,
+    "lang": "es"
+  },
+  {
+    "text": "frontend",
+    "duration": 4280,
+    "offset": 70240,
+    "lang": "es"
+  },
+  {
+    "text": "en Astro",
+    "duration": 6920,
+    "offset": 72000,
+    "lang": "es"
+  },
+  {
+    "text": "para este backend.",
+    "duration": 4400,
+    "offset": 74520,
+    "lang": "es"
+  },
+  {
+    "text": "Y aquí laamos tiene que ser una interfaz",
+    "duration": 9321,
+    "offset": 81079,
+    "lang": "es"
+  },
+  {
+    "text": "de chatbot",
+    "duration": 9320,
+    "offset": 87240,
+    "lang": "es"
+  },
+  {
+    "text": "con los botones para crear",
+    "duration": 10560,
+    "offset": 90400,
+    "lang": "es"
+  },
+  {
+    "text": "sesión, ver",
+    "duration": 4400,
+    "offset": 96560,
+    "lang": "es"
+  },
+  {
+    "text": "historia",
+    "duration": 4040,
+    "offset": 101200,
+    "lang": "es"
+  },
+  {
+    "text": "y un infterf de chat con los botones",
+    "duration": 5600,
+    "offset": 102960,
+    "lang": "es"
+  },
+  {
+    "text": "para crear sesión.",
+    "duration": 5120,
+    "offset": 105240,
+    "lang": "es"
+  },
+  {
+    "text": "Eh,",
+    "duration": 5720,
+    "offset": 108560,
+    "lang": "es"
+  },
+  {
+    "text": "ver historia",
+    "duration": 3920,
+    "offset": 110360,
+    "lang": "es"
+  },
+  {
+    "text": "y nada más para crear sesión y",
+    "duration": 8881,
+    "offset": 115399,
+    "lang": "es"
+  },
+  {
+    "text": "ver historia con el",
+    "duration": 8840,
+    "offset": 119399,
+    "lang": "es"
+  },
+  {
+    "text": "número de sesión",
+    "duration": 6000,
+    "offset": 124280,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 5281,
+    "offset": 128239,
+    "lang": "es"
+  },
+  {
+    "text": "ahí le damos para que empiece a crearlo.",
+    "duration": 6599,
+    "offset": 130280,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que esto es 100% by coding. Acá",
+    "duration": 5200,
+    "offset": 133520,
+    "lang": "es"
+  },
+  {
+    "text": "lo único que hicimos fue pasarle un",
+    "duration": 3841,
+    "offset": 136879,
+    "lang": "es"
+  },
+  {
+    "text": "backend y le decimos que con este",
+    "duration": 4239,
+    "offset": 138720,
+    "lang": "es"
+  },
+  {
+    "text": "backend queremos que nos arme un",
+    "duration": 7480,
+    "offset": 140720,
+    "lang": "es"
+  },
+  {
+    "text": "frontend utilizando el lenguaje astro",
+    "duration": 7000,
+    "offset": 142959,
+    "lang": "es"
+  },
+  {
+    "text": "con una interfaz de chatbot y los",
+    "duration": 3800,
+    "offset": 148200,
+    "lang": "es"
+  },
+  {
+    "text": "botones para crear sesión. Bien, ahí",
+    "duration": 4360,
+    "offset": 149959,
+    "lang": "es"
+  },
+  {
+    "text": "está viendo todos los todos los app end",
+    "duration": 5640,
+    "offset": 152000,
+    "lang": "es"
+  },
+  {
+    "text": "points que tiene eso y está empezando",
+    "duration": 8081,
+    "offset": 154319,
+    "lang": "es"
+  },
+  {
+    "text": "con la creación de el script en",
+    "duration": 8120,
+    "offset": 157640,
+    "lang": "es"
+  },
+  {
+    "text": "astro. Esto, bueno, va a tardar unos",
+    "duration": 4720,
+    "offset": 162400,
+    "lang": "es"
+  },
+  {
+    "text": "minutos.",
+    "duration": 4800,
+    "offset": 165760,
+    "lang": "es"
+  },
+  {
+    "text": "Pero cuando termine vamos a tener ya el",
+    "duration": 7440,
+    "offset": 167120,
+    "lang": "es"
+  },
+  {
+    "text": "script en astro totalmente creado.",
+    "duration": 5880,
+    "offset": 170560,
+    "lang": "es"
+  },
+  {
+    "text": "¿Y qué vamos a poder hacer con eso? Con",
+    "duration": 4399,
+    "offset": 174560,
+    "lang": "es"
+  },
+  {
+    "text": "eso vamos a poder hacer un download y lo",
+    "duration": 5519,
+    "offset": 176440,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a poder utilizar en nuestra",
+    "duration": 6041,
+    "offset": 178959,
+    "lang": "es"
+  },
+  {
+    "text": "máquina local. Vamos a poder utilizar en",
+    "duration": 7961,
+    "offset": 181959,
+    "lang": "es"
+  },
+  {
+    "text": "nuestra máquina local el e",
+    "duration": 4920,
+    "offset": 185000,
+    "lang": "es"
+  },
+  {
+    "text": "la interfaz de frontend que termina de",
+    "duration": 10321,
+    "offset": 190319,
+    "lang": "es"
+  },
+  {
+    "text": "que termina de crear el eh bold new.",
+    "duration": 7080,
+    "offset": 193560,
+    "lang": "es"
+  }
+]

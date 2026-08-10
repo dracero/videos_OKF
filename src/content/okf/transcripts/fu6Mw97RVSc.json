@@ -1,0 +1,1292 @@
+[
+  {
+    "text": "Bueno, lo que voy a mostrar ahora es",
+    "duration": 9039,
+    "offset": 3480,
+    "lang": "es"
+  },
+  {
+    "text": "cómo hacer para conectarme al e Home",
+    "duration": 5680,
+    "offset": 8480,
+    "lang": "es"
+  },
+  {
+    "text": "Assistant",
+    "duration": 6721,
+    "offset": 12519,
+    "lang": "es"
+  },
+  {
+    "text": "desde e otra computadora que está en la",
+    "duration": 11320,
+    "offset": 14160,
+    "lang": "es"
+  },
+  {
+    "text": "misma red. Vamos a poner la IP.",
+    "duration": 8959,
+    "offset": 19240,
+    "lang": "es"
+  },
+  {
+    "text": "Aguárdenme.",
+    "duration": 5719,
+    "offset": 25480,
+    "lang": "es"
+  },
+  {
+    "text": "E",
+    "duration": 3000,
+    "offset": 28199,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a poner acá la IP.",
+    "duration": 4160,
+    "offset": 47719,
+    "lang": "es"
+  },
+  {
+    "text": "[resoplido]",
+    "duration": 5080,
+    "offset": 52400,
+    "lang": "es"
+  },
+  {
+    "text": "http 2/j",
+    "duration": 6361,
+    "offset": 54399,
+    "lang": "es"
+  },
+  {
+    "text": "assistant local 8123.",
+    "duration": 5719,
+    "offset": 57480,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, ¿qué es lo que sucede? Ahora yo",
+    "duration": 6399,
+    "offset": 60760,
+    "lang": "es"
+  },
+  {
+    "text": "les voy a mostrar en el e lado servidor,",
+    "duration": 5600,
+    "offset": 63199,
+    "lang": "es"
+  },
+  {
+    "text": "cuando me conecto en la misma que tiene",
+    "duration": 3721,
+    "offset": 67159,
+    "lang": "es"
+  },
+  {
+    "text": "el servidor, tengo que crear un usuario",
+    "duration": 4481,
+    "offset": 68799,
+    "lang": "es"
+  },
+  {
+    "text": "para que al conectarme de otra máquina",
+    "duration": 4879,
+    "offset": 70880,
+    "lang": "es"
+  },
+  {
+    "text": "que no sea la que tiene el servidor, me",
+    "duration": 4839,
+    "offset": 73280,
+    "lang": "es"
+  },
+  {
+    "text": "pueda conectar sin problema. El usuario",
+    "duration": 7601,
+    "offset": 75759,
+    "lang": "es"
+  },
+  {
+    "text": "es derraso y le voy a poner la password.",
+    "duration": 7640,
+    "offset": 78119,
+    "lang": "es"
+  },
+  {
+    "text": "Le pongo que me mantenga conectado, ¿no?",
+    "duration": 3960,
+    "offset": 83360,
+    "lang": "es"
+  },
+  {
+    "text": "Si no lo va a usar otro, le pongo que",
+    "duration": 4680,
+    "offset": 85759,
+    "lang": "es"
+  },
+  {
+    "text": "no. Y acá le doy iniciar sesión.",
+    "duration": 5960,
+    "offset": 87320,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí inicio sesión y veo exactamente lo",
+    "duration": 5241,
+    "offset": 90439,
+    "lang": "es"
+  },
+  {
+    "text": "mismo que se puede ver del celular o de",
+    "duration": 6640,
+    "offset": 93280,
+    "lang": "es"
+  },
+  {
+    "text": "cualquier e otra cámara.",
+    "duration": 6880,
+    "offset": 95680,
+    "lang": "es"
+  },
+  {
+    "text": "¿Dónde agrego eso? En el en la máquina",
+    "duration": 4280,
+    "offset": 99920,
+    "lang": "es"
+  },
+  {
+    "text": "servidor",
+    "duration": 3640,
+    "offset": 102560,
+    "lang": "es"
+  },
+  {
+    "text": "que me conecté y tiene la misma IP",
+    "duration": 3840,
+    "offset": 104200,
+    "lang": "es"
+  },
+  {
+    "text": "cliente que el servidor. No me va a",
+    "duration": 4239,
+    "offset": 106200,
+    "lang": "es"
+  },
+  {
+    "text": "pedir usuari password. Entonces, acá a",
+    "duration": 5800,
+    "offset": 108040,
+    "lang": "es"
+  },
+  {
+    "text": "home assistant pongo añadir persona",
+    "duration": 7121,
+    "offset": 110439,
+    "lang": "es"
+  },
+  {
+    "text": "y [resoplido] acá en añadir persona e le",
+    "duration": 7080,
+    "offset": 113840,
+    "lang": "es"
+  },
+  {
+    "text": "pongo un nombre, le pongo que permito el",
+    "duration": 6599,
+    "offset": 117560,
+    "lang": "es"
+  },
+  {
+    "text": "inicio de sesión, le puedo poner con qué",
+    "duration": 8679,
+    "offset": 120920,
+    "lang": "es"
+  },
+  {
+    "text": "dispositivo e se va a conectar.",
+    "duration": 9121,
+    "offset": 124159,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá agrego el usuario. Bien. y yo le",
+    "duration": 6360,
+    "offset": 129599,
+    "lang": "es"
+  },
+  {
+    "text": "pongo la contraseña,",
+    "duration": 5239,
+    "offset": 133280,
+    "lang": "es"
+  },
+  {
+    "text": "solo acceso local, administrador o le",
+    "duration": 5560,
+    "offset": 135959,
+    "lang": "es"
+  },
+  {
+    "text": "puedo dar acceso remoto. Bien, desde",
+    "duration": 5720,
+    "offset": 138519,
+    "lang": "es"
+  },
+  {
+    "text": "esta parte es donde se agrega el",
+    "duration": 5401,
+    "offset": 141519,
+    "lang": "es"
+  },
+  {
+    "text": "usuario. Desde esta parte también es",
+    "duration": 4841,
+    "offset": 144239,
+    "lang": "es"
+  },
+  {
+    "text": "donde yo puedo agregar dispositivos.",
+    "duration": 4760,
+    "offset": 146920,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que acá como en el otro lugar me",
+    "duration": 4600,
+    "offset": 149080,
+    "lang": "es"
+  },
+  {
+    "text": "da los dos dispositivos descubiertos que",
+    "duration": 6120,
+    "offset": 151680,
+    "lang": "es"
+  },
+  {
+    "text": "yo si quiero podría llegar a e agregar.",
+    "duration": 6639,
+    "offset": 153680,
+    "lang": "es"
+  },
+  {
+    "text": "¿Hay más dispositivos? Si por ejemplo,",
+    "duration": 5240,
+    "offset": 157800,
+    "lang": "es"
+  },
+  {
+    "text": "eh descubrió",
+    "duration": 5721,
+    "offset": 160319,
+    "lang": "es"
+  },
+  {
+    "text": "el router, este es el router de mi casa",
+    "duration": 5440,
+    "offset": 163040,
+    "lang": "es"
+  },
+  {
+    "text": "y [resoplido] me está mostrando el",
+    "duration": 4199,
+    "offset": 166040,
+    "lang": "es"
+  },
+  {
+    "text": "tráfico que tuvo ese router. Este",
+    "duration": 3960,
+    "offset": 168480,
+    "lang": "es"
+  },
+  {
+    "text": "también lo descubrió en en forma",
+    "duration": 3961,
+    "offset": 170239,
+    "lang": "es"
+  },
+  {
+    "text": "automática. Bien, acá me da el",
+    "duration": 4480,
+    "offset": 172440,
+    "lang": "es"
+  },
+  {
+    "text": "pronóstico porque yo la casa tiene la",
+    "duration": 4399,
+    "offset": 174200,
+    "lang": "es"
+  },
+  {
+    "text": "posibilidad de ponerle location, o sea,",
+    "duration": 3160,
+    "offset": 176920,
+    "lang": "es"
+  },
+  {
+    "text": "ubicación geográfica, con lo cual",
+    "duration": 4601,
+    "offset": 178599,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes podrían tener muchísimas casas y",
+    "duration": 5200,
+    "offset": 180080,
+    "lang": "es"
+  },
+  {
+    "text": "manejarlas desde acá o muchísimas",
+    "duration": 4480,
+    "offset": 183200,
+    "lang": "es"
+  },
+  {
+    "text": "locaciones.",
+    "duration": 3760,
+    "offset": 185280,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 4800,
+    "offset": 187680,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense qué fácil toma esto las cosas.",
+    "duration": 6119,
+    "offset": 189040,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos nuevamente a vista general. Acá yo",
+    "duration": 6039,
+    "offset": 192480,
+    "lang": "es"
+  },
+  {
+    "text": "creé living, pero si quiero puedo crear",
+    "duration": 7281,
+    "offset": 195159,
+    "lang": "es"
+  },
+  {
+    "text": "área y puedo crear otra área como esta.",
+    "duration": 7000,
+    "offset": 198519,
+    "lang": "es"
+  },
+  {
+    "text": "¿Para qué? Bien, por ejemplo, en este en",
+    "duration": 9079,
+    "offset": 202440,
+    "lang": "es"
+  },
+  {
+    "text": "la sala yo tomé una cámara acá. Acá",
+    "duration": 8321,
+    "offset": 205519,
+    "lang": "es"
+  },
+  {
+    "text": "ahí le bajé el sonido porque si no el",
+    "duration": 5681,
+    "offset": 211519,
+    "lang": "es"
+  },
+  {
+    "text": "sonido. Fíjense acá puse algo colgado",
+    "duration": 6280,
+    "offset": 213840,
+    "lang": "es"
+  },
+  {
+    "text": "para que se vea el movimiento, pero esta",
+    "duration": 4720,
+    "offset": 217200,
+    "lang": "es"
+  },
+  {
+    "text": "es la cámara y yo si quiero puedo",
+    "duration": 3880,
+    "offset": 220120,
+    "lang": "es"
+  },
+  {
+    "text": "acceder al micrófono de la cámara, verla",
+    "duration": 4599,
+    "offset": 221920,
+    "lang": "es"
+  },
+  {
+    "text": "en pantalla gigante. Esta es una de las",
+    "duration": 6920,
+    "offset": 224000,
+    "lang": "es"
+  },
+  {
+    "text": "cámaras que eh yo tengo en mi casa. ¿Qué",
+    "duration": 7481,
+    "offset": 226519,
+    "lang": "es"
+  },
+  {
+    "text": "puedo hacer eh ahora? Fíjense, bueno, la",
+    "duration": 6519,
+    "offset": 230920,
+    "lang": "es"
+  },
+  {
+    "text": "detección, la lámpara infrarroja,",
+    "duration": 5640,
+    "offset": 234000,
+    "lang": "es"
+  },
+  {
+    "text": "eh se puede manejar todo lo de la",
+    "duration": 4401,
+    "offset": 237439,
+    "lang": "es"
+  },
+  {
+    "text": "cámara. Ahora, yo lo que quiero hacer es",
+    "duration": 4879,
+    "offset": 239640,
+    "lang": "es"
+  },
+  {
+    "text": "que se pueda ver la cámara que está en",
+    "duration": 5560,
+    "offset": 241840,
+    "lang": "es"
+  },
+  {
+    "text": "el living. Para eso voy a hacer clic",
+    "duration": 6440,
+    "offset": 244519,
+    "lang": "es"
+  },
+  {
+    "text": "acá, añadir dispositivo. Miren la",
+    "duration": 6039,
+    "offset": 247400,
+    "lang": "es"
+  },
+  {
+    "text": "cantidad de dispositivos que ustedes",
+    "duration": 6441,
+    "offset": 250959,
+    "lang": "es"
+  },
+  {
+    "text": "pueden añadir. Es prácticamente infinita",
+    "duration": 7640,
+    "offset": 253439,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo solamente un clic.",
+    "duration": 6440,
+    "offset": 257400,
+    "lang": "es"
+  },
+  {
+    "text": "Este sistema realmente para todo lo que",
+    "duration": 4201,
+    "offset": 261079,
+    "lang": "es"
+  },
+  {
+    "text": "tiene [resoplido] que ver con control de",
+    "duration": 3840,
+    "offset": 263840,
+    "lang": "es"
+  },
+  {
+    "text": "dispositivos hogareños o control de",
+    "duration": 6120,
+    "offset": 265280,
+    "lang": "es"
+  },
+  {
+    "text": "dispositivos industriales que están no",
+    "duration": 6880,
+    "offset": 267680,
+    "lang": "es"
+  },
+  {
+    "text": "propiamente industrial IoT, pero en la",
+    "duration": 5840,
+    "offset": 271400,
+    "lang": "es"
+  },
+  {
+    "text": "industria hay un montón de oficinas, hay",
+    "duration": 4960,
+    "offset": 274560,
+    "lang": "es"
+  },
+  {
+    "text": "un montón de salas a donde yo podría",
+    "duration": 6160,
+    "offset": 277240,
+    "lang": "es"
+  },
+  {
+    "text": "utilizar esto y no hace falta que lo",
+    "duration": 5600,
+    "offset": 279520,
+    "lang": "es"
+  },
+  {
+    "text": "haga con dispositivos especiales que",
+    "duration": 4560,
+    "offset": 283400,
+    "lang": "es"
+  },
+  {
+    "text": "tienen calidad o protección industrial.",
+    "duration": 5048,
+    "offset": 285120,
+    "lang": "es"
+  },
+  {
+    "text": "Y este es realmente, fíjense que",
+    "duration": 3440,
+    "offset": 287960,
+    "lang": "es"
+  },
+  {
+    "text": "[resoplido] levantan una máquina",
+    "duration": 3871,
+    "offset": 290168,
+    "lang": "es"
+  },
+  {
+    "text": "virtual, levantan una computadora vieja,",
+    "duration": 4280,
+    "offset": 291400,
+    "lang": "es"
+  },
+  {
+    "text": "levantan una Raspberry y lo pueden",
+    "duration": 3801,
+    "offset": 294039,
+    "lang": "es"
+  },
+  {
+    "text": "probar en su casa. Es algo realmente muy",
+    "duration": 5160,
+    "offset": 295680,
+    "lang": "es"
+  },
+  {
+    "text": "versátil. Ahora voy a buscar una cámara",
+    "duration": 6040,
+    "offset": 297840,
+    "lang": "es"
+  },
+  {
+    "text": "que es un dispositivo OnBef. Entonces le",
+    "duration": 4880,
+    "offset": 300840,
+    "lang": "es"
+  },
+  {
+    "text": "voy a decir que busque los dispositivos",
+    "duration": 4120,
+    "offset": 303880,
+    "lang": "es"
+  },
+  {
+    "text": "OnBef y lo que va a hacer es los va a",
+    "duration": 4240,
+    "offset": 305720,
+    "lang": "es"
+  },
+  {
+    "text": "buscar automáticamente a todos los que",
+    "duration": 5479,
+    "offset": 308000,
+    "lang": "es"
+  },
+  {
+    "text": "yo tengo en mi casa. Ahí le doy enviar y",
+    "duration": 7480,
+    "offset": 309960,
+    "lang": "es"
+  },
+  {
+    "text": "desde el servidor va a capturar todos",
+    "duration": 7121,
+    "offset": 313479,
+    "lang": "es"
+  },
+  {
+    "text": "los dispositivos ONBIF que yo tengo en",
+    "duration": 6319,
+    "offset": 317440,
+    "lang": "es"
+  },
+  {
+    "text": "mi casa. Fíjense que acá tengo las dos",
+    "duration": 5360,
+    "offset": 320600,
+    "lang": "es"
+  },
+  {
+    "text": "IP cámaras. Yo le voy a poner esta IP",
+    "duration": 5081,
+    "offset": 323759,
+    "lang": "es"
+  },
+  {
+    "text": "cámara, le voy a dar enviar.",
+    "duration": 7120,
+    "offset": 325960,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. Eh, entonces acá me pide el",
+    "duration": 8280,
+    "offset": 328840,
+    "lang": "es"
+  },
+  {
+    "text": "username y la password.",
+    "duration": 4040,
+    "offset": 333080,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, bueno, a ver, me equivoqué en la",
+    "duration": 5520,
+    "offset": 341160,
+    "lang": "es"
+  },
+  {
+    "text": "password.",
+    "duration": 3000,
+    "offset": 343680,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, no, perdón, username es admin.",
+    "duration": 8240,
+    "offset": 346840,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, estaba todo con mayúsculas.",
+    "duration": 8081,
+    "offset": 351479,
+    "lang": "es"
+  },
+  {
+    "text": "Admin. Y acá sí,",
+    "duration": 4480,
+    "offset": 355080,
+    "lang": "es"
+  },
+  {
+    "text": "déjenme ver,",
+    "duration": 5000,
+    "offset": 363000,
+    "lang": "es"
+  },
+  {
+    "text": "eh.",
+    "duration": 3000,
+    "offset": 365000,
+    "lang": "es"
+  },
+  {
+    "text": "me dice que no estoy autorizado.",
+    "duration": 5319,
+    "offset": 375280,
+    "lang": "es"
+  },
+  {
+    "text": "Aguárdenme que voy a ver, eh, a ver si",
+    "duration": 8601,
+    "offset": 376919,
+    "lang": "es"
+  },
+  {
+    "text": "este estaba en blanco.",
+    "duration": 4921,
+    "offset": 380599,
+    "lang": "es"
+  },
+  {
+    "text": "No,",
+    "duration": 4920,
+    "offset": 391360,
+    "lang": "es"
+  },
+  {
+    "text": "aguárdenme que voy a ver este qué es lo",
+    "duration": 6199,
+    "offset": 393280,
+    "lang": "es"
+  },
+  {
+    "text": "que sucede.",
+    "duration": 3199,
+    "offset": 396280,
+    "lang": "es"
+  },
+  {
+    "text": "Ah.",
+    "duration": 3000,
+    "offset": 399560,
+    "lang": "es"
+  },
+  {
+    "text": "Ah,",
+    "duration": 8320,
+    "offset": 407680,
+    "lang": "es"
+  },
+  {
+    "text": "puede ser que me equivoqué de cámara.",
+    "duration": 5760,
+    "offset": 410240,
+    "lang": "es"
+  },
+  {
+    "text": "A ver,",
+    "duration": 6076,
+    "offset": 440639,
+    "lang": "es"
+  },
+  {
+    "text": "no. A ver si",
+    "duration": 4641,
+    "offset": 443759,
+    "lang": "es"
+  },
+  {
+    "text": "[resoplido] puede que me haya equivocado",
+    "duration": 3645,
+    "offset": 446715,
+    "lang": "es"
+  },
+  {
+    "text": "de cámara y esta sea la que ya está",
+    "duration": 4960,
+    "offset": 448400,
+    "lang": "es"
+  },
+  {
+    "text": "tomada.",
+    "duration": 3000,
+    "offset": 450360,
+    "lang": "es"
+  },
+  {
+    "text": "A ver si es esta otra.",
+    "duration": 3720,
+    "offset": 471680,
+    "lang": "es"
+  },
+  {
+    "text": "Eh",
+    "duration": 2120,
+    "offset": 494479,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, este no, ese dice que ya está",
+    "duration": 5239,
+    "offset": 506360,
+    "lang": "es"
+  },
+  {
+    "text": "configurado.",
+    "duration": 5759,
+    "offset": 508840,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces",
+    "duration": 3000,
+    "offset": 511599,
+    "lang": "es"
+  },
+  {
+    "text": "ahí le cambié la password.",
+    "duration": 3880,
+    "offset": 515440,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a ver.",
+    "duration": 4440,
+    "offset": 527040,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces es esta que es la que no está",
+    "duration": 5400,
+    "offset": 529080,
+    "lang": "es"
+  },
+  {
+    "text": "configurada.",
+    "duration": 3000,
+    "offset": 531480,
+    "lang": "es"
+  },
+  {
+    "text": "Yo sé que es admin.",
+    "duration": 6280,
+    "offset": 536640,
+    "lang": "es"
+  },
+  {
+    "text": "Y",
+    "duration": 3000,
+    "offset": 539920,
+    "lang": "es"
+  },
+  {
+    "text": "bien,",
+    "duration": 4761,
+    "offset": 546279,
+    "lang": "es"
+  },
+  {
+    "text": "me había confundido y le cambié la",
+    "duration": 4599,
+    "offset": 547920,
+    "lang": "es"
+  },
+  {
+    "text": "password porque la password no era la",
+    "duration": 3680,
+    "offset": 551040,
+    "lang": "es"
+  },
+  {
+    "text": "correcta. Acá la tomó, dice, \"¿A qué",
+    "duration": 4521,
+    "offset": 552519,
+    "lang": "es"
+  },
+  {
+    "text": "área la vas a asignar?\" \"Aling.\" Y acá",
+    "duration": 4880,
+    "offset": 554720,
+    "lang": "es"
+  },
+  {
+    "text": "le doy finalizar.",
+    "duration": 6239,
+    "offset": 557040,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, acá está, me dice eh autofoco,",
+    "duration": 6520,
+    "offset": 559600,
+    "lang": "es"
+  },
+  {
+    "text": "lo voy a poner para manejar la el",
+    "duration": 7641,
+    "offset": 563279,
+    "lang": "es"
+  },
+  {
+    "text": "infrarrojo. Este wiper no tiene, por eso",
+    "duration": 7800,
+    "offset": 566120,
+    "lang": "es"
+  },
+  {
+    "text": "no. Eh, detección de",
+    "duration": 4880,
+    "offset": 570920,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento.",
+    "duration": 6400,
+    "offset": 573920,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, dice que está clear. 24 segundos.",
+    "duration": 5920,
+    "offset": 575800,
+    "lang": "es"
+  },
+  {
+    "text": "No [resoplido] tiene nada de detección",
+    "duration": 4280,
+    "offset": 580320,
+    "lang": "es"
+  },
+  {
+    "text": "de movimiento. Una entidad",
+    "duration": 6119,
+    "offset": 581720,
+    "lang": "es"
+  },
+  {
+    "text": "deshabilitada. profile",
+    "duration": 6600,
+    "offset": 584600,
+    "lang": "es"
+  },
+  {
+    "text": "y acá se ve la cámara. Le voy a tapar.",
+    "duration": 8601,
+    "offset": 587839,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, acá se ve la cámara que es la que",
+    "duration": 9079,
+    "offset": 591200,
+    "lang": "es"
+  },
+  {
+    "text": "tengo en el living.",
+    "duration": 3839,
+    "offset": 596440,
+    "lang": "es"
+  },
+  {
+    "text": "Ya quedó eh",
+    "duration": 5800,
+    "offset": 603200,
+    "lang": "es"
+  },
+  {
+    "text": "configurada. Se puede rebotear, se puede",
+    "duration": 5000,
+    "offset": 606519,
+    "lang": "es"
+  },
+  {
+    "text": "desetear el",
+    "duration": 4680,
+    "offset": 609000,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, esta no tiene panel de control.",
+    "duration": 5521,
+    "offset": 611519,
+    "lang": "es"
+  },
+  {
+    "text": "Voy a vista general.",
+    "duration": 5320,
+    "offset": 613680,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, bueno, en favoritos, este es el",
+    "duration": 3720,
+    "offset": 617040,
+    "lang": "es"
+  },
+  {
+    "text": "televisor de la cocina. ¿Qué es lo que",
+    "duration": 4680,
+    "offset": 619000,
+    "lang": "es"
+  },
+  {
+    "text": "pasa? Lo apagaron, pero si no, como yo",
+    "duration": 4440,
+    "offset": 620760,
+    "lang": "es"
+  },
+  {
+    "text": "lo había tomado, ustedes pueden ver el",
+    "duration": 4000,
+    "offset": 623680,
+    "lang": "es"
+  },
+  {
+    "text": "televisor encendido, o sea, si tienen",
+    "duration": 4319,
+    "offset": 625200,
+    "lang": "es"
+  },
+  {
+    "text": "algún televisor que controlar o",
+    "duration": 3599,
+    "offset": 627680,
+    "lang": "es"
+  },
+  {
+    "text": "monitores y demás que contar. Acá se",
+    "duration": 4361,
+    "offset": 629519,
+    "lang": "es"
+  },
+  {
+    "text": "puede controlar absolutamente todo.",
+    "duration": 5000,
+    "offset": 631279,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora voy al living y fíjense que acá en",
+    "duration": 7360,
+    "offset": 633880,
+    "lang": "es"
+  },
+  {
+    "text": "el living eh está le voy a apagar el",
+    "duration": 7593,
+    "offset": 636279,
+    "lang": "es"
+  },
+  {
+    "text": "infrarrojo.",
+    "duration": 4920,
+    "offset": 641240,
+    "lang": "es"
+  },
+  {
+    "text": "[resoplido] Eh el autofoco se lo puedo",
+    "duration": 4888,
+    "offset": 643872,
+    "lang": "es"
+  },
+  {
+    "text": "apagar también. Puedo controlar cosas.",
+    "duration": 4840,
+    "offset": 646160,
+    "lang": "es"
+  },
+  {
+    "text": "Wiper no tiene acá dice on pero no",
+    "duration": 6560,
+    "offset": 648760,
+    "lang": "es"
+  },
+  {
+    "text": "tiene. Bien. Y acá la puedo ver.",
+    "duration": 8360,
+    "offset": 651000,
+    "lang": "es"
+  },
+  {
+    "text": "Y si me callo un poco,",
+    "duration": 4040,
+    "offset": 655320,
+    "lang": "es"
+  },
+  {
+    "text": "hay bastante tráfico en mi casa y puedo",
+    "duration": 4680,
+    "offset": 661200,
+    "lang": "es"
+  },
+  {
+    "text": "descargar una instantánea. Bien. Y de",
+    "duration": 5440,
+    "offset": 663720,
+    "lang": "es"
+  },
+  {
+    "text": "acá, de un solo lugar, tengo control de",
+    "duration": 5920,
+    "offset": 665880,
+    "lang": "es"
+  },
+  {
+    "text": "todos los dispositivos.",
+    "duration": 4679,
+    "offset": 669160,
+    "lang": "es"
+  },
+  {
+    "text": "Acá en la sala tengo control de la otra",
+    "duration": 3839,
+    "offset": 671800,
+    "lang": "es"
+  },
+  {
+    "text": "cámara que es donde estoy cámara que",
+    "duration": 2921,
+    "offset": 673839,
+    "lang": "es"
+  },
+  {
+    "text": "estoy.",
+    "duration": 2760,
+    "offset": 675639,
+    "lang": "es"
+  },
+  {
+    "text": "Como verán, ahí se acoplaba mi voz",
+    "duration": 5480,
+    "offset": 676760,
+    "lang": "es"
+  },
+  {
+    "text": "porque es donde estoy yo. Bien. Bueno,",
+    "duration": 6601,
+    "offset": 678399,
+    "lang": "es"
+  },
+  {
+    "text": "este realmente da para explorarlo y para",
+    "duration": 4880,
+    "offset": 682240,
+    "lang": "es"
+  },
+  {
+    "text": "investigarlo más.",
+    "duration": 6160,
+    "offset": 685000,
+    "lang": "es"
+  },
+  {
+    "text": "Home Assistant es la verdad que algo muy",
+    "duration": 6320,
+    "offset": 687120,
+    "lang": "es"
+  },
+  {
+    "text": "bueno, muy completo y se pueden hacer",
+    "duration": 6000,
+    "offset": 691160,
+    "lang": "es"
+  },
+  {
+    "text": "muchas, muchas cosas de IoT eh",
+    "duration": 6360,
+    "offset": 693440,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando este dispositivo.",
+    "duration": 5359,
+    "offset": 697160,
+    "lang": "es"
+  },
+  {
+    "text": "tiene la posibilidad de conectarse con",
+    "duration": 6440,
+    "offset": 699800,
+    "lang": "es"
+  },
+  {
+    "text": "un SP32 usando MQTT y cualquier cosa que",
+    "duration": 8880,
+    "offset": 702519,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes tengan o controlen con el SP32",
+    "duration": 7680,
+    "offset": 706240,
+    "lang": "es"
+  },
+  {
+    "text": "tiene también la posibilidad de levantar",
+    "duration": 6680,
+    "offset": 711399,
+    "lang": "es"
+  },
+  {
+    "text": "dentro de el servidor un eh un",
+    "duration": 6400,
+    "offset": 713920,
+    "lang": "es"
+  },
+  {
+    "text": "subscriber de MQTT y a través de ese",
+    "duration": 4841,
+    "offset": 718079,
+    "lang": "es"
+  },
+  {
+    "text": "subscriber de MQTT pueden ver, por",
+    "duration": 4400,
+    "offset": 720320,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo, si se activan o no se activan",
+    "duration": 4080,
+    "offset": 722920,
+    "lang": "es"
+  },
+  {
+    "text": "contactos secos como llaves de un punto,",
+    "duration": 4000,
+    "offset": 724720,
+    "lang": "es"
+  },
+  {
+    "text": "etcétera. O sea, con esto pueden",
+    "duration": 5040,
+    "offset": 727000,
+    "lang": "es"
+  },
+  {
+    "text": "controlar absolutamente todo. Lo único",
+    "duration": 5840,
+    "offset": 728720,
+    "lang": "es"
+  },
+  {
+    "text": "que es para controlar, no se recomienda,",
+    "duration": 6239,
+    "offset": 732040,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo, usarlo para encender",
+    "duration": 6320,
+    "offset": 734560,
+    "lang": "es"
+  },
+  {
+    "text": "máquinas como no se recomienda nunca",
+    "duration": 5841,
+    "offset": 738279,
+    "lang": "es"
+  },
+  {
+    "text": "hacer encendido remoto de eh de",
+    "duration": 5720,
+    "offset": 740880,
+    "lang": "es"
+  },
+  {
+    "text": "máquinas. Ahora, después en un tercer",
+    "duration": 4360,
+    "offset": 744120,
+    "lang": "es"
+  },
+  {
+    "text": "video, les voy a mostrar cómo se puede",
+    "duration": 5720,
+    "offset": 746600,
+    "lang": "es"
+  },
+  {
+    "text": "usar todo esto desde la app del celular.",
+    "duration": 5880,
+    "offset": 748480,
+    "lang": "es"
+  },
+  {
+    "text": "Yeah.",
+    "duration": 2040,
+    "offset": 752320,
+    "lang": "es"
+  }
+]

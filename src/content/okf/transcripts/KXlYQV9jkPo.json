@@ -1,0 +1,5204 @@
+[
+  {
+    "text": "estamos acá en la planta piloto del",
+    "duration": 4560,
+    "offset": 5560,
+    "lang": "es"
+  },
+  {
+    "text": "departamento de ingeniería química de la",
+    "duration": 4039,
+    "offset": 7680,
+    "lang": "es"
+  },
+  {
+    "text": "facultad de ingeniería de la Universidad",
+    "duration": 4040,
+    "offset": 10120,
+    "lang": "es"
+  },
+  {
+    "text": "de Buenos Aires Este es un banco de",
+    "duration": 5400,
+    "offset": 11719,
+    "lang": "es"
+  },
+  {
+    "text": "bombas centrífugas que usamos para la",
+    "duration": 5160,
+    "offset": 14160,
+    "lang": "es"
+  },
+  {
+    "text": "materia laboratorio de operaciones y",
+    "duration": 4441,
+    "offset": 17119,
+    "lang": "es"
+  },
+  {
+    "text": "procesos es una práctica que se hace",
+    "duration": 3680,
+    "offset": 19320,
+    "lang": "es"
+  },
+  {
+    "text": "dentro de la",
+    "duration": 4440,
+    "offset": 21560,
+    "lang": "es"
+  },
+  {
+    "text": "materia en este banco tenemos dos bombas",
+    "duration": 5920,
+    "offset": 23000,
+    "lang": "es"
+  },
+  {
+    "text": "centrífugas son dos bombas con distinto",
+    "duration": 5920,
+    "offset": 26000,
+    "lang": "es"
+  },
+  {
+    "text": "diámetro de impulsor son bombas de una",
+    "duration": 5560,
+    "offset": 28920,
+    "lang": "es"
+  },
+  {
+    "text": "misma serie de una misma",
+    "duration": 6200,
+    "offset": 31920,
+    "lang": "es"
+  },
+  {
+    "text": "familia las bombas están eh conectadas",
+    "duration": 7840,
+    "offset": 34480,
+    "lang": "es"
+  },
+  {
+    "text": "de manera de poder operarlas solas en",
+    "duration": 6439,
+    "offset": 38120,
+    "lang": "es"
+  },
+  {
+    "text": "paralelo con un arreglo en paralelo o un",
+    "duration": 4440,
+    "offset": 42320,
+    "lang": "es"
+  },
+  {
+    "text": "arreglo en serie el circuito es un",
+    "duration": 5000,
+    "offset": 44559,
+    "lang": "es"
+  },
+  {
+    "text": "circuito cerrado tenemos el tanque un",
+    "duration": 6240,
+    "offset": 46760,
+    "lang": "es"
+  },
+  {
+    "text": "tanque con agua donde se alimentan una o",
+    "duration": 5121,
+    "offset": 49559,
+    "lang": "es"
+  },
+  {
+    "text": "las dos bombas a la vez en el caso que",
+    "duration": 5559,
+    "offset": 53000,
+    "lang": "es"
+  },
+  {
+    "text": "fuera paralelo esta sería la salida van",
+    "duration": 8280,
+    "offset": 54680,
+    "lang": "es"
+  },
+  {
+    "text": "a un tanque y vuelven al tanque de",
+    "duration": 4401,
+    "offset": 58559,
+    "lang": "es"
+  },
+  {
+    "text": "alimentación de lo que son los",
+    "duration": 4801,
+    "offset": 64199,
+    "lang": "es"
+  },
+  {
+    "text": "accesorios y la instrumentación tenemos",
+    "duration": 5440,
+    "offset": 66400,
+    "lang": "es"
+  },
+  {
+    "text": "para cada una de las bombas un manómetro",
+    "duration": 6200,
+    "offset": 69000,
+    "lang": "es"
+  },
+  {
+    "text": "de succión y uno de",
+    "duration": 5240,
+    "offset": 71840,
+    "lang": "es"
+  },
+  {
+    "text": "descarga",
+    "duration": 4680,
+    "offset": 75200,
+    "lang": "es"
+  },
+  {
+    "text": "eh lo mismo de la misma forma un",
+    "duration": 4880,
+    "offset": 77080,
+    "lang": "es"
+  },
+  {
+    "text": "manómetro donde se unen las dos salidas",
+    "duration": 3800,
+    "offset": 79880,
+    "lang": "es"
+  },
+  {
+    "text": "de las bombas que sería para medir la",
+    "duration": 4040,
+    "offset": 81960,
+    "lang": "es"
+  },
+  {
+    "text": "presión en el",
+    "duration": 6720,
+    "offset": 83680,
+    "lang": "es"
+  },
+  {
+    "text": "nodo después tenemos eh válvulas",
+    "duration": 8040,
+    "offset": 86000,
+    "lang": "es"
+  },
+  {
+    "text": "que nos permiten estas que nos permiten",
+    "duration": 6640,
+    "offset": 90400,
+    "lang": "es"
+  },
+  {
+    "text": "de alguna manera aislar las bombas del",
+    "duration": 6880,
+    "offset": 94040,
+    "lang": "es"
+  },
+  {
+    "text": "tanque y válvulas a lo largo de la",
+    "duration": 8079,
+    "offset": 97040,
+    "lang": "es"
+  },
+  {
+    "text": "cañería para poder operar con cada bomba",
+    "duration": 7080,
+    "offset": 100920,
+    "lang": "es"
+  },
+  {
+    "text": "individualmente o ponerlas de manera que",
+    "duration": 5801,
+    "offset": 105119,
+    "lang": "es"
+  },
+  {
+    "text": "se pueda trabajar en serie o en paralelo",
+    "duration": 5360,
+    "offset": 108000,
+    "lang": "es"
+  },
+  {
+    "text": "para regular el",
+    "duration": 6320,
+    "offset": 110920,
+    "lang": "es"
+  },
+  {
+    "text": "caudal tenemos AC una válvula de",
+    "duration": 6600,
+    "offset": 113360,
+    "lang": "es"
+  },
+  {
+    "text": "regulación que con esta hacemos losos",
+    "duration": 7239,
+    "offset": 117240,
+    "lang": "es"
+  },
+  {
+    "text": "dos puntos de la curva y esta válvula",
+    "duration": 6960,
+    "offset": 119960,
+    "lang": "es"
+  },
+  {
+    "text": "que está acá lo que hace es aislar el",
+    "duration": 4640,
+    "offset": 124479,
+    "lang": "es"
+  },
+  {
+    "text": "tanque superior que después vamos a",
+    "duration": 5679,
+    "offset": 126920,
+    "lang": "es"
+  },
+  {
+    "text": "explicar lo usamos para medir el",
+    "duration": 6081,
+    "offset": 129119,
+    "lang": "es"
+  },
+  {
+    "text": "caudal vamos a comenzar la práctica",
+    "duration": 4441,
+    "offset": 132599,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo la curva",
+    "duration": 6000,
+    "offset": 135200,
+    "lang": "es"
+  },
+  {
+    "text": "eh el funcionamiento de la bomba un para",
+    "duration": 8279,
+    "offset": 137040,
+    "lang": "es"
+  },
+  {
+    "text": "eso lo que tenemos que ver es que esté",
+    "duration": 7200,
+    "offset": 141200,
+    "lang": "es"
+  },
+  {
+    "text": "solo conectada al sistema dicha bomba no",
+    "duration": 5640,
+    "offset": 145319,
+    "lang": "es"
+  },
+  {
+    "text": "entonces lo que tenemos que hacer es",
+    "duration": 6280,
+    "offset": 148400,
+    "lang": "es"
+  },
+  {
+    "text": "cerrar las válvulas de la bomba dos la",
+    "duration": 7481,
+    "offset": 150959,
+    "lang": "es"
+  },
+  {
+    "text": "válvula de la salida está cerrada y",
+    "duration": 6760,
+    "offset": 154680,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a cerrar también aunque no sería",
+    "duration": 7040,
+    "offset": 158440,
+    "lang": "es"
+  },
+  {
+    "text": "tampoco tan necesario la válvula de",
+    "duration": 7719,
+    "offset": 161440,
+    "lang": "es"
+  },
+  {
+    "text": "Sub una vez que tenemos armado el",
+    "duration": 7080,
+    "offset": 165480,
+    "lang": "es"
+  },
+  {
+    "text": "sistema lo que vamos a hacer es conectar",
+    "duration": 6561,
+    "offset": 169159,
+    "lang": "es"
+  },
+  {
+    "text": "la bomba levantamos la térmica y",
+    "duration": 5800,
+    "offset": 172560,
+    "lang": "es"
+  },
+  {
+    "text": "apretamos el botón de marcha Ah uno ya",
+    "duration": 5840,
+    "offset": 175720,
+    "lang": "es"
+  },
+  {
+    "text": "escucha que la bomba está",
+    "duration": 5640,
+    "offset": 178360,
+    "lang": "es"
+  },
+  {
+    "text": "funcion lo que nosotros hacemos en la",
+    "duration": 5399,
+    "offset": 181560,
+    "lang": "es"
+  },
+  {
+    "text": "práctica es sacar la curva de la bomba",
+    "duration": 4799,
+    "offset": 184000,
+    "lang": "es"
+  },
+  {
+    "text": "el famoso H versus",
+    "duration": 5920,
+    "offset": 186959,
+    "lang": "es"
+  },
+  {
+    "text": "q donde lo que nosotros vamos a medir va",
+    "duration": 9080,
+    "offset": 188799,
+    "lang": "es"
+  },
+  {
+    "text": "a ser el caudal y la altura de la bomba",
+    "duration": 8121,
+    "offset": 192879,
+    "lang": "es"
+  },
+  {
+    "text": "que uno la Calcula como la presión de",
+    "duration": 5080,
+    "offset": 197879,
+    "lang": "es"
+  },
+  {
+    "text": "descarga menos la presión de succión",
+    "duration": 4360,
+    "offset": 201000,
+    "lang": "es"
+  },
+  {
+    "text": "sobre roj lo que tenemos que medir es la",
+    "duration": 3840,
+    "offset": 202959,
+    "lang": "es"
+  },
+  {
+    "text": "presión de succión y la presión de",
+    "duration": 3200,
+    "offset": 205360,
+    "lang": "es"
+  },
+  {
+    "text": "descarga entonces durante la práctica",
+    "duration": 3921,
+    "offset": 206799,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos tomamos para para cada punto o",
+    "duration": 4800,
+    "offset": 208560,
+    "lang": "es"
+  },
+  {
+    "text": "sea para cada apertura de la válvula la",
+    "duration": 4280,
+    "offset": 210720,
+    "lang": "es"
+  },
+  {
+    "text": "presión de succión la presión de",
+    "duration": 4560,
+    "offset": 213360,
+    "lang": "es"
+  },
+  {
+    "text": "descarga que vemos en los manómetros",
+    "duration": 6560,
+    "offset": 215000,
+    "lang": "es"
+  },
+  {
+    "text": "y el caudal que está circulando para",
+    "duration": 6840,
+    "offset": 217920,
+    "lang": "es"
+  },
+  {
+    "text": "medir el caudal lo que nosotros hacemos",
+    "duration": 7160,
+    "offset": 221560,
+    "lang": "es"
+  },
+  {
+    "text": "es ese t que está acá porque nosotros no",
+    "duration": 6559,
+    "offset": 224760,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos instalado un rotámetro o un",
+    "duration": 5280,
+    "offset": 228720,
+    "lang": "es"
+  },
+  {
+    "text": "medidor de caudal entonces lo que",
+    "duration": 4361,
+    "offset": 231319,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos Es nosotros conocemos las",
+    "duration": 4480,
+    "offset": 234000,
+    "lang": "es"
+  },
+  {
+    "text": "dimensiones de este t que tiene 50 cm",
+    "duration": 6119,
+    "offset": 235680,
+    "lang": "es"
+  },
+  {
+    "text": "por 1 met de base rectangular lo que",
+    "duration": 6399,
+    "offset": 238480,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos Es cerrar la válvula O sea que",
+    "duration": 4841,
+    "offset": 241799,
+    "lang": "es"
+  },
+  {
+    "text": "el retorno del agua lo que hace es",
+    "duration": 5481,
+    "offset": 244879,
+    "lang": "es"
+  },
+  {
+    "text": "llenar este tanque",
+    "duration": 3720,
+    "offset": 246640,
+    "lang": "es"
+  },
+  {
+    "text": "y acá como se puede ver en el medidor de",
+    "duration": 6439,
+    "offset": 254920,
+    "lang": "es"
+  },
+  {
+    "text": "nivel que está al costado del tanque el",
+    "duration": 5321,
+    "offset": 259239,
+    "lang": "es"
+  },
+  {
+    "text": "agua sube solidaria con el tanque",
+    "duration": 5721,
+    "offset": 261359,
+    "lang": "es"
+  },
+  {
+    "text": "entonces lo que hacemos es entre dos",
+    "duration": 4880,
+    "offset": 264560,
+    "lang": "es"
+  },
+  {
+    "text": "distancias conocidas medimos el tiempo",
+    "duration": 5080,
+    "offset": 267080,
+    "lang": "es"
+  },
+  {
+    "text": "que tarda en recorrerla Sabiendo la",
+    "duration": 4759,
+    "offset": 269440,
+    "lang": "es"
+  },
+  {
+    "text": "sección y la altura sacamos el volumen",
+    "duration": 3840,
+    "offset": 272160,
+    "lang": "es"
+  },
+  {
+    "text": "Lo dividimos por el tiempo y tenemos el",
+    "duration": 4401,
+    "offset": 274199,
+    "lang": "es"
+  },
+  {
+    "text": "caudal de esa manera vamos a medir el",
+    "duration": 6400,
+    "offset": 276000,
+    "lang": "es"
+  },
+  {
+    "text": "caudal para distintas aperas una vez que",
+    "duration": 5800,
+    "offset": 278600,
+    "lang": "es"
+  },
+  {
+    "text": "calculamos el tiempo para una",
+    "duration": 3639,
+    "offset": 282400,
+    "lang": "es"
+  },
+  {
+    "text": "determinada distancia de cenado del",
+    "duration": 3840,
+    "offset": 284400,
+    "lang": "es"
+  },
+  {
+    "text": "tanque abrimos la",
+    "duration": 6081,
+    "offset": 286039,
+    "lang": "es"
+  },
+  {
+    "text": "válvula para que siga el circuito el",
+    "duration": 7239,
+    "offset": 288240,
+    "lang": "es"
+  },
+  {
+    "text": "agua normal una vez que eh dispusimos",
+    "duration": 5919,
+    "offset": 292120,
+    "lang": "es"
+  },
+  {
+    "text": "toda la configuración necesaria para",
+    "duration": 5401,
+    "offset": 295479,
+    "lang": "es"
+  },
+  {
+    "text": "poder sacar la curva de la bomba uno",
+    "duration": 5041,
+    "offset": 298039,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros lo que hacemos dentro del",
+    "duration": 4440,
+    "offset": 300880,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo de la práctica No",
+    "duration": 6360,
+    "offset": 303080,
+    "lang": "es"
+  },
+  {
+    "text": "que está acotado tomamos cinco puntos",
+    "duration": 7080,
+    "offset": 305320,
+    "lang": "es"
+  },
+  {
+    "text": "para sacar la curva de H versus",
+    "duration": 6720,
+    "offset": 309440,
+    "lang": "es"
+  },
+  {
+    "text": "q tomamos el punto a máximo caudal el",
+    "duration": 6400,
+    "offset": 312400,
+    "lang": "es"
+  },
+  {
+    "text": "punto de chofo sea caudal cero y tres",
+    "duration": 3560,
+    "offset": 316160,
+    "lang": "es"
+  },
+  {
+    "text": "puntos",
+    "duration": 3080,
+    "offset": 318800,
+    "lang": "es"
+  },
+  {
+    "text": "intermedios los datos que nos vamos a",
+    "duration": 5160,
+    "offset": 319720,
+    "lang": "es"
+  },
+  {
+    "text": "llevar son las mediciones de caudal y el",
+    "duration": 5520,
+    "offset": 321880,
+    "lang": "es"
+  },
+  {
+    "text": "H que lo calculamos como la presión de",
+    "duration": 4319,
+    "offset": 324880,
+    "lang": "es"
+  },
+  {
+    "text": "descarga menos la presión de instrucción",
+    "duration": 4000,
+    "offset": 327400,
+    "lang": "es"
+  },
+  {
+    "text": "sobre que para eso lo que hacemos Es",
+    "duration": 4041,
+    "offset": 329199,
+    "lang": "es"
+  },
+  {
+    "text": "leer los manómetros de sección y de",
+    "duration": 4400,
+    "offset": 331400,
+    "lang": "es"
+  },
+  {
+    "text": "descarga Entonces vamos a hacer el",
+    "duration": 4560,
+    "offset": 333240,
+    "lang": "es"
+  },
+  {
+    "text": "primer punto que va a ser el punto de",
+    "duration": 4679,
+    "offset": 335800,
+    "lang": "es"
+  },
+  {
+    "text": "Máximo caudal entonces lo que vamos a",
+    "duration": 7560,
+    "offset": 337800,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es abrir completamente la",
+    "duration": 4881,
+    "offset": 340479,
+    "lang": "es"
+  },
+  {
+    "text": "válvula lo que nos da es la menor",
+    "duration": 4280,
+    "offset": 347680,
+    "lang": "es"
+  },
+  {
+    "text": "resistencia del sistema Por eso el toor",
+    "duration": 4599,
+    "offset": 349720,
+    "lang": "es"
+  },
+  {
+    "text": "es máximo y una vez que",
+    "duration": 5079,
+    "offset": 351960,
+    "lang": "es"
+  },
+  {
+    "text": "determinamos ponemos ese punto con la",
+    "duration": 6160,
+    "offset": 354319,
+    "lang": "es"
+  },
+  {
+    "text": "válvula vamos a medir vamos a medir",
+    "duration": 5720,
+    "offset": 357039,
+    "lang": "es"
+  },
+  {
+    "text": "bueno la presión de succión y la de",
+    "duration": 5121,
+    "offset": 360479,
+    "lang": "es"
+  },
+  {
+    "text": "descarga para eso lo que hacemos Es leer",
+    "duration": 5681,
+    "offset": 362759,
+    "lang": "es"
+  },
+  {
+    "text": "es de lectura directa leemos el",
+    "duration": 7080,
+    "offset": 365600,
+    "lang": "es"
+  },
+  {
+    "text": "manómetro de succión y el de descarga en",
+    "duration": 7479,
+    "offset": 368440,
+    "lang": "es"
+  },
+  {
+    "text": "este caso nos está",
+    "duration": 7200,
+    "offset": 372680,
+    "lang": "es"
+  },
+  {
+    "text": "indicando una presión de descarga de 06",
+    "duration": 9601,
+    "offset": 375919,
+    "lang": "es"
+  },
+  {
+    "text": "kg por cm cuad no tenemos 05 06 07 08 09",
+    "duration": 6879,
+    "offset": 379880,
+    "lang": "es"
+  },
+  {
+    "text": "1 son",
+    "duration": 5840,
+    "offset": 385520,
+    "lang": "es"
+  },
+  {
+    "text": "06 kg por cm cu con eso calculamos el H",
+    "duration": 6681,
+    "offset": 386759,
+    "lang": "es"
+  },
+  {
+    "text": "ahora tendríamos que encontrar el Q de",
+    "duration": 4520,
+    "offset": 391360,
+    "lang": "es"
+  },
+  {
+    "text": "ese punto es el caudal entonces lo que",
+    "duration": 5479,
+    "offset": 393440,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos Es cerramos la",
+    "duration": 5879,
+    "offset": 395880,
+    "lang": "es"
+  },
+  {
+    "text": "vina para aislar este",
+    "duration": 5840,
+    "offset": 398919,
+    "lang": "es"
+  },
+  {
+    "text": "tanque",
+    "duration": 3000,
+    "offset": 401759,
+    "lang": "es"
+  },
+  {
+    "text": "y del medidor de nivel elegimos dos",
+    "duration": 7479,
+    "offset": 410440,
+    "lang": "es"
+  },
+  {
+    "text": "puntos una distancia conocida ya sea las",
+    "duration": 5081,
+    "offset": 414919,
+    "lang": "es"
+  },
+  {
+    "text": "dos marcas blancas o las dos marcas de",
+    "duration": 4761,
+    "offset": 417919,
+    "lang": "es"
+  },
+  {
+    "text": "Cintas aisladoras y tomamos el tiempo",
+    "duration": 5720,
+    "offset": 420000,
+    "lang": "es"
+  },
+  {
+    "text": "que transcurre entre esas distancias",
+    "duration": 5880,
+    "offset": 422680,
+    "lang": "es"
+  },
+  {
+    "text": "conocidas con la sección de al tque que",
+    "duration": 6120,
+    "offset": 425720,
+    "lang": "es"
+  },
+  {
+    "text": "habíamos visto que era 50 cm por 1 m y",
+    "duration": 5720,
+    "offset": 428560,
+    "lang": "es"
+  },
+  {
+    "text": "por la altura sacamos el volumen ese",
+    "duration": 4199,
+    "offset": 431840,
+    "lang": "es"
+  },
+  {
+    "text": "volumen Lo dividimos por el tiempo y ahí",
+    "duration": 4240,
+    "offset": 434280,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos el caudal O sea que ya tenemos",
+    "duration": 6000,
+    "offset": 436039,
+    "lang": "es"
+  },
+  {
+    "text": "un punto de la curva el punto de Máximo",
+    "duration": 7720,
+    "offset": 438520,
+    "lang": "es"
+  },
+  {
+    "text": "caudal calculamos el H y el Q vamos a",
+    "duration": 6840,
+    "offset": 442039,
+    "lang": "es"
+  },
+  {
+    "text": "hacer ahora el segundo punto de la curva",
+    "duration": 5519,
+    "offset": 446240,
+    "lang": "es"
+  },
+  {
+    "text": "que que es un punto que se llama deso de",
+    "duration": 6201,
+    "offset": 448879,
+    "lang": "es"
+  },
+  {
+    "text": "caudal cero que lo que vamos a hacer es",
+    "duration": 5440,
+    "offset": 451759,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a abrir la válvula habamos cerrado",
+    "duration": 4839,
+    "offset": 455080,
+    "lang": "es"
+  },
+  {
+    "text": "antes vamos a cerrar completamente la",
+    "duration": 6521,
+    "offset": 457199,
+    "lang": "es"
+  },
+  {
+    "text": "válvula reguladora para que no",
+    "duration": 7840,
+    "offset": 459919,
+    "lang": "es"
+  },
+  {
+    "text": "circule agua por la instalación No",
+    "duration": 7599,
+    "offset": 463720,
+    "lang": "es"
+  },
+  {
+    "text": "cerramos un instante completamente un",
+    "duration": 5241,
+    "offset": 467759,
+    "lang": "es"
+  },
+  {
+    "text": "instante",
+    "duration": 4361,
+    "offset": 471319,
+    "lang": "es"
+  },
+  {
+    "text": "nada acá No hay que medir nada del C",
+    "duration": 3960,
+    "offset": 473000,
+    "lang": "es"
+  },
+  {
+    "text": "porque",
+    "duration": 4720,
+    "offset": 475680,
+    "lang": "es"
+  },
+  {
+    "text": "cva y lo que hacemos Es",
+    "duration": 5679,
+    "offset": 476960,
+    "lang": "es"
+  },
+  {
+    "text": "la presión de succión y la presión de",
+    "duration": 5440,
+    "offset": 480400,
+    "lang": "es"
+  },
+  {
+    "text": "descarga acá como observamos va a ser la",
+    "duration": 5520,
+    "offset": 482639,
+    "lang": "es"
+  },
+  {
+    "text": "presión de máxima que vamos a tener de",
+    "duration": 3440,
+    "offset": 485840,
+    "lang": "es"
+  },
+  {
+    "text": "la curva",
+    "duration": 6320,
+    "offset": 488159,
+    "lang": "es"
+  },
+  {
+    "text": "es 1,15 kg por cím",
+    "duration": 9359,
+    "offset": 489280,
+    "lang": "es"
+  },
+  {
+    "text": "cuadr abrimos nuevamente la",
+    "duration": 4160,
+    "offset": 494479,
+    "lang": "es"
+  },
+  {
+    "text": "vál O sea que ya tenemos dos puntos de",
+    "duration": 3719,
+    "offset": 500440,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 3880,
+    "offset": 503120,
+    "lang": "es"
+  },
+  {
+    "text": "curva cuya presión de",
+    "duration": 7241,
+    "offset": 504159,
+    "lang": "es"
+  },
+  {
+    "text": "descarga en un caso el mínimo era 075 Y",
+    "duration": 7599,
+    "offset": 507000,
+    "lang": "es"
+  },
+  {
+    "text": "en el otro 1.15 o sea ahora tendríamos",
+    "duration": 7360,
+    "offset": 511400,
+    "lang": "es"
+  },
+  {
+    "text": "que tomar Tres puntos que barran ese",
+    "duration": 7320,
+    "offset": 514599,
+    "lang": "es"
+  },
+  {
+    "text": "Rango Entonces vamos",
+    "duration": 7960,
+    "offset": 518760,
+    "lang": "es"
+  },
+  {
+    "text": "a regular la válvula de manera",
+    "duration": 9040,
+    "offset": 521919,
+    "lang": "es"
+  },
+  {
+    "text": "que puedo obtener un punto",
+    "duration": 8000,
+    "offset": 526720,
+    "lang": "es"
+  },
+  {
+    "text": "diferente Ahí en ese caso",
+    "duration": 10401,
+    "offset": 530959,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos una presión de 08 kg",
+    "duration": 6640,
+    "offset": 534720,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ahí tendríamos un tercer punto",
+    "duration": 4639,
+    "offset": 541640,
+    "lang": "es"
+  },
+  {
+    "text": "de la curva y el procedimiento es el",
+    "duration": 5039,
+    "offset": 543920,
+    "lang": "es"
+  },
+  {
+    "text": "mismo leemos el manómetro de succión El",
+    "duration": 7120,
+    "offset": 546279,
+    "lang": "es"
+  },
+  {
+    "text": "de descarga para tener el y volvemos aar",
+    "duration": 6440,
+    "offset": 548959,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 6201,
+    "offset": 553399,
+    "lang": "es"
+  },
+  {
+    "text": "válvula se comienza aar",
+    "duration": 4201,
+    "offset": 555399,
+    "lang": "es"
+  },
+  {
+    "text": "el ahí vemos como en el medidor de nivel",
+    "duration": 7400,
+    "offset": 562800,
+    "lang": "es"
+  },
+  {
+    "text": "el agua solidaria",
+    "duration": 5679,
+    "offset": 567600,
+    "lang": "es"
+  },
+  {
+    "text": "el tanque y volvemos a tomarla de una",
+    "duration": 5600,
+    "offset": 570200,
+    "lang": "es"
+  },
+  {
+    "text": "distancia conocida y el tiempo que tarda",
+    "duration": 6201,
+    "offset": 573279,
+    "lang": "es"
+  },
+  {
+    "text": "en recorrer el",
+    "duration": 3680,
+    "offset": 575800,
+    "lang": "es"
+  },
+  {
+    "text": "agua abrimos la válvula del tanque",
+    "duration": 5400,
+    "offset": 580240,
+    "lang": "es"
+  },
+  {
+    "text": "porque si no se llena y se derrama de",
+    "duration": 5959,
+    "offset": 583440,
+    "lang": "es"
+  },
+  {
+    "text": "agua abrimos para que circule y ahora",
+    "duration": 6000,
+    "offset": 585640,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que sacar un cuarto",
+    "duration": 7241,
+    "offset": 589399,
+    "lang": "es"
+  },
+  {
+    "text": "punto cómo lo hacemos bueno tenemos que",
+    "duration": 6560,
+    "offset": 591640,
+    "lang": "es"
+  },
+  {
+    "text": "sacar un punto diferente a los",
+    "duration": 5600,
+    "offset": 596640,
+    "lang": "es"
+  },
+  {
+    "text": "anteriores Entonces vamos cerrando la",
+    "duration": 8759,
+    "offset": 598200,
+    "lang": "es"
+  },
+  {
+    "text": "válvula Ahí estamos trabajando en",
+    "duration": 4719,
+    "offset": 602240,
+    "lang": "es"
+  },
+  {
+    "text": "060708 muy bien ahí tenemos nuestro",
+    "duration": 4840,
+    "offset": 618040,
+    "lang": "es"
+  },
+  {
+    "text": "cuarto punto No que la presión de",
+    "duration": 3520,
+    "offset": 620600,
+    "lang": "es"
+  },
+  {
+    "text": "descarga",
+    "duration": 4280,
+    "offset": 622880,
+    "lang": "es"
+  },
+  {
+    "text": "09 tomamos la presión de su que mucho no",
+    "duration": 8080,
+    "offset": 624120,
+    "lang": "es"
+  },
+  {
+    "text": "ha variado y volvemos a medir el",
+    "duration": 5040,
+    "offset": 627160,
+    "lang": "es"
+  },
+  {
+    "text": "caud acá vuelve a subir el nivel",
+    "duration": 7440,
+    "offset": 634000,
+    "lang": "es"
+  },
+  {
+    "text": "volvemos a medir entre una distancia",
+    "duration": 6440,
+    "offset": 638480,
+    "lang": "es"
+  },
+  {
+    "text": "conocida el tiempo que tarda y tenemos",
+    "duration": 5440,
+    "offset": 641440,
+    "lang": "es"
+  },
+  {
+    "text": "as que ya tenemos cuatro puntos ahora",
+    "duration": 4359,
+    "offset": 644920,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a hacer el quinto punto previo a",
+    "duration": 4800,
+    "offset": 646880,
+    "lang": "es"
+  },
+  {
+    "text": "eso abrimos la válvula para que no se",
+    "duration": 4321,
+    "offset": 649279,
+    "lang": "es"
+  },
+  {
+    "text": "llene el tanque y se derrame el",
+    "duration": 4920,
+    "offset": 651680,
+    "lang": "es"
+  },
+  {
+    "text": "agua",
+    "duration": 3000,
+    "offset": 653600,
+    "lang": "es"
+  },
+  {
+    "text": "aguao Entonces vamos a regular la",
+    "duration": 4520,
+    "offset": 658240,
+    "lang": "es"
+  },
+  {
+    "text": "válvula de manera de obtener un punto",
+    "duration": 5560,
+    "offset": 660600,
+    "lang": "es"
+  },
+  {
+    "text": "diferente la vamos",
+    "duration": 5330,
+    "offset": 662760,
+    "lang": "es"
+  },
+  {
+    "text": "cerrando en este",
+    "duration": 5040,
+    "offset": 666160,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3110,
+    "offset": 668090,
+    "lang": "es"
+  },
+  {
+    "text": "caso a ver si obtenemos un punto cercano",
+    "duration": 5880,
+    "offset": 671720,
+    "lang": "es"
+  },
+  {
+    "text": "a 1",
+    "duration": 2680,
+    "offset": 674920,
+    "lang": "es"
+  },
+  {
+    "text": "kg muy",
+    "duration": 6759,
+    "offset": 684320,
+    "lang": "es"
+  },
+  {
+    "text": "bien también en los puntos que serían hq",
+    "duration": 5560,
+    "offset": 686920,
+    "lang": "es"
+  },
+  {
+    "text": "el",
+    "duration": 3921,
+    "offset": 691079,
+    "lang": "es"
+  },
+  {
+    "text": "hemos presión de descarga presión de",
+    "duration": 6919,
+    "offset": 692480,
+    "lang": "es"
+  },
+  {
+    "text": "succión y para el caudal otra vez loamos",
+    "duration": 6519,
+    "offset": 695000,
+    "lang": "es"
+  },
+  {
+    "text": "este tanque cerramos la",
+    "duration": 5521,
+    "offset": 699399,
+    "lang": "es"
+  },
+  {
+    "text": "válvula y",
+    "duration": 6681,
+    "offset": 701519,
+    "lang": "es"
+  },
+  {
+    "text": "medimos Cuánto tiempo tarda en recorrer",
+    "duration": 7080,
+    "offset": 704920,
+    "lang": "es"
+  },
+  {
+    "text": "en llenar el tanque en este punto que la",
+    "duration": 6079,
+    "offset": 708200,
+    "lang": "es"
+  },
+  {
+    "text": "válvula está bastante cerrada es mucho",
+    "duration": 5519,
+    "offset": 712000,
+    "lang": "es"
+  },
+  {
+    "text": "más lento el eh de alguna manera el",
+    "duration": 5881,
+    "offset": 714279,
+    "lang": "es"
+  },
+  {
+    "text": "llenado de este tanque y como asciende",
+    "duration": 4601,
+    "offset": 717519,
+    "lang": "es"
+  },
+  {
+    "text": "el agua en el medidor de nivel no",
+    "duration": 4640,
+    "offset": 720160,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces a veces tomamos quizás una",
+    "duration": 5159,
+    "offset": 722120,
+    "lang": "es"
+  },
+  {
+    "text": "distancia más pequeña en función de los",
+    "duration": 5479,
+    "offset": 724800,
+    "lang": "es"
+  },
+  {
+    "text": "tiempos de la práctica Pero bueno el",
+    "duration": 6161,
+    "offset": 727279,
+    "lang": "es"
+  },
+  {
+    "text": "procedimiento es el",
+    "duration": 6881,
+    "offset": 730279,
+    "lang": "es"
+  },
+  {
+    "text": "mismo una vez que medimos abrimos la",
+    "duration": 5839,
+    "offset": 733440,
+    "lang": "es"
+  },
+  {
+    "text": "válvula de este tanque para que no se",
+    "duration": 4760,
+    "offset": 737160,
+    "lang": "es"
+  },
+  {
+    "text": "llene y se derrame Y en este caso",
+    "duration": 5721,
+    "offset": 739279,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros ya obtuvimos los cinco puntos",
+    "duration": 5359,
+    "offset": 741920,
+    "lang": "es"
+  },
+  {
+    "text": "correspondientes a la curva de la bomba",
+    "duration": 4880,
+    "offset": 745000,
+    "lang": "es"
+  },
+  {
+    "text": "un podríamos hacer más puntos Sí sería",
+    "duration": 5281,
+    "offset": 747279,
+    "lang": "es"
+  },
+  {
+    "text": "mejor Nosotros tomamos cinco en función",
+    "duration": 7360,
+    "offset": 749880,
+    "lang": "es"
+  },
+  {
+    "text": "de los tiempos de la práctica y de la la",
+    "duration": 7680,
+    "offset": 752560,
+    "lang": "es"
+  },
+  {
+    "text": "franja horaria de la materia dentro del",
+    "duration": 5839,
+    "offset": 757240,
+    "lang": "es"
+  },
+  {
+    "text": "cronograma de la carrera una vez que",
+    "duration": 5240,
+    "offset": 760240,
+    "lang": "es"
+  },
+  {
+    "text": "finalizamos lo que hacemos Es apagamos",
+    "duration": 4320,
+    "offset": 763079,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 4039,
+    "offset": 765480,
+    "lang": "es"
+  },
+  {
+    "text": "bomba",
+    "duration": 5041,
+    "offset": 767399,
+    "lang": "es"
+  },
+  {
+    "text": "y así como en un principio tocamos el",
+    "duration": 5000,
+    "offset": 769519,
+    "lang": "es"
+  },
+  {
+    "text": "botón de marcha la tocamos el botón de",
+    "duration": 4639,
+    "offset": 772440,
+    "lang": "es"
+  },
+  {
+    "text": "parada y bajamos",
+    "duration": 5801,
+    "offset": 774519,
+    "lang": "es"
+  },
+  {
+    "text": "la nosotros hios curva de la bomba un",
+    "duration": 5801,
+    "offset": 777079,
+    "lang": "es"
+  },
+  {
+    "text": "sea la curva de carga de H versus q la",
+    "duration": 4120,
+    "offset": 780320,
+    "lang": "es"
+  },
+  {
+    "text": "curva de la bomba",
+    "duration": 4360,
+    "offset": 782880,
+    "lang": "es"
+  },
+  {
+    "text": "dos el procedimiento es exactamente el",
+    "duration": 4959,
+    "offset": 784440,
+    "lang": "es"
+  },
+  {
+    "text": "mismo no diagramo las válvulas de manera",
+    "duration": 4200,
+    "offset": 787240,
+    "lang": "es"
+  },
+  {
+    "text": "de que quede solo conectada la bomba dos",
+    "duration": 3721,
+    "offset": 789399,
+    "lang": "es"
+  },
+  {
+    "text": "y hacemos los cinco puntos y es",
+    "duration": 3120,
+    "offset": 791440,
+    "lang": "es"
+  },
+  {
+    "text": "totalmente",
+    "duration": 4320,
+    "offset": 793120,
+    "lang": "es"
+  },
+  {
+    "text": "análogo otra práctica que nosotros",
+    "duration": 4719,
+    "offset": 794560,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos en este banco de bombas es",
+    "duration": 4079,
+    "offset": 797440,
+    "lang": "es"
+  },
+  {
+    "text": "disponer las bombas en una configuración",
+    "duration": 3081,
+    "offset": 799279,
+    "lang": "es"
+  },
+  {
+    "text": "en",
+    "duration": 3921,
+    "offset": 801519,
+    "lang": "es"
+  },
+  {
+    "text": "serie porque para que el alumno que en",
+    "duration": 5599,
+    "offset": 802360,
+    "lang": "es"
+  },
+  {
+    "text": "las materias donde estudió la teoría y",
+    "duration": 6199,
+    "offset": 805440,
+    "lang": "es"
+  },
+  {
+    "text": "el y los los procesos y y todo el",
+    "duration": 6281,
+    "offset": 807959,
+    "lang": "es"
+  },
+  {
+    "text": "funcionamiento de las bombas centrífugas",
+    "duration": 5521,
+    "offset": 811639,
+    "lang": "es"
+  },
+  {
+    "text": "lo hacía analíticamente sacaba La Curva",
+    "duration": 4680,
+    "offset": 814240,
+    "lang": "es"
+  },
+  {
+    "text": "del sistema en serie a partir de las",
+    "duration": 3960,
+    "offset": 817160,
+    "lang": "es"
+  },
+  {
+    "text": "curvas individuales dadas de las bombas",
+    "duration": 4159,
+    "offset": 818920,
+    "lang": "es"
+  },
+  {
+    "text": "dadas por El fabricante acá lo que",
+    "duration": 4519,
+    "offset": 821120,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros hacemos Es corroborar esa curva",
+    "duration": 4200,
+    "offset": 823079,
+    "lang": "es"
+  },
+  {
+    "text": "que se calcula analíticamente",
+    "duration": 3560,
+    "offset": 825639,
+    "lang": "es"
+  },
+  {
+    "text": "experimentalmente para que el alumno",
+    "duration": 5321,
+    "offset": 827279,
+    "lang": "es"
+  },
+  {
+    "text": "compare la suma de las dos curvas con la",
+    "duration": 5560,
+    "offset": 829199,
+    "lang": "es"
+  },
+  {
+    "text": "curva que saca del sistema operando de",
+    "duration": 4679,
+    "offset": 832600,
+    "lang": "es"
+  },
+  {
+    "text": "esa manera Entonces como primera medida",
+    "duration": 5361,
+    "offset": 834759,
+    "lang": "es"
+  },
+  {
+    "text": "lo que tenemos que hacer es poner la",
+    "duration": 5441,
+    "offset": 837279,
+    "lang": "es"
+  },
+  {
+    "text": "instalación para que funcione en serie Y",
+    "duration": 4680,
+    "offset": 840120,
+    "lang": "es"
+  },
+  {
+    "text": "eso lo se hace disponiendo las válvulas",
+    "duration": 3359,
+    "offset": 842720,
+    "lang": "es"
+  },
+  {
+    "text": "de manera",
+    "duration": 4159,
+    "offset": 844800,
+    "lang": "es"
+  },
+  {
+    "text": "correcta cómo va a ser en serie bueno el",
+    "duration": 6161,
+    "offset": 846079,
+    "lang": "es"
+  },
+  {
+    "text": "agua va a pasar primero por la bomba dos",
+    "duration": 6161,
+    "offset": 848959,
+    "lang": "es"
+  },
+  {
+    "text": "y luego va a ingresar por la bomba uno",
+    "duration": 5159,
+    "offset": 852240,
+    "lang": "es"
+  },
+  {
+    "text": "entonces tenemos que ver que primero la",
+    "duration": 4360,
+    "offset": 855120,
+    "lang": "es"
+  },
+  {
+    "text": "válvula de ingreso de la bomba uno esté",
+    "duration": 4161,
+    "offset": 857399,
+    "lang": "es"
+  },
+  {
+    "text": "abierta está paralela a la cañería O sea",
+    "duration": 4719,
+    "offset": 859480,
+    "lang": "es"
+  },
+  {
+    "text": "que está abierta que la",
+    "duration": 5279,
+    "offset": 861560,
+    "lang": "es"
+  },
+  {
+    "text": "descarga que no siga por la descarga",
+    "duration": 5080,
+    "offset": 864199,
+    "lang": "es"
+  },
+  {
+    "text": "natural de la bomba dos está cerrada es",
+    "duration": 4920,
+    "offset": 866839,
+    "lang": "es"
+  },
+  {
+    "text": "correcto tiene que ir por la",
+    "duration": 4881,
+    "offset": 869279,
+    "lang": "es"
+  },
+  {
+    "text": "configuración en serie acá como está",
+    "duration": 4841,
+    "offset": 871759,
+    "lang": "es"
+  },
+  {
+    "text": "cerrada la vamos a abrir siempre que",
+    "duration": 4679,
+    "offset": 874160,
+    "lang": "es"
+  },
+  {
+    "text": "esté paralelo a la cañería está abierto",
+    "duration": 3960,
+    "offset": 876600,
+    "lang": "es"
+  },
+  {
+    "text": "cuando está cruzado está",
+    "duration": 5041,
+    "offset": 878839,
+    "lang": "es"
+  },
+  {
+    "text": "cerrado vamos",
+    "duration": 3320,
+    "offset": 880560,
+    "lang": "es"
+  },
+  {
+    "text": "a",
+    "duration": 5759,
+    "offset": 886320,
+    "lang": "es"
+  },
+  {
+    "text": "cerrar la succión de la bomba",
+    "duration": 6440,
+    "offset": 888519,
+    "lang": "es"
+  },
+  {
+    "text": "uno la descarga de la bomba uno está",
+    "duration": 6361,
+    "offset": 892079,
+    "lang": "es"
+  },
+  {
+    "text": "abierta Por las dudas el manómetro de",
+    "duration": 5800,
+    "offset": 894959,
+    "lang": "es"
+  },
+  {
+    "text": "succión de la bomba 1 lo vamos a cerrar",
+    "duration": 4440,
+    "offset": 898440,
+    "lang": "es"
+  },
+  {
+    "text": "porque la presión este manómetro tiene",
+    "duration": 5281,
+    "offset": 900759,
+    "lang": "es"
+  },
+  {
+    "text": "una escala de 06 kg y la presión de",
+    "duration": 5280,
+    "offset": 902880,
+    "lang": "es"
+  },
+  {
+    "text": "salida de la bomba 1 es más alta",
+    "duration": 5400,
+    "offset": 906040,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces lo cerramos para protegerlo",
+    "duration": 6039,
+    "offset": 908160,
+    "lang": "es"
+  },
+  {
+    "text": "y esto está correctamente abierto o sea",
+    "duration": 5560,
+    "offset": 911440,
+    "lang": "es"
+  },
+  {
+    "text": "que el circuito que hace el agua es",
+    "duration": 5241,
+    "offset": 914199,
+    "lang": "es"
+  },
+  {
+    "text": "ingresa por la bomba",
+    "duration": 7160,
+    "offset": 917000,
+    "lang": "es"
+  },
+  {
+    "text": "dos esta Sale por la el arreglo en serie",
+    "duration": 9879,
+    "offset": 919440,
+    "lang": "es"
+  },
+  {
+    "text": "ingresa por la bomba uno y vuelve",
+    "duration": 8880,
+    "offset": 924160,
+    "lang": "es"
+  },
+  {
+    "text": "al tanque No ese sería",
+    "duration": 7320,
+    "offset": 929319,
+    "lang": "es"
+  },
+  {
+    "text": "la la la disposición correcta Cómo",
+    "duration": 5520,
+    "offset": 933040,
+    "lang": "es"
+  },
+  {
+    "text": "calculamos la curva de la misma manera",
+    "duration": 5361,
+    "offset": 936639,
+    "lang": "es"
+  },
+  {
+    "text": "que hicimos la bomba un con cinco puntos",
+    "duration": 5639,
+    "offset": 938560,
+    "lang": "es"
+  },
+  {
+    "text": "tomando el punto de máximo caudal que es",
+    "duration": 4399,
+    "offset": 942000,
+    "lang": "es"
+  },
+  {
+    "text": "con la máxima apertura de la válvula que",
+    "duration": 3921,
+    "offset": 944199,
+    "lang": "es"
+  },
+  {
+    "text": "eso uno lo puede ver cuando hace un",
+    "duration": 4880,
+    "offset": 946399,
+    "lang": "es"
+  },
+  {
+    "text": "gráfico de la curva de la bomba versus",
+    "duration": 5120,
+    "offset": 948120,
+    "lang": "es"
+  },
+  {
+    "text": "La Curva del sistema como cambia la",
+    "duration": 3641,
+    "offset": 951279,
+    "lang": "es"
+  },
+  {
+    "text": "curva del sistema cuando uno abre y",
+    "duration": 5279,
+    "offset": 953240,
+    "lang": "es"
+  },
+  {
+    "text": "cierra una válvula en el caso de como",
+    "duration": 5320,
+    "offset": 954920,
+    "lang": "es"
+  },
+  {
+    "text": "cambia el caudal en el caso de una boma",
+    "duration": 3800,
+    "offset": 958519,
+    "lang": "es"
+  },
+  {
+    "text": "centrífuga entonces tomamos el punto de",
+    "duration": 5440,
+    "offset": 960240,
+    "lang": "es"
+  },
+  {
+    "text": "Máximo caudal el punto de caudal cero de",
+    "duration": 5161,
+    "offset": 962319,
+    "lang": "es"
+  },
+  {
+    "text": "shatov y tres puntos en el medio el",
+    "duration": 3839,
+    "offset": 965680,
+    "lang": "es"
+  },
+  {
+    "text": "mecanismo es exactamente lo mismo lo que",
+    "duration": 5039,
+    "offset": 967480,
+    "lang": "es"
+  },
+  {
+    "text": "cambia es cómo están dispuestas las las",
+    "duration": 5601,
+    "offset": 969519,
+    "lang": "es"
+  },
+  {
+    "text": "bombas del mismo",
+    "duration": 7161,
+    "offset": 972519,
+    "lang": "es"
+  },
+  {
+    "text": "modo en este caso para encenderlo",
+    "duration": 8000,
+    "offset": 975120,
+    "lang": "es"
+  },
+  {
+    "text": "como primero ingresa por la bomba dos el",
+    "duration": 6159,
+    "offset": 979680,
+    "lang": "es"
+  },
+  {
+    "text": "fluido lo que hacemos Es levantamos la",
+    "duration": 7120,
+    "offset": 983120,
+    "lang": "es"
+  },
+  {
+    "text": "térmica prendemos primero la bomba dos",
+    "duration": 7240,
+    "offset": 985839,
+    "lang": "es"
+  },
+  {
+    "text": "y después la bomba un porque el agua",
+    "duration": 6599,
+    "offset": 990240,
+    "lang": "es"
+  },
+  {
+    "text": "pasa primero por la dos y después por la",
+    "duration": 3760,
+    "offset": 993079,
+    "lang": "es"
+  },
+  {
+    "text": "un vamos a tomar primero el punto acab",
+    "duration": 5800,
+    "offset": 999120,
+    "lang": "es"
+  },
+  {
+    "text": "al máximo nosotros lo hacemos de esa",
+    "duration": 5199,
+    "offset": 1002560,
+    "lang": "es"
+  },
+  {
+    "text": "manera pero cada alumno en general cada",
+    "duration": 5080,
+    "offset": 1004920,
+    "lang": "es"
+  },
+  {
+    "text": "grupo que viene a la planta",
+    "duration": 5880,
+    "offset": 1007759,
+    "lang": "es"
+  },
+  {
+    "text": "eh elige Con qué empezar no la idea es",
+    "duration": 6000,
+    "offset": 1010000,
+    "lang": "es"
+  },
+  {
+    "text": "que los puntos que ellos determinen sean",
+    "duration": 4560,
+    "offset": 1013639,
+    "lang": "es"
+  },
+  {
+    "text": "los más representativos de la Burga",
+    "duration": 4440,
+    "offset": 1016000,
+    "lang": "es"
+  },
+  {
+    "text": "entonces abrimos completamente la",
+    "duration": 5681,
+    "offset": 1018199,
+    "lang": "es"
+  },
+  {
+    "text": "válvula de manera de asegurarnos El que",
+    "duration": 6720,
+    "offset": 1020440,
+    "lang": "es"
+  },
+  {
+    "text": "estemos trabajando en el máximo",
+    "duration": 3280,
+    "offset": 1023880,
+    "lang": "es"
+  },
+  {
+    "text": "cudal Y en este caso para nosotros para",
+    "duration": 6160,
+    "offset": 1027799,
+    "lang": "es"
+  },
+  {
+    "text": "la configuración en serie esto es como",
+    "duration": 5880,
+    "offset": 1031880,
+    "lang": "es"
+  },
+  {
+    "text": "una caja negra esta sería nosotros",
+    "duration": 9521,
+    "offset": 1033959,
+    "lang": "es"
+  },
+  {
+    "text": "tendríamos que nuestra succión es la",
+    "duration": 5720,
+    "offset": 1037760,
+    "lang": "es"
+  },
+  {
+    "text": "entrada de la bomba dos que sería este",
+    "duration": 5761,
+    "offset": 1045079,
+    "lang": "es"
+  },
+  {
+    "text": "manómetro para nosotros el H que",
+    "duration": 5480,
+    "offset": 1051240,
+    "lang": "es"
+  },
+  {
+    "text": "calculamos del sistema en serie es la",
+    "duration": 4520,
+    "offset": 1053960,
+    "lang": "es"
+  },
+  {
+    "text": "presión de succión la leemos en el",
+    "duration": 4079,
+    "offset": 1056720,
+    "lang": "es"
+  },
+  {
+    "text": "manómetro que está al ingreso de la",
+    "duration": 6720,
+    "offset": 1058480,
+    "lang": "es"
+  },
+  {
+    "text": "bomba dos y la presión de descarga es la",
+    "duration": 8161,
+    "offset": 1060799,
+    "lang": "es"
+  },
+  {
+    "text": "salida de la bomba",
+    "duration": 3760,
+    "offset": 1065200,
+    "lang": "es"
+  },
+  {
+    "text": "uno es este que está acá o sea no nos",
+    "duration": 5841,
+    "offset": 1069039,
+    "lang": "es"
+  },
+  {
+    "text": "olvidamos de los otros manómetros porque",
+    "duration": 3880,
+    "offset": 1073039,
+    "lang": "es"
+  },
+  {
+    "text": "lo vemos como una caja negra entra por",
+    "duration": 5000,
+    "offset": 1074880,
+    "lang": "es"
+  },
+  {
+    "text": "la bomba dos y sale por la bomba",
+    "duration": 6921,
+    "offset": 1076919,
+    "lang": "es"
+  },
+  {
+    "text": "en este caso la presión del sistema",
+    "duration": 9159,
+    "offset": 1079880,
+    "lang": "es"
+  },
+  {
+    "text": "es 1 2 3 4",
+    "duration": 9640,
+    "offset": 1083840,
+    "lang": "es"
+  },
+  {
+    "text": "1,05 kil de desado o sea tenemos ya la",
+    "duration": 8561,
+    "offset": 1089039,
+    "lang": "es"
+  },
+  {
+    "text": "presión de el H de alguna manera y ahora",
+    "duration": 5679,
+    "offset": 1093480,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a calcular el caudal que se",
+    "duration": 6000,
+    "offset": 1097600,
+    "lang": "es"
+  },
+  {
+    "text": "procede igual cerramos la válvula",
+    "duration": 4441,
+    "offset": 1099159,
+    "lang": "es"
+  },
+  {
+    "text": "vemos como sube el nivel del agua",
+    "duration": 4000,
+    "offset": 1110120,
+    "lang": "es"
+  },
+  {
+    "text": "también medimos entre una distancia",
+    "duration": 4559,
+    "offset": 1112240,
+    "lang": "es"
+  },
+  {
+    "text": "conocida el tiempo que tarda en",
+    "duration": 5000,
+    "offset": 1114120,
+    "lang": "es"
+  },
+  {
+    "text": "recorrerla con la sección del tanque y",
+    "duration": 3880,
+    "offset": 1116799,
+    "lang": "es"
+  },
+  {
+    "text": "la altura sacamos el volumen Lo",
+    "duration": 3240,
+    "offset": 1119120,
+    "lang": "es"
+  },
+  {
+    "text": "dividimos por el tiempo y tenemos el",
+    "duration": 5120,
+    "offset": 1120679,
+    "lang": "es"
+  },
+  {
+    "text": "caudal ahí ya tenemos un",
+    "duration": 7679,
+    "offset": 1122360,
+    "lang": "es"
+  },
+  {
+    "text": "punto abrimos la válvula del tanque para",
+    "duration": 5961,
+    "offset": 1125799,
+    "lang": "es"
+  },
+  {
+    "text": "que no se",
+    "duration": 4601,
+    "offset": 1130039,
+    "lang": "es"
+  },
+  {
+    "text": "rebalse el",
+    "duration": 6039,
+    "offset": 1131760,
+    "lang": "es"
+  },
+  {
+    "text": "agua recorriendo todo el circuito y",
+    "duration": 5640,
+    "offset": 1134640,
+    "lang": "es"
+  },
+  {
+    "text": "sacamos segundo punto que en este caso",
+    "duration": 6281,
+    "offset": 1137799,
+    "lang": "es"
+  },
+  {
+    "text": "sería caudal cero o sea cerramos",
+    "duration": 6080,
+    "offset": 1140280,
+    "lang": "es"
+  },
+  {
+    "text": "completamente la",
+    "duration": 6240,
+    "offset": 1144080,
+    "lang": "es"
+  },
+  {
+    "text": "válvula y De igual forma tomando esto",
+    "duration": 8000,
+    "offset": 1146360,
+    "lang": "es"
+  },
+  {
+    "text": "como una caja negra leemos el manómetro",
+    "duration": 6520,
+    "offset": 1150320,
+    "lang": "es"
+  },
+  {
+    "text": "de succión de la bomba",
+    "duration": 5650,
+    "offset": 1154360,
+    "lang": "es"
+  },
+  {
+    "text": "dos es este que se encuentra",
+    "duration": 5319,
+    "offset": 1156840,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 5029,
+    "offset": 1160010,
+    "lang": "es"
+  },
+  {
+    "text": "acá y el manómetro de",
+    "duration": 7400,
+    "offset": 1162159,
+    "lang": "es"
+  },
+  {
+    "text": "descarga de la bomba un",
+    "duration": 7201,
+    "offset": 1165039,
+    "lang": "es"
+  },
+  {
+    "text": "que es en este caso acá que es la",
+    "duration": 6201,
+    "offset": 1169559,
+    "lang": "es"
+  },
+  {
+    "text": "máxima presión que va a tener el",
+    "duration": 7439,
+    "offset": 1172240,
+    "lang": "es"
+  },
+  {
+    "text": "sistema abrimos la válvula para que no",
+    "duration": 7480,
+    "offset": 1175760,
+    "lang": "es"
+  },
+  {
+    "text": "forzar equipo y ahora después lo que",
+    "duration": 5321,
+    "offset": 1179679,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos Es",
+    "duration": 4720,
+    "offset": 1183240,
+    "lang": "es"
+  },
+  {
+    "text": "tomar Tres puntos intermedios no que",
+    "duration": 5720,
+    "offset": 1185000,
+    "lang": "es"
+  },
+  {
+    "text": "sean representativos de la curva tomamos",
+    "duration": 5880,
+    "offset": 1187960,
+    "lang": "es"
+  },
+  {
+    "text": "como mínima presión de descarga 1,05 la",
+    "duration": 5560,
+    "offset": 1190720,
+    "lang": "es"
+  },
+  {
+    "text": "máxima del sistema 2.5 Bueno vamos a",
+    "duration": 7440,
+    "offset": 1193840,
+    "lang": "es"
+  },
+  {
+    "text": "tomar tres puntos intermedios no en este",
+    "duration": 8600,
+    "offset": 1196280,
+    "lang": "es"
+  },
+  {
+    "text": "caso 1 con",
+    "duration": 7840,
+    "offset": 1201280,
+    "lang": "es"
+  },
+  {
+    "text": "TR y también medimos succión descarga",
+    "duration": 8640,
+    "offset": 1204880,
+    "lang": "es"
+  },
+  {
+    "text": "cerramos la válvula tenamos el tanque",
+    "duration": 6160,
+    "offset": 1209120,
+    "lang": "es"
+  },
+  {
+    "text": "hasta",
+    "duration": 6320,
+    "offset": 1213520,
+    "lang": "es"
+  },
+  {
+    "text": "ctura midiendo una distancia",
+    "duration": 7600,
+    "offset": 1215280,
+    "lang": "es"
+  },
+  {
+    "text": "conocida y calculando el tiempo no con",
+    "duration": 5560,
+    "offset": 1219840,
+    "lang": "es"
+  },
+  {
+    "text": "un cronómetro el agua recorre esa",
+    "duration": 7760,
+    "offset": 1222880,
+    "lang": "es"
+  },
+  {
+    "text": "distancia una vez que medimos abrimos la",
+    "duration": 5240,
+    "offset": 1225400,
+    "lang": "es"
+  },
+  {
+    "text": "válvula",
+    "duration": 5159,
+    "offset": 1232000,
+    "lang": "es"
+  },
+  {
+    "text": "y con otra apertura de la válvula",
+    "duration": 8520,
+    "offset": 1233840,
+    "lang": "es"
+  },
+  {
+    "text": "obtenemos ahora un otro punto del",
+    "duration": 8801,
+    "offset": 1237159,
+    "lang": "es"
+  },
+  {
+    "text": "eh de la",
+    "duration": 3600,
+    "offset": 1242360,
+    "lang": "es"
+  },
+  {
+    "text": "curva tenemos AC cabuda al cero AC",
+    "duration": 4039,
+    "offset": 1246760,
+    "lang": "es"
+  },
+  {
+    "text": "cabuda al",
+    "duration": 3960,
+    "offset": 1249400,
+    "lang": "es"
+  },
+  {
+    "text": "máximo hicimos un punto re O sea que",
+    "duration": 4601,
+    "offset": 1250799,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos tres vamos por el cuarto punto",
+    "duration": 6040,
+    "offset": 1253360,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ponerlo ahí",
+    "duration": 6840,
+    "offset": 1255400,
+    "lang": "es"
+  },
+  {
+    "text": "estamos en una salida de 2 kg por",
+    "duration": 3920,
+    "offset": 1259400,
+    "lang": "es"
+  },
+  {
+    "text": "centímetro",
+    "duration": 3760,
+    "offset": 1262240,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado y el procedimiento otra vez lo",
+    "duration": 6000,
+    "offset": 1263320,
+    "lang": "es"
+  },
+  {
+    "text": "mismo medimos succión de la bomba dos",
+    "duration": 6440,
+    "offset": 1266000,
+    "lang": "es"
+  },
+  {
+    "text": "descarga de la bomba un ahí tenemos el H",
+    "duration": 6719,
+    "offset": 1269320,
+    "lang": "es"
+  },
+  {
+    "text": "y el caudal correspondiente punto lo",
+    "duration": 8680,
+    "offset": 1272440,
+    "lang": "es"
+  },
+  {
+    "text": "medimos de esta manera llenando el",
+    "duration": 5081,
+    "offset": 1276039,
+    "lang": "es"
+  },
+  {
+    "text": "tante a determinada altura una",
+    "duration": 6000,
+    "offset": 1283480,
+    "lang": "es"
+  },
+  {
+    "text": "modificación que seguramente haremos es",
+    "duration": 5640,
+    "offset": 1286200,
+    "lang": "es"
+  },
+  {
+    "text": "para hacer en realidad para agilizar la",
+    "duration": 4679,
+    "offset": 1289480,
+    "lang": "es"
+  },
+  {
+    "text": "práctica no para ganar tiempo es poner",
+    "duration": 5079,
+    "offset": 1291840,
+    "lang": "es"
+  },
+  {
+    "text": "un rotámetro Entonces el caudal ya es de",
+    "duration": 5201,
+    "offset": 1294159,
+    "lang": "es"
+  },
+  {
+    "text": "lectura directa no tenemos que esperar d",
+    "duration": 5081,
+    "offset": 1296919,
+    "lang": "es"
+  },
+  {
+    "text": "lenar ningún volumen ni calcular ningún",
+    "duration": 4400,
+    "offset": 1299360,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo des lenado como para sacar el",
+    "duration": 6440,
+    "offset": 1302000,
+    "lang": "es"
+  },
+  {
+    "text": "caudal no buo una vez que medimos la el",
+    "duration": 6799,
+    "offset": 1303760,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo que recorre launa distancia",
+    "duration": 3040,
+    "offset": 1308440,
+    "lang": "es"
+  },
+  {
+    "text": "abrimos la",
+    "duration": 3281,
+    "offset": 1310559,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3920,
+    "offset": 1311480,
+    "lang": "es"
+  },
+  {
+    "text": "válvula",
+    "duration": 6680,
+    "offset": 1313840,
+    "lang": "es"
+  },
+  {
+    "text": "y determinamos otro punto",
+    "duration": 5120,
+    "offset": 1315400,
+    "lang": "es"
+  },
+  {
+    "text": "operativo cerrando vamos a cerrar la",
+    "duration": 5039,
+    "offset": 1321120,
+    "lang": "es"
+  },
+  {
+    "text": "válvula hasta encontrar otro punto",
+    "duration": 6360,
+    "offset": 1324240,
+    "lang": "es"
+  },
+  {
+    "text": "intermedio que sería 21 2 con3 2 kg",
+    "duration": 7081,
+    "offset": 1326159,
+    "lang": "es"
+  },
+  {
+    "text": "Enton tenemos presión de succión de la",
+    "duration": 4720,
+    "offset": 1330600,
+    "lang": "es"
+  },
+  {
+    "text": "bomba dos presión de descarga de la",
+    "duration": 5039,
+    "offset": 1333240,
+    "lang": "es"
+  },
+  {
+    "text": "bomba un ese me da el H del serie para",
+    "duration": 6080,
+    "offset": 1335320,
+    "lang": "es"
+  },
+  {
+    "text": "este caudal para determinar el caudal",
+    "duration": 6121,
+    "offset": 1338279,
+    "lang": "es"
+  },
+  {
+    "text": "cerramos",
+    "duration": 3000,
+    "offset": 1341400,
+    "lang": "es"
+  },
+  {
+    "text": "acá también como el caudal es es",
+    "duration": 7000,
+    "offset": 1349559,
+    "lang": "es"
+  },
+  {
+    "text": "bajo es bastante lento el llenado del",
+    "duration": 5319,
+    "offset": 1353720,
+    "lang": "es"
+  },
+  {
+    "text": "tanque por eso a veces los alumnos les",
+    "duration": 3921,
+    "offset": 1356559,
+    "lang": "es"
+  },
+  {
+    "text": "decimos que tomen distancias más",
+    "duration": 4000,
+    "offset": 1359039,
+    "lang": "es"
+  },
+  {
+    "text": "pequeñas que sean representativas pero",
+    "duration": 6040,
+    "offset": 1360480,
+    "lang": "es"
+  },
+  {
+    "text": "más pequeñas medimos ese tiempo y una",
+    "duration": 4961,
+    "offset": 1363039,
+    "lang": "es"
+  },
+  {
+    "text": "vez que",
+    "duration": 5080,
+    "offset": 1366520,
+    "lang": "es"
+  },
+  {
+    "text": "medimos abrimos",
+    "duration": 6880,
+    "offset": 1368000,
+    "lang": "es"
+  },
+  {
+    "text": "la como ya tenemos los cinco puntos lo",
+    "duration": 6959,
+    "offset": 1371600,
+    "lang": "es"
+  },
+  {
+    "text": "que vamos a hacer es Apagar las bombas",
+    "duration": 6799,
+    "offset": 1374880,
+    "lang": "es"
+  },
+  {
+    "text": "con los botones de",
+    "duration": 8081,
+    "offset": 1378559,
+    "lang": "es"
+  },
+  {
+    "text": "eh parado tanto y paramos primero la",
+    "duration": 6360,
+    "offset": 1381679,
+    "lang": "es"
+  },
+  {
+    "text": "bomba",
+    "duration": 6360,
+    "offset": 1386640,
+    "lang": "es"
+  },
+  {
+    "text": "uno y luego la bomba",
+    "duration": 4961,
+    "offset": 1388039,
+    "lang": "es"
+  },
+  {
+    "text": "dos la última práctica que nos queda",
+    "duration": 4960,
+    "offset": 1394640,
+    "lang": "es"
+  },
+  {
+    "text": "hacer o sea la de de lo que es el banco",
+    "duration": 3679,
+    "offset": 1397360,
+    "lang": "es"
+  },
+  {
+    "text": "de bombas centrífugas es la",
+    "duration": 4319,
+    "offset": 1399600,
+    "lang": "es"
+  },
+  {
+    "text": "configuración en paralelo de la foma que",
+    "duration": 8880,
+    "offset": 1401039,
+    "lang": "es"
+  },
+  {
+    "text": "también para eso lo que vamos a hacer es",
+    "duration": 6000,
+    "offset": 1403919,
+    "lang": "es"
+  },
+  {
+    "text": "configurar el sistema mediante la",
+    "duration": 5680,
+    "offset": 1410440,
+    "lang": "es"
+  },
+  {
+    "text": "posición de las válvulas para que en el",
+    "duration": 5881,
+    "offset": 1413559,
+    "lang": "es"
+  },
+  {
+    "text": "Paralelo las dos bombas succionan agua",
+    "duration": 5159,
+    "offset": 1416120,
+    "lang": "es"
+  },
+  {
+    "text": "al mismo tiempo y tienen una descarga",
+    "duration": 5080,
+    "offset": 1419440,
+    "lang": "es"
+  },
+  {
+    "text": "conjunta no entonces tienen que estar",
+    "duration": 5640,
+    "offset": 1421279,
+    "lang": "es"
+  },
+  {
+    "text": "las dos válvulas de ingreso de las",
+    "duration": 4840,
+    "offset": 1424520,
+    "lang": "es"
+  },
+  {
+    "text": "bombas abiertas en el caso de la bomba",
+    "duration": 5081,
+    "offset": 1426919,
+    "lang": "es"
+  },
+  {
+    "text": "dos ya está abierta en el caso de la",
+    "duration": 4520,
+    "offset": 1429360,
+    "lang": "es"
+  },
+  {
+    "text": "bomba una está cerrada entonces la vamos",
+    "duration": 3960,
+    "offset": 1432000,
+    "lang": "es"
+  },
+  {
+    "text": "a",
+    "duration": 2080,
+    "offset": 1433880,
+    "lang": "es"
+  },
+  {
+    "text": "abrir vamos a cerrar la cañería que",
+    "duration": 7640,
+    "offset": 1436000,
+    "lang": "es"
+  },
+  {
+    "text": "permite tener el sistema en serie y la",
+    "duration": 5801,
+    "offset": 1439799,
+    "lang": "es"
+  },
+  {
+    "text": "descarga de la bomba uno está abierta",
+    "duration": 4320,
+    "offset": 1443640,
+    "lang": "es"
+  },
+  {
+    "text": "esto es",
+    "duration": 2360,
+    "offset": 1445600,
+    "lang": "es"
+  },
+  {
+    "text": "correcto y vamos a",
+    "duration": 7000,
+    "offset": 1448000,
+    "lang": "es"
+  },
+  {
+    "text": "abrir la descarga de la bomba",
+    "duration": 4240,
+    "offset": 1450760,
+    "lang": "es"
+  },
+  {
+    "text": "dos el procedimiento es Exactamente",
+    "duration": 7319,
+    "offset": 1455720,
+    "lang": "es"
+  },
+  {
+    "text": "igual al a los anteriores descriptos lo",
+    "duration": 6559,
+    "offset": 1459360,
+    "lang": "es"
+  },
+  {
+    "text": "que vamos a hacer es en este caso como",
+    "duration": 4841,
+    "offset": 1463039,
+    "lang": "es"
+  },
+  {
+    "text": "las dos bombas toman agua al mismo",
+    "duration": 5760,
+    "offset": 1465919,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo eh las podemos arrancar al",
+    "duration": 6519,
+    "offset": 1467880,
+    "lang": "es"
+  },
+  {
+    "text": "unísono no no hace falta no hay una de",
+    "duration": 6041,
+    "offset": 1471679,
+    "lang": "es"
+  },
+  {
+    "text": "alguna manera una obligatoriedad o o",
+    "duration": 5841,
+    "offset": 1474399,
+    "lang": "es"
+  },
+  {
+    "text": "algunas consideraciones de prender una y",
+    "duration": 4319,
+    "offset": 1477720,
+    "lang": "es"
+  },
+  {
+    "text": "después la otra no",
+    "duration": 6760,
+    "offset": 1480240,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces vamos a abrir y vamos a tener",
+    "duration": 10201,
+    "offset": 1482039,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a prender la bomba uno y la bomba",
+    "duration": 5240,
+    "offset": 1487000,
+    "lang": "es"
+  },
+  {
+    "text": "dos nos fijamos que estén funcionando",
+    "duration": 5920,
+    "offset": 1492600,
+    "lang": "es"
+  },
+  {
+    "text": "siempre hay que mirar los manómetros",
+    "duration": 4841,
+    "offset": 1495919,
+    "lang": "es"
+  },
+  {
+    "text": "ver si la bomba está funcionando y está",
+    "duration": 4480,
+    "offset": 1498520,
+    "lang": "es"
+  },
+  {
+    "text": "fendo agua el manómetro va a marcar una",
+    "duration": 4880,
+    "offset": 1500760,
+    "lang": "es"
+  },
+  {
+    "text": "presión determinada para hacer la curva",
+    "duration": 5440,
+    "offset": 1503000,
+    "lang": "es"
+  },
+  {
+    "text": "del Paralelo que también la idea es que",
+    "duration": 5279,
+    "offset": 1505640,
+    "lang": "es"
+  },
+  {
+    "text": "el alumno en esta práctica Qué hace como",
+    "duration": 4359,
+    "offset": 1508440,
+    "lang": "es"
+  },
+  {
+    "text": "hacía en las materias anteriores donde",
+    "duration": 4360,
+    "offset": 1510919,
+    "lang": "es"
+  },
+  {
+    "text": "veía todo este tema teóricamente antes",
+    "duration": 4321,
+    "offset": 1512799,
+    "lang": "es"
+  },
+  {
+    "text": "que hacía tomaba las curvas de cada",
+    "duration": 4681,
+    "offset": 1515279,
+    "lang": "es"
+  },
+  {
+    "text": "bomba individualmente Y en este caso la",
+    "duration": 4799,
+    "offset": 1517120,
+    "lang": "es"
+  },
+  {
+    "text": "sumaba horizontalmente para sacar la",
+    "duration": 4599,
+    "offset": 1519960,
+    "lang": "es"
+  },
+  {
+    "text": "curva del paralelo en este caso lo que",
+    "duration": 4801,
+    "offset": 1521919,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos nosotros es determinar",
+    "duration": 5000,
+    "offset": 1524559,
+    "lang": "es"
+  },
+  {
+    "text": "experimentalmente la curva del paralelo",
+    "duration": 5520,
+    "offset": 1526720,
+    "lang": "es"
+  },
+  {
+    "text": "y el alumno en la en el informe lo que",
+    "duration": 4961,
+    "offset": 1529559,
+    "lang": "es"
+  },
+  {
+    "text": "hace es compararla con la que él Calcula",
+    "duration": 4439,
+    "offset": 1532240,
+    "lang": "es"
+  },
+  {
+    "text": "analíticamente entonces acá también",
+    "duration": 5720,
+    "offset": 1534520,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a sacar cinco puntos a máximo",
+    "duration": 5240,
+    "offset": 1536679,
+    "lang": "es"
+  },
+  {
+    "text": "caudal a caudal",
+    "duration": 4439,
+    "offset": 1540240,
+    "lang": "es"
+  },
+  {
+    "text": "cero en este caso lo que nosotros vamos",
+    "duration": 4640,
+    "offset": 1541919,
+    "lang": "es"
+  },
+  {
+    "text": "a tener vamos a trabajar",
+    "duration": 4321,
+    "offset": 1544679,
+    "lang": "es"
+  },
+  {
+    "text": "eh En realidad no vamos a trabajar con",
+    "duration": 5480,
+    "offset": 1546559,
+    "lang": "es"
+  },
+  {
+    "text": "caudal cero porque estas bombas son de",
+    "duration": 4200,
+    "offset": 1549000,
+    "lang": "es"
+  },
+  {
+    "text": "diferente",
+    "duration": 4401,
+    "offset": 1552039,
+    "lang": "es"
+  },
+  {
+    "text": "tamaño son de diferente tamaño y la",
+    "duration": 5320,
+    "offset": 1553200,
+    "lang": "es"
+  },
+  {
+    "text": "instalación",
+    "duration": 4920,
+    "offset": 1556440,
+    "lang": "es"
+  },
+  {
+    "text": "no tiene una válvula",
+    "duration": 6759,
+    "offset": 1558520,
+    "lang": "es"
+  },
+  {
+    "text": "antirretorno de manera que a caudales",
+    "duration": 4720,
+    "offset": 1561360,
+    "lang": "es"
+  },
+  {
+    "text": "muy",
+    "duration": 3640,
+    "offset": 1565279,
+    "lang": "es"
+  },
+  {
+    "text": "bajito no ocurra que una una de las",
+    "duration": 5120,
+    "offset": 1566080,
+    "lang": "es"
+  },
+  {
+    "text": "bombas la bomba másica tenga flujo por",
+    "duration": 5880,
+    "offset": 1568919,
+    "lang": "es"
+  },
+  {
+    "text": "retroceso entonces lo que hacemos es el",
+    "duration": 6359,
+    "offset": 1571200,
+    "lang": "es"
+  },
+  {
+    "text": "punto llamémosle de menor caudal no es",
+    "duration": 6161,
+    "offset": 1574799,
+    "lang": "es"
+  },
+  {
+    "text": "cero sino es un punto tal que nos",
+    "duration": 5961,
+    "offset": 1577559,
+    "lang": "es"
+  },
+  {
+    "text": "aseguramos que no exista flujo en",
+    "duration": 5719,
+    "offset": 1580960,
+    "lang": "es"
+  },
+  {
+    "text": "retroceso para la bomba de menor tamaño",
+    "duration": 5600,
+    "offset": 1583520,
+    "lang": "es"
+  },
+  {
+    "text": "en este caso si un la presión de",
+    "duration": 5561,
+    "offset": 1586679,
+    "lang": "es"
+  },
+  {
+    "text": "descarga en los manómetros para el punto",
+    "duration": 5000,
+    "offset": 1589120,
+    "lang": "es"
+  },
+  {
+    "text": "de Máximo caudal puede observar que en",
+    "duration": 5039,
+    "offset": 1592240,
+    "lang": "es"
+  },
+  {
+    "text": "este caso estamos en el orden de 07",
+    "duration": 6439,
+    "offset": 1594120,
+    "lang": "es"
+  },
+  {
+    "text": "aproximadamente entre 07 Y 075 tanto",
+    "duration": 4760,
+    "offset": 1597279,
+    "lang": "es"
+  },
+  {
+    "text": "como para la bomba",
+    "duration": 5561,
+    "offset": 1600559,
+    "lang": "es"
+  },
+  {
+    "text": "1 como para la bomba",
+    "duration": 4081,
+    "offset": 1602039,
+    "lang": "es"
+  },
+  {
+    "text": "2 y después nosotros tenemos un",
+    "duration": 5041,
+    "offset": 1608159,
+    "lang": "es"
+  },
+  {
+    "text": "manómetro",
+    "duration": 5920,
+    "offset": 1611320,
+    "lang": "es"
+  },
+  {
+    "text": "eno que es más baja la medición es de",
+    "duration": 6440,
+    "offset": 1613200,
+    "lang": "es"
+  },
+  {
+    "text": "casi 06",
+    "duration": 5760,
+    "offset": 1617240,
+    "lang": "es"
+  },
+  {
+    "text": "porque desde la salida de las bomas",
+    "duration": 6000,
+    "offset": 1619640,
+    "lang": "es"
+  },
+  {
+    "text": "hasta el nodo tenemos toda esta cañería",
+    "duration": 4880,
+    "offset": 1623000,
+    "lang": "es"
+  },
+  {
+    "text": "todo este tramo de cañería que genera",
+    "duration": 3720,
+    "offset": 1625640,
+    "lang": "es"
+  },
+  {
+    "text": "una pérdida de carga que hace que la",
+    "duration": 4560,
+    "offset": 1627880,
+    "lang": "es"
+  },
+  {
+    "text": "presión sea menor no eh los alumnos en",
+    "duration": 4960,
+    "offset": 1629360,
+    "lang": "es"
+  },
+  {
+    "text": "la práctica lo que hacen es medir la",
+    "duration": 5320,
+    "offset": 1632440,
+    "lang": "es"
+  },
+  {
+    "text": "presión en el nodo eh Por lo cual cuando",
+    "duration": 6120,
+    "offset": 1634320,
+    "lang": "es"
+  },
+  {
+    "text": "hacen la comparación en el trabajo",
+    "duration": 4159,
+    "offset": 1637760,
+    "lang": "es"
+  },
+  {
+    "text": "práctico que entregan la crua",
+    "duration": 3440,
+    "offset": 1640440,
+    "lang": "es"
+  },
+  {
+    "text": "experimental les da más abajo que la",
+    "duration": 4521,
+    "offset": 1641919,
+    "lang": "es"
+  },
+  {
+    "text": "curva teórica No la que se hacen a",
+    "duration": 4519,
+    "offset": 1643880,
+    "lang": "es"
+  },
+  {
+    "text": "partir de las bomas individuales pero",
+    "duration": 4560,
+    "offset": 1646440,
+    "lang": "es"
+  },
+  {
+    "text": "fundamentalmente por el tramo de cañería",
+    "duration": 4601,
+    "offset": 1648399,
+    "lang": "es"
+  },
+  {
+    "text": "que hay desde la salida de la bomba",
+    "duration": 4960,
+    "offset": 1651000,
+    "lang": "es"
+  },
+  {
+    "text": "hasta la medición en el no Entonces para",
+    "duration": 5200,
+    "offset": 1653000,
+    "lang": "es"
+  },
+  {
+    "text": "el primer punto que pusimos en caudal",
+    "duration": 5480,
+    "offset": 1655960,
+    "lang": "es"
+  },
+  {
+    "text": "máximo tenemos la presión de succión de",
+    "duration": 5120,
+    "offset": 1658200,
+    "lang": "es"
+  },
+  {
+    "text": "ambas bombas le hemos el manómetro de",
+    "duration": 4079,
+    "offset": 1661440,
+    "lang": "es"
+  },
+  {
+    "text": "succión que es el mismo para ambas",
+    "duration": 7079,
+    "offset": 1663320,
+    "lang": "es"
+  },
+  {
+    "text": "bombas y la presión en el nodo que sería",
+    "duration": 6880,
+    "offset": 1665519,
+    "lang": "es"
+  },
+  {
+    "text": "también lo vemos como una caja",
+    "duration": 5760,
+    "offset": 1670399,
+    "lang": "es"
+  },
+  {
+    "text": "negra Cómo medimos el cud del mismo modo",
+    "duration": 6760,
+    "offset": 1672399,
+    "lang": "es"
+  },
+  {
+    "text": "cerramos",
+    "duration": 3000,
+    "offset": 1676159,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 2279,
+    "offset": 1679640,
+    "lang": "es"
+  },
+  {
+    "text": "válvula y medimos entre una distancia",
+    "duration": 5600,
+    "offset": 1687120,
+    "lang": "es"
+  },
+  {
+    "text": "conocida el tiempo con un cronómetro que",
+    "duration": 4921,
+    "offset": 1690039,
+    "lang": "es"
+  },
+  {
+    "text": "tarda en recorrer el agua esa",
+    "duration": 4760,
+    "offset": 1692720,
+    "lang": "es"
+  },
+  {
+    "text": "distancia es análogo al llenado de un",
+    "duration": 7040,
+    "offset": 1694960,
+    "lang": "es"
+  },
+  {
+    "text": "volumen y una vez queos",
+    "duration": 4520,
+    "offset": 1697480,
+    "lang": "es"
+  },
+  {
+    "text": "los otros cinco puntos cómo los",
+    "duration": 4880,
+    "offset": 1708440,
+    "lang": "es"
+  },
+  {
+    "text": "obtenemos y también regulando con la",
+    "duration": 6559,
+    "offset": 1710240,
+    "lang": "es"
+  },
+  {
+    "text": "válvula de manera de",
+    "duration": 3479,
+    "offset": 1713320,
+    "lang": "es"
+  },
+  {
+    "text": "obtener distintas presiones que nos",
+    "duration": 8241,
+    "offset": 1717519,
+    "lang": "es"
+  },
+  {
+    "text": "permitan obtener la cruda lo más",
+    "duration": 6560,
+    "offset": 1721200,
+    "lang": "es"
+  },
+  {
+    "text": "representativamente",
+    "duration": 5399,
+    "offset": 1725760,
+    "lang": "es"
+  },
+  {
+    "text": "075 vamos a trabajar Tenemos uno con uno",
+    "duration": 4480,
+    "offset": 1727760,
+    "lang": "es"
+  },
+  {
+    "text": "en este",
+    "duration": 3880,
+    "offset": 1731159,
+    "lang": "es"
+  },
+  {
+    "text": "caso por ahí podemos determinar menos",
+    "duration": 5039,
+    "offset": 1732240,
+    "lang": "es"
+  },
+  {
+    "text": "puntos no cinco porque no vamos a cerrar",
+    "duration": 5081,
+    "offset": 1735039,
+    "lang": "es"
+  },
+  {
+    "text": "completamente la bara otra vez el",
+    "duration": 5681,
+    "offset": 1737279,
+    "lang": "es"
+  },
+  {
+    "text": "procedimiento es el mismo medimos la",
+    "duration": 6000,
+    "offset": 1740120,
+    "lang": "es"
+  },
+  {
+    "text": "succión que es la misma y la descarga en",
+    "duration": 4120,
+    "offset": 1742960,
+    "lang": "es"
+  },
+  {
+    "text": "el",
+    "duration": 3919,
+    "offset": 1746120,
+    "lang": "es"
+  },
+  {
+    "text": "nodo ahí nos da el H del segundo punto",
+    "duration": 6880,
+    "offset": 1747080,
+    "lang": "es"
+  },
+  {
+    "text": "para medir el caudal cerramos la",
+    "duration": 3921,
+    "offset": 1750039,
+    "lang": "es"
+  },
+  {
+    "text": "válvula y medimos en una distancia",
+    "duration": 9479,
+    "offset": 1760080,
+    "lang": "es"
+  },
+  {
+    "text": "conocida el tiempo que tarda en recorrer",
+    "duration": 9000,
+    "offset": 1764600,
+    "lang": "es"
+  },
+  {
+    "text": "y así lo hacemos unas dos o tres",
+    "duration": 8360,
+    "offset": 1769559,
+    "lang": "es"
+  },
+  {
+    "text": "veces abrimos la válvula del tanque de",
+    "duration": 5880,
+    "offset": 1773600,
+    "lang": "es"
+  },
+  {
+    "text": "manera",
+    "duration": 4201,
+    "offset": 1777919,
+    "lang": "es"
+  },
+  {
+    "text": "que habitual",
+    "duration": 6760,
+    "offset": 1779480,
+    "lang": "es"
+  },
+  {
+    "text": "y cerramos través la válvula para",
+    "duration": 7399,
+    "offset": 1782120,
+    "lang": "es"
+  },
+  {
+    "text": "obtener otro punto que en este caso",
+    "duration": 5000,
+    "offset": 1786240,
+    "lang": "es"
+  },
+  {
+    "text": "sería",
+    "duration": 5721,
+    "offset": 1789519,
+    "lang": "es"
+  },
+  {
+    "text": "un con 15 en el Paralelo en general el",
+    "duration": 5760,
+    "offset": 1791240,
+    "lang": "es"
+  },
+  {
+    "text": "sistema nos permite menos de cinco",
+    "duration": 4880,
+    "offset": 1795240,
+    "lang": "es"
+  },
+  {
+    "text": "puntos eh igual",
+    "duration": 6679,
+    "offset": 1797000,
+    "lang": "es"
+  },
+  {
+    "text": "succión y descarga que lo medimos en el",
+    "duration": 7320,
+    "offset": 1800120,
+    "lang": "es"
+  },
+  {
+    "text": "n yo miro el el manómetro de la salida",
+    "duration": 5441,
+    "offset": 1803679,
+    "lang": "es"
+  },
+  {
+    "text": "de las bombas porque los tengo cerca de",
+    "duration": 3719,
+    "offset": 1807440,
+    "lang": "es"
+  },
+  {
+    "text": "la válvula para darme una idea no pero",
+    "duration": 5600,
+    "offset": 1809120,
+    "lang": "es"
+  },
+  {
+    "text": "el que medimos para la para la curva es",
+    "duration": 7041,
+    "offset": 1811159,
+    "lang": "es"
+  },
+  {
+    "text": "el del nodo y Esto me da",
+    "duration": 3480,
+    "offset": 1814720,
+    "lang": "es"
+  },
+  {
+    "text": "1,05 medimos el",
+    "duration": 4040,
+    "offset": 1819080,
+    "lang": "es"
+  },
+  {
+    "text": "caudal",
+    "duration": 6321,
+    "offset": 1823399,
+    "lang": "es"
+  },
+  {
+    "text": "cerramos y",
+    "duration": 6679,
+    "offset": 1825880,
+    "lang": "es"
+  },
+  {
+    "text": "medimos Cuánto tarda en recorrer una",
+    "duration": 5559,
+    "offset": 1829720,
+    "lang": "es"
+  },
+  {
+    "text": "determinada",
+    "duration": 2720,
+    "offset": 1832559,
+    "lang": "es"
+  },
+  {
+    "text": "distancia",
+    "duration": 6560,
+    "offset": 1838320,
+    "lang": "es"
+  },
+  {
+    "text": "bueno abrimos",
+    "duration": 4280,
+    "offset": 1840600,
+    "lang": "es"
+  },
+  {
+    "text": "vula y con esto ya tenemos los puntos",
+    "duration": 5760,
+    "offset": 1845039,
+    "lang": "es"
+  },
+  {
+    "text": "necesarios más no nos permite el sistema",
+    "duration": 6959,
+    "offset": 1848320,
+    "lang": "es"
+  },
+  {
+    "text": "para obtener nuestra Curva del",
+    "duration": 7801,
+    "offset": 1850799,
+    "lang": "es"
+  },
+  {
+    "text": "paralo una vez que lo medimos",
+    "duration": 6721,
+    "offset": 1855279,
+    "lang": "es"
+  },
+  {
+    "text": "apagamos las gombas en este caso es",
+    "duration": 8640,
+    "offset": 1858600,
+    "lang": "es"
+  },
+  {
+    "text": "indistinto apagar la otra primero",
+    "duration": 5240,
+    "offset": 1862000,
+    "lang": "es"
+  },
+  {
+    "text": "y acá finaliza lo que Nosotros le",
+    "duration": 5039,
+    "offset": 1867760,
+    "lang": "es"
+  },
+  {
+    "text": "llamamos el trabajo práctico de bombas 1",
+    "duration": 5240,
+    "offset": 1870399,
+    "lang": "es"
+  },
+  {
+    "text": "que es las curvas individuales de cada",
+    "duration": 4880,
+    "offset": 1872799,
+    "lang": "es"
+  },
+  {
+    "text": "bomba de las dos bombas que tenemos con",
+    "duration": 4400,
+    "offset": 1875639,
+    "lang": "es"
+  },
+  {
+    "text": "distinto diámetro de impulsor su arreglo",
+    "duration": 5240,
+    "offset": 1877679,
+    "lang": "es"
+  },
+  {
+    "text": "en serie y en",
+    "duration": 5000,
+    "offset": 1880039,
+    "lang": "es"
+  },
+  {
+    "text": "paralelo otra de las prácticas que",
+    "duration": 5480,
+    "offset": 1882919,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos en la materia es práctica de",
+    "duration": 5640,
+    "offset": 1885039,
+    "lang": "es"
+  },
+  {
+    "text": "intercambiador de calor donde lo que",
+    "duration": 4640,
+    "offset": 1888399,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos Es calcular el u el coeficiente",
+    "duration": 4521,
+    "offset": 1890679,
+    "lang": "es"
+  },
+  {
+    "text": "global de transferencia de calor de",
+    "duration": 5120,
+    "offset": 1893039,
+    "lang": "es"
+  },
+  {
+    "text": "manera experimental para eso nosotros",
+    "duration": 4920,
+    "offset": 1895200,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos un intercambiador de calor de",
+    "duration": 5841,
+    "offset": 1898159,
+    "lang": "es"
+  },
+  {
+    "text": "placas que bueno en este caso no justo",
+    "duration": 5519,
+    "offset": 1900120,
+    "lang": "es"
+  },
+  {
+    "text": "un alumno que estaba trabajando en una",
+    "duration": 4000,
+    "offset": 1904000,
+    "lang": "es"
+  },
+  {
+    "text": "empresa que lo fabrica nos gestionó La",
+    "duration": 5241,
+    "offset": 1905639,
+    "lang": "es"
+  },
+  {
+    "text": "donación y por eso lo tenemos",
+    "duration": 8120,
+    "offset": 1908000,
+    "lang": "es"
+  },
+  {
+    "text": "instalado eh lo que hacemos Es eh el",
+    "duration": 7600,
+    "offset": 1910880,
+    "lang": "es"
+  },
+  {
+    "text": "intercambiador nosotros tenemos todo el",
+    "duration": 3799,
+    "offset": 1916120,
+    "lang": "es"
+  },
+  {
+    "text": "detalle toda la especificación del",
+    "duration": 3600,
+    "offset": 1918480,
+    "lang": "es"
+  },
+  {
+    "text": "número de placas el área de intercambio",
+    "duration": 5521,
+    "offset": 1919919,
+    "lang": "es"
+  },
+  {
+    "text": "eso es dato lo tiene la de alguna manera",
+    "duration": 7719,
+    "offset": 1922080,
+    "lang": "es"
+  },
+  {
+    "text": "es información que entrega El",
+    "duration": 6920,
+    "offset": 1925440,
+    "lang": "es"
+  },
+  {
+    "text": "fabricante y lo que nosotros hacemos en",
+    "duration": 3801,
+    "offset": 1929799,
+    "lang": "es"
+  },
+  {
+    "text": "la práctica",
+    "duration": 4559,
+    "offset": 1932360,
+    "lang": "es"
+  },
+  {
+    "text": "es como fluido caliente lo que hacemos",
+    "duration": 5840,
+    "offset": 1933600,
+    "lang": "es"
+  },
+  {
+    "text": "Es inyectar vapor al intercambiador",
+    "duration": 4841,
+    "offset": 1936919,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos una Caldera fuera del",
+    "duration": 5440,
+    "offset": 1939440,
+    "lang": "es"
+  },
+  {
+    "text": "edificio una Caldera de alta presión que",
+    "duration": 6519,
+    "offset": 1941760,
+    "lang": "es"
+  },
+  {
+    "text": "tiene regulada la presión en 25 kos",
+    "duration": 4960,
+    "offset": 1944880,
+    "lang": "es"
+  },
+  {
+    "text": "aproximadamente",
+    "duration": 4041,
+    "offset": 1948279,
+    "lang": "es"
+  },
+  {
+    "text": "y viene por esta cañería que está en",
+    "duration": 3920,
+    "offset": 1949840,
+    "lang": "es"
+  },
+  {
+    "text": "parte",
+    "duration": 5599,
+    "offset": 1952320,
+    "lang": "es"
+  },
+  {
+    "text": "aislada y el el fluido frío lo que",
+    "duration": 7399,
+    "offset": 1953760,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos Es usar el agua que tenemos en",
+    "duration": 6000,
+    "offset": 1957919,
+    "lang": "es"
+  },
+  {
+    "text": "el tanque de banco de bombas lo que",
+    "duration": 5760,
+    "offset": 1961159,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos Es con la bomba uno que fue la",
+    "duration": 5000,
+    "offset": 1963919,
+    "lang": "es"
+  },
+  {
+    "text": "que caracterizamos en la práctica de",
+    "duration": 4480,
+    "offset": 1966919,
+    "lang": "es"
+  },
+  {
+    "text": "banco de",
+    "duration": 6281,
+    "offset": 1968919,
+    "lang": "es"
+  },
+  {
+    "text": "bombas lo que hacemos Es hacer circular",
+    "duration": 7081,
+    "offset": 1971399,
+    "lang": "es"
+  },
+  {
+    "text": "el fluido frío o sea el fluido sale de",
+    "duration": 7439,
+    "offset": 1975200,
+    "lang": "es"
+  },
+  {
+    "text": "la bomba uno en vez de ir al tanque lo",
+    "duration": 6880,
+    "offset": 1978480,
+    "lang": "es"
+  },
+  {
+    "text": "que hacemos Es cerrar la válvula sigue",
+    "duration": 5721,
+    "offset": 1982639,
+    "lang": "es"
+  },
+  {
+    "text": "por esta válvula lateral que",
+    "duration": 5679,
+    "offset": 1985360,
+    "lang": "es"
+  },
+  {
+    "text": "alimenta al intercambiador de calor de",
+    "duration": 5559,
+    "offset": 1988360,
+    "lang": "es"
+  },
+  {
+    "text": "este lado se ve mejor no sea",
+    "duration": 6321,
+    "offset": 1991039,
+    "lang": "es"
+  },
+  {
+    "text": "mejor Esa es la cañería de salida de la",
+    "duration": 6720,
+    "offset": 1993919,
+    "lang": "es"
+  },
+  {
+    "text": "bomba un una vez que llega al nodo en",
+    "duration": 5799,
+    "offset": 1997360,
+    "lang": "es"
+  },
+  {
+    "text": "vez de ir al tanque lo que hace es venir",
+    "duration": 5321,
+    "offset": 2000639,
+    "lang": "es"
+  },
+  {
+    "text": "por esta cañería que alimenta al",
+    "duration": 4921,
+    "offset": 2003159,
+    "lang": "es"
+  },
+  {
+    "text": "intercambiador O sea que este sería una",
+    "duration": 3679,
+    "offset": 2005960,
+    "lang": "es"
+  },
+  {
+    "text": "con un intercambiador donde el fluido",
+    "duration": 4920,
+    "offset": 2008080,
+    "lang": "es"
+  },
+  {
+    "text": "caliente es vapor y el fluido frío es",
+    "duration": 5721,
+    "offset": 2009639,
+    "lang": "es"
+  },
+  {
+    "text": "agua",
+    "duration": 6080,
+    "offset": 2013000,
+    "lang": "es"
+  },
+  {
+    "text": "eh Qué mediciones realizamos bueno",
+    "duration": 6600,
+    "offset": 2015360,
+    "lang": "es"
+  },
+  {
+    "text": "realizamos temperaturas temperaturas de",
+    "duration": 5839,
+    "offset": 2019080,
+    "lang": "es"
+  },
+  {
+    "text": "entrada y temperaturas de salida en este",
+    "duration": 7719,
+    "offset": 2021960,
+    "lang": "es"
+  },
+  {
+    "text": "caso acá podemos ver en este la",
+    "duration": 8120,
+    "offset": 2024919,
+    "lang": "es"
+  },
+  {
+    "text": "temperatura de ingreso del fluido",
+    "duration": 5960,
+    "offset": 2029679,
+    "lang": "es"
+  },
+  {
+    "text": "frío esta cañería que está acá es la",
+    "duration": 6480,
+    "offset": 2033039,
+    "lang": "es"
+  },
+  {
+    "text": "salida del fluido frío que se calentó en",
+    "duration": 6520,
+    "offset": 2035639,
+    "lang": "es"
+  },
+  {
+    "text": "este caso acá leemos la temperatura de",
+    "duration": 4160,
+    "offset": 2039519,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 6240,
+    "offset": 2042159,
+    "lang": "es"
+  },
+  {
+    "text": "salida y la salida del fluido frío",
+    "duration": 7400,
+    "offset": 2043679,
+    "lang": "es"
+  },
+  {
+    "text": "llamémosle calentado puede o retornar al",
+    "duration": 4401,
+    "offset": 2048399,
+    "lang": "es"
+  },
+  {
+    "text": "tanque tenemos la posibilidad de",
+    "duration": 3840,
+    "offset": 2051079,
+    "lang": "es"
+  },
+  {
+    "text": "abriendo esta válvula que retorne al",
+    "duration": 5359,
+    "offset": 2052800,
+    "lang": "es"
+  },
+  {
+    "text": "tanque o directamente abriendo esta",
+    "duration": 6680,
+    "offset": 2054919,
+    "lang": "es"
+  },
+  {
+    "text": "válvula lo que hacemos Es",
+    "duration": 3440,
+    "offset": 2058159,
+    "lang": "es"
+  },
+  {
+    "text": "descargarlo al alcantarilla descargamos",
+    "duration": 7440,
+    "offset": 2062800,
+    "lang": "es"
+  },
+  {
+    "text": "el agua eso lo elegimos nosotros qué pro",
+    "duration": 5240,
+    "offset": 2066599,
+    "lang": "es"
+  },
+  {
+    "text": "y contras tiene bueno en el caso que",
+    "duration": 3879,
+    "offset": 2070240,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros descarguemos acá lo que pasa es",
+    "duration": 5201,
+    "offset": 2071839,
+    "lang": "es"
+  },
+  {
+    "text": "que se nos vacía el tanque de agua y en",
+    "duration": 5040,
+    "offset": 2074119,
+    "lang": "es"
+  },
+  {
+    "text": "el caso que retornemos el agua en el",
+    "duration": 4400,
+    "offset": 2077040,
+    "lang": "es"
+  },
+  {
+    "text": "tanque la temperatura de ingreso del",
+    "duration": 4240,
+    "offset": 2079159,
+    "lang": "es"
+  },
+  {
+    "text": "fluido frío no es constante porque yo",
+    "duration": 3840,
+    "offset": 2081440,
+    "lang": "es"
+  },
+  {
+    "text": "estoy ingresando agua caliente o sea que",
+    "duration": 4401,
+    "offset": 2083399,
+    "lang": "es"
+  },
+  {
+    "text": "va a ir lento Pero va a ir variando a lo",
+    "duration": 5200,
+    "offset": 2085280,
+    "lang": "es"
+  },
+  {
+    "text": "largo del tiempo de la par con respecto",
+    "duration": 6520,
+    "offset": 2087800,
+    "lang": "es"
+  },
+  {
+    "text": "al vapor lo que nosotros hacemos Es el",
+    "duration": 8080,
+    "offset": 2090480,
+    "lang": "es"
+  },
+  {
+    "text": "vapor ingresa saturado Tom medimos la",
+    "duration": 6960,
+    "offset": 2094320,
+    "lang": "es"
+  },
+  {
+    "text": "presión de saturación de ingreso del",
+    "duration": 5920,
+    "offset": 2098560,
+    "lang": "es"
+  },
+  {
+    "text": "vapor tenemos una válvula para regular",
+    "duration": 6120,
+    "offset": 2101280,
+    "lang": "es"
+  },
+  {
+    "text": "el ingreso nosotros no tenemos instalado",
+    "duration": 5520,
+    "offset": 2104480,
+    "lang": "es"
+  },
+  {
+    "text": "un caudalímetro para lo que es el vapor",
+    "duration": 4160,
+    "offset": 2107400,
+    "lang": "es"
+  },
+  {
+    "text": "lo que hacemos ahora voy a explicar cómo",
+    "duration": 4079,
+    "offset": 2110000,
+    "lang": "es"
+  },
+  {
+    "text": "medimos el caudal circulante en el caso",
+    "duration": 4640,
+    "offset": 2111560,
+    "lang": "es"
+  },
+  {
+    "text": "del fluido frío como nosotros ya tenemos",
+    "duration": 5201,
+    "offset": 2114079,
+    "lang": "es"
+  },
+  {
+    "text": "caracterizada la bomba un sabemos la",
+    "duration": 6120,
+    "offset": 2116200,
+    "lang": "es"
+  },
+  {
+    "text": "curva podemos ver con las presiones con",
+    "duration": 5600,
+    "offset": 2119280,
+    "lang": "es"
+  },
+  {
+    "text": "la altura que caudal está circulando",
+    "duration": 5960,
+    "offset": 2122320,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces el fluido frío ingresa al",
+    "duration": 5640,
+    "offset": 2124880,
+    "lang": "es"
+  },
+  {
+    "text": "equipo acá tenemos la válvula que",
+    "duration": 4040,
+    "offset": 2128280,
+    "lang": "es"
+  },
+  {
+    "text": "podemos regular el caudal del fluido",
+    "duration": 4360,
+    "offset": 2130520,
+    "lang": "es"
+  },
+  {
+    "text": "frío entra el intercambiador intercambia",
+    "duration": 5320,
+    "offset": 2132320,
+    "lang": "es"
+  },
+  {
+    "text": "calor con el vapor sale medimos la",
+    "duration": 4640,
+    "offset": 2134880,
+    "lang": "es"
+  },
+  {
+    "text": "temperatura de salida y puede volver",
+    "duration": 5800,
+    "offset": 2137640,
+    "lang": "es"
+  },
+  {
+    "text": "tanto al tanque como descargar en la",
+    "duration": 7720,
+    "offset": 2139520,
+    "lang": "es"
+  },
+  {
+    "text": "canalita medimos la presión de entrada y",
+    "duration": 7399,
+    "offset": 2143440,
+    "lang": "es"
+  },
+  {
+    "text": "lo que hacemos Es el condensado también",
+    "duration": 6119,
+    "offset": 2147240,
+    "lang": "es"
+  },
+  {
+    "text": "lo descargamos acá en la canaleta como",
+    "duration": 4641,
+    "offset": 2150839,
+    "lang": "es"
+  },
+  {
+    "text": "no tenemos caudalímetro lo que vamos a",
+    "duration": 4601,
+    "offset": 2153359,
+    "lang": "es"
+  },
+  {
+    "text": "hacer ahora cuando arranquemos el equipo",
+    "duration": 4839,
+    "offset": 2155480,
+    "lang": "es"
+  },
+  {
+    "text": "a medir el caudal que sale del",
+    "duration": 6119,
+    "offset": 2157960,
+    "lang": "es"
+  },
+  {
+    "text": "condensado eh con una probeta o sea",
+    "duration": 6040,
+    "offset": 2160319,
+    "lang": "es"
+  },
+  {
+    "text": "llenamos un volumen conocido calculamos",
+    "duration": 4760,
+    "offset": 2164079,
+    "lang": "es"
+  },
+  {
+    "text": "el tiempo y así sacamos el caud Cómo",
+    "duration": 4441,
+    "offset": 2166359,
+    "lang": "es"
+  },
+  {
+    "text": "arrancamos la práctica bueno Tiene que",
+    "duration": 4121,
+    "offset": 2168839,
+    "lang": "es"
+  },
+  {
+    "text": "estar encendida la bomba uno que en este",
+    "duration": 4319,
+    "offset": 2170800,
+    "lang": "es"
+  },
+  {
+    "text": "caso está está encendida para hacer",
+    "duration": 5080,
+    "offset": 2172960,
+    "lang": "es"
+  },
+  {
+    "text": "circular el el fluido",
+    "duration": 7240,
+    "offset": 2175119,
+    "lang": "es"
+  },
+  {
+    "text": "frío el fluido frío como dijimos antes",
+    "duration": 6440,
+    "offset": 2178040,
+    "lang": "es"
+  },
+  {
+    "text": "en vez de entrar al tanque esta válvula",
+    "duration": 5991,
+    "offset": 2182359,
+    "lang": "es"
+  },
+  {
+    "text": "está cerrada pasa por esta callería vi",
+    "duration": 7120,
+    "offset": 2184480,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3250,
+    "offset": 2188350,
+    "lang": "es"
+  },
+  {
+    "text": "e ingresa al intercambiador de calor con",
+    "duration": 6199,
+    "offset": 2196640,
+    "lang": "es"
+  },
+  {
+    "text": "esta válvula lo que hacemos es regular",
+    "duration": 4801,
+    "offset": 2200839,
+    "lang": "es"
+  },
+  {
+    "text": "el caudal como la curva de la bomba un",
+    "duration": 5641,
+    "offset": 2202839,
+    "lang": "es"
+  },
+  {
+    "text": "la conocemos podemos saber el cabal que",
+    "duration": 4400,
+    "offset": 2205640,
+    "lang": "es"
+  },
+  {
+    "text": "está",
+    "duration": 4440,
+    "offset": 2208480,
+    "lang": "es"
+  },
+  {
+    "text": "circulando acá lo que hacemos nosotros",
+    "duration": 4720,
+    "offset": 2210040,
+    "lang": "es"
+  },
+  {
+    "text": "con ver la",
+    "duration": 4720,
+    "offset": 2212920,
+    "lang": "es"
+  },
+  {
+    "text": "temperatura esta sería la temperatura de",
+    "duration": 4839,
+    "offset": 2214760,
+    "lang": "es"
+  },
+  {
+    "text": "ingreso del agua fría o sea el agua",
+    "duration": 3719,
+    "offset": 2217640,
+    "lang": "es"
+  },
+  {
+    "text": "estaría ingresando el intercambiador",
+    "duration": 4961,
+    "offset": 2219599,
+    "lang": "es"
+  },
+  {
+    "text": "Aproximadamente a 19",
+    "duration": 5841,
+    "offset": 2221359,
+    "lang": "es"
+  },
+  {
+    "text": "gr ahí estoy caracterizando la entrada",
+    "duration": 4360,
+    "offset": 2224560,
+    "lang": "es"
+  },
+  {
+    "text": "del fluido",
+    "duration": 5240,
+    "offset": 2227200,
+    "lang": "es"
+  },
+  {
+    "text": "frío para alimentar vapor lo que hago es",
+    "duration": 4800,
+    "offset": 2228920,
+    "lang": "es"
+  },
+  {
+    "text": "abro la",
+    "duration": 7120,
+    "offset": 2232440,
+    "lang": "es"
+  },
+  {
+    "text": "válvula y lo que podemos ver",
+    "duration": 5840,
+    "offset": 2233720,
+    "lang": "es"
+  },
+  {
+    "text": "Es medir lo que medimos",
+    "duration": 7599,
+    "offset": 2240000,
+    "lang": "es"
+  },
+  {
+    "text": "es la presión de entrada del vapor",
+    "duration": 6600,
+    "offset": 2243560,
+    "lang": "es"
+  },
+  {
+    "text": "consideramos saturado ahí tenemos los",
+    "duration": 5081,
+    "offset": 2247599,
+    "lang": "es"
+  },
+  {
+    "text": "datos de la entalpía de la entrada tanto",
+    "duration": 6000,
+    "offset": 2250160,
+    "lang": "es"
+  },
+  {
+    "text": "del fluido frío como del fluido",
+    "duration": 6200,
+    "offset": 2252680,
+    "lang": "es"
+  },
+  {
+    "text": "caliente porque para calcular el u",
+    "duration": 5360,
+    "offset": 2256160,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros necesitamos conocer todos esos",
+    "duration": 4680,
+    "offset": 2258880,
+    "lang": "es"
+  },
+  {
+    "text": "datos no las entalpías de los fluidos a",
+    "duration": 4040,
+    "offset": 2261520,
+    "lang": "es"
+  },
+  {
+    "text": "la entrada y a la salida del",
+    "duration": 5039,
+    "offset": 2263560,
+    "lang": "es"
+  },
+  {
+    "text": "intercambiador la salida del fluido frío",
+    "duration": 5720,
+    "offset": 2265560,
+    "lang": "es"
+  },
+  {
+    "text": "que sería esta cañería que está acá la",
+    "duration": 6641,
+    "offset": 2268599,
+    "lang": "es"
+  },
+  {
+    "text": "temperatura la leemos",
+    "duration": 3960,
+    "offset": 2271280,
+    "lang": "es"
+  },
+  {
+    "text": "cuadro en este termómetro tenemos que la",
+    "duration": 4799,
+    "offset": 2277560,
+    "lang": "es"
+  },
+  {
+    "text": "salida es 40 gr o sea el agua se calentó",
+    "duration": 7560,
+    "offset": 2279440,
+    "lang": "es"
+  },
+  {
+    "text": "de 20 19 20 gr a 40 tenemos un Delta t",
+    "duration": 8881,
+    "offset": 2282359,
+    "lang": "es"
+  },
+  {
+    "text": "de 20 gr en este caso nosotros la salida",
+    "duration": 5920,
+    "offset": 2287000,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 5040,
+    "offset": 2291240,
+    "lang": "es"
+  },
+  {
+    "text": "estamos volviendo al",
+    "duration": 6880,
+    "offset": 2292920,
+    "lang": "es"
+  },
+  {
+    "text": "tanque otra posibilidad es la la",
+    "duration": 6839,
+    "offset": 2296280,
+    "lang": "es"
+  },
+  {
+    "text": "desventaja que tiene esto es que eh el",
+    "duration": 5240,
+    "offset": 2299800,
+    "lang": "es"
+  },
+  {
+    "text": "la temperatura de ingreso el fluido frío",
+    "duration": 3281,
+    "offset": 2303119,
+    "lang": "es"
+  },
+  {
+    "text": "me va a ir cambiando no porque le esty",
+    "duration": 6079,
+    "offset": 2305040,
+    "lang": "es"
+  },
+  {
+    "text": "metiendo agua caliente es cerrar y",
+    "duration": 8280,
+    "offset": 2306400,
+    "lang": "es"
+  },
+  {
+    "text": "descargarla en la",
+    "duration": 6041,
+    "offset": 2311119,
+    "lang": "es"
+  },
+  {
+    "text": "canaleta que ahí la desventaja",
+    "duration": 5240,
+    "offset": 2314680,
+    "lang": "es"
+  },
+  {
+    "text": "mantenemos la temperatura del fluido de",
+    "duration": 4439,
+    "offset": 2317160,
+    "lang": "es"
+  },
+  {
+    "text": "entrada del fluido frío constante pero",
+    "duration": 4280,
+    "offset": 2319920,
+    "lang": "es"
+  },
+  {
+    "text": "se nos va a ir Vaciando el tanque en el",
+    "duration": 4601,
+    "offset": 2321599,
+    "lang": "es"
+  },
+  {
+    "text": "caso del vapor las condiciones de",
+    "duration": 3919,
+    "offset": 2324200,
+    "lang": "es"
+  },
+  {
+    "text": "ingreso lo hacemos luciendo la presión",
+    "duration": 3360,
+    "offset": 2326200,
+    "lang": "es"
+  },
+  {
+    "text": "de entrada que sería la presión del",
+    "duration": 4761,
+    "offset": 2328119,
+    "lang": "es"
+  },
+  {
+    "text": "vapor saturado y para la salida lo que",
+    "duration": 6160,
+    "offset": 2329560,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros hacemos Es en la descarga del",
+    "duration": 7640,
+    "offset": 2332880,
+    "lang": "es"
+  },
+  {
+    "text": "condensado medimos con un termómetro la",
+    "duration": 7040,
+    "offset": 2335720,
+    "lang": "es"
+  },
+  {
+    "text": "temperatura en este caso está en el",
+    "duration": 5319,
+    "offset": 2340520,
+    "lang": "es"
+  },
+  {
+    "text": "orden de los",
+    "duration": 7160,
+    "offset": 2342760,
+    "lang": "es"
+  },
+  {
+    "text": "25 26 gr que se observan en en el",
+    "duration": 6681,
+    "offset": 2345839,
+    "lang": "es"
+  },
+  {
+    "text": "termómetro y como no tenemos instalado",
+    "duration": 6919,
+    "offset": 2349920,
+    "lang": "es"
+  },
+  {
+    "text": "un caudalímetro lo que hacemos Es llenar",
+    "duration": 5920,
+    "offset": 2352520,
+    "lang": "es"
+  },
+  {
+    "text": "una",
+    "duration": 4480,
+    "offset": 2356839,
+    "lang": "es"
+  },
+  {
+    "text": "preta midiendo el tiempo con un",
+    "duration": 7919,
+    "offset": 2358440,
+    "lang": "es"
+  },
+  {
+    "text": "cronómetro para determinar el cagual que",
+    "duration": 9681,
+    "offset": 2361319,
+    "lang": "es"
+  },
+  {
+    "text": "se tenemos un volumen en un tiempo",
+    "duration": 7561,
+    "offset": 2366359,
+    "lang": "es"
+  },
+  {
+    "text": "determinado eso lo hacemos dos veces lo",
+    "duration": 5800,
+    "offset": 2371000,
+    "lang": "es"
+  },
+  {
+    "text": "que pasa que cuando uno dispone los",
+    "duration": 5000,
+    "offset": 2373920,
+    "lang": "es"
+  },
+  {
+    "text": "caudales espera un tiempo hasta que el",
+    "duration": 4960,
+    "offset": 2376800,
+    "lang": "es"
+  },
+  {
+    "text": "sistema entre de c estacionario y ahí",
+    "duration": 7000,
+    "offset": 2378920,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos las determinaciones",
+    "duration": 4160,
+    "offset": 2381760,
+    "lang": "es"
+  },
+  {
+    "text": "e qué calculamos con con los datos que",
+    "duration": 7520,
+    "offset": 2386200,
+    "lang": "es"
+  },
+  {
+    "text": "obtenemos podemos calcular el caudal del",
+    "duration": 6480,
+    "offset": 2389960,
+    "lang": "es"
+  },
+  {
+    "text": "lado frío o sea tenemos lo que sería el",
+    "duration": 5080,
+    "offset": 2393720,
+    "lang": "es"
+  },
+  {
+    "text": "agua en este caso porque tenemos el",
+    "duration": 5200,
+    "offset": 2396440,
+    "lang": "es"
+  },
+  {
+    "text": "caudal y El delta t",
+    "duration": 7200,
+    "offset": 2398800,
+    "lang": "es"
+  },
+  {
+    "text": "y en el caso del vapor tenemos el caudal",
+    "duration": 6760,
+    "offset": 2401640,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos la temperatura de salida del",
+    "duration": 4000,
+    "offset": 2406000,
+    "lang": "es"
+  },
+  {
+    "text": "condenso O sea que también podríamos",
+    "duration": 3719,
+    "offset": 2408400,
+    "lang": "es"
+  },
+  {
+    "text": "calcular el calor del lado del fuido",
+    "duration": 4119,
+    "offset": 2410000,
+    "lang": "es"
+  },
+  {
+    "text": "caliente en general nosotros nos",
+    "duration": 3641,
+    "offset": 2412119,
+    "lang": "es"
+  },
+  {
+    "text": "manejamos con el fluido frío porque",
+    "duration": 3960,
+    "offset": 2414119,
+    "lang": "es"
+  },
+  {
+    "text": "consideramos que tenemos menos error en",
+    "duration": 6880,
+    "offset": 2415760,
+    "lang": "es"
+  },
+  {
+    "text": "en lases eh lo que hacemos Es tomar dos",
+    "duration": 7760,
+    "offset": 2418079,
+    "lang": "es"
+  },
+  {
+    "text": "puntos o sea acá hicimos un punto para",
+    "duration": 5880,
+    "offset": 2422640,
+    "lang": "es"
+  },
+  {
+    "text": "esta situación podemos ular urú y",
+    "duration": 4441,
+    "offset": 2425839,
+    "lang": "es"
+  },
+  {
+    "text": "después lo que hacemos Es variar los",
+    "duration": 4760,
+    "offset": 2428520,
+    "lang": "es"
+  },
+  {
+    "text": "caudales general variamos el de Agua",
+    "duration": 5039,
+    "offset": 2430280,
+    "lang": "es"
+  },
+  {
+    "text": "fría en este caso",
+    "duration": 5960,
+    "offset": 2433280,
+    "lang": "es"
+  },
+  {
+    "text": "podríamos eh vamos a bajar un poco el",
+    "duration": 6520,
+    "offset": 2435319,
+    "lang": "es"
+  },
+  {
+    "text": "caudal de",
+    "duration": 2599,
+    "offset": 2439240,
+    "lang": "es"
+  },
+  {
+    "text": "agua vamos a ver qué presión está",
+    "duration": 4280,
+    "offset": 2442880,
+    "lang": "es"
+  },
+  {
+    "text": "marcando para tener una idea de cuánto",
+    "duration": 3560,
+    "offset": 2445400,
+    "lang": "es"
+  },
+  {
+    "text": "lo",
+    "duration": 4280,
+    "offset": 2447160,
+    "lang": "es"
+  },
+  {
+    "text": "bajamos sigue",
+    "duration": 7879,
+    "offset": 2448960,
+    "lang": "es"
+  },
+  {
+    "text": "funcionando bamos de agua fría",
+    "duration": 5399,
+    "offset": 2451440,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que esperar Que las temperaturas",
+    "duration": 3281,
+    "offset": 2465359,
+    "lang": "es"
+  },
+  {
+    "text": "se estabilicen",
+    "duration": 4881,
+    "offset": 2467319,
+    "lang": "es"
+  },
+  {
+    "text": "en este caso la temperatura de ingreso",
+    "duration": 6360,
+    "offset": 2468640,
+    "lang": "es"
+  },
+  {
+    "text": "del agua sigue siendo la misma la",
+    "duration": 6320,
+    "offset": 2472200,
+    "lang": "es"
+  },
+  {
+    "text": "temperatura del agua de",
+    "duration": 3520,
+    "offset": 2475000,
+    "lang": "es"
+  },
+  {
+    "text": "salida en este caso vamos a esperar a",
+    "duration": 4161,
+    "offset": 2484599,
+    "lang": "es"
+  },
+  {
+    "text": "que se",
+    "duration": 4200,
+    "offset": 2487680,
+    "lang": "es"
+  },
+  {
+    "text": "estabilice yo ahí cerré abrí un poco más",
+    "duration": 5760,
+    "offset": 2488760,
+    "lang": "es"
+  },
+  {
+    "text": "el la válvula porque est demasiado",
+    "duration": 5160,
+    "offset": 2491880,
+    "lang": "es"
+  },
+  {
+    "text": "caliente en el caso anterior la",
+    "duration": 5040,
+    "offset": 2494520,
+    "lang": "es"
+  },
+  {
+    "text": "temperatura de salida era 40 gr ahora",
+    "duration": 5039,
+    "offset": 2497040,
+    "lang": "es"
+  },
+  {
+    "text": "como está circulando un caudal menor el",
+    "duration": 4880,
+    "offset": 2499560,
+    "lang": "es"
+  },
+  {
+    "text": "agua va a salir lógicamente más caliente",
+    "duration": 6801,
+    "offset": 2502079,
+    "lang": "es"
+  },
+  {
+    "text": "estamos en el orden de de los 62 gr lo",
+    "duration": 6200,
+    "offset": 2504440,
+    "lang": "es"
+  },
+  {
+    "text": "que hacemos Generalmente para chequear",
+    "duration": 4560,
+    "offset": 2508880,
+    "lang": "es"
+  },
+  {
+    "text": "la instrumentación es medir también la",
+    "duration": 4120,
+    "offset": 2510640,
+    "lang": "es"
+  },
+  {
+    "text": "temperatura",
+    "duration": 5720,
+    "offset": 2513440,
+    "lang": "es"
+  },
+  {
+    "text": "de de salida de de de la",
+    "duration": 7040,
+    "offset": 2514760,
+    "lang": "es"
+  },
+  {
+    "text": "descarga y volvemos a hacer todo lo",
+    "duration": 4720,
+    "offset": 2519160,
+    "lang": "es"
+  },
+  {
+    "text": "mismo ya sea tenemos temperatura de",
+    "duration": 5400,
+    "offset": 2521800,
+    "lang": "es"
+  },
+  {
+    "text": "ingreso 20 gr temperatura de",
+    "duration": 6600,
+    "offset": 2523880,
+    "lang": "es"
+  },
+  {
+    "text": "salida acá en este caso se estabilizó en",
+    "duration": 5520,
+    "offset": 2527200,
+    "lang": "es"
+  },
+  {
+    "text": "en 58",
+    "duration": 5920,
+    "offset": 2530480,
+    "lang": "es"
+  },
+  {
+    "text": "gr con los datos de la bomba calculamos",
+    "duration": 5399,
+    "offset": 2532720,
+    "lang": "es"
+  },
+  {
+    "text": "el caudal y la curva calculamos el",
+    "duration": 5760,
+    "offset": 2536400,
+    "lang": "es"
+  },
+  {
+    "text": "caudal de agua fría y el vapor el ino es",
+    "duration": 5801,
+    "offset": 2538119,
+    "lang": "es"
+  },
+  {
+    "text": "el mismo la presión de ingreso es el",
+    "duration": 5240,
+    "offset": 2542160,
+    "lang": "es"
+  },
+  {
+    "text": "mismo medimos la temperatura de salida",
+    "duration": 6240,
+    "offset": 2543920,
+    "lang": "es"
+  },
+  {
+    "text": "lamos el caudal con la probeta también",
+    "duration": 7120,
+    "offset": 2547400,
+    "lang": "es"
+  },
+  {
+    "text": "llenamos un volumen para saber el caudal",
+    "duration": 6360,
+    "offset": 2550160,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 4920,
+    "offset": 2554520,
+    "lang": "es"
+  },
+  {
+    "text": "circulante y lo que hacemos también para",
+    "duration": 4920,
+    "offset": 2556520,
+    "lang": "es"
+  },
+  {
+    "text": "corroborar el buen funcionamiento de los",
+    "duration": 3760,
+    "offset": 2559440,
+    "lang": "es"
+  },
+  {
+    "text": "termómetros que están instalados es",
+    "duration": 4560,
+    "offset": 2561440,
+    "lang": "es"
+  },
+  {
+    "text": "medir con otro termómetro la salida no",
+    "duration": 5800,
+    "offset": 2563200,
+    "lang": "es"
+  },
+  {
+    "text": "para tener una idea si de esta manera",
+    "duration": 6119,
+    "offset": 2566000,
+    "lang": "es"
+  },
+  {
+    "text": "corroboramos el buen funcionamiento de",
+    "duration": 5280,
+    "offset": 2569000,
+    "lang": "es"
+  },
+  {
+    "text": "este",
+    "duration": 5240,
+    "offset": 2572119,
+    "lang": "es"
+  },
+  {
+    "text": "term con estos nuevos datos calculamos",
+    "duration": 5039,
+    "offset": 2574280,
+    "lang": "es"
+  },
+  {
+    "text": "otra vez el u y en la práctica lo que",
+    "duration": 3720,
+    "offset": 2577359,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos Es sacar un promedio entre los",
+    "duration": 3881,
+    "offset": 2579319,
+    "lang": "es"
+  },
+  {
+    "text": "dos u calculados para los distintos",
+    "duration": 5641,
+    "offset": 2581079,
+    "lang": "es"
+  },
+  {
+    "text": "caudales operados delio frío y lo que",
+    "duration": 5320,
+    "offset": 2583200,
+    "lang": "es"
+  },
+  {
+    "text": "hacen los alumnos en el informe es",
+    "duration": 3960,
+    "offset": 2586720,
+    "lang": "es"
+  },
+  {
+    "text": "comparar el u determinado",
+    "duration": 4280,
+    "offset": 2588520,
+    "lang": "es"
+  },
+  {
+    "text": "experimentalmente con el que",
+    "duration": 4639,
+    "offset": 2590680,
+    "lang": "es"
+  },
+  {
+    "text": "habitualmente figura en la bibliografía",
+    "duration": 4759,
+    "offset": 2592800,
+    "lang": "es"
+  },
+  {
+    "text": "para para este tipo de equipo para este",
+    "duration": 5321,
+    "offset": 2595319,
+    "lang": "es"
+  },
+  {
+    "text": "tipo de intercambiador ese sería el",
+    "duration": 8121,
+    "offset": 2597559,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollo del práctico de que nosotros",
+    "duration": 5040,
+    "offset": 2600640,
+    "lang": "es"
+  },
+  {
+    "text": "realizamos an",
+    "duration": 4000,
+    "offset": 2606119,
+    "lang": "es"
+  }
+]

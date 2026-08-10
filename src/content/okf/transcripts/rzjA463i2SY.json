@@ -1,0 +1,1538 @@
+[
+  {
+    "text": "vamos a empezar a resolver el parcial el",
+    "duration": 9560,
+    "offset": 900,
+    "lang": "es"
+  },
+  {
+    "text": "punto número uno utilizando",
+    "duration": 5240,
+    "offset": 6990,
+    "lang": "es"
+  },
+  {
+    "text": "el sistema de referencia que habíamos",
+    "duration": 4349,
+    "offset": 10460,
+    "lang": "es"
+  },
+  {
+    "text": "propuesto aunque usaron otro tampoco",
+    "duration": 4380,
+    "offset": 12230,
+    "lang": "es"
+  },
+  {
+    "text": "está mal pero bueno nosotros lo vamos a",
+    "duration": 4441,
+    "offset": 14809,
+    "lang": "es"
+  },
+  {
+    "text": "resolver utilizando el sistema de",
+    "duration": 5720,
+    "offset": 16610,
+    "lang": "es"
+  },
+  {
+    "text": "referencia que habíamos propuesto",
+    "duration": 5310,
+    "offset": 19250,
+    "lang": "es"
+  },
+  {
+    "text": "entonces dice para el caso de la figura",
+    "duration": 4270,
+    "offset": 22330,
+    "lang": "es"
+  },
+  {
+    "text": "calcular considerando que el sistema",
+    "duration": 5220,
+    "offset": 24560,
+    "lang": "es"
+  },
+  {
+    "text": "parte del reposo y mim-2 se halla",
+    "duration": 5940,
+    "offset": 26600,
+    "lang": "es"
+  },
+  {
+    "text": "inicialmente en el piso la aceleración",
+    "duration": 5520,
+    "offset": 29780,
+    "lang": "es"
+  },
+  {
+    "text": "de los cuerpos m1 y m2",
+    "duration": 5250,
+    "offset": 32540,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta si el coeficiente que se supone",
+    "duration": 6540,
+    "offset": 35300,
+    "lang": "es"
+  },
+  {
+    "text": "es estático dinámico y la tensión en las",
+    "duration": 7530,
+    "offset": 37790,
+    "lang": "es"
+  },
+  {
+    "text": "cuerdas viene entonces para el punto a y",
+    "duration": 5730,
+    "offset": 41840,
+    "lang": "es"
+  },
+  {
+    "text": "para el punto b lo que vamos a necesitar",
+    "duration": 5750,
+    "offset": 45320,
+    "lang": "es"
+  },
+  {
+    "text": "es definir el diagrama de cuerpo libre",
+    "duration": 5610,
+    "offset": 47570,
+    "lang": "es"
+  },
+  {
+    "text": "definir el sistema de referencia y asier",
+    "duration": 5790,
+    "offset": 51070,
+    "lang": "es"
+  },
+  {
+    "text": "el diagrama de cuerpo libre qué",
+    "duration": 7510,
+    "offset": 53180,
+    "lang": "es"
+  },
+  {
+    "text": "es esto que tenemos hecho acá",
+    "duration": 3830,
+    "offset": 56860,
+    "lang": "es"
+  },
+  {
+    "text": "definimos el sistema de referencia esto",
+    "duration": 5879,
+    "offset": 61780,
+    "lang": "es"
+  },
+  {
+    "text": "va a servir tanto para el punto como",
+    "duration": 6380,
+    "offset": 64540,
+    "lang": "es"
+  },
+  {
+    "text": "para el b",
+    "duration": 6991,
+    "offset": 67659,
+    "lang": "es"
+  },
+  {
+    "text": "entonces según este sistema de",
+    "duration": 5530,
+    "offset": 70920,
+    "lang": "es"
+  },
+  {
+    "text": "referencia vamos a ver la sumatoria de",
+    "duration": 4110,
+    "offset": 74650,
+    "lang": "es"
+  },
+  {
+    "text": "las fuerzas en",
+    "duration": 6450,
+    "offset": 76450,
+    "lang": "es"
+  },
+  {
+    "text": "y para el cuerpo uno es igual a la",
+    "duration": 6440,
+    "offset": 78760,
+    "lang": "es"
+  },
+  {
+    "text": "normal de 1 -",
+    "duration": 6150,
+    "offset": 82900,
+    "lang": "es"
+  },
+  {
+    "text": "m 1 por g y esto es igual a la masa por",
+    "duration": 5770,
+    "offset": 85200,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración que en este caso en la",
+    "duration": 4110,
+    "offset": 89050,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración en y como está siempre",
+    "duration": 6120,
+    "offset": 90970,
+    "lang": "es"
+  },
+  {
+    "text": "moviéndose en línea horizontal es 0 y la",
+    "duration": 7290,
+    "offset": 93160,
+    "lang": "es"
+  },
+  {
+    "text": "sumatoria de las fuerzas en x para el",
+    "duration": 6630,
+    "offset": 97090,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo 1 es igual a considerando el",
+    "duration": 4920,
+    "offset": 100450,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de referencia que nosotros",
+    "duration": 4950,
+    "offset": 103720,
+    "lang": "es"
+  },
+  {
+    "text": "tomamos es",
+    "duration": 7270,
+    "offset": 105370,
+    "lang": "es"
+  },
+  {
+    "text": "la atención uno más",
+    "duration": 8050,
+    "offset": 108670,
+    "lang": "es"
+  },
+  {
+    "text": "la fuerza de rozamiento menos la fuerza",
+    "duration": 5970,
+    "offset": 112640,
+    "lang": "es"
+  },
+  {
+    "text": "efe",
+    "duration": 5490,
+    "offset": 116720,
+    "lang": "es"
+  },
+  {
+    "text": "y esto es igual a m 1 por la aceleración",
+    "duration": 5549,
+    "offset": 118610,
+    "lang": "es"
+  },
+  {
+    "text": "de 1",
+    "duration": 6029,
+    "offset": 122210,
+    "lang": "es"
+  },
+  {
+    "text": "y la sumatoria de las fuerzas en y para",
+    "duration": 6240,
+    "offset": 124159,
+    "lang": "es"
+  },
+  {
+    "text": "el caso del cuerpo 2 por el cuerpo 2",
+    "duration": 6301,
+    "offset": 128239,
+    "lang": "es"
+  },
+  {
+    "text": "solo tenemos fuerzas en y es igual a la",
+    "duration": 9541,
+    "offset": 130399,
+    "lang": "es"
+  },
+  {
+    "text": "tensión 2 - de m2 por g y esto va a ser",
+    "duration": 11000,
+    "offset": 134540,
+    "lang": "es"
+  },
+  {
+    "text": "igual a m2 por la aceleración en 2",
+    "duration": 5600,
+    "offset": 139940,
+    "lang": "es"
+  },
+  {
+    "text": "ahora",
+    "duration": 4130,
+    "offset": 146200,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que encontrar la relación de",
+    "duration": 4620,
+    "offset": 148110,
+    "lang": "es"
+  },
+  {
+    "text": "tensiones y aceleraciones y vemos esta",
+    "duration": 5310,
+    "offset": 150330,
+    "lang": "es"
+  },
+  {
+    "text": "polea que es la polea móvil la sumatoria",
+    "duration": 4800,
+    "offset": 152730,
+    "lang": "es"
+  },
+  {
+    "text": "de todas las fuerzas que actúan sobre la",
+    "duration": 3960,
+    "offset": 155640,
+    "lang": "es"
+  },
+  {
+    "text": "polea tiene que ser cero porque la masa",
+    "duration": 4400,
+    "offset": 157530,
+    "lang": "es"
+  },
+  {
+    "text": "de la polea cero",
+    "duration": 5570,
+    "offset": 159600,
+    "lang": "es"
+  },
+  {
+    "text": "de ahí sacamos que la atención 1 es",
+    "duration": 8150,
+    "offset": 161930,
+    "lang": "es"
+  },
+  {
+    "text": "igual a 2 veces la tensión 2",
+    "duration": 7490,
+    "offset": 165170,
+    "lang": "es"
+  },
+  {
+    "text": "y después lo que tenemos que ver que",
+    "duration": 4920,
+    "offset": 170080,
+    "lang": "es"
+  },
+  {
+    "text": "esto es lo que más costó es la relación",
+    "duration": 5730,
+    "offset": 172660,
+    "lang": "es"
+  },
+  {
+    "text": "de aceleraciones fíjense cuando el",
+    "duration": 6900,
+    "offset": 175000,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo m uno se desplaza una distancia",
+    "duration": 7560,
+    "offset": 178390,
+    "lang": "es"
+  },
+  {
+    "text": "de hacia la derecha el cuerpo m2 sube",
+    "duration": 7230,
+    "offset": 181900,
+    "lang": "es"
+  },
+  {
+    "text": "una distancia 2 d porque porque el",
+    "duration": 5370,
+    "offset": 185950,
+    "lang": "es"
+  },
+  {
+    "text": "centro de la polea sube una distancia de",
+    "duration": 5820,
+    "offset": 189130,
+    "lang": "es"
+  },
+  {
+    "text": "significa que a cada lado de la polea se",
+    "duration": 6090,
+    "offset": 191320,
+    "lang": "es"
+  },
+  {
+    "text": "mueve una distancia de entonces cuando",
+    "duration": 4770,
+    "offset": 194950,
+    "lang": "es"
+  },
+  {
+    "text": "yo sumo solamente un lado que es donde",
+    "duration": 4710,
+    "offset": 197410,
+    "lang": "es"
+  },
+  {
+    "text": "está el cuerpo m2 se movió una distancia",
+    "duration": 5180,
+    "offset": 199720,
+    "lang": "es"
+  },
+  {
+    "text": "2 d",
+    "duration": 2780,
+    "offset": 202120,
+    "lang": "es"
+  },
+  {
+    "text": "esta distancia acá",
+    "duration": 5570,
+    "offset": 205700,
+    "lang": "es"
+  },
+  {
+    "text": "llamémosla 2",
+    "duration": 6760,
+    "offset": 208890,
+    "lang": "es"
+  },
+  {
+    "text": "esta distancia acá llamémosla x1",
+    "duration": 7290,
+    "offset": 211270,
+    "lang": "es"
+  },
+  {
+    "text": "sabemos que menos x1 considerando el",
+    "duration": 6590,
+    "offset": 215650,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de referencia elegido es igual",
+    "duration": 7300,
+    "offset": 218560,
+    "lang": "es"
+  },
+  {
+    "text": "y 2 sobre 2",
+    "duration": 3620,
+    "offset": 222240,
+    "lang": "es"
+  },
+  {
+    "text": "acá hay algo que hay que tener en cuenta",
+    "duration": 6000,
+    "offset": 227480,
+    "lang": "es"
+  },
+  {
+    "text": "que es en esta ecuación de vínculo donde",
+    "duration": 4201,
+    "offset": 230989,
+    "lang": "es"
+  },
+  {
+    "text": "hallamos la relación de aceleraciones",
+    "duration": 3810,
+    "offset": 233480,
+    "lang": "es"
+  },
+  {
+    "text": "podemos poner el signo siguiendo nuestro",
+    "duration": 5240,
+    "offset": 235190,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de referencia o podemos hallar",
+    "duration": 6300,
+    "offset": 237290,
+    "lang": "es"
+  },
+  {
+    "text": "esto el módulo esta relación en el",
+    "duration": 6730,
+    "offset": 240430,
+    "lang": "es"
+  },
+  {
+    "text": "módulo y acá en cambio de poner un valor",
+    "duration": 5640,
+    "offset": 243590,
+    "lang": "es"
+  },
+  {
+    "text": "positivo ponemos un valor negativo",
+    "duration": 5810,
+    "offset": 247160,
+    "lang": "es"
+  },
+  {
+    "text": "indicando que esta aceleración es",
+    "duration": 6119,
+    "offset": 249230,
+    "lang": "es"
+  },
+  {
+    "text": "contraria al sentido supuesto como",
+    "duration": 5259,
+    "offset": 252970,
+    "lang": "es"
+  },
+  {
+    "text": "positivo si derivamos respecto del",
+    "duration": 4681,
+    "offset": 255349,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo nos va a quedar que la",
+    "duration": 4801,
+    "offset": 258229,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración 1 es igual a menos la",
+    "duration": 4940,
+    "offset": 260030,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración 2",
+    "duration": 4470,
+    "offset": 263030,
+    "lang": "es"
+  },
+  {
+    "text": "sobre 2 en este caso al menos porque",
+    "duration": 4120,
+    "offset": 264970,
+    "lang": "es"
+  },
+  {
+    "text": "estamos estableciendo la ecuación de",
+    "duration": 4169,
+    "offset": 267500,
+    "lang": "es"
+  },
+  {
+    "text": "vínculo bien",
+    "duration": 5590,
+    "offset": 269090,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá podemos poner la ecuación",
+    "duration": 6661,
+    "offset": 271669,
+    "lang": "es"
+  },
+  {
+    "text": "que nos faltaba que es qué",
+    "duration": 6320,
+    "offset": 274680,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración de uno es igual a menos",
+    "duration": 7579,
+    "offset": 278330,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración de 2 sobre 2",
+    "duration": 4909,
+    "offset": 281000,
+    "lang": "es"
+  },
+  {
+    "text": "ya con estas cuatro ocasiones sacamos",
+    "duration": 4260,
+    "offset": 286220,
+    "lang": "es"
+  },
+  {
+    "text": "los puntos a ive que son las",
+    "duration": 3960,
+    "offset": 288860,
+    "lang": "es"
+  },
+  {
+    "text": "aceleraciones y las tensiones tenemos",
+    "duration": 5790,
+    "offset": 290480,
+    "lang": "es"
+  },
+  {
+    "text": "todas las ecuaciones necesarias vamos a",
+    "duration": 6540,
+    "offset": 292820,
+    "lang": "es"
+  },
+  {
+    "text": "pasar al punto ce y acá para el punto c",
+    "duration": 6020,
+    "offset": 296270,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que volver",
+    "duration": 2930,
+    "offset": 299360,
+    "lang": "es"
+  },
+  {
+    "text": "a lo que habíamos visto más arriba",
+    "duration": 4130,
+    "offset": 302820,
+    "lang": "es"
+  },
+  {
+    "text": "a esta parte de acá x1 y x2 fíjense",
+    "duration": 7050,
+    "offset": 308280,
+    "lang": "es"
+  },
+  {
+    "text": "me dicen que encuentre el trabajo de la",
+    "duration": 6530,
+    "offset": 312510,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza efe y de la fuerza de rozamiento",
+    "duration": 5300,
+    "offset": 315330,
+    "lang": "es"
+  },
+  {
+    "text": "cuando",
+    "duration": 8740,
+    "offset": 319040,
+    "lang": "es"
+  },
+  {
+    "text": "y 2 m2 perdón subió 4 metros entonces si",
+    "duration": 12300,
+    "offset": 320630,
+    "lang": "es"
+  },
+  {
+    "text": "yo sé que x menos x1 es igual a",
+    "duration": 8060,
+    "offset": 327780,
+    "lang": "es"
+  },
+  {
+    "text": "cuatro metros sobre dos me va a quedar",
+    "duration": 5430,
+    "offset": 332930,
+    "lang": "es"
+  },
+  {
+    "text": "el módulo vamos a expresar lo porque es",
+    "duration": 4530,
+    "offset": 335840,
+    "lang": "es"
+  },
+  {
+    "text": "una distancia el módulo de x uno va a",
+    "duration": 4350,
+    "offset": 338360,
+    "lang": "es"
+  },
+  {
+    "text": "ser igual a dos metros",
+    "duration": 5070,
+    "offset": 340370,
+    "lang": "es"
+  },
+  {
+    "text": "o sea que el trabajo que yo voy a tener",
+    "duration": 5060,
+    "offset": 342710,
+    "lang": "es"
+  },
+  {
+    "text": "la distancia que hubiera considerado el",
+    "duration": 4380,
+    "offset": 345440,
+    "lang": "es"
+  },
+  {
+    "text": "desplazamiento es un desplazamiento de",
+    "duration": 5760,
+    "offset": 347770,
+    "lang": "es"
+  },
+  {
+    "text": "dos metros ahora",
+    "duration": 3710,
+    "offset": 349820,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a escribir las ecuaciones de",
+    "duration": 4569,
+    "offset": 354880,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo yo sé qué",
+    "duration": 5019,
+    "offset": 356950,
+    "lang": "es"
+  },
+  {
+    "text": "el trabajo de la fuerza",
+    "duration": 6840,
+    "offset": 359449,
+    "lang": "es"
+  },
+  {
+    "text": "efe es igual a la integral en una curva",
+    "duration": 8401,
+    "offset": 361969,
+    "lang": "es"
+  },
+  {
+    "text": "gamma de la fuerza f producto escalar un",
+    "duration": 7600,
+    "offset": 366289,
+    "lang": "es"
+  },
+  {
+    "text": "diferencial de gamma",
+    "duration": 6579,
+    "offset": 370370,
+    "lang": "es"
+  },
+  {
+    "text": "ahora bien yo sé que la fuerza efe en",
+    "duration": 5221,
+    "offset": 373889,
+    "lang": "es"
+  },
+  {
+    "text": "función del sistema de referencia que yo",
+    "duration": 4650,
+    "offset": 376949,
+    "lang": "es"
+  },
+  {
+    "text": "elegí la fuerza f está determinada por",
+    "duration": 6190,
+    "offset": 379110,
+    "lang": "es"
+  },
+  {
+    "text": "efe - verzeri",
+    "duration": 9970,
+    "offset": 381599,
+    "lang": "es"
+  },
+  {
+    "text": "y la curva gamma es igual a un equis y",
+    "duration": 9980,
+    "offset": 385300,
+    "lang": "es"
+  },
+  {
+    "text": "un valor constante para i",
+    "duration": 3711,
+    "offset": 391569,
+    "lang": "es"
+  },
+  {
+    "text": "cuando se halla el diferencial de gama",
+    "duration": 5220,
+    "offset": 395650,
+    "lang": "es"
+  },
+  {
+    "text": "me va a quedar que va a ser igual a",
+    "duration": 5310,
+    "offset": 399040,
+    "lang": "es"
+  },
+  {
+    "text": "diferencia al x versión y en realidad",
+    "duration": 5210,
+    "offset": 400870,
+    "lang": "es"
+  },
+  {
+    "text": "menos",
+    "duration": 4020,
+    "offset": 404350,
+    "lang": "es"
+  },
+  {
+    "text": "indiferencia al x ver son y por qué",
+    "duration": 4450,
+    "offset": 406080,
+    "lang": "es"
+  },
+  {
+    "text": "porque el diferencial de camino",
+    "duration": 3900,
+    "offset": 408370,
+    "lang": "es"
+  },
+  {
+    "text": "desplazándose hacia la izquierda va a",
+    "duration": 4870,
+    "offset": 410530,
+    "lang": "es"
+  },
+  {
+    "text": "tener sentido negativo",
+    "duration": 5560,
+    "offset": 412270,
+    "lang": "es"
+  },
+  {
+    "text": "y sé cómo es una constante la derivada",
+    "duration": 5040,
+    "offset": 415400,
+    "lang": "es"
+  },
+  {
+    "text": "de una constante de a cero entonces acá",
+    "duration": 5010,
+    "offset": 417830,
+    "lang": "es"
+  },
+  {
+    "text": "lo que puedo decir es que el trabajo de",
+    "duration": 5849,
+    "offset": 420440,
+    "lang": "es"
+  },
+  {
+    "text": "la fuerza f es igual",
+    "duration": 9749,
+    "offset": 422840,
+    "lang": "es"
+  },
+  {
+    "text": "esta curva en gama está variando de x 0",
+    "duration": 9680,
+    "offset": 426289,
+    "lang": "es"
+  },
+  {
+    "text": "a x igual 2",
+    "duration": 8180,
+    "offset": 432589,
+    "lang": "es"
+  },
+  {
+    "text": "entonces es la integral de 0 a 2 porque",
+    "duration": 8551,
+    "offset": 435969,
+    "lang": "es"
+  },
+  {
+    "text": "se desplazó 2 metros de f",
+    "duration": 8041,
+    "offset": 440769,
+    "lang": "es"
+  },
+  {
+    "text": "- versos y producto escalar diferencial",
+    "duration": 8540,
+    "offset": 444520,
+    "lang": "es"
+  },
+  {
+    "text": "x menos inversor",
+    "duration": 4250,
+    "offset": 448810,
+    "lang": "es"
+  },
+  {
+    "text": "bien entonces él la fuerza y el",
+    "duration": 4890,
+    "offset": 453490,
+    "lang": "es"
+  },
+  {
+    "text": "diferencial de desplazamiento tienen el",
+    "duration": 4290,
+    "offset": 456370,
+    "lang": "es"
+  },
+  {
+    "text": "mismo sentido hacia el lado negativo y",
+    "duration": 4280,
+    "offset": 458380,
+    "lang": "es"
+  },
+  {
+    "text": "la distancia que se mueven es 2 metros",
+    "duration": 4800,
+    "offset": 460660,
+    "lang": "es"
+  },
+  {
+    "text": "cuando yo resuelvo esto menos verzeri",
+    "duration": 6009,
+    "offset": 462660,
+    "lang": "es"
+  },
+  {
+    "text": "con más por menos versión y me da 1 y me",
+    "duration": 4709,
+    "offset": 465460,
+    "lang": "es"
+  },
+  {
+    "text": "queda que esto va a ser igual a la",
+    "duration": 5681,
+    "offset": 468669,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza f por 2 metros",
+    "duration": 7631,
+    "offset": 470169,
+    "lang": "es"
+  },
+  {
+    "text": "de la misma manera el rozamiento se",
+    "duration": 5640,
+    "offset": 474350,
+    "lang": "es"
+  },
+  {
+    "text": "mueve exactamente por la misma curva sea",
+    "duration": 5100,
+    "offset": 477800,
+    "lang": "es"
+  },
+  {
+    "text": "el trabajo de la fuerza de rozamiento va",
+    "duration": 6780,
+    "offset": 479990,
+    "lang": "es"
+  },
+  {
+    "text": "a ser igual a la integral de 0 a 2 de la",
+    "duration": 6150,
+    "offset": 482900,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza de rozamiento en este caso de la",
+    "duration": 3870,
+    "offset": 486770,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza de rozamiento está en el sentido",
+    "duration": 4650,
+    "offset": 489050,
+    "lang": "es"
+  },
+  {
+    "text": "del más verzeri producto escalar el",
+    "duration": 4890,
+    "offset": 490640,
+    "lang": "es"
+  },
+  {
+    "text": "diferencial de camino es el mismo es",
+    "duration": 5700,
+    "offset": 493700,
+    "lang": "es"
+  },
+  {
+    "text": "menos ver sol y entonces esto me da me",
+    "duration": 6660,
+    "offset": 495530,
+    "lang": "es"
+  },
+  {
+    "text": "va a dar igualdad menos la fuerza de",
+    "duration": 6150,
+    "offset": 499400,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento por 2 metros",
+    "duration": 5410,
+    "offset": 502190,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 5550,
+    "offset": 505550,
+    "lang": "es"
+  },
+  {
+    "text": "y este era el punto c",
+    "duration": 8689,
+    "offset": 507600,
+    "lang": "es"
+  },
+  {
+    "text": "y ahora vamos a ver el punto d para el",
+    "duration": 9470,
+    "offset": 511100,
+    "lang": "es"
+  },
+  {
+    "text": "punto d tenemos que tener en cuenta",
+    "duration": 4281,
+    "offset": 516289,
+    "lang": "es"
+  },
+  {
+    "text": "el teorema de las fuerzas vivas la",
+    "duration": 5070,
+    "offset": 521320,
+    "lang": "es"
+  },
+  {
+    "text": "variación de la energía cinética es",
+    "duration": 4540,
+    "offset": 523720,
+    "lang": "es"
+  },
+  {
+    "text": "igual",
+    "duration": 5350,
+    "offset": 526390,
+    "lang": "es"
+  },
+  {
+    "text": "a la sumatoria del trabajo de todas las",
+    "duration": 6930,
+    "offset": 528260,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas internas externas conservativa",
+    "duration": 6720,
+    "offset": 531740,
+    "lang": "es"
+  },
+  {
+    "text": "sse no conservativa si bien es la",
+    "duration": 4470,
+    "offset": 535190,
+    "lang": "es"
+  },
+  {
+    "text": "sumatoria del trabajo de todas las",
+    "duration": 4100,
+    "offset": 538460,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas la variación de energía cinética",
+    "duration": 5880,
+    "offset": 539660,
+    "lang": "es"
+  },
+  {
+    "text": "entonces vamos a ver cuál es la energía",
+    "duration": 3960,
+    "offset": 542560,
+    "lang": "es"
+  },
+  {
+    "text": "cinética",
+    "duration": 4290,
+    "offset": 545540,
+    "lang": "es"
+  },
+  {
+    "text": "cuando yo aplico la fuerza f y hago que",
+    "duration": 6950,
+    "offset": 546520,
+    "lang": "es"
+  },
+  {
+    "text": "ésta mueva al cuerpo 1",
+    "duration": 6790,
+    "offset": 549830,
+    "lang": "es"
+  },
+  {
+    "text": "2 metros que es lo mismo que decir que",
+    "duration": 6900,
+    "offset": 553470,
+    "lang": "es"
+  },
+  {
+    "text": "hago que suba 4 metros el cuerpo 2 yo",
+    "duration": 6690,
+    "offset": 556620,
+    "lang": "es"
+  },
+  {
+    "text": "voy a tener que un medio de la masa de 1",
+    "duration": 7909,
+    "offset": 560370,
+    "lang": "es"
+  },
+  {
+    "text": "por la velocidad de 1 al cuadrado más",
+    "duration": 8029,
+    "offset": 563310,
+    "lang": "es"
+  },
+  {
+    "text": "un medio de la masa de dos por la",
+    "duration": 5191,
+    "offset": 568279,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad de dos al cuadrado va a ser la",
+    "duration": 4021,
+    "offset": 571339,
+    "lang": "es"
+  },
+  {
+    "text": "variación de energía cinética porque el",
+    "duration": 3750,
+    "offset": 573470,
+    "lang": "es"
+  },
+  {
+    "text": "problema dice que parte del reposo sea",
+    "duration": 4430,
+    "offset": 575360,
+    "lang": "es"
+  },
+  {
+    "text": "que la inicial es cero",
+    "duration": 5480,
+    "offset": 577220,
+    "lang": "es"
+  },
+  {
+    "text": "y ahora qué fuerzas hacen trabajo",
+    "duration": 6990,
+    "offset": 579790,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que acá tenemos para el caso del",
+    "duration": 8070,
+    "offset": 582700,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo uno vamos a tener el trabajo de",
+    "duration": 4860,
+    "offset": 586780,
+    "lang": "es"
+  },
+  {
+    "text": "la fuerza",
+    "duration": 2760,
+    "offset": 590770,
+    "lang": "es"
+  },
+  {
+    "text": "efe que es el mismo que calculamos",
+    "duration": 6450,
+    "offset": 591640,
+    "lang": "es"
+  },
+  {
+    "text": "arriba más el trabajo de la fuerza de",
+    "duration": 6660,
+    "offset": 593530,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento el mismo que calculamos",
+    "duration": 7890,
+    "offset": 598090,
+    "lang": "es"
+  },
+  {
+    "text": "arriba más el trabajo de la normal uno",
+    "duration": 8550,
+    "offset": 600190,
+    "lang": "es"
+  },
+  {
+    "text": "s hay que calcularlo",
+    "duration": 6060,
+    "offset": 605980,
+    "lang": "es"
+  },
+  {
+    "text": "y para el caso del cuerpo 2 vamos a",
+    "duration": 9360,
+    "offset": 608740,
+    "lang": "es"
+  },
+  {
+    "text": "tener el trabajo de el peso de 2 y a su",
+    "duration": 8940,
+    "offset": 612040,
+    "lang": "es"
+  },
+  {
+    "text": "vez vamos a tener la sumatoria del",
+    "duration": 6799,
+    "offset": 618100,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo de todas las tensiones",
+    "duration": 3919,
+    "offset": 620980,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense qué fuerzas actúan",
+    "duration": 5500,
+    "offset": 625860,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que hacer el trabajo de todas",
+    "duration": 2900,
+    "offset": 629440,
+    "lang": "es"
+  },
+  {
+    "text": "las fuerzas",
+    "duration": 4310,
+    "offset": 631360,
+    "lang": "es"
+  },
+  {
+    "text": "acá bien acá también tendríamos el",
+    "duration": 6010,
+    "offset": 632340,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo habría que sumar también el",
+    "duration": 4860,
+    "offset": 635670,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo de él",
+    "duration": 4730,
+    "offset": 638350,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 6530,
+    "offset": 640530,
+    "lang": "es"
+  },
+  {
+    "text": "el trabajo del peso de un ano",
+    "duration": 3980,
+    "offset": 643080,
+    "lang": "es"
+  },
+  {
+    "text": "acá habría que poner el trabajo de el",
+    "duration": 6469,
+    "offset": 648100,
+    "lang": "es"
+  },
+  {
+    "text": "peso de uno",
+    "duration": 2810,
+    "offset": 651759,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá sí tendríamos el trabajo",
+    "duration": 5760,
+    "offset": 654850,
+    "lang": "es"
+  },
+  {
+    "text": "del peso de uno el trabajo de la normal",
+    "duration": 3541,
+    "offset": 658959,
+    "lang": "es"
+  },
+  {
+    "text": "uno el trabajo de efe el trabajo de la",
+    "duration": 4740,
+    "offset": 660610,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza de rozamiento el trabajo de este",
+    "duration": 5610,
+    "offset": 662500,
+    "lang": "es"
+  },
+  {
+    "text": "peso y la sumatoria del trabajo de todas",
+    "duration": 5400,
+    "offset": 665350,
+    "lang": "es"
+  },
+  {
+    "text": "las tensiones la sumatoria del trabajo",
+    "duration": 4349,
+    "offset": 668110,
+    "lang": "es"
+  },
+  {
+    "text": "de todas las tensiones había demostrado",
+    "duration": 5970,
+    "offset": 670750,
+    "lang": "es"
+  },
+  {
+    "text": "ya a diego vilaseca en clase en este",
+    "duration": 7240,
+    "offset": 672459,
+    "lang": "es"
+  },
+  {
+    "text": "caso particular es igual a cero",
+    "duration": 4989,
+    "offset": 676720,
+    "lang": "es"
+  },
+  {
+    "text": "el trabajo del peso uno siempre es",
+    "duration": 3630,
+    "offset": 679699,
+    "lang": "es"
+  },
+  {
+    "text": "ortogonal al desplazamiento es igual a",
+    "duration": 3600,
+    "offset": 681709,
+    "lang": "es"
+  },
+  {
+    "text": "cero y el trabajo de la normal uno",
+    "duration": 3810,
+    "offset": 683329,
+    "lang": "es"
+  },
+  {
+    "text": "también exhortaron al desplazamiento y",
+    "duration": 6030,
+    "offset": 685309,
+    "lang": "es"
+  },
+  {
+    "text": "es igual a cero o sea a y acá le tengo",
+    "duration": 8521,
+    "offset": 687139,
+    "lang": "es"
+  },
+  {
+    "text": "que sumar perdón el trabajo de la fuerza",
+    "duration": 9270,
+    "offset": 691339,
+    "lang": "es"
+  },
+  {
+    "text": "efe que tiene la componente g porque lo",
+    "duration": 6539,
+    "offset": 695660,
+    "lang": "es"
+  },
+  {
+    "text": "que decía el problema es que había que",
+    "duration": 5190,
+    "offset": 700609,
+    "lang": "es"
+  },
+  {
+    "text": "considerar que ahora actuaba una fuerza",
+    "duration": 5271,
+    "offset": 702199,
+    "lang": "es"
+  },
+  {
+    "text": "f",
+    "duration": 3660,
+    "offset": 705799,
+    "lang": "es"
+  },
+  {
+    "text": "efe que es igual a g por y en la",
+    "duration": 4619,
+    "offset": 707470,
+    "lang": "es"
+  },
+  {
+    "text": "dirección del menos ver sor j",
+    "duration": 7070,
+    "offset": 709459,
+    "lang": "es"
+  },
+  {
+    "text": "bien entonces acá tengo el trabajo de la",
+    "duration": 6240,
+    "offset": 712089,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza de rozamiento que es el calculado",
+    "duration": 4050,
+    "offset": 716529,
+    "lang": "es"
+  },
+  {
+    "text": "en el punto ce el trabajo de la fuerza a",
+    "duration": 4341,
+    "offset": 718329,
+    "lang": "es"
+  },
+  {
+    "text": "efe que es el calculado en el punto ce",
+    "duration": 5851,
+    "offset": 720579,
+    "lang": "es"
+  },
+  {
+    "text": "el trabajo del peso de 2 acuérdense que",
+    "duration": 6770,
+    "offset": 722670,
+    "lang": "es"
+  },
+  {
+    "text": "el trabajo del peso",
+    "duration": 5920,
+    "offset": 726430,
+    "lang": "es"
+  },
+  {
+    "text": "este trabajo del peso no es otra cosa",
+    "duration": 4680,
+    "offset": 729440,
+    "lang": "es"
+  },
+  {
+    "text": "que",
+    "duration": 2870,
+    "offset": 732350,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 4340,
+    "offset": 734120,
+    "lang": "es"
+  },
+  {
+    "text": "variación de energía potencial bien es",
+    "duration": 8670,
+    "offset": 735220,
+    "lang": "es"
+  },
+  {
+    "text": "la variación de esta energía potencial",
+    "duration": 9760,
+    "offset": 738460,
+    "lang": "es"
+  },
+  {
+    "text": "gravitatoria bien en este caso lo que",
+    "duration": 6190,
+    "offset": 743890,
+    "lang": "es"
+  },
+  {
+    "text": "hay que considerar si ustedes hacen el",
+    "duration": 4980,
+    "offset": 748220,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo del peso el peso va para abajo y",
+    "duration": 5250,
+    "offset": 750080,
+    "lang": "es"
+  },
+  {
+    "text": "el diferencial de camino va para arriba",
+    "duration": 4460,
+    "offset": 753200,
+    "lang": "es"
+  },
+  {
+    "text": "con lo cual este trabajo va a ser",
+    "duration": 4560,
+    "offset": 755330,
+    "lang": "es"
+  },
+  {
+    "text": "negativo bien este trabajo va a ser",
+    "duration": 4109,
+    "offset": 757660,
+    "lang": "es"
+  },
+  {
+    "text": "menos",
+    "duration": 4970,
+    "offset": 759890,
+    "lang": "es"
+  },
+  {
+    "text": "de m2 por g por",
+    "duration": 6541,
+    "offset": 761769,
+    "lang": "es"
+  },
+  {
+    "text": "en este caso perdón 4 metros",
+    "duration": 5560,
+    "offset": 764860,
+    "lang": "es"
+  },
+  {
+    "text": "menos",
+    "duration": 6459,
+    "offset": 768310,
+    "lang": "es"
+  },
+  {
+    "text": "m 2 x x 4 metros bien ese va a ser el",
+    "duration": 6530,
+    "offset": 770420,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo",
+    "duration": 2181,
+    "offset": 774769,
+    "lang": "es"
+  }
+]

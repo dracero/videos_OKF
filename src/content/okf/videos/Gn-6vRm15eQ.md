@@ -4,7 +4,7 @@ title: "¿Estas listo..."
 description: "Visita https://www.roalvarez-psi.com ¡para descubrir más!"
 resource: "https://www.youtube.com/watch?v=Gn-6vRm15eQ"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-02T00:21:58.853Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:34.610Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"
@@ -18,7 +18,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-02"
+    last_modified: "2026-08-10"
   - id: channel-concept
     resource: "src/content/okf/channels/UCDs8wbm1jczac3UNYIAVxZg.md"
     title: "Channel: Diego Racero"

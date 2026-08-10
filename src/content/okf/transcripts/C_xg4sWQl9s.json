@@ -1,0 +1,722 @@
+[
+  {
+    "text": "como comenzar a aprender desarrollo web",
+    "duration": 6779,
+    "offset": 3610,
+    "lang": "es"
+  },
+  {
+    "text": "lo mejor que hay es ir a una web a donde",
+    "duration": 6449,
+    "offset": 6340,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos un sistema totalmente tutorial",
+    "duration": 4801,
+    "offset": 10389,
+    "lang": "es"
+  },
+  {
+    "text": "de cómo hacer el desarrollo y dónde",
+    "duration": 4981,
+    "offset": 12789,
+    "lang": "es"
+  },
+  {
+    "text": "empiezan de cero la que yo les",
+    "duration": 4680,
+    "offset": 15190,
+    "lang": "es"
+  },
+  {
+    "text": "recomiendo que use mucho y me sirvió",
+    "duration": 5470,
+    "offset": 17770,
+    "lang": "es"
+  },
+  {
+    "text": "mucho para aprender es code academy",
+    "duration": 7180,
+    "offset": 19870,
+    "lang": "es"
+  },
+  {
+    "text": "code academy king y cursos que son pagos",
+    "duration": 5520,
+    "offset": 23240,
+    "lang": "es"
+  },
+  {
+    "text": "pero también tiene gran cantidad de",
+    "duration": 3870,
+    "offset": 27050,
+    "lang": "es"
+  },
+  {
+    "text": "cursos que son gratuitos",
+    "duration": 4440,
+    "offset": 28760,
+    "lang": "es"
+  },
+  {
+    "text": "les recomiendo comenzar por los cursos",
+    "duration": 4709,
+    "offset": 30920,
+    "lang": "es"
+  },
+  {
+    "text": "gratuitos y si realmente tienen interés",
+    "duration": 4350,
+    "offset": 33200,
+    "lang": "es"
+  },
+  {
+    "text": "y quieren seguir profundizando bueno",
+    "duration": 4500,
+    "offset": 35629,
+    "lang": "es"
+  },
+  {
+    "text": "pueden optar por los cursos pagos la",
+    "duration": 5009,
+    "offset": 37550,
+    "lang": "es"
+  },
+  {
+    "text": "ventaja del curso pago es que tiene el",
+    "duration": 4621,
+    "offset": 40129,
+    "lang": "es"
+  },
+  {
+    "text": "certificado que después les va a servir",
+    "duration": 5250,
+    "offset": 42559,
+    "lang": "es"
+  },
+  {
+    "text": "para acreditar conocimientos vamos a",
+    "duration": 5040,
+    "offset": 44750,
+    "lang": "es"
+  },
+  {
+    "text": "hablar más adelante de dos modelos que",
+    "duration": 4651,
+    "offset": 47809,
+    "lang": "es"
+  },
+  {
+    "text": "existen para la implementación del",
+    "duration": 4350,
+    "offset": 49790,
+    "lang": "es"
+  },
+  {
+    "text": "software que ustedes desarrollan el",
+    "duration": 5580,
+    "offset": 52460,
+    "lang": "es"
+  },
+  {
+    "text": "modelo a mp apache mysql php y el modelo",
+    "duration": 8519,
+    "offset": 54140,
+    "lang": "es"
+  },
+  {
+    "text": "mer no hay el mundo express react y nook",
+    "duration": 7110,
+    "offset": 58040,
+    "lang": "es"
+  },
+  {
+    "text": "si es vamos a hablar más adelante de",
+    "duration": 5281,
+    "offset": 62659,
+    "lang": "es"
+  },
+  {
+    "text": "esto pero una vez que ustedes aprenden a",
+    "duration": 4920,
+    "offset": 65150,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollar código seguramente van a",
+    "duration": 4289,
+    "offset": 67940,
+    "lang": "es"
+  },
+  {
+    "text": "querer implementarlo y ponerlos que al",
+    "duration": 5159,
+    "offset": 70070,
+    "lang": "es"
+  },
+  {
+    "text": "aire en la web si quieren usar el modelo",
+    "duration": 6841,
+    "offset": 72229,
+    "lang": "es"
+  },
+  {
+    "text": "de mp es mejor lugar es joven y si",
+    "duration": 6451,
+    "offset": 75229,
+    "lang": "es"
+  },
+  {
+    "text": "quiere usar el modelo none el mejor",
+    "duration": 5920,
+    "offset": 79070,
+    "lang": "es"
+  },
+  {
+    "text": "lugar es con sandbox yo",
+    "duration": 5950,
+    "offset": 81680,
+    "lang": "es"
+  },
+  {
+    "text": "estas son plataformas que permiten que",
+    "duration": 4680,
+    "offset": 84990,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes desarrollen código y que lo",
+    "duration": 5430,
+    "offset": 87630,
+    "lang": "es"
+  },
+  {
+    "text": "publiquen en la web que hagan lo que se",
+    "duration": 6420,
+    "offset": 89670,
+    "lang": "es"
+  },
+  {
+    "text": "denomina el desarrollo de plug-in con",
+    "duration": 5190,
+    "offset": 93060,
+    "lang": "es"
+  },
+  {
+    "text": "qué lenguaje comenzar bien si nunca",
+    "duration": 4650,
+    "offset": 96090,
+    "lang": "es"
+  },
+  {
+    "text": "programaron lo mejor es comenzar con",
+    "duration": 6330,
+    "offset": 98250,
+    "lang": "es"
+  },
+  {
+    "text": "html css y javascript estos lenguajes",
+    "duration": 6090,
+    "offset": 100740,
+    "lang": "es"
+  },
+  {
+    "text": "son más que nada para todo lo que es la",
+    "duration": 5730,
+    "offset": 104580,
+    "lang": "es"
+  },
+  {
+    "text": "forma gráfica y javascript es todo lo",
+    "duration": 6329,
+    "offset": 106830,
+    "lang": "es"
+  },
+  {
+    "text": "que es la interacción programática y el",
+    "duration": 6809,
+    "offset": 110310,
+    "lang": "es"
+  },
+  {
+    "text": "manejo de los elementos y los eventos lo",
+    "duration": 6960,
+    "offset": 113159,
+    "lang": "es"
+  },
+  {
+    "text": "ideal es que empiecen con una en code",
+    "duration": 5250,
+    "offset": 117119,
+    "lang": "es"
+  },
+  {
+    "text": "academy y viendo estos lugares en forma",
+    "duration": 4170,
+    "offset": 120119,
+    "lang": "es"
+  },
+  {
+    "text": "gratis si quieren pueden pasarse a la",
+    "duration": 5310,
+    "offset": 122369,
+    "lang": "es"
+  },
+  {
+    "text": "forma paga pero si ustedes quieren ya",
+    "duration": 5961,
+    "offset": 124289,
+    "lang": "es"
+  },
+  {
+    "text": "comenzar a hacer desarrollos",
+    "duration": 5151,
+    "offset": 127679,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que tienen naciendo el lenguaje",
+    "duration": 6020,
+    "offset": 130250,
+    "lang": "es"
+  },
+  {
+    "text": "pueden ir a w 3 school o stack overflow",
+    "duration": 7710,
+    "offset": 132830,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí van a encontrar código que les va",
+    "duration": 8850,
+    "offset": 136270,
+    "lang": "es"
+  },
+  {
+    "text": "a ayudar a llevar adelante sus proyectos",
+    "duration": 4580,
+    "offset": 140540,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que ustedes ya saben manejar",
+    "duration": 4559,
+    "offset": 145290,
+    "lang": "es"
+  },
+  {
+    "text": "estos tres lenguajes de desarrollo web",
+    "duration": 3720,
+    "offset": 148019,
+    "lang": "es"
+  },
+  {
+    "text": "les conviene pasarse a los lenguajes de",
+    "duration": 5480,
+    "offset": 149849,
+    "lang": "es"
+  },
+  {
+    "text": "modelo netamente más como react 110",
+    "duration": 5610,
+    "offset": 151739,
+    "lang": "es"
+  },
+  {
+    "text": "tecnologías sobre todo les conviene",
+    "duration": 4601,
+    "offset": 155329,
+    "lang": "es"
+  },
+  {
+    "text": "express que es para hacer servicios web",
+    "duration": 5821,
+    "offset": 157349,
+    "lang": "es"
+  },
+  {
+    "text": "o rest api y riad que es más que nada",
+    "duration": 5399,
+    "offset": 159930,
+    "lang": "es"
+  },
+  {
+    "text": "para la parte de front-end y es un",
+    "duration": 3720,
+    "offset": 163170,
+    "lang": "es"
+  },
+  {
+    "text": "lenguaje en el que están hechos muchas",
+    "duration": 3891,
+    "offset": 165329,
+    "lang": "es"
+  },
+  {
+    "text": "webs e importantes por ejemplo",
+    "duration": 5370,
+    "offset": 166890,
+    "lang": "es"
+  },
+  {
+    "text": "mercadolibre o facebook está hecha en",
+    "duration": 4599,
+    "offset": 169220,
+    "lang": "es"
+  },
+  {
+    "text": "riad",
+    "duration": 4800,
+    "offset": 172260,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que ustedes manejan bien estos",
+    "duration": 5221,
+    "offset": 173819,
+    "lang": "es"
+  },
+  {
+    "text": "lenguajes de frank y back end les",
+    "duration": 4200,
+    "offset": 177060,
+    "lang": "es"
+  },
+  {
+    "text": "conviene pensar con base de datos uno",
+    "duration": 5069,
+    "offset": 179040,
+    "lang": "es"
+  },
+  {
+    "text": "debe o maría debe y lenguajes de",
+    "duration": 6509,
+    "offset": 181260,
+    "lang": "es"
+  },
+  {
+    "text": "back-end como python hola mongodb lo",
+    "duration": 5431,
+    "offset": 184109,
+    "lang": "es"
+  },
+  {
+    "text": "pueden aprender gratis en el mango",
+    "duration": 4771,
+    "offset": 187769,
+    "lang": "es"
+  },
+  {
+    "text": "university y payton y golán son también",
+    "duration": 5220,
+    "offset": 189540,
+    "lang": "es"
+  },
+  {
+    "text": "lenguajes de scripting que pueden",
+    "duration": 5309,
+    "offset": 192540,
+    "lang": "es"
+  },
+  {
+    "text": "aprender en code academy o que ustedes",
+    "duration": 6240,
+    "offset": 194760,
+    "lang": "es"
+  },
+  {
+    "text": "también pueden buscar en distintos en",
+    "duration": 5941,
+    "offset": 197849,
+    "lang": "es"
+  },
+  {
+    "text": "distintas webs de cursos online como",
+    "duration": 6769,
+    "offset": 201000,
+    "lang": "es"
+  },
+  {
+    "text": "course era de x",
+    "duration": 3979,
+    "offset": 203790,
+    "lang": "es"
+  },
+  {
+    "text": "soy un pulsera de x este sí hoy un tee",
+    "duration": 7800,
+    "offset": 208580,
+    "lang": "es"
+  },
+  {
+    "text": "bien pero q será ye de x sobre todo",
+    "duration": 5310,
+    "offset": 213620,
+    "lang": "es"
+  },
+  {
+    "text": "tienen muy buenos cursos de payton y",
+    "duration": 5370,
+    "offset": 216380,
+    "lang": "es"
+  },
+  {
+    "text": "gholam sobre todo de pantón y la parte",
+    "duration": 5850,
+    "offset": 218930,
+    "lang": "es"
+  },
+  {
+    "text": "de x hay muy buenos usos de golán por",
+    "duration": 7170,
+    "offset": 221750,
+    "lang": "es"
+  },
+  {
+    "text": "ahí no tanto pero no es un lenguaje tan",
+    "duration": 6150,
+    "offset": 224780,
+    "lang": "es"
+  },
+  {
+    "text": "complicado de aprender y tiene",
+    "duration": 4680,
+    "offset": 228920,
+    "lang": "es"
+  },
+  {
+    "text": "muchísimos ejemplos de código ya que fue",
+    "duration": 5150,
+    "offset": 230930,
+    "lang": "es"
+  },
+  {
+    "text": "inventado desarrollado producto bien",
+    "duration": 4400,
+    "offset": 233600,
+    "lang": "es"
+  },
+  {
+    "text": "bueno para",
+    "duration": 3870,
+    "offset": 236080,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 6810,
+    "offset": 238000,
+    "lang": "es"
+  },
+  {
+    "text": "y hacer la publicación es muy bueno pero",
+    "duration": 7440,
+    "offset": 239950,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que ustedes tienen hecha su",
+    "duration": 5490,
+    "offset": 244810,
+    "lang": "es"
+  },
+  {
+    "text": "página web la quieren poner al aire en",
+    "duration": 5310,
+    "offset": 247390,
+    "lang": "es"
+  },
+  {
+    "text": "la web quieren publicarla con su propia",
+    "duration": 7890,
+    "offset": 250300,
+    "lang": "es"
+  },
+  {
+    "text": "url pero q es muy muy buen lugar para",
+    "duration": 8520,
+    "offset": 252700,
+    "lang": "es"
+  },
+  {
+    "text": "comenzar existen otras como netflix fine",
+    "duration": 6720,
+    "offset": 258190,
+    "lang": "es"
+  },
+  {
+    "text": "que está más adaptada al modelo nerd y",
+    "duration": 6270,
+    "offset": 261220,
+    "lang": "es"
+  },
+  {
+    "text": "una muy buena web para también aprender",
+    "duration": 6210,
+    "offset": 264910,
+    "lang": "es"
+  },
+  {
+    "text": "y hacer publicaciones es glitch a donde",
+    "duration": 6600,
+    "offset": 267490,
+    "lang": "es"
+  },
+  {
+    "text": "sobre todo tienen una consola linux y",
+    "duration": 5580,
+    "offset": 271120,
+    "lang": "es"
+  },
+  {
+    "text": "que van a poder utilizar para hacer",
+    "duration": 4320,
+    "offset": 274090,
+    "lang": "es"
+  },
+  {
+    "text": "prácticas con git hub que es un",
+    "duration": 3920,
+    "offset": 276700,
+    "lang": "es"
+  },
+  {
+    "text": "repositorio de código muy utilizado",
+    "duration": 5009,
+    "offset": 278410,
+    "lang": "es"
+  },
+  {
+    "text": "todas estas cosas las vamos a ver en",
+    "duration": 5470,
+    "offset": 280620,
+    "lang": "es"
+  },
+  {
+    "text": "sucesivos vídeos para que usted les vaya",
+    "duration": 5431,
+    "offset": 283419,
+    "lang": "es"
+  },
+  {
+    "text": "quedando claro cómo ir haciendo el",
+    "duration": 6780,
+    "offset": 286090,
+    "lang": "es"
+  },
+  {
+    "text": "trayecto de aprendizaje bien y también",
+    "duration": 7650,
+    "offset": 288850,
+    "lang": "es"
+  },
+  {
+    "text": "es importante saber cómo se hacen los",
+    "duration": 6589,
+    "offset": 292870,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollos cómo se implementan",
+    "duration": 6229,
+    "offset": 296500,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando doquier y gobernantes",
+    "duration": 5591,
+    "offset": 299459,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollados en google clavo en amazon",
+    "duration": 5710,
+    "offset": 302729,
+    "lang": "es"
+  },
+  {
+    "text": "web services una web muy buena para esto",
+    "duration": 6569,
+    "offset": 305050,
+    "lang": "es"
+  },
+  {
+    "text": "es cata kodak cata cola tiene la",
+    "duration": 5760,
+    "offset": 308439,
+    "lang": "es"
+  },
+  {
+    "text": "posibilidad la posibilidad de utilizar",
+    "duration": 6600,
+    "offset": 311619,
+    "lang": "es"
+  },
+  {
+    "text": "dos cars y q vernet es pero ustedes lo",
+    "duration": 7200,
+    "offset": 314199,
+    "lang": "es"
+  },
+  {
+    "text": "hacen dentro como en el caso de code",
+    "duration": 4901,
+    "offset": 318219,
+    "lang": "es"
+  },
+  {
+    "text": "academy",
+    "duration": 3371,
+    "offset": 321399,
+    "lang": "es"
+  },
+  {
+    "text": "lo hacen dentro de un ambiente",
+    "duration": 4470,
+    "offset": 323120,
+    "lang": "es"
+  },
+  {
+    "text": "controlado en la misma web y tienen",
+    "duration": 5190,
+    "offset": 324770,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplos a dónde les van diciendo paso a",
+    "duration": 4079,
+    "offset": 327590,
+    "lang": "es"
+  },
+  {
+    "text": "paso aparece el código que tienen que",
+    "duration": 3720,
+    "offset": 329960,
+    "lang": "es"
+  },
+  {
+    "text": "implementar y les explican todas y cada",
+    "duration": 6681,
+    "offset": 331669,
+    "lang": "es"
+  },
+  {
+    "text": "una de las cosas que están haciendo bien",
+    "duration": 8970,
+    "offset": 333680,
+    "lang": "es"
+  },
+  {
+    "text": "eso es un poco un pantallazo espero que",
+    "duration": 7289,
+    "offset": 338350,
+    "lang": "es"
+  },
+  {
+    "text": "les haya servido",
+    "duration": 2989,
+    "offset": 342650,
+    "lang": "es"
+  }
+]

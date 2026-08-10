@@ -1,0 +1,542 @@
+[
+  {
+    "text": "Gracias. ¿Cómo estás tú?",
+    "duration": 3639,
+    "offset": 0,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, bien. ¿Me podés decir de qué son",
+    "duration": 5680,
+    "offset": 1920,
+    "lang": "es"
+  },
+  {
+    "text": "los documentos que tenés cargados?",
+    "duration": 3961,
+    "offset": 3639,
+    "lang": "es"
+  },
+  {
+    "text": "Claro, los documentos que tengo cargados",
+    "duration": 5719,
+    "offset": 7960,
+    "lang": "es"
+  },
+  {
+    "text": "son sobre física. Específicamente se",
+    "duration": 5321,
+    "offset": 10639,
+    "lang": "es"
+  },
+  {
+    "text": "tratan de apuntes para estudiantes de",
+    "duration": 4760,
+    "offset": 13679,
+    "lang": "es"
+  },
+  {
+    "text": "ingeniería cubriendo temas como",
+    "duration": 5920,
+    "offset": 15960,
+    "lang": "es"
+  },
+  {
+    "text": "cinemática de la partícula, dinámica,",
+    "duration": 5920,
+    "offset": 18439,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo y energía, sistemas de",
+    "duration": 5440,
+    "offset": 21880,
+    "lang": "es"
+  },
+  {
+    "text": "partículas, cinemática y dinámica del",
+    "duration": 5760,
+    "offset": 24359,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido e hidrodinámica. ¿Te",
+    "duration": 5079,
+    "offset": 27320,
+    "lang": "es"
+  },
+  {
+    "text": "gustaría saber más sobre algún tema en",
+    "duration": 3321,
+    "offset": 30119,
+    "lang": "es"
+  },
+  {
+    "text": "particular?",
+    "duration": 3241,
+    "offset": 32399,
+    "lang": "es"
+  },
+  {
+    "text": "Puede ser que los haya escrito uno de",
+    "duration": 6279,
+    "offset": 33440,
+    "lang": "es"
+  },
+  {
+    "text": "los autores sea Ema Veleira.",
+    "duration": 4079,
+    "offset": 35640,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, es correcto. La obra física para",
+    "duration": 5800,
+    "offset": 41399,
+    "lang": "es"
+  },
+  {
+    "text": "estudiantes de ingeniería fue escrita",
+    "duration": 5200,
+    "offset": 44640,
+    "lang": "es"
+  },
+  {
+    "text": "por docentes de física 1 de la Facultad",
+    "duration": 4680,
+    "offset": 47199,
+    "lang": "es"
+  },
+  {
+    "text": "de Ingeniería de la Universidad de",
+    "duration": 5239,
+    "offset": 49840,
+    "lang": "es"
+  },
+  {
+    "text": "Buenos Aires y está coordinada por Ema",
+    "duration": 6761,
+    "offset": 51879,
+    "lang": "es"
+  },
+  {
+    "text": "Abeleira, quien también es coautora.",
+    "duration": 6041,
+    "offset": 55079,
+    "lang": "es"
+  },
+  {
+    "text": "Esto se menciona en la parte final de",
+    "duration": 4480,
+    "offset": 58640,
+    "lang": "es"
+  },
+  {
+    "text": "cada uno de los documentos que tengo",
+    "duration": 3280,
+    "offset": 61120,
+    "lang": "es"
+  },
+  {
+    "text": "cargados.",
+    "duration": 3999,
+    "offset": 63120,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, te hago una consulta. Pesa acá la",
+    "duration": 6759,
+    "offset": 64400,
+    "lang": "es"
+  },
+  {
+    "text": "expresión de el momento angular de un",
+    "duration": 6121,
+    "offset": 67119,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido.",
+    "duration": 4081,
+    "offset": 71159,
+    "lang": "es"
+  },
+  {
+    "text": "Quería saber si es correcta, si está",
+    "duration": 4040,
+    "offset": 73240,
+    "lang": "es"
+  },
+  {
+    "text": "bien y es correcto con lo que dicen los",
+    "duration": 5040,
+    "offset": 75240,
+    "lang": "es"
+  },
+  {
+    "text": "apuntes.",
+    "duration": 3000,
+    "offset": 77280,
+    "lang": "es"
+  },
+  {
+    "text": "El momento angular de un cuerpo rígido",
+    "duration": 5040,
+    "offset": 81240,
+    "lang": "es"
+  },
+  {
+    "text": "se define con respecto a un eje y su",
+    "duration": 5680,
+    "offset": 83360,
+    "lang": "es"
+  },
+  {
+    "text": "valor es igual a la multiplicación del",
+    "duration": 5000,
+    "offset": 86280,
+    "lang": "es"
+  },
+  {
+    "text": "momento de inercia del cuerpo con",
+    "duration": 4840,
+    "offset": 89040,
+    "lang": "es"
+  },
+  {
+    "text": "respecto a ese eje por la velocidad",
+    "duration": 5240,
+    "offset": 91280,
+    "lang": "es"
+  },
+  {
+    "text": "angular. Según lo que puedo ver en tus",
+    "duration": 5559,
+    "offset": 93880,
+    "lang": "es"
+  },
+  {
+    "text": "apuntes, la expresión que escribiste es",
+    "duration": 5160,
+    "offset": 96520,
+    "lang": "es"
+  },
+  {
+    "text": "correcta para el momento angular de un",
+    "duration": 4601,
+    "offset": 99439,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido con respecto al centro de",
+    "duration": 7240,
+    "offset": 101680,
+    "lang": "es"
+  },
+  {
+    "text": "masa, donde LCM es el momento angular,",
+    "duration": 7960,
+    "offset": 104040,
+    "lang": "es"
+  },
+  {
+    "text": "ICM es el momento de inercia con",
+    "duration": 6159,
+    "offset": 108920,
+    "lang": "es"
+  },
+  {
+    "text": "respecto al centro de masa y omega es la",
+    "duration": 6119,
+    "offset": 112000,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad angular. ¿Tienes alguna otra",
+    "duration": 5680,
+    "offset": 115079,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta sobre este tema o algún otro de",
+    "duration": 3761,
+    "offset": 118119,
+    "lang": "es"
+  },
+  {
+    "text": "los documentos?",
+    "duration": 5201,
+    "offset": 120759,
+    "lang": "es"
+  },
+  {
+    "text": "Sí. ¿Ves esto que tengo en la mano?",
+    "duration": 4080,
+    "offset": 121880,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, veo una pelota pequeña de color",
+    "duration": 5040,
+    "offset": 126880,
+    "lang": "es"
+  },
+  {
+    "text": "anaranjado en tu mano. ¿Te gustaría",
+    "duration": 4440,
+    "offset": 129640,
+    "lang": "es"
+  },
+  {
+    "text": "saber algo sobre ella en relación a los",
+    "duration": 3039,
+    "offset": 131920,
+    "lang": "es"
+  },
+  {
+    "text": "documentos?",
+    "duration": 2519,
+    "offset": 134080,
+    "lang": "es"
+  },
+  {
+    "text": "Sí. Eh, ¿me puedes decir cuál es el",
+    "duration": 5721,
+    "offset": 134959,
+    "lang": "es"
+  },
+  {
+    "text": "momento de inercia de esta figura?",
+    "duration": 4081,
+    "offset": 136599,
+    "lang": "es"
+  },
+  {
+    "text": "Para una pelota como la que tienes en la",
+    "duration": 5240,
+    "offset": 141760,
+    "lang": "es"
+  },
+  {
+    "text": "mano, que se puede considerar una esfera",
+    "duration": 5840,
+    "offset": 144080,
+    "lang": "es"
+  },
+  {
+    "text": "homogénea, el momento de inercia con",
+    "duration": 5440,
+    "offset": 147000,
+    "lang": "es"
+  },
+  {
+    "text": "respecto a un eje que pasa por su centro",
+    "duration": 6399,
+    "offset": 149920,
+    "lang": "es"
+  },
+  {
+    "text": "de masa es igual a 2/5 de la masa de la",
+    "duration": 6719,
+    "offset": 152440,
+    "lang": "es"
+  },
+  {
+    "text": "esfera multiplicada por el cuadrado de",
+    "duration": 5521,
+    "offset": 156319,
+    "lang": "es"
+  },
+  {
+    "text": "su radio. Esto se menciona en los",
+    "duration": 5641,
+    "offset": 159159,
+    "lang": "es"
+  },
+  {
+    "text": "documentos en el capítulo de dinámica",
+    "duration": 5679,
+    "offset": 161840,
+    "lang": "es"
+  },
+  {
+    "text": "del cuerpo rígido. ¿Te sirve esa",
+    "duration": 7200,
+    "offset": 164800,
+    "lang": "es"
+  },
+  {
+    "text": "información? Yes, perfect. It supposed",
+    "duration": 7041,
+    "offset": 167519,
+    "lang": "es"
+  },
+  {
+    "text": "to switch to English because I have a",
+    "duration": 6599,
+    "offset": 172000,
+    "lang": "es"
+  },
+  {
+    "text": "foreign foreign students and um you have",
+    "duration": 7480,
+    "offset": 174560,
+    "lang": "es"
+  },
+  {
+    "text": "to translate the concept on the document",
+    "duration": 5841,
+    "offset": 178599,
+    "lang": "es"
+  },
+  {
+    "text": "but um",
+    "duration": 4839,
+    "offset": 182040,
+    "lang": "es"
+  },
+  {
+    "text": "not in Spanish you have to explain but",
+    "duration": 4640,
+    "offset": 184440,
+    "lang": "es"
+  },
+  {
+    "text": "not in Spanish you have to explain it in",
+    "duration": 5920,
+    "offset": 186879,
+    "lang": "es"
+  },
+  {
+    "text": "in English. Uh could you speak English",
+    "duration": 5760,
+    "offset": 189080,
+    "lang": "es"
+  },
+  {
+    "text": "and translate the document to English",
+    "duration": 5681,
+    "offset": 192799,
+    "lang": "es"
+  },
+  {
+    "text": "without any problem?",
+    "duration": 3640,
+    "offset": 194840,
+    "lang": "es"
+  },
+  {
+    "text": "Yes, certainly. I can explain the",
+    "duration": 4761,
+    "offset": 205879,
+    "lang": "es"
+  },
+  {
+    "text": "concepts from the documents in English",
+    "duration": 5640,
+    "offset": 208560,
+    "lang": "es"
+  },
+  {
+    "text": "for you. What would you like to go over?",
+    "duration": 8640,
+    "offset": 210640,
+    "lang": "es"
+  },
+  {
+    "text": "The angular moment of um the body, but",
+    "duration": 9000,
+    "offset": 214200,
+    "lang": "es"
+  },
+  {
+    "text": "that time in English.",
+    "duration": 3920,
+    "offset": 219280,
+    "lang": "es"
+  },
+  {
+    "text": "The angular momentum of a rigid body is",
+    "duration": 5720,
+    "offset": 229120,
+    "lang": "es"
+  },
+  {
+    "text": "defined with respect to an axis. It is",
+    "duration": 5120,
+    "offset": 231959,
+    "lang": "es"
+  },
+  {
+    "text": "equal to the product of the moment of",
+    "duration": 4479,
+    "offset": 234840,
+    "lang": "es"
+  },
+  {
+    "text": "inertia of the body with respect to that",
+    "duration": 5720,
+    "offset": 237079,
+    "lang": "es"
+  },
+  {
+    "text": "axis and the angular velocity. Does that",
+    "duration": 5801,
+    "offset": 239319,
+    "lang": "es"
+  },
+  {
+    "text": "concept make sense to you? Yes, that",
+    "duration": 7080,
+    "offset": 242799,
+    "lang": "es"
+  },
+  {
+    "text": "makes sense for me. So, could you um",
+    "duration": 7800,
+    "offset": 245120,
+    "lang": "es"
+  },
+  {
+    "text": "could you let me know uh who are the",
+    "duration": 6961,
+    "offset": 249879,
+    "lang": "es"
+  },
+  {
+    "text": "authors? of the",
+    "duration": 7279,
+    "offset": 252920,
+    "lang": "es"
+  },
+  {
+    "text": "of the documents",
+    "duration": 3359,
+    "offset": 256840,
+    "lang": "es"
+  },
+  {
+    "text": "hello. Are you here again?",
+    "duration": 4920,
+    "offset": 278400,
+    "lang": "es"
+  },
+  {
+    "text": "Hello. Yes, I am here. How can I help",
+    "duration": 5881,
+    "offset": 284919,
+    "lang": "es"
+  },
+  {
+    "text": "you today? Uh, could you tell me who are",
+    "duration": 6199,
+    "offset": 288000,
+    "lang": "es"
+  },
+  {
+    "text": "the documentors?",
+    "duration": 3399,
+    "offset": 290800,
+    "lang": "es"
+  }
+]

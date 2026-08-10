@@ -1,0 +1,494 @@
+[
+  {
+    "text": "finalmente construimos un agente",
+    "duration": 6081,
+    "offset": 1319,
+    "lang": "es"
+  },
+  {
+    "text": "jerárquico vamos a ponerlo a",
+    "duration": 6160,
+    "offset": 3399,
+    "lang": "es"
+  },
+  {
+    "text": "funcionar qué es lo que hace este agente",
+    "duration": 4159,
+    "offset": 7400,
+    "lang": "es"
+  },
+  {
+    "text": "jerárquico tiene por un lado una",
+    "duration": 5320,
+    "offset": 9559,
+    "lang": "es"
+  },
+  {
+    "text": "búsqueda web a través de tabili y por",
+    "duration": 8921,
+    "offset": 11559,
+    "lang": "es"
+  },
+  {
+    "text": "otro lado tiene dos agentes que buscan",
+    "duration": 8281,
+    "offset": 14879,
+    "lang": "es"
+  },
+  {
+    "text": "vdeos en YouTube Entonces cuántos",
+    "duration": 5280,
+    "offset": 20480,
+    "lang": "es"
+  },
+  {
+    "text": "agentes tenemos cuatro tenemos un agente",
+    "duration": 6279,
+    "offset": 23160,
+    "lang": "es"
+  },
+  {
+    "text": "coordinador que no tiene Tools tenemos",
+    "duration": 5400,
+    "offset": 25760,
+    "lang": "es"
+  },
+  {
+    "text": "una gente que",
+    "duration": 5761,
+    "offset": 29439,
+    "lang": "es"
+  },
+  {
+    "text": "busca el canal de YouTube una gente que",
+    "duration": 6239,
+    "offset": 31160,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que tiene el de canal Busca el",
+    "duration": 5480,
+    "offset": 35200,
+    "lang": "es"
+  },
+  {
+    "text": "contenido y tabili un agente que busca",
+    "duration": 6000,
+    "offset": 37399,
+    "lang": "es"
+  },
+  {
+    "text": "contenido web acá tenemos definidos los",
+    "duration": 4960,
+    "offset": 40680,
+    "lang": "es"
+  },
+  {
+    "text": "tres agentes y acá le decimos que el",
+    "duration": 5401,
+    "offset": 43399,
+    "lang": "es"
+  },
+  {
+    "text": "manager agent es el agente coordinador y",
+    "duration": 6000,
+    "offset": 45640,
+    "lang": "es"
+  },
+  {
+    "text": "definimos el proceso como jerárquico o",
+    "duration": 4680,
+    "offset": 48800,
+    "lang": "es"
+  },
+  {
+    "text": "sea tenemos cuatro agentes en un proceso",
+    "duration": 3719,
+    "offset": 51640,
+    "lang": "es"
+  },
+  {
+    "text": "jerárquico Entonces lo primero que le",
+    "duration": 3759,
+    "offset": 53480,
+    "lang": "es"
+  },
+  {
+    "text": "voy a decir",
+    "duration": 6441,
+    "offset": 55359,
+    "lang": "es"
+  },
+  {
+    "text": "es quiero hacer una",
+    "duration": 8801,
+    "offset": 57239,
+    "lang": "es"
+  },
+  {
+    "text": "búsqueda web para",
+    "duration": 7240,
+    "offset": 61800,
+    "lang": "es"
+  },
+  {
+    "text": "saber quién",
+    "duration": 4840,
+    "offset": 66040,
+    "lang": "es"
+  },
+  {
+    "text": "fue",
+    "duration": 4360,
+    "offset": 69040,
+    "lang": "es"
+  },
+  {
+    "text": "Jorge Luis",
+    "duration": 4919,
+    "offset": 70880,
+    "lang": "es"
+  },
+  {
+    "text": "Borges por es importante poner que",
+    "duration": 4120,
+    "offset": 73400,
+    "lang": "es"
+  },
+  {
+    "text": "quiero hacer una búsqueda web no hay",
+    "duration": 5041,
+    "offset": 75799,
+    "lang": "es"
+  },
+  {
+    "text": "ningún tipo de If no hay nada pero el",
+    "duration": 6800,
+    "offset": 77520,
+    "lang": "es"
+  },
+  {
+    "text": "stability llm de gr es muy",
+    "duration": 6200,
+    "offset": 80840,
+    "lang": "es"
+  },
+  {
+    "text": "grande y nosotros tenemos que ser muy",
+    "duration": 5640,
+    "offset": 84320,
+    "lang": "es"
+  },
+  {
+    "text": "claros y específicos con el prom para",
+    "duration": 6480,
+    "offset": 87040,
+    "lang": "es"
+  },
+  {
+    "text": "realmente elija el el el agente que más",
+    "duration": 7159,
+    "offset": 89960,
+    "lang": "es"
+  },
+  {
+    "text": "conviene porque si no lo hacemos así lo",
+    "duration": 6959,
+    "offset": 93520,
+    "lang": "es"
+  },
+  {
+    "text": "que el proceso es muy estocástico es",
+    "duration": 6000,
+    "offset": 97119,
+    "lang": "es"
+  },
+  {
+    "text": "demasiado difuso y no va a dar el",
+    "duration": 5600,
+    "offset": 100479,
+    "lang": "es"
+  },
+  {
+    "text": "resultado que queremos ahí empieza",
+    "duration": 8640,
+    "offset": 103119,
+    "lang": "es"
+  },
+  {
+    "text": "entonces a buscar ya está eligiendo el",
+    "duration": 8320,
+    "offset": 106079,
+    "lang": "es"
+  },
+  {
+    "text": "el agente web researcher y acá ya",
+    "duration": 5561,
+    "offset": 111759,
+    "lang": "es"
+  },
+  {
+    "text": "encontró Quién era Jorge Luis Borges acá",
+    "duration": 5881,
+    "offset": 114399,
+    "lang": "es"
+  },
+  {
+    "text": "dice la URL a donde lo buscó esto Ob es",
+    "duration": 4839,
+    "offset": 117320,
+    "lang": "es"
+  },
+  {
+    "text": "transparente el usuario no lo da todavía",
+    "duration": 6320,
+    "offset": 120280,
+    "lang": "es"
+  },
+  {
+    "text": "y acá da el resultado final bien eh y",
+    "duration": 6841,
+    "offset": 122159,
+    "lang": "es"
+  },
+  {
+    "text": "acá dice Bueno fue Jorge Luis Borges fue",
+    "duration": 4480,
+    "offset": 126600,
+    "lang": "es"
+  },
+  {
+    "text": "un poeta ensayista argentino acá",
+    "duration": 4319,
+    "offset": 129000,
+    "lang": "es"
+  },
+  {
+    "text": "encontró Quién era Jorge Luis",
+    "duration": 5640,
+    "offset": 131080,
+    "lang": "es"
+  },
+  {
+    "text": "Borges fíjense que lo que hizo fue el",
+    "duration": 5761,
+    "offset": 133319,
+    "lang": "es"
+  },
+  {
+    "text": "agente coordinador es el que manejó todo",
+    "duration": 4920,
+    "offset": 136720,
+    "lang": "es"
+  },
+  {
+    "text": "pero el agente coordinador que es el",
+    "duration": 5320,
+    "offset": 139080,
+    "lang": "es"
+  },
+  {
+    "text": "primero que actúa Busca al web",
+    "duration": 6280,
+    "offset": 141640,
+    "lang": "es"
+  },
+  {
+    "text": "researcher ahora vamos a poner",
+    "duration": 6559,
+    "offset": 144400,
+    "lang": "es"
+  },
+  {
+    "text": "que vamos a correr otra vez y le voy a",
+    "duration": 5240,
+    "offset": 147920,
+    "lang": "es"
+  },
+  {
+    "text": "poner que",
+    "duration": 5121,
+    "offset": 150959,
+    "lang": "es"
+  },
+  {
+    "text": "quiero ver",
+    "duration": 4999,
+    "offset": 153160,
+    "lang": "es"
+  },
+  {
+    "text": "en",
+    "duration": 4560,
+    "offset": 156080,
+    "lang": "es"
+  },
+  {
+    "text": "YouTube en",
+    "duration": 5800,
+    "offset": 158159,
+    "lang": "es"
+  },
+  {
+    "text": "el Canal",
+    "duration": 3319,
+    "offset": 160640,
+    "lang": "es"
+  },
+  {
+    "text": "de Marcelo Raúl",
+    "duration": 5360,
+    "offset": 164879,
+    "lang": "es"
+  },
+  {
+    "text": "Fontana un video de trabajo y",
+    "duration": 9559,
+    "offset": 171040,
+    "lang": "es"
+  },
+  {
+    "text": "energía del cuerpo",
+    "duration": 6679,
+    "offset": 176840,
+    "lang": "es"
+  },
+  {
+    "text": "rido tiene que ser muy preciso el prompt",
+    "duration": 4801,
+    "offset": 180599,
+    "lang": "es"
+  },
+  {
+    "text": "porque si no el agente coordinador no va",
+    "duration": 3440,
+    "offset": 183519,
+    "lang": "es"
+  },
+  {
+    "text": "a elegir bien acá ya el agente",
+    "duration": 3320,
+    "offset": 185400,
+    "lang": "es"
+  },
+  {
+    "text": "coordinador fíjense que ahora lo que",
+    "duration": 4721,
+    "offset": 186959,
+    "lang": "es"
+  },
+  {
+    "text": "hizo fue elegir el buscador del canal de",
+    "duration": 6280,
+    "offset": 188720,
+    "lang": "es"
+  },
+  {
+    "text": "YouTube Entonces cómo se llama el canal",
+    "duration": 7199,
+    "offset": 191680,
+    "lang": "es"
+  },
+  {
+    "text": "es este que nosotros pusimos acá se lo",
+    "duration": 6560,
+    "offset": 195000,
+    "lang": "es"
+  },
+  {
+    "text": "pegamos es Marcelo Raúl",
+    "duration": 5601,
+    "offset": 198879,
+    "lang": "es"
+  },
+  {
+    "text": "Fontana y no hace falta que le pasemos",
+    "duration": 5160,
+    "offset": 201560,
+    "lang": "es"
+  },
+  {
+    "text": "el contenido ahora directamente la gente",
+    "duration": 4640,
+    "offset": 204480,
+    "lang": "es"
+  },
+  {
+    "text": "coordinador ya del mismo user query saca",
+    "duration": 5079,
+    "offset": 206720,
+    "lang": "es"
+  },
+  {
+    "text": "el contenido fíjense que acá ya lo",
+    "duration": 5440,
+    "offset": 209120,
+    "lang": "es"
+  },
+  {
+    "text": "encontró y nos trajo todos los videos",
+    "duration": 5160,
+    "offset": 211799,
+    "lang": "es"
+  },
+  {
+    "text": "ahora ya va ver pero fíjense como Acá",
+    "duration": 5640,
+    "offset": 214560,
+    "lang": "es"
+  },
+  {
+    "text": "está ven el agente coordinador lo que",
+    "duration": 8601,
+    "offset": 216959,
+    "lang": "es"
+  },
+  {
+    "text": "hizo fue traer el resultado de los",
+    "duration": 8160,
+    "offset": 220200,
+    "lang": "es"
+  },
+  {
+    "text": "videos en cambio de elegir el agente",
+    "duration": 4920,
+    "offset": 225560,
+    "lang": "es"
+  },
+  {
+    "text": "coordinador Como hizo antes a la",
+    "duration": 5000,
+    "offset": 228360,
+    "lang": "es"
+  },
+  {
+    "text": "búsqueda de web lo que hizo fue elegir",
+    "duration": 5800,
+    "offset": 230480,
+    "lang": "es"
+  },
+  {
+    "text": "al Youtube channel finder están los",
+    "duration": 4799,
+    "offset": 233360,
+    "lang": "es"
+  },
+  {
+    "text": "agentes y el coordinador no tengo ningún",
+    "duration": 5640,
+    "offset": 236280,
+    "lang": "es"
+  },
+  {
+    "text": "If no tengo nada Todo es se hace con la",
+    "duration": 9841,
+    "offset": 238159,
+    "lang": "es"
+  },
+  {
+    "text": "lógica difusa que da el llm y el agente",
+    "duration": 6080,
+    "offset": 241920,
+    "lang": "es"
+  }
+]

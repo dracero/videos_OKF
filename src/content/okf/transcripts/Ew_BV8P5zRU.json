@@ -1,0 +1,602 @@
+[
+  {
+    "text": "Bueno, lo primero que tenés que hacer es",
+    "duration": 6960,
+    "offset": 680,
+    "lang": "es"
+  },
+  {
+    "text": "generar el speech en el laps. Acá yo",
+    "duration": 6999,
+    "offset": 2600,
+    "lang": "es"
+  },
+  {
+    "text": "esto se puede hacer para que la gente se",
+    "duration": 3879,
+    "offset": 7640,
+    "lang": "es"
+  },
+  {
+    "text": "crea que estás hablando con una persona",
+    "duration": 4401,
+    "offset": 9599,
+    "lang": "es"
+  },
+  {
+    "text": "y en realidad no es más que un sistema",
+    "duration": 4680,
+    "offset": 11519,
+    "lang": "es"
+  },
+  {
+    "text": "de ahí. Puede",
+    "duration": 5320,
+    "offset": 14000,
+    "lang": "es"
+  },
+  {
+    "text": "exclamar, puede preguntar. Tiene una",
+    "duration": 5361,
+    "offset": 16199,
+    "lang": "es"
+  },
+  {
+    "text": "entonación y un acento propio de cada",
+    "duration": 5879,
+    "offset": 19320,
+    "lang": "es"
+  },
+  {
+    "text": "país. ¿Puedo clonar tu voz?",
+    "duration": 5639,
+    "offset": 21560,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. Entonces, una vez que tenés ya",
+    "duration": 6080,
+    "offset": 25199,
+    "lang": "es"
+  },
+  {
+    "text": "generado el speech, lo bajas.",
+    "duration": 4080,
+    "offset": 27199,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí bajó. Entonces ahora vas a",
+    "duration": 6320,
+    "offset": 33800,
+    "lang": "es"
+  },
+  {
+    "text": "Whisper, tenés que hacer clic, acorddate",
+    "duration": 5760,
+    "offset": 37200,
+    "lang": "es"
+  },
+  {
+    "text": "en esta carpetita de acá y hacer clic en",
+    "duration": 5080,
+    "offset": 40120,
+    "lang": "es"
+  },
+  {
+    "text": "este icono que dice cargar archivo, este",
+    "duration": 3759,
+    "offset": 42960,
+    "lang": "es"
+  },
+  {
+    "text": "icono para arriba.",
+    "duration": 4440,
+    "offset": 45200,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces acá buscamos este que generamos",
+    "duration": 5201,
+    "offset": 46719,
+    "lang": "es"
+  },
+  {
+    "text": "recién. Este nos va a dar que se borra",
+    "duration": 3919,
+    "offset": 49640,
+    "lang": "es"
+  },
+  {
+    "text": "cuando lo borreas y no hay problema.",
+    "duration": 4240,
+    "offset": 51920,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora haces clic en estos tres puntitos,",
+    "duration": 5000,
+    "offset": 53559,
+    "lang": "es"
+  },
+  {
+    "text": "renombrar el archivo y le ponés clip. Se",
+    "duration": 4120,
+    "offset": 56160,
+    "lang": "es"
+  },
+  {
+    "text": "tiene que llamar",
+    "duration": 5441,
+    "offset": 58559,
+    "lang": "es"
+  },
+  {
+    "text": "clip.mp3. Perfecto. Ahora vas a donde",
+    "duration": 6360,
+    "offset": 60280,
+    "lang": "es"
+  },
+  {
+    "text": "dice entorno de ejecución y haces clic",
+    "duration": 5000,
+    "offset": 64000,
+    "lang": "es"
+  },
+  {
+    "text": "en ejecutar",
+    "duration": 5799,
+    "offset": 66640,
+    "lang": "es"
+  },
+  {
+    "text": "todo. Entonces ahora se va a",
+    "duration": 6439,
+    "offset": 69000,
+    "lang": "es"
+  },
+  {
+    "text": "ejecutar",
+    "duration": 3000,
+    "offset": 72439,
+    "lang": "es"
+  },
+  {
+    "text": "Whisper. Vamos a esperar. Tarda un",
+    "duration": 4200,
+    "offset": 75880,
+    "lang": "es"
+  },
+  {
+    "text": "rato. Si el archivo no se llama clip",
+    "duration": 6560,
+    "offset": 84680,
+    "lang": "es"
+  },
+  {
+    "text": "BM3. fallar porque acá le puse clip MP3,",
+    "duration": 5561,
+    "offset": 87439,
+    "lang": "es"
+  },
+  {
+    "text": "¿no? Ahí",
+    "duration": 5480,
+    "offset": 91240,
+    "lang": "es"
+  },
+  {
+    "text": "está bajando todo.",
+    "duration": 3720,
+    "offset": 93000,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3159,
+    "offset": 111330,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí",
+    "duration": 6479,
+    "offset": 132840,
+    "lang": "es"
+  },
+  {
+    "text": "ya terminó de bajar.",
+    "duration": 4639,
+    "offset": 134680,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora va a empezar a funcionar el",
+    "duration": 3679,
+    "offset": 156560,
+    "lang": "es"
+  },
+  {
+    "text": "whisper. Tarda un rato, ¿eh? Lo voy a",
+    "duration": 5081,
+    "offset": 160319,
+    "lang": "es"
+  },
+  {
+    "text": "voy a dejar. Bueno, igual ya si lo",
+    "duration": 5241,
+    "offset": 163159,
+    "lang": "es"
+  },
+  {
+    "text": "hiciste,",
+    "duration": 3000,
+    "offset": 165400,
+    "lang": "es"
+  },
+  {
+    "text": "eh, ya más o menos te das cuenta que",
+    "duration": 6520,
+    "offset": 170840,
+    "lang": "es"
+  },
+  {
+    "text": "tarda un",
+    "duration": 2520,
+    "offset": 174840,
+    "lang": "es"
+  },
+  {
+    "text": "rato. Bien, ahí está ejecutándose",
+    "duration": 6400,
+    "offset": 187040,
+    "lang": "es"
+  },
+  {
+    "text": "Whisper. Ahí lo importó. Fíjate, este",
+    "duration": 4680,
+    "offset": 190360,
+    "lang": "es"
+  },
+  {
+    "text": "puntito verde te dice lo que está",
+    "duration": 4439,
+    "offset": 193440,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo. Ahí está empezando a bajar el",
+    "duration": 5839,
+    "offset": 195040,
+    "lang": "es"
+  },
+  {
+    "text": "modelo para hacer la",
+    "duration": 3000,
+    "offset": 197879,
+    "lang": "es"
+  },
+  {
+    "text": "transcripción. ¿Ves? Este este punto",
+    "duration": 6079,
+    "offset": 202440,
+    "lang": "es"
+  },
+  {
+    "text": "verde te muestra la parte del código que",
+    "duration": 4359,
+    "offset": 206440,
+    "lang": "es"
+  },
+  {
+    "text": "se está",
+    "duration": 2280,
+    "offset": 208519,
+    "lang": "es"
+  },
+  {
+    "text": "ejecutando. Primero baja el modelo. El",
+    "duration": 5000,
+    "offset": 213120,
+    "lang": "es"
+  },
+  {
+    "text": "modelo no puede hacer nada. es bastante",
+    "duration": 4720,
+    "offset": 215879,
+    "lang": "es"
+  },
+  {
+    "text": "pesado, pero baja relativamente",
+    "duration": 4679,
+    "offset": 218120,
+    "lang": "es"
+  },
+  {
+    "text": "rápido. Acordate que acá no importa tu",
+    "duration": 3481,
+    "offset": 220599,
+    "lang": "es"
+  },
+  {
+    "text": "ancho de banda porque es el ancho de",
+    "duration": 3401,
+    "offset": 222799,
+    "lang": "es"
+  },
+  {
+    "text": "banda que del de Google, ¿no? Que",
+    "duration": 3840,
+    "offset": 224080,
+    "lang": "es"
+  },
+  {
+    "text": "estamos usando Google Colab. Estos están",
+    "duration": 3200,
+    "offset": 226200,
+    "lang": "es"
+  },
+  {
+    "text": "los servidores de",
+    "duration": 4000,
+    "offset": 227920,
+    "lang": "es"
+  },
+  {
+    "text": "Google. Ahí ya terminó de bajar el",
+    "duration": 4600,
+    "offset": 229400,
+    "lang": "es"
+  },
+  {
+    "text": "modelo. Ahora va a pasar el punto verde",
+    "duration": 3959,
+    "offset": 231920,
+    "lang": "es"
+  },
+  {
+    "text": "acá, que es la parte donde hace la",
+    "duration": 4879,
+    "offset": 234000,
+    "lang": "es"
+  },
+  {
+    "text": "transcripción.",
+    "duration": 3000,
+    "offset": 235879,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, este tilde verde que ya se ejecutó",
+    "duration": 4559,
+    "offset": 241400,
+    "lang": "es"
+  },
+  {
+    "text": "bien, ahí está haciendo la",
+    "duration": 4280,
+    "offset": 243720,
+    "lang": "es"
+  },
+  {
+    "text": "transcripción y ahí ya creó el",
+    "duration": 3920,
+    "offset": 245959,
+    "lang": "es"
+  },
+  {
+    "text": "documento. Vos acá no lo ves. ¿Por qué?",
+    "duration": 3560,
+    "offset": 248000,
+    "lang": "es"
+  },
+  {
+    "text": "Porque tenés que apretar esta flechita",
+    "duration": 4560,
+    "offset": 249879,
+    "lang": "es"
+  },
+  {
+    "text": "de acá, actualizar, y acá aparece el",
+    "duration": 4959,
+    "offset": 251560,
+    "lang": "es"
+  },
+  {
+    "text": "transcript. Y ahora este transcript",
+    "duration": 3841,
+    "offset": 254439,
+    "lang": "es"
+  },
+  {
+    "text": "cuando te le posicionas con el mouse te",
+    "duration": 4000,
+    "offset": 256519,
+    "lang": "es"
+  },
+  {
+    "text": "aparecen esos tres puntitos. Hacés clic",
+    "duration": 3800,
+    "offset": 258280,
+    "lang": "es"
+  },
+  {
+    "text": "acá y le das",
+    "duration": 5641,
+    "offset": 260519,
+    "lang": "es"
+  },
+  {
+    "text": "descargar. Y acá bajó el transcript.x.",
+    "duration": 6600,
+    "offset": 262080,
+    "lang": "es"
+  },
+  {
+    "text": "Y ahí una vez que lo bajaste, vas al a",
+    "duration": 3400,
+    "offset": 266160,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 4480,
+    "offset": 268680,
+    "lang": "es"
+  },
+  {
+    "text": "tarea. Vamos a ir",
+    "duration": 3600,
+    "offset": 269560,
+    "lang": "es"
+  },
+  {
+    "text": "acá.",
+    "duration": 5519,
+    "offset": 274400,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, perdón, acá la tarea que dice subir",
+    "duration": 5400,
+    "offset": 276560,
+    "lang": "es"
+  },
+  {
+    "text": "el archivo de",
+    "duration": 5881,
+    "offset": 279919,
+    "lang": "es"
+  },
+  {
+    "text": "texto y acá tenés que ir a buscar dónde",
+    "duration": 7120,
+    "offset": 281960,
+    "lang": "es"
+  },
+  {
+    "text": "está tu",
+    "duration": 3280,
+    "offset": 285800,
+    "lang": "es"
+  },
+  {
+    "text": "nombre. A ver.",
+    "duration": 4160,
+    "offset": 291000,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá a mí no me deja, pero vos acá vas",
+    "duration": 7320,
+    "offset": 297240,
+    "lang": "es"
+  },
+  {
+    "text": "a ver un botón que te permite subir un",
+    "duration": 5921,
+    "offset": 300639,
+    "lang": "es"
+  },
+  {
+    "text": "archivo, porque a mí me lo deja ver como",
+    "duration": 4400,
+    "offset": 304560,
+    "lang": "es"
+  },
+  {
+    "text": "profesor. Vos no vas a tener esto para",
+    "duration": 4639,
+    "offset": 306560,
+    "lang": "es"
+  },
+  {
+    "text": "calificar, pero acá es donde vas a ver",
+    "duration": 4760,
+    "offset": 308960,
+    "lang": "es"
+  },
+  {
+    "text": "para subir el archivo, que es ese",
+    "duration": 4361,
+    "offset": 311199,
+    "lang": "es"
+  },
+  {
+    "text": "transcript que bajaste",
+    "duration": 4800,
+    "offset": 313720,
+    "lang": "es"
+  },
+  {
+    "text": "recién. Fíjate, acuérdame para que voy a",
+    "duration": 5359,
+    "offset": 315560,
+    "lang": "es"
+  },
+  {
+    "text": "entrar como si fueses",
+    "duration": 6920,
+    "offset": 318520,
+    "lang": "es"
+  },
+  {
+    "text": "vos. Eh, entro como vos.",
+    "duration": 4521,
+    "offset": 320919,
+    "lang": "es"
+  },
+  {
+    "text": "Acá voy",
+    "duration": 4841,
+    "offset": 328039,
+    "lang": "es"
+  },
+  {
+    "text": "a el taller de",
+    "duration": 5679,
+    "offset": 330080,
+    "lang": "es"
+  },
+  {
+    "text": "redes. Acá voy a subir el archivo de",
+    "duration": 6480,
+    "offset": 332880,
+    "lang": "es"
+  },
+  {
+    "text": "texto y acá ves te dice agregar",
+    "duration": 6761,
+    "offset": 335759,
+    "lang": "es"
+  },
+  {
+    "text": "entrega. Y acá haces clic en este que",
+    "duration": 5640,
+    "offset": 339360,
+    "lang": "es"
+  },
+  {
+    "text": "dice agregar, seleccionar archivo y acá",
+    "duration": 4239,
+    "offset": 342520,
+    "lang": "es"
+  },
+  {
+    "text": "buscas tramit. Yo no lo voy a subir",
+    "duration": 3319,
+    "offset": 345000,
+    "lang": "es"
+  },
+  {
+    "text": "porque si no te hice el trabajo",
+    "duration": 4841,
+    "offset": 346759,
+    "lang": "es"
+  },
+  {
+    "text": "práctico. Bien.",
+    "duration": 3281,
+    "offset": 348319,
+    "lang": "es"
+  }
+]

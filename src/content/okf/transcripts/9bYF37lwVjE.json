@@ -1,0 +1,1388 @@
+[
+  {
+    "text": "Buenas, buenas a todos los oyentes de",
+    "duration": 4881,
+    "offset": 359,
+    "lang": "es"
+  },
+  {
+    "text": "Física en Fiuba, el podcast donde",
+    "duration": 4519,
+    "offset": 2760,
+    "lang": "es"
+  },
+  {
+    "text": "intentamos que las ecuaciones no nos",
+    "duration": 5160,
+    "offset": 5240,
+    "lang": "es"
+  },
+  {
+    "text": "ganen por goleada. Soy Sofía y como cada",
+    "duration": 5280,
+    "offset": 7279,
+    "lang": "es"
+  },
+  {
+    "text": "semana estoy lista para bombardear a",
+    "duration": 4399,
+    "offset": 10400,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas al profe Armando. ¿Cómo está,",
+    "duration": 3000,
+    "offset": 12559,
+    "lang": "es"
+  },
+  {
+    "text": "profe?",
+    "duration": 3480,
+    "offset": 14799,
+    "lang": "es"
+  },
+  {
+    "text": "Hola, Sofía. Hola a todos. Con el mate",
+    "duration": 5800,
+    "offset": 15559,
+    "lang": "es"
+  },
+  {
+    "text": "listo y preparado para otro desafío. Hoy",
+    "duration": 4881,
+    "offset": 18279,
+    "lang": "es"
+  },
+  {
+    "text": "nos metemos con un tema que es el pan de",
+    "duration": 4481,
+    "offset": 21359,
+    "lang": "es"
+  },
+  {
+    "text": "cada día en ingeniería, la dinámica del",
+    "duration": 4400,
+    "offset": 23160,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido.",
+    "duration": 4759,
+    "offset": 25840,
+    "lang": "es"
+  },
+  {
+    "text": "¡Uf! Tema denso si los hay. Leí la punta",
+    "duration": 4839,
+    "offset": 27560,
+    "lang": "es"
+  },
+  {
+    "text": "del cac cátedra y la verdad me surgieron",
+    "duration": 4800,
+    "offset": 30599,
+    "lang": "es"
+  },
+  {
+    "text": "más dudas que certezas. Para empezar",
+    "duration": 5680,
+    "offset": 32399,
+    "lang": "es"
+  },
+  {
+    "text": "siempre hablamos de puntos materiales y",
+    "duration": 6041,
+    "offset": 35399,
+    "lang": "es"
+  },
+  {
+    "text": "de repente pum, cuerpo rígido. ¿Cuál es",
+    "duration": 6160,
+    "offset": 38079,
+    "lang": "es"
+  },
+  {
+    "text": "la gran diferencia?",
+    "duration": 4720,
+    "offset": 41440,
+    "lang": "es"
+  },
+  {
+    "text": "Es una excelente pregunta para arrancar,",
+    "duration": 4921,
+    "offset": 44239,
+    "lang": "es"
+  },
+  {
+    "text": "Sofía. La diferencia es fundamental.",
+    "duration": 5600,
+    "offset": 46160,
+    "lang": "es"
+  },
+  {
+    "text": "Hasta ahora, con un punto material nos",
+    "duration": 5079,
+    "offset": 49160,
+    "lang": "es"
+  },
+  {
+    "text": "importaba dónde aplicábamos una fuerza,",
+    "duration": 4959,
+    "offset": 51760,
+    "lang": "es"
+  },
+  {
+    "text": "daba lo mismo. El punto se movía y",
+    "duration": 5960,
+    "offset": 54239,
+    "lang": "es"
+  },
+  {
+    "text": "listo, pero un cuerpo rígido, un objeto",
+    "duration": 6281,
+    "offset": 56719,
+    "lang": "es"
+  },
+  {
+    "text": "real como una rueda, una viga o tu",
+    "duration": 5641,
+    "offset": 60199,
+    "lang": "es"
+  },
+  {
+    "text": "celular tiene dimensiones. No es lo",
+    "duration": 4960,
+    "offset": 63000,
+    "lang": "es"
+  },
+  {
+    "text": "mismo empujarlo desde el centro que",
+    "duration": 3319,
+    "offset": 65840,
+    "lang": "es"
+  },
+  {
+    "text": "desde un borde.",
+    "duration": 3000,
+    "offset": 67960,
+    "lang": "es"
+  },
+  {
+    "text": "Claro, si empujo una puerta desde el",
+    "duration": 4761,
+    "offset": 69159,
+    "lang": "es"
+  },
+  {
+    "text": "picaporte, gira. Si la empujo justo",
+    "duration": 5440,
+    "offset": 70960,
+    "lang": "es"
+  },
+  {
+    "text": "donde están las bisagras, no pasa nada.",
+    "duration": 5120,
+    "offset": 73920,
+    "lang": "es"
+  },
+  {
+    "text": "Exactamente. Ahí está la clave. El",
+    "duration": 4480,
+    "offset": 76400,
+    "lang": "es"
+  },
+  {
+    "text": "efecto de una fuerza sobre un cuerpo",
+    "duration": 5280,
+    "offset": 79040,
+    "lang": "es"
+  },
+  {
+    "text": "rígido depende del punto de aplicación.",
+    "duration": 5199,
+    "offset": 80880,
+    "lang": "es"
+  },
+  {
+    "text": "Ya no solo nos importa que el cuerpo se",
+    "duration": 4240,
+    "offset": 84320,
+    "lang": "es"
+  },
+  {
+    "text": "traslade, sino también si empieza a",
+    "duration": 4680,
+    "offset": 86079,
+    "lang": "es"
+  },
+  {
+    "text": "rotar. Por eso es en el apunte lo",
+    "duration": 4599,
+    "offset": 88560,
+    "lang": "es"
+  },
+  {
+    "text": "primero que se explica es cómo analizar",
+    "duration": 4640,
+    "offset": 90759,
+    "lang": "es"
+  },
+  {
+    "text": "un sistema de fuerzas aplicadas en",
+    "duration": 3441,
+    "offset": 93159,
+    "lang": "es"
+  },
+  {
+    "text": "distintos puntos.",
+    "duration": 3321,
+    "offset": 95399,
+    "lang": "es"
+  },
+  {
+    "text": "Y ahí es donde aparece el concepto de",
+    "duration": 5400,
+    "offset": 96600,
+    "lang": "es"
+  },
+  {
+    "text": "trasladar la fuerza al centro de masa.",
+    "duration": 5320,
+    "offset": 98720,
+    "lang": "es"
+  },
+  {
+    "text": "Leí esa parte y me sonó a truco de",
+    "duration": 4680,
+    "offset": 102000,
+    "lang": "es"
+  },
+  {
+    "text": "magia, como que muevo una fuerza y para",
+    "duration": 5200,
+    "offset": 104040,
+    "lang": "es"
+  },
+  {
+    "text": "que nada cambie agrego algo más.",
+    "duration": 5640,
+    "offset": 106680,
+    "lang": "es"
+  },
+  {
+    "text": "No es magia, es física. Ese algo más es",
+    "duration": 6440,
+    "offset": 109240,
+    "lang": "es"
+  },
+  {
+    "text": "una cupla o par de fuerzas. Imagínate",
+    "duration": 5799,
+    "offset": 112320,
+    "lang": "es"
+  },
+  {
+    "text": "que tenés una fuerza F aplicada en un",
+    "duration": 5399,
+    "offset": 115680,
+    "lang": "es"
+  },
+  {
+    "text": "punto P. Si quieres analizar su efecto",
+    "duration": 6040,
+    "offset": 118119,
+    "lang": "es"
+  },
+  {
+    "text": "desde el centro de masa CM, podés",
+    "duration": 5561,
+    "offset": 121079,
+    "lang": "es"
+  },
+  {
+    "text": "moverla hasta allí. Pero para que el",
+    "duration": 5320,
+    "offset": 124159,
+    "lang": "es"
+  },
+  {
+    "text": "efecto rotacional original no se pierda,",
+    "duration": 5280,
+    "offset": 126640,
+    "lang": "es"
+  },
+  {
+    "text": "tenés que agregar un par de fuerzas. una",
+    "duration": 5561,
+    "offset": 129479,
+    "lang": "es"
+  },
+  {
+    "text": "idéntica a la original en el CM y otra",
+    "duration": 7399,
+    "offset": 131920,
+    "lang": "es"
+  },
+  {
+    "text": "opuesta - F prima también en el CM.",
+    "duration": 7040,
+    "offset": 135040,
+    "lang": "es"
+  },
+  {
+    "text": "Junto con la fuerza original en P. Este",
+    "duration": 6481,
+    "offset": 139319,
+    "lang": "es"
+  },
+  {
+    "text": "par de fuerzas F y - F prima, separadas",
+    "duration": 6720,
+    "offset": 142080,
+    "lang": "es"
+  },
+  {
+    "text": "por una distancia es lo que genera un",
+    "duration": 5840,
+    "offset": 145800,
+    "lang": "es"
+  },
+  {
+    "text": "torque o momento, que es la tendencia a",
+    "duration": 5799,
+    "offset": 148800,
+    "lang": "es"
+  },
+  {
+    "text": "la rotación. Ah, o sea, que una fuerza",
+    "duration": 5800,
+    "offset": 151640,
+    "lang": "es"
+  },
+  {
+    "text": "aplicada lejos del centro de masa se",
+    "duration": 6041,
+    "offset": 154599,
+    "lang": "es"
+  },
+  {
+    "text": "puede descomponer en una fuerza en el",
+    "duration": 6120,
+    "offset": 157440,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa que causa traslación y",
+    "duration": 5120,
+    "offset": 160640,
+    "lang": "es"
+  },
+  {
+    "text": "una cupla que causa rotación.",
+    "duration": 5000,
+    "offset": 163560,
+    "lang": "es"
+  },
+  {
+    "text": "E lo captaste perfectamente. Esa es la",
+    "duration": 4640,
+    "offset": 165760,
+    "lang": "es"
+  },
+  {
+    "text": "idea central. La primera ecuación",
+    "duration": 4319,
+    "offset": 168560,
+    "lang": "es"
+  },
+  {
+    "text": "universal que ya conocíamos, la suma de",
+    "duration": 4559,
+    "offset": 170400,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas igual a masa por aceleración del",
+    "duration": 4640,
+    "offset": 172879,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa, sigue valiendo para la",
+    "duration": 4761,
+    "offset": 174959,
+    "lang": "es"
+  },
+  {
+    "text": "traslación. Pero ahora sumamos una",
+    "duration": 4041,
+    "offset": 177519,
+    "lang": "es"
+  },
+  {
+    "text": "segunda ecuación universal para la",
+    "duration": 4920,
+    "offset": 179720,
+    "lang": "es"
+  },
+  {
+    "text": "rotación. Bien, entonces tenemos fuerzas",
+    "duration": 6679,
+    "offset": 181560,
+    "lang": "es"
+  },
+  {
+    "text": "que trasladan y torques que hacen rotar.",
+    "duration": 6560,
+    "offset": 184640,
+    "lang": "es"
+  },
+  {
+    "text": "Pero en la traslación la resistencia, el",
+    "duration": 5920,
+    "offset": 188239,
+    "lang": "es"
+  },
+  {
+    "text": "cambio de movimiento es la masa. En la",
+    "duration": 5200,
+    "offset": 191200,
+    "lang": "es"
+  },
+  {
+    "text": "rotación, ¿qué es? Porque en el apunte",
+    "duration": 4921,
+    "offset": 194159,
+    "lang": "es"
+  },
+  {
+    "text": "aparece un concepto nuevo, el momento de",
+    "duration": 3680,
+    "offset": 196400,
+    "lang": "es"
+  },
+  {
+    "text": "inercia.",
+    "duration": 3560,
+    "offset": 199080,
+    "lang": "es"
+  },
+  {
+    "text": "Muy buena analogía, Sofía. El momento de",
+    "duration": 5200,
+    "offset": 200080,
+    "lang": "es"
+  },
+  {
+    "text": "inercia es efectivamente el análogo",
+    "duration": 5200,
+    "offset": 202640,
+    "lang": "es"
+  },
+  {
+    "text": "rotacional a la masa. Es la medida de la",
+    "duration": 5039,
+    "offset": 205280,
+    "lang": "es"
+  },
+  {
+    "text": "resistencia de un cuerpo a cambiar su",
+    "duration": 4880,
+    "offset": 207840,
+    "lang": "es"
+  },
+  {
+    "text": "estado de rotación. Así como un objeto",
+    "duration": 5441,
+    "offset": 210319,
+    "lang": "es"
+  },
+  {
+    "text": "con más masa es más difícil de acelerar,",
+    "duration": 5239,
+    "offset": 212720,
+    "lang": "es"
+  },
+  {
+    "text": "un objeto con un mayor momento de",
+    "duration": 4600,
+    "offset": 215760,
+    "lang": "es"
+  },
+  {
+    "text": "inercia es más difícil de hacer girar o",
+    "duration": 4360,
+    "offset": 217959,
+    "lang": "es"
+  },
+  {
+    "text": "de detener si ya está girando.",
+    "duration": 4120,
+    "offset": 220360,
+    "lang": "es"
+  },
+  {
+    "text": "Pero a diferencia de la masa, que es un",
+    "duration": 4920,
+    "offset": 222319,
+    "lang": "es"
+  },
+  {
+    "text": "número y ya está, el momento de inercia",
+    "duration": 5360,
+    "offset": 224480,
+    "lang": "es"
+  },
+  {
+    "text": "parece más complicado. Viene el apunte",
+    "duration": 4801,
+    "offset": 227239,
+    "lang": "es"
+  },
+  {
+    "text": "que depende de la forma del cuerpo y del",
+    "duration": 4679,
+    "offset": 229840,
+    "lang": "es"
+  },
+  {
+    "text": "eje de rotación. Mencionan la fórmula",
+    "duration": 5360,
+    "offset": 232040,
+    "lang": "es"
+  },
+  {
+    "text": "como la integral de r² por diferencial",
+    "duration": 3720,
+    "offset": 234519,
+    "lang": "es"
+  },
+  {
+    "text": "de masa.",
+    "duration": 3399,
+    "offset": 237400,
+    "lang": "es"
+  },
+  {
+    "text": "¿Correcto? No solo depende de cuánta",
+    "duration": 4761,
+    "offset": 238239,
+    "lang": "es"
+  },
+  {
+    "text": "masa tiene el cuerpo, sino de cómo está",
+    "duration": 4961,
+    "offset": 240799,
+    "lang": "es"
+  },
+  {
+    "text": "distribuida esa masa respecto al eje de",
+    "duration": 5640,
+    "offset": 243000,
+    "lang": "es"
+  },
+  {
+    "text": "giro. Un aro y un disco macizo de la",
+    "duration": 5280,
+    "offset": 245760,
+    "lang": "es"
+  },
+  {
+    "text": "misma masa no tienen el mismo momento de",
+    "duration": 5560,
+    "offset": 248640,
+    "lang": "es"
+  },
+  {
+    "text": "inercia. El aro con toda su masa",
+    "duration": 5240,
+    "offset": 251040,
+    "lang": "es"
+  },
+  {
+    "text": "concentrada en el borde, lejos del",
+    "duration": 4080,
+    "offset": 254200,
+    "lang": "es"
+  },
+  {
+    "text": "centro, tendrá un momento de inercia",
+    "duration": 3560,
+    "offset": 256280,
+    "lang": "es"
+  },
+  {
+    "text": "mayor que el disco.",
+    "duration": 3280,
+    "offset": 258280,
+    "lang": "es"
+  },
+  {
+    "text": "En el apunte hay una tabla con los",
+    "duration": 3880,
+    "offset": 259840,
+    "lang": "es"
+  },
+  {
+    "text": "momentos de inercia para una esfera, un",
+    "duration": 5079,
+    "offset": 261560,
+    "lang": "es"
+  },
+  {
+    "text": "cilindro, una varilla. Tenemos que saber",
+    "duration": 5199,
+    "offset": 263720,
+    "lang": "es"
+  },
+  {
+    "text": "calcularlos todos. Es importante",
+    "duration": 4201,
+    "offset": 266639,
+    "lang": "es"
+  },
+  {
+    "text": "entender de dónde vienen, como el",
+    "duration": 4041,
+    "offset": 268919,
+    "lang": "es"
+  },
+  {
+    "text": "cálculo que se muestra para el cilindro,",
+    "duration": 4040,
+    "offset": 270840,
+    "lang": "es"
+  },
+  {
+    "text": "pero en la práctica solemos usar los",
+    "duration": 3280,
+    "offset": 272960,
+    "lang": "es"
+  },
+  {
+    "text": "valores tabulados para formas",
+    "duration": 3960,
+    "offset": 274880,
+    "lang": "es"
+  },
+  {
+    "text": "geométricas conocidas. Lo que sí es",
+    "duration": 5080,
+    "offset": 276240,
+    "lang": "es"
+  },
+  {
+    "text": "crucial es entender el teorema de",
+    "duration": 4520,
+    "offset": 278840,
+    "lang": "es"
+  },
+  {
+    "text": "Steiner o de ejes paralelos.",
+    "duration": 5520,
+    "offset": 281320,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, eso me voló la cabeza. dice que si",
+    "duration": 5399,
+    "offset": 283360,
+    "lang": "es"
+  },
+  {
+    "text": "conozco el momento de inercia respecto a",
+    "duration": 4480,
+    "offset": 286840,
+    "lang": "es"
+  },
+  {
+    "text": "un eje que pasa por el centro de masa,",
+    "duration": 4641,
+    "offset": 288759,
+    "lang": "es"
+  },
+  {
+    "text": "puedo calcularlo para cualquier otro eje",
+    "duration": 3400,
+    "offset": 291320,
+    "lang": "es"
+  },
+  {
+    "text": "que sea paralelo.",
+    "duration": 7799,
+    "offset": 293400,
+    "lang": "es"
+  },
+  {
+    "text": "Exacto. La fórmula es I = ICM + m * D²,",
+    "duration": 8360,
+    "offset": 294720,
+    "lang": "es"
+  },
+  {
+    "text": "donde ICM es el momento de inercia",
+    "duration": 5361,
+    "offset": 301199,
+    "lang": "es"
+  },
+  {
+    "text": "respecto al centro de masa, Masa total y",
+    "duration": 5399,
+    "offset": 303080,
+    "lang": "es"
+  },
+  {
+    "text": "D es la distancia entre los dos ejes",
+    "duration": 4199,
+    "offset": 306560,
+    "lang": "es"
+  },
+  {
+    "text": "paralelos. Es una herramienta",
+    "duration": 4401,
+    "offset": 308479,
+    "lang": "es"
+  },
+  {
+    "text": "poderosísima. nos evita tener que",
+    "duration": 4561,
+    "offset": 310759,
+    "lang": "es"
+  },
+  {
+    "text": "calcular integrales complejas cada vez",
+    "duration": 4840,
+    "offset": 312880,
+    "lang": "es"
+  },
+  {
+    "text": "que cambiamos el eje de rotación. Por",
+    "duration": 4480,
+    "offset": 315320,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo, en el problema de la varilla",
+    "duration": 4280,
+    "offset": 317720,
+    "lang": "es"
+  },
+  {
+    "text": "con la esfera en la punta, se usa",
+    "duration": 4119,
+    "offset": 319800,
+    "lang": "es"
+  },
+  {
+    "text": "Steiner para calcular el momento de",
+    "duration": 4639,
+    "offset": 322000,
+    "lang": "es"
+  },
+  {
+    "text": "inercia total del sistema respecto al",
+    "duration": 3921,
+    "offset": 323919,
+    "lang": "es"
+  },
+  {
+    "text": "punto de oscilación.",
+    "duration": 3081,
+    "offset": 326639,
+    "lang": "es"
+  },
+  {
+    "text": "¿Okay? Entonces, tenemos las dos",
+    "duration": 4600,
+    "offset": 327840,
+    "lang": "es"
+  },
+  {
+    "text": "ecuaciones, una para la traslación,",
+    "duration": 5880,
+    "offset": 329720,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas, y una para la rotación, torques",
+    "duration": 5680,
+    "offset": 332440,
+    "lang": "es"
+  },
+  {
+    "text": "y momento de inercia. El apunte habla de",
+    "duration": 5080,
+    "offset": 335600,
+    "lang": "es"
+  },
+  {
+    "text": "tres casos de movimiento: traslación",
+    "duration": 7000,
+    "offset": 338120,
+    "lang": "es"
+  },
+  {
+    "text": "pura. rotación pura y rotrotraslación.",
+    "duration": 7720,
+    "offset": 340680,
+    "lang": "es"
+  },
+  {
+    "text": "Así es. Traslación pura ocurre cuando la",
+    "duration": 6160,
+    "offset": 345120,
+    "lang": "es"
+  },
+  {
+    "text": "suma de torques es cero, pero la suma de",
+    "duration": 5840,
+    "offset": 348400,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas no. El cuerpo se mueve sin",
+    "duration": 6680,
+    "offset": 351280,
+    "lang": "es"
+  },
+  {
+    "text": "girar, como un ascensor. Rotación pura",
+    "duration": 6239,
+    "offset": 354240,
+    "lang": "es"
+  },
+  {
+    "text": "pasa cuando la suma de fuerzas es cero,",
+    "duration": 5239,
+    "offset": 357960,
+    "lang": "es"
+  },
+  {
+    "text": "pero la suma de torques no. El cuerpo",
+    "duration": 5521,
+    "offset": 360479,
+    "lang": "es"
+  },
+  {
+    "text": "gira sobre su centro de masa, como una",
+    "duration": 4761,
+    "offset": 363199,
+    "lang": "es"
+  },
+  {
+    "text": "rueda girando en el aire. Y para este",
+    "duration": 5319,
+    "offset": 366000,
+    "lang": "es"
+  },
+  {
+    "text": "último caso, el de la rueda rodando,",
+    "duration": 5639,
+    "offset": 367960,
+    "lang": "es"
+  },
+  {
+    "text": "aparece otro concepto, el centro",
+    "duration": 5681,
+    "offset": 371319,
+    "lang": "es"
+  },
+  {
+    "text": "instantáneo de rotación, sir. ¿Qué es",
+    "duration": 4481,
+    "offset": 373599,
+    "lang": "es"
+  },
+  {
+    "text": "exactamente",
+    "duration": 4120,
+    "offset": 377000,
+    "lang": "es"
+  },
+  {
+    "text": "el sir? Es un punto que puede o no",
+    "duration": 5440,
+    "offset": 378080,
+    "lang": "es"
+  },
+  {
+    "text": "pertenecer al cuerpo que en un instante",
+    "duration": 5359,
+    "offset": 381120,
+    "lang": "es"
+  },
+  {
+    "text": "determinado tiene velocidad cero. Para",
+    "duration": 5640,
+    "offset": 383520,
+    "lang": "es"
+  },
+  {
+    "text": "una rueda que rueda sin deslizar sobre",
+    "duration": 5321,
+    "offset": 386479,
+    "lang": "es"
+  },
+  {
+    "text": "el suelo, el sir es el punto de contacto",
+    "duration": 5759,
+    "offset": 389160,
+    "lang": "es"
+  },
+  {
+    "text": "con el suelo. En ese instante todo el",
+    "duration": 5160,
+    "offset": 391800,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo está rotando alrededor de ese",
+    "duration": 2641,
+    "offset": 394919,
+    "lang": "es"
+  },
+  {
+    "text": "punto.",
+    "duration": 1920,
+    "offset": 396960,
+    "lang": "es"
+  },
+  {
+    "text": "¿Y para qué sirve?",
+    "duration": 3960,
+    "offset": 397560,
+    "lang": "es"
+  },
+  {
+    "text": "Simplificas enormemente los cálculos. Si",
+    "duration": 4920,
+    "offset": 398880,
+    "lang": "es"
+  },
+  {
+    "text": "elegimos el CIR como el origen para",
+    "duration": 4360,
+    "offset": 401520,
+    "lang": "es"
+  },
+  {
+    "text": "calcular los torques, el análisis del",
+    "duration": 4839,
+    "offset": 403800,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento se reduce a una rotación pura",
+    "duration": 5599,
+    "offset": 405880,
+    "lang": "es"
+  },
+  {
+    "text": "alrededor de ese punto. Es una foto del",
+    "duration": 4960,
+    "offset": 408639,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento que nos da una perspectiva",
+    "duration": 4241,
+    "offset": 411479,
+    "lang": "es"
+  },
+  {
+    "text": "muy útil. Vimos cómo se usó en el",
+    "duration": 3921,
+    "offset": 413599,
+    "lang": "es"
+  },
+  {
+    "text": "problema del yoyo para analizar su",
+    "duration": 2640,
+    "offset": 415720,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento.",
+    "duration": 3280,
+    "offset": 417520,
+    "lang": "es"
+  },
+  {
+    "text": "Hablando de problemas, el apunte termina",
+    "duration": 4399,
+    "offset": 418360,
+    "lang": "es"
+  },
+  {
+    "text": "con una situación problemática que me",
+    "duration": 5160,
+    "offset": 420800,
+    "lang": "es"
+  },
+  {
+    "text": "dejó pensando, una varilla que cae",
+    "duration": 6241,
+    "offset": 422759,
+    "lang": "es"
+  },
+  {
+    "text": "articulada en un extremo y dice que la",
+    "duration": 6200,
+    "offset": 425960,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración de la punta puede ser mayor",
+    "duration": 5759,
+    "offset": 429000,
+    "lang": "es"
+  },
+  {
+    "text": "que la de la gravedad. ¿Cómo es posible?",
+    "duration": 5280,
+    "offset": 432160,
+    "lang": "es"
+  },
+  {
+    "text": "Es una paradoja fascinante y es una",
+    "duration": 4880,
+    "offset": 434759,
+    "lang": "es"
+  },
+  {
+    "text": "consecuencia directa de la dinámica del",
+    "duration": 5319,
+    "offset": 437440,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido. Cuando la varilla cae, no",
+    "duration": 5521,
+    "offset": 439639,
+    "lang": "es"
+  },
+  {
+    "text": "todos sus puntos se aceleran igual. El",
+    "duration": 4801,
+    "offset": 442759,
+    "lang": "es"
+  },
+  {
+    "text": "punto B en el extremo libre tiene una",
+    "duration": 5039,
+    "offset": 445160,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración tangencial que depende de la",
+    "duration": 5039,
+    "offset": 447560,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración angular de la varilla. A",
+    "duration": 4081,
+    "offset": 450199,
+    "lang": "es"
+  },
+  {
+    "text": "medida que la varilla se acerca a la",
+    "duration": 4160,
+    "offset": 452599,
+    "lang": "es"
+  },
+  {
+    "text": "posición horizontal, esta aceleración",
+    "duration": 5400,
+    "offset": 454280,
+    "lang": "es"
+  },
+  {
+    "text": "angular impulsada por el torque del peso",
+    "duration": 5241,
+    "offset": 456759,
+    "lang": "es"
+  },
+  {
+    "text": "es tan grande que la aceleración del",
+    "duration": 5440,
+    "offset": 459680,
+    "lang": "es"
+  },
+  {
+    "text": "punto B supera a G. Por eso en el video",
+    "duration": 5280,
+    "offset": 462000,
+    "lang": "es"
+  },
+  {
+    "text": "de la demolición de la chimenea esta se",
+    "duration": 3479,
+    "offset": 465120,
+    "lang": "es"
+  },
+  {
+    "text": "quiebra en el aire.",
+    "duration": 3840,
+    "offset": 467280,
+    "lang": "es"
+  },
+  {
+    "text": "Exacto. La base de la chimenea se frena",
+    "duration": 4320,
+    "offset": 468599,
+    "lang": "es"
+  },
+  {
+    "text": "al tocar el suelo, pero la parte",
+    "duration": 4000,
+    "offset": 471120,
+    "lang": "es"
+  },
+  {
+    "text": "superior quiere seguir cayendo con una",
+    "duration": 4761,
+    "offset": 472919,
+    "lang": "es"
+  },
+  {
+    "text": "gran aceleración angular. Esto genera",
+    "duration": 5320,
+    "offset": 475120,
+    "lang": "es"
+  },
+  {
+    "text": "tensiones internas enormes, superiores a",
+    "duration": 4760,
+    "offset": 477680,
+    "lang": "es"
+  },
+  {
+    "text": "lo que el material puede resistir y se",
+    "duration": 4719,
+    "offset": 480440,
+    "lang": "es"
+  },
+  {
+    "text": "parte. Es la dinámica del cuerpo rígido",
+    "duration": 4719,
+    "offset": 482440,
+    "lang": "es"
+  },
+  {
+    "text": "en todo su esplendor destructivo.",
+    "duration": 3880,
+    "offset": 485159,
+    "lang": "es"
+  },
+  {
+    "text": "Y el péndulo físico, ¿qué tiene que ver",
+    "duration": 2880,
+    "offset": 487159,
+    "lang": "es"
+  },
+  {
+    "text": "con todo esto?",
+    "duration": 2961,
+    "offset": 489039,
+    "lang": "es"
+  },
+  {
+    "text": "El péndulo físico es una aplicación",
+    "duration": 4681,
+    "offset": 490039,
+    "lang": "es"
+  },
+  {
+    "text": "genial. A diferencia del péndulo simple,",
+    "duration": 5400,
+    "offset": 492000,
+    "lang": "es"
+  },
+  {
+    "text": "una masa puntual, aquí tenemos un cuerpo",
+    "duration": 5080,
+    "offset": 494720,
+    "lang": "es"
+  },
+  {
+    "text": "rígido oscilando. Su periodo de",
+    "duration": 4359,
+    "offset": 497400,
+    "lang": "es"
+  },
+  {
+    "text": "oscilación no solo depende de la",
+    "duration": 4799,
+    "offset": 499800,
+    "lang": "es"
+  },
+  {
+    "text": "longitud, sino de su momento de inercia.",
+    "duration": 4521,
+    "offset": 501759,
+    "lang": "es"
+  },
+  {
+    "text": "Lo interesante es que podemos usarlo a",
+    "duration": 3841,
+    "offset": 504599,
+    "lang": "es"
+  },
+  {
+    "text": "la inversa. Midiendo el periodo de",
+    "duration": 3879,
+    "offset": 506280,
+    "lang": "es"
+  },
+  {
+    "text": "oscilación de un objeto de forma",
+    "duration": 3680,
+    "offset": 508440,
+    "lang": "es"
+  },
+  {
+    "text": "irregular, podemos calcular",
+    "duration": 4481,
+    "offset": 510159,
+    "lang": "es"
+  },
+  {
+    "text": "experimentalmente su momento de inercia",
+    "duration": 4880,
+    "offset": 512120,
+    "lang": "es"
+  },
+  {
+    "text": "y su radio de giro, algo que por",
+    "duration": 5519,
+    "offset": 514640,
+    "lang": "es"
+  },
+  {
+    "text": "integrales sería casi imposible.",
+    "duration": 5159,
+    "offset": 517000,
+    "lang": "es"
+  },
+  {
+    "text": "Profe, la verdad es que ahora todo tiene",
+    "duration": 5161,
+    "offset": 520159,
+    "lang": "es"
+  },
+  {
+    "text": "mucho más sentido. Pasar del punto a las",
+    "duration": 5081,
+    "offset": 522159,
+    "lang": "es"
+  },
+  {
+    "text": "dimensiones del cuerpo rígido abre un",
+    "duration": 4480,
+    "offset": 525320,
+    "lang": "es"
+  },
+  {
+    "text": "mundo nuevo con torques, momento de",
+    "duration": 5039,
+    "offset": 527240,
+    "lang": "es"
+  },
+  {
+    "text": "inercia y movimientos que a veces nos",
+    "duration": 3520,
+    "offset": 529800,
+    "lang": "es"
+  },
+  {
+    "text": "sorprenden.",
+    "duration": 3401,
+    "offset": 532279,
+    "lang": "es"
+  },
+  {
+    "text": "De eso se trata la física, Sofía, de",
+    "duration": 4600,
+    "offset": 533320,
+    "lang": "es"
+  },
+  {
+    "text": "darnos las herramientas para entender el",
+    "duration": 4440,
+    "offset": 535680,
+    "lang": "es"
+  },
+  {
+    "text": "mundo que nos rodea. Desde el giro de un",
+    "duration": 4640,
+    "offset": 537920,
+    "lang": "es"
+  },
+  {
+    "text": "yoyo hasta porque una chimenea se parte",
+    "duration": 4680,
+    "offset": 540120,
+    "lang": "es"
+  },
+  {
+    "text": "al traer. Y la dinámica del cuerpo",
+    "duration": 4880,
+    "offset": 542560,
+    "lang": "es"
+  },
+  {
+    "text": "rígido es una herramienta fundamental",
+    "duration": 4200,
+    "offset": 544800,
+    "lang": "es"
+  },
+  {
+    "text": "para cualquier ingeniero.",
+    "duration": 4120,
+    "offset": 547440,
+    "lang": "es"
+  },
+  {
+    "text": "Totalmente. Muchísimas gracias, profe",
+    "duration": 5519,
+    "offset": 549000,
+    "lang": "es"
+  },
+  {
+    "text": "Armando. Y a ustedes, oyentes, esperamos",
+    "duration": 5440,
+    "offset": 551560,
+    "lang": "es"
+  },
+  {
+    "text": "que les haya servido. No se olviden de",
+    "duration": 4681,
+    "offset": 554519,
+    "lang": "es"
+  },
+  {
+    "text": "repasar el apunte de la cátedra. Nos",
+    "duration": 3959,
+    "offset": 557000,
+    "lang": "es"
+  },
+  {
+    "text": "encontramos la próxima semana en otro",
+    "duration": 4920,
+    "offset": 559200,
+    "lang": "es"
+  },
+  {
+    "text": "episodio de Física en Fiuba. Chao,",
+    "duration": 6601,
+    "offset": 560959,
+    "lang": "es"
+  },
+  {
+    "text": "hasta la próxima. Ah.",
+    "duration": 3440,
+    "offset": 564120,
+    "lang": "es"
+  }
+]

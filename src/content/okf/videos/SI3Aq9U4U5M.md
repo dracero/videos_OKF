@@ -4,7 +4,7 @@ title: "Hyperledger Aries con VON-Network"
 description: "In this video I show you how to issue a credential with ACA-py and VON-Network- Part one"
 resource: "https://www.youtube.com/watch?v=SI3Aq9U4U5M"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-02T00:21:57.069Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T17:06:19.077Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -18,7 +18,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-02"
+    last_modified: "2026-08-10"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"

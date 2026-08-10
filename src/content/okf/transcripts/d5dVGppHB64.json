@@ -1,0 +1,254 @@
+[
+  {
+    "text": "Terminamos de hacer el frontend para",
+    "duration": 4960,
+    "offset": 1040,
+    "lang": "es"
+  },
+  {
+    "text": "nuestros agentes. Lo primero que vamos a",
+    "duration": 7200,
+    "offset": 3800,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es registrar primero el agente de",
+    "duration": 8840,
+    "offset": 6000,
+    "lang": "es"
+  },
+  {
+    "text": "generación de imágenes",
+    "duration": 3840,
+    "offset": 11000,
+    "lang": "es"
+  },
+  {
+    "text": "y después vamos a registrar el",
+    "duration": 5160,
+    "offset": 16440,
+    "lang": "es"
+  },
+  {
+    "text": "agente de diagnóstico médico.",
+    "duration": 5160,
+    "offset": 22119,
+    "lang": "es"
+  },
+  {
+    "text": "Ya tenemos los dos agentes registrados.",
+    "duration": 4800,
+    "offset": 27840,
+    "lang": "es"
+  },
+  {
+    "text": "Creamos una nueva conversación. Vamos al",
+    "duration": 4441,
+    "offset": 30199,
+    "lang": "es"
+  },
+  {
+    "text": "chat,",
+    "duration": 4599,
+    "offset": 32640,
+    "lang": "es"
+  },
+  {
+    "text": "elegimos la conversación y lo primero",
+    "duration": 6599,
+    "offset": 34640,
+    "lang": "es"
+  },
+  {
+    "text": "que le vamos a decir es si me",
+    "duration": 9921,
+    "offset": 37239,
+    "lang": "es"
+  },
+  {
+    "text": "podés crear la imagen de",
+    "duration": 5921,
+    "offset": 41239,
+    "lang": "es"
+  },
+  {
+    "text": "una vaca tomando agua.",
+    "duration": 4761,
+    "offset": 47719,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí le pedimos que nos cree la imagen de",
+    "duration": 3840,
+    "offset": 50760,
+    "lang": "es"
+  },
+  {
+    "text": "una vaca tomando agua desde un frontend",
+    "duration": 6360,
+    "offset": 52480,
+    "lang": "es"
+  },
+  {
+    "text": "hecho en y nos fijamos que empieza a",
+    "duration": 7240,
+    "offset": 54600,
+    "lang": "es"
+  },
+  {
+    "text": "trabajar el agente Crue II, que es el",
+    "duration": 6920,
+    "offset": 58840,
+    "lang": "es"
+  },
+  {
+    "text": "que genera las imágenes. Ahí está",
+    "duration": 6240,
+    "offset": 61840,
+    "lang": "es"
+  },
+  {
+    "text": "generando nuestra imagen. Ahí nos vino",
+    "duration": 4760,
+    "offset": 65760,
+    "lang": "es"
+  },
+  {
+    "text": "la vaca tomando agua. Y ahora le decimos",
+    "duration": 5120,
+    "offset": 68080,
+    "lang": "es"
+  },
+  {
+    "text": "si me",
+    "duration": 7120,
+    "offset": 70520,
+    "lang": "es"
+  },
+  {
+    "text": "podés decir los",
+    "duration": 4440,
+    "offset": 73200,
+    "lang": "es"
+  },
+  {
+    "text": "síntomas de la",
+    "duration": 6680,
+    "offset": 79920,
+    "lang": "es"
+  },
+  {
+    "text": "fiebre",
+    "duration": 5199,
+    "offset": 83920,
+    "lang": "es"
+  },
+  {
+    "text": "tifoidea.",
+    "duration": 4760,
+    "offset": 86600,
+    "lang": "es"
+  },
+  {
+    "text": "El agente orquestador interpreta que la",
+    "duration": 4841,
+    "offset": 89119,
+    "lang": "es"
+  },
+  {
+    "text": "fiebre tifoidea se refiere a un problema",
+    "duration": 5520,
+    "offset": 91360,
+    "lang": "es"
+  },
+  {
+    "text": "médico y fíjense que no va a este",
+    "duration": 5280,
+    "offset": 93960,
+    "lang": "es"
+  },
+  {
+    "text": "agente, sino que va al agente de",
+    "duration": 5919,
+    "offset": 96880,
+    "lang": "es"
+  },
+  {
+    "text": "consulta médica",
+    "duration": 6760,
+    "offset": 99240,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí este agente está hecho con ADK, al",
+    "duration": 5600,
+    "offset": 102799,
+    "lang": "es"
+  },
+  {
+    "text": "igual que el agente orquestador. Ahí nos",
+    "duration": 4960,
+    "offset": 106000,
+    "lang": "es"
+  },
+  {
+    "text": "dice que finalizó y nos va a venir y acá",
+    "duration": 4680,
+    "offset": 108399,
+    "lang": "es"
+  },
+  {
+    "text": "están todos esos síntomas. ¿Qué es lo",
+    "duration": 3479,
+    "offset": 110960,
+    "lang": "es"
+  },
+  {
+    "text": "que nos falta ahora en lo que estamos",
+    "duration": 4561,
+    "offset": 113079,
+    "lang": "es"
+  },
+  {
+    "text": "trabajando? en también poder enviar",
+    "duration": 6201,
+    "offset": 114439,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes",
+    "duration": 3000,
+    "offset": 117640,
+    "lang": "es"
+  },
+  {
+    "text": "para que",
+    "duration": 3399,
+    "offset": 122360,
+    "lang": "es"
+  },
+  {
+    "text": "me das el diagnóstico.",
+    "duration": 4440,
+    "offset": 127439,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora estamos trabajando en poder mandar",
+    "duration": 4600,
+    "offset": 134120,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes para que también nos clasifique",
+    "duration": 4800,
+    "offset": 136560,
+    "lang": "es"
+  },
+  {
+    "text": "las imágenes.",
+    "duration": 2640,
+    "offset": 138720,
+    "lang": "es"
+  }
+]

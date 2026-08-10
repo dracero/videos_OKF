@@ -1,0 +1,122 @@
+[
+  {
+    "text": "una vez que instalamos el servidor de la",
+    "duration": 4950,
+    "offset": 790,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a tener a nuestra disposición la",
+    "duration": 5250,
+    "offset": 3340,
+    "lang": "es"
+  },
+  {
+    "text": "consola del google cloud platform dentro",
+    "duration": 4800,
+    "offset": 5740,
+    "lang": "es"
+  },
+  {
+    "text": "de la consola de google cloud platform",
+    "duration": 4760,
+    "offset": 8590,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a computer inc",
+    "duration": 7010,
+    "offset": 10540,
+    "lang": "es"
+  },
+  {
+    "text": "acá aparece el computing o la máquina",
+    "duration": 6720,
+    "offset": 13350,
+    "lang": "es"
+  },
+  {
+    "text": "virtual que se creó para poder soportar",
+    "duration": 4290,
+    "offset": 17550,
+    "lang": "es"
+  },
+  {
+    "text": "con su sistema operativo nuestro",
+    "duration": 5610,
+    "offset": 20070,
+    "lang": "es"
+  },
+  {
+    "text": "servidor hacemos clic en el nombre de la",
+    "duration": 7590,
+    "offset": 21840,
+    "lang": "es"
+  },
+  {
+    "text": "máquina una vez que entramos a la",
+    "duration": 5940,
+    "offset": 25680,
+    "lang": "es"
+  },
+  {
+    "text": "máquina buscamos el network interface",
+    "duration": 5100,
+    "offset": 29430,
+    "lang": "es"
+  },
+  {
+    "text": "card el nick y hacemos clic sobre el",
+    "duration": 4020,
+    "offset": 31620,
+    "lang": "es"
+  },
+  {
+    "text": "negro",
+    "duration": 3779,
+    "offset": 34530,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a donde dice direcciones ip",
+    "duration": 5550,
+    "offset": 35640,
+    "lang": "es"
+  },
+  {
+    "text": "externas nuestra máquina va a tener una",
+    "duration": 5640,
+    "offset": 38309,
+    "lang": "es"
+  },
+  {
+    "text": "dirección ip externa que va a decir",
+    "duration": 4920,
+    "offset": 41190,
+    "lang": "es"
+  },
+  {
+    "text": "dinámica que es esta dirección ip",
+    "duration": 4171,
+    "offset": 43949,
+    "lang": "es"
+  },
+  {
+    "text": "externa una ip pública para que nos",
+    "duration": 4650,
+    "offset": 46110,
+    "lang": "es"
+  },
+  {
+    "text": "encuentren desde fuera y vamos a elegir",
+    "duration": 6560,
+    "offset": 48120,
+    "lang": "es"
+  },
+  {
+    "text": "ip estática",
+    "duration": 3920,
+    "offset": 50760,
+    "lang": "es"
+  }
+]

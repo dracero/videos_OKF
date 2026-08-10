@@ -1,0 +1,440 @@
+[
+  {
+    "text": "vamos a Mostrar los pasos para",
+    "duration": 5921,
+    "offset": 599,
+    "lang": "es"
+  },
+  {
+    "text": "transformar una imagen en un grafo",
+    "duration": 6799,
+    "offset": 2760,
+    "lang": "es"
+  },
+  {
+    "text": "dentro de neo4j con el cual podemos",
+    "duration": 6800,
+    "offset": 6520,
+    "lang": "es"
+  },
+  {
+    "text": "hacer queries utilizando un",
+    "duration": 6800,
+    "offset": 9559,
+    "lang": "es"
+  },
+  {
+    "text": "llm en principio tenemos este grafo como",
+    "duration": 6280,
+    "offset": 13320,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes verán es el grafo que nos dice",
+    "duration": 5041,
+    "offset": 16359,
+    "lang": "es"
+  },
+  {
+    "text": "las materias por las cuales Tenemos que",
+    "duration": 3800,
+    "offset": 19600,
+    "lang": "es"
+  },
+  {
+    "text": "pasar para recibirnos de",
+    "duration": 4440,
+    "offset": 21400,
+    "lang": "es"
+  },
+  {
+    "text": "psicólogo no está estrictamente bien",
+    "duration": 5279,
+    "offset": 23400,
+    "lang": "es"
+  },
+  {
+    "text": "hecho el grafo porque como verán no hay",
+    "duration": 5800,
+    "offset": 25840,
+    "lang": "es"
+  },
+  {
+    "text": "conexión entre el C c y las materias del",
+    "duration": 5361,
+    "offset": 28679,
+    "lang": "es"
+  },
+  {
+    "text": "ciclo de formación general y tampoco",
+    "duration": 4040,
+    "offset": 31640,
+    "lang": "es"
+  },
+  {
+    "text": "está la conexión entre el ciclo de",
+    "duration": 4400,
+    "offset": 34040,
+    "lang": "es"
+  },
+  {
+    "text": "formación general y las materias del",
+    "duration": 5399,
+    "offset": 35680,
+    "lang": "es"
+  },
+  {
+    "text": "ciclo de formación",
+    "duration": 5000,
+    "offset": 38440,
+    "lang": "es"
+  },
+  {
+    "text": "profesional el grafo debería estar",
+    "duration": 4160,
+    "offset": 41079,
+    "lang": "es"
+  },
+  {
+    "text": "perfectamente conectado y no con Estos",
+    "duration": 4560,
+    "offset": 43440,
+    "lang": "es"
+  },
+  {
+    "text": "espacios en blanco para que se pueda",
+    "duration": 5840,
+    "offset": 45239,
+    "lang": "es"
+  },
+  {
+    "text": "interpretar sin problemas",
+    "duration": 5760,
+    "offset": 48000,
+    "lang": "es"
+  },
+  {
+    "text": "e nosotros lo que hacemos Es introducir",
+    "duration": 6800,
+    "offset": 51079,
+    "lang": "es"
+  },
+  {
+    "text": "este gráfico en Cloud en sonet y Cloud",
+    "duration": 7160,
+    "offset": 53760,
+    "lang": "es"
+  },
+  {
+    "text": "sonet lo transforma a",
+    "duration": 6761,
+    "offset": 57879,
+    "lang": "es"
+  },
+  {
+    "text": "código cyher código cyher es el código",
+    "duration": 7480,
+    "offset": 60920,
+    "lang": "es"
+  },
+  {
+    "text": "que usa Ne for J para crear sus base de",
+    "duration": 7360,
+    "offset": 64640,
+    "lang": "es"
+  },
+  {
+    "text": "datos a partir de ese gráfico es cierto",
+    "duration": 5480,
+    "offset": 68400,
+    "lang": "es"
+  },
+  {
+    "text": "el grafo hay que completarlo para que",
+    "duration": 5240,
+    "offset": 72000,
+    "lang": "es"
+  },
+  {
+    "text": "pueda comprenderse mejor pero Igualmente",
+    "duration": 5760,
+    "offset": 73880,
+    "lang": "es"
+  },
+  {
+    "text": "como nosotros acá tenemos el grafo de",
+    "duration": 4760,
+    "offset": 77240,
+    "lang": "es"
+  },
+  {
+    "text": "creación de los nodos y el grafo de",
+    "duration": 3680,
+    "offset": 79640,
+    "lang": "es"
+  },
+  {
+    "text": "creación de",
+    "duration": 2840,
+    "offset": 82000,
+    "lang": "es"
+  },
+  {
+    "text": "las",
+    "duration": 3640,
+    "offset": 83320,
+    "lang": "es"
+  },
+  {
+    "text": "relaciones lo que podemos hacer",
+    "duration": 4639,
+    "offset": 84840,
+    "lang": "es"
+  },
+  {
+    "text": "directamente es modificar este código",
+    "duration": 4440,
+    "offset": 86960,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que comprendamos bien cómo es",
+    "duration": 3960,
+    "offset": 89479,
+    "lang": "es"
+  },
+  {
+    "text": "que se interconectan las materias por",
+    "duration": 4719,
+    "offset": 91400,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo lo que yo le dije Es que en el",
+    "duration": 7360,
+    "offset": 93439,
+    "lang": "es"
+  },
+  {
+    "text": "cbc hiciera un único una un stage que se",
+    "duration": 7881,
+    "offset": 96119,
+    "lang": "es"
+  },
+  {
+    "text": "llama cbc una etapa que se llama cbc y",
+    "duration": 5360,
+    "offset": 100799,
+    "lang": "es"
+  },
+  {
+    "text": "que esa la pusiera como correlativas de",
+    "duration": 4200,
+    "offset": 104000,
+    "lang": "es"
+  },
+  {
+    "text": "estas materias Igualmente se podría",
+    "duration": 5000,
+    "offset": 106159,
+    "lang": "es"
+  },
+  {
+    "text": "hacer con el ciclo de formación superior",
+    "duration": 6080,
+    "offset": 108200,
+    "lang": "es"
+  },
+  {
+    "text": "con las materias selectivas pero todo se",
+    "duration": 5640,
+    "offset": 111159,
+    "lang": "es"
+  },
+  {
+    "text": "puede customizar a partir de este código",
+    "duration": 3799,
+    "offset": 114280,
+    "lang": "es"
+  },
+  {
+    "text": "que que",
+    "duration": 6360,
+    "offset": 116799,
+    "lang": "es"
+  },
+  {
+    "text": "desde la imagen genera Cloud una vez que",
+    "duration": 9481,
+    "offset": 118079,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos el código este código ya queda",
+    "duration": 7160,
+    "offset": 123159,
+    "lang": "es"
+  },
+  {
+    "text": "dentro de la base New forj con sus nodos",
+    "duration": 5080,
+    "offset": 127560,
+    "lang": "es"
+  },
+  {
+    "text": "y relaciones y ahí es donde podemos",
+    "duration": 5401,
+    "offset": 130319,
+    "lang": "es"
+  },
+  {
+    "text": "visualizarlo y ajustarlo en función de",
+    "duration": 6120,
+    "offset": 132640,
+    "lang": "es"
+  },
+  {
+    "text": "lo que sea necesario Ahí es donde",
+    "duration": 5920,
+    "offset": 135720,
+    "lang": "es"
+  },
+  {
+    "text": "podemos ver de visualizarlo y ajustarlo",
+    "duration": 4880,
+    "offset": 138760,
+    "lang": "es"
+  },
+  {
+    "text": "en función de lo que sea",
+    "duration": 5720,
+    "offset": 141640,
+    "lang": "es"
+  },
+  {
+    "text": "necesario Qué es lo bueno de ese código",
+    "duration": 6319,
+    "offset": 143640,
+    "lang": "es"
+  },
+  {
+    "text": "podemos encestarlo pero también lo que",
+    "duration": 5360,
+    "offset": 147360,
+    "lang": "es"
+  },
+  {
+    "text": "podemos hacer con ese código es a través",
+    "duration": 7521,
+    "offset": 149959,
+    "lang": "es"
+  },
+  {
+    "text": "de un llm acá tenemos e gemine 1.5 y",
+    "duration": 7000,
+    "offset": 152720,
+    "lang": "es"
+  },
+  {
+    "text": "también tenemos una experiencia hecha",
+    "duration": 4960,
+    "offset": 157480,
+    "lang": "es"
+  },
+  {
+    "text": "con groc podemos generar",
+    "duration": 6799,
+    "offset": 159720,
+    "lang": "es"
+  },
+  {
+    "text": "e preguntas y esas preguntas el llm",
+    "duration": 6840,
+    "offset": 162440,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando un package de l Chain las",
+    "duration": 5720,
+    "offset": 166519,
+    "lang": "es"
+  },
+  {
+    "text": "transforma en código cipher y nos",
+    "duration": 5039,
+    "offset": 169280,
+    "lang": "es"
+  },
+  {
+    "text": "devuelve lo que nosotros queremos saber",
+    "duration": 4640,
+    "offset": 172239,
+    "lang": "es"
+  },
+  {
+    "text": "de ese grafo O sea que En definitiva lo",
+    "duration": 5521,
+    "offset": 174319,
+    "lang": "es"
+  },
+  {
+    "text": "que podríamos hacer por ejemplo es en",
+    "duration": 5360,
+    "offset": 176879,
+    "lang": "es"
+  },
+  {
+    "text": "encuestar cada vez que un alumno aprueba",
+    "duration": 3880,
+    "offset": 179840,
+    "lang": "es"
+  },
+  {
+    "text": "una materia a ver si está siguiendo el",
+    "duration": 3441,
+    "offset": 182239,
+    "lang": "es"
+  },
+  {
+    "text": "camino correcto o finalmente una vez que",
+    "duration": 4640,
+    "offset": 183720,
+    "lang": "es"
+  },
+  {
+    "text": "dice que está recibido verificar si",
+    "duration": 6360,
+    "offset": 185680,
+    "lang": "es"
+  },
+  {
+    "text": "efectivamente está recibido pero no a",
+    "duration": 6959,
+    "offset": 188360,
+    "lang": "es"
+  },
+  {
+    "text": "través de escribir código cipher sino a",
+    "duration": 7080,
+    "offset": 192040,
+    "lang": "es"
+  },
+  {
+    "text": "través de lenguaje coloquial en el llm",
+    "duration": 5721,
+    "offset": 195319,
+    "lang": "es"
+  },
+  {
+    "text": "como las preguntas son estándar lo que",
+    "duration": 6360,
+    "offset": 199120,
+    "lang": "es"
+  },
+  {
+    "text": "podemos hacer es harcode arlas",
+    "duration": 4440,
+    "offset": 201040,
+    "lang": "es"
+  }
+]

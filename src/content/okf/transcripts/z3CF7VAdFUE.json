@@ -1,0 +1,1820 @@
+[
+  {
+    "text": "Buenas tardes",
+    "duration": 5859,
+    "offset": 1940,
+    "lang": "es"
+  },
+  {
+    "text": "Yo voy a resolver un problema de cuerpo",
+    "duration": 8820,
+    "offset": 3680,
+    "lang": "es"
+  },
+  {
+    "text": "rígido de dinámica del cuerpo rígido",
+    "duration": 8121,
+    "offset": 7799,
+    "lang": "es"
+  },
+  {
+    "text": "para poder resolver este problema se",
+    "duration": 5440,
+    "offset": 12500,
+    "lang": "es"
+  },
+  {
+    "text": "correspondiente a la unidad seis de",
+    "duration": 4960,
+    "offset": 15920,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido es necesario manejar",
+    "duration": 5280,
+    "offset": 17940,
+    "lang": "es"
+  },
+  {
+    "text": "conceptos de momento de Inercia teoremas",
+    "duration": 4260,
+    "offset": 20880,
+    "lang": "es"
+  },
+  {
+    "text": "de steiner ecuaciones de movimiento de",
+    "duration": 4200,
+    "offset": 23220,
+    "lang": "es"
+  },
+  {
+    "text": "un sólido rígido y energía cinética de",
+    "duration": 5160,
+    "offset": 25140,
+    "lang": "es"
+  },
+  {
+    "text": "rotación estas son los conceptos que hoy",
+    "duration": 6199,
+    "offset": 27420,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a poner en juego",
+    "duration": 3319,
+    "offset": 30300,
+    "lang": "es"
+  },
+  {
+    "text": "en el caso de este ejercicio este",
+    "duration": 3900,
+    "offset": 34020,
+    "lang": "es"
+  },
+  {
+    "text": "ejercicio para mí es muy importante",
+    "duration": 3200,
+    "offset": 36300,
+    "lang": "es"
+  },
+  {
+    "text": "porque",
+    "duration": 3900,
+    "offset": 37920,
+    "lang": "es"
+  },
+  {
+    "text": "demuestra la forma de integrar las leyes",
+    "duration": 5260,
+    "offset": 39500,
+    "lang": "es"
+  },
+  {
+    "text": "universales del cuerpo rígido hay que",
+    "duration": 5040,
+    "offset": 41820,
+    "lang": "es"
+  },
+  {
+    "text": "tener conocimientos matemáticos",
+    "duration": 5700,
+    "offset": 44760,
+    "lang": "es"
+  },
+  {
+    "text": "conocimientos de trabajo y energía del",
+    "duration": 6480,
+    "offset": 46860,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido y tiene además una",
+    "duration": 5340,
+    "offset": 50460,
+    "lang": "es"
+  },
+  {
+    "text": "aplicación en el campo de la ingeniería",
+    "duration": 4800,
+    "offset": 53340,
+    "lang": "es"
+  },
+  {
+    "text": "Y tenemos elementos en el laboratorio",
+    "duration": 4439,
+    "offset": 55800,
+    "lang": "es"
+  },
+  {
+    "text": "también para llevar a la práctica lo que",
+    "duration": 4020,
+    "offset": 58140,
+    "lang": "es"
+  },
+  {
+    "text": "estamos viendo sobre todo la última",
+    "duration": 5581,
+    "offset": 60239,
+    "lang": "es"
+  },
+  {
+    "text": "parte a donde se va a ver que la",
+    "duration": 6080,
+    "offset": 62160,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración del centro de masa es mayor",
+    "duration": 6900,
+    "offset": 65820,
+    "lang": "es"
+  },
+  {
+    "text": "a la aceleración de la gravedad",
+    "duration": 7720,
+    "offset": 68240,
+    "lang": "es"
+  },
+  {
+    "text": "bien es una barra homogénea que está",
+    "duration": 6660,
+    "offset": 72720,
+    "lang": "es"
+  },
+  {
+    "text": "sujeta a la pared a través de un apoyo",
+    "duration": 5519,
+    "offset": 75960,
+    "lang": "es"
+  },
+  {
+    "text": "sin rozamiento que está representado por",
+    "duration": 7460,
+    "offset": 79380,
+    "lang": "es"
+  },
+  {
+    "text": "el punto o y sostenida por una soga",
+    "duration": 5361,
+    "offset": 81479,
+    "lang": "es"
+  },
+  {
+    "text": "lo que se pide es Hallar el momento de",
+    "duration": 5140,
+    "offset": 87320,
+    "lang": "es"
+  },
+  {
+    "text": "Inercia respecto del punto la",
+    "duration": 3960,
+    "offset": 90360,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración angular de la barra en el",
+    "duration": 4740,
+    "offset": 92460,
+    "lang": "es"
+  },
+  {
+    "text": "momento que se corta la cuerda y la",
+    "duration": 4439,
+    "offset": 94320,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración del centro de masa en la",
+    "duration": 3239,
+    "offset": 97200,
+    "lang": "es"
+  },
+  {
+    "text": "posición horizontal y las reacciones de",
+    "duration": 4641,
+    "offset": 98759,
+    "lang": "es"
+  },
+  {
+    "text": "vínculo en el punto",
+    "duration": 2961,
+    "offset": 100439,
+    "lang": "es"
+  },
+  {
+    "text": "Por qué se va pidiendo esto en ese orden",
+    "duration": 5860,
+    "offset": 104180,
+    "lang": "es"
+  },
+  {
+    "text": "Porque la idea es que los resultados que",
+    "duration": 5759,
+    "offset": 106860,
+    "lang": "es"
+  },
+  {
+    "text": "obtienen en el punto uno sirvan para",
+    "duration": 4439,
+    "offset": 110040,
+    "lang": "es"
+  },
+  {
+    "text": "resolver los resultados del punto",
+    "duration": 5581,
+    "offset": 112619,
+    "lang": "es"
+  },
+  {
+    "text": "siguiente es como que más allá de",
+    "duration": 6241,
+    "offset": 114479,
+    "lang": "es"
+  },
+  {
+    "text": "resolver Y de conocer también el",
+    "duration": 4680,
+    "offset": 118200,
+    "lang": "es"
+  },
+  {
+    "text": "ejercicio les va sirviendo de guía para",
+    "duration": 4140,
+    "offset": 120720,
+    "lang": "es"
+  },
+  {
+    "text": "que ellos puedan ir resolviendo los",
+    "duration": 4320,
+    "offset": 122880,
+    "lang": "es"
+  },
+  {
+    "text": "puntos siguientes",
+    "duration": 5759,
+    "offset": 124860,
+    "lang": "es"
+  },
+  {
+    "text": "bien para Hallar el momento de Inercia",
+    "duration": 6539,
+    "offset": 127200,
+    "lang": "es"
+  },
+  {
+    "text": "lo que vamos a aplicar es el teorema de",
+    "duration": 6120,
+    "offset": 130619,
+    "lang": "es"
+  },
+  {
+    "text": "steiner el momento de Inercia respecto",
+    "duration": 5341,
+    "offset": 133739,
+    "lang": "es"
+  },
+  {
+    "text": "al punto o",
+    "duration": 5401,
+    "offset": 136739,
+    "lang": "es"
+  },
+  {
+    "text": "es igual al momento de Inercia respecto",
+    "duration": 6600,
+    "offset": 139080,
+    "lang": "es"
+  },
+  {
+    "text": "al centro de masa más la masa total por",
+    "duration": 6540,
+    "offset": 142140,
+    "lang": "es"
+  },
+  {
+    "text": "el cuadrado que separa al punto que es",
+    "duration": 4199,
+    "offset": 145680,
+    "lang": "es"
+  },
+  {
+    "text": "el eje respecto del cual estoy",
+    "duration": 2580,
+    "offset": 148680,
+    "lang": "es"
+  },
+  {
+    "text": "calculando el centro del momento del",
+    "duration": 4440,
+    "offset": 149879,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa O sea me quedaría m por l",
+    "duration": 5699,
+    "offset": 151260,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado sobre 12 más m por l cuadrado",
+    "duration": 6121,
+    "offset": 154319,
+    "lang": "es"
+  },
+  {
+    "text": "sobre 2 y Esto me da m por l cuadrado",
+    "duration": 6121,
+    "offset": 156959,
+    "lang": "es"
+  },
+  {
+    "text": "sobre 3 ya tengo ahí el resultado del",
+    "duration": 6260,
+    "offset": 160440,
+    "lang": "es"
+  },
+  {
+    "text": "momento de Inercia respecto al punto",
+    "duration": 3620,
+    "offset": 163080,
+    "lang": "es"
+  },
+  {
+    "text": "o en la segunda parte lo que dice es que",
+    "duration": 4800,
+    "offset": 166860,
+    "lang": "es"
+  },
+  {
+    "text": "se corta la cuerda y que tengo que",
+    "duration": 5360,
+    "offset": 169680,
+    "lang": "es"
+  },
+  {
+    "text": "hallar la",
+    "duration": 6060,
+    "offset": 171660,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración angular justo en ese",
+    "duration": 4180,
+    "offset": 175040,
+    "lang": "es"
+  },
+  {
+    "text": "instante en ese instante inicial cuando",
+    "duration": 3620,
+    "offset": 177720,
+    "lang": "es"
+  },
+  {
+    "text": "el cuerpo parte del reposo",
+    "duration": 5400,
+    "offset": 179220,
+    "lang": "es"
+  },
+  {
+    "text": "acá vemos cómo es el diagrama de cuerpo",
+    "duration": 5979,
+    "offset": 181340,
+    "lang": "es"
+  },
+  {
+    "text": "libre en el caso que esté sostenido por",
+    "duration": 4460,
+    "offset": 184620,
+    "lang": "es"
+  },
+  {
+    "text": "la cuerda El diagrama",
+    "duration": 4500,
+    "offset": 187319,
+    "lang": "es"
+  },
+  {
+    "text": "es un diagrama conjunto de cuerpo libre",
+    "duration": 6040,
+    "offset": 189080,
+    "lang": "es"
+  },
+  {
+    "text": "entre la barra y la reacción de vínculo",
+    "duration": 6181,
+    "offset": 191819,
+    "lang": "es"
+  },
+  {
+    "text": "en el apoyo con el sistema de referencia",
+    "duration": 5399,
+    "offset": 195120,
+    "lang": "es"
+  },
+  {
+    "text": "indicado en la figura Por qué elegí un",
+    "duration": 6420,
+    "offset": 198000,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de referencia Sí para que la",
+    "duration": 5781,
+    "offset": 200519,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración angular y la aceleración",
+    "duration": 4800,
+    "offset": 204420,
+    "lang": "es"
+  },
+  {
+    "text": "tangencial del centro de base angular de",
+    "duration": 3939,
+    "offset": 206300,
+    "lang": "es"
+  },
+  {
+    "text": "la selección central masa me queden",
+    "duration": 3080,
+    "offset": 209220,
+    "lang": "es"
+  },
+  {
+    "text": "positivas",
+    "duration": 5821,
+    "offset": 210239,
+    "lang": "es"
+  },
+  {
+    "text": "en este caso las ecuaciones universales",
+    "duration": 5680,
+    "offset": 212300,
+    "lang": "es"
+  },
+  {
+    "text": "del cuerpo rígido las podemos aplicar",
+    "duration": 4560,
+    "offset": 216060,
+    "lang": "es"
+  },
+  {
+    "text": "mostrando que la sumatoria de las",
+    "duration": 4619,
+    "offset": 217980,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas externas es cero y la sumatoria",
+    "duration": 4320,
+    "offset": 220620,
+    "lang": "es"
+  },
+  {
+    "text": "de los torques externos es 0 en este",
+    "duration": 4200,
+    "offset": 222599,
+    "lang": "es"
+  },
+  {
+    "text": "caso inicial está todo compensado cuando",
+    "duration": 7500,
+    "offset": 224940,
+    "lang": "es"
+  },
+  {
+    "text": "yo corto la cuerda la tensión en la",
+    "duration": 9061,
+    "offset": 226799,
+    "lang": "es"
+  },
+  {
+    "text": "cuerda se hace Cero en ese instante",
+    "duration": 5700,
+    "offset": 232440,
+    "lang": "es"
+  },
+  {
+    "text": "inicial Entonces yo tengo actuando el",
+    "duration": 5459,
+    "offset": 235860,
+    "lang": "es"
+  },
+  {
+    "text": "peso y la reacción de vínculo pero la",
+    "duration": 4920,
+    "offset": 238140,
+    "lang": "es"
+  },
+  {
+    "text": "reacción de vínculo ahora no la voy a",
+    "duration": 4621,
+    "offset": 241319,
+    "lang": "es"
+  },
+  {
+    "text": "considerar porque voy a tomar como",
+    "duration": 5300,
+    "offset": 243060,
+    "lang": "es"
+  },
+  {
+    "text": "centro de momento para",
+    "duration": 6200,
+    "offset": 245940,
+    "lang": "es"
+  },
+  {
+    "text": "calcular los torques el punto o Entonces",
+    "duration": 6700,
+    "offset": 248360,
+    "lang": "es"
+  },
+  {
+    "text": "el torque de la reacción de vínculo",
+    "duration": 5680,
+    "offset": 252140,
+    "lang": "es"
+  },
+  {
+    "text": "respecto al punto o es cero voy a elegir",
+    "duration": 4620,
+    "offset": 255060,
+    "lang": "es"
+  },
+  {
+    "text": "un sistema de referencia como el que",
+    "duration": 4700,
+    "offset": 257820,
+    "lang": "es"
+  },
+  {
+    "text": "está en la figura para que",
+    "duration": 7140,
+    "offset": 259680,
+    "lang": "es"
+  },
+  {
+    "text": "las aceleraciones y me den positiva la",
+    "duration": 6220,
+    "offset": 262520,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración angular y la aceleración del",
+    "duration": 5340,
+    "offset": 266820,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa me den positivas y acá",
+    "duration": 6540,
+    "offset": 268740,
+    "lang": "es"
+  },
+  {
+    "text": "voy a necesitar solamente la ecuación de",
+    "duration": 6360,
+    "offset": 272160,
+    "lang": "es"
+  },
+  {
+    "text": "torque si nos fijamos tenemos una",
+    "duration": 7320,
+    "offset": 275280,
+    "lang": "es"
+  },
+  {
+    "text": "componente del peso que es mg por el",
+    "duration": 6380,
+    "offset": 278520,
+    "lang": "es"
+  },
+  {
+    "text": "coseno de tita",
+    "duration": 4760,
+    "offset": 282600,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 6820,
+    "offset": 284900,
+    "lang": "es"
+  },
+  {
+    "text": "es ortogonal a la componente de la",
+    "duration": 6460,
+    "offset": 287360,
+    "lang": "es"
+  },
+  {
+    "text": "distancia respecto al punto o con lo",
+    "duration": 4400,
+    "offset": 291720,
+    "lang": "es"
+  },
+  {
+    "text": "cual directamente el producto",
+    "duration": 5520,
+    "offset": 293820,
+    "lang": "es"
+  },
+  {
+    "text": "vectorial r vector F yo lo puedo",
+    "duration": 6220,
+    "offset": 296120,
+    "lang": "es"
+  },
+  {
+    "text": "transformar en un producto escalar Y",
+    "duration": 6960,
+    "offset": 299340,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá digo que la distancia que",
+    "duration": 8240,
+    "offset": 302340,
+    "lang": "es"
+  },
+  {
+    "text": "es l sobre 2 por la componente del peso",
+    "duration": 8360,
+    "offset": 306300,
+    "lang": "es"
+  },
+  {
+    "text": "mg por coseno Tita",
+    "duration": 4080,
+    "offset": 310580,
+    "lang": "es"
+  },
+  {
+    "text": "ese sería el torque de la fuerza peso",
+    "duration": 6060,
+    "offset": 314699,
+    "lang": "es"
+  },
+  {
+    "text": "respecto de este punto es igual al",
+    "duration": 5940,
+    "offset": 317699,
+    "lang": "es"
+  },
+  {
+    "text": "momento de Inercia respecto al punto por",
+    "duration": 7261,
+    "offset": 320759,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración angular Gamma Ahora yo",
+    "duration": 6541,
+    "offset": 323639,
+    "lang": "es"
+  },
+  {
+    "text": "sabía del punto anterior que el momento",
+    "duration": 5220,
+    "offset": 328020,
+    "lang": "es"
+  },
+  {
+    "text": "de Inercia respecto al punto es m por l",
+    "duration": 5459,
+    "offset": 330180,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado sobre 3 por la aceleración",
+    "duration": 5760,
+    "offset": 333240,
+    "lang": "es"
+  },
+  {
+    "text": "angular Gamma entonces acá puedo",
+    "duration": 6961,
+    "offset": 335639,
+    "lang": "es"
+  },
+  {
+    "text": "simplificar se me va la masa",
+    "duration": 8039,
+    "offset": 339000,
+    "lang": "es"
+  },
+  {
+    "text": "con la masa y me queda que gama es igual",
+    "duration": 6920,
+    "offset": 342600,
+    "lang": "es"
+  },
+  {
+    "text": "a",
+    "duration": 2481,
+    "offset": 347039,
+    "lang": "es"
+  },
+  {
+    "text": "tres medios",
+    "duration": 8539,
+    "offset": 350100,
+    "lang": "es"
+  },
+  {
+    "text": "de G sobre L por el coseno de tita",
+    "duration": 6359,
+    "offset": 352280,
+    "lang": "es"
+  },
+  {
+    "text": "considerando haciendo las",
+    "duration": 3281,
+    "offset": 361039,
+    "lang": "es"
+  },
+  {
+    "text": "consideraciones del sistema de",
+    "duration": 5820,
+    "offset": 363240,
+    "lang": "es"
+  },
+  {
+    "text": "referencia que yo tengo gama es igual a",
+    "duration": 8040,
+    "offset": 364320,
+    "lang": "es"
+  },
+  {
+    "text": "tres medios de G por el vector Gamma es",
+    "duration": 5120,
+    "offset": 369060,
+    "lang": "es"
+  },
+  {
+    "text": "igual a tres medios de G por l",
+    "duration": 6179,
+    "offset": 372360,
+    "lang": "es"
+  },
+  {
+    "text": "coseno de tita por versor K bien está en",
+    "duration": 5459,
+    "offset": 374180,
+    "lang": "es"
+  },
+  {
+    "text": "el versor",
+    "duration": 5280,
+    "offset": 378539,
+    "lang": "es"
+  },
+  {
+    "text": "K o sea en el sentido saliente según el",
+    "duration": 8761,
+    "offset": 379639,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de referencia que yo elegí",
+    "duration": 8880,
+    "offset": 383819,
+    "lang": "es"
+  },
+  {
+    "text": "bien entonces para la segunda parte me",
+    "duration": 7299,
+    "offset": 388400,
+    "lang": "es"
+  },
+  {
+    "text": "pide que Halle la aceleración del centro",
+    "duration": 5101,
+    "offset": 392699,
+    "lang": "es"
+  },
+  {
+    "text": "de la tercera parte perdón el tercer",
+    "duration": 3720,
+    "offset": 395699,
+    "lang": "es"
+  },
+  {
+    "text": "punto me pide que Halle la aceleración",
+    "duration": 4920,
+    "offset": 397800,
+    "lang": "es"
+  },
+  {
+    "text": "del centro de masa y la reacción de",
+    "duration": 5761,
+    "offset": 399419,
+    "lang": "es"
+  },
+  {
+    "text": "vínculo cuando la barra está en la",
+    "duration": 5340,
+    "offset": 402720,
+    "lang": "es"
+  },
+  {
+    "text": "posición horizontal",
+    "duration": 5880,
+    "offset": 405180,
+    "lang": "es"
+  },
+  {
+    "text": "primero cuando la barra está en la",
+    "duration": 5520,
+    "offset": 408060,
+    "lang": "es"
+  },
+  {
+    "text": "posición horizontal ya no es como antes",
+    "duration": 5400,
+    "offset": 411060,
+    "lang": "es"
+  },
+  {
+    "text": "en la posición inicial que el centro de",
+    "duration": 5580,
+    "offset": 413580,
+    "lang": "es"
+  },
+  {
+    "text": "masa tenía velocidad cero acá el centro",
+    "duration": 6739,
+    "offset": 416460,
+    "lang": "es"
+  },
+  {
+    "text": "de masa ya ha adquirido velocidad",
+    "duration": 4039,
+    "offset": 419160,
+    "lang": "es"
+  },
+  {
+    "text": "esa velocidad que adquirió el centro de",
+    "duration": 4380,
+    "offset": 424860,
+    "lang": "es"
+  },
+  {
+    "text": "masa que está rotando alrededor del",
+    "duration": 5401,
+    "offset": 427259,
+    "lang": "es"
+  },
+  {
+    "text": "punto hace que no haya solamente una",
+    "duration": 6959,
+    "offset": 429240,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración en el sentido tangencial de",
+    "duration": 5220,
+    "offset": 432660,
+    "lang": "es"
+  },
+  {
+    "text": "la trayectoria del centro de masa sino",
+    "duration": 4021,
+    "offset": 436199,
+    "lang": "es"
+  },
+  {
+    "text": "que también hay una aceleración en el",
+    "duration": 4219,
+    "offset": 437880,
+    "lang": "es"
+  },
+  {
+    "text": "sentido normal",
+    "duration": 5340,
+    "offset": 440220,
+    "lang": "es"
+  },
+  {
+    "text": "ahora yo sé que esa aceleración en el",
+    "duration": 5921,
+    "offset": 442099,
+    "lang": "es"
+  },
+  {
+    "text": "sentido normal está dada por el módulo",
+    "duration": 4919,
+    "offset": 445560,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado de la velocidad sobre el radio",
+    "duration": 4679,
+    "offset": 448020,
+    "lang": "es"
+  },
+  {
+    "text": "de curvatura el radio curvatura lo",
+    "duration": 4560,
+    "offset": 450479,
+    "lang": "es"
+  },
+  {
+    "text": "conozco Cómo hago para saber la",
+    "duration": 3381,
+    "offset": 452699,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad",
+    "duration": 4081,
+    "offset": 455039,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense yo puedo ahí aplicar",
+    "duration": 7660,
+    "offset": 456080,
+    "lang": "es"
+  },
+  {
+    "text": "consideraciones energéticas inicialmente",
+    "duration": 4620,
+    "offset": 459120,
+    "lang": "es"
+  },
+  {
+    "text": "tenía la barra en reposo y lo que puedo",
+    "duration": 9181,
+    "offset": 464039,
+    "lang": "es"
+  },
+  {
+    "text": "considerar es que cuando la barra cae en",
+    "duration": 7261,
+    "offset": 468479,
+    "lang": "es"
+  },
+  {
+    "text": "la posición horizontal ahí está mi cero",
+    "duration": 5160,
+    "offset": 473220,
+    "lang": "es"
+  },
+  {
+    "text": "de potencial Entonces qué es lo que",
+    "duration": 4940,
+    "offset": 475740,
+    "lang": "es"
+  },
+  {
+    "text": "puedo decir puedo decir que",
+    "duration": 5219,
+    "offset": 478380,
+    "lang": "es"
+  },
+  {
+    "text": "inicialmente tenía solo energía",
+    "duration": 7120,
+    "offset": 480680,
+    "lang": "es"
+  },
+  {
+    "text": "potencial gravitatoria que es igual a mg",
+    "duration": 7981,
+    "offset": 483599,
+    "lang": "es"
+  },
+  {
+    "text": "por la altura a la que se encontraba el",
+    "duration": 6720,
+    "offset": 487800,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa que es l sobre 2 por el",
+    "duration": 6660,
+    "offset": 491580,
+    "lang": "es"
+  },
+  {
+    "text": "seno de tita y que eso va a ser igual a",
+    "duration": 6959,
+    "offset": 494520,
+    "lang": "es"
+  },
+  {
+    "text": "la energía cinética ahora por qué",
+    "duration": 4920,
+    "offset": 498240,
+    "lang": "es"
+  },
+  {
+    "text": "hicimos calcular el momento de dinero",
+    "duration": 4261,
+    "offset": 501479,
+    "lang": "es"
+  },
+  {
+    "text": "sea respecto al punto o porque acá puedo",
+    "duration": 4860,
+    "offset": 503160,
+    "lang": "es"
+  },
+  {
+    "text": "considerar energía cinética de rotación",
+    "duration": 6440,
+    "offset": 505740,
+    "lang": "es"
+  },
+  {
+    "text": "pura un medio de y respecto al punto por",
+    "duration": 6720,
+    "offset": 508020,
+    "lang": "es"
+  },
+  {
+    "text": "Omega cuadrado",
+    "duration": 5140,
+    "offset": 512180,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora yo sé que",
+    "duration": 5460,
+    "offset": 514740,
+    "lang": "es"
+  },
+  {
+    "text": "el momento de Inercia respecto al punto",
+    "duration": 5540,
+    "offset": 517320,
+    "lang": "es"
+  },
+  {
+    "text": "o es igual a",
+    "duration": 6480,
+    "offset": 520200,
+    "lang": "es"
+  },
+  {
+    "text": "m por l cuadrado sobre 3 por Omega",
+    "duration": 7360,
+    "offset": 522860,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado entonces acá",
+    "duration": 6779,
+    "offset": 526680,
+    "lang": "es"
+  },
+  {
+    "text": "puedo simplificar un medio con un medio",
+    "duration": 5940,
+    "offset": 530220,
+    "lang": "es"
+  },
+  {
+    "text": "y la masa con la masa y entonces me",
+    "duration": 9921,
+    "offset": 533459,
+    "lang": "es"
+  },
+  {
+    "text": "queda que Omega es igual a la raíz de",
+    "duration": 7220,
+    "offset": 536160,
+    "lang": "es"
+  },
+  {
+    "text": "3g sobre",
+    "duration": 4000,
+    "offset": 544940,
+    "lang": "es"
+  },
+  {
+    "text": "mg por l acá conmigo con un medio acá l",
+    "duration": 4440,
+    "offset": 551880,
+    "lang": "es"
+  },
+  {
+    "text": "con este cuadrado se puede simplificar",
+    "duration": 5280,
+    "offset": 554880,
+    "lang": "es"
+  },
+  {
+    "text": "también y me queda 3g por L por el seno",
+    "duration": 6380,
+    "offset": 556320,
+    "lang": "es"
+  },
+  {
+    "text": "de tita",
+    "duration": 2540,
+    "offset": 560160,
+    "lang": "es"
+  },
+  {
+    "text": "ahora qué es lo que sucede Yo tengo",
+    "duration": 7560,
+    "offset": 562920,
+    "lang": "es"
+  },
+  {
+    "text": "la velocidad en ese punto",
+    "duration": 7000,
+    "offset": 566060,
+    "lang": "es"
+  },
+  {
+    "text": "hago el diagrama de cuerpo libre ahora",
+    "duration": 4620,
+    "offset": 570480,
+    "lang": "es"
+  },
+  {
+    "text": "saco el vínculo y hago el diagrama de",
+    "duration": 4440,
+    "offset": 573060,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo libre en esa posición horizontal",
+    "duration": 4679,
+    "offset": 575100,
+    "lang": "es"
+  },
+  {
+    "text": "acá voy a tener las reacciones de",
+    "duration": 5540,
+    "offset": 577500,
+    "lang": "es"
+  },
+  {
+    "text": "vínculo y el peso",
+    "duration": 5821,
+    "offset": 579779,
+    "lang": "es"
+  },
+  {
+    "text": "planteo nuevamente las ecuaciones",
+    "duration": 6340,
+    "offset": 583040,
+    "lang": "es"
+  },
+  {
+    "text": "universales de cuerpo rígido la",
+    "duration": 6480,
+    "offset": 585600,
+    "lang": "es"
+  },
+  {
+    "text": "sumatoria de los torques externos y la",
+    "duration": 4500,
+    "offset": 589380,
+    "lang": "es"
+  },
+  {
+    "text": "sumatoria de las fuerzas externas lo que",
+    "duration": 4860,
+    "offset": 592080,
+    "lang": "es"
+  },
+  {
+    "text": "pasa es que ahora ya no son cero ahora",
+    "duration": 6180,
+    "offset": 593880,
+    "lang": "es"
+  },
+  {
+    "text": "la sumatoria de los torques externos es",
+    "duration": 5940,
+    "offset": 596940,
+    "lang": "es"
+  },
+  {
+    "text": "igual al momento respecto al punto o por",
+    "duration": 4620,
+    "offset": 600060,
+    "lang": "es"
+  },
+  {
+    "text": "la velocidad por la aceleración angular",
+    "duration": 4620,
+    "offset": 602880,
+    "lang": "es"
+  },
+  {
+    "text": "y la sumatoria de las fuerzas externas",
+    "duration": 4920,
+    "offset": 604680,
+    "lang": "es"
+  },
+  {
+    "text": "es igual a la masa por la aceleración",
+    "duration": 4800,
+    "offset": 607500,
+    "lang": "es"
+  },
+  {
+    "text": "del centro de masa y ojo porque la",
+    "duration": 4380,
+    "offset": 609600,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración del centro de masa tiene",
+    "duration": 4560,
+    "offset": 612300,
+    "lang": "es"
+  },
+  {
+    "text": "componente normal y tangencial según",
+    "duration": 5359,
+    "offset": 613980,
+    "lang": "es"
+  },
+  {
+    "text": "este sistema de referencia",
+    "duration": 6000,
+    "offset": 616860,
+    "lang": "es"
+  },
+  {
+    "text": "elegido a propósito para que las",
+    "duration": 5741,
+    "offset": 619339,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración del centro de masa",
+    "duration": 4140,
+    "offset": 622860,
+    "lang": "es"
+  },
+  {
+    "text": "tangencial y la aceleración angular me",
+    "duration": 3540,
+    "offset": 625080,
+    "lang": "es"
+  },
+  {
+    "text": "dé positiva para que haya la menor",
+    "duration": 4019,
+    "offset": 627000,
+    "lang": "es"
+  },
+  {
+    "text": "cantidad de términos negativos",
+    "duration": 5880,
+    "offset": 628620,
+    "lang": "es"
+  },
+  {
+    "text": "bien entonces ahora qué es lo que puedo",
+    "duration": 6901,
+    "offset": 631019,
+    "lang": "es"
+  },
+  {
+    "text": "plantear por un lado puedo decir que la",
+    "duration": 6060,
+    "offset": 634500,
+    "lang": "es"
+  },
+  {
+    "text": "reacción en función de mi sistema de",
+    "duration": 4700,
+    "offset": 637920,
+    "lang": "es"
+  },
+  {
+    "text": "referencia bien",
+    "duration": 6899,
+    "offset": 640560,
+    "lang": "es"
+  },
+  {
+    "text": "mg menos la reacción en y es igual a la",
+    "duration": 7480,
+    "offset": 642620,
+    "lang": "es"
+  },
+  {
+    "text": "masa por la aceleración tangencial del",
+    "duration": 5341,
+    "offset": 647459,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa y lo otro que puedo decir",
+    "duration": 5280,
+    "offset": 650100,
+    "lang": "es"
+  },
+  {
+    "text": "es que",
+    "duration": 7680,
+    "offset": 652800,
+    "lang": "es"
+  },
+  {
+    "text": "menos la reacción en x es igual a menos",
+    "duration": 8760,
+    "offset": 655380,
+    "lang": "es"
+  },
+  {
+    "text": "la masa por la aceleración normal del",
+    "duration": 6359,
+    "offset": 660480,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa ahora esta aceleración",
+    "duration": 6480,
+    "offset": 664140,
+    "lang": "es"
+  },
+  {
+    "text": "normal del centro de masa es igual a la",
+    "duration": 6541,
+    "offset": 666839,
+    "lang": "es"
+  },
+  {
+    "text": "masa por el módulo cuadrado de la",
+    "duration": 4440,
+    "offset": 670620,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad sobre el radio de curvatura",
+    "duration": 4500,
+    "offset": 673380,
+    "lang": "es"
+  },
+  {
+    "text": "como está haciendo una rotación pura Yo",
+    "duration": 4380,
+    "offset": 675060,
+    "lang": "es"
+  },
+  {
+    "text": "sé que ese módulo cuadrado de la",
+    "duration": 3660,
+    "offset": 677880,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad lo puedo escribir como Omega",
+    "duration": 4560,
+    "offset": 679440,
+    "lang": "es"
+  },
+  {
+    "text": "por el radio de curvatura Así que aquí",
+    "duration": 3320,
+    "offset": 681540,
+    "lang": "es"
+  },
+  {
+    "text": "me queda",
+    "duration": 6440,
+    "offset": 684000,
+    "lang": "es"
+  },
+  {
+    "text": "Omega cuadrado por l sobre 2",
+    "duration": 5580,
+    "offset": 684860,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá ya tengo",
+    "duration": 7840,
+    "offset": 690860,
+    "lang": "es"
+  },
+  {
+    "text": "la componente x de la reacción pero no",
+    "duration": 7241,
+    "offset": 694459,
+    "lang": "es"
+  },
+  {
+    "text": "conozco la componente y ahí lo que puedo",
+    "duration": 6180,
+    "offset": 698700,
+    "lang": "es"
+  },
+  {
+    "text": "aplicar es la ecuación de torque si nos",
+    "duration": 5040,
+    "offset": 701700,
+    "lang": "es"
+  },
+  {
+    "text": "fijamos el torque que está haciendo el",
+    "duration": 7380,
+    "offset": 704880,
+    "lang": "es"
+  },
+  {
+    "text": "peso mg por l sobre 2 es igual a y",
+    "duration": 7260,
+    "offset": 706740,
+    "lang": "es"
+  },
+  {
+    "text": "respecto al momento de Inercia respecto",
+    "duration": 5040,
+    "offset": 712260,
+    "lang": "es"
+  },
+  {
+    "text": "al punto o por gama pero gama es igual a",
+    "duration": 5300,
+    "offset": 714000,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración",
+    "duration": 7140,
+    "offset": 717300,
+    "lang": "es"
+  },
+  {
+    "text": "tangencial por l sobre 2 2 sobre l bien",
+    "duration": 6659,
+    "offset": 719300,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 4680,
+    "offset": 724440,
+    "lang": "es"
+  },
+  {
+    "text": "acá me queda que esto es igual a m por l",
+    "duration": 5380,
+    "offset": 725959,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado sobre 3 por la aceleración",
+    "duration": 5700,
+    "offset": 729120,
+    "lang": "es"
+  },
+  {
+    "text": "tangencial por 2 sobre l entonces acá",
+    "duration": 5641,
+    "offset": 731339,
+    "lang": "es"
+  },
+  {
+    "text": "puedo simplificar este cuadrado con este",
+    "duration": 5400,
+    "offset": 734820,
+    "lang": "es"
+  },
+  {
+    "text": "l acá puedo simplificar la masa con la",
+    "duration": 8220,
+    "offset": 736980,
+    "lang": "es"
+  },
+  {
+    "text": "masa y acá Este l con este L y me queda",
+    "duration": 9179,
+    "offset": 740220,
+    "lang": "es"
+  },
+  {
+    "text": "que la aceleración tangencial es igual a",
+    "duration": 7560,
+    "offset": 745200,
+    "lang": "es"
+  },
+  {
+    "text": "tres cuartos de la gravedad bien",
+    "duration": 6021,
+    "offset": 749399,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 2660,
+    "offset": 752760,
+    "lang": "es"
+  },
+  {
+    "text": "acá",
+    "duration": 2600,
+    "offset": 760200,
+    "lang": "es"
+  },
+  {
+    "text": "ya tengo todas las ecuaciones necesarias",
+    "duration": 5980,
+    "offset": 763220,
+    "lang": "es"
+  },
+  {
+    "text": "todas las ecuaciones necesarias para",
+    "duration": 6000,
+    "offset": 766560,
+    "lang": "es"
+  },
+  {
+    "text": "poder decir lo que me piden Entonces en",
+    "duration": 6480,
+    "offset": 769200,
+    "lang": "es"
+  },
+  {
+    "text": "este caso la reacción el vector reacción",
+    "duration": 5940,
+    "offset": 772560,
+    "lang": "es"
+  },
+  {
+    "text": "de vínculo en el apoyo reactor reacción",
+    "duration": 7159,
+    "offset": 775680,
+    "lang": "es"
+  },
+  {
+    "text": "de vínculo en el apoyo es igual a",
+    "duration": 6079,
+    "offset": 778500,
+    "lang": "es"
+  },
+  {
+    "text": "menos",
+    "duration": 8321,
+    "offset": 782839,
+    "lang": "es"
+  },
+  {
+    "text": "la masa por Omega cuadrado por l sobre 2",
+    "duration": 13440,
+    "offset": 784579,
+    "lang": "es"
+  },
+  {
+    "text": "verso y más m por acá",
+    "duration": 10200,
+    "offset": 791160,
+    "lang": "es"
+  },
+  {
+    "text": "la reacción en y es igual a masa por la",
+    "duration": 6481,
+    "offset": 798019,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración tangencial",
+    "duration": 3140,
+    "offset": 801360,
+    "lang": "es"
+  },
+  {
+    "text": "menos masa para hacer selección más mg O",
+    "duration": 6300,
+    "offset": 805260,
+    "lang": "es"
+  },
+  {
+    "text": "sea que este es igual a m por la",
+    "duration": 5300,
+    "offset": 808620,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración tangencial que es",
+    "duration": 6260,
+    "offset": 811560,
+    "lang": "es"
+  },
+  {
+    "text": "tres cuartos de",
+    "duration": 3900,
+    "offset": 813920,
+    "lang": "es"
+  },
+  {
+    "text": "menos tres cuartos de g + g bien Y",
+    "duration": 6900,
+    "offset": 818040,
+    "lang": "es"
+  },
+  {
+    "text": "entonces menos tres cuartos de me queda",
+    "duration": 6979,
+    "offset": 822420,
+    "lang": "es"
+  },
+  {
+    "text": "que es igual a m sobre 4",
+    "duration": 4459,
+    "offset": 824940,
+    "lang": "es"
+  },
+  {
+    "text": "esto es igual a g por m sobre 4 bien",
+    "duration": 5839,
+    "offset": 831060,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 6660,
+    "offset": 835440,
+    "lang": "es"
+  },
+  {
+    "text": "esta Va a ser m por G sobre 4 en la",
+    "duration": 10301,
+    "offset": 836899,
+    "lang": "es"
+  },
+  {
+    "text": "dirección del -versor J bien",
+    "duration": 5100,
+    "offset": 842100,
+    "lang": "es"
+  },
+  {
+    "text": "acá",
+    "duration": 4200,
+    "offset": 849360,
+    "lang": "es"
+  },
+  {
+    "text": "esta reacción de vínculo Perdón me va a",
+    "duration": 4360,
+    "offset": 851120,
+    "lang": "es"
+  },
+  {
+    "text": "quedar en la dirección del más versory y",
+    "duration": 3540,
+    "offset": 853560,
+    "lang": "es"
+  },
+  {
+    "text": "el otro me va a quedar en la dirección",
+    "duration": 6359,
+    "offset": 855480,
+    "lang": "es"
+  },
+  {
+    "text": "del menos versor j y la aceleración del",
+    "duration": 7620,
+    "offset": 857100,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa el vector aceleración del",
+    "duration": 6781,
+    "offset": 861839,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa va a ser igual a Omega",
+    "duration": 7940,
+    "offset": 864720,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado por l sobre 2 menos versori más",
+    "duration": 8959,
+    "offset": 868620,
+    "lang": "es"
+  },
+  {
+    "text": "tres cuartos de g versor j",
+    "duration": 4919,
+    "offset": 872660,
+    "lang": "es"
+  },
+  {
+    "text": "Bien bien y",
+    "duration": 6220,
+    "offset": 877940,
+    "lang": "es"
+  },
+  {
+    "text": "acá es donde si nosotros hayamos el",
+    "duration": 5400,
+    "offset": 881040,
+    "lang": "es"
+  },
+  {
+    "text": "módulo de esa aceleración del centro de",
+    "duration": 4799,
+    "offset": 884160,
+    "lang": "es"
+  },
+  {
+    "text": "masa nos vamos a dar cuenta que esa",
+    "duration": 6259,
+    "offset": 886440,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración del centro de masa es mayor",
+    "duration": 7141,
+    "offset": 888959,
+    "lang": "es"
+  },
+  {
+    "text": "que la gravedad y este es un problema",
+    "duration": 5861,
+    "offset": 892699,
+    "lang": "es"
+  },
+  {
+    "text": "que suele tratarse mucho en la",
+    "duration": 5880,
+    "offset": 896100,
+    "lang": "es"
+  },
+  {
+    "text": "ingeniería civil y también tenemos en el",
+    "duration": 5040,
+    "offset": 898560,
+    "lang": "es"
+  },
+  {
+    "text": "laboratorio elementos para hacer la",
+    "duration": 4740,
+    "offset": 901980,
+    "lang": "es"
+  },
+  {
+    "text": "práctica acá tenemos el documento que",
+    "duration": 5580,
+    "offset": 903600,
+    "lang": "es"
+  },
+  {
+    "text": "hicieron Emma velera y Adrián ferrini",
+    "duration": 5059,
+    "offset": 906720,
+    "lang": "es"
+  },
+  {
+    "text": "respecto de",
+    "duration": 5580,
+    "offset": 909180,
+    "lang": "es"
+  },
+  {
+    "text": "El problema del falling y sus",
+    "duration": 5081,
+    "offset": 911779,
+    "lang": "es"
+  },
+  {
+    "text": "aplicaciones en ingeniería y la",
+    "duration": 5660,
+    "offset": 914760,
+    "lang": "es"
+  },
+  {
+    "text": "experiencia de laboratorio",
+    "duration": 3560,
+    "offset": 916860,
+    "lang": "es"
+  }
+]

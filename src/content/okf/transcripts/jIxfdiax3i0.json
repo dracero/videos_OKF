@@ -1,0 +1,548 @@
+[
+  {
+    "text": "vamos a ver cómo hace la computadora de",
+    "duration": 5440,
+    "offset": 680,
+    "lang": "es"
+  },
+  {
+    "text": "nuestra casa para poder alcanzar un",
+    "duration": 5680,
+    "offset": 3080,
+    "lang": "es"
+  },
+  {
+    "text": "servidor por ejemplo nosotros queremos",
+    "duration": 5599,
+    "offset": 6120,
+    "lang": "es"
+  },
+  {
+    "text": "ver la página de la",
+    "duration": 7840,
+    "offset": 8760,
+    "lang": "es"
+  },
+  {
+    "text": "facultad ponemos la dirección de la URL",
+    "duration": 5961,
+    "offset": 11719,
+    "lang": "es"
+  },
+  {
+    "text": "o el",
+    "duration": 3439,
+    "offset": 16600,
+    "lang": "es"
+  },
+  {
+    "text": "www de la",
+    "duration": 6919,
+    "offset": 17680,
+    "lang": "es"
+  },
+  {
+    "text": "facultad esa URL se traduce por",
+    "duration": 6601,
+    "offset": 20039,
+    "lang": "es"
+  },
+  {
+    "text": "distintos servicios que tiene internet",
+    "duration": 5600,
+    "offset": 24599,
+    "lang": "es"
+  },
+  {
+    "text": "en una dirección IP entonces nuestra",
+    "duration": 6759,
+    "offset": 26640,
+    "lang": "es"
+  },
+  {
+    "text": "máquina va a armar un",
+    "duration": 6880,
+    "offset": 30199,
+    "lang": "es"
+  },
+  {
+    "text": "paquete desde la capa 7 que la",
+    "duration": 5201,
+    "offset": 33399,
+    "lang": "es"
+  },
+  {
+    "text": "aplicación de nuestra máquina en este",
+    "duration": 4681,
+    "offset": 37079,
+    "lang": "es"
+  },
+  {
+    "text": "caso el browser va a armar un paquete",
+    "duration": 6880,
+    "offset": 38600,
+    "lang": "es"
+  },
+  {
+    "text": "desde la capa 7 pasando por todas las",
+    "duration": 7720,
+    "offset": 41760,
+    "lang": "es"
+  },
+  {
+    "text": "capas hasta la capa",
+    "duration": 4000,
+    "offset": 45480,
+    "lang": "es"
+  },
+  {
+    "text": "un qué es lo que pasa",
+    "duration": 6320,
+    "offset": 50399,
+    "lang": "es"
+  },
+  {
+    "text": "cuando el protocolo de capa 7 como voy a",
+    "duration": 5239,
+    "offset": 53480,
+    "lang": "es"
+  },
+  {
+    "text": "contactar a un servidor web va a ser el",
+    "duration": 5201,
+    "offset": 56719,
+    "lang": "es"
+  },
+  {
+    "text": "protocolo http",
+    "duration": 6121,
+    "offset": 58719,
+    "lang": "es"
+  },
+  {
+    "text": "la capa 4 Recuerden que era la capa de",
+    "duration": 5160,
+    "offset": 61920,
+    "lang": "es"
+  },
+  {
+    "text": "transporte la dirección ahí era el",
+    "duration": 5279,
+    "offset": 64840,
+    "lang": "es"
+  },
+  {
+    "text": "puerto va a tener un puerto trivial que",
+    "duration": 5520,
+    "offset": 67080,
+    "lang": "es"
+  },
+  {
+    "text": "va a ser el puerto origen y va a tener",
+    "duration": 3481,
+    "offset": 70119,
+    "lang": "es"
+  },
+  {
+    "text": "un",
+    "duration": 2760,
+    "offset": 72600,
+    "lang": "es"
+  },
+  {
+    "text": "puerto",
+    "duration": 5000,
+    "offset": 73600,
+    "lang": "es"
+  },
+  {
+    "text": "destino que por tratarse de un servidor",
+    "duration": 5960,
+    "offset": 75360,
+    "lang": "es"
+  },
+  {
+    "text": "web va a ser el puerto",
+    "duration": 5960,
+    "offset": 78600,
+    "lang": "es"
+  },
+  {
+    "text": "80 acá voy a tener una IP que va a ser",
+    "duration": 5799,
+    "offset": 81320,
+    "lang": "es"
+  },
+  {
+    "text": "una IP interna de mi casa que voy a",
+    "duration": 5879,
+    "offset": 84560,
+    "lang": "es"
+  },
+  {
+    "text": "llamar IP privada",
+    "duration": 7481,
+    "offset": 87119,
+    "lang": "es"
+  },
+  {
+    "text": "y el destino va a ser una IP Pública que",
+    "duration": 5720,
+    "offset": 90439,
+    "lang": "es"
+  },
+  {
+    "text": "es la ip",
+    "duration": 6920,
+    "offset": 94600,
+    "lang": "es"
+  },
+  {
+    "text": "pública que tiene este servidor",
+    "duration": 5361,
+    "offset": 96159,
+    "lang": "es"
+  },
+  {
+    "text": "web el la dirección de capa 2 va a ser",
+    "duration": 8361,
+    "offset": 102479,
+    "lang": "es"
+  },
+  {
+    "text": "la dirección Mac",
+    "duration": 3681,
+    "offset": 107159,
+    "lang": "es"
+  },
+  {
+    "text": "address de la interfaz del router esta",
+    "duration": 5401,
+    "offset": 111439,
+    "lang": "es"
+  },
+  {
+    "text": "interfaz del router tiene un nombre",
+    "duration": 4081,
+    "offset": 114759,
+    "lang": "es"
+  },
+  {
+    "text": "particular se llama puerta de enlace",
+    "duration": 3680,
+    "offset": 116840,
+    "lang": "es"
+  },
+  {
+    "text": "predeterminado",
+    "duration": 5959,
+    "offset": 118840,
+    "lang": "es"
+  },
+  {
+    "text": "Cómo funciona esto cuando traduce cuando",
+    "duration": 7440,
+    "offset": 120520,
+    "lang": "es"
+  },
+  {
+    "text": "el servicio de internet el servicio de",
+    "duration": 5960,
+    "offset": 124799,
+    "lang": "es"
+  },
+  {
+    "text": "nombres de dominio se llama traduce A",
+    "duration": 4880,
+    "offset": 127960,
+    "lang": "es"
+  },
+  {
+    "text": "qué dirección IP debo llegar o me",
+    "duration": 4241,
+    "offset": 130759,
+    "lang": "es"
+  },
+  {
+    "text": "informa A qué dirección IP debo",
+    "duration": 5160,
+    "offset": 132840,
+    "lang": "es"
+  },
+  {
+    "text": "llegar la máquina de casa tiene una IP",
+    "duration": 4800,
+    "offset": 135000,
+    "lang": "es"
+  },
+  {
+    "text": "que solamente funciona dentro de casa",
+    "duration": 4720,
+    "offset": 138000,
+    "lang": "es"
+  },
+  {
+    "text": "que se llama IP privada entonces lo que",
+    "duration": 5719,
+    "offset": 139800,
+    "lang": "es"
+  },
+  {
+    "text": "le va Lo que va a hacer es",
+    "duration": 5799,
+    "offset": 142720,
+    "lang": "es"
+  },
+  {
+    "text": "enviar",
+    "duration": 3000,
+    "offset": 145519,
+    "lang": "es"
+  },
+  {
+    "text": "esa esa ese pedido de internet a el",
+    "duration": 8400,
+    "offset": 148760,
+    "lang": "es"
+  },
+  {
+    "text": "router por eso esta Mac Adress va a ser",
+    "duration": 4519,
+    "offset": 154360,
+    "lang": "es"
+  },
+  {
+    "text": "la mac Adress del router porque en",
+    "duration": 5320,
+    "offset": 157160,
+    "lang": "es"
+  },
+  {
+    "text": "principio el mensaje va a ir hacia el",
+    "duration": 5481,
+    "offset": 158879,
+    "lang": "es"
+  },
+  {
+    "text": "router por qué lo va a hacer hacia el",
+    "duration": 3520,
+    "offset": 162480,
+    "lang": "es"
+  },
+  {
+    "text": "router porque es lo que tiene",
+    "duration": 3320,
+    "offset": 164360,
+    "lang": "es"
+  },
+  {
+    "text": "configurado como puerta de enlace",
+    "duration": 5120,
+    "offset": 166000,
+    "lang": "es"
+  },
+  {
+    "text": "predeterminado y el router en este punto",
+    "duration": 6400,
+    "offset": 167680,
+    "lang": "es"
+  },
+  {
+    "text": "si tiene una IP pública Entonces el",
+    "duration": 4600,
+    "offset": 171120,
+    "lang": "es"
+  },
+  {
+    "text": "router es el que se va a encargar de",
+    "duration": 4280,
+    "offset": 174080,
+    "lang": "es"
+  },
+  {
+    "text": "salir a internet y los enrutadores de",
+    "duration": 5040,
+    "offset": 175720,
+    "lang": "es"
+  },
+  {
+    "text": "internet va ser hacer que el mensaje",
+    "duration": 4920,
+    "offset": 178360,
+    "lang": "es"
+  },
+  {
+    "text": "llegue hasta el web",
+    "duration": 5320,
+    "offset": 180760,
+    "lang": "es"
+  },
+  {
+    "text": "server cuando llega el mensaje al web",
+    "duration": 4840,
+    "offset": 183280,
+    "lang": "es"
+  },
+  {
+    "text": "server Recuerden que es el proceso",
+    "duration": 4280,
+    "offset": 186080,
+    "lang": "es"
+  },
+  {
+    "text": "inverso las capas se van abriendo de",
+    "duration": 4880,
+    "offset": 188120,
+    "lang": "es"
+  },
+  {
+    "text": "atrás para",
+    "duration": 2640,
+    "offset": 190360,
+    "lang": "es"
+  },
+  {
+    "text": "delante cuando llega a la capa 4atro ve",
+    "duration": 8681,
+    "offset": 193879,
+    "lang": "es"
+  },
+  {
+    "text": "que el puerto el puerto destino es vamos",
+    "duration": 8160,
+    "offset": 197560,
+    "lang": "es"
+  },
+  {
+    "text": "a ponerlo acá bien llega a la capa 4atro",
+    "duration": 7759,
+    "offset": 202560,
+    "lang": "es"
+  },
+  {
+    "text": "ve que el el puerto destino",
+    "duration": 8840,
+    "offset": 205720,
+    "lang": "es"
+  },
+  {
+    "text": "es el puerto 80 Entonces el servidor",
+    "duration": 6881,
+    "offset": 210319,
+    "lang": "es"
+  },
+  {
+    "text": "sabe que de los múltiples servicios que",
+    "duration": 5560,
+    "offset": 214560,
+    "lang": "es"
+  },
+  {
+    "text": "tiene funcionando esto tiene que ir para",
+    "duration": 6119,
+    "offset": 217200,
+    "lang": "es"
+  },
+  {
+    "text": "el web server Por qué Porque el puerto",
+    "duration": 5839,
+    "offset": 220120,
+    "lang": "es"
+  },
+  {
+    "text": "80 es el puerto bien conocido de los",
+    "duration": 4161,
+    "offset": 223319,
+    "lang": "es"
+  },
+  {
+    "text": "servicios",
+    "duration": 5721,
+    "offset": 225959,
+    "lang": "es"
+  },
+  {
+    "text": "web antes de eso en la capa tres vio que",
+    "duration": 7599,
+    "offset": 227480,
+    "lang": "es"
+  },
+  {
+    "text": "estaba su IP",
+    "duration": 7720,
+    "offset": 231680,
+    "lang": "es"
+  },
+  {
+    "text": "pública acá llega la capa s y decodifica",
+    "duration": 7921,
+    "offset": 235079,
+    "lang": "es"
+  },
+  {
+    "text": "el el mensaje de http una vez que hace",
+    "duration": 5119,
+    "offset": 239400,
+    "lang": "es"
+  },
+  {
+    "text": "todo esto",
+    "duration": 4480,
+    "offset": 243000,
+    "lang": "es"
+  },
+  {
+    "text": "responde realizando nuevamente empieza",
+    "duration": 5881,
+    "offset": 244519,
+    "lang": "es"
+  },
+  {
+    "text": "por el mensaje de http y va bajando",
+    "duration": 6520,
+    "offset": 247480,
+    "lang": "es"
+  },
+  {
+    "text": "hasta llegar a la capa uno y",
+    "duration": 6799,
+    "offset": 250400,
+    "lang": "es"
+  },
+  {
+    "text": "responde hacia el router que es el que",
+    "duration": 6040,
+    "offset": 254000,
+    "lang": "es"
+  },
+  {
+    "text": "tiene la IP pública y el router ve que",
+    "duration": 4681,
+    "offset": 257199,
+    "lang": "es"
+  },
+  {
+    "text": "este paquete",
+    "duration": 4240,
+    "offset": 260040,
+    "lang": "es"
+  },
+  {
+    "text": "llega",
+    "duration": 5840,
+    "offset": 261880,
+    "lang": "es"
+  },
+  {
+    "text": "a nuestra computadora y envía hacia",
+    "duration": 8479,
+    "offset": 264280,
+    "lang": "es"
+  },
+  {
+    "text": "nuestra computadora el paquete ah",
+    "duration": 5039,
+    "offset": 267720,
+    "lang": "es"
+  }
+]

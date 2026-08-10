@@ -1,0 +1,350 @@
+[
+  {
+    "text": "utilizando gemini y L Chain creamos una",
+    "duration": 11839,
+    "offset": 2760,
+    "lang": "es"
+  },
+  {
+    "text": "ag la gente tiene tres Tools dos que son",
+    "duration": 8440,
+    "offset": 8880,
+    "lang": "es"
+  },
+  {
+    "text": "para problemas matemáticos Y utilizando",
+    "duration": 5241,
+    "offset": 14599,
+    "lang": "es"
+  },
+  {
+    "text": "tabili un tool que es para",
+    "duration": 5560,
+    "offset": 17320,
+    "lang": "es"
+  },
+  {
+    "text": "Search acá hacemos una consulta de",
+    "duration": 5199,
+    "offset": 19840,
+    "lang": "es"
+  },
+  {
+    "text": "prueba primero preguntamos Qué es el",
+    "duration": 4200,
+    "offset": 22880,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa Cuál es el precio del",
+    "duration": 5720,
+    "offset": 25039,
+    "lang": "es"
+  },
+  {
+    "text": "dólar en Argentina hoy y después",
+    "duration": 5600,
+    "offset": 27080,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas de",
+    "duration": 5041,
+    "offset": 30759,
+    "lang": "es"
+  },
+  {
+    "text": "matemática lo que va a hacer el agente",
+    "duration": 8359,
+    "offset": 32680,
+    "lang": "es"
+  },
+  {
+    "text": "es gracias a la inteligencia que le da",
+    "duration": 8560,
+    "offset": 35800,
+    "lang": "es"
+  },
+  {
+    "text": "gemini va a elegir el tool correcto va a",
+    "duration": 7121,
+    "offset": 41039,
+    "lang": "es"
+  },
+  {
+    "text": "estar ciclando hasta lograr completar la",
+    "duration": 7999,
+    "offset": 44360,
+    "lang": "es"
+  },
+  {
+    "text": "tarea que nosotros le asignamos y va a",
+    "duration": 6640,
+    "offset": 48160,
+    "lang": "es"
+  },
+  {
+    "text": "devolver lo que nosotros le pedimos a",
+    "duration": 4840,
+    "offset": 52359,
+    "lang": "es"
+  },
+  {
+    "text": "través del prom pero la inteligencia a",
+    "duration": 7040,
+    "offset": 54800,
+    "lang": "es"
+  },
+  {
+    "text": "través de todo esto es gemini 1.5 ese",
+    "duration": 9240,
+    "offset": 57199,
+    "lang": "es"
+  },
+  {
+    "text": "gemini 1.5 lo que va a hacer es teniendo",
+    "duration": 8120,
+    "offset": 61840,
+    "lang": "es"
+  },
+  {
+    "text": "en cuenta la descripción del tool que no",
+    "duration": 7320,
+    "offset": 66439,
+    "lang": "es"
+  },
+  {
+    "text": "es más que un prom para gemine va a",
+    "duration": 6040,
+    "offset": 69960,
+    "lang": "es"
+  },
+  {
+    "text": "elegir a través de la gente Cuál es el",
+    "duration": 4921,
+    "offset": 73759,
+    "lang": "es"
+  },
+  {
+    "text": "Tour correcto para utilizar vamos a",
+    "duration": 5320,
+    "offset": 76000,
+    "lang": "es"
+  },
+  {
+    "text": "ponerlo a",
+    "duration": 2640,
+    "offset": 78680,
+    "lang": "es"
+  },
+  {
+    "text": "funcionar acá",
+    "duration": 6200,
+    "offset": 83720,
+    "lang": "es"
+  },
+  {
+    "text": "vemos Que",
+    "duration": 4000,
+    "offset": 85920,
+    "lang": "es"
+  },
+  {
+    "text": "elente cicla primero eh a la pregunta",
+    "duration": 7401,
+    "offset": 90159,
+    "lang": "es"
+  },
+  {
+    "text": "qué es el centro de masa de un cuerpo",
+    "duration": 4960,
+    "offset": 94880,
+    "lang": "es"
+  },
+  {
+    "text": "rígido dice bien",
+    "duration": 6120,
+    "offset": 97560,
+    "lang": "es"
+  },
+  {
+    "text": "la respuesta final es y nos explica queé",
+    "duration": 7239,
+    "offset": 99840,
+    "lang": "es"
+  },
+  {
+    "text": "es el centro de masa de un cuerpo rígido",
+    "duration": 6160,
+    "offset": 103680,
+    "lang": "es"
+  },
+  {
+    "text": "eh acá nos dice bueno el final de la",
+    "duration": 4961,
+    "offset": 107079,
+    "lang": "es"
+  },
+  {
+    "text": "cadena Cuál es el precio del dólar hoy",
+    "duration": 5919,
+    "offset": 109840,
+    "lang": "es"
+  },
+  {
+    "text": "en Argentina y lo fue a buscar al precio",
+    "duration": 6240,
+    "offset": 112040,
+    "lang": "es"
+  },
+  {
+    "text": "del dólar hoy en Argentina acá nos dice",
+    "duration": 5680,
+    "offset": 115759,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando tabil hizo una búsqueda sobre",
+    "duration": 7159,
+    "offset": 118280,
+    "lang": "es"
+  },
+  {
+    "text": "la web esta búsqueda también se podría",
+    "duration": 6040,
+    "offset": 121439,
+    "lang": "es"
+  },
+  {
+    "text": "hacer",
+    "duration": 4201,
+    "offset": 125439,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando sobre una base de datos",
+    "duration": 4760,
+    "offset": 127479,
+    "lang": "es"
+  },
+  {
+    "text": "propia Si queremos hacer un rack por",
+    "duration": 4120,
+    "offset": 129640,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo",
+    "duration": 4121,
+    "offset": 132239,
+    "lang": "es"
+  },
+  {
+    "text": "aumentado sobre una base de datos propia",
+    "duration": 4960,
+    "offset": 133760,
+    "lang": "es"
+  },
+  {
+    "text": "y acá está toda la noticia que fue a",
+    "duration": 5640,
+    "offset": 136360,
+    "lang": "es"
+  },
+  {
+    "text": "buscar al cronista",
+    "duration": 3280,
+    "offset": 138720,
+    "lang": "es"
+  },
+  {
+    "text": "comercial y lo que hace es da",
+    "duration": 8080,
+    "offset": 143760,
+    "lang": "es"
+  },
+  {
+    "text": "este el precio del dólar hoy 1040",
+    "duration": 4961,
+    "offset": 146879,
+    "lang": "es"
+  },
+  {
+    "text": "y después las consultas matemáticas o",
+    "duration": 6080,
+    "offset": 152080,
+    "lang": "es"
+  },
+  {
+    "text": "sea con proms a partir del prompts Y a",
+    "duration": 6080,
+    "offset": 154920,
+    "lang": "es"
+  },
+  {
+    "text": "partir de los comentarios del tool elige",
+    "duration": 6040,
+    "offset": 158160,
+    "lang": "es"
+  },
+  {
+    "text": "Cuál es la herramienta correcta para",
+    "duration": 6319,
+    "offset": 161000,
+    "lang": "es"
+  },
+  {
+    "text": "poder contestar y a pesar de que viene",
+    "duration": 5480,
+    "offset": 164200,
+    "lang": "es"
+  },
+  {
+    "text": "tal vez mucha información lo reduce a lo",
+    "duration": 4920,
+    "offset": 167319,
+    "lang": "es"
+  },
+  {
+    "text": "que nosotros le estamos preguntando por",
+    "duration": 4880,
+    "offset": 169680,
+    "lang": "es"
+  },
+  {
+    "text": "la directiva que tiene el",
+    "duration": 5521,
+    "offset": 172239,
+    "lang": "es"
+  },
+  {
+    "text": "agente y finalmente acá lo que vemos son",
+    "duration": 6160,
+    "offset": 174560,
+    "lang": "es"
+  },
+  {
+    "text": "ciertas métricas que se obtienen porque",
+    "duration": 4199,
+    "offset": 177760,
+    "lang": "es"
+  },
+  {
+    "text": "el",
+    "duration": 4840,
+    "offset": 180720,
+    "lang": "es"
+  },
+  {
+    "text": "agente se monitorea",
+    "duration": 8161,
+    "offset": 181959,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando open telemetry",
+    "duration": 4560,
+    "offset": 185560,
+    "lang": "es"
+  }
+]

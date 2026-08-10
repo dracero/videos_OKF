@@ -4,7 +4,7 @@ title: "Jul 18 2018 10 29 AM"
 description: ""
 resource: "https://www.youtube.com/watch?v=sFoD-AUZHNs"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-02T00:21:58.964Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:41.858Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"
@@ -18,7 +18,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-02"
+    last_modified: "2026-08-10"
   - id: channel-concept
     resource: "src/content/okf/channels/UCDs8wbm1jczac3UNYIAVxZg.md"
     title: "Channel: Diego Racero"

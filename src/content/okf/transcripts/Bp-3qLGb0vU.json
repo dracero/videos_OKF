@@ -1,0 +1,632 @@
+[
+  {
+    "text": "Bueno, vamos a ver cómo habilitar el",
+    "duration": 6961,
+    "offset": 1079,
+    "lang": "es"
+  },
+  {
+    "text": "MCP, el cliente de MSP que se conecta al",
+    "duration": 6759,
+    "offset": 4920,
+    "lang": "es"
+  },
+  {
+    "text": "MSP Server de Playgright para poder",
+    "duration": 5799,
+    "offset": 8040,
+    "lang": "es"
+  },
+  {
+    "text": "utilizar un agente que se conecta a",
+    "duration": 4440,
+    "offset": 11679,
+    "lang": "es"
+  },
+  {
+    "text": "internet y genera código en Visual",
+    "duration": 6280,
+    "offset": 13839,
+    "lang": "es"
+  },
+  {
+    "text": "Studio. Primero vamos e a la parte de",
+    "duration": 7561,
+    "offset": 16119,
+    "lang": "es"
+  },
+  {
+    "text": "archivo, preferencias, configuración y",
+    "duration": 7121,
+    "offset": 20119,
+    "lang": "es"
+  },
+  {
+    "text": "acá en configuración buscamos agente y",
+    "duration": 6519,
+    "offset": 23680,
+    "lang": "es"
+  },
+  {
+    "text": "nos fijamos que el modo agente esté",
+    "duration": 5880,
+    "offset": 27240,
+    "lang": "es"
+  },
+  {
+    "text": "habilitado. Eh, y acá el code search",
+    "duration": 4241,
+    "offset": 30199,
+    "lang": "es"
+  },
+  {
+    "text": "enable",
+    "duration": 5360,
+    "offset": 33120,
+    "lang": "es"
+  },
+  {
+    "text": "también. Eh, y la herramienta de",
+    "duration": 6320,
+    "offset": 34440,
+    "lang": "es"
+  },
+  {
+    "text": "pensamiento también la habilitamos.",
+    "duration": 4040,
+    "offset": 38480,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, habilitamos todo lo que está",
+    "duration": 5080,
+    "offset": 40760,
+    "lang": "es"
+  },
+  {
+    "text": "acá en el eh modo agente. Entonces, ya",
+    "duration": 5280,
+    "offset": 42520,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos habilitado",
+    "duration": 5640,
+    "offset": 45840,
+    "lang": "es"
+  },
+  {
+    "text": "el modo agente. Una vez que está esto",
+    "duration": 5640,
+    "offset": 47800,
+    "lang": "es"
+  },
+  {
+    "text": "habilitado, vamos a",
+    "duration": 5520,
+    "offset": 51480,
+    "lang": "es"
+  },
+  {
+    "text": "ir a la página de GitHub de Playwrght,",
+    "duration": 6599,
+    "offset": 53440,
+    "lang": "es"
+  },
+  {
+    "text": "que es esta que tenemos acá, y vamos a",
+    "duration": 7839,
+    "offset": 57000,
+    "lang": "es"
+  },
+  {
+    "text": "buscar la el la línea de comandos para",
+    "duration": 7921,
+    "offset": 60039,
+    "lang": "es"
+  },
+  {
+    "text": "instalar Playwright en el Visual Studio.",
+    "duration": 7201,
+    "offset": 64839,
+    "lang": "es"
+  },
+  {
+    "text": "Copiamos esta línea de comando",
+    "duration": 9000,
+    "offset": 67960,
+    "lang": "es"
+  },
+  {
+    "text": "y la pegamos en la consola de Visual",
+    "duration": 9160,
+    "offset": 72040,
+    "lang": "es"
+  },
+  {
+    "text": "Studio. Bien, ya nos dice que",
+    "duration": 7920,
+    "offset": 76960,
+    "lang": "es"
+  },
+  {
+    "text": "se se agregaron los MCP Server de",
+    "duration": 7400,
+    "offset": 81200,
+    "lang": "es"
+  },
+  {
+    "text": "Playwright. Entonces, ahora vamos al",
+    "duration": 7519,
+    "offset": 84880,
+    "lang": "es"
+  },
+  {
+    "text": "Copilot, elegimos abrir chat. Fíjense",
+    "duration": 5799,
+    "offset": 88600,
+    "lang": "es"
+  },
+  {
+    "text": "que no ven ninguna diferencia, pero acá",
+    "duration": 4521,
+    "offset": 92399,
+    "lang": "es"
+  },
+  {
+    "text": "donde dice preguntar, elegimos el modo",
+    "duration": 5760,
+    "offset": 94399,
+    "lang": "es"
+  },
+  {
+    "text": "agente. Y acá vamos",
+    "duration": 6680,
+    "offset": 96920,
+    "lang": "es"
+  },
+  {
+    "text": "a eh reiniciar las herramientas",
+    "duration": 6721,
+    "offset": 100159,
+    "lang": "es"
+  },
+  {
+    "text": "disponibles. Acá nos aparece este",
+    "duration": 7680,
+    "offset": 103600,
+    "lang": "es"
+  },
+  {
+    "text": "icono que ahora fíjense que dice 21.",
+    "duration": 6640,
+    "offset": 106880,
+    "lang": "es"
+  },
+  {
+    "text": "Acá están todas las herramientas que",
+    "duration": 5080,
+    "offset": 111280,
+    "lang": "es"
+  },
+  {
+    "text": "tiene Playwright, que permite conectarse",
+    "duration": 5480,
+    "offset": 113520,
+    "lang": "es"
+  },
+  {
+    "text": "a internet y en forma agéntica hacer un",
+    "duration": 4759,
+    "offset": 116360,
+    "lang": "es"
+  },
+  {
+    "text": "ragaico para buscar distintas cosas.",
+    "duration": 4719,
+    "offset": 119000,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué le vamos a pedir ahora? Le vamos a",
+    "duration": 6561,
+    "offset": 121119,
+    "lang": "es"
+  },
+  {
+    "text": "pedir que por",
+    "duration": 3961,
+    "offset": 123719,
+    "lang": "es"
+  },
+  {
+    "text": "favor",
+    "duration": 3000,
+    "offset": 128720,
+    "lang": "es"
+  },
+  {
+    "text": "eh teniendo en",
+    "duration": 4200,
+    "offset": 132080,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta los",
+    "duration": 4201,
+    "offset": 139239,
+    "lang": "es"
+  },
+  {
+    "text": "archivos",
+    "duration": 5360,
+    "offset": 146120,
+    "lang": "es"
+  },
+  {
+    "text": "del directorio.",
+    "duration": 3680,
+    "offset": 147800,
+    "lang": "es"
+  },
+  {
+    "text": "conéctate a",
+    "duration": 6121,
+    "offset": 154959,
+    "lang": "es"
+  },
+  {
+    "text": "internet y",
+    "duration": 4760,
+    "offset": 158440,
+    "lang": "es"
+  },
+  {
+    "text": "arma",
+    "duration": 6120,
+    "offset": 161080,
+    "lang": "es"
+  },
+  {
+    "text": "un ritmd.",
+    "duration": 4000,
+    "offset": 163200,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3149,
+    "offset": 167520,
+    "lang": "es"
+  },
+  {
+    "text": "la con la",
+    "duration": 2920,
+    "offset": 171480,
+    "lang": "es"
+  },
+  {
+    "text": "documentación precisa del",
+    "duration": 6121,
+    "offset": 175599,
+    "lang": "es"
+  },
+  {
+    "text": "código y todas",
+    "duration": 5360,
+    "offset": 178519,
+    "lang": "es"
+  },
+  {
+    "text": "las",
+    "duration": 5159,
+    "offset": 181720,
+    "lang": "es"
+  },
+  {
+    "text": "dependencias",
+    "duration": 3000,
+    "offset": 183879,
+    "lang": "es"
+  },
+  {
+    "text": "necesarlo. Fíjense que ahí",
+    "duration": 8481,
+    "offset": 190799,
+    "lang": "es"
+  },
+  {
+    "text": "empieza a trabajar. Ahí leyó",
+    "duration": 5240,
+    "offset": 194040,
+    "lang": "es"
+  },
+  {
+    "text": "requirement.txt, lee todo el",
+    "duration": 3800,
+    "offset": 199480,
+    "lang": "es"
+  },
+  {
+    "text": "directorio. Bien,",
+    "duration": 6200,
+    "offset": 206560,
+    "lang": "es"
+  },
+  {
+    "text": "entonces sí.",
+    "duration": 4000,
+    "offset": 208760,
+    "lang": "es"
+  },
+  {
+    "text": "Por",
+    "duration": 4239,
+    "offset": 216080,
+    "lang": "es"
+  },
+  {
+    "text": "favor, crea",
+    "duration": 3599,
+    "offset": 216720,
+    "lang": "es"
+  },
+  {
+    "text": "el",
+    "duration": 3000,
+    "offset": 220360,
+    "lang": "es"
+  },
+  {
+    "text": "archivo. Bien.",
+    "duration": 5359,
+    "offset": 233720,
+    "lang": "es"
+  },
+  {
+    "text": "Y ahí ya le dijimos que cree el archivo",
+    "duration": 3720,
+    "offset": 237120,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí empieza",
+    "duration": 5041,
+    "offset": 239079,
+    "lang": "es"
+  },
+  {
+    "text": "a trabajar y a conectarse para armarlo",
+    "duration": 4920,
+    "offset": 240840,
+    "lang": "es"
+  },
+  {
+    "text": "todo. Va a tardar un rato porque tiene",
+    "duration": 4959,
+    "offset": 244120,
+    "lang": "es"
+  },
+  {
+    "text": "que hacer varias conexiones a",
+    "duration": 3319,
+    "offset": 245760,
+    "lang": "es"
+  },
+  {
+    "text": "internet. Cuidado con los documentos",
+    "duration": 4720,
+    "offset": 255160,
+    "lang": "es"
+  },
+  {
+    "text": "proyecto requisitos. Ahí le decimos",
+    "duration": 4319,
+    "offset": 258160,
+    "lang": "es"
+  },
+  {
+    "text": "mantener. Fíjense que ahora creó el",
+    "duration": 5200,
+    "offset": 259880,
+    "lang": "es"
+  },
+  {
+    "text": "archivo",
+    "duration": 2601,
+    "offset": 262479,
+    "lang": "es"
+  },
+  {
+    "text": "ritmi.txt en el archivo",
+    "duration": 6920,
+    "offset": 265240,
+    "lang": "es"
+  },
+  {
+    "text": "ritme.txt nos dice qué es",
+    "duration": 7241,
+    "offset": 267919,
+    "lang": "es"
+  },
+  {
+    "text": "eh qué es lo que implementa. Nos dice",
+    "duration": 5920,
+    "offset": 272160,
+    "lang": "es"
+  },
+  {
+    "text": "cómo configurar el punto M. Nos dice",
+    "duration": 5879,
+    "offset": 275160,
+    "lang": "es"
+  },
+  {
+    "text": "todas las dependencias que necesitamos.",
+    "duration": 7080,
+    "offset": 278080,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. Nos explica claramente los el que",
+    "duration": 6401,
+    "offset": 281039,
+    "lang": "es"
+  },
+  {
+    "text": "usa Yemini 2.5.",
+    "duration": 4640,
+    "offset": 285160,
+    "lang": "es"
+  },
+  {
+    "text": "nos explica los embedings bien toda la",
+    "duration": 5039,
+    "offset": 287440,
+    "lang": "es"
+  },
+  {
+    "text": "documentación que necesitamos del código",
+    "duration": 6920,
+    "offset": 289800,
+    "lang": "es"
+  },
+  {
+    "text": "para poner eh dentro de el git y cómo",
+    "duration": 7041,
+    "offset": 292479,
+    "lang": "es"
+  },
+  {
+    "text": "clonarlo y demás. Ya está eh todo hecho.",
+    "duration": 6080,
+    "offset": 296720,
+    "lang": "es"
+  },
+  {
+    "text": "Lo que le podemos pedir es, me",
+    "duration": 3280,
+    "offset": 299520,
+    "lang": "es"
+  },
+  {
+    "text": "agregas URLs de",
+    "duration": 3881,
+    "offset": 303639,
+    "lang": "es"
+  },
+  {
+    "text": "referencia para",
+    "duration": 4880,
+    "offset": 308560,
+    "lang": "es"
+  },
+  {
+    "text": "que sirvan",
+    "duration": 6030,
+    "offset": 310600,
+    "lang": "es"
+  },
+  {
+    "text": "como elemento de",
+    "duration": 5080,
+    "offset": 313440,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 4220,
+    "offset": 316630,
+    "lang": "es"
+  },
+  {
+    "text": "confirmación del",
+    "duration": 3799,
+    "offset": 318520,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 4789,
+    "offset": 320850,
+    "lang": "es"
+  },
+  {
+    "text": "procedimiento y",
+    "duration": 3320,
+    "offset": 322319,
+    "lang": "es"
+  },
+  {
+    "text": "del contenido de",
+    "duration": 5800,
+    "offset": 325800,
+    "lang": "es"
+  },
+  {
+    "text": "los",
+    "duration": 6079,
+    "offset": 328840,
+    "lang": "es"
+  },
+  {
+    "text": "scripts. Entonces, le vamos a decir y",
+    "duration": 5080,
+    "offset": 331600,
+    "lang": "es"
+  },
+  {
+    "text": "ahora va a recodear y lo va a hacer",
+    "duration": 5321,
+    "offset": 334919,
+    "lang": "es"
+  },
+  {
+    "text": "sobre el mismo",
+    "duration": 3560,
+    "offset": 336680,
+    "lang": "es"
+  },
+  {
+    "text": "Redmi. Ahí está, fíjense, generando, ahí",
+    "duration": 4440,
+    "offset": 340960,
+    "lang": "es"
+  },
+  {
+    "text": "está",
+    "duration": 5319,
+    "offset": 344000,
+    "lang": "es"
+  },
+  {
+    "text": "escribiendo bien sobre el mismo Ritmi.",
+    "duration": 5720,
+    "offset": 345400,
+    "lang": "es"
+  },
+  {
+    "text": "Está escribiendo y ahí nos puso todas",
+    "duration": 3801,
+    "offset": 349319,
+    "lang": "es"
+  },
+  {
+    "text": "las URL de diferencia. Le vamos a decir",
+    "duration": 4000,
+    "offset": 351120,
+    "lang": "es"
+  },
+  {
+    "text": "mantener, no hace falta guardarlo porque",
+    "duration": 6280,
+    "offset": 353120,
+    "lang": "es"
+  },
+  {
+    "text": "ya lo guarda automáticamente.",
+    "duration": 4280,
+    "offset": 355120,
+    "lang": "es"
+  }
+]

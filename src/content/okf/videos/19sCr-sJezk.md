@@ -4,7 +4,7 @@ title: "Como hostear tu página WEB Gratis"
 description: "Te dejo un video para que veas cómo podés hostear gratis en Heroku una página web estática, con JQuery, CSS responsivo y javascript."
 resource: "https://www.youtube.com/watch?v=19sCr-sJezk"
 tags: ["HTML", "JS", "JQery", "Heroku", "Github", "free hosting"]
-generated: { by: "process:sync-youtube", at: "2026-08-02T00:21:58.280Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:48.225Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"
@@ -18,7 +18,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-02"
+    last_modified: "2026-08-10"
   - id: channel-concept
     resource: "src/content/okf/channels/UCx1KkYmHhghhGFgA7VP2aWQ.md"
     title: "Channel: Diego Racero"

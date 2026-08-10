@@ -1,0 +1,1256 @@
+[
+  {
+    "text": "[Música]",
+    "duration": 4740,
+    "offset": 1940,
+    "lang": "es"
+  },
+  {
+    "text": "Hola a todos y bienvenidos a Físicamente",
+    "duration": 4800,
+    "offset": 4120,
+    "lang": "es"
+  },
+  {
+    "text": "Posible, el podcast donde desmitificamos",
+    "duration": 3680,
+    "offset": 6680,
+    "lang": "es"
+  },
+  {
+    "text": "las leyes que gobiernan nuestro",
+    "duration": 4200,
+    "offset": 8920,
+    "lang": "es"
+  },
+  {
+    "text": "universo. Soy Ana y como siempre me",
+    "duration": 5159,
+    "offset": 10360,
+    "lang": "es"
+  },
+  {
+    "text": "acompaña el inquisitivo Carlos.",
+    "duration": 4159,
+    "offset": 13120,
+    "lang": "es"
+  },
+  {
+    "text": "Hola Ana y hola a todos nuestros",
+    "duration": 4041,
+    "offset": 15519,
+    "lang": "es"
+  },
+  {
+    "text": "oyentes. Listo para que mi cerebro haga",
+    "duration": 4401,
+    "offset": 17279,
+    "lang": "es"
+  },
+  {
+    "text": "un poco de ejercicio. Hoy tenemos un",
+    "duration": 3879,
+    "offset": 19560,
+    "lang": "es"
+  },
+  {
+    "text": "tema que suena película de ciencia",
+    "duration": 4359,
+    "offset": 21680,
+    "lang": "es"
+  },
+  {
+    "text": "ficción, la cinemática del cuerpo",
+    "duration": 4881,
+    "offset": 23439,
+    "lang": "es"
+  },
+  {
+    "text": "rígido. ¿Qué es eso exactamente?",
+    "duration": 5761,
+    "offset": 26039,
+    "lang": "es"
+  },
+  {
+    "text": "Hablaremos de robots indestructibles",
+    "duration": 6280,
+    "offset": 28320,
+    "lang": "es"
+  },
+  {
+    "text": "casi, Carlos, pero no exactamente. En",
+    "duration": 5439,
+    "offset": 31800,
+    "lang": "es"
+  },
+  {
+    "text": "física, un cuerpo rígido es un modelo",
+    "duration": 4880,
+    "offset": 34600,
+    "lang": "es"
+  },
+  {
+    "text": "ideal. Imagina un objeto donde la",
+    "duration": 4160,
+    "offset": 37239,
+    "lang": "es"
+  },
+  {
+    "text": "distancia entre dos de sus puntos,",
+    "duration": 4399,
+    "offset": 39480,
+    "lang": "es"
+  },
+  {
+    "text": "cualquiera, no cambia sin importar cómo",
+    "duration": 5281,
+    "offset": 41399,
+    "lang": "es"
+  },
+  {
+    "text": "se mueva o qué fuerzas actúen sobre él.",
+    "duration": 5320,
+    "offset": 43879,
+    "lang": "es"
+  },
+  {
+    "text": "Pensemos en una peonza girando o una",
+    "duration": 4840,
+    "offset": 46680,
+    "lang": "es"
+  },
+  {
+    "text": "rueda en movimiento. En la realidad",
+    "duration": 4520,
+    "offset": 49199,
+    "lang": "es"
+  },
+  {
+    "text": "todos los cuerpos se deforman un poco,",
+    "duration": 4440,
+    "offset": 51520,
+    "lang": "es"
+  },
+  {
+    "text": "pero para muchos casos prácticos esta",
+    "duration": 4840,
+    "offset": 53719,
+    "lang": "es"
+  },
+  {
+    "text": "idealización funciona perfectamente.",
+    "duration": 4720,
+    "offset": 55960,
+    "lang": "es"
+  },
+  {
+    "text": "¿Entendido? Entonces no es que sean",
+    "duration": 3800,
+    "offset": 58559,
+    "lang": "es"
+  },
+  {
+    "text": "indestructibles, sino que no se",
+    "duration": 5160,
+    "offset": 60680,
+    "lang": "es"
+  },
+  {
+    "text": "deforman. ¿Y qué es eso de la condición",
+    "duration": 6001,
+    "offset": 62359,
+    "lang": "es"
+  },
+  {
+    "text": "de rigidez? Suena un requisito muy",
+    "duration": 3319,
+    "offset": 65840,
+    "lang": "es"
+  },
+  {
+    "text": "estricto.",
+    "duration": 3200,
+    "offset": 68360,
+    "lang": "es"
+  },
+  {
+    "text": "Es la clave de todo este asunto. La",
+    "duration": 4361,
+    "offset": 69159,
+    "lang": "es"
+  },
+  {
+    "text": "condición de rigidez nos dice algo",
+    "duration": 4000,
+    "offset": 71560,
+    "lang": "es"
+  },
+  {
+    "text": "fundamental sobre las velocidades de los",
+    "duration": 4520,
+    "offset": 73520,
+    "lang": "es"
+  },
+  {
+    "text": "puntos de ese cuerpo rígido. Imagina que",
+    "duration": 5320,
+    "offset": 75560,
+    "lang": "es"
+  },
+  {
+    "text": "tienes dos puntos A y B en nuestro",
+    "duration": 5640,
+    "offset": 78040,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido. La condición de rigidez",
+    "duration": 4720,
+    "offset": 80880,
+    "lang": "es"
+  },
+  {
+    "text": "establece que las proyecciones de las",
+    "duration": 4840,
+    "offset": 83680,
+    "lang": "es"
+  },
+  {
+    "text": "velocidades de A y B sobre la línea que",
+    "duration": 5040,
+    "offset": 85600,
+    "lang": "es"
+  },
+  {
+    "text": "los une deben ser iguales.",
+    "duration": 5599,
+    "offset": 88520,
+    "lang": "es"
+  },
+  {
+    "text": "A ver, a ver. Proyecciones",
+    "duration": 5280,
+    "offset": 90640,
+    "lang": "es"
+  },
+  {
+    "text": "suena clase de matemáticas",
+    "duration": 4360,
+    "offset": 94119,
+    "lang": "es"
+  },
+  {
+    "text": "y lo es. Pero no te asustes, aquí es",
+    "duration": 3960,
+    "offset": 95920,
+    "lang": "es"
+  },
+  {
+    "text": "donde entra en juego el álgebra",
+    "duration": 3241,
+    "offset": 98479,
+    "lang": "es"
+  },
+  {
+    "text": "vectorial, que es nuestra herramienta",
+    "duration": 4239,
+    "offset": 99880,
+    "lang": "es"
+  },
+  {
+    "text": "para describir estos movimientos. Piensa",
+    "duration": 4359,
+    "offset": 101720,
+    "lang": "es"
+  },
+  {
+    "text": "en la velocidad como una flecha, un",
+    "duration": 4841,
+    "offset": 104119,
+    "lang": "es"
+  },
+  {
+    "text": "vector. La proyección es como la sombra",
+    "duration": 5281,
+    "offset": 106079,
+    "lang": "es"
+  },
+  {
+    "text": "que esa flecha de velocidad proyecta",
+    "duration": 4960,
+    "offset": 108960,
+    "lang": "es"
+  },
+  {
+    "text": "sobre la línea que une los dos puntos.",
+    "duration": 5000,
+    "offset": 111360,
+    "lang": "es"
+  },
+  {
+    "text": "Si esas sombras no fueran iguales, los",
+    "duration": 4799,
+    "offset": 113920,
+    "lang": "es"
+  },
+  {
+    "text": "puntos se estarían acercando o alejando",
+    "duration": 4840,
+    "offset": 116360,
+    "lang": "es"
+  },
+  {
+    "text": "y nuestro cuerpo ya no sería rígido.",
+    "duration": 5161,
+    "offset": 118719,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, ahora sí tiene sentido. Si se",
+    "duration": 5040,
+    "offset": 121200,
+    "lang": "es"
+  },
+  {
+    "text": "acercan o alejan, la distancia cambia y",
+    "duration": 5280,
+    "offset": 123880,
+    "lang": "es"
+  },
+  {
+    "text": "se rompe la regla del cuerpo rígido.",
+    "duration": 5200,
+    "offset": 126240,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, esta condición nos ayuda a",
+    "duration": 4640,
+    "offset": 129160,
+    "lang": "es"
+  },
+  {
+    "text": "entender cómo se mueve todo el objeto.",
+    "duration": 4480,
+    "offset": 131440,
+    "lang": "es"
+  },
+  {
+    "text": "Exacto. Y nos lleva directamente al",
+    "duration": 4439,
+    "offset": 133800,
+    "lang": "es"
+  },
+  {
+    "text": "concepto de campo de velocidades. Como",
+    "duration": 4039,
+    "offset": 135920,
+    "lang": "es"
+  },
+  {
+    "text": "en un cuerpo rígido todos los puntos",
+    "duration": 3881,
+    "offset": 138239,
+    "lang": "es"
+  },
+  {
+    "text": "están conectados, la velocidad de un",
+    "duration": 4241,
+    "offset": 139959,
+    "lang": "es"
+  },
+  {
+    "text": "punto cualquiera se puede determinar si",
+    "duration": 4280,
+    "offset": 142120,
+    "lang": "es"
+  },
+  {
+    "text": "conocemos la velocidad de otro punto y",
+    "duration": 5080,
+    "offset": 144200,
+    "lang": "es"
+  },
+  {
+    "text": "la velocidad angular del cuerpo.",
+    "duration": 6160,
+    "offset": 146400,
+    "lang": "es"
+  },
+  {
+    "text": "Velocidad angular es que tan rápido gira",
+    "duration": 5440,
+    "offset": 149280,
+    "lang": "es"
+  },
+  {
+    "text": "precisamente. Y aquí es donde nuestra",
+    "duration": 3920,
+    "offset": 152560,
+    "lang": "es"
+  },
+  {
+    "text": "amiga, la regla de la mano derecha se",
+    "duration": 4040,
+    "offset": 154720,
+    "lang": "es"
+  },
+  {
+    "text": "vuelve protagonista. Efecto de sonido de",
+    "duration": 4479,
+    "offset": 156480,
+    "lang": "es"
+  },
+  {
+    "text": "hush para enfatizar el movimiento de la",
+    "duration": 3280,
+    "offset": 158760,
+    "lang": "es"
+  },
+  {
+    "text": "mano.",
+    "duration": 3280,
+    "offset": 160959,
+    "lang": "es"
+  },
+  {
+    "text": "Okay, estoy haciendo el gesto ahora",
+    "duration": 4600,
+    "offset": 162040,
+    "lang": "es"
+  },
+  {
+    "text": "mismo. Si una rueda gira en sentido",
+    "duration": 5401,
+    "offset": 164239,
+    "lang": "es"
+  },
+  {
+    "text": "antihorario, vista de frente, mi pulgar",
+    "duration": 5519,
+    "offset": 166640,
+    "lang": "es"
+  },
+  {
+    "text": "apunta hacia mí. Esa sería la dirección",
+    "duration": 3480,
+    "offset": 169640,
+    "lang": "es"
+  },
+  {
+    "text": "del vector.",
+    "duration": 2961,
+    "offset": 172159,
+    "lang": "es"
+  },
+  {
+    "text": "Esa es la convención que usamos. Y la",
+    "duration": 4759,
+    "offset": 173120,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad angular también es un vector.",
+    "duration": 5119,
+    "offset": 175120,
+    "lang": "es"
+  },
+  {
+    "text": "Para saber su dirección, usas tu mano",
+    "duration": 4321,
+    "offset": 177879,
+    "lang": "es"
+  },
+  {
+    "text": "derecha. Si curvas tus dedos en la",
+    "duration": 3761,
+    "offset": 180239,
+    "lang": "es"
+  },
+  {
+    "text": "dirección en que el objeto está girando,",
+    "duration": 3599,
+    "offset": 182200,
+    "lang": "es"
+  },
+  {
+    "text": "tu pulgar apuntará en la dirección del",
+    "duration": 3879,
+    "offset": 184000,
+    "lang": "es"
+  },
+  {
+    "text": "vector de velocidad angular.",
+    "duration": 4080,
+    "offset": 185799,
+    "lang": "es"
+  },
+  {
+    "text": "Perfecto, esa es la convención que",
+    "duration": 4881,
+    "offset": 187879,
+    "lang": "es"
+  },
+  {
+    "text": "usamos y la velocidad angular también es",
+    "duration": 5841,
+    "offset": 189879,
+    "lang": "es"
+  },
+  {
+    "text": "un vector. Para saber su dirección, usas",
+    "duration": 5320,
+    "offset": 192760,
+    "lang": "es"
+  },
+  {
+    "text": "tu mano derecha. Si curvas tus dedos en",
+    "duration": 3720,
+    "offset": 195720,
+    "lang": "es"
+  },
+  {
+    "text": "la dirección en que el objeto está",
+    "duration": 3120,
+    "offset": 198080,
+    "lang": "es"
+  },
+  {
+    "text": "girando, tu pulgar apuntará en la",
+    "duration": 3400,
+    "offset": 199440,
+    "lang": "es"
+  },
+  {
+    "text": "dirección del vector de velocidad",
+    "duration": 3679,
+    "offset": 201200,
+    "lang": "es"
+  },
+  {
+    "text": "angular.",
+    "duration": 4679,
+    "offset": 202840,
+    "lang": "es"
+  },
+  {
+    "text": "¿Okay? Estoy haciendo el gesto ahora",
+    "duration": 5481,
+    "offset": 204879,
+    "lang": "es"
+  },
+  {
+    "text": "mismo. Si una rueda gira en sentido",
+    "duration": 5761,
+    "offset": 207519,
+    "lang": "es"
+  },
+  {
+    "text": "antihorario, vista de frente, mi pulgar",
+    "duration": 5320,
+    "offset": 210360,
+    "lang": "es"
+  },
+  {
+    "text": "apunta hacia mí. Esa sería la dirección",
+    "duration": 3120,
+    "offset": 213280,
+    "lang": "es"
+  },
+  {
+    "text": "del vector.",
+    "duration": 2559,
+    "offset": 215680,
+    "lang": "es"
+  },
+  {
+    "text": "Perfecto. Esa es la convención que",
+    "duration": 4320,
+    "offset": 216400,
+    "lang": "es"
+  },
+  {
+    "text": "usamos. Y el campo de velocidades nos",
+    "duration": 4681,
+    "offset": 218239,
+    "lang": "es"
+  },
+  {
+    "text": "dice que la velocidad de un punto B es",
+    "duration": 4400,
+    "offset": 220720,
+    "lang": "es"
+  },
+  {
+    "text": "igual a la velocidad de un punto A más",
+    "duration": 3879,
+    "offset": 222920,
+    "lang": "es"
+  },
+  {
+    "text": "el producto vectorial de la velocidad",
+    "duration": 5520,
+    "offset": 225120,
+    "lang": "es"
+  },
+  {
+    "text": "angular y el vector que va de A a B.",
+    "duration": 7440,
+    "offset": 226799,
+    "lang": "es"
+  },
+  {
+    "text": "Wow. Producto vectorial más álgebra de",
+    "duration": 4439,
+    "offset": 230640,
+    "lang": "es"
+  },
+  {
+    "text": "vectores.",
+    "duration": 2761,
+    "offset": 234239,
+    "lang": "es"
+  },
+  {
+    "text": "Pero es fascinante. El producto",
+    "duration": 3880,
+    "offset": 235079,
+    "lang": "es"
+  },
+  {
+    "text": "vectorial de dos vectores nos da un",
+    "duration": 3920,
+    "offset": 237000,
+    "lang": "es"
+  },
+  {
+    "text": "tercer vector que es perpendicular a los",
+    "duration": 3920,
+    "offset": 238959,
+    "lang": "es"
+  },
+  {
+    "text": "dos primeros. Y adivina cómo",
+    "duration": 4200,
+    "offset": 240920,
+    "lang": "es"
+  },
+  {
+    "text": "determinamos su dirección. con la regla",
+    "duration": 3360,
+    "offset": 242879,
+    "lang": "es"
+  },
+  {
+    "text": "de la mano derecha.",
+    "duration": 3280,
+    "offset": 245120,
+    "lang": "es"
+  },
+  {
+    "text": "Exacto. Si quieres calcular la velocidad",
+    "duration": 4481,
+    "offset": 246239,
+    "lang": "es"
+  },
+  {
+    "text": "de rotación de un punto, apuntas tu dedo",
+    "duration": 3919,
+    "offset": 248400,
+    "lang": "es"
+  },
+  {
+    "text": "índice en la dirección del vector de",
+    "duration": 3640,
+    "offset": 250720,
+    "lang": "es"
+  },
+  {
+    "text": "posición, desde el centro de giro hasta",
+    "duration": 4001,
+    "offset": 252319,
+    "lang": "es"
+  },
+  {
+    "text": "el punto y tu dedo medio en la dirección",
+    "duration": 4040,
+    "offset": 254360,
+    "lang": "es"
+  },
+  {
+    "text": "de la velocidad angular. Tu pulgar te",
+    "duration": 3479,
+    "offset": 256320,
+    "lang": "es"
+  },
+  {
+    "text": "dará la dirección de la velocidad",
+    "duration": 4239,
+    "offset": 258400,
+    "lang": "es"
+  },
+  {
+    "text": "tangencial. Es una herramienta superútil",
+    "duration": 4601,
+    "offset": 259799,
+    "lang": "es"
+  },
+  {
+    "text": "para visualizar lo que las ecuaciones",
+    "duration": 2840,
+    "offset": 262639,
+    "lang": "es"
+  },
+  {
+    "text": "nos dicen.",
+    "duration": 3440,
+    "offset": 264400,
+    "lang": "es"
+  },
+  {
+    "text": "¿Vale? Entonces, tenemos el campo de",
+    "duration": 3921,
+    "offset": 265479,
+    "lang": "es"
+  },
+  {
+    "text": "velocidades.",
+    "duration": 4680,
+    "offset": 267840,
+    "lang": "es"
+  },
+  {
+    "text": "Pero, ¿qué pasa con la aceleración?",
+    "duration": 4880,
+    "offset": 269400,
+    "lang": "es"
+  },
+  {
+    "text": "Supongo que también hay un campo de",
+    "duration": 2640,
+    "offset": 272520,
+    "lang": "es"
+  },
+  {
+    "text": "aceleraciones.",
+    "duration": 3479,
+    "offset": 274280,
+    "lang": "es"
+  },
+  {
+    "text": "Muy bien deducido, Carlos. El campo de",
+    "duration": 5280,
+    "offset": 275160,
+    "lang": "es"
+  },
+  {
+    "text": "aceleraciones es un poco más complejo",
+    "duration": 4440,
+    "offset": 277759,
+    "lang": "es"
+  },
+  {
+    "text": "porque la aceleración de un punto en un",
+    "duration": 4520,
+    "offset": 280440,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido tiene varias componentes.",
+    "duration": 4801,
+    "offset": 282199,
+    "lang": "es"
+  },
+  {
+    "text": "Por un lado, está la aceleración del",
+    "duration": 4360,
+    "offset": 284960,
+    "lang": "es"
+  },
+  {
+    "text": "punto que hemos tomado como referencia.",
+    "duration": 4240,
+    "offset": 287000,
+    "lang": "es"
+  },
+  {
+    "text": "Luego tenemos dos componentes que surgen",
+    "duration": 3680,
+    "offset": 289320,
+    "lang": "es"
+  },
+  {
+    "text": "de la rotación. La aceleración",
+    "duration": 3880,
+    "offset": 291240,
+    "lang": "es"
+  },
+  {
+    "text": "tangencial que está relacionada con el",
+    "duration": 3680,
+    "offset": 293000,
+    "lang": "es"
+  },
+  {
+    "text": "cambio en la magnitud de la velocidad",
+    "duration": 3919,
+    "offset": 295120,
+    "lang": "es"
+  },
+  {
+    "text": "angular y la aceleración normal o",
+    "duration": 4480,
+    "offset": 296680,
+    "lang": "es"
+  },
+  {
+    "text": "centrípeta, que siempre apunta hacia el",
+    "duration": 4281,
+    "offset": 299039,
+    "lang": "es"
+  },
+  {
+    "text": "centro de rotación y es la responsable",
+    "duration": 5240,
+    "offset": 301160,
+    "lang": "es"
+  },
+  {
+    "text": "de que la trayectoria sea curva.",
+    "duration": 5560,
+    "offset": 303320,
+    "lang": "es"
+  },
+  {
+    "text": "Entiendo. O sea, no es solo que el",
+    "duration": 4840,
+    "offset": 306400,
+    "lang": "es"
+  },
+  {
+    "text": "objeto acelere como un todo, sino que",
+    "duration": 5000,
+    "offset": 308880,
+    "lang": "es"
+  },
+  {
+    "text": "cada punto tiene su propia aceleración",
+    "duration": 5519,
+    "offset": 311240,
+    "lang": "es"
+  },
+  {
+    "text": "debido a la rotación. Exactamente. Y de",
+    "duration": 4800,
+    "offset": 313880,
+    "lang": "es"
+  },
+  {
+    "text": "nuevo, el álgebra vectorial nos permite",
+    "duration": 3761,
+    "offset": 316759,
+    "lang": "es"
+  },
+  {
+    "text": "sumar todas estas componentes para",
+    "duration": 3680,
+    "offset": 318680,
+    "lang": "es"
+  },
+  {
+    "text": "obtener la aceleración total de",
+    "duration": 3799,
+    "offset": 320520,
+    "lang": "es"
+  },
+  {
+    "text": "cualquier punto del cuerpo.",
+    "duration": 4119,
+    "offset": 322360,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, creo que voy asimilando los",
+    "duration": 4041,
+    "offset": 324319,
+    "lang": "es"
+  },
+  {
+    "text": "conceptos.",
+    "duration": 4160,
+    "offset": 326479,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora, en el apunte que mencionas se",
+    "duration": 5240,
+    "offset": 328360,
+    "lang": "es"
+  },
+  {
+    "text": "habla de posibles movimientos.",
+    "duration": 4601,
+    "offset": 330639,
+    "lang": "es"
+  },
+  {
+    "text": "¿A qué se refiere?",
+    "duration": 3480,
+    "offset": 333600,
+    "lang": "es"
+  },
+  {
+    "text": "Se refiere a que podemos descomponer el",
+    "duration": 3640,
+    "offset": 335240,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento más general de un cuerpo",
+    "duration": 4640,
+    "offset": 337080,
+    "lang": "es"
+  },
+  {
+    "text": "rígido, que es la rototraslación, en",
+    "duration": 5560,
+    "offset": 338880,
+    "lang": "es"
+  },
+  {
+    "text": "movimientos más simples. La traslación",
+    "duration": 5319,
+    "offset": 341720,
+    "lang": "es"
+  },
+  {
+    "text": "pura. Imagina una trayeta que mueve sin",
+    "duration": 5199,
+    "offset": 344440,
+    "lang": "es"
+  },
+  {
+    "text": "girarla. Todos los puntos del objeto",
+    "duration": 4561,
+    "offset": 347039,
+    "lang": "es"
+  },
+  {
+    "text": "tienen la misma velocidad y la misma",
+    "duration": 4241,
+    "offset": 349639,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración en cada instante. La",
+    "duration": 4800,
+    "offset": 351600,
+    "lang": "es"
+  },
+  {
+    "text": "rotación pura. Piensa en un CD girando",
+    "duration": 5319,
+    "offset": 353880,
+    "lang": "es"
+  },
+  {
+    "text": "en unor, hay un eje fijo y todos los",
+    "duration": 4760,
+    "offset": 356400,
+    "lang": "es"
+  },
+  {
+    "text": "puntos giran en círculos alrededor de",
+    "duration": 3440,
+    "offset": 359199,
+    "lang": "es"
+  },
+  {
+    "text": "él.",
+    "duration": 5080,
+    "offset": 361160,
+    "lang": "es"
+  },
+  {
+    "text": "Y la rotraslación",
+    "duration": 5921,
+    "offset": 362639,
+    "lang": "es"
+  },
+  {
+    "text": "es una combinación de ambas, como una",
+    "duration": 4920,
+    "offset": 366240,
+    "lang": "es"
+  },
+  {
+    "text": "rueda de bicicleta que avanza y gira al",
+    "duration": 3560,
+    "offset": 368560,
+    "lang": "es"
+  },
+  {
+    "text": "mismo tiempo.",
+    "duration": 3400,
+    "offset": 371160,
+    "lang": "es"
+  },
+  {
+    "text": "Al mismo tiempo. Justo eso. El",
+    "duration": 4359,
+    "offset": 372120,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento general de un cuerpo rígido",
+    "duration": 4359,
+    "offset": 374560,
+    "lang": "es"
+  },
+  {
+    "text": "es una superposición de una traslación y",
+    "duration": 4481,
+    "offset": 376479,
+    "lang": "es"
+  },
+  {
+    "text": "una rotación. Podemos estudiar el",
+    "duration": 3801,
+    "offset": 378919,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento de traslación del centro de",
+    "duration": 4200,
+    "offset": 380960,
+    "lang": "es"
+  },
+  {
+    "text": "masa y a eso sumarle la rotación del",
+    "duration": 5039,
+    "offset": 382720,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo alrededor de ese centro.",
+    "duration": 4560,
+    "offset": 385160,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, para resumir y ver si lo he",
+    "duration": 4560,
+    "offset": 387759,
+    "lang": "es"
+  },
+  {
+    "text": "entendido todo, un cuerpo rígido es un",
+    "duration": 5400,
+    "offset": 389720,
+    "lang": "es"
+  },
+  {
+    "text": "objeto ideal que no se deforma. La",
+    "duration": 5201,
+    "offset": 392319,
+    "lang": "es"
+  },
+  {
+    "text": "condición de rigidez nos asegura que las",
+    "duration": 5720,
+    "offset": 395120,
+    "lang": "es"
+  },
+  {
+    "text": "distancias internas no cambian, lo que",
+    "duration": 5519,
+    "offset": 397520,
+    "lang": "es"
+  },
+  {
+    "text": "impone una restricción a las velocidades",
+    "duration": 4040,
+    "offset": 400840,
+    "lang": "es"
+  },
+  {
+    "text": "de sus puntos.",
+    "duration": 3720,
+    "offset": 403039,
+    "lang": "es"
+  },
+  {
+    "text": "El álgebra vectorial es nuestra gran",
+    "duration": 3920,
+    "offset": 404880,
+    "lang": "es"
+  },
+  {
+    "text": "aliada para describir estos movimientos",
+    "duration": 4440,
+    "offset": 406759,
+    "lang": "es"
+  },
+  {
+    "text": "y la regla de la mano derecha nos ayuda",
+    "duration": 4519,
+    "offset": 408800,
+    "lang": "es"
+  },
+  {
+    "text": "a visualizar la dirección de vectores",
+    "duration": 3961,
+    "offset": 411199,
+    "lang": "es"
+  },
+  {
+    "text": "como la velocidad angular y los",
+    "duration": 5081,
+    "offset": 413319,
+    "lang": "es"
+  },
+  {
+    "text": "resultados de los productos vectoriales.",
+    "duration": 5680,
+    "offset": 415160,
+    "lang": "es"
+  },
+  {
+    "text": "El campo de velocidades y el campo de",
+    "duration": 5079,
+    "offset": 418400,
+    "lang": "es"
+  },
+  {
+    "text": "aceleraciones nos permiten calcular la",
+    "duration": 4400,
+    "offset": 420840,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad y aceleración de cualquier",
+    "duration": 4641,
+    "offset": 423479,
+    "lang": "es"
+  },
+  {
+    "text": "punto del cuerpo si conocemos las de un",
+    "duration": 5280,
+    "offset": 425240,
+    "lang": "es"
+  },
+  {
+    "text": "punto de referencia y el movimiento de",
+    "duration": 3960,
+    "offset": 428120,
+    "lang": "es"
+  },
+  {
+    "text": "rotación.",
+    "duration": 4320,
+    "offset": 430520,
+    "lang": "es"
+  },
+  {
+    "text": "Y finalmente, los movimientos se pueden",
+    "duration": 6080,
+    "offset": 432080,
+    "lang": "es"
+  },
+  {
+    "text": "clasificar en traslación pura, rotación",
+    "duration": 6280,
+    "offset": 434840,
+    "lang": "es"
+  },
+  {
+    "text": "pura y una combinación de ambas, que es",
+    "duration": 4520,
+    "offset": 438160,
+    "lang": "es"
+  },
+  {
+    "text": "la rototraslación.",
+    "duration": 4000,
+    "offset": 441120,
+    "lang": "es"
+  },
+  {
+    "text": "Un resumen perfecto, Carlos. Has captado",
+    "duration": 4239,
+    "offset": 442680,
+    "lang": "es"
+  },
+  {
+    "text": "la esencia de la cinemática del cuerpo",
+    "duration": 3759,
+    "offset": 445120,
+    "lang": "es"
+  },
+  {
+    "text": "rígido. No es tan intimidante cuando lo",
+    "duration": 3241,
+    "offset": 446919,
+    "lang": "es"
+  },
+  {
+    "text": "desglosamos, ¿verdad?",
+    "duration": 4081,
+    "offset": 448879,
+    "lang": "es"
+  },
+  {
+    "text": "Para nada. Entender la lógica detrás de",
+    "duration": 4960,
+    "offset": 450160,
+    "lang": "es"
+  },
+  {
+    "text": "las ecuaciones y poder visualizarlo con",
+    "duration": 3880,
+    "offset": 452960,
+    "lang": "es"
+  },
+  {
+    "text": "la regla de la mano derecha lo hace",
+    "duration": 4000,
+    "offset": 455120,
+    "lang": "es"
+  },
+  {
+    "text": "mucho más accesible. Gracias, Ana.",
+    "duration": 4160,
+    "offset": 456840,
+    "lang": "es"
+  },
+  {
+    "text": "Gracias a ti, Carlos, y a todos los que",
+    "duration": 3799,
+    "offset": 459120,
+    "lang": "es"
+  },
+  {
+    "text": "nos han escuchado. Esperamos que ahora",
+    "duration": 3960,
+    "offset": 461000,
+    "lang": "es"
+  },
+  {
+    "text": "vean el mundo que los rodea, desde una",
+    "duration": 3801,
+    "offset": 462919,
+    "lang": "es"
+  },
+  {
+    "text": "puerta que se abre hasta una pelota que",
+    "duration": 6440,
+    "offset": 464960,
+    "lang": "es"
+  },
+  {
+    "text": "rueda con una nueva perspectiva física.",
+    "duration": 4680,
+    "offset": 466720,
+    "lang": "es"
+  }
+]

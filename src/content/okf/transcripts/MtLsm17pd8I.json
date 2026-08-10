@@ -1,0 +1,662 @@
+[
+  {
+    "text": "vamos a mostrar como con la ayuda de",
+    "duration": 8999,
+    "offset": 640,
+    "lang": "es"
+  },
+  {
+    "text": "Cloud 3.7 sonet dentro de github copilot",
+    "duration": 10640,
+    "offset": 3600,
+    "lang": "es"
+  },
+  {
+    "text": "generamos el test para poder hacer un",
+    "duration": 9281,
+    "offset": 9639,
+    "lang": "es"
+  },
+  {
+    "text": "tdd o sea un test dri and development",
+    "duration": 7799,
+    "offset": 14240,
+    "lang": "es"
+  },
+  {
+    "text": "para probar la interfaz de un chatbot el",
+    "duration": 5760,
+    "offset": 18920,
+    "lang": "es"
+  },
+  {
+    "text": "programa está hecho en react el mod",
+    "duration": 5560,
+    "offset": 22039,
+    "lang": "es"
+  },
+  {
+    "text": "bandler es byte bit en realidad Porque",
+    "duration": 7079,
+    "offset": 24680,
+    "lang": "es"
+  },
+  {
+    "text": "es en francés bit y el e",
+    "duration": 7441,
+    "offset": 27599,
+    "lang": "es"
+  },
+  {
+    "text": "está hecho con lenguaje react typescript",
+    "duration": 5721,
+    "offset": 31759,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que nosotros le pedimos",
+    "duration": 4800,
+    "offset": 35040,
+    "lang": "es"
+  },
+  {
+    "text": "primero lo que queremos es que genere el",
+    "duration": 5520,
+    "offset": 37480,
+    "lang": "es"
+  },
+  {
+    "text": "mocap de mensajes para probar que",
+    "duration": 5320,
+    "offset": 39840,
+    "lang": "es"
+  },
+  {
+    "text": "nuestra Api está correctamente",
+    "duration": 6039,
+    "offset": 43000,
+    "lang": "es"
+  },
+  {
+    "text": "configurada y después le pedimos que los",
+    "duration": 7039,
+    "offset": 45160,
+    "lang": "es"
+  },
+  {
+    "text": "que verifique que controle que los",
+    "duration": 5160,
+    "offset": 49039,
+    "lang": "es"
+  },
+  {
+    "text": "controles los botones para interactuar",
+    "duration": 3961,
+    "offset": 52199,
+    "lang": "es"
+  },
+  {
+    "text": "con el chatbot están en la parte",
+    "duration": 3880,
+    "offset": 54199,
+    "lang": "es"
+  },
+  {
+    "text": "posterior de la imagen para qué nos",
+    "duration": 4079,
+    "offset": 56160,
+    "lang": "es"
+  },
+  {
+    "text": "sirve este tdd Para qué nos sirve este",
+    "duration": 3681,
+    "offset": 58079,
+    "lang": "es"
+  },
+  {
+    "text": "test",
+    "duration": 5961,
+    "offset": 60239,
+    "lang": "es"
+  },
+  {
+    "text": "dri driving development nos sirve porque",
+    "duration": 6280,
+    "offset": 61760,
+    "lang": "es"
+  },
+  {
+    "text": "si nosotros ahora queremos shipear",
+    "duration": 4440,
+    "offset": 66200,
+    "lang": "es"
+  },
+  {
+    "text": "nuevos features esos features se van a",
+    "duration": 6119,
+    "offset": 68040,
+    "lang": "es"
+  },
+  {
+    "text": "ajustar al test que nosotros definimos y",
+    "duration": 8000,
+    "offset": 70640,
+    "lang": "es"
+  },
+  {
+    "text": "con eso vamos a lograr industrializar el",
+    "duration": 7201,
+    "offset": 74159,
+    "lang": "es"
+  },
+  {
+    "text": "la generación de código y entre los",
+    "duration": 5799,
+    "offset": 78640,
+    "lang": "es"
+  },
+  {
+    "text": "cambios de developers evitar tener",
+    "duration": 6280,
+    "offset": 81360,
+    "lang": "es"
+  },
+  {
+    "text": "problemas o tener inconvenientes",
+    "duration": 6881,
+    "offset": 84439,
+    "lang": "es"
+  },
+  {
+    "text": "y que cada developer genere algún tipo",
+    "duration": 5439,
+    "offset": 87640,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 5079,
+    "offset": 91320,
+    "lang": "es"
+  },
+  {
+    "text": "cosa distinta en la interfaz del chatbot",
+    "duration": 7080,
+    "offset": 93079,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que estamos en la parte a donde",
+    "duration": 6360,
+    "offset": 96399,
+    "lang": "es"
+  },
+  {
+    "text": "permitimos que copilot edite o sea no es",
+    "duration": 4441,
+    "offset": 100159,
+    "lang": "es"
+  },
+  {
+    "text": "que simplemente nos va a dar el código",
+    "duration": 6161,
+    "offset": 102759,
+    "lang": "es"
+  },
+  {
+    "text": "sino que él va a escribir en el código",
+    "duration": 7199,
+    "offset": 104600,
+    "lang": "es"
+  },
+  {
+    "text": "bien le vamos a pedir por ejemplo si",
+    "duration": 5360,
+    "offset": 108920,
+    "lang": "es"
+  },
+  {
+    "text": "podés",
+    "duration": 6201,
+    "offset": 111799,
+    "lang": "es"
+  },
+  {
+    "text": "agregar comentarios",
+    "duration": 3720,
+    "offset": 114280,
+    "lang": "es"
+  },
+  {
+    "text": "en el",
+    "duration": 6359,
+    "offset": 121360,
+    "lang": "es"
+  },
+  {
+    "text": "archivo principal",
+    "duration": 4039,
+    "offset": 123680,
+    "lang": "es"
+  },
+  {
+    "text": "donde se insertan",
+    "duration": 7000,
+    "offset": 128319,
+    "lang": "es"
+  },
+  {
+    "text": "los",
+    "duration": 5920,
+    "offset": 132760,
+    "lang": "es"
+  },
+  {
+    "text": "controles de",
+    "duration": 5721,
+    "offset": 135319,
+    "lang": "es"
+  },
+  {
+    "text": "tes",
+    "duration": 4720,
+    "offset": 138680,
+    "lang": "es"
+  },
+  {
+    "text": "El testing lo hicimos con Cypress que es",
+    "duration": 4760,
+    "offset": 141040,
+    "lang": "es"
+  },
+  {
+    "text": "un tester muy bueno para lo que es react",
+    "duration": 5520,
+    "offset": 143400,
+    "lang": "es"
+  },
+  {
+    "text": "con typescript fíjense que acá está",
+    "duration": 5240,
+    "offset": 145800,
+    "lang": "es"
+  },
+  {
+    "text": "generando",
+    "duration": 3959,
+    "offset": 148920,
+    "lang": "es"
+  },
+  {
+    "text": "y lo que va a hacer es va a poner los",
+    "duration": 4760,
+    "offset": 151040,
+    "lang": "es"
+  },
+  {
+    "text": "comentarios en en nuestro archivo",
+    "duration": 6360,
+    "offset": 152879,
+    "lang": "es"
+  },
+  {
+    "text": "principal bien",
+    "duration": 5519,
+    "offset": 155800,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que ya él identificó que el",
+    "duration": 4561,
+    "offset": 159239,
+    "lang": "es"
+  },
+  {
+    "text": "archivo principal era aptc Acá está",
+    "duration": 4961,
+    "offset": 161319,
+    "lang": "es"
+  },
+  {
+    "text": "generando el código él está escribiendo",
+    "duration": 5359,
+    "offset": 163800,
+    "lang": "es"
+  },
+  {
+    "text": "el código de nuestro archivo A partir de",
+    "duration": 5200,
+    "offset": 166280,
+    "lang": "es"
+  },
+  {
+    "text": "lo que nosotros le pedimos o sea",
+    "duration": 4080,
+    "offset": 169159,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros no escribimos el código sino",
+    "duration": 5039,
+    "offset": 171480,
+    "lang": "es"
+  },
+  {
+    "text": "que él es el que se encarga de de de",
+    "duration": 7000,
+    "offset": 173239,
+    "lang": "es"
+  },
+  {
+    "text": "escribirlo de generarlo",
+    "duration": 5561,
+    "offset": 176519,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí está haciendo toda la generación de",
+    "duration": 3481,
+    "offset": 180239,
+    "lang": "es"
+  },
+  {
+    "text": "código está escribiendo todos los",
+    "duration": 4960,
+    "offset": 182080,
+    "lang": "es"
+  },
+  {
+    "text": "comentarios que este",
+    "duration": 5280,
+    "offset": 183720,
+    "lang": "es"
+  },
+  {
+    "text": "que le pedimos que haga fíjense como ahí",
+    "duration": 5479,
+    "offset": 187040,
+    "lang": "es"
+  },
+  {
+    "text": "está este",
+    "duration": 3519,
+    "offset": 189000,
+    "lang": "es"
+  },
+  {
+    "text": "está poniendo todos los comentarios por",
+    "duration": 5120,
+    "offset": 193000,
+    "lang": "es"
+  },
+  {
+    "text": "supuesto para que la persona que viene",
+    "duration": 5761,
+    "offset": 194879,
+    "lang": "es"
+  },
+  {
+    "text": "si viene un nuevo developer y tiene que",
+    "duration": 4320,
+    "offset": 198120,
+    "lang": "es"
+  },
+  {
+    "text": "shipear nuevos features sobre esta",
+    "duration": 4720,
+    "offset": 200640,
+    "lang": "es"
+  },
+  {
+    "text": "interfaz de chatbot se puede guiar",
+    "duration": 7879,
+    "offset": 202440,
+    "lang": "es"
+  },
+  {
+    "text": "perfectamente respecto de cóm e",
+    "duration": 7879,
+    "offset": 205360,
+    "lang": "es"
+  },
+  {
+    "text": "de cómo hacer para poner un nuevo",
+    "duration": 5441,
+    "offset": 210319,
+    "lang": "es"
+  },
+  {
+    "text": "elemento y generar también el test para",
+    "duration": 3841,
+    "offset": 213239,
+    "lang": "es"
+  },
+  {
+    "text": "verificar que todo funcione",
+    "duration": 3080,
+    "offset": 215760,
+    "lang": "es"
+  },
+  {
+    "text": "correctamente según los lineamientos que",
+    "duration": 5840,
+    "offset": 217080,
+    "lang": "es"
+  },
+  {
+    "text": "fueron definidos bien",
+    "duration": 4080,
+    "offset": 218840,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá fíjense nos escribió todo",
+    "duration": 4000,
+    "offset": 224000,
+    "lang": "es"
+  },
+  {
+    "text": "el comentario ahí dice que lo está",
+    "duration": 4681,
+    "offset": 226319,
+    "lang": "es"
+  },
+  {
+    "text": "aplicando",
+    "duration": 3000,
+    "offset": 228000,
+    "lang": "es"
+  },
+  {
+    "text": "ahí una vez que esté aplicado nos va a",
+    "duration": 5319,
+    "offset": 231560,
+    "lang": "es"
+  },
+  {
+    "text": "dar acá le decimos que aceptamos ahí ya",
+    "duration": 5919,
+    "offset": 234040,
+    "lang": "es"
+  },
+  {
+    "text": "hizo todo el cambio acá guardamos el",
+    "duration": 8241,
+    "offset": 236879,
+    "lang": "es"
+  },
+  {
+    "text": "archivo y acá vamos a abrir cpress",
+    "duration": 9321,
+    "offset": 239959,
+    "lang": "es"
+  },
+  {
+    "text": "bien un test end ya está configurado le",
+    "duration": 7560,
+    "offset": 245120,
+    "lang": "es"
+  },
+  {
+    "text": "damos clic le decimos que usamos Chrome",
+    "duration": 5319,
+    "offset": 249280,
+    "lang": "es"
+  },
+  {
+    "text": "que empiece el test y ahora vamos a ir a",
+    "duration": 3799,
+    "offset": 252680,
+    "lang": "es"
+  },
+  {
+    "text": "buscar el archivo donde escribimos el",
+    "duration": 6241,
+    "offset": 254599,
+    "lang": "es"
+  },
+  {
+    "text": "test que es este chatbot en.js",
+    "duration": 4361,
+    "offset": 256479,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí está empezando con el test",
+    "duration": 5720,
+    "offset": 262240,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense como está mandando mensajes ida",
+    "duration": 6399,
+    "offset": 265240,
+    "lang": "es"
+  },
+  {
+    "text": "y vuelta probando nuestra",
+    "duration": 5679,
+    "offset": 267960,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí está enviando los mensajes ID y",
+    "duration": 5481,
+    "offset": 271639,
+    "lang": "es"
+  },
+  {
+    "text": "vuelta ahí hizo todo el acert",
+    "duration": 5921,
+    "offset": 273639,
+    "lang": "es"
+  },
+  {
+    "text": "verificó también qué es lo que pasa",
+    "duration": 4320,
+    "offset": 277120,
+    "lang": "es"
+  },
+  {
+    "text": "envió mensajes ID y vuelta envió",
+    "duration": 4120,
+    "offset": 279560,
+    "lang": "es"
+  },
+  {
+    "text": "múltiples mensajes yid y vuelta muestra",
+    "duration": 3800,
+    "offset": 281440,
+    "lang": "es"
+  },
+  {
+    "text": "mensaje apropiado si hay error de",
+    "duration": 4000,
+    "offset": 283680,
+    "lang": "es"
+  },
+  {
+    "text": "comunicación que acá no hubo y acá",
+    "duration": 4120,
+    "offset": 285240,
+    "lang": "es"
+  },
+  {
+    "text": "verificó que los controles de entrada",
+    "duration": 3400,
+    "offset": 287680,
+    "lang": "es"
+  },
+  {
+    "text": "estén alineados correctamente es decir",
+    "duration": 3920,
+    "offset": 289360,
+    "lang": "es"
+  },
+  {
+    "text": "que esos controles de entrada estén en",
+    "duration": 6200,
+    "offset": 291080,
+    "lang": "es"
+  },
+  {
+    "text": "la parte baja de la pantalla si un si",
+    "duration": 5479,
+    "offset": 293280,
+    "lang": "es"
+  },
+  {
+    "text": "hay que shipear un nuevo feature por",
+    "duration": 3160,
+    "offset": 297280,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo poner un botón para enviar",
+    "duration": 4321,
+    "offset": 298759,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes Ese botón para enviar imágenes",
+    "duration": 4520,
+    "offset": 300440,
+    "lang": "es"
+  },
+  {
+    "text": "si no aparece en la parte baja de la",
+    "duration": 5760,
+    "offset": 303080,
+    "lang": "es"
+  },
+  {
+    "text": "pantalla va a fallar el test Y entonces",
+    "duration": 6720,
+    "offset": 304960,
+    "lang": "es"
+  },
+  {
+    "text": "el developer se va a dar cuenta que ese",
+    "duration": 5600,
+    "offset": 308840,
+    "lang": "es"
+  },
+  {
+    "text": "assertion ese problema de acert que tuvo",
+    "duration": 4959,
+    "offset": 311680,
+    "lang": "es"
+  },
+  {
+    "text": "fue porque no siguió los lineamientos",
+    "duration": 6080,
+    "offset": 314440,
+    "lang": "es"
+  },
+  {
+    "text": "que habían sido definidos",
+    "duration": 3881,
+    "offset": 316639,
+    "lang": "es"
+  }
+]

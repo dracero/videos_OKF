@@ -1,0 +1,46 @@
+---
+type: YouTube Video
+title: "0001 0100"
+description: ""
+resource: "https://www.youtube.com/watch?v=oHTjAAmqIJM"
+tags: []
+generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:08.847Z" }
+verified: machine-confirmed
+status: current
+channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
+published_at: "2022-11-29T23:13:54Z"
+view_count: 9
+like_count: 0
+comment_count: 0
+duration: "00:05"
+thumbnail: "https://i.ytimg.com/vi/oHTjAAmqIJM/maxresdefault.jpg"
+sources:
+  - id: youtube-api
+    resource: "https://developers.google.com/youtube/v3"
+    title: "YouTube Data API v3"
+    last_modified: "2026-08-10"
+  - id: channel-concept
+    resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
+    title: "Channel: DiegoTestDireco"
+---
+
+# 0001 0100
+
+<div class="video-embed-container">
+  <iframe 
+    src="https://www.youtube.com/embed/oHTjAAmqIJM" 
+    title="0001 0100"
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+## Detalles
+- **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Publicado el:** 29 de noviembre de 2022
+- **Duración:** 00:05
+- **Vistas:** 9 | **Likes:** 0
+
+## Descripción
+Sin descripción.

@@ -1,0 +1,1004 @@
+[
+  {
+    "text": "Hola a todos y bienvenidos a Física en",
+    "duration": 4719,
+    "offset": 1160,
+    "lang": "es"
+  },
+  {
+    "text": "Foco. Soy su anfitrión Diego y hoy",
+    "duration": 4120,
+    "offset": 3360,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos el placer de contar con un",
+    "duration": 3921,
+    "offset": 5879,
+    "lang": "es"
+  },
+  {
+    "text": "experto en la materia, Marcelo Funtana,",
+    "duration": 4680,
+    "offset": 7480,
+    "lang": "es"
+  },
+  {
+    "text": "para desglosar un tema fundamental, la",
+    "duration": 4640,
+    "offset": 9800,
+    "lang": "es"
+  },
+  {
+    "text": "cinemática. Marcelo, qué bueno tenerte",
+    "duration": 2880,
+    "offset": 12160,
+    "lang": "es"
+  },
+  {
+    "text": "aquí.",
+    "duration": 2480,
+    "offset": 14440,
+    "lang": "es"
+  },
+  {
+    "text": "Gracias por la invitación, Diego. Un",
+    "duration": 3680,
+    "offset": 15040,
+    "lang": "es"
+  },
+  {
+    "text": "placer estar con ustedes y hablar de",
+    "duration": 2640,
+    "offset": 16920,
+    "lang": "es"
+  },
+  {
+    "text": "física.",
+    "duration": 3200,
+    "offset": 18720,
+    "lang": "es"
+  },
+  {
+    "text": "Marcelo, empecemos por lo básico. En el",
+    "duration": 4440,
+    "offset": 19560,
+    "lang": "es"
+  },
+  {
+    "text": "video se menciona algo crucial para",
+    "duration": 4439,
+    "offset": 21920,
+    "lang": "es"
+  },
+  {
+    "text": "describir el movimiento, el sistema de",
+    "duration": 4640,
+    "offset": 24000,
+    "lang": "es"
+  },
+  {
+    "text": "referencia. ¿Qué es y por qué es tan",
+    "duration": 4521,
+    "offset": 26359,
+    "lang": "es"
+  },
+  {
+    "text": "importante? Claro, Diego. Imagina que",
+    "duration": 4840,
+    "offset": 28640,
+    "lang": "es"
+  },
+  {
+    "text": "quieres describir dónde está un objeto.",
+    "duration": 5120,
+    "offset": 30880,
+    "lang": "es"
+  },
+  {
+    "text": "Necesitas un punto de partida, un origen",
+    "duration": 4800,
+    "offset": 33480,
+    "lang": "es"
+  },
+  {
+    "text": "y unas direcciones para orientarte, como",
+    "duration": 5719,
+    "offset": 36000,
+    "lang": "es"
+  },
+  {
+    "text": "un eje X y Z. Eso es un sistema de",
+    "duration": 6200,
+    "offset": 38280,
+    "lang": "es"
+  },
+  {
+    "text": "referencia. Sin él no podemos definir la",
+    "duration": 5360,
+    "offset": 41719,
+    "lang": "es"
+  },
+  {
+    "text": "posición de nada. El vector posición,",
+    "duration": 4719,
+    "offset": 44480,
+    "lang": "es"
+  },
+  {
+    "text": "que es una flecha que va del origen de",
+    "duration": 4281,
+    "offset": 47079,
+    "lang": "es"
+  },
+  {
+    "text": "nuestro sistema hasta el objeto, nos da",
+    "duration": 4160,
+    "offset": 49199,
+    "lang": "es"
+  },
+  {
+    "text": "la ubicación exacta de la partícula en",
+    "duration": 4199,
+    "offset": 51360,
+    "lang": "es"
+  },
+  {
+    "text": "cada instante de tiempo. El lugar",
+    "duration": 4121,
+    "offset": 53359,
+    "lang": "es"
+  },
+  {
+    "text": "geométrico de todos los puntos que son",
+    "duration": 4561,
+    "offset": 55559,
+    "lang": "es"
+  },
+  {
+    "text": "alcanzados por el vector posición es la",
+    "duration": 5759,
+    "offset": 57480,
+    "lang": "es"
+  },
+  {
+    "text": "trayectoria. ¿Entendido? Ahora, hablemos",
+    "duration": 5200,
+    "offset": 60120,
+    "lang": "es"
+  },
+  {
+    "text": "de la velocidad. A menudo escuchamos",
+    "duration": 4361,
+    "offset": 63239,
+    "lang": "es"
+  },
+  {
+    "text": "sobre velocidad media e instantánea.",
+    "duration": 4799,
+    "offset": 65320,
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuál es la diferencia? Buena pregunta.",
+    "duration": 4600,
+    "offset": 67600,
+    "lang": "es"
+  },
+  {
+    "text": "La velocidad media es el desplazamiento",
+    "duration": 4320,
+    "offset": 70119,
+    "lang": "es"
+  },
+  {
+    "text": "total dividido por el tiempo que tardó",
+    "duration": 4720,
+    "offset": 72200,
+    "lang": "es"
+  },
+  {
+    "text": "en ocurrir. Es un promedio. Pero si",
+    "duration": 4201,
+    "offset": 74439,
+    "lang": "es"
+  },
+  {
+    "text": "queremos saber la velocidad en un",
+    "duration": 4559,
+    "offset": 76920,
+    "lang": "es"
+  },
+  {
+    "text": "momento exacto, un instante, necesitamos",
+    "duration": 4760,
+    "offset": 78640,
+    "lang": "es"
+  },
+  {
+    "text": "la velocidad instantánea.",
+    "duration": 4241,
+    "offset": 81479,
+    "lang": "es"
+  },
+  {
+    "text": "Matemáticamente, esto se calcula como el",
+    "duration": 4480,
+    "offset": 83400,
+    "lang": "es"
+  },
+  {
+    "text": "límite de la velocidad media cuando el",
+    "duration": 4039,
+    "offset": 85720,
+    "lang": "es"
+  },
+  {
+    "text": "intervalo de tiempo se hace muy muy",
+    "duration": 3919,
+    "offset": 87880,
+    "lang": "es"
+  },
+  {
+    "text": "pequeño, lo que conocemos como la",
+    "duration": 4121,
+    "offset": 89759,
+    "lang": "es"
+  },
+  {
+    "text": "derivada de la posición con respecto al",
+    "duration": 5241,
+    "offset": 91799,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo. Algo importante es que el vector",
+    "duration": 5400,
+    "offset": 93880,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad siempre es tangente a la",
+    "duration": 3600,
+    "offset": 97040,
+    "lang": "es"
+  },
+  {
+    "text": "trayectoria.",
+    "duration": 3839,
+    "offset": 99280,
+    "lang": "es"
+  },
+  {
+    "text": "Derivadas, un concepto clave del",
+    "duration": 4799,
+    "offset": 100640,
+    "lang": "es"
+  },
+  {
+    "text": "cálculo. Y supongo que algo similar",
+    "duration": 4081,
+    "offset": 103119,
+    "lang": "es"
+  },
+  {
+    "text": "ocurre con la aceleración.",
+    "duration": 4680,
+    "offset": 105439,
+    "lang": "es"
+  },
+  {
+    "text": "Exactamente. La aceleración mide cómo",
+    "duration": 5199,
+    "offset": 107200,
+    "lang": "es"
+  },
+  {
+    "text": "cambia la velocidad. La aceleración",
+    "duration": 4320,
+    "offset": 110119,
+    "lang": "es"
+  },
+  {
+    "text": "media es el cambio en la velocidad",
+    "duration": 4400,
+    "offset": 112399,
+    "lang": "es"
+  },
+  {
+    "text": "dividido entre el intervalo de tiempo. Y",
+    "duration": 4521,
+    "offset": 114439,
+    "lang": "es"
+  },
+  {
+    "text": "de nuevo, si queremos la aceleración",
+    "duration": 4561,
+    "offset": 116799,
+    "lang": "es"
+  },
+  {
+    "text": "instantánea, tomamos el límite cuando el",
+    "duration": 4799,
+    "offset": 118960,
+    "lang": "es"
+  },
+  {
+    "text": "intervalo de tiempo tiende a cero. Esto",
+    "duration": 5000,
+    "offset": 121360,
+    "lang": "es"
+  },
+  {
+    "text": "es la derivada del vector velocidad con",
+    "duration": 4081,
+    "offset": 123759,
+    "lang": "es"
+  },
+  {
+    "text": "respecto al tiempo.",
+    "duration": 3360,
+    "offset": 126360,
+    "lang": "es"
+  },
+  {
+    "text": "En el video también se habla de",
+    "duration": 4200,
+    "offset": 127840,
+    "lang": "es"
+  },
+  {
+    "text": "coordenadas intrínsecas. Suena un poco",
+    "duration": 5239,
+    "offset": 129720,
+    "lang": "es"
+  },
+  {
+    "text": "complejo. ¿Qué son y para qué lo sirven?",
+    "duration": 5160,
+    "offset": 132040,
+    "lang": "es"
+  },
+  {
+    "text": "No es tan complicado como parece. En",
+    "duration": 4841,
+    "offset": 134959,
+    "lang": "es"
+  },
+  {
+    "text": "lugar de usar los ejes fijos X y I,",
+    "duration": 4399,
+    "offset": 137200,
+    "lang": "es"
+  },
+  {
+    "text": "podemos describir el movimiento usando",
+    "duration": 4040,
+    "offset": 139800,
+    "lang": "es"
+  },
+  {
+    "text": "un sistema de coordenadas que se mueve",
+    "duration": 4601,
+    "offset": 141599,
+    "lang": "es"
+  },
+  {
+    "text": "con la partícula y está asociado a su",
+    "duration": 4720,
+    "offset": 143840,
+    "lang": "es"
+  },
+  {
+    "text": "trayectoria. Usamos dos vectores",
+    "duration": 4720,
+    "offset": 146200,
+    "lang": "es"
+  },
+  {
+    "text": "principales, el vector tangente, que",
+    "duration": 4039,
+    "offset": 148560,
+    "lang": "es"
+  },
+  {
+    "text": "como dijimos va en la dirección de la",
+    "duration": 4640,
+    "offset": 150920,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad, y el vector normal que es",
+    "duration": 5081,
+    "offset": 152599,
+    "lang": "es"
+  },
+  {
+    "text": "perpendicular al tangente y apunta al",
+    "duration": 3399,
+    "offset": 155560,
+    "lang": "es"
+  },
+  {
+    "text": "centro de la curvatura de la",
+    "duration": 4000,
+    "offset": 157680,
+    "lang": "es"
+  },
+  {
+    "text": "trayectoria. Esto nos permite separar la",
+    "duration": 5000,
+    "offset": 158959,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración en dos partes. La",
+    "duration": 4720,
+    "offset": 161680,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración tangencial, que nos dice",
+    "duration": 4601,
+    "offset": 163959,
+    "lang": "es"
+  },
+  {
+    "text": "cómo cambia el módulo de la velocidad,",
+    "duration": 5280,
+    "offset": 166400,
+    "lang": "es"
+  },
+  {
+    "text": "es decir, la rapidez y la aceleración",
+    "duration": 6120,
+    "offset": 168560,
+    "lang": "es"
+  },
+  {
+    "text": "normal o centrípeta, que nos indica cómo",
+    "duration": 5160,
+    "offset": 171680,
+    "lang": "es"
+  },
+  {
+    "text": "cambia la dirección de la velocidad.",
+    "duration": 3720,
+    "offset": 174680,
+    "lang": "es"
+  },
+  {
+    "text": "Fantástico.",
+    "duration": 3759,
+    "offset": 176840,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, la aceleración tangencial se",
+    "duration": 4479,
+    "offset": 178400,
+    "lang": "es"
+  },
+  {
+    "text": "relaciona con si el objeto va más rápido",
+    "duration": 4881,
+    "offset": 180599,
+    "lang": "es"
+  },
+  {
+    "text": "o más lento y la normal con cómo está",
+    "duration": 4801,
+    "offset": 182879,
+    "lang": "es"
+  },
+  {
+    "text": "girando o curvando su trayectoria.",
+    "duration": 4720,
+    "offset": 185480,
+    "lang": "es"
+  },
+  {
+    "text": "Exacto. Esa es la gran ventaja de las",
+    "duration": 4600,
+    "offset": 187680,
+    "lang": "es"
+  },
+  {
+    "text": "coordenadas intrínsecas. Nos dan una",
+    "duration": 4039,
+    "offset": 190200,
+    "lang": "es"
+  },
+  {
+    "text": "comprensión más profunda de los cambios",
+    "duration": 4280,
+    "offset": 192280,
+    "lang": "es"
+  },
+  {
+    "text": "en el movimiento. Marcelo, ha sido una",
+    "duration": 4560,
+    "offset": 194239,
+    "lang": "es"
+  },
+  {
+    "text": "explicación muy clara y concisa. Eso",
+    "duration": 4679,
+    "offset": 196560,
+    "lang": "es"
+  },
+  {
+    "text": "aclara mucho las cosas. ¿Podrías darnos",
+    "duration": 3961,
+    "offset": 198799,
+    "lang": "es"
+  },
+  {
+    "text": "un ejemplo práctico donde esta",
+    "duration": 3521,
+    "offset": 201239,
+    "lang": "es"
+  },
+  {
+    "text": "descomposición de la aceleración sea",
+    "duration": 3360,
+    "offset": 202760,
+    "lang": "es"
+  },
+  {
+    "text": "especialmente útil?",
+    "duration": 4160,
+    "offset": 204760,
+    "lang": "es"
+  },
+  {
+    "text": "Por supuesto. Un ejemplo perfecto y",
+    "duration": 5280,
+    "offset": 206120,
+    "lang": "es"
+  },
+  {
+    "text": "fundamental en física es el movimiento",
+    "duration": 5160,
+    "offset": 208920,
+    "lang": "es"
+  },
+  {
+    "text": "circular. Pensemos en un punto que se",
+    "duration": 5520,
+    "offset": 211400,
+    "lang": "es"
+  },
+  {
+    "text": "mueve a lo largo de una circunferencia.",
+    "duration": 5400,
+    "offset": 214080,
+    "lang": "es"
+  },
+  {
+    "text": "Podemos tener dos casos principales. El",
+    "duration": 5120,
+    "offset": 216920,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento circular uniforme, donde la",
+    "duration": 5000,
+    "offset": 219480,
+    "lang": "es"
+  },
+  {
+    "text": "rapidez, el módulo de la velocidad es",
+    "duration": 4960,
+    "offset": 222040,
+    "lang": "es"
+  },
+  {
+    "text": "constante y el movimiento circular no",
+    "duration": 5600,
+    "offset": 224480,
+    "lang": "es"
+  },
+  {
+    "text": "uniforme, donde la rapidez varía.",
+    "duration": 5519,
+    "offset": 227000,
+    "lang": "es"
+  },
+  {
+    "text": "Entiendo. ¿Y cómo se aplican ahí las",
+    "duration": 4920,
+    "offset": 230080,
+    "lang": "es"
+  },
+  {
+    "text": "aceleraciones normal y tangencial? En el",
+    "duration": 4481,
+    "offset": 232519,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento circular uniforme, como la",
+    "duration": 4159,
+    "offset": 235000,
+    "lang": "es"
+  },
+  {
+    "text": "rapidez es constante, la aceleración",
+    "duration": 5319,
+    "offset": 237000,
+    "lang": "es"
+  },
+  {
+    "text": "tangencial es cero. Sin embargo, como la",
+    "duration": 5121,
+    "offset": 239159,
+    "lang": "es"
+  },
+  {
+    "text": "dirección del vector velocidad cambia",
+    "duration": 4120,
+    "offset": 242319,
+    "lang": "es"
+  },
+  {
+    "text": "constantemente para seguir la curva,",
+    "duration": 4319,
+    "offset": 244280,
+    "lang": "es"
+  },
+  {
+    "text": "siempre hay una aceleración normal o",
+    "duration": 4241,
+    "offset": 246439,
+    "lang": "es"
+  },
+  {
+    "text": "centrípeta que apunta hacia el centro",
+    "duration": 4840,
+    "offset": 248599,
+    "lang": "es"
+  },
+  {
+    "text": "del círculo. En cambio, en un movimiento",
+    "duration": 5240,
+    "offset": 250680,
+    "lang": "es"
+  },
+  {
+    "text": "circular no uniforme, como al arrancar o",
+    "duration": 4640,
+    "offset": 253439,
+    "lang": "es"
+  },
+  {
+    "text": "frenar en una curva, no solo cambia la",
+    "duration": 4039,
+    "offset": 255920,
+    "lang": "es"
+  },
+  {
+    "text": "dirección de la velocidad, sino también",
+    "duration": 4601,
+    "offset": 258079,
+    "lang": "es"
+  },
+  {
+    "text": "su módulo. Por lo tanto, tendremos tanto",
+    "duration": 4960,
+    "offset": 259959,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración normal como aceleración",
+    "duration": 3239,
+    "offset": 262680,
+    "lang": "es"
+  },
+  {
+    "text": "tangencial.",
+    "duration": 3720,
+    "offset": 264919,
+    "lang": "es"
+  },
+  {
+    "text": "Qué interesante. Para describir este",
+    "duration": 4961,
+    "offset": 265919,
+    "lang": "es"
+  },
+  {
+    "text": "tipo de movimiento, supongo que no basta",
+    "duration": 5641,
+    "offset": 268639,
+    "lang": "es"
+  },
+  {
+    "text": "con las coordenadas X y Y. Exacto. Es",
+    "duration": 5400,
+    "offset": 270880,
+    "lang": "es"
+  },
+  {
+    "text": "mucho más útil usar magnitudes",
+    "duration": 5160,
+    "offset": 274280,
+    "lang": "es"
+  },
+  {
+    "text": "angulares. Definimos la posición usando",
+    "duration": 6000,
+    "offset": 276280,
+    "lang": "es"
+  },
+  {
+    "text": "el radio de la circunferencia r y el",
+    "duration": 5920,
+    "offset": 279440,
+    "lang": "es"
+  },
+  {
+    "text": "ángulo fhi que ha barrido el objeto.",
+    "duration": 5600,
+    "offset": 282280,
+    "lang": "es"
+  },
+  {
+    "text": "Este ángulo se mide en radianes que se",
+    "duration": 4480,
+    "offset": 285360,
+    "lang": "es"
+  },
+  {
+    "text": "definen como el cociente entre la",
+    "duration": 4920,
+    "offset": 287880,
+    "lang": "es"
+  },
+  {
+    "text": "longitud del arco recorrido y el radio.",
+    "duration": 5359,
+    "offset": 289840,
+    "lang": "es"
+  },
+  {
+    "text": "De ahí sale la relación diferencial. Un",
+    "duration": 6040,
+    "offset": 292800,
+    "lang": "es"
+  },
+  {
+    "text": "pequeño arco recorrido d es igual al",
+    "duration": 6241,
+    "offset": 295199,
+    "lang": "es"
+  },
+  {
+    "text": "radio por el pequeño ángulo barrido de",
+    "duration": 5600,
+    "offset": 298840,
+    "lang": "es"
+  },
+  {
+    "text": "fi. Y de ahí podemos definir una",
+    "duration": 4520,
+    "offset": 301440,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad angular",
+    "duration": 4120,
+    "offset": 304440,
+    "lang": "es"
+  },
+  {
+    "text": "precisamente. Así como la rapidez lineal",
+    "duration": 4880,
+    "offset": 305960,
+    "lang": "es"
+  },
+  {
+    "text": "V es la derivada del arco con respecto",
+    "duration": 4639,
+    "offset": 308560,
+    "lang": "es"
+  },
+  {
+    "text": "al tiempo, podemos definir la velocidad",
+    "duration": 4960,
+    "offset": 310840,
+    "lang": "es"
+  },
+  {
+    "text": "angular que usualmente representamos con",
+    "duration": 5161,
+    "offset": 313199,
+    "lang": "es"
+  },
+  {
+    "text": "la letra griega omega. es la derivada",
+    "duration": 5080,
+    "offset": 315800,
+    "lang": "es"
+  },
+  {
+    "text": "del ángulo con respecto al tiempo. Nos",
+    "duration": 4240,
+    "offset": 318360,
+    "lang": "es"
+  },
+  {
+    "text": "dice qué tan rápido está girando el",
+    "duration": 2520,
+    "offset": 320880,
+    "lang": "es"
+  },
+  {
+    "text": "objeto",
+    "duration": 3319,
+    "offset": 322600,
+    "lang": "es"
+  },
+  {
+    "text": "y existe una conexión entre la rapidez",
+    "duration": 5200,
+    "offset": 323400,
+    "lang": "es"
+  },
+  {
+    "text": "lineal y esta nueva velocidad angular.",
+    "duration": 4840,
+    "offset": 325919,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, y es una de las relaciones más",
+    "duration": 4319,
+    "offset": 328600,
+    "lang": "es"
+  },
+  {
+    "text": "importantes del movimiento circular.",
+    "duration": 4241,
+    "offset": 330759,
+    "lang": "es"
+  },
+  {
+    "text": "Combinando las ecuaciones anteriores,",
+    "duration": 4280,
+    "offset": 332919,
+    "lang": "es"
+  },
+  {
+    "text": "encontramos que la rapidez lineal es",
+    "duration": 4039,
+    "offset": 335000,
+    "lang": "es"
+  },
+  {
+    "text": "igual a la velocidad angular por el",
+    "duration": 5161,
+    "offset": 337199,
+    "lang": "es"
+  },
+  {
+    "text": "radio. Y es importante destacar que la",
+    "duration": 5720,
+    "offset": 339039,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad angular también es un vector.",
+    "duration": 4240,
+    "offset": 342360,
+    "lang": "es"
+  },
+  {
+    "text": "Su dirección es perpendicular al plano",
+    "duration": 3921,
+    "offset": 344759,
+    "lang": "es"
+  },
+  {
+    "text": "del movimiento siguiendo la regla de la",
+    "duration": 4800,
+    "offset": 346600,
+    "lang": "es"
+  },
+  {
+    "text": "mano derecha y su sentido nos indica si",
+    "duration": 4920,
+    "offset": 348680,
+    "lang": "es"
+  },
+  {
+    "text": "la rotación es horaria o antihoraria.",
+    "duration": 5040,
+    "offset": 351400,
+    "lang": "es"
+  },
+  {
+    "text": "Fascinante. Y si la velocidad angular",
+    "duration": 5400,
+    "offset": 353600,
+    "lang": "es"
+  },
+  {
+    "text": "puede cambiar, existe también una",
+    "duration": 4599,
+    "offset": 356440,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración angular. has dado en el",
+    "duration": 5039,
+    "offset": 359000,
+    "lang": "es"
+  },
+  {
+    "text": "clavo. Si el movimiento no es uniforme,",
+    "duration": 5600,
+    "offset": 361039,
+    "lang": "es"
+  },
+  {
+    "text": "la velocidad angular cambia y la tasa de",
+    "duration": 4961,
+    "offset": 364039,
+    "lang": "es"
+  },
+  {
+    "text": "ese cambio es la aceleración angular,",
+    "duration": 4081,
+    "offset": 366639,
+    "lang": "es"
+  },
+  {
+    "text": "que es la derivada de la velocidad",
+    "duration": 3680,
+    "offset": 369000,
+    "lang": "es"
+  },
+  {
+    "text": "angular con respecto al tiempo.",
+    "duration": 3560,
+    "offset": 370720,
+    "lang": "es"
+  },
+  {
+    "text": "Esto nos da una visión mucho más",
+    "duration": 3560,
+    "offset": 372680,
+    "lang": "es"
+  },
+  {
+    "text": "completa y elegante para describir el",
+    "duration": 4479,
+    "offset": 374280,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento en círculos. Marcelo, como",
+    "duration": 4519,
+    "offset": 376240,
+    "lang": "es"
+  },
+  {
+    "text": "siempre, un placer tenerte en Física en",
+    "duration": 4641,
+    "offset": 378759,
+    "lang": "es"
+  },
+  {
+    "text": "Foco. Ha sido una elección magistral.",
+    "duration": 5880,
+    "offset": 380759,
+    "lang": "es"
+  },
+  {
+    "text": "Gracias a vos, Diego.",
+    "duration": 3239,
+    "offset": 383400,
+    "lang": "es"
+  }
+]

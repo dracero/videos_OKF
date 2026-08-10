@@ -1,0 +1,584 @@
+[
+  {
+    "text": "Bien, vamos a a mostrar cómo armar un",
+    "duration": 8201,
+    "offset": 2639,
+    "lang": "es"
+  },
+  {
+    "text": "MCP",
+    "duration": 6160,
+    "offset": 7880,
+    "lang": "es"
+  },
+  {
+    "text": "server usando el nuevo framework de",
+    "duration": 7599,
+    "offset": 10840,
+    "lang": "es"
+  },
+  {
+    "text": "agentes de Google, Google ADK, Asient",
+    "duration": 8880,
+    "offset": 14040,
+    "lang": "es"
+  },
+  {
+    "text": "Development Kit y utilizando un MCP",
+    "duration": 7000,
+    "offset": 18439,
+    "lang": "es"
+  },
+  {
+    "text": "Server, en este caso el MCP Server de",
+    "duration": 6320,
+    "offset": 22920,
+    "lang": "es"
+  },
+  {
+    "text": "Cudran. ¿Para qué nos sirve usar CUDRAN?",
+    "duration": 5160,
+    "offset": 25439,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 3440,
+    "offset": 29240,
+    "lang": "es"
+  },
+  {
+    "text": "En el directorio local a donde se está",
+    "duration": 4960,
+    "offset": 30599,
+    "lang": "es"
+  },
+  {
+    "text": "ejecutando el agente utilizando Cudran,",
+    "duration": 4600,
+    "offset": 32680,
+    "lang": "es"
+  },
+  {
+    "text": "lo que vamos a hacer es crear una",
+    "duration": 4561,
+    "offset": 35559,
+    "lang": "es"
+  },
+  {
+    "text": "memoria semántica. La memoria semántica,",
+    "duration": 4599,
+    "offset": 37280,
+    "lang": "es"
+  },
+  {
+    "text": "como ustedes saben, es muy importante",
+    "duration": 3640,
+    "offset": 40120,
+    "lang": "es"
+  },
+  {
+    "text": "porque la memoria mantiene la coherencia",
+    "duration": 4840,
+    "offset": 41879,
+    "lang": "es"
+  },
+  {
+    "text": "de la conversación de la gente, ayuda al",
+    "duration": 5279,
+    "offset": 43760,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmo de razonamiento, evita que",
+    "duration": 5121,
+    "offset": 46719,
+    "lang": "es"
+  },
+  {
+    "text": "haya tantos request al",
+    "duration": 7081,
+    "offset": 49039,
+    "lang": "es"
+  },
+  {
+    "text": "ll bajando la cantidad de e tokens que",
+    "duration": 8760,
+    "offset": 51840,
+    "lang": "es"
+  },
+  {
+    "text": "estoy gastando y además genera también",
+    "duration": 7599,
+    "offset": 56120,
+    "lang": "es"
+  },
+  {
+    "text": "cierto tipo de realimentación con lo que",
+    "duration": 5280,
+    "offset": 60600,
+    "lang": "es"
+  },
+  {
+    "text": "informa el usuario para que el mismo",
+    "duration": 4841,
+    "offset": 63719,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmo del LM utilizando la memoria",
+    "duration": 4520,
+    "offset": 65880,
+    "lang": "es"
+  },
+  {
+    "text": "pueda corregir la respuesta. Muy",
+    "duration": 4000,
+    "offset": 68560,
+    "lang": "es"
+  },
+  {
+    "text": "importante, sobre todo con una base de",
+    "duration": 4039,
+    "offset": 70400,
+    "lang": "es"
+  },
+  {
+    "text": "datos vectorial que funciona tamban bien",
+    "duration": 7080,
+    "offset": 72560,
+    "lang": "es"
+  },
+  {
+    "text": "como cuant. Vamos a iniciar entonces el",
+    "duration": 8561,
+    "offset": 74439,
+    "lang": "es"
+  },
+  {
+    "text": "agente. Vamos a a mostrar algo. Esto es",
+    "duration": 5439,
+    "offset": 79640,
+    "lang": "es"
+  },
+  {
+    "text": "un prototipo, lo tengo dentro de un",
+    "duration": 4960,
+    "offset": 83000,
+    "lang": "es"
+  },
+  {
+    "text": "bucle. Ahí se conectó. Fíjense una cosa,",
+    "duration": 5601,
+    "offset": 85079,
+    "lang": "es"
+  },
+  {
+    "text": "que tengo definido el QDRAN local padr",
+    "duration": 6119,
+    "offset": 87960,
+    "lang": "es"
+  },
+  {
+    "text": "memory y ni bien inició, creó el QDR",
+    "duration": 6079,
+    "offset": 90680,
+    "lang": "es"
+  },
+  {
+    "text": "memory que es donde va a interactuar el",
+    "duration": 4320,
+    "offset": 94079,
+    "lang": "es"
+  },
+  {
+    "text": "archivo local donde va a interactuar con",
+    "duration": 3000,
+    "offset": 96759,
+    "lang": "es"
+  },
+  {
+    "text": "el agente. Esto hay que tenerlo en",
+    "duration": 3080,
+    "offset": 98399,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta si lo tienen en un",
+    "duration": 6481,
+    "offset": 99759,
+    "lang": "es"
+  },
+  {
+    "text": "docker, cómo lograr que la memoria sea",
+    "duration": 7361,
+    "offset": 101479,
+    "lang": "es"
+  },
+  {
+    "text": "persistente. Bien, entonces una consulta",
+    "duration": 4199,
+    "offset": 106240,
+    "lang": "es"
+  },
+  {
+    "text": "para base de datos y le voy a decir",
+    "duration": 4080,
+    "offset": 108840,
+    "lang": "es"
+  },
+  {
+    "text": "podés",
+    "duration": 2481,
+    "offset": 110439,
+    "lang": "es"
+  },
+  {
+    "text": "escribir. Obviamente esto después cuando",
+    "duration": 3799,
+    "offset": 113240,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes lo tengan funcionando en un",
+    "duration": 3401,
+    "offset": 115479,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de agentes, utilizan un",
+    "duration": 4321,
+    "offset": 117039,
+    "lang": "es"
+  },
+  {
+    "text": "prompting y no le pic podés escribir.",
+    "duration": 4760,
+    "offset": 118880,
+    "lang": "es"
+  },
+  {
+    "text": "Pero bien, acá estamos probando. Podés",
+    "duration": 4480,
+    "offset": 121360,
+    "lang": "es"
+  },
+  {
+    "text": "escribir en",
+    "duration": 6640,
+    "offset": 123640,
+    "lang": "es"
+  },
+  {
+    "text": "la base de datos",
+    "duration": 4440,
+    "offset": 125840,
+    "lang": "es"
+  },
+  {
+    "text": "que el",
+    "duration": 6881,
+    "offset": 130879,
+    "lang": "es"
+  },
+  {
+    "text": "efecto Doppler se produce.",
+    "duration": 5000,
+    "offset": 132760,
+    "lang": "es"
+  },
+  {
+    "text": "Cuando",
+    "duration": 2560,
+    "offset": 137959,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 3321,
+    "offset": 138959,
+    "lang": "es"
+  },
+  {
+    "text": "fuente",
+    "duration": 4601,
+    "offset": 140519,
+    "lang": "es"
+  },
+  {
+    "text": "se mueve",
+    "duration": 5840,
+    "offset": 142280,
+    "lang": "es"
+  },
+  {
+    "text": "o",
+    "duration": 3000,
+    "offset": 145120,
+    "lang": "es"
+  },
+  {
+    "text": "el se",
+    "duration": 4880,
+    "offset": 152840,
+    "lang": "es"
+  },
+  {
+    "text": "mueve",
+    "duration": 3520,
+    "offset": 155760,
+    "lang": "es"
+  },
+  {
+    "text": "parao",
+    "duration": 6920,
+    "offset": 157720,
+    "lang": "es"
+  },
+  {
+    "text": "o fuentes de ondas",
+    "duration": 5360,
+    "offset": 159280,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí le escribimos algo bien. Y lo que",
+    "duration": 7280,
+    "offset": 170840,
+    "lang": "es"
+  },
+  {
+    "text": "dice es",
+    "duration": 5240,
+    "offset": 175800,
+    "lang": "es"
+  },
+  {
+    "text": "que acá está, ¿ven? Okay. He guardado",
+    "duration": 5280,
+    "offset": 178120,
+    "lang": "es"
+  },
+  {
+    "text": "información en la base de datos. Bien,",
+    "duration": 4640,
+    "offset": 181040,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ahora puedo",
+    "duration": 6199,
+    "offset": 183400,
+    "lang": "es"
+  },
+  {
+    "text": "decir, ¿qué pasa",
+    "duration": 3919,
+    "offset": 185680,
+    "lang": "es"
+  },
+  {
+    "text": "si un",
+    "duration": 7640,
+    "offset": 190599,
+    "lang": "es"
+  },
+  {
+    "text": "chico silva a una",
+    "duration": 9201,
+    "offset": 194159,
+    "lang": "es"
+  },
+  {
+    "text": "frecuencia F y se acerca a",
+    "duration": 7161,
+    "offset": 198239,
+    "lang": "es"
+  },
+  {
+    "text": "una pared",
+    "duration": 6760,
+    "offset": 203360,
+    "lang": "es"
+  },
+  {
+    "text": "a velocidad B?",
+    "duration": 4720,
+    "offset": 205400,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, y ahí como el Gemini 2.0, que es",
+    "duration": 7039,
+    "offset": 213200,
+    "lang": "es"
+  },
+  {
+    "text": "el que usé para gente tiene algoritmo de",
+    "duration": 4920,
+    "offset": 218239,
+    "lang": "es"
+  },
+  {
+    "text": "Risoning, va a ir a buscar a su memoria",
+    "duration": 7121,
+    "offset": 220239,
+    "lang": "es"
+  },
+  {
+    "text": "semántica y acá me va a contestar, he",
+    "duration": 5440,
+    "offset": 223159,
+    "lang": "es"
+  },
+  {
+    "text": "guardado la información de chico",
+    "duration": 3879,
+    "offset": 227360,
+    "lang": "es"
+  },
+  {
+    "text": "silvando acercándose a la pared. Y lo",
+    "duration": 6041,
+    "offset": 228599,
+    "lang": "es"
+  },
+  {
+    "text": "que me dice acá es",
+    "duration": 5801,
+    "offset": 231239,
+    "lang": "es"
+  },
+  {
+    "text": "eh acá, guárdenme que estoy viendo la",
+    "duration": 4400,
+    "offset": 234640,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta. El prototipo es un poco que",
+    "duration": 5800,
+    "offset": 237040,
+    "lang": "es"
+  },
+  {
+    "text": "ande. Acá está, dice name store",
+    "duration": 7320,
+    "offset": 239040,
+    "lang": "es"
+  },
+  {
+    "text": "report. Un chico Silva grounding",
+    "duration": 6160,
+    "offset": 242840,
+    "lang": "es"
+  },
+  {
+    "text": "metatization state. Ven acá, busca",
+    "duration": 6120,
+    "offset": 246360,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando el método",
+    "duration": 6759,
+    "offset": 249000,
+    "lang": "es"
+  },
+  {
+    "text": "Kudran eh en la",
+    "duration": 6120,
+    "offset": 252480,
+    "lang": "es"
+  },
+  {
+    "text": "pared y acá me responde, dice, \"Divido",
+    "duration": 4241,
+    "offset": 255759,
+    "lang": "es"
+  },
+  {
+    "text": "al efecto doppler, la frecuencia del",
+    "duration": 4480,
+    "offset": 258600,
+    "lang": "es"
+  },
+  {
+    "text": "sonido reflejado en la pared será mayor",
+    "duration": 4520,
+    "offset": 260000,
+    "lang": "es"
+  },
+  {
+    "text": "que",
+    "duration": 5800,
+    "offset": 263080,
+    "lang": "es"
+  },
+  {
+    "text": "f.\" Bien. Y a su vez lo que hace es esa",
+    "duration": 6399,
+    "offset": 264520,
+    "lang": "es"
+  },
+  {
+    "text": "información me dice que la guarda en la",
+    "duration": 4920,
+    "offset": 268880,
+    "lang": "es"
+  },
+  {
+    "text": "misma base de datos. O sea, a medida que",
+    "duration": 5000,
+    "offset": 270919,
+    "lang": "es"
+  },
+  {
+    "text": "yo voy interactuando, si lo corrigo y le",
+    "duration": 4399,
+    "offset": 273800,
+    "lang": "es"
+  },
+  {
+    "text": "digo, \"No, esto no es así. Mira, fíjate",
+    "duration": 3761,
+    "offset": 275919,
+    "lang": "es"
+  },
+  {
+    "text": "que",
+    "duration": 4801,
+    "offset": 278199,
+    "lang": "es"
+  },
+  {
+    "text": "también se produce un efecto de batido.",
+    "duration": 5480,
+    "offset": 279680,
+    "lang": "es"
+  },
+  {
+    "text": "Voy también realimentando y mejorando a",
+    "duration": 4120,
+    "offset": 283000,
+    "lang": "es"
+  },
+  {
+    "text": "la gente gracias a esa interacción",
+    "duration": 3840,
+    "offset": 285160,
+    "lang": "es"
+  },
+  {
+    "text": "online con la memoria",
+    "duration": 5440,
+    "offset": 287120,
+    "lang": "es"
+  },
+  {
+    "text": "semántica. M.",
+    "duration": 3560,
+    "offset": 289000,
+    "lang": "es"
+  }
+]

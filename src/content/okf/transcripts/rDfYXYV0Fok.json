@@ -1,0 +1,344 @@
+[
+  {
+    "text": "el siguiente y último algoritmo que",
+    "duration": 4039,
+    "offset": 2760,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver acuérdense que habíamos",
+    "duration": 3920,
+    "offset": 4960,
+    "lang": "es"
+  },
+  {
+    "text": "dicho que nosotros vamos a ver tres",
+    "duration": 5521,
+    "offset": 6799,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmos prxima pocy proximal policy",
+    "duration": 6719,
+    "offset": 8880,
+    "lang": "es"
+  },
+  {
+    "text": "optimization advantage actor critic y",
+    "duration": 7600,
+    "offset": 12320,
+    "lang": "es"
+  },
+  {
+    "text": "deq Network Recuerden que los algoritmos",
+    "duration": 6600,
+    "offset": 15599,
+    "lang": "es"
+  },
+  {
+    "text": "de aprendizaje por refuerzo son",
+    "duration": 4560,
+    "offset": 19920,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmos bastante",
+    "duration": 5801,
+    "offset": 22199,
+    "lang": "es"
+  },
+  {
+    "text": "complejos bastante complejos",
+    "duration": 6480,
+    "offset": 24480,
+    "lang": "es"
+  },
+  {
+    "text": "de de implementar",
+    "duration": 5360,
+    "offset": 28000,
+    "lang": "es"
+  },
+  {
+    "text": "algunos maximizan la política otros",
+    "duration": 4720,
+    "offset": 30960,
+    "lang": "es"
+  },
+  {
+    "text": "maximizan la función valor en particular",
+    "duration": 5480,
+    "offset": 33360,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver proximal policy optimization",
+    "duration": 6640,
+    "offset": 35680,
+    "lang": "es"
+  },
+  {
+    "text": "que es un caso particular de algoritmo",
+    "duration": 6280,
+    "offset": 38840,
+    "lang": "es"
+  },
+  {
+    "text": "de advantage actor",
+    "duration": 5440,
+    "offset": 42320,
+    "lang": "es"
+  },
+  {
+    "text": "critic Este es un algoritmo que al igual",
+    "duration": 4840,
+    "offset": 45120,
+    "lang": "es"
+  },
+  {
+    "text": "que los algoritmos de actor critic",
+    "duration": 5160,
+    "offset": 47760,
+    "lang": "es"
+  },
+  {
+    "text": "intenta maximizar la política pero lo",
+    "duration": 6680,
+    "offset": 49960,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene este es que",
+    "duration": 7119,
+    "offset": 52920,
+    "lang": "es"
+  },
+  {
+    "text": "tiene varias funciones que lo que",
+    "duration": 7160,
+    "offset": 56640,
+    "lang": "es"
+  },
+  {
+    "text": "intentan hacer es acortar las",
+    "duration": 6201,
+    "offset": 60039,
+    "lang": "es"
+  },
+  {
+    "text": "transiciones que se van realizando para",
+    "duration": 5480,
+    "offset": 63800,
+    "lang": "es"
+  },
+  {
+    "text": "ajustar la política de tal manera que",
+    "duration": 5199,
+    "offset": 66240,
+    "lang": "es"
+  },
+  {
+    "text": "permita movimientos más",
+    "duration": 4760,
+    "offset": 69280,
+    "lang": "es"
+  },
+  {
+    "text": "lentos si uno tiene que realizar por",
+    "duration": 4841,
+    "offset": 71439,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo el control de un robot que se",
+    "duration": 5759,
+    "offset": 74040,
+    "lang": "es"
+  },
+  {
+    "text": "mueve sobre un precipicio o sobre algo",
+    "duration": 6080,
+    "offset": 76280,
+    "lang": "es"
+  },
+  {
+    "text": "que de hacer un movimiento brusco puede",
+    "duration": 5241,
+    "offset": 79799,
+    "lang": "es"
+  },
+  {
+    "text": "generar un accidente lo ideal es este",
+    "duration": 4200,
+    "offset": 82360,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmo de proximal policy",
+    "duration": 3640,
+    "offset": 85040,
+    "lang": "es"
+  },
+  {
+    "text": "optimization es el algoritmo de",
+    "duration": 4480,
+    "offset": 86560,
+    "lang": "es"
+  },
+  {
+    "text": "aprendizaje por refuerzo",
+    "duration": 4719,
+    "offset": 88680,
+    "lang": "es"
+  },
+  {
+    "text": "que utilizando otro tipo de",
+    "duration": 4520,
+    "offset": 91040,
+    "lang": "es"
+  },
+  {
+    "text": "realimentación que no es automática como",
+    "duration": 3680,
+    "offset": 93399,
+    "lang": "es"
+  },
+  {
+    "text": "este sino que es la realimentación",
+    "duration": 6040,
+    "offset": 95560,
+    "lang": "es"
+  },
+  {
+    "text": "humana utiliza chat gpt vamos a verlo",
+    "duration": 6961,
+    "offset": 97079,
+    "lang": "es"
+  },
+  {
+    "text": "funcionar Recuerden que estos algoritmos",
+    "duration": 4760,
+    "offset": 101600,
+    "lang": "es"
+  },
+  {
+    "text": "están hechos sobre el entorno gimnasium",
+    "duration": 5399,
+    "offset": 104040,
+    "lang": "es"
+  },
+  {
+    "text": "que es un entorno propio de Open Ai y",
+    "duration": 5200,
+    "offset": 106360,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros después lo que vamos a ver es",
+    "duration": 4720,
+    "offset": 109439,
+    "lang": "es"
+  },
+  {
+    "text": "cómo usarlos en un entorno custom vamos",
+    "duration": 5559,
+    "offset": 111560,
+    "lang": "es"
+  },
+  {
+    "text": "a a explicar cómo usarlos en un entorno",
+    "duration": 4960,
+    "offset": 114159,
+    "lang": "es"
+  },
+  {
+    "text": "custom fíjense que acá Bueno tenemos un",
+    "duration": 3320,
+    "offset": 117119,
+    "lang": "es"
+  },
+  {
+    "text": "espacio de acción moverse hacia",
+    "duration": 3600,
+    "offset": 119119,
+    "lang": "es"
+  },
+  {
+    "text": "izquierda derecha el espacio de",
+    "duration": 4121,
+    "offset": 120439,
+    "lang": "es"
+  },
+  {
+    "text": "observación que es el ángulo el cual se",
+    "duration": 3400,
+    "offset": 122719,
+    "lang": "es"
+  },
+  {
+    "text": "mueve la",
+    "duration": 4280,
+    "offset": 124560,
+    "lang": "es"
+  },
+  {
+    "text": "eem la barra y lo que vemos Que en",
+    "duration": 4521,
+    "offset": 126119,
+    "lang": "es"
+  },
+  {
+    "text": "proximal policy",
+    "duration": 4360,
+    "offset": 128840,
+    "lang": "es"
+  },
+  {
+    "text": "optimization permite hacer más",
+    "duration": 5040,
+    "offset": 130640,
+    "lang": "es"
+  },
+  {
+    "text": "movimientos de la barra porque hace un",
+    "duration": 6679,
+    "offset": 133200,
+    "lang": "es"
+  },
+  {
+    "text": "mejor control sobre esas e oscilaciones",
+    "duration": 5800,
+    "offset": 135680,
+    "lang": "es"
+  },
+  {
+    "text": "esas pequeñas oscilaciones que están",
+    "duration": 3841,
+    "offset": 139879,
+    "lang": "es"
+  },
+  {
+    "text": "permitidas los otros es como que eran",
+    "duration": 4720,
+    "offset": 141480,
+    "lang": "es"
+  },
+  {
+    "text": "demasiado bruscos y acá vemos que tiene",
+    "duration": 4480,
+    "offset": 143720,
+    "lang": "es"
+  },
+  {
+    "text": "mayor amplitud la barra porque este",
+    "duration": 7080,
+    "offset": 146200,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmo lo controla mucho mejor",
+    "duration": 5080,
+    "offset": 148200,
+    "lang": "es"
+  }
+]

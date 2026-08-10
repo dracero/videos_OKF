@@ -1,0 +1,464 @@
+[
+  {
+    "text": "hasta ahora habíamos visto cómo utilizar",
+    "duration": 5041,
+    "offset": 599,
+    "lang": "es"
+  },
+  {
+    "text": "el aprendizaje por refuerzo en ambientes",
+    "duration": 5161,
+    "offset": 2879,
+    "lang": "es"
+  },
+  {
+    "text": "que estaban especialmente preparados",
+    "duration": 4039,
+    "offset": 5640,
+    "lang": "es"
+  },
+  {
+    "text": "para probar los algoritmos de",
+    "duration": 3280,
+    "offset": 8040,
+    "lang": "es"
+  },
+  {
+    "text": "aprendizaje por refuerzo como el",
+    "duration": 5561,
+    "offset": 9679,
+    "lang": "es"
+  },
+  {
+    "text": "ambiente gymnasium de Open Ai ahora qué",
+    "duration": 6200,
+    "offset": 11320,
+    "lang": "es"
+  },
+  {
+    "text": "es lo que sucede realmente a nosotros no",
+    "duration": 5160,
+    "offset": 15240,
+    "lang": "es"
+  },
+  {
+    "text": "nos resulta útil utilizarlo en ese",
+    "duration": 6679,
+    "offset": 17520,
+    "lang": "es"
+  },
+  {
+    "text": "ambiente que está encapsulado y que no",
+    "duration": 5600,
+    "offset": 20400,
+    "lang": "es"
+  },
+  {
+    "text": "puede utilizarse o reutilizarse en",
+    "duration": 5121,
+    "offset": 24199,
+    "lang": "es"
+  },
+  {
+    "text": "ningún tipo de aplicación útil que es",
+    "duration": 5080,
+    "offset": 26000,
+    "lang": "es"
+  },
+  {
+    "text": "simplemente para ver cómo funciona un",
+    "duration": 4440,
+    "offset": 29320,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmo a nosotros lo que nos interesa",
+    "duration": 4999,
+    "offset": 31080,
+    "lang": "es"
+  },
+  {
+    "text": "es poder utilizar los algoritmos de",
+    "duration": 5400,
+    "offset": 33760,
+    "lang": "es"
+  },
+  {
+    "text": "aprendizaje por refuerzo en un ambiente",
+    "duration": 6281,
+    "offset": 36079,
+    "lang": "es"
+  },
+  {
+    "text": "custom es decir en un ambiente",
+    "duration": 6120,
+    "offset": 39160,
+    "lang": "es"
+  },
+  {
+    "text": "personalizado Y eso es lo que vamos a",
+    "duration": 7240,
+    "offset": 42360,
+    "lang": "es"
+  },
+  {
+    "text": "hacer en este en este caso utilizando un",
+    "duration": 7720,
+    "offset": 45280,
+    "lang": "es"
+  },
+  {
+    "text": "juego que nos bajamos de la página de",
+    "duration": 6360,
+    "offset": 49600,
+    "lang": "es"
+  },
+  {
+    "text": "epig Game un juego sencillo que se llama",
+    "duration": 5680,
+    "offset": 53000,
+    "lang": "es"
+  },
+  {
+    "text": "space invaders este juego tengo una",
+    "duration": 4680,
+    "offset": 55960,
+    "lang": "es"
+  },
+  {
+    "text": "cierta una cierta cantidad de",
+    "duration": 5160,
+    "offset": 58680,
+    "lang": "es"
+  },
+  {
+    "text": "alienígenas y esos alienígenas Invasores",
+    "duration": 5000,
+    "offset": 60640,
+    "lang": "es"
+  },
+  {
+    "text": "los tengo que ir matando con disparos",
+    "duration": 3520,
+    "offset": 63840,
+    "lang": "es"
+  },
+  {
+    "text": "que hago con la barra espaciadora y",
+    "duration": 3960,
+    "offset": 65640,
+    "lang": "es"
+  },
+  {
+    "text": "movimientos de la nave hacia la",
+    "duration": 5000,
+    "offset": 67360,
+    "lang": "es"
+  },
+  {
+    "text": "izquierda y hacia la derecha lo que yo",
+    "duration": 5400,
+    "offset": 69600,
+    "lang": "es"
+  },
+  {
+    "text": "voy a hacer es tomar la biblioteca de",
+    "duration": 5560,
+    "offset": 72360,
+    "lang": "es"
+  },
+  {
+    "text": "stable basel 3 Por qué tomo la",
+    "duration": 4439,
+    "offset": 75000,
+    "lang": "es"
+  },
+  {
+    "text": "biblioteca porque implementar",
+    "duration": 3559,
+    "offset": 77920,
+    "lang": "es"
+  },
+  {
+    "text": "directamente los algoritmos de",
+    "duration": 5040,
+    "offset": 79439,
+    "lang": "es"
+  },
+  {
+    "text": "aprendizaje por refuerzos Es realmente",
+    "duration": 5000,
+    "offset": 81479,
+    "lang": "es"
+  },
+  {
+    "text": "complejo son complejos realmente los",
+    "duration": 5441,
+    "offset": 84479,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmos pero la biblioteca Stay",
+    "duration": 8680,
+    "offset": 86479,
+    "lang": "es"
+  },
+  {
+    "text": "stable basel 3 es mácara todo eso y lo",
+    "duration": 8440,
+    "offset": 89920,
+    "lang": "es"
+  },
+  {
+    "text": "otro que voy a hacer es a partir de de",
+    "duration": 5000,
+    "offset": 95159,
+    "lang": "es"
+  },
+  {
+    "text": "la observación del código del juego",
+    "duration": 4360,
+    "offset": 98360,
+    "lang": "es"
+  },
+  {
+    "text": "definir Cuál va a ser mi espacio de",
+    "duration": 7960,
+    "offset": 100159,
+    "lang": "es"
+  },
+  {
+    "text": "acción y mi espacio de observación y mi",
+    "duration": 5399,
+    "offset": 102720,
+    "lang": "es"
+  },
+  {
+    "text": "recompensa Entonces cuando vengo acá al",
+    "duration": 6040,
+    "offset": 108200,
+    "lang": "es"
+  },
+  {
+    "text": "juego veo que tengo la posibilidad de",
+    "duration": 7760,
+    "offset": 110920,
+    "lang": "es"
+  },
+  {
+    "text": "moverme eh con las Aris hacia la derecha",
+    "duration": 6479,
+    "offset": 114240,
+    "lang": "es"
+  },
+  {
+    "text": "hacia la izquierda y tengo para el",
+    "duration": 6079,
+    "offset": 118680,
+    "lang": "es"
+  },
+  {
+    "text": "disparo la barra espaciadora Ese es mi",
+    "duration": 5080,
+    "offset": 120719,
+    "lang": "es"
+  },
+  {
+    "text": "espacio",
+    "duration": 4961,
+    "offset": 124759,
+    "lang": "es"
+  },
+  {
+    "text": "de acción tengo tres grados de libertad",
+    "duration": 5681,
+    "offset": 125799,
+    "lang": "es"
+  },
+  {
+    "text": "en las acciones",
+    "duration": 6440,
+    "offset": 129720,
+    "lang": "es"
+  },
+  {
+    "text": "posibles Yo sé que puede ser que o mate",
+    "duration": 7479,
+    "offset": 131480,
+    "lang": "es"
+  },
+  {
+    "text": "un invasor en ese caso voy a dar una",
+    "duration": 6400,
+    "offset": 136160,
+    "lang": "es"
+  },
+  {
+    "text": "recompensa positiva o que El Invasor me",
+    "duration": 6161,
+    "offset": 138959,
+    "lang": "es"
+  },
+  {
+    "text": "choque a mí y en ese caso voy a dar una",
+    "duration": 5560,
+    "offset": 142560,
+    "lang": "es"
+  },
+  {
+    "text": "recompensa positiva o sea Esa es mi",
+    "duration": 5880,
+    "offset": 145120,
+    "lang": "es"
+  },
+  {
+    "text": "recompensa y después es el espacio de",
+    "duration": 7240,
+    "offset": 148120,
+    "lang": "es"
+  },
+  {
+    "text": "observación es decir qué observo qué Qué",
+    "duration": 6440,
+    "offset": 151000,
+    "lang": "es"
+  },
+  {
+    "text": "cosas tengo en cuenta para ver si el",
+    "duration": 3920,
+    "offset": 155360,
+    "lang": "es"
+  },
+  {
+    "text": "pasaje el siguiente estado fue bueno o",
+    "duration": 5840,
+    "offset": 157440,
+    "lang": "es"
+  },
+  {
+    "text": "fue malo bien el puntaje si yo me muevo",
+    "duration": 7080,
+    "offset": 159280,
+    "lang": "es"
+  },
+  {
+    "text": "y disparo y obtengo un punto positivo",
+    "duration": 5879,
+    "offset": 163280,
+    "lang": "es"
+  },
+  {
+    "text": "voy a observar que eso realmente es algo",
+    "duration": 5440,
+    "offset": 166360,
+    "lang": "es"
+  },
+  {
+    "text": "bueno que yo quiero Entonces eso forma",
+    "duration": 5080,
+    "offset": 169159,
+    "lang": "es"
+  },
+  {
+    "text": "parte de mi espacio de observación voy a",
+    "duration": 5159,
+    "offset": 171800,
+    "lang": "es"
+  },
+  {
+    "text": "estar observando el puntaje ahora",
+    "duration": 6401,
+    "offset": 174239,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense este código que está acá",
+    "duration": 6280,
+    "offset": 176959,
+    "lang": "es"
+  },
+  {
+    "text": "yo lo voy a",
+    "duration": 2599,
+    "offset": 180640,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 5340,
+    "offset": 184510,
+    "lang": "es"
+  },
+  {
+    "text": "ejecutar",
+    "duration": 4761,
+    "offset": 201599,
+    "lang": "es"
+  },
+  {
+    "text": "bien lo que voy a hacer ahora que es voy",
+    "duration": 3881,
+    "offset": 203239,
+    "lang": "es"
+  },
+  {
+    "text": "a",
+    "duration": 4200,
+    "offset": 206360,
+    "lang": "es"
+  },
+  {
+    "text": "traerme la biblioteca",
+    "duration": 8000,
+    "offset": 207120,
+    "lang": "es"
+  },
+  {
+    "text": "3 voy a tomar las clases que Define esa",
+    "duration": 8800,
+    "offset": 210560,
+    "lang": "es"
+  },
+  {
+    "text": "biblioteca voy a extender ese ese objeto",
+    "duration": 8160,
+    "offset": 215120,
+    "lang": "es"
+  },
+  {
+    "text": "a este código y voy a empezar a utilizar",
+    "duration": 6280,
+    "offset": 219360,
+    "lang": "es"
+  },
+  {
+    "text": "el espacio de acción y el espacio de",
+    "duration": 4480,
+    "offset": 223280,
+    "lang": "es"
+  },
+  {
+    "text": "observaciones para",
+    "duration": 5360,
+    "offset": 225640,
+    "lang": "es"
+  },
+  {
+    "text": "reemplazar a esta parte que es la parte",
+    "duration": 6600,
+    "offset": 227760,
+    "lang": "es"
+  },
+  {
+    "text": "que maneja el juego y a la parte que",
+    "duration": 7280,
+    "offset": 231000,
+    "lang": "es"
+  },
+  {
+    "text": "asigna los puntajes",
+    "duration": 3920,
+    "offset": 234360,
+    "lang": "es"
+  }
+]

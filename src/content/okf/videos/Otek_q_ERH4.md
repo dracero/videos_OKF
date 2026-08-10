@@ -4,7 +4,7 @@ title: "Ver estadísticas de Google Analytics y Google Ads con Google Data Studi
 description: "Vamos a ver cómo hacer par leer los informes de Google Data Studio."
 resource: "https://www.youtube.com/watch?v=Otek_q_ERH4"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-02T00:21:58.271Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:48.064Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"
@@ -18,7 +18,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-02"
+    last_modified: "2026-08-10"
   - id: channel-concept
     resource: "src/content/okf/channels/UCx1KkYmHhghhGFgA7VP2aWQ.md"
     title: "Channel: Diego Racero"

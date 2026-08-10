@@ -1,0 +1,188 @@
+[
+  {
+    "text": "Vamos a mostrar cómo interactuar",
+    "duration": 4199,
+    "offset": 1680,
+    "lang": "es"
+  },
+  {
+    "text": "directamente desde Visual Studio Code",
+    "duration": 4000,
+    "offset": 3640,
+    "lang": "es"
+  },
+  {
+    "text": "con herramientas de Atlacian. ¿Para qué",
+    "duration": 3441,
+    "offset": 5879,
+    "lang": "es"
+  },
+  {
+    "text": "nos va a servir esto?",
+    "duration": 4280,
+    "offset": 7640,
+    "lang": "es"
+  },
+  {
+    "text": "Primero, para realizar todo el trabajo",
+    "duration": 5000,
+    "offset": 9320,
+    "lang": "es"
+  },
+  {
+    "text": "necesario con herramientas de girira y",
+    "duration": 4279,
+    "offset": 11920,
+    "lang": "es"
+  },
+  {
+    "text": "segundo para realizar todo el trabajo",
+    "duration": 4039,
+    "offset": 14320,
+    "lang": "es"
+  },
+  {
+    "text": "necesario con confluence. Acá, por",
+    "duration": 5601,
+    "offset": 16199,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo, tenemos este ritm.tx, tx este",
+    "duration": 6321,
+    "offset": 18359,
+    "lang": "es"
+  },
+  {
+    "text": "remin.md que habíamos generado",
+    "duration": 6479,
+    "offset": 21800,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando el mcp server de playrhtght y",
+    "duration": 6879,
+    "offset": 24680,
+    "lang": "es"
+  },
+  {
+    "text": "ahora vamos a usar el SM el mcp server",
+    "duration": 5721,
+    "offset": 28279,
+    "lang": "es"
+  },
+  {
+    "text": "de e",
+    "duration": 5241,
+    "offset": 31559,
+    "lang": "es"
+  },
+  {
+    "text": "Atlasian para interactuar con",
+    "duration": 4520,
+    "offset": 34000,
+    "lang": "es"
+  },
+  {
+    "text": "confluence. ¿Qué es lo que le vamos a",
+    "duration": 3919,
+    "offset": 36800,
+    "lang": "es"
+  },
+  {
+    "text": "pedir? Le vamos a pedir que",
+    "duration": 5080,
+    "offset": 38520,
+    "lang": "es"
+  },
+  {
+    "text": "cambie el nombre de una página que se",
+    "duration": 6680,
+    "offset": 40719,
+    "lang": "es"
+  },
+  {
+    "text": "llamaba ADK Test y le ponga",
+    "duration": 7279,
+    "offset": 43600,
+    "lang": "es"
+  },
+  {
+    "text": "conversational agent. Lo ejecutamos. nos",
+    "duration": 6721,
+    "offset": 47399,
+    "lang": "es"
+  },
+  {
+    "text": "dice que ya lo cambió. Y ahora vamos a",
+    "duration": 6520,
+    "offset": 50879,
+    "lang": "es"
+  },
+  {
+    "text": "ver la",
+    "duration": 3279,
+    "offset": 54120,
+    "lang": "es"
+  },
+  {
+    "text": "página acá. Fíjense, ADK test. Vamos a",
+    "duration": 5281,
+    "offset": 57559,
+    "lang": "es"
+  },
+  {
+    "text": "recargar. Fíjense que ahora se llama",
+    "duration": 4881,
+    "offset": 63479,
+    "lang": "es"
+  },
+  {
+    "text": "conversational agent. ¿Y qué es lo que",
+    "duration": 4640,
+    "offset": 65920,
+    "lang": "es"
+  },
+  {
+    "text": "hicimos? Le dijimos que en esa página",
+    "duration": 4399,
+    "offset": 68360,
+    "lang": "es"
+  },
+  {
+    "text": "pusiera el contenido del",
+    "duration": 5199,
+    "offset": 70560,
+    "lang": "es"
+  },
+  {
+    "text": "RMI.md. O sea, acá tenemos ya toda la",
+    "duration": 5801,
+    "offset": 72759,
+    "lang": "es"
+  },
+  {
+    "text": "documentación y el RMI.m.",
+    "duration": 5481,
+    "offset": 75759,
+    "lang": "es"
+  },
+  {
+    "text": "directamente simplemente con apretar un",
+    "duration": 5440,
+    "offset": 78560,
+    "lang": "es"
+  },
+  {
+    "text": "botón y mandarlo a",
+    "duration": 7239,
+    "offset": 81240,
+    "lang": "es"
+  },
+  {
+    "text": "e al confluence.",
+    "duration": 4479,
+    "offset": 84000,
+    "lang": "es"
+  }
+]

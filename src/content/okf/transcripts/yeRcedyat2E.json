@@ -1,0 +1,242 @@
+[
+  {
+    "text": "Bueno vamos a ver un ejemplo de",
+    "duration": 7020,
+    "offset": 420,
+    "lang": "es"
+  },
+  {
+    "text": "rag vamos a preguntarle por ejemplo con",
+    "duration": 6341,
+    "offset": 3319,
+    "lang": "es"
+  },
+  {
+    "text": "cuántas cifras significativas se puede",
+    "duration": 6140,
+    "offset": 7440,
+    "lang": "es"
+  },
+  {
+    "text": "expresar la incerteza en una medición",
+    "duration": 3920,
+    "offset": 9660,
+    "lang": "es"
+  },
+  {
+    "text": "depende de la precisión de la misión el",
+    "duration": 4140,
+    "offset": 34860,
+    "lang": "es"
+  },
+  {
+    "text": "nivel de incertidumbre o sea acá nos da",
+    "duration": 4520,
+    "offset": 37320,
+    "lang": "es"
+  },
+  {
+    "text": "algo general que busca en",
+    "duration": 5640,
+    "offset": 39000,
+    "lang": "es"
+  },
+  {
+    "text": "alguno de los Corpus que él ya tiene",
+    "duration": 6239,
+    "offset": 41840,
+    "lang": "es"
+  },
+  {
+    "text": "introducido Ahora qué pasa si nosotros",
+    "duration": 7439,
+    "offset": 44640,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos rag que es hacer rack decirle",
+    "duration": 8081,
+    "offset": 48079,
+    "lang": "es"
+  },
+  {
+    "text": "que busque en un texto específico",
+    "duration": 6781,
+    "offset": 52079,
+    "lang": "es"
+  },
+  {
+    "text": "generalmente se puede hacer en algunos",
+    "duration": 7520,
+    "offset": 56160,
+    "lang": "es"
+  },
+  {
+    "text": "chats que son pagos en forma automática",
+    "duration": 4820,
+    "offset": 58860,
+    "lang": "es"
+  },
+  {
+    "text": "pero",
+    "duration": 4081,
+    "offset": 64379,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros podemos hacerlo ahora en forma",
+    "duration": 5079,
+    "offset": 65900,
+    "lang": "es"
+  },
+  {
+    "text": "manual dándole el link a donde queremos",
+    "duration": 4940,
+    "offset": 68460,
+    "lang": "es"
+  },
+  {
+    "text": "que busque Entonces le decimos",
+    "duration": 7281,
+    "offset": 70979,
+    "lang": "es"
+  },
+  {
+    "text": "exactamente la misma pregunta que acá",
+    "duration": 4860,
+    "offset": 73400,
+    "lang": "es"
+  },
+  {
+    "text": "con cuántas cifras significativas tiene",
+    "duration": 7560,
+    "offset": 80280,
+    "lang": "es"
+  },
+  {
+    "text": "que expresarse la incerteza en una",
+    "duration": 6601,
+    "offset": 84479,
+    "lang": "es"
+  },
+  {
+    "text": "medición según",
+    "duration": 3240,
+    "offset": 87840,
+    "lang": "es"
+  },
+  {
+    "text": "lo indicado",
+    "duration": 7480,
+    "offset": 92240,
+    "lang": "es"
+  },
+  {
+    "text": "en el texto del siguiente link que es el",
+    "duration": 7719,
+    "offset": 94400,
+    "lang": "es"
+  },
+  {
+    "text": "texto de la práctica de mediciones e",
+    "duration": 4800,
+    "offset": 99720,
+    "lang": "es"
+  },
+  {
+    "text": "incertezas que hacemos en física 1 en la",
+    "duration": 4801,
+    "offset": 102119,
+    "lang": "es"
+  },
+  {
+    "text": "Facultad de ingeniería ahí le",
+    "duration": 4700,
+    "offset": 104520,
+    "lang": "es"
+  },
+  {
+    "text": "preguntamos",
+    "duration": 2300,
+    "offset": 106920,
+    "lang": "es"
+  },
+  {
+    "text": "con una cantidad igual a la cantidad de",
+    "duration": 5020,
+    "offset": 113720,
+    "lang": "es"
+  },
+  {
+    "text": "decimales enteza estándar además el",
+    "duration": 3300,
+    "offset": 116700,
+    "lang": "es"
+  },
+  {
+    "text": "resultado final de la misión también se",
+    "duration": 3000,
+    "offset": 118740,
+    "lang": "es"
+  },
+  {
+    "text": "exprese con la misma cantidad de cifras",
+    "duration": 4740,
+    "offset": 120000,
+    "lang": "es"
+  },
+  {
+    "text": "significativas Qué hizo acá en cambio de",
+    "duration": 6780,
+    "offset": 121740,
+    "lang": "es"
+  },
+  {
+    "text": "darnos algo genérico",
+    "duration": 6480,
+    "offset": 124740,
+    "lang": "es"
+  },
+  {
+    "text": "depende de la precisión y demás acá lo",
+    "duration": 6960,
+    "offset": 128520,
+    "lang": "es"
+  },
+  {
+    "text": "que nos dice es lo que está indicando el",
+    "duration": 6780,
+    "offset": 131220,
+    "lang": "es"
+  },
+  {
+    "text": "texto de la cátedra nos hace una",
+    "duration": 4860,
+    "offset": 135480,
+    "lang": "es"
+  },
+  {
+    "text": "traducción nos hace una explicación de",
+    "duration": 5040,
+    "offset": 138000,
+    "lang": "es"
+  },
+  {
+    "text": "lo que indica el texto de la cátedra se",
+    "duration": 6000,
+    "offset": 140340,
+    "lang": "es"
+  },
+  {
+    "text": "ajusta al Corpus de lo que es figura en",
+    "duration": 5660,
+    "offset": 143040,
+    "lang": "es"
+  },
+  {
+    "text": "este texto",
+    "duration": 2360,
+    "offset": 146340,
+    "lang": "es"
+  }
+]

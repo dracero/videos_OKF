@@ -1,0 +1,626 @@
+[
+  {
+    "text": "[Música]",
+    "duration": 8979,
+    "offset": 740,
+    "lang": "es"
+  },
+  {
+    "text": "ahora que ya tenemos lanflow",
+    "duration": 5240,
+    "offset": 7160,
+    "lang": "es"
+  },
+  {
+    "text": "corriendo podemos crear nuestro primer",
+    "duration": 6400,
+    "offset": 9719,
+    "lang": "es"
+  },
+  {
+    "text": "proyecto usando rar para eso vamos a",
+    "duration": 6959,
+    "offset": 12400,
+    "lang": "es"
+  },
+  {
+    "text": "hacer clic en New project y acá elegir",
+    "duration": 5441,
+    "offset": 16119,
+    "lang": "es"
+  },
+  {
+    "text": "uno de los templates que ya nos da l",
+    "duration": 5680,
+    "offset": 19359,
+    "lang": "es"
+  },
+  {
+    "text": "Flow vamos a usar vector Store",
+    "duration": 6360,
+    "offset": 21560,
+    "lang": "es"
+  },
+  {
+    "text": "rap Esperamos que cargue y acá vamos a",
+    "duration": 6921,
+    "offset": 25039,
+    "lang": "es"
+  },
+  {
+    "text": "poder ver el Flow que nos da",
+    "duration": 4040,
+    "offset": 27920,
+    "lang": "es"
+  },
+  {
+    "text": "lf vamos a ir primero al de acá abajo",
+    "duration": 6439,
+    "offset": 32120,
+    "lang": "es"
+  },
+  {
+    "text": "que es para cargar los datos en una base",
+    "duration": 6120,
+    "offset": 35360,
+    "lang": "es"
+  },
+  {
+    "text": "de datos vectorial lo primero AC se",
+    "duration": 6520,
+    "offset": 38559,
+    "lang": "es"
+  },
+  {
+    "text": "elige el archivo que queres",
+    "duration": 7079,
+    "offset": 41480,
+    "lang": "es"
+  },
+  {
+    "text": "usar y acá vamos a sacar este los ined",
+    "duration": 7160,
+    "offset": 45079,
+    "lang": "es"
+  },
+  {
+    "text": "de Open Ai para usarlos de olama para",
+    "duration": 6201,
+    "offset": 48559,
+    "lang": "es"
+  },
+  {
+    "text": "eso buscamos en la barra AC acostado y",
+    "duration": 5960,
+    "offset": 52239,
+    "lang": "es"
+  },
+  {
+    "text": "nos va a aparecer",
+    "duration": 3439,
+    "offset": 54760,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces esta conexión la vamos a sacar",
+    "duration": 8080,
+    "offset": 60640,
+    "lang": "es"
+  },
+  {
+    "text": "y vamos a conectar la lama en base al de",
+    "duration": 6599,
+    "offset": 63840,
+    "lang": "es"
+  },
+  {
+    "text": "la base de",
+    "duration": 4800,
+    "offset": 68720,
+    "lang": "es"
+  },
+  {
+    "text": "datos en este caso El ejemplo usa Astra",
+    "duration": 5881,
+    "offset": 70439,
+    "lang": "es"
+  },
+  {
+    "text": "deb pero nosotros vamos a usar",
+    "duration": 6639,
+    "offset": 73520,
+    "lang": "es"
+  },
+  {
+    "text": "croma Así que también voy a cambiar",
+    "duration": 7000,
+    "offset": 76320,
+    "lang": "es"
+  },
+  {
+    "text": "este y este también lo",
+    "duration": 7600,
+    "offset": 80159,
+    "lang": "es"
+  },
+  {
+    "text": "sacamos y acá de nuevo buscamos",
+    "duration": 4439,
+    "offset": 83320,
+    "lang": "es"
+  },
+  {
+    "text": "chroma y y conectamos en los embs que",
+    "duration": 8720,
+    "offset": 88200,
+    "lang": "es"
+  },
+  {
+    "text": "generado Lama a",
+    "duration": 7400,
+    "offset": 92520,
+    "lang": "es"
+  },
+  {
+    "text": "chroma y Acá hay que volver a conectar",
+    "duration": 6760,
+    "offset": 96920,
+    "lang": "es"
+  },
+  {
+    "text": "los el texto que se separa en chuns en",
+    "duration": 6600,
+    "offset": 99920,
+    "lang": "es"
+  },
+  {
+    "text": "pedacitos lo vamos a conectar a los",
+    "duration": 6560,
+    "offset": 103680,
+    "lang": "es"
+  },
+  {
+    "text": "datos que recibe",
+    "duration": 3720,
+    "offset": 106520,
+    "lang": "es"
+  },
+  {
+    "text": "chroma además en el bloque de olama",
+    "duration": 5439,
+    "offset": 111680,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que configurar el modelo que",
+    "duration": 4840,
+    "offset": 115040,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a usar yo en este caso voy a usar",
+    "duration": 6081,
+    "offset": 117119,
+    "lang": "es"
+  },
+  {
+    "text": "en nomic m text que es el que habíamos",
+    "duration": 4480,
+    "offset": 119880,
+    "lang": "es"
+  },
+  {
+    "text": "instalado",
+    "duration": 4680,
+    "offset": 123200,
+    "lang": "es"
+  },
+  {
+    "text": "antes y ahora lo único que falta es",
+    "duration": 6760,
+    "offset": 124360,
+    "lang": "es"
+  },
+  {
+    "text": "elegir el archivo que se quiere usar",
+    "duration": 7280,
+    "offset": 127880,
+    "lang": "es"
+  },
+  {
+    "text": "para después dividir en pedacitos y el",
+    "duration": 6360,
+    "offset": 131120,
+    "lang": "es"
+  },
+  {
+    "text": "directorio donde se va a guardar los",
+    "duration": 4760,
+    "offset": 135160,
+    "lang": "es"
+  },
+  {
+    "text": "datos de la base de",
+    "duration": 4920,
+    "offset": 137480,
+    "lang": "es"
+  },
+  {
+    "text": "datos ahora ya podemos pasar al",
+    "duration": 5640,
+    "offset": 139920,
+    "lang": "es"
+  },
+  {
+    "text": "siguiente Flow que es donde vamos a",
+    "duration": 6080,
+    "offset": 142400,
+    "lang": "es"
+  },
+  {
+    "text": "estar recibiendo el input del chat para",
+    "duration": 4679,
+    "offset": 145560,
+    "lang": "es"
+  },
+  {
+    "text": "después",
+    "duration": 3119,
+    "offset": 148480,
+    "lang": "es"
+  },
+  {
+    "text": "enviar una",
+    "duration": 3841,
+    "offset": 150239,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta estos dos bloques son los que",
+    "duration": 5041,
+    "offset": 151599,
+    "lang": "es"
+  },
+  {
+    "text": "manejan en el chat acá en el playground",
+    "duration": 4200,
+    "offset": 154080,
+    "lang": "es"
+  },
+  {
+    "text": "de l",
+    "duration": 5000,
+    "offset": 156640,
+    "lang": "es"
+  },
+  {
+    "text": "Flow y lo que vamos a hacer ahora es",
+    "duration": 6039,
+    "offset": 158280,
+    "lang": "es"
+  },
+  {
+    "text": "cambiar estos dos bloques que eran",
+    "duration": 5679,
+    "offset": 161640,
+    "lang": "es"
+  },
+  {
+    "text": "parecidos al del Flow anterior acá en",
+    "duration": 6121,
+    "offset": 164319,
+    "lang": "es"
+  },
+  {
+    "text": "vez de usar Open vamos a usar olama y",
+    "duration": 6721,
+    "offset": 167319,
+    "lang": "es"
+  },
+  {
+    "text": "acá en vez de Astra croma",
+    "duration": 7240,
+    "offset": 170440,
+    "lang": "es"
+  },
+  {
+    "text": "deb Entonces lo sacamos y se pueden",
+    "duration": 6119,
+    "offset": 174040,
+    "lang": "es"
+  },
+  {
+    "text": "copiar los dos bloques que teníamos acá",
+    "duration": 6440,
+    "offset": 177680,
+    "lang": "es"
+  },
+  {
+    "text": "bajo este y",
+    "duration": 3961,
+    "offset": 180159,
+    "lang": "es"
+  },
+  {
+    "text": "este y acá",
+    "duration": 6679,
+    "offset": 192640,
+    "lang": "es"
+  },
+  {
+    "text": "conectamos el mensaje a la Search query",
+    "duration": 7201,
+    "offset": 195239,
+    "lang": "es"
+  },
+  {
+    "text": "de chroma y vamos a tener que conectar",
+    "duration": 6920,
+    "offset": 199319,
+    "lang": "es"
+  },
+  {
+    "text": "como antes los inedis de olama a los",
+    "duration": 5320,
+    "offset": 202440,
+    "lang": "es"
+  },
+  {
+    "text": "inedis de",
+    "duration": 4801,
+    "offset": 206239,
+    "lang": "es"
+  },
+  {
+    "text": "croma tienen que hacer urse que acá el",
+    "duration": 7160,
+    "offset": 207760,
+    "lang": "es"
+  },
+  {
+    "text": "directory sea el mismo que en el que el",
+    "duration": 6000,
+    "offset": 211040,
+    "lang": "es"
+  },
+  {
+    "text": "Flow de",
+    "duration": 5560,
+    "offset": 214920,
+    "lang": "es"
+  },
+  {
+    "text": "abajo y ahora los Search results Tienen",
+    "duration": 6360,
+    "offset": 217040,
+    "lang": "es"
+  },
+  {
+    "text": "que llegar a los",
+    "duration": 6399,
+    "offset": 220480,
+    "lang": "es"
+  },
+  {
+    "text": "datos Esto va a parar los datos para",
+    "duration": 6399,
+    "offset": 223400,
+    "lang": "es"
+  },
+  {
+    "text": "convertirlo en un",
+    "duration": 2920,
+    "offset": 226879,
+    "lang": "es"
+  },
+  {
+    "text": "template acá nosotros necesitamos poner",
+    "duration": 5840,
+    "offset": 230280,
+    "lang": "es"
+  },
+  {
+    "text": "un template según el modelo que vayamos",
+    "duration": 5880,
+    "offset": 233480,
+    "lang": "es"
+  },
+  {
+    "text": "a elegir acá no vamos a usar Open sino",
+    "duration": 6440,
+    "offset": 236120,
+    "lang": "es"
+  },
+  {
+    "text": "que usar haing Face buscamos el bloque",
+    "duration": 4519,
+    "offset": 239360,
+    "lang": "es"
+  },
+  {
+    "text": "al",
+    "duration": 6440,
+    "offset": 242560,
+    "lang": "es"
+  },
+  {
+    "text": "costado y elegimos el de hing",
+    "duration": 5121,
+    "offset": 243879,
+    "lang": "es"
+  },
+  {
+    "text": "Face acá nos va a pedir que pongamos el",
+    "duration": 6240,
+    "offset": 251519,
+    "lang": "es"
+  },
+  {
+    "text": "ID del modelo nosotros vamos a usar el",
+    "duration": 4920,
+    "offset": 254760,
+    "lang": "es"
+  },
+  {
+    "text": "de Mistral",
+    "duration": 5601,
+    "offset": 257759,
+    "lang": "es"
+  },
+  {
+    "text": "Ai y acá completamos con el Api token",
+    "duration": 6920,
+    "offset": 259680,
+    "lang": "es"
+  },
+  {
+    "text": "que nos da hf una vez que completamos el",
+    "duration": 6000,
+    "offset": 263360,
+    "lang": "es"
+  },
+  {
+    "text": "bloque H Face tenemos que conectarlo al",
+    "duration": 5920,
+    "offset": 266600,
+    "lang": "es"
+  },
+  {
+    "text": "blo de prom hay que conectar el prom",
+    "duration": 6080,
+    "offset": 269360,
+    "lang": "es"
+  },
+  {
+    "text": "message al input que recibe el bloque",
+    "duration": 5280,
+    "offset": 272520,
+    "lang": "es"
+  },
+  {
+    "text": "ahora continuamos conectando el output",
+    "duration": 5479,
+    "offset": 275440,
+    "lang": "es"
+  },
+  {
+    "text": "del bloque hf al input que recibe el",
+    "duration": 5839,
+    "offset": 277800,
+    "lang": "es"
+  },
+  {
+    "text": "bloque chat output lo último que nos",
+    "duration": 5161,
+    "offset": 280919,
+    "lang": "es"
+  },
+  {
+    "text": "falta es actualizar el prompt cada",
+    "duration": 5280,
+    "offset": 283639,
+    "lang": "es"
+  },
+  {
+    "text": "modelo Tiene un template para mandar los",
+    "duration": 6200,
+    "offset": 286080,
+    "lang": "es"
+  },
+  {
+    "text": "mensajes y acá podemos enviar la",
+    "duration": 6401,
+    "offset": 288919,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta así como también el contexto el",
+    "duration": 5479,
+    "offset": 292280,
+    "lang": "es"
+  },
+  {
+    "text": "contexto es el archivo que nosotros",
+    "duration": 5680,
+    "offset": 295320,
+    "lang": "es"
+  },
+  {
+    "text": "guardamos en la base de datos que se",
+    "duration": 5641,
+    "offset": 297759,
+    "lang": "es"
+  },
+  {
+    "text": "guardó como vectores y acá va a estar",
+    "duration": 4840,
+    "offset": 301000,
+    "lang": "es"
+  },
+  {
+    "text": "recibiendo esa información para poder",
+    "duration": 4799,
+    "offset": 303400,
+    "lang": "es"
+  },
+  {
+    "text": "contestar la pregunta Nosotros también",
+    "duration": 4440,
+    "offset": 305840,
+    "lang": "es"
+  },
+  {
+    "text": "le indicamos que en caso de que la",
+    "duration": 5201,
+    "offset": 308199,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta no se acorde al contexto Que",
+    "duration": 5960,
+    "offset": 310280,
+    "lang": "es"
+  },
+  {
+    "text": "responda que esa pregunta no es acorde",
+    "duration": 6280,
+    "offset": 313400,
+    "lang": "es"
+  },
+  {
+    "text": "al contexto y así es como ya finalizamos",
+    "duration": 8200,
+    "offset": 316240,
+    "lang": "es"
+  },
+  {
+    "text": "el segundo Flow en l Flow y podríamos",
+    "duration": 7760,
+    "offset": 319680,
+    "lang": "es"
+  },
+  {
+    "text": "usar el playground para verificar que",
+    "duration": 5479,
+    "offset": 324440,
+    "lang": "es"
+  },
+  {
+    "text": "todo está funcionando",
+    "duration": 5479,
+    "offset": 327440,
+    "lang": "es"
+  },
+  {
+    "text": "ch",
+    "duration": 3000,
+    "offset": 329919,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 6599,
+    "offset": 334740,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "text": "bueno como la idea que tenemos es la de",
+    "duration": 6600,
+    "offset": 1040,
+    "lang": "es"
+  },
+  {
+    "text": "construir un agentic rag lo que vamos a",
+    "duration": 6560,
+    "offset": 3600,
+    "lang": "es"
+  },
+  {
+    "text": "hacer como ya tenemos una aplicación de",
+    "duration": 5520,
+    "offset": 7640,
+    "lang": "es"
+  },
+  {
+    "text": "rag que responde sobre las consultas de",
+    "duration": 6000,
+    "offset": 10160,
+    "lang": "es"
+  },
+  {
+    "text": "materias que es un rag multimodal y una",
+    "duration": 6000,
+    "offset": 13160,
+    "lang": "es"
+  },
+  {
+    "text": "aplicación de rag que responde sobre",
+    "duration": 5320,
+    "offset": 16160,
+    "lang": "es"
+  },
+  {
+    "text": "consultas administrativas que es un graf",
+    "duration": 5640,
+    "offset": 19160,
+    "lang": "es"
+  },
+  {
+    "text": "rag lo que hacemos ahora es definir un",
+    "duration": 6760,
+    "offset": 21480,
+    "lang": "es"
+  },
+  {
+    "text": "agente un Crew de Crew Ai que posee tres",
+    "duration": 8160,
+    "offset": 24800,
+    "lang": "es"
+  },
+  {
+    "text": "agentes un agente se va dedicar a",
+    "duration": 8319,
+    "offset": 28240,
+    "lang": "es"
+  },
+  {
+    "text": "clasificar si la consulta es una",
+    "duration": 6040,
+    "offset": 32960,
+    "lang": "es"
+  },
+  {
+    "text": "consulta administrativa o una consulta",
+    "duration": 5000,
+    "offset": 36559,
+    "lang": "es"
+  },
+  {
+    "text": "técnica que le llamamos no",
+    "duration": 4960,
+    "offset": 39000,
+    "lang": "es"
+  },
+  {
+    "text": "administrativa",
+    "duration": 4801,
+    "offset": 41559,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces si la consulta es",
+    "duration": 5919,
+    "offset": 43960,
+    "lang": "es"
+  },
+  {
+    "text": "administrativa va a disparar al agente",
+    "duration": 6160,
+    "offset": 46360,
+    "lang": "es"
+  },
+  {
+    "text": "administrativo que va a llamar para",
+    "duration": 4801,
+    "offset": 49879,
+    "lang": "es"
+  },
+  {
+    "text": "responder la consulta administrativa Y",
+    "duration": 4600,
+    "offset": 52520,
+    "lang": "es"
+  },
+  {
+    "text": "si la consulta es una consulta técnica",
+    "duration": 4839,
+    "offset": 54680,
+    "lang": "es"
+  },
+  {
+    "text": "va a llamar al agente técnico que tiene",
+    "duration": 4919,
+    "offset": 57120,
+    "lang": "es"
+  },
+  {
+    "text": "a a su cargo responder todas las dudas",
+    "duration": 4600,
+    "offset": 59519,
+    "lang": "es"
+  },
+  {
+    "text": "de materias o que va a ir al graf rack",
+    "duration": 5161,
+    "offset": 62039,
+    "lang": "es"
+  },
+  {
+    "text": "de materias Perdón al rack multimodal de",
+    "duration": 5360,
+    "offset": 64119,
+    "lang": "es"
+  },
+  {
+    "text": "materias y el otro va a ir al gras rack",
+    "duration": 5640,
+    "offset": 67200,
+    "lang": "es"
+  },
+  {
+    "text": "bien Vamos a",
+    "duration": 7361,
+    "offset": 69479,
+    "lang": "es"
+  },
+  {
+    "text": "darle entonces acá le pregunto",
+    "duration": 7440,
+    "offset": 72840,
+    "lang": "es"
+  },
+  {
+    "text": "cómo hago",
+    "duration": 8120,
+    "offset": 76840,
+    "lang": "es"
+  },
+  {
+    "text": "para cursar dos",
+    "duration": 4680,
+    "offset": 80280,
+    "lang": "es"
+  },
+  {
+    "text": "carreras al mismo tiempo lo único que",
+    "duration": 5640,
+    "offset": 87680,
+    "lang": "es"
+  },
+  {
+    "text": "queremos que la gente clasifique y mande",
+    "duration": 4560,
+    "offset": 90640,
+    "lang": "es"
+  },
+  {
+    "text": "el tópico al agente administrativo que",
+    "duration": 4920,
+    "offset": 93320,
+    "lang": "es"
+  },
+  {
+    "text": "ese tópico es el que después va a ir al",
+    "duration": 7040,
+    "offset": 95200,
+    "lang": "es"
+  },
+  {
+    "text": "rag fíjense que acá ya lo clasificó como",
+    "duration": 4720,
+    "offset": 98240,
+    "lang": "es"
+  },
+  {
+    "text": "un",
+    "duration": 3680,
+    "offset": 102240,
+    "lang": "es"
+  },
+  {
+    "text": "problema administrativo el clasificador",
+    "duration": 5600,
+    "offset": 102960,
+    "lang": "es"
+  },
+  {
+    "text": "de entradas de usuario dice Bueno es un",
+    "duration": 5239,
+    "offset": 105920,
+    "lang": "es"
+  },
+  {
+    "text": "problema administrativo y acá ya",
+    "duration": 5080,
+    "offset": 108560,
+    "lang": "es"
+  },
+  {
+    "text": "respondió el agente administrativo es",
+    "duration": 3960,
+    "offset": 111159,
+    "lang": "es"
+  },
+  {
+    "text": "simplemente un resultado de",
+    "duration": 3519,
+    "offset": 113640,
+    "lang": "es"
+  },
+  {
+    "text": "procesamiento pero bien Es para ver si",
+    "duration": 6081,
+    "offset": 115119,
+    "lang": "es"
+  },
+  {
+    "text": "clasifica bien pero importante que el",
+    "duration": 7880,
+    "offset": 117159,
+    "lang": "es"
+  },
+  {
+    "text": "tópico el el el tópico es",
+    "duration": 7839,
+    "offset": 121200,
+    "lang": "es"
+  },
+  {
+    "text": "e el tópico llega nosotros acá están ven",
+    "duration": 5601,
+    "offset": 125039,
+    "lang": "es"
+  },
+  {
+    "text": "cómo hago para cursar dos carreras al",
+    "duration": 3001,
+    "offset": 129039,
+    "lang": "es"
+  },
+  {
+    "text": "mismo tiempo",
+    "duration": 4440,
+    "offset": 130640,
+    "lang": "es"
+  },
+  {
+    "text": "eh es importante que llegue el tópico",
+    "duration": 4680,
+    "offset": 132040,
+    "lang": "es"
+  },
+  {
+    "text": "porque ese es el que después nosotros",
+    "duration": 4080,
+    "offset": 135080,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a usar como nuestro prompt para la",
+    "duration": 5519,
+    "offset": 136720,
+    "lang": "es"
+  },
+  {
+    "text": "aplicación de graf rack administrativa Y",
+    "duration": 8120,
+    "offset": 139160,
+    "lang": "es"
+  },
+  {
+    "text": "ahora qué pasa si le digo",
+    "duration": 5041,
+    "offset": 142239,
+    "lang": "es"
+  },
+  {
+    "text": "este cómo hago para",
+    "duration": 9000,
+    "offset": 148000,
+    "lang": "es"
+  },
+  {
+    "text": "Hallar el centro",
+    "duration": 5560,
+    "offset": 153560,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 6280,
+    "offset": 157000,
+    "lang": "es"
+  },
+  {
+    "text": "percusión en un",
+    "duration": 7000,
+    "offset": 159120,
+    "lang": "es"
+  },
+  {
+    "text": "cilindro fíjense ahí le hice una",
+    "duration": 5280,
+    "offset": 163280,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta de una materia enseguida dijo",
+    "duration": 3680,
+    "offset": 166120,
+    "lang": "es"
+  },
+  {
+    "text": "que era no",
+    "duration": 4360,
+    "offset": 168560,
+    "lang": "es"
+  },
+  {
+    "text": "administrativa y manda la consulta no",
+    "duration": 5359,
+    "offset": 169800,
+    "lang": "es"
+  },
+  {
+    "text": "administrativa al agente no",
+    "duration": 5239,
+    "offset": 172920,
+    "lang": "es"
+  },
+  {
+    "text": "administrativo",
+    "duration": 3000,
+    "offset": 175159,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,1712 @@
+[
+  {
+    "text": "Bueno vamos a ver un poco Cómo es el",
+    "duration": 7660,
+    "offset": 1580,
+    "lang": "es"
+  },
+  {
+    "text": "funcionamiento del Chaco el chat",
+    "duration": 6840,
+    "offset": 4560,
+    "lang": "es"
+  },
+  {
+    "text": "y todos los esquemas que Lo componen",
+    "duration": 6300,
+    "offset": 9240,
+    "lang": "es"
+  },
+  {
+    "text": "bien inicialmente tenemos",
+    "duration": 4140,
+    "offset": 11400,
+    "lang": "es"
+  },
+  {
+    "text": "una interfaz con el usuario que es a",
+    "duration": 6840,
+    "offset": 17400,
+    "lang": "es"
+  },
+  {
+    "text": "donde el alumno va a ir a escribir sus",
+    "duration": 4520,
+    "offset": 20820,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas",
+    "duration": 3840,
+    "offset": 24240,
+    "lang": "es"
+  },
+  {
+    "text": "esa interfaz de usuario se va a conectar",
+    "duration": 3779,
+    "offset": 25340,
+    "lang": "es"
+  },
+  {
+    "text": "a",
+    "duration": 3720,
+    "offset": 28080,
+    "lang": "es"
+  },
+  {
+    "text": "un motor de",
+    "duration": 9221,
+    "offset": 29119,
+    "lang": "es"
+  },
+  {
+    "text": "realidad de red lctl bien cómo funciona",
+    "duration": 9200,
+    "offset": 31800,
+    "lang": "es"
+  },
+  {
+    "text": "este esta interfaz de usuario",
+    "duration": 6480,
+    "offset": 38340,
+    "lang": "es"
+  },
+  {
+    "text": "está creada con una aplicación que se",
+    "duration": 6420,
+    "offset": 41000,
+    "lang": "es"
+  },
+  {
+    "text": "llama react",
+    "duration": 5660,
+    "offset": 44820,
+    "lang": "es"
+  },
+  {
+    "text": "en realidad",
+    "duration": 3060,
+    "offset": 47420,
+    "lang": "es"
+  },
+  {
+    "text": "acá es donde el alumno escribe su",
+    "duration": 4860,
+    "offset": 54480,
+    "lang": "es"
+  },
+  {
+    "text": "consulta esta consulta esta pregunta que",
+    "duration": 4260,
+    "offset": 57000,
+    "lang": "es"
+  },
+  {
+    "text": "escribe el alumno es lo que se llama",
+    "duration": 4819,
+    "offset": 59340,
+    "lang": "es"
+  },
+  {
+    "text": "término de",
+    "duration": 6600,
+    "offset": 61260,
+    "lang": "es"
+  },
+  {
+    "text": "este fronten este fronten está hostiado",
+    "duration": 8261,
+    "offset": 64159,
+    "lang": "es"
+  },
+  {
+    "text": "en bercel es solo un fronten se conecta",
+    "duration": 7759,
+    "offset": 67860,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando una",
+    "duration": 3199,
+    "offset": 72420,
+    "lang": "es"
+  },
+  {
+    "text": "y le envía la consulta que hizo el",
+    "duration": 4601,
+    "offset": 75799,
+    "lang": "es"
+  },
+  {
+    "text": "alumno o sea esta consulta que hizo el",
+    "duration": 4700,
+    "offset": 78720,
+    "lang": "es"
+  },
+  {
+    "text": "alumno se la envía a with",
+    "duration": 6660,
+    "offset": 80400,
+    "lang": "es"
+  },
+  {
+    "text": "es un motor de redes en stm o un motor",
+    "duration": 6879,
+    "offset": 83420,
+    "lang": "es"
+  },
+  {
+    "text": "de nlp que Facebook nos da en forma",
+    "duration": 5879,
+    "offset": 87060,
+    "lang": "es"
+  },
+  {
+    "text": "gratuita todos los otros motores daialo",
+    "duration": 3921,
+    "offset": 90299,
+    "lang": "es"
+  },
+  {
+    "text": "Flow",
+    "duration": 5461,
+    "offset": 92939,
+    "lang": "es"
+  },
+  {
+    "text": "IBM Watson Microsoft Luis no son gratis",
+    "duration": 7000,
+    "offset": 94220,
+    "lang": "es"
+  },
+  {
+    "text": "hay que pagarlos este es el tiempo que",
+    "duration": 4440,
+    "offset": 98400,
+    "lang": "es"
+  },
+  {
+    "text": "no lo quiere usar ilimitado totalmente",
+    "duration": 3920,
+    "offset": 101220,
+    "lang": "es"
+  },
+  {
+    "text": "gratis",
+    "duration": 5220,
+    "offset": 102840,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que hace este motor",
+    "duration": 6339,
+    "offset": 105140,
+    "lang": "es"
+  },
+  {
+    "text": "transforma el término de búsqueda que",
+    "duration": 5640,
+    "offset": 108060,
+    "lang": "es"
+  },
+  {
+    "text": "lenguaje coloquial del alumno en datos",
+    "duration": 4261,
+    "offset": 111479,
+    "lang": "es"
+  },
+  {
+    "text": "estructurados cómo se llaman esos datos",
+    "duration": 4879,
+    "offset": 113700,
+    "lang": "es"
+  },
+  {
+    "text": "estructurados",
+    "duration": 2839,
+    "offset": 115740,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 5099,
+    "offset": 123000,
+    "lang": "es"
+  },
+  {
+    "text": "30 estos cuatro datos estructurados son",
+    "duration": 6439,
+    "offset": 125520,
+    "lang": "es"
+  },
+  {
+    "text": "los que son devueltos a el real chatbots",
+    "duration": 8181,
+    "offset": 128099,
+    "lang": "es"
+  },
+  {
+    "text": "ahora el Real chatbot tiene",
+    "duration": 7920,
+    "offset": 131959,
+    "lang": "es"
+  },
+  {
+    "text": "corriendo acá",
+    "duration": 3599,
+    "offset": 136280,
+    "lang": "es"
+  },
+  {
+    "text": "un Apolo server acá Tiene un Apolo",
+    "duration": 6860,
+    "offset": 140400,
+    "lang": "es"
+  },
+  {
+    "text": "bien entonces esos cuatro datos",
+    "duration": 5600,
+    "offset": 147300,
+    "lang": "es"
+  },
+  {
+    "text": "estructurados acá Tiene un",
+    "duration": 8460,
+    "offset": 149160,
+    "lang": "es"
+  },
+  {
+    "text": "Apolo que es un cliente de el protocolo",
+    "duration": 7120,
+    "offset": 152900,
+    "lang": "es"
+  },
+  {
+    "text": "graffin",
+    "duration": 4140,
+    "offset": 157620,
+    "lang": "es"
+  },
+  {
+    "text": "Por qué es que usamos el protocolo",
+    "duration": 4620,
+    "offset": 160020,
+    "lang": "es"
+  },
+  {
+    "text": "gráfico bien estos cuatro datos",
+    "duration": 5820,
+    "offset": 161760,
+    "lang": "es"
+  },
+  {
+    "text": "estructurados se van a ir a conectar a",
+    "duration": 6080,
+    "offset": 164640,
+    "lang": "es"
+  },
+  {
+    "text": "un Apolo server",
+    "duration": 3140,
+    "offset": 167580,
+    "lang": "es"
+  },
+  {
+    "text": "y este Apolo server va a mandar a estos",
+    "duration": 5181,
+    "offset": 172379,
+    "lang": "es"
+  },
+  {
+    "text": "cuatro datos estructurados",
+    "duration": 5481,
+    "offset": 175379,
+    "lang": "es"
+  },
+  {
+    "text": "de una",
+    "duration": 3300,
+    "offset": 177560,
+    "lang": "es"
+  },
+  {
+    "text": "a una base de datos módulos",
+    "duration": 7559,
+    "offset": 180900,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces por qué es que pusimos un Apolo",
+    "duration": 6240,
+    "offset": 184700,
+    "lang": "es"
+  },
+  {
+    "text": "una estructura una arquitectura de Apolo",
+    "duration": 5401,
+    "offset": 188459,
+    "lang": "es"
+  },
+  {
+    "text": "server porque el protocolo que es el que",
+    "duration": 6879,
+    "offset": 190940,
+    "lang": "es"
+  },
+  {
+    "text": "manejan estos clientes estos servicios",
+    "duration": 7260,
+    "offset": 193860,
+    "lang": "es"
+  },
+  {
+    "text": "lo que hace es que los cuatro datos",
+    "duration": 5401,
+    "offset": 197819,
+    "lang": "es"
+  },
+  {
+    "text": "estructurados se manden de una a la base",
+    "duration": 4619,
+    "offset": 201120,
+    "lang": "es"
+  },
+  {
+    "text": "de datos si no hubiésemos usado",
+    "duration": 5159,
+    "offset": 203220,
+    "lang": "es"
+  },
+  {
+    "text": "Apolo lo hubiésemos usado grasskium lo",
+    "duration": 5461,
+    "offset": 205739,
+    "lang": "es"
+  },
+  {
+    "text": "que estaríamos teniendo es cuatro cueris",
+    "duration": 5701,
+    "offset": 208379,
+    "lang": "es"
+  },
+  {
+    "text": "o sea cuatro accesos a la red y como",
+    "duration": 5039,
+    "offset": 211200,
+    "lang": "es"
+  },
+  {
+    "text": "sabemos lo más ineficiente que hay son",
+    "duration": 4340,
+    "offset": 214080,
+    "lang": "es"
+  },
+  {
+    "text": "los accesos a la red entonces",
+    "duration": 5401,
+    "offset": 216239,
+    "lang": "es"
+  },
+  {
+    "text": "para minimizar los accesos a la red lo",
+    "duration": 5280,
+    "offset": 218420,
+    "lang": "es"
+  },
+  {
+    "text": "que usamos es la arquitectura de Apolo",
+    "duration": 5400,
+    "offset": 221640,
+    "lang": "es"
+  },
+  {
+    "text": "con graffin y una cosa que hay que tener",
+    "duration": 6899,
+    "offset": 223700,
+    "lang": "es"
+  },
+  {
+    "text": "en cuenta que este Apolo server",
+    "duration": 6720,
+    "offset": 227040,
+    "lang": "es"
+  },
+  {
+    "text": "a su vez tiene un caché Entonces si",
+    "duration": 4780,
+    "offset": 230599,
+    "lang": "es"
+  },
+  {
+    "text": "vienen cuatro datos estructurados",
+    "duration": 4440,
+    "offset": 233760,
+    "lang": "es"
+  },
+  {
+    "text": "similares en cambio de hacer el pueri a",
+    "duration": 4681,
+    "offset": 235379,
+    "lang": "es"
+  },
+  {
+    "text": "la base de datos directamente va a",
+    "duration": 4259,
+    "offset": 238200,
+    "lang": "es"
+  },
+  {
+    "text": "contestar el taller del Apolo server Y",
+    "duration": 4080,
+    "offset": 240060,
+    "lang": "es"
+  },
+  {
+    "text": "eso va a ser todavía mucho más eficiente",
+    "duration": 5481,
+    "offset": 242459,
+    "lang": "es"
+  },
+  {
+    "text": "y más rápida la consulta ahora",
+    "duration": 8179,
+    "offset": 244140,
+    "lang": "es"
+  },
+  {
+    "text": "acá había un club",
+    "duration": 4379,
+    "offset": 247940,
+    "lang": "es"
+  },
+  {
+    "text": "y un Back",
+    "duration": 6661,
+    "offset": 252659,
+    "lang": "es"
+  },
+  {
+    "text": "que este lo que hacían era asociaban",
+    "duration": 6041,
+    "offset": 255019,
+    "lang": "es"
+  },
+  {
+    "text": "cada uno de los cuatro datos",
+    "duration": 5840,
+    "offset": 259320,
+    "lang": "es"
+  },
+  {
+    "text": "estructurados a un texto de respuesta",
+    "duration": 8960,
+    "offset": 261060,
+    "lang": "es"
+  },
+  {
+    "text": "Esto es lo que había hecho en su momento",
+    "duration": 4860,
+    "offset": 265160,
+    "lang": "es"
+  },
+  {
+    "text": "mano y María Eugenia acá había un cruz",
+    "duration": 6640,
+    "offset": 270800,
+    "lang": "es"
+  },
+  {
+    "text": "con este crum se llenaba la base de",
+    "duration": 7160,
+    "offset": 273840,
+    "lang": "es"
+  },
+  {
+    "text": "datos escribiendo un nombre para cada",
+    "duration": 8160,
+    "offset": 277440,
+    "lang": "es"
+  },
+  {
+    "text": "entity y a su vez a cada nombre de esas",
+    "duration": 6880,
+    "offset": 281000,
+    "lang": "es"
+  },
+  {
+    "text": "entidades le asociaban una respuesta",
+    "duration": 6420,
+    "offset": 285600,
+    "lang": "es"
+  },
+  {
+    "text": "entonces con esos cuatro datos va a ir a",
+    "duration": 6240,
+    "offset": 287880,
+    "lang": "es"
+  },
+  {
+    "text": "la base de datos mongol la base de datos",
+    "duration": 4380,
+    "offset": 292020,
+    "lang": "es"
+  },
+  {
+    "text": "le va a devolver una respuesta y",
+    "duration": 5460,
+    "offset": 294120,
+    "lang": "es"
+  },
+  {
+    "text": "esa respuesta es la que va a ir a la luz",
+    "duration": 5280,
+    "offset": 296400,
+    "lang": "es"
+  },
+  {
+    "text": "ahora este proceso se va a cumplir",
+    "duration": 5580,
+    "offset": 299580,
+    "lang": "es"
+  },
+  {
+    "text": "siempre y cuando la probabilidad de que",
+    "duration": 5940,
+    "offset": 301680,
+    "lang": "es"
+  },
+  {
+    "text": "sean correctas las entidades sea mayor",
+    "duration": 3860,
+    "offset": 305160,
+    "lang": "es"
+  },
+  {
+    "text": "al",
+    "duration": 4500,
+    "offset": 307620,
+    "lang": "es"
+  },
+  {
+    "text": "6%. hoy lo que hace chatbot si las",
+    "duration": 5820,
+    "offset": 309020,
+    "lang": "es"
+  },
+  {
+    "text": "probabilidades no son mayores al 6%",
+    "duration": 7400,
+    "offset": 312120,
+    "lang": "es"
+  },
+  {
+    "text": "te manda directamente a",
+    "duration": 4680,
+    "offset": 314840,
+    "lang": "es"
+  },
+  {
+    "text": "un buscador que te dice escribí acá la",
+    "duration": 5761,
+    "offset": 319919,
+    "lang": "es"
+  },
+  {
+    "text": "consulta y es un buscador acotado qué es",
+    "duration": 4620,
+    "offset": 322740,
+    "lang": "es"
+  },
+  {
+    "text": "lo que se quiere hacer en realidad si",
+    "duration": 5000,
+    "offset": 325680,
+    "lang": "es"
+  },
+  {
+    "text": "las propiedades son menores al 100 al 6%",
+    "duration": 6720,
+    "offset": 327360,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros ahora",
+    "duration": 6579,
+    "offset": 330680,
+    "lang": "es"
+  },
+  {
+    "text": "hace poco ustedes me entregaron un",
+    "duration": 6080,
+    "offset": 334080,
+    "lang": "es"
+  },
+  {
+    "text": "servidor de",
+    "duration": 2901,
+    "offset": 337259,
+    "lang": "es"
+  },
+  {
+    "text": "este servidor de fast Api que está",
+    "duration": 4320,
+    "offset": 341340,
+    "lang": "es"
+  },
+  {
+    "text": "corriendo",
+    "duration": 5479,
+    "offset": 343560,
+    "lang": "es"
+  },
+  {
+    "text": "en server que tenemos en Cuba",
+    "duration": 7920,
+    "offset": 345660,
+    "lang": "es"
+  },
+  {
+    "text": "este es un servidor de fast Api",
+    "duration": 8801,
+    "offset": 349039,
+    "lang": "es"
+  },
+  {
+    "text": "este servidor tiene una red cero Shop",
+    "duration": 7260,
+    "offset": 353580,
+    "lang": "es"
+  },
+  {
+    "text": "y tiene una red de Cuestión arancel",
+    "duration": 5520,
+    "offset": 357840,
+    "lang": "es"
+  },
+  {
+    "text": "extractiva entonces",
+    "duration": 5820,
+    "offset": 360840,
+    "lang": "es"
+  },
+  {
+    "text": "si cuando viene la pregunta Cuando viene",
+    "duration": 5399,
+    "offset": 363360,
+    "lang": "es"
+  },
+  {
+    "text": "la respuesta de wite y hay o no la",
+    "duration": 3420,
+    "offset": 366660,
+    "lang": "es"
+  },
+  {
+    "text": "encuentro la encuentra con valores",
+    "duration": 4921,
+    "offset": 368759,
+    "lang": "es"
+  },
+  {
+    "text": "menores a 06 en cambio de ejecutar el",
+    "duration": 6320,
+    "offset": 370080,
+    "lang": "es"
+  },
+  {
+    "text": "camino de El Apolo",
+    "duration": 7500,
+    "offset": 373680,
+    "lang": "es"
+  },
+  {
+    "text": "server apologien lo que hace es si es",
+    "duration": 7120,
+    "offset": 376400,
+    "lang": "es"
+  },
+  {
+    "text": "menor a cero seis directamente la",
+    "duration": 4820,
+    "offset": 381180,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta",
+    "duration": 2480,
+    "offset": 383520,
+    "lang": "es"
+  },
+  {
+    "text": "la envía a Fast Api la red clasifica qué",
+    "duration": 7040,
+    "offset": 386580,
+    "lang": "es"
+  },
+  {
+    "text": "categoría",
+    "duration": 2361,
+    "offset": 391259,
+    "lang": "es"
+  },
+  {
+    "text": "pertenece la pregunta y la red",
+    "duration": 3880,
+    "offset": 394340,
+    "lang": "es"
+  },
+  {
+    "text": "cuestionance el extractiva va a ir a",
+    "duration": 4619,
+    "offset": 396360,
+    "lang": "es"
+  },
+  {
+    "text": "buscar en textos",
+    "duration": 5460,
+    "offset": 398220,
+    "lang": "es"
+  },
+  {
+    "text": "y va a extraer de los textos el que más",
+    "duration": 6000,
+    "offset": 400979,
+    "lang": "es"
+  },
+  {
+    "text": "se ajuste a la pregunta que se hizo y",
+    "duration": 6060,
+    "offset": 403680,
+    "lang": "es"
+  },
+  {
+    "text": "entonces una vez que encuentre eso le va",
+    "duration": 5780,
+    "offset": 406979,
+    "lang": "es"
+  },
+  {
+    "text": "a dar una respuesta",
+    "duration": 3019,
+    "offset": 409740,
+    "lang": "es"
+  },
+  {
+    "text": "bien esta red cero yo lo que va a hacer",
+    "duration": 3899,
+    "offset": 414020,
+    "lang": "es"
+  },
+  {
+    "text": "es",
+    "duration": 4579,
+    "offset": 417060,
+    "lang": "es"
+  },
+  {
+    "text": "una la red cero short lo que hace es",
+    "duration": 6041,
+    "offset": 417919,
+    "lang": "es"
+  },
+  {
+    "text": "categorizar establecer A qué categoría",
+    "duration": 5321,
+    "offset": 421639,
+    "lang": "es"
+  },
+  {
+    "text": "pertenece esa categoría está guardada en",
+    "duration": 6420,
+    "offset": 423960,
+    "lang": "es"
+  },
+  {
+    "text": "una base de datos Y esa base de",
+    "duration": 5780,
+    "offset": 426960,
+    "lang": "es"
+  },
+  {
+    "text": "datos no hubo está",
+    "duration": 6300,
+    "offset": 430380,
+    "lang": "es"
+  },
+  {
+    "text": "se llena con un crud en Netflix que hizo",
+    "duration": 7899,
+    "offset": 432740,
+    "lang": "es"
+  },
+  {
+    "text": "salo este de acá es un club que tiene la",
+    "duration": 6000,
+    "offset": 436680,
+    "lang": "es"
+  },
+  {
+    "text": "categoría",
+    "duration": 4321,
+    "offset": 440639,
+    "lang": "es"
+  },
+  {
+    "text": "y el texto",
+    "duration": 5780,
+    "offset": 442680,
+    "lang": "es"
+  },
+  {
+    "text": "este texto que tiene son los textos",
+    "duration": 7440,
+    "offset": 444960,
+    "lang": "es"
+  },
+  {
+    "text": "del cátedral entonces con este sistema",
+    "duration": 6480,
+    "offset": 448460,
+    "lang": "es"
+  },
+  {
+    "text": "se llena esta base de datos en cero yo",
+    "duration": 5000,
+    "offset": 452400,
+    "lang": "es"
+  },
+  {
+    "text": "de esta misma",
+    "duration": 5640,
+    "offset": 454940,
+    "lang": "es"
+  },
+  {
+    "text": "base de datos extrae las categorías",
+    "duration": 5560,
+    "offset": 457400,
+    "lang": "es"
+  },
+  {
+    "text": "clasifica la pregunta En una de esas",
+    "duration": 4780,
+    "offset": 460580,
+    "lang": "es"
+  },
+  {
+    "text": "categorías va a buscar el texto y lo que",
+    "duration": 5040,
+    "offset": 462960,
+    "lang": "es"
+  },
+  {
+    "text": "devuelve acá la cuestión es el texto y",
+    "duration": 5600,
+    "offset": 465360,
+    "lang": "es"
+  },
+  {
+    "text": "teniendo la pregunta y teniendo el texto",
+    "duration": 6960,
+    "offset": 468000,
+    "lang": "es"
+  },
+  {
+    "text": "convenientemente categorizado",
+    "duration": 4000,
+    "offset": 470960,
+    "lang": "es"
+  },
+  {
+    "text": "lo que va a hacer es va a generar una",
+    "duration": 5521,
+    "offset": 475259,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta va a encontrar una respuesta y",
+    "duration": 7799,
+    "offset": 478020,
+    "lang": "es"
+  },
+  {
+    "text": "con eso terminaría el circuito",
+    "duration": 5039,
+    "offset": 480780,
+    "lang": "es"
+  },
+  {
+    "text": "Cuáles son los problemas ahora que en",
+    "duration": 6600,
+    "offset": 485900,
+    "lang": "es"
+  },
+  {
+    "text": "qué estamos trabajando",
+    "duration": 3320,
+    "offset": 489180,
+    "lang": "es"
+  },
+  {
+    "text": "bien la red tiene trescientas",
+    "duration": 8480,
+    "offset": 493860,
+    "lang": "es"
+  },
+  {
+    "text": "con sus trescientas este",
+    "duration": 7120,
+    "offset": 498440,
+    "lang": "es"
+  },
+  {
+    "text": "frases de entrenamiento que son las",
+    "duration": 4720,
+    "offset": 502340,
+    "lang": "es"
+  },
+  {
+    "text": "frases de entrenamiento es un conjunto",
+    "duration": 5280,
+    "offset": 505560,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene el término de búsqueda y las",
+    "duration": 5700,
+    "offset": 507060,
+    "lang": "es"
+  },
+  {
+    "text": "estructuras a la que debería traducirse",
+    "duration": 3180,
+    "offset": 510840,
+    "lang": "es"
+  },
+  {
+    "text": "con sus correspondientes nombre",
+    "duration": 3440,
+    "offset": 512760,
+    "lang": "es"
+  },
+  {
+    "text": "necesitamos más o menos",
+    "duration": 6540,
+    "offset": 514020,
+    "lang": "es"
+  },
+  {
+    "text": "cuatro mil a cinco mil cinco cuatro mil",
+    "duration": 6459,
+    "offset": 516200,
+    "lang": "es"
+  },
+  {
+    "text": "a cinco mil frases de entrenamiento Esto",
+    "duration": 4320,
+    "offset": 520560,
+    "lang": "es"
+  },
+  {
+    "text": "es lo que hay que llenar para que pueda",
+    "duration": 4701,
+    "offset": 522659,
+    "lang": "es"
+  },
+  {
+    "text": "contestar bien cada una de las preguntas",
+    "duration": 5880,
+    "offset": 524880,
+    "lang": "es"
+  },
+  {
+    "text": "la red de Cuestión anancer necesita un",
+    "duration": 5260,
+    "offset": 527360,
+    "lang": "es"
+  },
+  {
+    "text": "fantium que eso es lo que está",
+    "duration": 3900,
+    "offset": 530760,
+    "lang": "es"
+  },
+  {
+    "text": "trabajando a mano también con unas",
+    "duration": 4980,
+    "offset": 532620,
+    "lang": "es"
+  },
+  {
+    "text": "cuatro mil a cinco mil frases de",
+    "duration": 5340,
+    "offset": 534660,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento o sea Manu va a encontrar",
+    "duration": 4200,
+    "offset": 537600,
+    "lang": "es"
+  },
+  {
+    "text": "o está buscando el código para poder",
+    "duration": 4980,
+    "offset": 540000,
+    "lang": "es"
+  },
+  {
+    "text": "entrenar la cuestionanza la cuestión era",
+    "duration": 4800,
+    "offset": 541800,
+    "lang": "es"
+  },
+  {
+    "text": "nancer se puede entrenar en forma manual",
+    "duration": 3660,
+    "offset": 544980,
+    "lang": "es"
+  },
+  {
+    "text": "pero el problema es que como no estamos",
+    "duration": 5400,
+    "offset": 546600,
+    "lang": "es"
+  },
+  {
+    "text": "pagando no nos va a dejar elegir Con qué",
+    "duration": 6860,
+    "offset": 548640,
+    "lang": "es"
+  },
+  {
+    "text": "modelo queremos que entrene al Data",
+    "duration": 6360,
+    "offset": 552000,
+    "lang": "es"
+  },
+  {
+    "text": "si se hace en forma programática lo",
+    "duration": 4240,
+    "offset": 555500,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamos nosotros para el modelo que",
+    "duration": 4140,
+    "offset": 558360,
+    "lang": "es"
+  },
+  {
+    "text": "queramos pero hay que pedalear a mano el",
+    "duration": 4520,
+    "offset": 559740,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento de la red",
+    "duration": 4500,
+    "offset": 562500,
+    "lang": "es"
+  },
+  {
+    "text": "cuestionanza la red cero yo es un",
+    "duration": 3480,
+    "offset": 564260,
+    "lang": "es"
+  },
+  {
+    "text": "problema",
+    "duration": 3720,
+    "offset": 567000,
+    "lang": "es"
+  },
+  {
+    "text": "porque cuando nosotros empezamos a",
+    "duration": 4900,
+    "offset": 567740,
+    "lang": "es"
+  },
+  {
+    "text": "trabajar con el otro developer que era",
+    "duration": 4160,
+    "offset": 570720,
+    "lang": "es"
+  },
+  {
+    "text": "Maxi estuvimos más o menos tres meses",
+    "duration": 5720,
+    "offset": 572640,
+    "lang": "es"
+  },
+  {
+    "text": "armamos un sistema de clasificación que",
+    "duration": 6940,
+    "offset": 574880,
+    "lang": "es"
+  },
+  {
+    "text": "fallaba el 60% de las veces cuando",
+    "duration": 5500,
+    "offset": 578360,
+    "lang": "es"
+  },
+  {
+    "text": "usamos cero yo lo que logramos es que",
+    "duration": 3900,
+    "offset": 581820,
+    "lang": "es"
+  },
+  {
+    "text": "falle el 40 por ciento de las veces pero",
+    "duration": 4200,
+    "offset": 583860,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros necesitamos que no falle nunca",
+    "duration": 4880,
+    "offset": 585720,
+    "lang": "es"
+  },
+  {
+    "text": "que la falla sea 0 por 100 con lo cual",
+    "duration": 5399,
+    "offset": 588060,
+    "lang": "es"
+  },
+  {
+    "text": "tal vez la clasificación sea lo más",
+    "duration": 5799,
+    "offset": 590600,
+    "lang": "es"
+  },
+  {
+    "text": "crítico y haya que pasar la forma manual",
+    "duration": 5581,
+    "offset": 593459,
+    "lang": "es"
+  },
+  {
+    "text": "porque no encontramos una red que haga",
+    "duration": 6361,
+    "offset": 596399,
+    "lang": "es"
+  },
+  {
+    "text": "una clasificación buena",
+    "duration": 6900,
+    "offset": 599040,
+    "lang": "es"
+  },
+  {
+    "text": "pero acá también por un lado tienen que",
+    "duration": 5160,
+    "offset": 602760,
+    "lang": "es"
+  },
+  {
+    "text": "llenar",
+    "duration": 4320,
+    "offset": 605940,
+    "lang": "es"
+  },
+  {
+    "text": "la base de datos nexos con todos los",
+    "duration": 4320,
+    "offset": 607920,
+    "lang": "es"
+  },
+  {
+    "text": "textos de cátedra y tienen que extraer",
+    "duration": 4800,
+    "offset": 610260,
+    "lang": "es"
+  },
+  {
+    "text": "de esos textos de cátedra 4000 a 5000",
+    "duration": 6120,
+    "offset": 612240,
+    "lang": "es"
+  },
+  {
+    "text": "frases de entrenamiento formada por",
+    "duration": 4940,
+    "offset": 615060,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta",
+    "duration": 7340,
+    "offset": 618360,
+    "lang": "es"
+  },
+  {
+    "text": "texto respuesta y el índice a nivel",
+    "duration": 8680,
+    "offset": 620000,
+    "lang": "es"
+  },
+  {
+    "text": "vector De dónde es que empieza la",
+    "duration": 5680,
+    "offset": 625700,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta o sea hay un formato especial",
+    "duration": 4260,
+    "offset": 628680,
+    "lang": "es"
+  },
+  {
+    "text": "de archivo para hacer el entrenamiento",
+    "duration": 4820,
+    "offset": 631380,
+    "lang": "es"
+  },
+  {
+    "text": "de la cuestión anarance",
+    "duration": 5160,
+    "offset": 632940,
+    "lang": "es"
+  },
+  {
+    "text": "les repito mano en lo que está",
+    "duration": 4000,
+    "offset": 636200,
+    "lang": "es"
+  },
+  {
+    "text": "trabajando es en el código para hacer el",
+    "duration": 3600,
+    "offset": 638100,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento pero no en la generación",
+    "duration": 3960,
+    "offset": 640200,
+    "lang": "es"
+  },
+  {
+    "text": "del dataset esa generación del dataset",
+    "duration": 3900,
+    "offset": 641700,
+    "lang": "es"
+  },
+  {
+    "text": "la tienen que hacer como en el caso de",
+    "duration": 5179,
+    "offset": 644160,
+    "lang": "es"
+  },
+  {
+    "text": "los profesores a mano",
+    "duration": 3739,
+    "offset": 645600,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 5700,
+    "offset": 649560,
+    "lang": "es"
+  },
+  {
+    "text": "bueno y después el otro tema que es para",
+    "duration": 9361,
+    "offset": 650779,
+    "lang": "es"
+  },
+  {
+    "text": "poder usar la red este",
+    "duration": 7500,
+    "offset": 655260,
+    "lang": "es"
+  },
+  {
+    "text": "cuestionarse en forma automática y que",
+    "duration": 4420,
+    "offset": 660140,
+    "lang": "es"
+  },
+  {
+    "text": "genere porque el problema que tenemos Es",
+    "duration": 4620,
+    "offset": 662760,
+    "lang": "es"
+  },
+  {
+    "text": "que este no genera urls en forma",
+    "duration": 5519,
+    "offset": 664560,
+    "lang": "es"
+  },
+  {
+    "text": "dinámica solo permite urls estáticas",
+    "duration": 5160,
+    "offset": 667380,
+    "lang": "es"
+  },
+  {
+    "text": "para poder generar urls en forma",
+    "duration": 6181,
+    "offset": 670079,
+    "lang": "es"
+  },
+  {
+    "text": "dinámica para contactar Api tenemos que",
+    "duration": 6600,
+    "offset": 672540,
+    "lang": "es"
+  },
+  {
+    "text": "migrar a la última versión que es la que",
+    "duration": 6000,
+    "offset": 676260,
+    "lang": "es"
+  },
+  {
+    "text": "salió el año pasado que es la 210 de",
+    "duration": 5759,
+    "offset": 679140,
+    "lang": "es"
+  },
+  {
+    "text": "riachat O sea que en eso habría que",
+    "duration": 4560,
+    "offset": 682260,
+    "lang": "es"
+  },
+  {
+    "text": "trabajar más adelante si es que no",
+    "duration": 4321,
+    "offset": 684899,
+    "lang": "es"
+  },
+  {
+    "text": "queremos que hagan un copy page de la",
+    "duration": 4199,
+    "offset": 686820,
+    "lang": "es"
+  },
+  {
+    "text": "URL y hacerlo en forma automática pero",
+    "duration": 5760,
+    "offset": 689220,
+    "lang": "es"
+  },
+  {
+    "text": "hoy lo que necesitamos o sea porque el",
+    "duration": 5820,
+    "offset": 691019,
+    "lang": "es"
+  },
+  {
+    "text": "fasátil todavía no lo podemos poner a",
+    "duration": 4080,
+    "offset": 694980,
+    "lang": "es"
+  },
+  {
+    "text": "funcionar porque el servidor de la facu",
+    "duration": 3961,
+    "offset": 696839,
+    "lang": "es"
+  },
+  {
+    "text": "que nos generaron no tiene suficiente",
+    "duration": 4560,
+    "offset": 699060,
+    "lang": "es"
+  },
+  {
+    "text": "memoria hay que arreglar eso porque el",
+    "duration": 4560,
+    "offset": 700800,
+    "lang": "es"
+  },
+  {
+    "text": "sistema falla porque no hay memoria y el",
+    "duration": 3899,
+    "offset": 703620,
+    "lang": "es"
+  },
+  {
+    "text": "tensor Flow dice que no hay espacio en",
+    "duration": 4800,
+    "offset": 705360,
+    "lang": "es"
+  },
+  {
+    "text": "el memoria y la queda y bueno otra vez",
+    "duration": 5041,
+    "offset": 707519,
+    "lang": "es"
+  },
+  {
+    "text": "que precisamos gpu porque se genera ahí",
+    "duration": 5520,
+    "offset": 710160,
+    "lang": "es"
+  },
+  {
+    "text": "mismo la",
+    "duration": 3120,
+    "offset": 712560,
+    "lang": "es"
+  },
+  {
+    "text": "el tema de la extracción de la respuesta",
+    "duration": 6420,
+    "offset": 717000,
+    "lang": "es"
+  },
+  {
+    "text": "se genera ahí y para hacerse extracción",
+    "duration": 5101,
+    "offset": 720959,
+    "lang": "es"
+  },
+  {
+    "text": "necesita gpu así que bueno vamos a ver",
+    "duration": 5340,
+    "offset": 723420,
+    "lang": "es"
+  },
+  {
+    "text": "si podemos solucionar eso ponemos a",
+    "duration": 5219,
+    "offset": 726060,
+    "lang": "es"
+  },
+  {
+    "text": "funcionar Fast Api y después que ponemos",
+    "duration": 4800,
+    "offset": 728760,
+    "lang": "es"
+  },
+  {
+    "text": "a funcionar Fast Api necesitamos hacer",
+    "duration": 5281,
+    "offset": 731279,
+    "lang": "es"
+  },
+  {
+    "text": "el entrenamiento de la red de",
+    "duration": 5700,
+    "offset": 733560,
+    "lang": "es"
+  },
+  {
+    "text": "cuestionanza una vez que entrenamos bien",
+    "duration": 4500,
+    "offset": 736560,
+    "lang": "es"
+  },
+  {
+    "text": "la red de cuestionario vamos a tener",
+    "duration": 4980,
+    "offset": 739260,
+    "lang": "es"
+  },
+  {
+    "text": "probablemente problemas con las",
+    "duration": 6000,
+    "offset": 741060,
+    "lang": "es"
+  },
+  {
+    "text": "clasificaciones Tenemos que pasar a",
+    "duration": 5460,
+    "offset": 744240,
+    "lang": "es"
+  },
+  {
+    "text": "hacer la migración de riat chatbot para",
+    "duration": 6899,
+    "offset": 747060,
+    "lang": "es"
+  },
+  {
+    "text": "que se pueda armar la URL en forma",
+    "duration": 8340,
+    "offset": 749700,
+    "lang": "es"
+  },
+  {
+    "text": "dinámica bueno y después lo otro Es que",
+    "duration": 6301,
+    "offset": 753959,
+    "lang": "es"
+  },
+  {
+    "text": "además del entrenar las 4000 a 5000",
+    "duration": 4500,
+    "offset": 758040,
+    "lang": "es"
+  },
+  {
+    "text": "frases para la cueste y para el",
+    "duration": 3960,
+    "offset": 760260,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento de la uite y necesitamos",
+    "duration": 3320,
+    "offset": 762540,
+    "lang": "es"
+  },
+  {
+    "text": "que se carguen",
+    "duration": 4380,
+    "offset": 764220,
+    "lang": "es"
+  },
+  {
+    "text": "todos los textos que también lo tienen",
+    "duration": 4900,
+    "offset": 765860,
+    "lang": "es"
+  },
+  {
+    "text": "que hacer los profes de física y las",
+    "duration": 5000,
+    "offset": 768600,
+    "lang": "es"
+  },
+  {
+    "text": "correspondientes categorías",
+    "duration": 5699,
+    "offset": 770760,
+    "lang": "es"
+  },
+  {
+    "text": "bien y después falta algo porque una vez",
+    "duration": 4840,
+    "offset": 773600,
+    "lang": "es"
+  },
+  {
+    "text": "que esté Qué pasa si el alumno pregunta",
+    "duration": 5060,
+    "offset": 776459,
+    "lang": "es"
+  },
+  {
+    "text": "una pavada la transformen intentará",
+    "duration": 4920,
+    "offset": 778440,
+    "lang": "es"
+  },
+  {
+    "text": "conectarlo entonces también tenemos que",
+    "duration": 4601,
+    "offset": 781519,
+    "lang": "es"
+  },
+  {
+    "text": "armar un sistema para detectar o",
+    "duration": 4320,
+    "offset": 783360,
+    "lang": "es"
+  },
+  {
+    "text": "sea también tiene que haber categorías",
+    "duration": 4740,
+    "offset": 786120,
+    "lang": "es"
+  },
+  {
+    "text": "negativas que sirvan para que si en caso",
+    "duration": 5760,
+    "offset": 787680,
+    "lang": "es"
+  },
+  {
+    "text": "de lo que se está preguntando es una",
+    "duration": 4820,
+    "offset": 790860,
+    "lang": "es"
+  },
+  {
+    "text": "pavada",
+    "duration": 2240,
+    "offset": 793440,
+    "lang": "es"
+  },
+  {
+    "text": "directamente le diga yo esos temas no",
+    "duration": 5440,
+    "offset": 796100,
+    "lang": "es"
+  },
+  {
+    "text": "los trato esos temas no los conozco y",
+    "duration": 4260,
+    "offset": 799079,
+    "lang": "es"
+  },
+  {
+    "text": "que el alumno pregunte por ejemplo si",
+    "duration": 3799,
+    "offset": 801540,
+    "lang": "es"
+  },
+  {
+    "text": "una pagada sería Dónde queda la figura",
+    "duration": 5161,
+    "offset": 803339,
+    "lang": "es"
+  },
+  {
+    "text": "ese ese o qué colectivo me lleva hasta",
+    "duration": 5921,
+    "offset": 805339,
+    "lang": "es"
+  },
+  {
+    "text": "la facultad o hasta qué hora dura la",
+    "duration": 6899,
+    "offset": 808500,
+    "lang": "es"
+  },
+  {
+    "text": "clase del sp1 eso en realidad no es una",
+    "duration": 6120,
+    "offset": 811260,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta que vaya a contestar en chatbot",
+    "duration": 3781,
+    "offset": 815399,
+    "lang": "es"
+  },
+  {
+    "text": "y debe ser clasificado como una",
+    "duration": 4139,
+    "offset": 817380,
+    "lang": "es"
+  },
+  {
+    "text": "categoría negativa y eso también",
+    "duration": 4740,
+    "offset": 819180,
+    "lang": "es"
+  },
+  {
+    "text": "necesita ser parte de los entrenamientos",
+    "duration": 5541,
+    "offset": 821519,
+    "lang": "es"
+  },
+  {
+    "text": "de la cuestión análisis",
+    "duration": 3140,
+    "offset": 823920,
+    "lang": "es"
+  }
+]

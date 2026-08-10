@@ -1,0 +1,974 @@
+[
+  {
+    "text": "Hola a todos y bienvenidos a Fluyendo",
+    "duration": 6480,
+    "offset": 160,
+    "lang": "es"
+  },
+  {
+    "text": "con la ciencia. Soy Alex y yo, Sofía.",
+    "duration": 6400,
+    "offset": 3040,
+    "lang": "es"
+  },
+  {
+    "text": "Hoy nos sumergiremos literalmente en el",
+    "duration": 5720,
+    "offset": 6640,
+    "lang": "es"
+  },
+  {
+    "text": "fascinante mi mundo de la hidrodinámica.",
+    "duration": 5960,
+    "offset": 9440,
+    "lang": "es"
+  },
+  {
+    "text": "Hidrodinámica. Suena imponente. Es como",
+    "duration": 6960,
+    "offset": 12360,
+    "lang": "es"
+  },
+  {
+    "text": "la dinámica pero con agua.",
+    "duration": 6639,
+    "offset": 15400,
+    "lang": "es"
+  },
+  {
+    "text": "Exacto, Alex. Es la rama de la física",
+    "duration": 5199,
+    "offset": 19320,
+    "lang": "es"
+  },
+  {
+    "text": "que estudia los fluidos en movimiento.",
+    "duration": 5640,
+    "offset": 22039,
+    "lang": "es"
+  },
+  {
+    "text": "Piensa en ríos, tuberías, la sangre en",
+    "duration": 5281,
+    "offset": 24519,
+    "lang": "es"
+  },
+  {
+    "text": "nuestras venas, incluso el aire",
+    "duration": 4720,
+    "offset": 27679,
+    "lang": "es"
+  },
+  {
+    "text": "alrededor de un avión. Vaya, está en",
+    "duration": 5800,
+    "offset": 29800,
+    "lang": "es"
+  },
+  {
+    "text": "todas partes. Pero para estudiarlo",
+    "duration": 6241,
+    "offset": 32399,
+    "lang": "es"
+  },
+  {
+    "text": "necesitamos un tipo de fluido especial.",
+    "duration": 5600,
+    "offset": 35600,
+    "lang": "es"
+  },
+  {
+    "text": "He oído hablar de el fluido ideal.",
+    "duration": 5880,
+    "offset": 38640,
+    "lang": "es"
+  },
+  {
+    "text": "¿Existe eso? Buena pregunta. El fluido",
+    "duration": 6240,
+    "offset": 41200,
+    "lang": "es"
+  },
+  {
+    "text": "ideal es un concepto teórico, una",
+    "duration": 4879,
+    "offset": 44520,
+    "lang": "es"
+  },
+  {
+    "text": "simplificación que nos ayuda mucho a",
+    "duration": 4240,
+    "offset": 47440,
+    "lang": "es"
+  },
+  {
+    "text": "entender los principios básicos. Un",
+    "duration": 5160,
+    "offset": 49399,
+    "lang": "es"
+  },
+  {
+    "text": "fluido ideal tiene dos características",
+    "duration": 6800,
+    "offset": 51680,
+    "lang": "es"
+  },
+  {
+    "text": "principales. Uno, es incompr. Imagina",
+    "duration": 6960,
+    "offset": 54559,
+    "lang": "es"
+  },
+  {
+    "text": "que su densidad no cambia, no importa",
+    "duration": 5679,
+    "offset": 58480,
+    "lang": "es"
+  },
+  {
+    "text": "cuánta presión la apliques, como si no",
+    "duration": 4761,
+    "offset": 61519,
+    "lang": "es"
+  },
+  {
+    "text": "pudieras apretarlo para que ocupe menos",
+    "duration": 6081,
+    "offset": 64159,
+    "lang": "es"
+  },
+  {
+    "text": "espacio. O sea, un agua perfecta que no",
+    "duration": 6560,
+    "offset": 66280,
+    "lang": "es"
+  },
+  {
+    "text": "se pega ni se puede aplastar.",
+    "duration": 5160,
+    "offset": 70240,
+    "lang": "es"
+  },
+  {
+    "text": "Exactamente. En la realidad todos los",
+    "duration": 5279,
+    "offset": 72840,
+    "lang": "es"
+  },
+  {
+    "text": "fluidos tienen algo de viscosidad y son",
+    "duration": 5039,
+    "offset": 75400,
+    "lang": "es"
+  },
+  {
+    "text": "algo comprensibles, pero el modelo de",
+    "duration": 4841,
+    "offset": 78119,
+    "lang": "es"
+  },
+  {
+    "text": "fluido ideal es un excelente punto de",
+    "duration": 5401,
+    "offset": 80439,
+    "lang": "es"
+  },
+  {
+    "text": "partida. ¿Entendido? Y cuando estos",
+    "duration": 6560,
+    "offset": 82960,
+    "lang": "es"
+  },
+  {
+    "text": "fluidos ideales o no se mueven, ¿cómo lo",
+    "duration": 6200,
+    "offset": 85840,
+    "lang": "es"
+  },
+  {
+    "text": "hacen? Hay diferentes tipos de",
+    "duration": 4840,
+    "offset": 89520,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento. Sí, principalmente",
+    "duration": 4800,
+    "offset": 92040,
+    "lang": "es"
+  },
+  {
+    "text": "distinguimos dos tipos de flujo o",
+    "duration": 4759,
+    "offset": 94360,
+    "lang": "es"
+  },
+  {
+    "text": "regímenes. El primero es el régimen",
+    "duration": 4880,
+    "offset": 96840,
+    "lang": "es"
+  },
+  {
+    "text": "laminar. Imagina capas de fluido",
+    "duration": 5561,
+    "offset": 99119,
+    "lang": "es"
+  },
+  {
+    "text": "deslizándose suavemente unas sobre otras",
+    "duration": 5759,
+    "offset": 101720,
+    "lang": "es"
+  },
+  {
+    "text": "de forma ordenada y paralela, como un",
+    "duration": 7119,
+    "offset": 104680,
+    "lang": "es"
+  },
+  {
+    "text": "río tranquilo o miel cayendo lentamente.",
+    "duration": 7240,
+    "offset": 107479,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, como líneas perfectas de agua. Eso",
+    "duration": 5841,
+    "offset": 111799,
+    "lang": "es"
+  },
+  {
+    "text": "es. Y el opuesto es el régimen",
+    "duration": 5881,
+    "offset": 114719,
+    "lang": "es"
+  },
+  {
+    "text": "turbulento. Aquí el flujo es caótico,",
+    "duration": 5240,
+    "offset": 117640,
+    "lang": "es"
+  },
+  {
+    "text": "desordenado, con remolinos y",
+    "duration": 4960,
+    "offset": 120600,
+    "lang": "es"
+  },
+  {
+    "text": "trayectorias irregulares. Piensa en los",
+    "duration": 4800,
+    "offset": 122880,
+    "lang": "es"
+  },
+  {
+    "text": "rápidos de un río, el humo de un",
+    "duration": 4600,
+    "offset": 125560,
+    "lang": "es"
+  },
+  {
+    "text": "cigarrillo o cuando abres el grifo a",
+    "duration": 5919,
+    "offset": 127680,
+    "lang": "es"
+  },
+  {
+    "text": "tope. ¿Entendido? El ordenado y el",
+    "duration": 7359,
+    "offset": 130160,
+    "lang": "es"
+  },
+  {
+    "text": "caótico. Ahora mencionaste tuberías.",
+    "duration": 6920,
+    "offset": 133599,
+    "lang": "es"
+  },
+  {
+    "text": "¿Cómo medimos cuánto fluido pasa por una",
+    "duration": 5440,
+    "offset": 137519,
+    "lang": "es"
+  },
+  {
+    "text": "tubería? Para eso usamos el concepto de",
+    "duration": 5561,
+    "offset": 140519,
+    "lang": "es"
+  },
+  {
+    "text": "caudal, también llamado gasto o tasa de",
+    "duration": 6121,
+    "offset": 142959,
+    "lang": "es"
+  },
+  {
+    "text": "flujo. El caudal que representamos con",
+    "duration": 5840,
+    "offset": 146080,
+    "lang": "es"
+  },
+  {
+    "text": "la letra Q es simplemente el volumen de",
+    "duration": 5120,
+    "offset": 149080,
+    "lang": "es"
+  },
+  {
+    "text": "fluido que pasa a través de una sección",
+    "duration": 4800,
+    "offset": 151920,
+    "lang": "es"
+  },
+  {
+    "text": "transversal de un conductor como una",
+    "duration": 5800,
+    "offset": 154200,
+    "lang": "es"
+  },
+  {
+    "text": "tubería por unidad de tiempo, o sea,",
+    "duration": 6400,
+    "offset": 156720,
+    "lang": "es"
+  },
+  {
+    "text": "litros por segundo o metros cúbicos por",
+    "duration": 6599,
+    "offset": 160000,
+    "lang": "es"
+  },
+  {
+    "text": "hora. Exacto. Y se calcula multiplicando",
+    "duration": 6839,
+    "offset": 163120,
+    "lang": "es"
+  },
+  {
+    "text": "el área de la sección transversal A por",
+    "duration": 7000,
+    "offset": 166599,
+    "lang": "es"
+  },
+  {
+    "text": "la velocidad promedio del fluido B. Así",
+    "duration": 9200,
+    "offset": 169959,
+    "lang": "es"
+  },
+  {
+    "text": "que Q es ig a A * B. Tiene sentido. Si",
+    "duration": 9241,
+    "offset": 173599,
+    "lang": "es"
+  },
+  {
+    "text": "el tubo es más ancho, mayor área o el",
+    "duration": 6521,
+    "offset": 179159,
+    "lang": "es"
+  },
+  {
+    "text": "agua va más rápido, mayor velocidad,",
+    "duration": 6200,
+    "offset": 182840,
+    "lang": "es"
+  },
+  {
+    "text": "pasará más agua. ¿Correcto? Y esto nos",
+    "duration": 5760,
+    "offset": 185680,
+    "lang": "es"
+  },
+  {
+    "text": "lleva directamente a la ecuación de",
+    "duration": 7320,
+    "offset": 189040,
+    "lang": "es"
+  },
+  {
+    "text": "continuidad. Para un fluido ideal,",
+    "duration": 4920,
+    "offset": 191440,
+    "lang": "es"
+  },
+  {
+    "text": "incomprado sin ligas ni fuentes, la masa",
+    "duration": 5959,
+    "offset": 196640,
+    "lang": "es"
+  },
+  {
+    "text": "de fluido que entra por un extremo debe",
+    "duration": 5601,
+    "offset": 199959,
+    "lang": "es"
+  },
+  {
+    "text": "ser igual a la masa que sale por el otro",
+    "duration": 5640,
+    "offset": 202599,
+    "lang": "es"
+  },
+  {
+    "text": "en el mismo tiempo. Claro, no puede",
+    "duration": 5360,
+    "offset": 205560,
+    "lang": "es"
+  },
+  {
+    "text": "desaparecer ni aparecer de la nada.",
+    "duration": 5121,
+    "offset": 208239,
+    "lang": "es"
+  },
+  {
+    "text": "Exacto. Y como es",
+    "duration": 5640,
+    "offset": 210920,
+    "lang": "es"
+  },
+  {
+    "text": "incomprensidad constante, esto significa",
+    "duration": 5640,
+    "offset": 213360,
+    "lang": "es"
+  },
+  {
+    "text": "que el caudal debe ser constante a lo",
+    "duration": 7160,
+    "offset": 216560,
+    "lang": "es"
+  },
+  {
+    "text": "largo de toda la tubería. Es decir,",
+    "duration": 9720,
+    "offset": 219000,
+    "lang": "es"
+  },
+  {
+    "text": "A1 = A2 V2. Si el área de la tubería",
+    "duration": 9359,
+    "offset": 223720,
+    "lang": "es"
+  },
+  {
+    "text": "disminuye A2 menor que A1, la velocidad",
+    "duration": 7320,
+    "offset": 228720,
+    "lang": "es"
+  },
+  {
+    "text": "del fluido v2 debe aumentar para",
+    "duration": 5041,
+    "offset": 233079,
+    "lang": "es"
+  },
+  {
+    "text": "mantener el caudal constante y",
+    "duration": 5000,
+    "offset": 236040,
+    "lang": "es"
+  },
+  {
+    "text": "viceversa. Ah, por eso cuando aprietas",
+    "duration": 5319,
+    "offset": 238120,
+    "lang": "es"
+  },
+  {
+    "text": "la punta de una mangüera, reduces el",
+    "duration": 6279,
+    "offset": 241040,
+    "lang": "es"
+  },
+  {
+    "text": "área, el agua sale disparada más rápido.",
+    "duration": 6401,
+    "offset": 243439,
+    "lang": "es"
+  },
+  {
+    "text": "Precisamente esa es la ecuación de",
+    "duration": 5480,
+    "offset": 247319,
+    "lang": "es"
+  },
+  {
+    "text": "continuidad. en acción. Esto es genial y",
+    "duration": 5520,
+    "offset": 249840,
+    "lang": "es"
+  },
+  {
+    "text": "me lleva a pensar, si la velocidad",
+    "duration": 5041,
+    "offset": 252799,
+    "lang": "es"
+  },
+  {
+    "text": "cambia y la presión también puede",
+    "duration": 5320,
+    "offset": 255360,
+    "lang": "es"
+  },
+  {
+    "text": "cambiar, ¿hay alguna ley que relacione",
+    "duration": 5840,
+    "offset": 257840,
+    "lang": "es"
+  },
+  {
+    "text": "todo esto? He oído hablar de la ecuación",
+    "duration": 6200,
+    "offset": 260680,
+    "lang": "es"
+  },
+  {
+    "text": "de Bernulí. Sí, la famosa ecuación de",
+    "duration": 5480,
+    "offset": 263680,
+    "lang": "es"
+  },
+  {
+    "text": "Bernulí es una de las joyas de la",
+    "duration": 4680,
+    "offset": 266880,
+    "lang": "es"
+  },
+  {
+    "text": "hidrodinámica para fluidos ideales en",
+    "duration": 4920,
+    "offset": 269160,
+    "lang": "es"
+  },
+  {
+    "text": "flujo laminar. Desde el punto de vista",
+    "duration": 5120,
+    "offset": 271560,
+    "lang": "es"
+  },
+  {
+    "text": "de la energía, la ecuación de Bernulim",
+    "duration": 4440,
+    "offset": 274080,
+    "lang": "es"
+  },
+  {
+    "text": "es una expresión del principio de",
+    "duration": 4239,
+    "offset": 276680,
+    "lang": "es"
+  },
+  {
+    "text": "conservación de la energía mecánica",
+    "duration": 4119,
+    "offset": 278520,
+    "lang": "es"
+  },
+  {
+    "text": "aplicada a un fluido ideal en",
+    "duration": 3961,
+    "offset": 280919,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento. Energía",
+    "duration": 5081,
+    "offset": 282639,
+    "lang": "es"
+  },
+  {
+    "text": "mecánica, ¿te refieres a la cinética y",
+    "duration": 4400,
+    "offset": 284880,
+    "lang": "es"
+  },
+  {
+    "text": "potencial?",
+    "duration": 4280,
+    "offset": 287720,
+    "lang": "es"
+  },
+  {
+    "text": "Exacto. La ecuación de Bernulí nos dice",
+    "duration": 4600,
+    "offset": 289280,
+    "lang": "es"
+  },
+  {
+    "text": "que a lo largo de una línea de",
+    "duration": 4639,
+    "offset": 292000,
+    "lang": "es"
+  },
+  {
+    "text": "corriente, la suma de tres tipos de",
+    "duration": 6200,
+    "offset": 293880,
+    "lang": "es"
+  },
+  {
+    "text": "energía por unidad de volumen permanece",
+    "duration": 7321,
+    "offset": 296639,
+    "lang": "es"
+  },
+  {
+    "text": "constante. Estas son la presión, que",
+    "duration": 6040,
+    "offset": 300080,
+    "lang": "es"
+  },
+  {
+    "text": "podemos ver como una especie de energía",
+    "duration": 4920,
+    "offset": 303960,
+    "lang": "es"
+  },
+  {
+    "text": "de presión o trabajo realizado por el",
+    "duration": 5560,
+    "offset": 306120,
+    "lang": "es"
+  },
+  {
+    "text": "fluido. la energía cinética por unidad",
+    "duration": 7560,
+    "offset": 308880,
+    "lang": "es"
+  },
+  {
+    "text": "de volumen 1/2 R U V cuadrada, donde R",
+    "duration": 7920,
+    "offset": 311680,
+    "lang": "es"
+  },
+  {
+    "text": "es la densidad del fluido y v es su",
+    "duration": 5440,
+    "offset": 316440,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad. Esta es la energía debido al",
+    "duration": 4560,
+    "offset": 319600,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento del fluido y la energía",
+    "duration": 5000,
+    "offset": 321880,
+    "lang": "es"
+  },
+  {
+    "text": "potencial gravitatoria por unidad de",
+    "duration": 7319,
+    "offset": 324160,
+    "lang": "es"
+  },
+  {
+    "text": "volumen r gh G es la aceleración de la",
+    "duration": 7240,
+    "offset": 326880,
+    "lang": "es"
+  },
+  {
+    "text": "gravedad y h es la altura del fluido",
+    "duration": 4881,
+    "offset": 331479,
+    "lang": "es"
+  },
+  {
+    "text": "respecto a un nivel de referencia.",
+    "duration": 4199,
+    "offset": 334120,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, la ecuación sería algo así",
+    "duration": 5959,
+    "offset": 336360,
+    "lang": "es"
+  },
+  {
+    "text": "como presión más energía cinética más",
+    "duration": 8121,
+    "offset": 338319,
+    "lang": "es"
+  },
+  {
+    "text": "energía potencial igual a constante.",
+    "duration": 8961,
+    "offset": 342319,
+    "lang": "es"
+  },
+  {
+    "text": "Exactamente. Escrita formalmente es P +",
+    "duration": 10400,
+    "offset": 346440,
+    "lang": "es"
+  },
+  {
+    "text": "1/2 RO v² + ROG",
+    "duration": 7600,
+    "offset": 351280,
+    "lang": "es"
+  },
+  {
+    "text": "GH = a",
+    "duration": 4680,
+    "offset": 356840,
+    "lang": "es"
+  },
+  {
+    "text": "constante. Esto significa que si una de",
+    "duration": 6159,
+    "offset": 358880,
+    "lang": "es"
+  },
+  {
+    "text": "estas componentes aumenta, otra o otras",
+    "duration": 5600,
+    "offset": 361520,
+    "lang": "es"
+  },
+  {
+    "text": "deben disminuir para que la suma total",
+    "duration": 5041,
+    "offset": 365039,
+    "lang": "es"
+  },
+  {
+    "text": "se mantenga constante. Wow. Así que si",
+    "duration": 5160,
+    "offset": 367120,
+    "lang": "es"
+  },
+  {
+    "text": "un fluido acelera en una sección más",
+    "duration": 4480,
+    "offset": 370080,
+    "lang": "es"
+  },
+  {
+    "text": "estrecha de una tubería, como vimos con",
+    "duration": 4919,
+    "offset": 372280,
+    "lang": "es"
+  },
+  {
+    "text": "la ecuación de continuidad, su energía",
+    "duration": 7359,
+    "offset": 374560,
+    "lang": "es"
+  },
+  {
+    "text": "cinética 1/2 RV V² aumenta. Para que la",
+    "duration": 7560,
+    "offset": 377199,
+    "lang": "es"
+  },
+  {
+    "text": "suma sea constante, su presión o su",
+    "duration": 5521,
+    "offset": 381919,
+    "lang": "es"
+  },
+  {
+    "text": "altura H tendrían que disminuir,",
+    "duration": 6081,
+    "offset": 384759,
+    "lang": "es"
+  },
+  {
+    "text": "¿correcto? Si la tubería es horizontal,",
+    "duration": 7000,
+    "offset": 387440,
+    "lang": "es"
+  },
+  {
+    "text": "H no cambia y la velocidad aumenta,",
+    "duration": 6600,
+    "offset": 390840,
+    "lang": "es"
+  },
+  {
+    "text": "entonces la presión debe disminuir. Es",
+    "duration": 5599,
+    "offset": 394440,
+    "lang": "es"
+  },
+  {
+    "text": "el famoso efecto venturi y es",
+    "duration": 4879,
+    "offset": 397440,
+    "lang": "es"
+  },
+  {
+    "text": "fundamental para entender cómo vuelan",
+    "duration": 5160,
+    "offset": 400039,
+    "lang": "es"
+  },
+  {
+    "text": "los aviones. Por ejemplo, el aire fluye",
+    "duration": 5000,
+    "offset": 402319,
+    "lang": "es"
+  },
+  {
+    "text": "más rápido sobre la parte superior curva",
+    "duration": 4921,
+    "offset": 405199,
+    "lang": "es"
+  },
+  {
+    "text": "del ala, disminuyendo la presión ahí y",
+    "duration": 5720,
+    "offset": 407319,
+    "lang": "es"
+  },
+  {
+    "text": "generando sustentación. Increíble. O",
+    "duration": 4600,
+    "offset": 410120,
+    "lang": "es"
+  },
+  {
+    "text": "sea, que la ecuación de Bernulín no es",
+    "duration": 4201,
+    "offset": 413039,
+    "lang": "es"
+  },
+  {
+    "text": "solo una fórmula matemática, sino una",
+    "duration": 4440,
+    "offset": 414720,
+    "lang": "es"
+  },
+  {
+    "text": "forma de ver cómo la energía se",
+    "duration": 3760,
+    "offset": 417240,
+    "lang": "es"
+  },
+  {
+    "text": "transforma dentro de un fluido en",
+    "duration": 4560,
+    "offset": 419160,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento, pero siempre se conserva en",
+    "duration": 5599,
+    "offset": 421000,
+    "lang": "es"
+  },
+  {
+    "text": "total. Esa es la clave, Alex. Es una",
+    "duration": 5159,
+    "offset": 423720,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta poderosísima para analizar",
+    "duration": 3841,
+    "offset": 426599,
+    "lang": "es"
+  },
+  {
+    "text": "el comportamiento de los fluidos",
+    "duration": 4521,
+    "offset": 428879,
+    "lang": "es"
+  },
+  {
+    "text": "ideales. Pues, Sofía, muchas gracias.",
+    "duration": 4800,
+    "offset": 430440,
+    "lang": "es"
+  },
+  {
+    "text": "Creo que ahora entiendo mucho mejor qué",
+    "duration": 4160,
+    "offset": 433400,
+    "lang": "es"
+  },
+  {
+    "text": "es la hidrodinámica, los fluidos",
+    "duration": 5079,
+    "offset": 435240,
+    "lang": "es"
+  },
+  {
+    "text": "ideales, los regímenes laminal y",
+    "duration": 5520,
+    "offset": 437560,
+    "lang": "es"
+  },
+  {
+    "text": "turbulento, el caudal, la ecuación de",
+    "duration": 5521,
+    "offset": 440319,
+    "lang": "es"
+  },
+  {
+    "text": "continuidad y la importantísima ecuación",
+    "duration": 4880,
+    "offset": 443080,
+    "lang": "es"
+  },
+  {
+    "text": "de Bernuli desde la perspectiva de la",
+    "duration": 3720,
+    "offset": 445840,
+    "lang": "es"
+  },
+  {
+    "text": "energía.",
+    "duration": 4160,
+    "offset": 447960,
+    "lang": "es"
+  },
+  {
+    "text": "De nada, Alex, es un placer explorar",
+    "duration": 5479,
+    "offset": 449560,
+    "lang": "es"
+  },
+  {
+    "text": "estos temas y para nuestros oyentes",
+    "duration": 4720,
+    "offset": 452120,
+    "lang": "es"
+  },
+  {
+    "text": "esperamos que esta inmersión en la",
+    "duration": 3801,
+    "offset": 455039,
+    "lang": "es"
+  },
+  {
+    "text": "hidrodinámica haya sido clara y",
+    "duration": 4520,
+    "offset": 456840,
+    "lang": "es"
+  },
+  {
+    "text": "estimulante. No olviden seguir fluyendo",
+    "duration": 7919,
+    "offset": 458840,
+    "lang": "es"
+  },
+  {
+    "text": "con la ciencia. Hasta la próxima. Adiós.",
+    "duration": 5399,
+    "offset": 461360,
+    "lang": "es"
+  }
+]

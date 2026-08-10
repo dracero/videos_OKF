@@ -1,0 +1,428 @@
+[
+  {
+    "text": "Vamos a mostrar el sistema que estuvimos",
+    "duration": 4799,
+    "offset": 1000,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo ayer.",
+    "duration": 4600,
+    "offset": 3520,
+    "lang": "es"
+  },
+  {
+    "text": "Terminamos de armarlo",
+    "duration": 4401,
+    "offset": 5799,
+    "lang": "es"
+  },
+  {
+    "text": "trabajando en conjunto con todos los",
+    "duration": 5000,
+    "offset": 8120,
+    "lang": "es"
+  },
+  {
+    "text": "alumnos para la facultad de medicina. En",
+    "duration": 5880,
+    "offset": 10200,
+    "lang": "es"
+  },
+  {
+    "text": "principio vamos a poner",
+    "duration": 5960,
+    "offset": 13120,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes",
+    "duration": 6840,
+    "offset": 16080,
+    "lang": "es"
+  },
+  {
+    "text": "de tejidos. Le vamos a decir si me podés",
+    "duration": 6240,
+    "offset": 19080,
+    "lang": "es"
+  },
+  {
+    "text": "explicar",
+    "duration": 6519,
+    "offset": 22920,
+    "lang": "es"
+  },
+  {
+    "text": "el tejido de la imagen",
+    "duration": 4119,
+    "offset": 25320,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí vamos a esperar para que nos",
+    "duration": 6681,
+    "offset": 30519,
+    "lang": "es"
+  },
+  {
+    "text": "responda de qué tejido se trata esa",
+    "duration": 5800,
+    "offset": 33640,
+    "lang": "es"
+  },
+  {
+    "text": "imagen. En principio es eso. utilizando",
+    "duration": 6600,
+    "offset": 37200,
+    "lang": "es"
+  },
+  {
+    "text": "un sistema multimodal que es Metalama eh",
+    "duration": 8720,
+    "offset": 39440,
+    "lang": "es"
+  },
+  {
+    "text": "4, lo que vamos a hacer es e que nos",
+    "duration": 5919,
+    "offset": 43800,
+    "lang": "es"
+  },
+  {
+    "text": "diga",
+    "duration": 3120,
+    "offset": 48160,
+    "lang": "es"
+  },
+  {
+    "text": "el tejido de la imagen. Bien,",
+    "duration": 2881,
+    "offset": 49719,
+    "lang": "es"
+  },
+  {
+    "text": "corresponde a tejido nervioso,",
+    "duration": 4560,
+    "offset": 51280,
+    "lang": "es"
+  },
+  {
+    "text": "específicamente corteza cerebelosa y nos",
+    "duration": 5279,
+    "offset": 52600,
+    "lang": "es"
+  },
+  {
+    "text": "dice la referencia del manual porque",
+    "duration": 3640,
+    "offset": 55840,
+    "lang": "es"
+  },
+  {
+    "text": "estamos haando un manual de",
+    "duration": 3840,
+    "offset": 57879,
+    "lang": "es"
+  },
+  {
+    "text": "estopatología. Vamos a buscar otra",
+    "duration": 5239,
+    "offset": 59480,
+    "lang": "es"
+  },
+  {
+    "text": "imagen.",
+    "duration": 3000,
+    "offset": 61719,
+    "lang": "es"
+  },
+  {
+    "text": "Podes escribir el tejo de la imagen.",
+    "duration": 10000,
+    "offset": 67880,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces ahí buscamos otra imagen. Nos",
+    "duration": 7960,
+    "offset": 73880,
+    "lang": "es"
+  },
+  {
+    "text": "va a describir siempre haciendo",
+    "duration": 7239,
+    "offset": 77880,
+    "lang": "es"
+  },
+  {
+    "text": "rag sobre haciendo rag multimodal sobre",
+    "duration": 6080,
+    "offset": 81840,
+    "lang": "es"
+  },
+  {
+    "text": "el manual de histopatología.",
+    "duration": 5801,
+    "offset": 85119,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 3000,
+    "offset": 87920,
+    "lang": "es"
+  },
+  {
+    "text": "eh identificado corresponde tejido",
+    "duration": 3120,
+    "offset": 91400,
+    "lang": "es"
+  },
+  {
+    "text": "contio especializado especial cartílago",
+    "duration": 5401,
+    "offset": 92799,
+    "lang": "es"
+  },
+  {
+    "text": "yalino. Este cartílago. Bien, entonces",
+    "duration": 6400,
+    "offset": 94520,
+    "lang": "es"
+  },
+  {
+    "text": "acá le voy a decir, bueno, ¿me podés",
+    "duration": 4520,
+    "offset": 98200,
+    "lang": "es"
+  },
+  {
+    "text": "explicar",
+    "duration": 5239,
+    "offset": 100920,
+    "lang": "es"
+  },
+  {
+    "text": "los distintos",
+    "duration": 3439,
+    "offset": 102720,
+    "lang": "es"
+  },
+  {
+    "text": "tipos de tejido",
+    "duration": 7400,
+    "offset": 106640,
+    "lang": "es"
+  },
+  {
+    "text": "cartilaginoso",
+    "duration": 6800,
+    "offset": 111240,
+    "lang": "es"
+  },
+  {
+    "text": "que existen?",
+    "duration": 4000,
+    "offset": 114040,
+    "lang": "es"
+  },
+  {
+    "text": "según el manual,",
+    "duration": 5400,
+    "offset": 118719,
+    "lang": "es"
+  },
+  {
+    "text": "acuérdense que esto lo hicimos a través",
+    "duration": 4761,
+    "offset": 122079,
+    "lang": "es"
+  },
+  {
+    "text": "de un manual de histopatología y ahí me",
+    "duration": 5441,
+    "offset": 124119,
+    "lang": "es"
+  },
+  {
+    "text": "va a devolver los distintos tipos de",
+    "duration": 5399,
+    "offset": 126840,
+    "lang": "es"
+  },
+  {
+    "text": "tejido que tiene el manual.",
+    "duration": 4080,
+    "offset": 129560,
+    "lang": "es"
+  },
+  {
+    "text": "Acá me dice, según el manual, los",
+    "duration": 3121,
+    "offset": 132239,
+    "lang": "es"
+  },
+  {
+    "text": "distintos tipos de tejido cartiloginosos",
+    "duration": 4360,
+    "offset": 133640,
+    "lang": "es"
+  },
+  {
+    "text": "son cartílago ialino, cartílago",
+    "duration": 4720,
+    "offset": 135360,
+    "lang": "es"
+  },
+  {
+    "text": "elástico, cartílago fibroso, cartílago",
+    "duration": 3879,
+    "offset": 138000,
+    "lang": "es"
+  },
+  {
+    "text": "embrionario, cartílago de crecimiento,",
+    "duration": 4400,
+    "offset": 140080,
+    "lang": "es"
+  },
+  {
+    "text": "cartílago metaficiario. Y es importante",
+    "duration": 4161,
+    "offset": 141879,
+    "lang": "es"
+  },
+  {
+    "text": "que estos tipos de tejidos cartilos se",
+    "duration": 3280,
+    "offset": 144480,
+    "lang": "es"
+  },
+  {
+    "text": "comportan de células como controlitos,",
+    "duration": 3120,
+    "offset": 146040,
+    "lang": "es"
+  },
+  {
+    "text": "controlastos, bueno, un montón de cosas",
+    "duration": 4000,
+    "offset": 147760,
+    "lang": "es"
+  },
+  {
+    "text": "que de ingeniería no entendemos nada. y",
+    "duration": 6359,
+    "offset": 149160,
+    "lang": "es"
+  },
+  {
+    "text": "le voy a decir, \"¿Me podés",
+    "duration": 5839,
+    "offset": 151760,
+    "lang": "es"
+  },
+  {
+    "text": "mostrar",
+    "duration": 5360,
+    "offset": 155519,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes de",
+    "duration": 8560,
+    "offset": 157599,
+    "lang": "es"
+  },
+  {
+    "text": "eh y le vamos a poner este acá?",
+    "duration": 5280,
+    "offset": 160879,
+    "lang": "es"
+  },
+  {
+    "text": "Le vamos a decir que nos muestre",
+    "duration": 5479,
+    "offset": 166840,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes de cartílago embrionario y ahí",
+    "duration": 6000,
+    "offset": 169159,
+    "lang": "es"
+  },
+  {
+    "text": "va a ir a buscar bien.\" Nos trae la",
+    "duration": 5161,
+    "offset": 172319,
+    "lang": "es"
+  },
+  {
+    "text": "imagen, nos dice, nos explica, bueno,",
+    "duration": 4440,
+    "offset": 175159,
+    "lang": "es"
+  },
+  {
+    "text": "qué es el cartílago embrionario y",
+    "duration": 3839,
+    "offset": 177480,
+    "lang": "es"
+  },
+  {
+    "text": "podemos hacer clic.",
+    "duration": 4881,
+    "offset": 179599,
+    "lang": "es"
+  },
+  {
+    "text": "y nos muestra acá agrandado la imagen",
+    "duration": 8881,
+    "offset": 181319,
+    "lang": "es"
+  },
+  {
+    "text": "para que la podamos ver bien en detalle.",
+    "duration": 8640,
+    "offset": 184480,
+    "lang": "es"
+  },
+  {
+    "text": "Nos explica todo lo que dice abajo el",
+    "duration": 5039,
+    "offset": 190200,
+    "lang": "es"
+  },
+  {
+    "text": "texto de la imagen para que podamos ver",
+    "duration": 3800,
+    "offset": 193120,
+    "lang": "es"
+  },
+  {
+    "text": "esto. Siempre depende de cómo hayan",
+    "duration": 4401,
+    "offset": 195239,
+    "lang": "es"
+  },
+  {
+    "text": "curado el material.",
+    "duration": 6560,
+    "offset": 196920,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, y así eh llegamos al al primer",
+    "duration": 6959,
+    "offset": 199640,
+    "lang": "es"
+  },
+  {
+    "text": "MVP. M.",
+    "duration": 3119,
+    "offset": 203480,
+    "lang": "es"
+  }
+]

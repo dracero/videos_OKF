@@ -1,0 +1,5792 @@
+[
+  {
+    "text": "la grabación si en algún momento",
+    "duration": 4160,
+    "offset": 11280,
+    "lang": "es"
+  },
+  {
+    "text": "aparecen nombres de estudiantes y demás",
+    "duration": 3799,
+    "offset": 13400,
+    "lang": "es"
+  },
+  {
+    "text": "porque la vez pasada había grabado un",
+    "duration": 3720,
+    "offset": 15440,
+    "lang": "es"
+  },
+  {
+    "text": "montón de notas y nombres de estudiantes",
+    "duration": 4000,
+    "offset": 17199,
+    "lang": "es"
+  },
+  {
+    "text": "y resulta que no se puede entonces",
+    "duration": 4160,
+    "offset": 19160,
+    "lang": "es"
+  },
+  {
+    "text": "después hubo como sarla y estuvimos como",
+    "duration": 4201,
+    "offset": 21199,
+    "lang": "es"
+  },
+  {
+    "text": "un mes editando para que no aparecieran",
+    "duration": 4240,
+    "offset": 23320,
+    "lang": "es"
+  },
+  {
+    "text": "los nombres Así que si ahora tienen que",
+    "duration": 4000,
+    "offset": 25400,
+    "lang": "es"
+  },
+  {
+    "text": "aparecer nombres la grabación la pongo",
+    "duration": 4679,
+    "offset": 27560,
+    "lang": "es"
+  },
+  {
+    "text": "en pausa bien Bueno vamos a empezar a",
+    "duration": 6960,
+    "offset": 29400,
+    "lang": "es"
+  },
+  {
+    "text": "ver este rápidamente las opciones que",
+    "duration": 6201,
+    "offset": 32239,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos nosotros cuando creamos un",
+    "duration": 3120,
+    "offset": 36360,
+    "lang": "es"
+  },
+  {
+    "text": "cuestionario",
+    "duration": 3840,
+    "offset": 38440,
+    "lang": "es"
+  },
+  {
+    "text": "en este",
+    "duration": 6719,
+    "offset": 39480,
+    "lang": "es"
+  },
+  {
+    "text": "moodle en general para evaluar lo ideal",
+    "duration": 6680,
+    "offset": 42280,
+    "lang": "es"
+  },
+  {
+    "text": "es hacer usar cuestionarios Aunque",
+    "duration": 4520,
+    "offset": 46199,
+    "lang": "es"
+  },
+  {
+    "text": "depende también de las características",
+    "duration": 3640,
+    "offset": 48960,
+    "lang": "es"
+  },
+  {
+    "text": "de la materia hay algunas materias que",
+    "duration": 4441,
+    "offset": 50719,
+    "lang": "es"
+  },
+  {
+    "text": "usan tareas la Cuál es la principal",
+    "duration": 4959,
+    "offset": 52600,
+    "lang": "es"
+  },
+  {
+    "text": "diferencia entre la tarea y el",
+    "duration": 4559,
+    "offset": 55160,
+    "lang": "es"
+  },
+  {
+    "text": "cuestionario desde el punto de vista de",
+    "duration": 3000,
+    "offset": 57559,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 4160,
+    "offset": 59719,
+    "lang": "es"
+  },
+  {
+    "text": "nota sucede que el cuestionario es un",
+    "duration": 5920,
+    "offset": 60559,
+    "lang": "es"
+  },
+  {
+    "text": "elemento de calificación automática el",
+    "duration": 5521,
+    "offset": 63879,
+    "lang": "es"
+  },
+  {
+    "text": "cuestionario no Uno no puede elegir la",
+    "duration": 5081,
+    "offset": 66479,
+    "lang": "es"
+  },
+  {
+    "text": "escala con la que califica cuando yo",
+    "duration": 6039,
+    "offset": 69400,
+    "lang": "es"
+  },
+  {
+    "text": "estoy trabajando con una tarea yo puedo",
+    "duration": 8360,
+    "offset": 71560,
+    "lang": "es"
+  },
+  {
+    "text": "en la tarea poner eh notas que yo mismo",
+    "duration": 7521,
+    "offset": 75439,
+    "lang": "es"
+  },
+  {
+    "text": "creo como este aprobado no aprobado",
+    "duration": 5800,
+    "offset": 79920,
+    "lang": "es"
+  },
+  {
+    "text": "satisfactorio no satisfactorio etcétera",
+    "duration": 5799,
+    "offset": 82960,
+    "lang": "es"
+  },
+  {
+    "text": "En cambio en el caso de los",
+    "duration": 6000,
+    "offset": 85720,
+    "lang": "es"
+  },
+  {
+    "text": "cuestionarios solamente me permite poner",
+    "duration": 4961,
+    "offset": 88759,
+    "lang": "es"
+  },
+  {
+    "text": "notas numéricas Por qué Porque el",
+    "duration": 3840,
+    "offset": 91720,
+    "lang": "es"
+  },
+  {
+    "text": "cuestionario lo que hace es califica en",
+    "duration": 3600,
+    "offset": 93720,
+    "lang": "es"
+  },
+  {
+    "text": "función de las preguntas que tenemos",
+    "duration": 3680,
+    "offset": 95560,
+    "lang": "es"
+  },
+  {
+    "text": "correctamente respondidas y esas",
+    "duration": 4040,
+    "offset": 97320,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas tienen valores que son números",
+    "duration": 4120,
+    "offset": 99240,
+    "lang": "es"
+  },
+  {
+    "text": "enteros son números reales y el",
+    "duration": 4560,
+    "offset": 101360,
+    "lang": "es"
+  },
+  {
+    "text": "cuestionario A menos que usen un tipo",
+    "duration": 4359,
+    "offset": 103360,
+    "lang": "es"
+  },
+  {
+    "text": "especial de pregunta que es la pregunta",
+    "duration": 5519,
+    "offset": 105920,
+    "lang": "es"
+  },
+  {
+    "text": "ensayo no es de calificación manual sino",
+    "duration": 6961,
+    "offset": 107719,
+    "lang": "es"
+  },
+  {
+    "text": "que es de eh calificación automática",
+    "duration": 6081,
+    "offset": 111439,
+    "lang": "es"
+  },
+  {
+    "text": "bien Entonces vamos a ver algunas",
+    "duration": 5439,
+    "offset": 114680,
+    "lang": "es"
+  },
+  {
+    "text": "opciones muchas ya las conocen la parte",
+    "duration": 4800,
+    "offset": 117520,
+    "lang": "es"
+  },
+  {
+    "text": "de temporalización cuando yo creo el",
+    "duration": 4201,
+    "offset": 120119,
+    "lang": "es"
+  },
+  {
+    "text": "cuestionario lo que le pongo es la fecha",
+    "duration": 5079,
+    "offset": 122320,
+    "lang": "es"
+  },
+  {
+    "text": "de inicio de la fecha de Fin y el límite",
+    "duration": 5600,
+    "offset": 124320,
+    "lang": "es"
+  },
+  {
+    "text": "de tiempo para resolver que esto se ve",
+    "duration": 5200,
+    "offset": 127399,
+    "lang": "es"
+  },
+  {
+    "text": "en esta parte abrir cerrar y límite de",
+    "duration": 6240,
+    "offset": 129920,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo y después tengo el este el",
+    "duration": 5881,
+    "offset": 132599,
+    "lang": "es"
+  },
+  {
+    "text": "periodo de gracia Qué es lo que pasa acá",
+    "duration": 5200,
+    "offset": 136160,
+    "lang": "es"
+  },
+  {
+    "text": "en el periodo de Gracia puedo decir que",
+    "duration": 5680,
+    "offset": 138480,
+    "lang": "es"
+  },
+  {
+    "text": "envío automáticamente que hay un periodo",
+    "duration": 5519,
+    "offset": 141360,
+    "lang": "es"
+  },
+  {
+    "text": "de gracia a partir del cual ya no puede",
+    "duration": 4439,
+    "offset": 144160,
+    "lang": "es"
+  },
+  {
+    "text": "responder preguntas pero sí puede",
+    "duration": 5080,
+    "offset": 146879,
+    "lang": "es"
+  },
+  {
+    "text": "apretar el botón de env o directamente",
+    "duration": 6360,
+    "offset": 148599,
+    "lang": "es"
+  },
+  {
+    "text": "que si no envió antes de que se agote el",
+    "duration": 5920,
+    "offset": 151959,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo de las 2 horas No se contabiliza",
+    "duration": 6560,
+    "offset": 154959,
+    "lang": "es"
+  },
+  {
+    "text": "el intento nosotros lo que solemos poner",
+    "duration": 8161,
+    "offset": 157879,
+    "lang": "es"
+  },
+  {
+    "text": "es 30 minutos por si eh el estudiante no",
+    "duration": 6440,
+    "offset": 161519,
+    "lang": "es"
+  },
+  {
+    "text": "presiona el botón de enviar y acá",
+    "duration": 4800,
+    "offset": 166040,
+    "lang": "es"
+  },
+  {
+    "text": "después es donde en la parte de la",
+    "duration": 5321,
+    "offset": 167959,
+    "lang": "es"
+  },
+  {
+    "text": "temporalización el periodo de gracia y",
+    "duration": 4800,
+    "offset": 170840,
+    "lang": "es"
+  },
+  {
+    "text": "el esquema es donde hay que ver qué cosa",
+    "duration": 5360,
+    "offset": 173280,
+    "lang": "es"
+  },
+  {
+    "text": "conviene hacer por qué Porque puede ser",
+    "duration": 6000,
+    "offset": 175640,
+    "lang": "es"
+  },
+  {
+    "text": "que eh por problemas en la conexión de",
+    "duration": 5560,
+    "offset": 178640,
+    "lang": "es"
+  },
+  {
+    "text": "internet porque no se dio cuenta por",
+    "duration": 4679,
+    "offset": 181640,
+    "lang": "es"
+  },
+  {
+    "text": "motivos variados al Estudiante se le",
+    "duration": 4759,
+    "offset": 184200,
+    "lang": "es"
+  },
+  {
+    "text": "ocurra recargar la página o sea está",
+    "duration": 4721,
+    "offset": 186319,
+    "lang": "es"
+  },
+  {
+    "text": "resolviendo el cuestionario y se le",
+    "duration": 4360,
+    "offset": 188959,
+    "lang": "es"
+  },
+  {
+    "text": "ocurre recargar la página o la o se",
+    "duration": 4119,
+    "offset": 191040,
+    "lang": "es"
+  },
+  {
+    "text": "recarga sola porque hubo un problema que",
+    "duration": 4401,
+    "offset": 193319,
+    "lang": "es"
+  },
+  {
+    "text": "se cortó la conexión a internet entonces",
+    "duration": 5921,
+    "offset": 195159,
+    "lang": "es"
+  },
+  {
+    "text": "hay que intentar configurar el",
+    "duration": 5439,
+    "offset": 197720,
+    "lang": "es"
+  },
+  {
+    "text": "cuestionario para que en caso de que eso",
+    "duration": 5239,
+    "offset": 201080,
+    "lang": "es"
+  },
+  {
+    "text": "suceda el impacto sea el mínimo posible",
+    "duration": 5961,
+    "offset": 203159,
+    "lang": "es"
+  },
+  {
+    "text": "más adelante vamos a ver este Cómo cómo",
+    "duration": 5721,
+    "offset": 206319,
+    "lang": "es"
+  },
+  {
+    "text": "es que con viene configurar bien el tema",
+    "duration": 5000,
+    "offset": 209120,
+    "lang": "es"
+  },
+  {
+    "text": "de la calificación como y les dije es",
+    "duration": 4800,
+    "offset": 212040,
+    "lang": "es"
+  },
+  {
+    "text": "una calificación numérica y acá lo que",
+    "duration": 5479,
+    "offset": 214120,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros samos es la calificación máxima",
+    "duration": 5280,
+    "offset": 216840,
+    "lang": "es"
+  },
+  {
+    "text": "para probar la calificación máxima para",
+    "duration": 5081,
+    "offset": 219599,
+    "lang": "es"
+  },
+  {
+    "text": "probar sirve para dos cosas Una es para",
+    "duration": 4319,
+    "offset": 222120,
+    "lang": "es"
+  },
+  {
+    "text": "poder setear la finalización de la",
+    "duration": 3720,
+    "offset": 224680,
+    "lang": "es"
+  },
+  {
+    "text": "actividad si es que la vamos a finalizar",
+    "duration": 4360,
+    "offset": 226439,
+    "lang": "es"
+  },
+  {
+    "text": "por nota y la otra cosa para la cual",
+    "duration": 5640,
+    "offset": 228400,
+    "lang": "es"
+  },
+  {
+    "text": "sirve es porque si el alumno no tiene",
+    "duration": 5561,
+    "offset": 230799,
+    "lang": "es"
+  },
+  {
+    "text": "una nota superior a la mínima para",
+    "duration": 4360,
+    "offset": 234040,
+    "lang": "es"
+  },
+  {
+    "text": "probar lo que va a haber en el libro de",
+    "duration": 4680,
+    "offset": 236360,
+    "lang": "es"
+  },
+  {
+    "text": "calificaciones es su calificación en",
+    "duration": 5280,
+    "offset": 238400,
+    "lang": "es"
+  },
+  {
+    "text": "color rojo y si se sacó en este caso un",
+    "duration": 4800,
+    "offset": 241040,
+    "lang": "es"
+  },
+  {
+    "text": "50 o más lo que va a ver es la",
+    "duration": 4520,
+    "offset": 243680,
+    "lang": "es"
+  },
+  {
+    "text": "calificación en color verde Así que",
+    "duration": 4280,
+    "offset": 245840,
+    "lang": "es"
+  },
+  {
+    "text": "tiene por un lado la parte visual que",
+    "duration": 3920,
+    "offset": 248200,
+    "lang": "es"
+  },
+  {
+    "text": "sirve o sea si el alumno ve color rojo",
+    "duration": 3560,
+    "offset": 250120,
+    "lang": "es"
+  },
+  {
+    "text": "que no aprobó si ve color verde es que",
+    "duration": 3839,
+    "offset": 252120,
+    "lang": "es"
+  },
+  {
+    "text": "aprobó y la otra parte es cuando uno",
+    "duration": 5399,
+    "offset": 253680,
+    "lang": "es"
+  },
+  {
+    "text": "elige eh hacer marcas de finalización de",
+    "duration": 4761,
+    "offset": 255959,
+    "lang": "es"
+  },
+  {
+    "text": "actividad que se pueden usar para",
+    "duration": 5721,
+    "offset": 259079,
+    "lang": "es"
+  },
+  {
+    "text": "distintas cosas el esquema el esquema",
+    "duration": 6680,
+    "offset": 260720,
+    "lang": "es"
+  },
+  {
+    "text": "supone la cantidad de",
+    "duration": 5720,
+    "offset": 264800,
+    "lang": "es"
+  },
+  {
+    "text": "eh de preguntas que vamos a poner por",
+    "duration": 5239,
+    "offset": 267400,
+    "lang": "es"
+  },
+  {
+    "text": "página y la manera en la que se va a",
+    "duration": 5880,
+    "offset": 270520,
+    "lang": "es"
+  },
+  {
+    "text": "navegar en esas preguntas ahora qué es",
+    "duration": 7361,
+    "offset": 272639,
+    "lang": "es"
+  },
+  {
+    "text": "lo que sucede acá esta parte es eh es",
+    "duration": 5200,
+    "offset": 276400,
+    "lang": "es"
+  },
+  {
+    "text": "donde yo les decía que hay que tener en",
+    "duration": 3360,
+    "offset": 280000,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta Qué hacer para minimizar el",
+    "duration": 4640,
+    "offset": 281600,
+    "lang": "es"
+  },
+  {
+    "text": "impacto si algo se cae si ustedes ponen",
+    "duration": 5760,
+    "offset": 283360,
+    "lang": "es"
+  },
+  {
+    "text": "todas las preguntas eh acá por ejemplo",
+    "duration": 5360,
+    "offset": 286240,
+    "lang": "es"
+  },
+  {
+    "text": "nunca todas las preguntas en una página",
+    "duration": 4240,
+    "offset": 289120,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes ponen todas las preguntas en una",
+    "duration": 3960,
+    "offset": 291600,
+    "lang": "es"
+  },
+  {
+    "text": "página el alumno contesta todas las",
+    "duration": 4440,
+    "offset": 293360,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas y por algún motivo se corta la",
+    "duration": 4320,
+    "offset": 295560,
+    "lang": "es"
+  },
+  {
+    "text": "conexión internet o tiene algún un",
+    "duration": 3920,
+    "offset": 297800,
+    "lang": "es"
+  },
+  {
+    "text": "problema y hace un recargar la página",
+    "duration": 3920,
+    "offset": 299880,
+    "lang": "es"
+  },
+  {
+    "text": "todo lo que había respondido se pierde",
+    "duration": 4960,
+    "offset": 301720,
+    "lang": "es"
+  },
+  {
+    "text": "yo vi el caso ya de varios exámenes",
+    "duration": 6959,
+    "offset": 303800,
+    "lang": "es"
+  },
+  {
+    "text": "configurados eh en una única página que",
+    "duration": 6480,
+    "offset": 306680,
+    "lang": "es"
+  },
+  {
+    "text": "el alumno envía está tardando en",
+    "duration": 4481,
+    "offset": 310759,
+    "lang": "es"
+  },
+  {
+    "text": "responder la colección a internet vuelve",
+    "duration": 3879,
+    "offset": 313160,
+    "lang": "es"
+  },
+  {
+    "text": "a apretar enviar y en esa segunda vez",
+    "duration": 3360,
+    "offset": 315240,
+    "lang": "es"
+  },
+  {
+    "text": "que vuelve apretar enviar se envía y se",
+    "duration": 3481,
+    "offset": 317039,
+    "lang": "es"
+  },
+  {
+    "text": "envía un cuestionario vacío y termina",
+    "duration": 4000,
+    "offset": 318600,
+    "lang": "es"
+  },
+  {
+    "text": "diciendo bueno estuvo conectado una hora",
+    "duration": 4880,
+    "offset": 320520,
+    "lang": "es"
+  },
+  {
+    "text": "y pico dos horas y el cu y hizo todo mal",
+    "duration": 4480,
+    "offset": 322600,
+    "lang": "es"
+  },
+  {
+    "text": "porque llegaron todas las preguntas sin",
+    "duration": 4400,
+    "offset": 325400,
+    "lang": "es"
+  },
+  {
+    "text": "responder acá lo que más conviene es",
+    "duration": 5360,
+    "offset": 327080,
+    "lang": "es"
+  },
+  {
+    "text": "página nueva en cada pregunta es decir",
+    "duration": 5280,
+    "offset": 329800,
+    "lang": "es"
+  },
+  {
+    "text": "cada pregunta en una página y lo ideal",
+    "duration": 5599,
+    "offset": 332440,
+    "lang": "es"
+  },
+  {
+    "text": "es que el método de navegación sea",
+    "duration": 6119,
+    "offset": 335080,
+    "lang": "es"
+  },
+  {
+    "text": "secuencial lo ideal a veces conviene",
+    "duration": 4801,
+    "offset": 338039,
+    "lang": "es"
+  },
+  {
+    "text": "poner libre ahora vamos a ver por qué Y",
+    "duration": 3560,
+    "offset": 341199,
+    "lang": "es"
+  },
+  {
+    "text": "de qué se nos quejaban algunos alumnos",
+    "duration": 3600,
+    "offset": 342840,
+    "lang": "es"
+  },
+  {
+    "text": "Pero qué es lo que pasa cuando uno pone",
+    "duration": 5681,
+    "offset": 344759,
+    "lang": "es"
+  },
+  {
+    "text": "cada una cuando uno pone una página por",
+    "duration": 6720,
+    "offset": 346440,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta Cuando el alumno pasa a la",
+    "duration": 5039,
+    "offset": 350440,
+    "lang": "es"
+  },
+  {
+    "text": "página siguiente la página anterior se",
+    "duration": 4720,
+    "offset": 353160,
+    "lang": "es"
+  },
+  {
+    "text": "envía al servidor y el dato ya queda",
+    "duration": 5041,
+    "offset": 355479,
+    "lang": "es"
+  },
+  {
+    "text": "guardado en el servidor entonces si en",
+    "duration": 5400,
+    "offset": 357880,
+    "lang": "es"
+  },
+  {
+    "text": "la última pregunta el alumno recarga la",
+    "duration": 4880,
+    "offset": 360520,
+    "lang": "es"
+  },
+  {
+    "text": "página o tiene algún problema si el",
+    "duration": 4800,
+    "offset": 363280,
+    "lang": "es"
+  },
+  {
+    "text": "alumno recarga cuando mucho lo lo que",
+    "duration": 4840,
+    "offset": 365400,
+    "lang": "es"
+  },
+  {
+    "text": "pierde es una pregunta que es la última",
+    "duration": 4200,
+    "offset": 368080,
+    "lang": "es"
+  },
+  {
+    "text": "que respondió pero todo el otro ya quedó",
+    "duration": 3920,
+    "offset": 370240,
+    "lang": "es"
+  },
+  {
+    "text": "en el servidor cuál es el problema de",
+    "duration": 6960,
+    "offset": 372280,
+    "lang": "es"
+  },
+  {
+    "text": "poner eh método de navegación secuencial",
+    "duration": 7439,
+    "offset": 374160,
+    "lang": "es"
+  },
+  {
+    "text": "versus método de navegación libre vamos",
+    "duration": 4079,
+    "offset": 379240,
+    "lang": "es"
+  },
+  {
+    "text": "para abajo comportamiento de las",
+    "duration": 4641,
+    "offset": 381599,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas acá dice ordenar las",
+    "duration": 5401,
+    "offset": 383319,
+    "lang": "es"
+  },
+  {
+    "text": "respuestas al azar y a veces también y",
+    "duration": 4560,
+    "offset": 386240,
+    "lang": "es"
+  },
+  {
+    "text": "generalmente también las preguntas para",
+    "duration": 4080,
+    "offset": 388720,
+    "lang": "es"
+  },
+  {
+    "text": "evitar la copia nosotros las ponemos al",
+    "duration": 4280,
+    "offset": 390800,
+    "lang": "es"
+  },
+  {
+    "text": "azar Entonces qué pasa la pregunta",
+    "duration": 4440,
+    "offset": 392800,
+    "lang": "es"
+  },
+  {
+    "text": "número uno para un alumno no es la",
+    "duration": 4239,
+    "offset": 395080,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta número uno parece otro alumno",
+    "duration": 4280,
+    "offset": 397240,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora bien nosotros por ejemplo tenemos",
+    "duration": 4201,
+    "offset": 399319,
+    "lang": "es"
+  },
+  {
+    "text": "un tema muy difícil en física un que es",
+    "duration": 4840,
+    "offset": 401520,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido o todas en general todas",
+    "duration": 4920,
+    "offset": 403520,
+    "lang": "es"
+  },
+  {
+    "text": "las materias tienen algún tema que sería",
+    "duration": 4440,
+    "offset": 406360,
+    "lang": "es"
+  },
+  {
+    "text": "el tema tabú o el tema más difícil",
+    "duration": 4360,
+    "offset": 408440,
+    "lang": "es"
+  },
+  {
+    "text": "resulta que hay alumnos pobres a los que",
+    "duration": 5079,
+    "offset": 410800,
+    "lang": "es"
+  },
+  {
+    "text": "al azar le toca primero la pregunta más",
+    "duration": 6440,
+    "offset": 412800,
+    "lang": "es"
+  },
+  {
+    "text": "difícil ent el pobre alumno está a lo",
+    "duration": 6641,
+    "offset": 415879,
+    "lang": "es"
+  },
+  {
+    "text": "mejor este la mitad del tiempo que le",
+    "duration": 5600,
+    "offset": 419240,
+    "lang": "es"
+  },
+  {
+    "text": "insume el parcial en hacer esa pregunta",
+    "duration": 5440,
+    "offset": 422520,
+    "lang": "es"
+  },
+  {
+    "text": "y una vez que supera ese escollo Este no",
+    "duration": 5280,
+    "offset": 424840,
+    "lang": "es"
+  },
+  {
+    "text": "tiene tiempo para hacer lo que resta en",
+    "duration": 4679,
+    "offset": 427960,
+    "lang": "es"
+  },
+  {
+    "text": "cambio hay alguien al que le toca última",
+    "duration": 4880,
+    "offset": 430120,
+    "lang": "es"
+  },
+  {
+    "text": "la pregunta esa Y entonces hizo todo el",
+    "duration": 4280,
+    "offset": 432639,
+    "lang": "es"
+  },
+  {
+    "text": "parcial menos esa pregunta que es la más",
+    "duration": 5240,
+    "offset": 435000,
+    "lang": "es"
+  },
+  {
+    "text": "difícil entonces el tema de el método de",
+    "duration": 6081,
+    "offset": 436919,
+    "lang": "es"
+  },
+  {
+    "text": "navegación libre secuencial si bien lo",
+    "duration": 5799,
+    "offset": 440240,
+    "lang": "es"
+  },
+  {
+    "text": "ideal que sería sería tener una pregunta",
+    "duration": 4800,
+    "offset": 443000,
+    "lang": "es"
+  },
+  {
+    "text": "por página método de navegación",
+    "duration": 5600,
+    "offset": 446039,
+    "lang": "es"
+  },
+  {
+    "text": "secuencial porque así jamás sucede que",
+    "duration": 6320,
+    "offset": 447800,
+    "lang": "es"
+  },
+  {
+    "text": "hay una pregunta que no se envía a lo",
+    "duration": 5081,
+    "offset": 451639,
+    "lang": "es"
+  },
+  {
+    "text": "más una única que es la última puede ser",
+    "duration": 5400,
+    "offset": 454120,
+    "lang": "es"
+  },
+  {
+    "text": "que no se envíe pero lo que sucede",
+    "duration": 4759,
+    "offset": 456720,
+    "lang": "es"
+  },
+  {
+    "text": "también es que es un poco Injusto si",
+    "duration": 4760,
+    "offset": 459520,
+    "lang": "es"
+  },
+  {
+    "text": "ordenamos al azar porque puede ser que",
+    "duration": 5961,
+    "offset": 461479,
+    "lang": "es"
+  },
+  {
+    "text": "haya algunos alumnos a los que le toque",
+    "duration": 5639,
+    "offset": 464280,
+    "lang": "es"
+  },
+  {
+    "text": "primero en la pregunta más difícil y se",
+    "duration": 4240,
+    "offset": 467440,
+    "lang": "es"
+  },
+  {
+    "text": "pierdan el tiempo y no puedan responder",
+    "duration": 3881,
+    "offset": 469919,
+    "lang": "es"
+  },
+  {
+    "text": "el examen Pero bueno hay que fijarse en",
+    "duration": 4239,
+    "offset": 471680,
+    "lang": "es"
+  },
+  {
+    "text": "función de cómo hacemos el examen que",
+    "duration": 4720,
+    "offset": 473800,
+    "lang": "es"
+  },
+  {
+    "text": "puede suceder tal vez esa situación que",
+    "duration": 4960,
+    "offset": 475919,
+    "lang": "es"
+  },
+  {
+    "text": "por ahí no es del todo pareja para los",
+    "duration": 4920,
+    "offset": 478520,
+    "lang": "es"
+  },
+  {
+    "text": "alumnos comportamiento de las preguntas",
+    "duration": 5760,
+    "offset": 480879,
+    "lang": "es"
+  },
+  {
+    "text": "cuando estamos tomando un examen lo",
+    "duration": 5960,
+    "offset": 483440,
+    "lang": "es"
+  },
+  {
+    "text": "ideal en el examen es hacer la",
+    "duration": 5520,
+    "offset": 486639,
+    "lang": "es"
+  },
+  {
+    "text": "retroalimentación diferida Por qué",
+    "duration": 4960,
+    "offset": 489400,
+    "lang": "es"
+  },
+  {
+    "text": "Porque la retroalimentación diferida lo",
+    "duration": 5281,
+    "offset": 492159,
+    "lang": "es"
+  },
+  {
+    "text": "que supone es que el alumno va a ver si",
+    "duration": 5160,
+    "offset": 494360,
+    "lang": "es"
+  },
+  {
+    "text": "hizo bien o si hizo mal una vez que el",
+    "duration": 4840,
+    "offset": 497440,
+    "lang": "es"
+  },
+  {
+    "text": "examen haya cerrado Entonces lo mejor",
+    "duration": 5920,
+    "offset": 499520,
+    "lang": "es"
+  },
+  {
+    "text": "que hay es hacer una este",
+    "duration": 5280,
+    "offset": 502280,
+    "lang": "es"
+  },
+  {
+    "text": "retroalimentación",
+    "duration": 6159,
+    "offset": 505440,
+    "lang": "es"
+  },
+  {
+    "text": "eh diferida acá estamos hablando siempre",
+    "duration": 6080,
+    "offset": 507560,
+    "lang": "es"
+  },
+  {
+    "text": "por supuesto de un examen que tiene un",
+    "duration": 4920,
+    "offset": 511599,
+    "lang": "es"
+  },
+  {
+    "text": "único intento si configuramos",
+    "duration": 5720,
+    "offset": 513640,
+    "lang": "es"
+  },
+  {
+    "text": "retroalimentación diferida lo que",
+    "duration": 6080,
+    "offset": 516519,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros tenemos que hacer",
+    "duration": 7200,
+    "offset": 519360,
+    "lang": "es"
+  },
+  {
+    "text": "este es destildar todas las opciones",
+    "duration": 6601,
+    "offset": 522599,
+    "lang": "es"
+  },
+  {
+    "text": "menos Esta última que dice después una",
+    "duration": 4839,
+    "offset": 526560,
+    "lang": "es"
+  },
+  {
+    "text": "vez cerrado el cuestionario per el",
+    "duration": 4759,
+    "offset": 529200,
+    "lang": "es"
+  },
+  {
+    "text": "intento si fuera correcta y si queremos",
+    "duration": 4801,
+    "offset": 531399,
+    "lang": "es"
+  },
+  {
+    "text": "los puntos o sea qué es lo que sucede",
+    "duration": 3880,
+    "offset": 533959,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que vieron que el cuestionario",
+    "duration": 3680,
+    "offset": 536200,
+    "lang": "es"
+  },
+  {
+    "text": "tenía una fecha de apertura y una fecha",
+    "duration": 4401,
+    "offset": 537839,
+    "lang": "es"
+  },
+  {
+    "text": "de cierre si nosotros configuramos",
+    "duration": 4959,
+    "offset": 539880,
+    "lang": "es"
+  },
+  {
+    "text": "retroalimentación diferida y que vean el",
+    "duration": 5640,
+    "offset": 542240,
+    "lang": "es"
+  },
+  {
+    "text": "intento los puntos y si fue correcta una",
+    "duration": 6440,
+    "offset": 544839,
+    "lang": "es"
+  },
+  {
+    "text": "vez que este cerró el cuestionario el",
+    "duration": 5880,
+    "offset": 547880,
+    "lang": "es"
+  },
+  {
+    "text": "alumno lo va a ver en horario posterior",
+    "duration": 4361,
+    "offset": 551279,
+    "lang": "es"
+  },
+  {
+    "text": "al horario de cierre con lo cual no va a",
+    "duration": 4000,
+    "offset": 553760,
+    "lang": "es"
+  },
+  {
+    "text": "poder enmendar nada o sea va a ver lo",
+    "duration": 3720,
+    "offset": 555640,
+    "lang": "es"
+  },
+  {
+    "text": "que hizo bien lo que hizo mal pero no va",
+    "duration": 4360,
+    "offset": 557760,
+    "lang": "es"
+  },
+  {
+    "text": "a poder arreglar nada y la calificación",
+    "duration": 5440,
+    "offset": 559360,
+    "lang": "es"
+  },
+  {
+    "text": "el puntaje se pone en forma automática",
+    "duration": 5440,
+    "offset": 562120,
+    "lang": "es"
+  },
+  {
+    "text": "siempre y cuando recuerden no tengamos",
+    "duration": 3560,
+    "offset": 564800,
+    "lang": "es"
+  },
+  {
+    "text": "una",
+    "duration": 4000,
+    "offset": 567560,
+    "lang": "es"
+  },
+  {
+    "text": "eh pregunta tipo ensayo porque esa es de",
+    "duration": 6000,
+    "offset": 568360,
+    "lang": "es"
+  },
+  {
+    "text": "calificación manual pero si no tenemos",
+    "duration": 5360,
+    "offset": 571560,
+    "lang": "es"
+  },
+  {
+    "text": "una pregunta tipo ensayo entonces van a",
+    "duration": 4520,
+    "offset": 574360,
+    "lang": "es"
+  },
+  {
+    "text": "ser todas de calificación automática y",
+    "duration": 4200,
+    "offset": 576920,
+    "lang": "es"
+  },
+  {
+    "text": "el alumno va a ver los puntos una vez",
+    "duration": 5280,
+    "offset": 578880,
+    "lang": "es"
+  },
+  {
+    "text": "terminado el una vez cerrado el intento",
+    "duration": 6040,
+    "offset": 581120,
+    "lang": "es"
+  },
+  {
+    "text": "sea no va a poder endar",
+    "duration": 4880,
+    "offset": 584160,
+    "lang": "es"
+  },
+  {
+    "text": "nada",
+    "duration": 5239,
+    "offset": 587160,
+    "lang": "es"
+  },
+  {
+    "text": "eh bueno acá la apariencia en general si",
+    "duration": 5520,
+    "offset": 589040,
+    "lang": "es"
+  },
+  {
+    "text": "ponemos o no puntos decimales para las",
+    "duration": 4521,
+    "offset": 592399,
+    "lang": "es"
+  },
+  {
+    "text": "calificaciones esta parte de la",
+    "duration": 6080,
+    "offset": 594560,
+    "lang": "es"
+  },
+  {
+    "text": "apariencia en general no es tan",
+    "duration": 7080,
+    "offset": 596920,
+    "lang": "es"
+  },
+  {
+    "text": "á puedo hacerte una pregunta sí",
+    "duration": 5720,
+    "offset": 600640,
+    "lang": "es"
+  },
+  {
+    "text": "en vos hablaste de que la",
+    "duration": 4360,
+    "offset": 604000,
+    "lang": "es"
+  },
+  {
+    "text": "retroalimentación diferida era cuando",
+    "duration": 5039,
+    "offset": 606360,
+    "lang": "es"
+  },
+  {
+    "text": "era un único intento cuando es más de un",
+    "duration": 5840,
+    "offset": 608360,
+    "lang": "es"
+  },
+  {
+    "text": "intento eh No es justamente lo que vos",
+    "duration": 5000,
+    "offset": 611399,
+    "lang": "es"
+  },
+  {
+    "text": "estás diciendo no en realidad la",
+    "duration": 5560,
+    "offset": 614200,
+    "lang": "es"
+  },
+  {
+    "text": "retroalimentación diferida lo que supone",
+    "duration": 6680,
+    "offset": 616399,
+    "lang": "es"
+  },
+  {
+    "text": "no es eh En realidad es se da una vez",
+    "duration": 5880,
+    "offset": 619760,
+    "lang": "es"
+  },
+  {
+    "text": "que cerró el cuestionario o sea cuando",
+    "duration": 5681,
+    "offset": 623079,
+    "lang": "es"
+  },
+  {
+    "text": "se vence la esta fecha cuando se cumple",
+    "duration": 5520,
+    "offset": 625640,
+    "lang": "es"
+  },
+  {
+    "text": "esta fecha de cierre eh pero está",
+    "duration": 4000,
+    "offset": 628760,
+    "lang": "es"
+  },
+  {
+    "text": "configurado de esta manera en",
+    "duration": 4119,
+    "offset": 631160,
+    "lang": "es"
+  },
+  {
+    "text": "retroalimentación diferida y Mostrar",
+    "duration": 4519,
+    "offset": 632760,
+    "lang": "es"
+  },
+  {
+    "text": "después de cerrado el cuestionario",
+    "duration": 4560,
+    "offset": 635279,
+    "lang": "es"
+  },
+  {
+    "text": "entonces nunca va a ver si el primer",
+    "duration": 5481,
+    "offset": 637279,
+    "lang": "es"
+  },
+  {
+    "text": "intento fue correcto o no eh A donde sí",
+    "duration": 6041,
+    "offset": 639839,
+    "lang": "es"
+  },
+  {
+    "text": "es distinto es acá pero es como que",
+    "duration": 6079,
+    "offset": 642760,
+    "lang": "es"
+  },
+  {
+    "text": "puede modificar la respuesta Entonces no",
+    "duration": 7000,
+    "offset": 645880,
+    "lang": "es"
+  },
+  {
+    "text": "no no no no no O sea el el intento",
+    "duration": 7201,
+    "offset": 648839,
+    "lang": "es"
+  },
+  {
+    "text": "cuando aprieta el botón de enviar ahí se",
+    "duration": 6639,
+    "offset": 652880,
+    "lang": "es"
+  },
+  {
+    "text": "contabiliza un intento Eh no puede ver",
+    "duration": 5520,
+    "offset": 656040,
+    "lang": "es"
+  },
+  {
+    "text": "hasta que no esté completa la fecha de",
+    "duration": 4081,
+    "offset": 659519,
+    "lang": "es"
+  },
+  {
+    "text": "cierre si lo hizo bien o si lo hizo mal",
+    "duration": 5360,
+    "offset": 661560,
+    "lang": "es"
+  },
+  {
+    "text": "y si lo ve una vez que está completada",
+    "duration": 5479,
+    "offset": 663600,
+    "lang": "es"
+  },
+  {
+    "text": "la fecha de cierre si ustedes dejaron",
+    "duration": 4560,
+    "offset": 666920,
+    "lang": "es"
+  },
+  {
+    "text": "todo abierto menos Esto va a ver que el",
+    "duration": 5200,
+    "offset": 669079,
+    "lang": "es"
+  },
+  {
+    "text": "intento ese Este lo hizo bien va a ver",
+    "duration": 4640,
+    "offset": 671480,
+    "lang": "es"
+  },
+  {
+    "text": "que intento hizo mal pero no va a poder",
+    "duration": 5281,
+    "offset": 674279,
+    "lang": "es"
+  },
+  {
+    "text": "enmendar nada este en general digamos",
+    "duration": 7600,
+    "offset": 676120,
+    "lang": "es"
+  },
+  {
+    "text": "para evaluar lo ideal es Mostrar la los",
+    "duration": 6079,
+    "offset": 679560,
+    "lang": "es"
+  },
+  {
+    "text": "resultados una vez que el cuestionario",
+    "duration": 4520,
+    "offset": 683720,
+    "lang": "es"
+  },
+  {
+    "text": "Está cerrado porque si no el alumno sí",
+    "duration": 5041,
+    "offset": 685639,
+    "lang": "es"
+  },
+  {
+    "text": "puede ver en entre intento e intento si",
+    "duration": 4640,
+    "offset": 688240,
+    "lang": "es"
+  },
+  {
+    "text": "tiene más de uno qué fue lo que hizo mal",
+    "duration": 5120,
+    "offset": 690680,
+    "lang": "es"
+  },
+  {
+    "text": "y puede enmendarse en el próximo verdad",
+    "duration": 7000,
+    "offset": 692880,
+    "lang": "es"
+  },
+  {
+    "text": "bien digo la la auto la",
+    "duration": 7360,
+    "offset": 695800,
+    "lang": "es"
+  },
+  {
+    "text": "digamos cuando no es diferidas entiendo",
+    "duration": 6120,
+    "offset": 699880,
+    "lang": "es"
+  },
+  {
+    "text": "yo es solo cuando es autoevaluación o no",
+    "duration": 7600,
+    "offset": 703160,
+    "lang": "es"
+  },
+  {
+    "text": "O me equivoco Eh sí porque en realidad",
+    "duration": 7560,
+    "offset": 706000,
+    "lang": "es"
+  },
+  {
+    "text": "la otra sería la tarea y las tareas en",
+    "duration": 5600,
+    "offset": 710760,
+    "lang": "es"
+  },
+  {
+    "text": "general no no tienen la tarea la",
+    "duration": 5200,
+    "offset": 713560,
+    "lang": "es"
+  },
+  {
+    "text": "devolución es instantánea digamos cuando",
+    "duration": 5120,
+    "offset": 716360,
+    "lang": "es"
+  },
+  {
+    "text": "el alumno no hace una tarea no no sería",
+    "duration": 5160,
+    "offset": 718760,
+    "lang": "es"
+  },
+  {
+    "text": "el caso de un cuestionario eh pero",
+    "duration": 5000,
+    "offset": 721480,
+    "lang": "es"
+  },
+  {
+    "text": "cuando el alumno hace una tarea eh la",
+    "duration": 4400,
+    "offset": 723920,
+    "lang": "es"
+  },
+  {
+    "text": "retroalimentación la ven y viene el",
+    "duration": 3919,
+    "offset": 726480,
+    "lang": "es"
+  },
+  {
+    "text": "docente hace la devolución y le pone la",
+    "duration": 4600,
+    "offset": 728320,
+    "lang": "es"
+  },
+  {
+    "text": "nota lo que sucede que",
+    "duration": 5440,
+    "offset": 730399,
+    "lang": "es"
+  },
+  {
+    "text": "hay a veces pasa donde uno hace un",
+    "duration": 5560,
+    "offset": 732920,
+    "lang": "es"
+  },
+  {
+    "text": "cuestionario no para que el alumno sea",
+    "duration": 4560,
+    "offset": 735839,
+    "lang": "es"
+  },
+  {
+    "text": "evaluado sino para que el alumno",
+    "duration": 4719,
+    "offset": 738480,
+    "lang": "es"
+  },
+  {
+    "text": "comprenda un tema por ejemplo no sé está",
+    "duration": 6521,
+    "offset": 740399,
+    "lang": "es"
+  },
+  {
+    "text": "eh Hay cuestionarios a donde uno lo que",
+    "duration": 6000,
+    "offset": 743199,
+    "lang": "es"
+  },
+  {
+    "text": "quiere es que el alumno se dé cuenta",
+    "duration": 4400,
+    "offset": 746920,
+    "lang": "es"
+  },
+  {
+    "text": "cuál es la respuesta correcta y que",
+    "duration": 5241,
+    "offset": 749199,
+    "lang": "es"
+  },
+  {
+    "text": "piense y le da tres o cuatro intentos",
+    "duration": 6720,
+    "offset": 751320,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí puede hacer una retroalimentación",
+    "duration": 8199,
+    "offset": 754440,
+    "lang": "es"
+  },
+  {
+    "text": "no diferida ni bien termina de este ni",
+    "duration": 7640,
+    "offset": 758040,
+    "lang": "es"
+  },
+  {
+    "text": "bien Envía una pregunta puede ver si es",
+    "duration": 5481,
+    "offset": 762639,
+    "lang": "es"
+  },
+  {
+    "text": "que la hizo bien o no sin ver cuál es la",
+    "duration": 4519,
+    "offset": 765680,
+    "lang": "es"
+  },
+  {
+    "text": "correcta pero le dice Mira eso está mal",
+    "duration": 3760,
+    "offset": 768120,
+    "lang": "es"
+  },
+  {
+    "text": "entonces el alumno puede intentar de",
+    "duration": 5640,
+    "offset": 770199,
+    "lang": "es"
+  },
+  {
+    "text": "nuevo haciéndolo bien Este pero digamos",
+    "duration": 6399,
+    "offset": 771880,
+    "lang": "es"
+  },
+  {
+    "text": "eso no sería la idea de autoevaluación",
+    "duration": 4521,
+    "offset": 775839,
+    "lang": "es"
+  },
+  {
+    "text": "sino tal vez un cuestionario donde lo",
+    "duration": 4240,
+    "offset": 778279,
+    "lang": "es"
+  },
+  {
+    "text": "que quiere es reforzar un concepto este",
+    "duration": 3719,
+    "offset": 780360,
+    "lang": "es"
+  },
+  {
+    "text": "en el caso de autoevaluación lo que",
+    "duration": 2601,
+    "offset": 782519,
+    "lang": "es"
+  },
+  {
+    "text": "conviene siempre es poner",
+    "duration": 3361,
+    "offset": 784079,
+    "lang": "es"
+  },
+  {
+    "text": "retroalimentación diferida una vez",
+    "duration": 4320,
+    "offset": 785120,
+    "lang": "es"
+  },
+  {
+    "text": "cerrado el cuestionario Hola Diego Te",
+    "duration": 4959,
+    "offset": 787440,
+    "lang": "es"
+  },
+  {
+    "text": "hago una pregunta m eh cuando vos decís",
+    "duration": 5399,
+    "offset": 789440,
+    "lang": "es"
+  },
+  {
+    "text": "retroalimentación diferida uno le puede",
+    "duration": 4560,
+    "offset": 792399,
+    "lang": "es"
+  },
+  {
+    "text": "poner un horario Porque suponete que",
+    "duration": 4240,
+    "offset": 794839,
+    "lang": "es"
+  },
+  {
+    "text": "estamos tomando un examen y un alumno",
+    "duration": 4440,
+    "offset": 796959,
+    "lang": "es"
+  },
+  {
+    "text": "termina los 15 minutos y yo no quiero",
+    "duration": 4041,
+    "offset": 799079,
+    "lang": "es"
+  },
+  {
+    "text": "que vea la respuesta hasta que termine",
+    "duration": 4081,
+    "offset": 801399,
+    "lang": "es"
+  },
+  {
+    "text": "el examen de todos claro el tema es que",
+    "duration": 5000,
+    "offset": 803120,
+    "lang": "es"
+  },
+  {
+    "text": "la retroalimentación diferida como acá",
+    "duration": 5000,
+    "offset": 805480,
+    "lang": "es"
+  },
+  {
+    "text": "dice una vez cerrado el cuestionario",
+    "duration": 5320,
+    "offset": 808120,
+    "lang": "es"
+  },
+  {
+    "text": "para dar la retroalimentación se fija en",
+    "duration": 4960,
+    "offset": 810480,
+    "lang": "es"
+  },
+  {
+    "text": "esta fecha y hora que es la fecha de",
+    "duration": 6199,
+    "offset": 813440,
+    "lang": "es"
+  },
+  {
+    "text": "cierre o sea este si los alumnos Para",
+    "duration": 7120,
+    "offset": 815440,
+    "lang": "es"
+  },
+  {
+    "text": "todos claro Sí sí sí sí no es después",
+    "duration": 5440,
+    "offset": 819639,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver Cómo configurar excepciones",
+    "duration": 4639,
+    "offset": 822560,
+    "lang": "es"
+  },
+  {
+    "text": "en el caso de que sea necesario pero en",
+    "duration": 4320,
+    "offset": 825079,
+    "lang": "es"
+  },
+  {
+    "text": "este caso es para todos o sea él no va a",
+    "duration": 5721,
+    "offset": 827199,
+    "lang": "es"
+  },
+  {
+    "text": "ha nada hasta que no cro todo eh Bien",
+    "duration": 5120,
+    "offset": 829399,
+    "lang": "es"
+  },
+  {
+    "text": "acá",
+    "duration": 3880,
+    "offset": 832920,
+    "lang": "es"
+  },
+  {
+    "text": "restricciones sobre los",
+    "duration": 4921,
+    "offset": 834519,
+    "lang": "es"
+  },
+  {
+    "text": "intentos Esto bueno acá está todo",
+    "duration": 4880,
+    "offset": 836800,
+    "lang": "es"
+  },
+  {
+    "text": "grisado porque es si hubiese más de un",
+    "duration": 4959,
+    "offset": 839440,
+    "lang": "es"
+  },
+  {
+    "text": "intento algún tipo de restricción en",
+    "duration": 4680,
+    "offset": 841680,
+    "lang": "es"
+  },
+  {
+    "text": "general nosotros",
+    "duration": 4560,
+    "offset": 844399,
+    "lang": "es"
+  },
+  {
+    "text": "no no ponemos restricciones sobre los",
+    "duration": 4719,
+    "offset": 846360,
+    "lang": "es"
+  },
+  {
+    "text": "intentos porque los las autoevaluaciones",
+    "duration": 4361,
+    "offset": 848959,
+    "lang": "es"
+  },
+  {
+    "text": "son todas de un solo intento pero",
+    "duration": 5521,
+    "offset": 851079,
+    "lang": "es"
+  },
+  {
+    "text": "e es posible por ejemplo que se permita",
+    "duration": 4959,
+    "offset": 853320,
+    "lang": "es"
+  },
+  {
+    "text": "más de un intento y que haya una demora",
+    "duration": 3400,
+    "offset": 856600,
+    "lang": "es"
+  },
+  {
+    "text": "entre uno y el otro para que no estén",
+    "duration": 3560,
+    "offset": 858279,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo un tatetí por ejemplo",
+    "duration": 4320,
+    "offset": 860000,
+    "lang": "es"
+  },
+  {
+    "text": "retroalimentación global Esta es la que",
+    "duration": 5360,
+    "offset": 861839,
+    "lang": "es"
+  },
+  {
+    "text": "se puede dar a todos ni bien terminaron",
+    "duration": 5959,
+    "offset": 864320,
+    "lang": "es"
+  },
+  {
+    "text": "el el cuestionario que sé yo gracias por",
+    "duration": 5041,
+    "offset": 867199,
+    "lang": "es"
+  },
+  {
+    "text": "participar las notas las ponemos en una",
+    "duration": 5120,
+    "offset": 870279,
+    "lang": "es"
+  },
+  {
+    "text": "semana este",
+    "duration": 6240,
+    "offset": 872240,
+    "lang": "es"
+  },
+  {
+    "text": "etcétera ajustes comunes del módulo a",
+    "duration": 6041,
+    "offset": 875399,
+    "lang": "es"
+  },
+  {
+    "text": "donde uno pone si es que esto lo hace o",
+    "duration": 6039,
+    "offset": 878480,
+    "lang": "es"
+  },
+  {
+    "text": "no por grupos y si está este por ejemplo",
+    "duration": 5199,
+    "offset": 881440,
+    "lang": "es"
+  },
+  {
+    "text": "ven que dice ocultar a los estudiantes",
+    "duration": 4120,
+    "offset": 884519,
+    "lang": "es"
+  },
+  {
+    "text": "acá lo que podría poner es hacerlo",
+    "duration": 4320,
+    "offset": 886639,
+    "lang": "es"
+  },
+  {
+    "text": "disponible y ahí los estudiantes ven el",
+    "duration": 4961,
+    "offset": 888639,
+    "lang": "es"
+  },
+  {
+    "text": "examen Bueno y acá una parte que sí es",
+    "duration": 4601,
+    "offset": 890959,
+    "lang": "es"
+  },
+  {
+    "text": "importante que son las restricciones de",
+    "duration": 4679,
+    "offset": 893600,
+    "lang": "es"
+  },
+  {
+    "text": "acceso por ejemplo si uno dice No pero",
+    "duration": 5760,
+    "offset": 895560,
+    "lang": "es"
+  },
+  {
+    "text": "yo no quiero que el estudiante haga Este",
+    "duration": 4761,
+    "offset": 898279,
+    "lang": "es"
+  },
+  {
+    "text": "parcial hasta que no haya probado el",
+    "duration": 5120,
+    "offset": 901320,
+    "lang": "es"
+  },
+  {
+    "text": "anterior entonces acá en restricción de",
+    "duration": 6200,
+    "offset": 903040,
+    "lang": "es"
+  },
+  {
+    "text": "acceso lo puede restringir o lo puede",
+    "duration": 5360,
+    "offset": 906440,
+    "lang": "es"
+  },
+  {
+    "text": "poner supeditado a la finalización de",
+    "duration": 4719,
+    "offset": 909240,
+    "lang": "es"
+  },
+  {
+    "text": "una actividad acá me da para elegir las",
+    "duration": 4399,
+    "offset": 911800,
+    "lang": "es"
+  },
+  {
+    "text": "distintas actividades ven que hay",
+    "duration": 4961,
+    "offset": 913959,
+    "lang": "es"
+  },
+  {
+    "text": "parciales anteriores entonces puede",
+    "duration": 4841,
+    "offset": 916199,
+    "lang": "es"
+  },
+  {
+    "text": "poner una restricción de acceso sujeta a",
+    "duration": 3839,
+    "offset": 918920,
+    "lang": "es"
+  },
+  {
+    "text": "la finalización de una actividad y",
+    "duration": 4760,
+    "offset": 921040,
+    "lang": "es"
+  },
+  {
+    "text": "entonces bueno si el alumno no aprobó el",
+    "duration": 4801,
+    "offset": 922759,
+    "lang": "es"
+  },
+  {
+    "text": "parcial uno no puede hacer el parcial",
+    "duration": 4279,
+    "offset": 925800,
+    "lang": "es"
+  },
+  {
+    "text": "dos Cómo sabe que el alumno aprobó el",
+    "duration": 6560,
+    "offset": 927560,
+    "lang": "es"
+  },
+  {
+    "text": "parcial uno primero porque uno le",
+    "duration": 7281,
+    "offset": 930079,
+    "lang": "es"
+  },
+  {
+    "text": "configuró que tenía el parcial uno una",
+    "duration": 5959,
+    "offset": 934120,
+    "lang": "es"
+  },
+  {
+    "text": "nota acá le pone una nota calificación",
+    "duration": 4839,
+    "offset": 937360,
+    "lang": "es"
+  },
+  {
+    "text": "para probar le dice al parcial uno tenes",
+    "duration": 5281,
+    "offset": 940079,
+    "lang": "es"
+  },
+  {
+    "text": "que tener 50 o más para probar y después",
+    "duration": 6440,
+    "offset": 942199,
+    "lang": "es"
+  },
+  {
+    "text": "porque justo acá abajo esta finalización",
+    "duration": 5640,
+    "offset": 945360,
+    "lang": "es"
+  },
+  {
+    "text": "de la actividad uno lo que puede hacer",
+    "duration": 4481,
+    "offset": 948639,
+    "lang": "es"
+  },
+  {
+    "text": "es acá no me deja porque ya tiene",
+    "duration": 5040,
+    "offset": 951000,
+    "lang": "es"
+  },
+  {
+    "text": "intentos lo que puede hacer es requerir",
+    "duration": 5920,
+    "offset": 953120,
+    "lang": "es"
+  },
+  {
+    "text": "que apruebe para considerar que la",
+    "duration": 5919,
+    "offset": 956040,
+    "lang": "es"
+  },
+  {
+    "text": "actividad está finalizada ven que acá",
+    "duration": 5279,
+    "offset": 959040,
+    "lang": "es"
+  },
+  {
+    "text": "dice finalización de la actividad Acá",
+    "duration": 4041,
+    "offset": 961959,
+    "lang": "es"
+  },
+  {
+    "text": "está bloqueado porque el cuestionario ya",
+    "duration": 3401,
+    "offset": 964319,
+    "lang": "es"
+  },
+  {
+    "text": "lo respondieron Pero yo lo que puedo",
+    "duration": 4519,
+    "offset": 966000,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es decirle que esta actividad",
+    "duration": 5559,
+    "offset": 967720,
+    "lang": "es"
+  },
+  {
+    "text": "queda finalizada si tiene una nota",
+    "duration": 5281,
+    "offset": 970519,
+    "lang": "es"
+  },
+  {
+    "text": "probatoria Entonces si este es el",
+    "duration": 5961,
+    "offset": 973279,
+    "lang": "es"
+  },
+  {
+    "text": "parcial uno si no se saca más de 50 la",
+    "duration": 5200,
+    "offset": 975800,
+    "lang": "es"
+  },
+  {
+    "text": "actividad no va a qu no va a quedar",
+    "duration": 3760,
+    "offset": 979240,
+    "lang": "es"
+  },
+  {
+    "text": "finalizada y por lo tanto no va a poder",
+    "duration": 4240,
+    "offset": 981000,
+    "lang": "es"
+  },
+  {
+    "text": "hacer el parcial dos y esto es",
+    "duration": 4160,
+    "offset": 983000,
+    "lang": "es"
+  },
+  {
+    "text": "automático yo no me tengo que preocupar",
+    "duration": 4039,
+    "offset": 985240,
+    "lang": "es"
+  },
+  {
+    "text": "por nada la otra cosa que que puedo",
+    "duration": 4919,
+    "offset": 987160,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es Añadir restricción de grupo",
+    "duration": 5240,
+    "offset": 989279,
+    "lang": "es"
+  },
+  {
+    "text": "entonces lo que puedo hacer si quiero",
+    "duration": 4401,
+    "offset": 992079,
+    "lang": "es"
+  },
+  {
+    "text": "son distintos parciales para distintos",
+    "duration": 4721,
+    "offset": 994519,
+    "lang": "es"
+  },
+  {
+    "text": "grupos y los alumnos que no pertenecen",
+    "duration": 6440,
+    "offset": 996480,
+    "lang": "es"
+  },
+  {
+    "text": "al grupo dado que está permitido este",
+    "duration": 6240,
+    "offset": 999240,
+    "lang": "es"
+  },
+  {
+    "text": "para hacer el parcial Este parcial ni lo",
+    "duration": 5000,
+    "offset": 1002920,
+    "lang": "es"
+  },
+  {
+    "text": "ven así que es el tema de las",
+    "duration": 4120,
+    "offset": 1005480,
+    "lang": "es"
+  },
+  {
+    "text": "restricciones de acceso y la",
+    "duration": 4159,
+    "offset": 1007920,
+    "lang": "es"
+  },
+  {
+    "text": "finalización de la actividad y la nota",
+    "duration": 5239,
+    "offset": 1009600,
+    "lang": "es"
+  },
+  {
+    "text": "para probar son cosas que en general",
+    "duration": 3560,
+    "offset": 1012079,
+    "lang": "es"
+  },
+  {
+    "text": "están",
+    "duration": 4281,
+    "offset": 1014839,
+    "lang": "es"
+  },
+  {
+    "text": "este están correlacionadas y pueden ser",
+    "duration": 6041,
+    "offset": 1015639,
+    "lang": "es"
+  },
+  {
+    "text": "útiles si uno lo que quiere es evitar",
+    "duration": 6679,
+    "offset": 1019120,
+    "lang": "es"
+  },
+  {
+    "text": "que un alumno de o o o de parcial si por",
+    "duration": 7560,
+    "offset": 1021680,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo antes no finalizó los",
+    "duration": 5640,
+    "offset": 1025799,
+    "lang": "es"
+  },
+  {
+    "text": "autoevaluaciones o no tiene el trabajo",
+    "duration": 4839,
+    "offset": 1029240,
+    "lang": "es"
+  },
+  {
+    "text": "práctico aprobado todas esas cosas se",
+    "duration": 5441,
+    "offset": 1031439,
+    "lang": "es"
+  },
+  {
+    "text": "pueden configurar en esta versión de m",
+    "duration": 6281,
+    "offset": 1034079,
+    "lang": "es"
+  },
+  {
+    "text": "bien Una preguntita Diego Te puedo hacer",
+    "duration": 5520,
+    "offset": 1036880,
+    "lang": "es"
+  },
+  {
+    "text": "una pregunta",
+    "duration": 4000,
+    "offset": 1040360,
+    "lang": "es"
+  },
+  {
+    "text": "sí en las",
+    "duration": 4000,
+    "offset": 1042400,
+    "lang": "es"
+  },
+  {
+    "text": "restricciones de finalización de",
+    "duration": 5000,
+    "offset": 1044360,
+    "lang": "es"
+  },
+  {
+    "text": "actividad cuando estas actividad están",
+    "duration": 5320,
+    "offset": 1046400,
+    "lang": "es"
+  },
+  {
+    "text": "dentro de un mismo examen y",
+    "duration": 6319,
+    "offset": 1049360,
+    "lang": "es"
+  },
+  {
+    "text": "eh imponemos Como restricción finalizar",
+    "duration": 6319,
+    "offset": 1051720,
+    "lang": "es"
+  },
+  {
+    "text": "la primera actividad para poder pasar a",
+    "duration": 4921,
+    "offset": 1055679,
+    "lang": "es"
+  },
+  {
+    "text": "la segunda una vez que pasa a la segunda",
+    "duration": 5961,
+    "offset": 1058039,
+    "lang": "es"
+  },
+  {
+    "text": "actividad este alumno puede volver a la",
+    "duration": 6720,
+    "offset": 1060600,
+    "lang": "es"
+  },
+  {
+    "text": "primera actividad y el tema es que es a",
+    "duration": 6520,
+    "offset": 1064000,
+    "lang": "es"
+  },
+  {
+    "text": "ver si vos configuraste un cuestionario",
+    "duration": 6080,
+    "offset": 1067320,
+    "lang": "es"
+  },
+  {
+    "text": "vos hac cuenta que tenés el parcial en",
+    "duration": 6000,
+    "offset": 1070520,
+    "lang": "es"
+  },
+  {
+    "text": "dos partes parte uno y parte dos si el",
+    "duration": 6759,
+    "offset": 1073400,
+    "lang": "es"
+  },
+  {
+    "text": "alumno el alumno para hacer la parte uno",
+    "duration": 6880,
+    "offset": 1076520,
+    "lang": "es"
+  },
+  {
+    "text": "la tiene que la tiene que aprobar si vos",
+    "duration": 5441,
+    "offset": 1080159,
+    "lang": "es"
+  },
+  {
+    "text": "al parcial parte uno le configuraste un",
+    "duration": 4519,
+    "offset": 1083400,
+    "lang": "es"
+  },
+  {
+    "text": "único intento una vez que el alumno dio",
+    "duration": 4959,
+    "offset": 1085600,
+    "lang": "es"
+  },
+  {
+    "text": "enviar y aprobó Listo ya no puede volver",
+    "duration": 6000,
+    "offset": 1087919,
+    "lang": "es"
+  },
+  {
+    "text": "más De hecho si tiene un único intento",
+    "duration": 6201,
+    "offset": 1090559,
+    "lang": "es"
+  },
+  {
+    "text": "le dio aprobar y no aprobó no aprobó la",
+    "duration": 4681,
+    "offset": 1093919,
+    "lang": "es"
+  },
+  {
+    "text": "parte uno y ni puede hacer tampoco la",
+    "duration": 3880,
+    "offset": 1096760,
+    "lang": "es"
+  },
+  {
+    "text": "parte dos Claro pero cuando se trata de",
+    "duration": 4600,
+    "offset": 1098600,
+    "lang": "es"
+  },
+  {
+    "text": "un cuestionario donde la tipo de",
+    "duration": 6399,
+    "offset": 1100640,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas es de ensayo eh ahí la digamos",
+    "duration": 6120,
+    "offset": 1103200,
+    "lang": "es"
+  },
+  {
+    "text": "no no cuenta la aprobación en sentido de",
+    "duration": 4841,
+    "offset": 1107039,
+    "lang": "es"
+  },
+  {
+    "text": "que va a ser corregido a posteriori",
+    "duration": 5760,
+    "offset": 1109320,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces estamos en este problema claro",
+    "duration": 5760,
+    "offset": 1111880,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces el alumno en ese caso podría",
+    "duration": 5120,
+    "offset": 1115080,
+    "lang": "es"
+  },
+  {
+    "text": "llegar a volver a la primera actividad",
+    "duration": 4919,
+    "offset": 1117640,
+    "lang": "es"
+  },
+  {
+    "text": "No porque se no se le acabó el intento",
+    "duration": 4560,
+    "offset": 1120200,
+    "lang": "es"
+  },
+  {
+    "text": "ya si vos configuraste una pregunta a",
+    "duration": 4201,
+    "offset": 1122559,
+    "lang": "es"
+  },
+  {
+    "text": "tipo ensayo el alumno Ya se gastó el",
+    "duration": 4200,
+    "offset": 1124760,
+    "lang": "es"
+  },
+  {
+    "text": "intento Lo que sucede es que como vos",
+    "duration": 5600,
+    "offset": 1126760,
+    "lang": "es"
+  },
+  {
+    "text": "todav O sea si con lo que hizo no le",
+    "duration": 5719,
+    "offset": 1128960,
+    "lang": "es"
+  },
+  {
+    "text": "bastó para probar y necesita que vos le",
+    "duration": 4920,
+    "offset": 1132360,
+    "lang": "es"
+  },
+  {
+    "text": "corrijas el ensayo hasta que vos no",
+    "duration": 5081,
+    "offset": 1134679,
+    "lang": "es"
+  },
+  {
+    "text": "corrijas el ensayo y le pongas una nota",
+    "duration": 4759,
+    "offset": 1137280,
+    "lang": "es"
+  },
+  {
+    "text": "que haga que apruebe no va a tener la",
+    "duration": 4039,
+    "offset": 1139760,
+    "lang": "es"
+  },
+  {
+    "text": "actividad finalizada y no va a poder",
+    "duration": 3601,
+    "offset": 1142039,
+    "lang": "es"
+  },
+  {
+    "text": "pasar a la actividad siguiente Pero",
+    "duration": 4880,
+    "offset": 1143799,
+    "lang": "es"
+  },
+  {
+    "text": "tampoco va a poder meterse arreglar nada",
+    "duration": 5240,
+    "offset": 1145640,
+    "lang": "es"
+  },
+  {
+    "text": "porque el intento ya se le contabilizó",
+    "duration": 5401,
+    "offset": 1148679,
+    "lang": "es"
+  },
+  {
+    "text": "claro Sí bueno en un examen en situación",
+    "duration": 5000,
+    "offset": 1150880,
+    "lang": "es"
+  },
+  {
+    "text": "real es difícil porque no podemos",
+    "duration": 3959,
+    "offset": 1154080,
+    "lang": "es"
+  },
+  {
+    "text": "corregir a medida que lo van haciendo",
+    "duration": 4360,
+    "offset": 1155880,
+    "lang": "es"
+  },
+  {
+    "text": "tienen que ir pasando de la parte a a la",
+    "duration": 5760,
+    "offset": 1158039,
+    "lang": "es"
+  },
+  {
+    "text": "parte B a la parte c y la idea es que",
+    "duration": 5840,
+    "offset": 1160240,
+    "lang": "es"
+  },
+  {
+    "text": "que cada una de esas partes la envíen",
+    "duration": 4561,
+    "offset": 1163799,
+    "lang": "es"
+  },
+  {
+    "text": "para no poder volver atrás pero el tema",
+    "duration": 4880,
+    "offset": 1166080,
+    "lang": "es"
+  },
+  {
+    "text": "es que a veces no la envían y pasan a la",
+    "duration": 5600,
+    "offset": 1168360,
+    "lang": "es"
+  },
+  {
+    "text": "siguiente parte pero si está configurada",
+    "duration": 5719,
+    "offset": 1170960,
+    "lang": "es"
+  },
+  {
+    "text": "la restricción de acceso no debera",
+    "duration": 5000,
+    "offset": 1173960,
+    "lang": "es"
+  },
+  {
+    "text": "suceder eso el tema restricción de",
+    "duration": 4921,
+    "offset": 1176679,
+    "lang": "es"
+  },
+  {
+    "text": "acceso finalización de actividad Claro",
+    "duration": 5120,
+    "offset": 1178960,
+    "lang": "es"
+  },
+  {
+    "text": "si uno acá le pone restricción por",
+    "duration": 4360,
+    "offset": 1181600,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo ti Mostrar finalización de",
+    "duration": 5320,
+    "offset": 1184080,
+    "lang": "es"
+  },
+  {
+    "text": "actividad El estudiante debe Por ejemplo",
+    "duration": 7120,
+    "offset": 1185960,
+    "lang": "es"
+  },
+  {
+    "text": "aprobar el parcial turno uno el tema es",
+    "duration": 6920,
+    "offset": 1189400,
+    "lang": "es"
+  },
+  {
+    "text": "ese aprobar no no lo podemos completar",
+    "duration": 4000,
+    "offset": 1193080,
+    "lang": "es"
+  },
+  {
+    "text": "no lo",
+    "duration": 5040,
+    "offset": 1196320,
+    "lang": "es"
+  },
+  {
+    "text": "podemos perdón perdón sí determinar si",
+    "duration": 5839,
+    "offset": 1197080,
+    "lang": "es"
+  },
+  {
+    "text": "está aprobado o no hasta haberlo",
+    "duration": 3120,
+    "offset": 1201360,
+    "lang": "es"
+  },
+  {
+    "text": "corregido y en el momento no se lo",
+    "duration": 4041,
+    "offset": 1202919,
+    "lang": "es"
+  },
+  {
+    "text": "podemos corregir claro entonces ahí por",
+    "duration": 5040,
+    "offset": 1204480,
+    "lang": "es"
+  },
+  {
+    "text": "ahí si deberían hacer todo que sea de",
+    "duration": 5839,
+    "offset": 1206960,
+    "lang": "es"
+  },
+  {
+    "text": "calificación automática O sea no no usar",
+    "duration": 5240,
+    "offset": 1209520,
+    "lang": "es"
+  },
+  {
+    "text": "y acá si querés podés poner otra",
+    "duration": 5321,
+    "offset": 1212799,
+    "lang": "es"
+  },
+  {
+    "text": "restricción finalización de actividad y",
+    "duration": 6680,
+    "offset": 1214760,
+    "lang": "es"
+  },
+  {
+    "text": "acá le ponés que el estudiante apruebe",
+    "duration": 6799,
+    "offset": 1218120,
+    "lang": "es"
+  },
+  {
+    "text": "el parcial turno dos y debe",
+    "duration": 6760,
+    "offset": 1221440,
+    "lang": "es"
+  },
+  {
+    "text": "estar que el estudiante apruebe turno un",
+    "duration": 5760,
+    "offset": 1224919,
+    "lang": "es"
+  },
+  {
+    "text": "debe estar completada como aprobado y",
+    "duration": 4680,
+    "offset": 1228200,
+    "lang": "es"
+  },
+  {
+    "text": "que el estudiante apruebe también el",
+    "duration": 5681,
+    "offset": 1230679,
+    "lang": "es"
+  },
+  {
+    "text": "parcial dos y debe estar aprobado Y ves",
+    "duration": 5600,
+    "offset": 1232880,
+    "lang": "es"
+  },
+  {
+    "text": "que acá hay un i o",
+    "duration": 5760,
+    "offset": 1236360,
+    "lang": "es"
+  },
+  {
+    "text": "sea o sea ambas condiciones deben",
+    "duration": 6960,
+    "offset": 1238480,
+    "lang": "es"
+  },
+  {
+    "text": "cumplirse para que el estudiante pueda",
+    "duration": 6000,
+    "offset": 1242120,
+    "lang": "es"
+  },
+  {
+    "text": "hacer esta actividad si no ni siquiera",
+    "duration": 4680,
+    "offset": 1245440,
+    "lang": "es"
+  },
+  {
+    "text": "lo ve no es que le va a decir no puede",
+    "duration": 5760,
+    "offset": 1248120,
+    "lang": "es"
+  },
+  {
+    "text": "acceder ni nada O sea no lo va a ver no",
+    "duration": 6520,
+    "offset": 1250120,
+    "lang": "es"
+  },
+  {
+    "text": "el tema es ah no pero hace falta que yo",
+    "duration": 6560,
+    "offset": 1253880,
+    "lang": "es"
+  },
+  {
+    "text": "corrija en forma manual y Y eso va a",
+    "duration": 6519,
+    "offset": 1256640,
+    "lang": "es"
+  },
+  {
+    "text": "generar un retraso importante más",
+    "duration": 6440,
+    "offset": 1260440,
+    "lang": "es"
+  },
+  {
+    "text": "Y de qué materia estamos hablando inglés",
+    "duration": 8520,
+    "offset": 1263159,
+    "lang": "es"
+  },
+  {
+    "text": "Ah claro encima ahí no tención de texos",
+    "duration": 7120,
+    "offset": 1266880,
+    "lang": "es"
+  },
+  {
+    "text": "No claro ahí no tenés algo muy",
+    "duration": 5161,
+    "offset": 1271679,
+    "lang": "es"
+  },
+  {
+    "text": "automático no no no ya lo probamos",
+    "duration": 6279,
+    "offset": 1274000,
+    "lang": "es"
+  },
+  {
+    "text": "pensamos que había alguna estrategia más",
+    "duration": 6360,
+    "offset": 1276840,
+    "lang": "es"
+  },
+  {
+    "text": "que podríamos usar pero me parece que no",
+    "duration": 5441,
+    "offset": 1280279,
+    "lang": "es"
+  },
+  {
+    "text": "no ahí está complicado No yo pensé que",
+    "duration": 6280,
+    "offset": 1283200,
+    "lang": "es"
+  },
+  {
+    "text": "era algo alguna materia que",
+    "duration": 5760,
+    "offset": 1285720,
+    "lang": "es"
+  },
+  {
+    "text": "que pudiera llegar a ser de cálculo",
+    "duration": 4840,
+    "offset": 1289480,
+    "lang": "es"
+  },
+  {
+    "text": "demás que vos decís no pero quiero bueno",
+    "duration": 5079,
+    "offset": 1291480,
+    "lang": "es"
+  },
+  {
+    "text": "y uno bueno por ahí se equivocó en un",
+    "duration": 4520,
+    "offset": 1294320,
+    "lang": "es"
+  },
+  {
+    "text": "número y lo reprobamos bueno mala suerte",
+    "duration": 4720,
+    "offset": 1296559,
+    "lang": "es"
+  },
+  {
+    "text": "pero acá ingl sonaste acá sí o sí tenés",
+    "duration": 7959,
+    "offset": 1298840,
+    "lang": "es"
+  },
+  {
+    "text": "que leer Sí sí hay que leer Sí sí es",
+    "duration": 8520,
+    "offset": 1301279,
+    "lang": "es"
+  },
+  {
+    "text": "personalizado",
+    "duration": 3000,
+    "offset": 1306799,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno te iba a preguntar eso porque",
+    "duration": 5640,
+    "offset": 1309880,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros intent es decir Estuvimos",
+    "duration": 5559,
+    "offset": 1312120,
+    "lang": "es"
+  },
+  {
+    "text": "viendo distintas alternativas a la hora",
+    "duration": 3720,
+    "offset": 1315520,
+    "lang": "es"
+  },
+  {
+    "text": "de armar",
+    "duration": 4801,
+    "offset": 1317679,
+    "lang": "es"
+  },
+  {
+    "text": "los parciales en particular eh de la",
+    "duration": 6640,
+    "offset": 1319240,
+    "lang": "es"
+  },
+  {
+    "text": "materia de redes de computadoras y",
+    "duration": 6880,
+    "offset": 1322480,
+    "lang": "es"
+  },
+  {
+    "text": "finalmente optamos casi todo por ensayos",
+    "duration": 6760,
+    "offset": 1325880,
+    "lang": "es"
+  },
+  {
+    "text": "Claro sí Y es como que el",
+    "duration": 5960,
+    "offset": 1329360,
+    "lang": "es"
+  },
+  {
+    "text": "ensayo obviamente hay una diferencia",
+    "duration": 5600,
+    "offset": 1332640,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros tenemos 20",
+    "duration": 5280,
+    "offset": 1335320,
+    "lang": "es"
+  },
+  {
+    "text": "alumnos no es lo mismo que una materia",
+    "duration": 6039,
+    "offset": 1338240,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene decenas o centenas de",
+    "duration": 8520,
+    "offset": 1340600,
+    "lang": "es"
+  },
+  {
+    "text": "alumnos pero es como que el la digamos",
+    "duration": 7640,
+    "offset": 1344279,
+    "lang": "es"
+  },
+  {
+    "text": "la calificación automática que podría",
+    "duration": 4799,
+    "offset": 1349120,
+    "lang": "es"
+  },
+  {
+    "text": "haber sido interesante sobre todo si",
+    "duration": 4000,
+    "offset": 1351919,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros podíamos poner calificación",
+    "duration": 5880,
+    "offset": 1353919,
+    "lang": "es"
+  },
+  {
+    "text": "automática pero donde el docente puede",
+    "duration": 6561,
+    "offset": 1355919,
+    "lang": "es"
+  },
+  {
+    "text": "modificar claro el tema es que en redes",
+    "duration": 5201,
+    "offset": 1359799,
+    "lang": "es"
+  },
+  {
+    "text": "Cómo hacés para calificación automática",
+    "duration": 4720,
+    "offset": 1362480,
+    "lang": "es"
+  },
+  {
+    "text": "Porque la única que te quede es tipo en",
+    "duration": 4600,
+    "offset": 1365000,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno si no multiple Choice Claro pero",
+    "duration": 5479,
+    "offset": 1367200,
+    "lang": "es"
+  },
+  {
+    "text": "viste que a veces suponete vos le hacés",
+    "duration": 6360,
+    "offset": 1369600,
+    "lang": "es"
+  },
+  {
+    "text": "la pregunta sí Y vos le ponés un",
+    "duration": 6480,
+    "offset": 1372679,
+    "lang": "es"
+  },
+  {
+    "text": "multiple Choice pero desp dependiendo de",
+    "duration": 6640,
+    "offset": 1375960,
+    "lang": "es"
+  },
+  {
+    "text": "cómo se lo pongas hay hay respuestas que",
+    "duration": 5481,
+    "offset": 1379159,
+    "lang": "es"
+  },
+  {
+    "text": "son incorrectas pero que no son tan",
+    "duration": 4360,
+    "offset": 1382600,
+    "lang": "es"
+  },
+  {
+    "text": "incorrectas y otras que son",
+    "duration": 4760,
+    "offset": 1384640,
+    "lang": "es"
+  },
+  {
+    "text": "conceptualmente",
+    "duration": 7520,
+    "offset": 1386960,
+    "lang": "es"
+  },
+  {
+    "text": "garrafales clar y eso nosotros lo",
+    "duration": 7040,
+    "offset": 1389400,
+    "lang": "es"
+  },
+  {
+    "text": "medimos Mirá",
+    "duration": 5400,
+    "offset": 1394480,
+    "lang": "es"
+  },
+  {
+    "text": "en vamos a pasar porque eso puede",
+    "duration": 6080,
+    "offset": 1396440,
+    "lang": "es"
+  },
+  {
+    "text": "solucionar en la parte cuando vemos cómo",
+    "duration": 6960,
+    "offset": 1399880,
+    "lang": "es"
+  },
+  {
+    "text": "hacer las preguntas Esta es un poco un",
+    "duration": 7880,
+    "offset": 1402520,
+    "lang": "es"
+  },
+  {
+    "text": "pantallazo de El",
+    "duration": 5400,
+    "offset": 1406840,
+    "lang": "es"
+  },
+  {
+    "text": "Cómo configurar el cuestionario después",
+    "duration": 5680,
+    "offset": 1410400,
+    "lang": "es"
+  },
+  {
+    "text": "está la otra parte que es el tipo de",
+    "duration": 5960,
+    "offset": 1412240,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas y qué cosas Se pueden hacer",
+    "duration": 5479,
+    "offset": 1416080,
+    "lang": "es"
+  },
+  {
+    "text": "con el tipo de preguntas y los valores",
+    "duration": 5320,
+    "offset": 1418200,
+    "lang": "es"
+  },
+  {
+    "text": "en",
+    "duration": 7161,
+    "offset": 1421559,
+    "lang": "es"
+  },
+  {
+    "text": "puntaje si a ver un minuto",
+    "duration": 6759,
+    "offset": 1423520,
+    "lang": "es"
+  },
+  {
+    "text": "que",
+    "duration": 3640,
+    "offset": 1428720,
+    "lang": "es"
+  },
+  {
+    "text": "Ah s",
+    "duration": 5801,
+    "offset": 1430279,
+    "lang": "es"
+  },
+  {
+    "text": "Elena creo que levantó la mano puede",
+    "duration": 8080,
+    "offset": 1432360,
+    "lang": "es"
+  },
+  {
+    "text": "serola Nan Sí sí te quería hacer una",
+    "duration": 6680,
+    "offset": 1436080,
+    "lang": "es"
+  },
+  {
+    "text": "consulta antes de que pases a otro a",
+    "duration": 4719,
+    "offset": 1440440,
+    "lang": "es"
+  },
+  {
+    "text": "otra parte del cuestionario por el tema",
+    "duration": 4680,
+    "offset": 1442760,
+    "lang": "es"
+  },
+  {
+    "text": "de la seguridad del navegador es decir",
+    "duration": 6281,
+    "offset": 1445159,
+    "lang": "es"
+  },
+  {
+    "text": "ahí en la configuración existe una",
+    "duration": 7040,
+    "offset": 1447440,
+    "lang": "es"
+  },
+  {
+    "text": "posibilidad de configurar algún tipo de",
+    "duration": 6040,
+    "offset": 1451440,
+    "lang": "es"
+  },
+  {
+    "text": "de seguridad para que no puedan abrir",
+    "duration": 7120,
+    "offset": 1454480,
+    "lang": "es"
+  },
+  {
+    "text": "ventanas o pestañas aparte del examen",
+    "duration": 5559,
+    "offset": 1457480,
+    "lang": "es"
+  },
+  {
+    "text": "eso como",
+    "duration": 5600,
+    "offset": 1461600,
+    "lang": "es"
+  },
+  {
+    "text": "funciona Mira hay un módulo que se llama",
+    "duration": 6921,
+    "offset": 1463039,
+    "lang": "es"
+  },
+  {
+    "text": "sec brow",
+    "duration": 5599,
+    "offset": 1467200,
+    "lang": "es"
+  },
+  {
+    "text": "en realidad eh Ema me había comentado de",
+    "duration": 4880,
+    "offset": 1469960,
+    "lang": "es"
+  },
+  {
+    "text": "eso pero me dijo que todavía lo estaban",
+    "duration": 4681,
+    "offset": 1472799,
+    "lang": "es"
+  },
+  {
+    "text": "probando Sí pero las pruebas no fueron",
+    "duration": 5920,
+    "offset": 1474840,
+    "lang": "es"
+  },
+  {
+    "text": "nada favorables eh Ajá el tema es que",
+    "duration": 6000,
+    "offset": 1477480,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que pasa",
+    "duration": 2720,
+    "offset": 1480760,
+    "lang": "es"
+  },
+  {
+    "text": "eh las tecnologías en las cuales están",
+    "duration": 8641,
+    "offset": 1483799,
+    "lang": "es"
+  },
+  {
+    "text": "basadas todas los elementos que suponían",
+    "duration": 6720,
+    "offset": 1487720,
+    "lang": "es"
+  },
+  {
+    "text": "evitar el fraude en un examen Como por",
+    "duration": 5280,
+    "offset": 1492440,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo la copia se hicieron antes de",
+    "duration": 5400,
+    "offset": 1494440,
+    "lang": "es"
+  },
+  {
+    "text": "que se hubiesen desarrollado los",
+    "duration": 4640,
+    "offset": 1497720,
+    "lang": "es"
+  },
+  {
+    "text": "celulares que en estos últimos 5 o se",
+    "duration": 5959,
+    "offset": 1499840,
+    "lang": "es"
+  },
+  {
+    "text": "años tuvieron una explosión Terrible",
+    "duration": 6199,
+    "offset": 1502360,
+    "lang": "es"
+  },
+  {
+    "text": "y antes de que existiera el WhatsApp el",
+    "duration": 4600,
+    "offset": 1505799,
+    "lang": "es"
+  },
+  {
+    "text": "WhatsApp es algo relativamente nuevo",
+    "duration": 4240,
+    "offset": 1508559,
+    "lang": "es"
+  },
+  {
+    "text": "Tiene no sé la la comunicación de vos",
+    "duration": 4760,
+    "offset": 1510399,
+    "lang": "es"
+  },
+  {
+    "text": "por WhatsApp no sé si tiene 2",
+    "duration": 6641,
+    "offset": 1512799,
+    "lang": "es"
+  },
+  {
+    "text": "años el grupo el grupo de de varias",
+    "duration": 7361,
+    "offset": 1515159,
+    "lang": "es"
+  },
+  {
+    "text": "personas por WhatsApp es algo que creo",
+    "duration": 4599,
+    "offset": 1519440,
+    "lang": "es"
+  },
+  {
+    "text": "que es de este año",
+    "duration": 4080,
+    "offset": 1522520,
+    "lang": "es"
+  },
+  {
+    "text": "Eh entonces qué es lo que pasa vos a un",
+    "duration": 5000,
+    "offset": 1524039,
+    "lang": "es"
+  },
+  {
+    "text": "alumno le podés prohibir que y haga al",
+    "duration": 5480,
+    "offset": 1526600,
+    "lang": "es"
+  },
+  {
+    "text": "Tab Sí pero En definitiva el alumno",
+    "duration": 5640,
+    "offset": 1529039,
+    "lang": "es"
+  },
+  {
+    "text": "agarra el celular y te mira todo lo que",
+    "duration": 5719,
+    "offset": 1532080,
+    "lang": "es"
+  },
+  {
+    "text": "cambio hacer al Tab te mira todo por el",
+    "duration": 5921,
+    "offset": 1534679,
+    "lang": "es"
+  },
+  {
+    "text": "celular claro o te arma un grupo de",
+    "duration": 5681,
+    "offset": 1537799,
+    "lang": "es"
+  },
+  {
+    "text": "WhatsApp y hacen el parcial entre cinco",
+    "duration": 6120,
+    "offset": 1540600,
+    "lang": "es"
+  },
+  {
+    "text": "o seis alumnos claro es lo que no va no",
+    "duration": 4799,
+    "offset": 1543480,
+    "lang": "es"
+  },
+  {
+    "text": "es que todos los alumnos estén haciendo",
+    "duration": 5240,
+    "offset": 1546720,
+    "lang": "es"
+  },
+  {
+    "text": "así el examen pero hemos detectado en si",
+    "duration": 5601,
+    "offset": 1548279,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros estamos tomando exámenes a lo",
+    "duration": 5040,
+    "offset": 1551960,
+    "lang": "es"
+  },
+  {
+    "text": "largo del del cuatrimestre que no son",
+    "duration": 5279,
+    "offset": 1553880,
+    "lang": "es"
+  },
+  {
+    "text": "exámenes de una materia sino que son los",
+    "duration": 5679,
+    "offset": 1557000,
+    "lang": "es"
+  },
+  {
+    "text": "exámenes del requisito Así que rinden un",
+    "duration": 5520,
+    "offset": 1559159,
+    "lang": "es"
+  },
+  {
+    "text": "examen y",
+    "duration": 5841,
+    "offset": 1562679,
+    "lang": "es"
+  },
+  {
+    "text": "listo y bueno Sí hemos detectado que hay",
+    "duration": 7961,
+    "offset": 1564679,
+    "lang": "es"
+  },
+  {
+    "text": "copia tal cual de un alumno de otro",
+    "duration": 6720,
+    "offset": 1568520,
+    "lang": "es"
+  },
+  {
+    "text": "bueno Obviamente que se ava un poco y la",
+    "duration": 5240,
+    "offset": 1572640,
+    "lang": "es"
+  },
+  {
+    "text": "disfraza no el tema es",
+    "duration": 6559,
+    "offset": 1575240,
+    "lang": "es"
+  },
+  {
+    "text": "así lo que vos podés hacer es acá viene",
+    "duration": 6200,
+    "offset": 1577880,
+    "lang": "es"
+  },
+  {
+    "text": "mi",
+    "duration": 2281,
+    "offset": 1581799,
+    "lang": "es"
+  },
+  {
+    "text": "gato uno lo que dec es bueno el tema de",
+    "duration": 6721,
+    "offset": 1586399,
+    "lang": "es"
+  },
+  {
+    "text": "estos programas aparte el o Hay también",
+    "duration": 5360,
+    "offset": 1590000,
+    "lang": "es"
+  },
+  {
+    "text": "una configuración de javascript y demás",
+    "duration": 6720,
+    "offset": 1593120,
+    "lang": "es"
+  },
+  {
+    "text": "pero los este los browser modernos eso",
+    "duration": 8080,
+    "offset": 1595360,
+    "lang": "es"
+  },
+  {
+    "text": "la pasan por arriba igual te hacen al",
+    "duration": 6760,
+    "offset": 1599840,
+    "lang": "es"
+  },
+  {
+    "text": "Tab lo que uno puede hacer es pedir que",
+    "duration": 6800,
+    "offset": 1603440,
+    "lang": "es"
+  },
+  {
+    "text": "usen la cámara en el mejor de los",
+    "duration": 5840,
+    "offset": 1606600,
+    "lang": "es"
+  },
+  {
+    "text": "casos",
+    "duration": 5319,
+    "offset": 1610240,
+    "lang": "es"
+  },
+  {
+    "text": "este puede pedir que use la cámara y eso",
+    "duration": 4800,
+    "offset": 1612440,
+    "lang": "es"
+  },
+  {
+    "text": "minimiza un poco el tema de la copia",
+    "duration": 4480,
+    "offset": 1615559,
+    "lang": "es"
+  },
+  {
+    "text": "porque noed estar llamando al grupo no",
+    "duration": 5840,
+    "offset": 1617240,
+    "lang": "es"
+  },
+  {
+    "text": "pero decir hoy en día que podés nosotros",
+    "duration": 6441,
+    "offset": 1620039,
+    "lang": "es"
+  },
+  {
+    "text": "usamos con la cámara prendida pero hoy",
+    "duration": 5920,
+    "offset": 1623080,
+    "lang": "es"
+  },
+  {
+    "text": "en día que el WhatsApp o el discord o lo",
+    "duration": 5640,
+    "offset": 1626480,
+    "lang": "es"
+  },
+  {
+    "text": "que sea lo pues tener abierto en la",
+    "duration": 5960,
+    "offset": 1629000,
+    "lang": "es"
+  },
+  {
+    "text": "computadora evidentemente están",
+    "duration": 5200,
+    "offset": 1632120,
+    "lang": "es"
+  },
+  {
+    "text": "abriendo decir sí comunicándose por",
+    "duration": 4079,
+    "offset": 1634960,
+    "lang": "es"
+  },
+  {
+    "text": "WhatsApp o lo que sea desde la",
+    "duration": 4239,
+    "offset": 1637320,
+    "lang": "es"
+  },
+  {
+    "text": "computadora entonces vos no te das",
+    "duration": 7401,
+    "offset": 1639039,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta si están mirando la pantalla o la",
+    "duration": 7840,
+    "offset": 1641559,
+    "lang": "es"
+  },
+  {
+    "text": "ventana del examen o están en la ventana",
+    "duration": 8280,
+    "offset": 1646440,
+    "lang": "es"
+  },
+  {
+    "text": "del del WhatsApp eh Sí es tal cual eh el",
+    "duration": 9160,
+    "offset": 1649399,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que pasa el seb evita eso pero",
+    "duration": 5480,
+    "offset": 1654720,
+    "lang": "es"
+  },
+  {
+    "text": "tiene el problema de que",
+    "duration": 4401,
+    "offset": 1658559,
+    "lang": "es"
+  },
+  {
+    "text": "eh tenés que configurarlo para que te",
+    "duration": 6560,
+    "offset": 1660200,
+    "lang": "es"
+  },
+  {
+    "text": "permita abrir zoom o Meet para poder",
+    "duration": 7160,
+    "offset": 1662960,
+    "lang": "es"
+  },
+  {
+    "text": "controlarlos por cámara también y muchas",
+    "duration": 7039,
+    "offset": 1666760,
+    "lang": "es"
+  },
+  {
+    "text": "veces no funciona la excepción de zoom o",
+    "duration": 7559,
+    "offset": 1670120,
+    "lang": "es"
+  },
+  {
+    "text": "de Meet y el c se cae y después de",
+    "duration": 7321,
+    "offset": 1673799,
+    "lang": "es"
+  },
+  {
+    "text": "cierto tiempo se bloquea se va la sesión",
+    "duration": 6761,
+    "offset": 1677679,
+    "lang": "es"
+  },
+  {
+    "text": "Okay decir que no es confiable no es tal",
+    "duration": 5439,
+    "offset": 1681120,
+    "lang": "es"
+  },
+  {
+    "text": "cual no es un sistema",
+    "duration": 6200,
+    "offset": 1684440,
+    "lang": "es"
+  },
+  {
+    "text": "confiable a ver además me imagino que el",
+    "duration": 5600,
+    "offset": 1686559,
+    "lang": "es"
+  },
+  {
+    "text": "tema de las plataformas de",
+    "duration": 3039,
+    "offset": 1690640,
+    "lang": "es"
+  },
+  {
+    "text": "virtualización sobre todo Estamos",
+    "duration": 3721,
+    "offset": 1692159,
+    "lang": "es"
+  },
+  {
+    "text": "hablando de estudiantes de",
+    "duration": 5281,
+    "offset": 1693679,
+    "lang": "es"
+  },
+  {
+    "text": "ingeniería esos tipos de software",
+    "duration": 6200,
+    "offset": 1695880,
+    "lang": "es"
+  },
+  {
+    "text": "no no pueden hacer frente a una máquina",
+    "duration": 3839,
+    "offset": 1698960,
+    "lang": "es"
+  },
+  {
+    "text": "que",
+    "duration": 3920,
+    "offset": 1702080,
+    "lang": "es"
+  },
+  {
+    "text": "tiene varias máquinas virtuales",
+    "duration": 7201,
+    "offset": 1702799,
+    "lang": "es"
+  },
+  {
+    "text": "corriendo ah",
+    "duration": 4000,
+    "offset": 1706000,
+    "lang": "es"
+  },
+  {
+    "text": "varias máquinas virtuales",
+    "duration": 4080,
+    "offset": 1710120,
+    "lang": "es"
+  },
+  {
+    "text": "abr así que tod de electrónica",
+    "duration": 5120,
+    "offset": 1716399,
+    "lang": "es"
+  },
+  {
+    "text": "informática en realidad es lo que",
+    "duration": 4360,
+    "offset": 1722360,
+    "lang": "es"
+  },
+  {
+    "text": "pasa de",
+    "duration": 4000,
+    "offset": 1729320,
+    "lang": "es"
+  },
+  {
+    "text": "con identificación de usuario ahí ya no",
+    "duration": 3801,
+    "offset": 1738919,
+    "lang": "es"
+  },
+  {
+    "text": "tenés posibilidad",
+    "duration": 4120,
+    "offset": 1741159,
+    "lang": "es"
+  },
+  {
+    "text": "de que tengas más de una sesión del",
+    "duration": 5400,
+    "offset": 1742720,
+    "lang": "es"
+  },
+  {
+    "text": "mismo programa si habría que",
+    "duration": 7321,
+    "offset": 1745279,
+    "lang": "es"
+  },
+  {
+    "text": "evaluar una sesión de otros programas No",
+    "duration": 7600,
+    "offset": 1748120,
+    "lang": "es"
+  },
+  {
+    "text": "claro el tema es justamente ahora lo que",
+    "duration": 6040,
+    "offset": 1752600,
+    "lang": "es"
+  },
+  {
+    "text": "usan lo que se usa digamos para evaluar",
+    "duration": 5720,
+    "offset": 1755720,
+    "lang": "es"
+  },
+  {
+    "text": "online son los software de proctoring",
+    "duration": 5919,
+    "offset": 1758640,
+    "lang": "es"
+  },
+  {
+    "text": "hay un software que vende la misma",
+    "duration": 6839,
+    "offset": 1761440,
+    "lang": "es"
+  },
+  {
+    "text": "empresa que nos da el servicio de",
+    "duration": 7401,
+    "offset": 1764559,
+    "lang": "es"
+  },
+  {
+    "text": "que se llama iabc el software se llama",
+    "duration": 5721,
+    "offset": 1768279,
+    "lang": "es"
+  },
+  {
+    "text": "proctorio los representantes de",
+    "duration": 4559,
+    "offset": 1771960,
+    "lang": "es"
+  },
+  {
+    "text": "proctorio están en Colombia yo justo",
+    "duration": 5279,
+    "offset": 1774000,
+    "lang": "es"
+  },
+  {
+    "text": "este mañana Tenía una reunión porque",
+    "duration": 4961,
+    "offset": 1776519,
+    "lang": "es"
+  },
+  {
+    "text": "quiero ver cómo funciona Pero qué es lo",
+    "duration": 4161,
+    "offset": 1779279,
+    "lang": "es"
+  },
+  {
+    "text": "que pasa ese software de",
+    "duration": 7199,
+    "offset": 1781480,
+    "lang": "es"
+  },
+  {
+    "text": "proctoring por empezar no digamos obliga",
+    "duration": 7719,
+    "offset": 1783440,
+    "lang": "es"
+  },
+  {
+    "text": "a que el alumno encienda la computadora",
+    "duration": 6720,
+    "offset": 1788679,
+    "lang": "es"
+  },
+  {
+    "text": "y se grabe si quiere y tiene sistemas de",
+    "duration": 6921,
+    "offset": 1791159,
+    "lang": "es"
+  },
+  {
+    "text": "Inteligencia artificial que detectan",
+    "duration": 4681,
+    "offset": 1795399,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento Por ejemplo si el alumno baja",
+    "duration": 6000,
+    "offset": 1798080,
+    "lang": "es"
+  },
+  {
+    "text": "los ojos detecta que o sea se hace así",
+    "duration": 6920,
+    "offset": 1800080,
+    "lang": "es"
+  },
+  {
+    "text": "que está mirando para abajo detecta si",
+    "duration": 5520,
+    "offset": 1804080,
+    "lang": "es"
+  },
+  {
+    "text": "agarra un celular lo detecta si habla",
+    "duration": 5919,
+    "offset": 1807000,
+    "lang": "es"
+  },
+  {
+    "text": "también porque tiene este detección de",
+    "duration": 6400,
+    "offset": 1809600,
+    "lang": "es"
+  },
+  {
+    "text": "sonido Entonces qué es lo que pasa",
+    "duration": 5841,
+    "offset": 1812919,
+    "lang": "es"
+  },
+  {
+    "text": "cuando entrega el examen el proctorio",
+    "duration": 5120,
+    "offset": 1816000,
+    "lang": "es"
+  },
+  {
+    "text": "Marca a los alumnos que hablaron o que",
+    "duration": 4759,
+    "offset": 1818760,
+    "lang": "es"
+  },
+  {
+    "text": "usaron celular o que miraron hacia abajo",
+    "duration": 3960,
+    "offset": 1821120,
+    "lang": "es"
+  },
+  {
+    "text": "como",
+    "duration": 3640,
+    "offset": 1823519,
+    "lang": "es"
+  },
+  {
+    "text": "sospechosos entonces uno no tiene que",
+    "duration": 4319,
+    "offset": 1825080,
+    "lang": "es"
+  },
+  {
+    "text": "estar mirándolo ni controlando ni nada y",
+    "duration": 4041,
+    "offset": 1827159,
+    "lang": "es"
+  },
+  {
+    "text": "ni hablar Digamos si el alumno hizo al",
+    "duration": 4561,
+    "offset": 1829399,
+    "lang": "es"
+  },
+  {
+    "text": "Tab lo que te dice proctorio Bueno este",
+    "duration": 5199,
+    "offset": 1831200,
+    "lang": "es"
+  },
+  {
+    "text": "alumno hizo al Tab y abrió esta esta y",
+    "duration": 4240,
+    "offset": 1833960,
+    "lang": "es"
+  },
+  {
+    "text": "esta página",
+    "duration": 4280,
+    "offset": 1836399,
+    "lang": "es"
+  },
+  {
+    "text": "claro Entonces qué es lo que pasa uno le",
+    "duration": 5240,
+    "offset": 1838200,
+    "lang": "es"
+  },
+  {
+    "text": "puede decir Bueno mira tu examen fue",
+    "duration": 6240,
+    "offset": 1840679,
+    "lang": "es"
+  },
+  {
+    "text": "marcado como sospechoso me querés dar la",
+    "duration": 6320,
+    "offset": 1843440,
+    "lang": "es"
+  },
+  {
+    "text": "grabación para ver qué hiciste Y si el",
+    "duration": 5321,
+    "offset": 1846919,
+    "lang": "es"
+  },
+  {
+    "text": "alumno te dice no Bueno entonces estás",
+    "duration": 6759,
+    "offset": 1849760,
+    "lang": "es"
+  },
+  {
+    "text": "desaprobado Eh esos son yo por lo que vi",
+    "duration": 9080,
+    "offset": 1852240,
+    "lang": "es"
+  },
+  {
+    "text": "los lo que más se asemeja a los software",
+    "duration": 6520,
+    "offset": 1856519,
+    "lang": "es"
+  },
+  {
+    "text": "de proctoring tienen detección de",
+    "duration": 4359,
+    "offset": 1861320,
+    "lang": "es"
+  },
+  {
+    "text": "objetos detección de voz cambio de",
+    "duration": 6081,
+    "offset": 1863039,
+    "lang": "es"
+  },
+  {
+    "text": "mirada etcétera lo hay que configurarlo",
+    "duration": 6641,
+    "offset": 1865679,
+    "lang": "es"
+  },
+  {
+    "text": "eh Y tienen también la prohibición de",
+    "duration": 5919,
+    "offset": 1869120,
+    "lang": "es"
+  },
+  {
+    "text": "hacer al Tab de abrir más de un",
+    "duration": 5520,
+    "offset": 1872320,
+    "lang": "es"
+  },
+  {
+    "text": "navegador abrir más de una aplicación y",
+    "duration": 5081,
+    "offset": 1875039,
+    "lang": "es"
+  },
+  {
+    "text": "qué hacen todo eso lo registran y te",
+    "duration": 5160,
+    "offset": 1877840,
+    "lang": "es"
+  },
+  {
+    "text": "dicen este este software este examen",
+    "duration": 5760,
+    "offset": 1880120,
+    "lang": "es"
+  },
+  {
+    "text": "Está marcado como sospechoso el alumno",
+    "duration": 7360,
+    "offset": 1883000,
+    "lang": "es"
+  },
+  {
+    "text": "hizo alt Tab y abrió tal página claro te",
+    "duration": 6519,
+    "offset": 1885880,
+    "lang": "es"
+  },
+  {
+    "text": "llega todo Sí yo algo de eso estuve",
+    "duration": 5520,
+    "offset": 1890360,
+    "lang": "es"
+  },
+  {
+    "text": "mirando pero claro todos son son pagos",
+    "duration": 6961,
+    "offset": 1892399,
+    "lang": "es"
+  },
+  {
+    "text": "Sí yo no sé Ahora quiero hablar mañana",
+    "duration": 7720,
+    "offset": 1895880,
+    "lang": "es"
+  },
+  {
+    "text": "para ver cuán caro es",
+    "duration": 7000,
+    "offset": 1899360,
+    "lang": "es"
+  },
+  {
+    "text": "eh pero la verdad es que es la única",
+    "duration": 4720,
+    "offset": 1903600,
+    "lang": "es"
+  },
+  {
+    "text": "solución porque por más que vos pongas",
+    "duration": 4520,
+    "offset": 1906360,
+    "lang": "es"
+  },
+  {
+    "text": "cámara que",
+    "duration": 4839,
+    "offset": 1908320,
+    "lang": "es"
+  },
+  {
+    "text": "hagas lo que se te ocurra siempre",
+    "duration": 5399,
+    "offset": 1910880,
+    "lang": "es"
+  },
+  {
+    "text": "digamos salo que lo tengas así",
+    "duration": 6120,
+    "offset": 1913159,
+    "lang": "es"
+  },
+  {
+    "text": "controlado con un sistema que controla",
+    "duration": 5961,
+    "offset": 1916279,
+    "lang": "es"
+  },
+  {
+    "text": "eh la cámara y también lo que están",
+    "duration": 5000,
+    "offset": 1919279,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo en la computadora o sea que no",
+    "duration": 3919,
+    "offset": 1922240,
+    "lang": "es"
+  },
+  {
+    "text": "abran otra aplicación ni abran otra",
+    "duration": 4240,
+    "offset": 1924279,
+    "lang": "es"
+  },
+  {
+    "text": "pantalla Sí yo en el colegio que tuve",
+    "duration": 4041,
+    "offset": 1926159,
+    "lang": "es"
+  },
+  {
+    "text": "que tomar exámenes previos durante el",
+    "duration": 5040,
+    "offset": 1928519,
+    "lang": "es"
+  },
+  {
+    "text": "año lo que hicimos fue que los chicos",
+    "duration": 5040,
+    "offset": 1930200,
+    "lang": "es"
+  },
+  {
+    "text": "trabajaban en la computadora en el",
+    "duration": 4521,
+    "offset": 1933559,
+    "lang": "es"
+  },
+  {
+    "text": "examen y con el celular",
+    "duration": 7679,
+    "offset": 1935240,
+    "lang": "es"
+  },
+  {
+    "text": "abrían un Meet o un un zoom Y entonces",
+    "duration": 7439,
+    "offset": 1938080,
+    "lang": "es"
+  },
+  {
+    "text": "apuntaban con la cámara del teléfono",
+    "duration": 4441,
+    "offset": 1942919,
+    "lang": "es"
+  },
+  {
+    "text": "hacia donde estaban trabajando ellos y",
+    "duration": 4961,
+    "offset": 1945519,
+    "lang": "es"
+  },
+  {
+    "text": "la pantalla de la computadora Ah como",
+    "duration": 6799,
+    "offset": 1947360,
+    "lang": "es"
+  },
+  {
+    "text": "que se minimizaba la posibilidad de",
+    "duration": 6679,
+    "offset": 1950480,
+    "lang": "es"
+  },
+  {
+    "text": "copiarse obviamente Bueno si había otra",
+    "duration": 5801,
+    "offset": 1954159,
+    "lang": "es"
+  },
+  {
+    "text": "persona en la habitación eso ya no lo",
+    "duration": 5561,
+    "offset": 1957159,
+    "lang": "es"
+  },
+  {
+    "text": "podíamos controlar igual a ver",
+    "duration": 6000,
+    "offset": 1959960,
+    "lang": "es"
+  },
+  {
+    "text": "convengamos que",
+    "duration": 3240,
+    "offset": 1962720,
+    "lang": "es"
+  },
+  {
+    "text": "inclusive en un parcial",
+    "duration": 5799,
+    "offset": 1966720,
+    "lang": "es"
+  },
+  {
+    "text": "normal Hay un montón de de situaciones",
+    "duration": 5000,
+    "offset": 1969360,
+    "lang": "es"
+  },
+  {
+    "text": "de fraude que a lo mejor no las",
+    "duration": 3801,
+    "offset": 1972519,
+    "lang": "es"
+  },
+  {
+    "text": "detectamos pero no sé por ahí que te",
+    "duration": 4120,
+    "offset": 1974360,
+    "lang": "es"
+  },
+  {
+    "text": "manden a rendir a otra persona",
+    "duration": 4160,
+    "offset": 1976320,
+    "lang": "es"
+  },
+  {
+    "text": "Sí bueno nosotros controlamos para este",
+    "duration": 3799,
+    "offset": 1978480,
+    "lang": "es"
+  },
+  {
+    "text": "examen controlamos a qui entra en el",
+    "duration": 6960,
+    "offset": 1980480,
+    "lang": "es"
+  },
+  {
+    "text": "aula con con dni y libreta Ah claro pero",
+    "duration": 6921,
+    "offset": 1982279,
+    "lang": "es"
+  },
+  {
+    "text": "bueno pero por ejemplo inclusive eso te",
+    "duration": 3440,
+    "offset": 1987440,
+    "lang": "es"
+  },
+  {
+    "text": "lo pueden hacer hasta presencial porque",
+    "duration": 3479,
+    "offset": 1989200,
+    "lang": "es"
+  },
+  {
+    "text": "vos vas a rendir inglés que tenés que",
+    "duration": 5039,
+    "offset": 1990880,
+    "lang": "es"
+  },
+  {
+    "text": "hacer la nivelación para después dar el",
+    "duration": 5561,
+    "offset": 1992679,
+    "lang": "es"
+  },
+  {
+    "text": "que es Yo me acuerdo que inglés la rendí",
+    "duration": 4961,
+    "offset": 1995919,
+    "lang": "es"
+  },
+  {
+    "text": "libre vos tenés que hacer la nivelación",
+    "duration": 4880,
+    "offset": 1998240,
+    "lang": "es"
+  },
+  {
+    "text": "y después tenés que dar el final para",
+    "duration": 5600,
+    "offset": 2000880,
+    "lang": "es"
+  },
+  {
+    "text": "ver si apras el examen libre Sí sí Bueno",
+    "duration": 5640,
+    "offset": 2003120,
+    "lang": "es"
+  },
+  {
+    "text": "ahora es distinto y esto es un examen",
+    "duration": 5280,
+    "offset": 2006480,
+    "lang": "es"
+  },
+  {
+    "text": "que ellos no cursan es decir y es un",
+    "duration": 5440,
+    "offset": 2008760,
+    "lang": "es"
+  },
+  {
+    "text": "requisito que todos los de civil",
+    "duration": 4840,
+    "offset": 2011760,
+    "lang": "es"
+  },
+  {
+    "text": "electrónica bueno Son seis carreras que",
+    "duration": 3920,
+    "offset": 2014200,
+    "lang": "es"
+  },
+  {
+    "text": "todos tienen que rendir para poder",
+    "duration": 5240,
+    "offset": 2016600,
+    "lang": "es"
+  },
+  {
+    "text": "graduarse Ah está bien Eso sí entonces",
+    "duration": 8120,
+    "offset": 2018120,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno pero el este el tema es que hay",
+    "duration": 6640,
+    "offset": 2021840,
+    "lang": "es"
+  },
+  {
+    "text": "materias a donde yo por ejemplo Hay un",
+    "duration": 3720,
+    "offset": 2026240,
+    "lang": "es"
+  },
+  {
+    "text": "montón de alumnos cuando me pasan el",
+    "duration": 4120,
+    "offset": 2028480,
+    "lang": "es"
+  },
+  {
+    "text": "curso de verano Hay un montón de alumnos",
+    "duration": 4719,
+    "offset": 2029960,
+    "lang": "es"
+  },
+  {
+    "text": "que yo digo la verdad que no los vi",
+    "duration": 5240,
+    "offset": 2032600,
+    "lang": "es"
+  },
+  {
+    "text": "nunca y",
+    "duration": 4880,
+    "offset": 2034679,
+    "lang": "es"
+  },
+  {
+    "text": "hecho si ahora Lo que empezamos a hacer",
+    "duration": 4920,
+    "offset": 2037840,
+    "lang": "es"
+  },
+  {
+    "text": "para evitar eso",
+    "duration": 3201,
+    "offset": 2039559,
+    "lang": "es"
+  },
+  {
+    "text": "es hacíamos registrar asistencia y bueno",
+    "duration": 6441,
+    "offset": 2042799,
+    "lang": "es"
+  },
+  {
+    "text": "el que no tenía las asistencias y el que",
+    "duration": 3840,
+    "offset": 2046799,
+    "lang": "es"
+  },
+  {
+    "text": "no había venido a todas las clases no",
+    "duration": 3639,
+    "offset": 2049240,
+    "lang": "es"
+  },
+  {
+    "text": "podía rendir podían faltar a una",
+    "duration": 5040,
+    "offset": 2050639,
+    "lang": "es"
+  },
+  {
+    "text": "clase Entonces ahí es como que dejé de",
+    "duration": 4441,
+    "offset": 2052879,
+    "lang": "es"
+  },
+  {
+    "text": "ver caras",
+    "duration": 4400,
+    "offset": 2055679,
+    "lang": "es"
+  },
+  {
+    "text": "extrañas pero si no a m me pasaba que",
+    "duration": 4839,
+    "offset": 2057320,
+    "lang": "es"
+  },
+  {
+    "text": "digo a lo mejor por ahí puede ser",
+    "duration": 3520,
+    "offset": 2060079,
+    "lang": "es"
+  },
+  {
+    "text": "alumnos que se hayan inscritos y no",
+    "duration": 5680,
+    "offset": 2062159,
+    "lang": "es"
+  },
+  {
+    "text": "vinieron o por ahí vino otro a rendir no",
+    "duration": 7201,
+    "offset": 2063599,
+    "lang": "es"
+  },
+  {
+    "text": "es el y después el tema también en los",
+    "duration": 4721,
+    "offset": 2067839,
+    "lang": "es"
+  },
+  {
+    "text": "cursos que son muy multitudinarios por",
+    "duration": 4079,
+    "offset": 2070800,
+    "lang": "es"
+  },
+  {
+    "text": "ahí alguno algun hojita algún papelito",
+    "duration": 6079,
+    "offset": 2072560,
+    "lang": "es"
+  },
+  {
+    "text": "algo se saca obviamente bueno Eso Eso es",
+    "duration": 7601,
+    "offset": 2074879,
+    "lang": "es"
+  },
+  {
+    "text": "así que tradición Sí el control pero",
+    "duration": 6601,
+    "offset": 2078639,
+    "lang": "es"
+  },
+  {
+    "text": "bueno con el tema de internet es como",
+    "duration": 6599,
+    "offset": 2082480,
+    "lang": "es"
+  },
+  {
+    "text": "que el control si es un poco más difícil",
+    "duration": 5599,
+    "offset": 2085240,
+    "lang": "es"
+  },
+  {
+    "text": "y aparte una vez que le agarraron la",
+    "duration": 3481,
+    "offset": 2089079,
+    "lang": "es"
+  },
+  {
+    "text": "vuelta qué s yo que se armaron el grupo",
+    "duration": 4481,
+    "offset": 2090839,
+    "lang": "es"
+  },
+  {
+    "text": "de WhatsApp y demás este una vez que",
+    "duration": 5160,
+    "offset": 2092560,
+    "lang": "es"
+  },
+  {
+    "text": "encontraron el talón de Aquiles es como",
+    "duration": 4519,
+    "offset": 2095320,
+    "lang": "es"
+  },
+  {
+    "text": "que ya ahí se dispara no porque",
+    "duration": 4639,
+    "offset": 2097720,
+    "lang": "es"
+  },
+  {
+    "text": "obviamente Sí sí sí pero bueno no sé",
+    "duration": 4481,
+    "offset": 2099839,
+    "lang": "es"
+  },
+  {
+    "text": "espero a ver que el proctorio este no",
+    "duration": 5681,
+    "offset": 2102359,
+    "lang": "es"
+  },
+  {
+    "text": "sea tan tan caro esperemos Bueno gracias",
+    "duration": 7279,
+    "offset": 2104320,
+    "lang": "es"
+  },
+  {
+    "text": "Diego por todas las respuestas bueno el",
+    "duration": 5200,
+    "offset": 2108040,
+    "lang": "es"
+  },
+  {
+    "text": "tema es que la otra parte del",
+    "duration": 3881,
+    "offset": 2111599,
+    "lang": "es"
+  },
+  {
+    "text": "cuestionario son las preguntas acá",
+    "duration": 5240,
+    "offset": 2113240,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos un cuestionario a donde ya",
+    "duration": 5560,
+    "offset": 2115480,
+    "lang": "es"
+  },
+  {
+    "text": "pusimos algunas",
+    "duration": 6639,
+    "offset": 2118480,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas fíjense una cosa acá tenemos",
+    "duration": 7240,
+    "offset": 2121040,
+    "lang": "es"
+  },
+  {
+    "text": "esta parte que dice página uno",
+    "duration": 5240,
+    "offset": 2125119,
+    "lang": "es"
+  },
+  {
+    "text": "que como ven esta pregunta no está",
+    "duration": 4079,
+    "offset": 2128280,
+    "lang": "es"
+  },
+  {
+    "text": "ordenada al azar y es para elegir el",
+    "duration": 3561,
+    "offset": 2130359,
+    "lang": "es"
+  },
+  {
+    "text": "nombre del",
+    "duration": 6561,
+    "offset": 2132359,
+    "lang": "es"
+  },
+  {
+    "text": "curso y después tenemos",
+    "duration": 5000,
+    "offset": 2133920,
+    "lang": "es"
+  },
+  {
+    "text": "este estas otras que sí están ordenadas",
+    "duration": 6320,
+    "offset": 2139720,
+    "lang": "es"
+  },
+  {
+    "text": "al azar cuando uno acá ya no me deja",
+    "duration": 7280,
+    "offset": 2142640,
+    "lang": "es"
+  },
+  {
+    "text": "ordenar más este no me deja agregar más",
+    "duration": 7120,
+    "offset": 2146040,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas porque están",
+    "duration": 6800,
+    "offset": 2149920,
+    "lang": "es"
+  },
+  {
+    "text": "este porque ya tiene respuestas el el",
+    "duration": 6600,
+    "offset": 2153160,
+    "lang": "es"
+  },
+  {
+    "text": "cuestionario pero esperen que lo voy a",
+    "duration": 4520,
+    "offset": 2156720,
+    "lang": "es"
+  },
+  {
+    "text": "hacer permiso",
+    "duration": 5880,
+    "offset": 2159760,
+    "lang": "es"
+  },
+  {
+    "text": "eh acá Estoy compartiendo un modle que",
+    "duration": 5599,
+    "offset": 2161240,
+    "lang": "es"
+  },
+  {
+    "text": "tengo de",
+    "duration": 4199,
+    "offset": 2165640,
+    "lang": "es"
+  },
+  {
+    "text": "prueba",
+    "duration": 3000,
+    "offset": 2166839,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense Acá tengo una pregunta entonces",
+    "duration": 6640,
+    "offset": 2170640,
+    "lang": "es"
+  },
+  {
+    "text": "acá",
+    "duration": 2681,
+    "offset": 2174599,
+    "lang": "es"
+  },
+  {
+    "text": "eh puedo agregar voy a agregar otra",
+    "duration": 7000,
+    "offset": 2177640,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta me parece que en el banco de",
+    "duration": 6200,
+    "offset": 2181760,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas no tengo nada así que voy a",
+    "duration": 6920,
+    "offset": 2184640,
+    "lang": "es"
+  },
+  {
+    "text": "agregar algo rápidamente Bueno ahí me",
+    "duration": 6600,
+    "offset": 2187960,
+    "lang": "es"
+  },
+  {
+    "text": "dejó grabar otra pregunta entonces",
+    "duration": 6240,
+    "offset": 2191560,
+    "lang": "es"
+  },
+  {
+    "text": "acá fíjense que acá me dice para elegir",
+    "duration": 5200,
+    "offset": 2194560,
+    "lang": "es"
+  },
+  {
+    "text": "ahí ven que tengo dos",
+    "duration": 4720,
+    "offset": 2197800,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas este el shuffle sería",
+    "duration": 5720,
+    "offset": 2199760,
+    "lang": "es"
+  },
+  {
+    "text": "ordenarlas aar ahora qué es lo que pasa",
+    "duration": 6360,
+    "offset": 2202520,
+    "lang": "es"
+  },
+  {
+    "text": "Yo acá puedo agregar un",
+    "duration": 3400,
+    "offset": 2205480,
+    "lang": "es"
+  },
+  {
+    "text": "eh un nuevo",
+    "duration": 3680,
+    "offset": 2209040,
+    "lang": "es"
+  },
+  {
+    "text": "encabezado entonces a este nuevo",
+    "duration": 6080,
+    "offset": 2212920,
+    "lang": "es"
+  },
+  {
+    "text": "encabezado le voy a poner en",
+    "duration": 6600,
+    "offset": 2215280,
+    "lang": "es"
+  },
+  {
+    "text": "encabezado al",
+    "duration": 6119,
+    "offset": 2219000,
+    "lang": "es"
+  },
+  {
+    "text": "azar Entonces qué es lo que pasa esta",
+    "duration": 8160,
+    "offset": 2221880,
+    "lang": "es"
+  },
+  {
+    "text": "acá yo no la Marco que este mezcle las",
+    "duration": 8521,
+    "offset": 2225119,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas que las elija al azar y acá",
+    "duration": 7000,
+    "offset": 2230040,
+    "lang": "es"
+  },
+  {
+    "text": "s Entonces los alumnos Cuando",
+    "duration": 7479,
+    "offset": 2233640,
+    "lang": "es"
+  },
+  {
+    "text": "vean las preguntas como pasa acá vieron",
+    "duration": 7240,
+    "offset": 2237040,
+    "lang": "es"
+  },
+  {
+    "text": "que cuando tengo más de una me deja",
+    "duration": 5041,
+    "offset": 2241119,
+    "lang": "es"
+  },
+  {
+    "text": "ordenar un nuevo encabezado poner un",
+    "duration": 4640,
+    "offset": 2244280,
+    "lang": "es"
+  },
+  {
+    "text": "nuevo encabezado los alumnos van a ver",
+    "duration": 5640,
+    "offset": 2246160,
+    "lang": "es"
+  },
+  {
+    "text": "siempre fijo el que dice elija el nombre",
+    "duration": 7880,
+    "offset": 2248920,
+    "lang": "es"
+  },
+  {
+    "text": "del curso y todas estas van a estar al",
+    "duration": 7880,
+    "offset": 2251800,
+    "lang": "es"
+  },
+  {
+    "text": "azar",
+    "duration": 5400,
+    "offset": 2256800,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá es porque era elegir el",
+    "duration": 5120,
+    "offset": 2259680,
+    "lang": "es"
+  },
+  {
+    "text": "nombre del curso pero volviendo al caso",
+    "duration": 4919,
+    "offset": 2262200,
+    "lang": "es"
+  },
+  {
+    "text": "de la pregunta difícil yo lo que puedo",
+    "duration": 5840,
+    "offset": 2264800,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es al revés que aparezcan al azar",
+    "duration": 7361,
+    "offset": 2267119,
+    "lang": "es"
+  },
+  {
+    "text": "la fáciles y último de todo Que aparezca",
+    "duration": 6000,
+    "offset": 2270640,
+    "lang": "es"
+  },
+  {
+    "text": "La que es la más difícil y a esa le",
+    "duration": 6520,
+    "offset": 2274480,
+    "lang": "es"
+  },
+  {
+    "text": "pongo un nuevo encabezado y no le tildo",
+    "duration": 7439,
+    "offset": 2276640,
+    "lang": "es"
+  },
+  {
+    "text": "que lo reordene al azar Entonces yo sé",
+    "duration": 4960,
+    "offset": 2281000,
+    "lang": "es"
+  },
+  {
+    "text": "que tengo partes de las preguntas que",
+    "duration": 3801,
+    "offset": 2284079,
+    "lang": "es"
+  },
+  {
+    "text": "van a estar fijas en una posición",
+    "duration": 4320,
+    "offset": 2285960,
+    "lang": "es"
+  },
+  {
+    "text": "determinada y parte de las preguntas que",
+    "duration": 5520,
+    "offset": 2287880,
+    "lang": "es"
+  },
+  {
+    "text": "van a aparecer al azar",
+    "duration": 6440,
+    "offset": 2290280,
+    "lang": "es"
+  },
+  {
+    "text": "bien bueno Después qué es lo que pasa",
+    "duration": 5880,
+    "offset": 2293400,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense bueno esta como es el nombre del",
+    "duration": 5359,
+    "offset": 2296720,
+    "lang": "es"
+  },
+  {
+    "text": "curso dice cero cada una de las",
+    "duration": 4559,
+    "offset": 2299280,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas tiene un",
+    "duration": 6641,
+    "offset": 2302079,
+    "lang": "es"
+  },
+  {
+    "text": "valor acá el el el valor total suma 100",
+    "duration": 6601,
+    "offset": 2303839,
+    "lang": "es"
+  },
+  {
+    "text": "pero cada una de estas preguntas tiene",
+    "duration": 2520,
+    "offset": 2308720,
+    "lang": "es"
+  },
+  {
+    "text": "un",
+    "duration": 4120,
+    "offset": 2310440,
+    "lang": "es"
+  },
+  {
+    "text": "valor Qué pasa si yo me doy cuenta digo",
+    "duration": 4879,
+    "offset": 2311240,
+    "lang": "es"
+  },
+  {
+    "text": "no la verdad que había una pregunta que",
+    "duration": 4080,
+    "offset": 2314560,
+    "lang": "es"
+  },
+  {
+    "text": "era muy difícil y le tendría que poner",
+    "duration": 6521,
+    "offset": 2316119,
+    "lang": "es"
+  },
+  {
+    "text": "un valor más grande se puede",
+    "duration": 7280,
+    "offset": 2318640,
+    "lang": "es"
+  },
+  {
+    "text": "cambiar acá no porque bueno acá no me",
+    "duration": 5320,
+    "offset": 2322640,
+    "lang": "es"
+  },
+  {
+    "text": "dio",
+    "duration": 5000,
+    "offset": 2325920,
+    "lang": "es"
+  },
+  {
+    "text": "pelota a",
+    "duration": 7119,
+    "offset": 2327960,
+    "lang": "es"
+  },
+  {
+    "text": "ver enter Ahí",
+    "duration": 4159,
+    "offset": 2330920,
+    "lang": "es"
+  },
+  {
+    "text": "está esta se puede cambiar ahí la debe",
+    "duration": 6320,
+    "offset": 2335440,
+    "lang": "es"
+  },
+  {
+    "text": "estar Espero que no se caiga nada se",
+    "duration": 6401,
+    "offset": 2339079,
+    "lang": "es"
+  },
+  {
+    "text": "puede cambiar y lo que hace es hace un",
+    "duration": 6240,
+    "offset": 2341760,
+    "lang": "es"
+  },
+  {
+    "text": "recálculo de todas las preguntas Ahí le",
+    "duration": 5280,
+    "offset": 2345480,
+    "lang": "es"
+  },
+  {
+    "text": "voy la voy a volver a poner en",
+    "duration": 5720,
+    "offset": 2348000,
+    "lang": "es"
+  },
+  {
+    "text": "20 así queda como siempre porque Este",
+    "duration": 6720,
+    "offset": 2350760,
+    "lang": "es"
+  },
+  {
+    "text": "parcial tenía este tenía respuestas Pero",
+    "duration": 5560,
+    "offset": 2353720,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que pasa si ustedes dicen no",
+    "duration": 4000,
+    "offset": 2357480,
+    "lang": "es"
+  },
+  {
+    "text": "me di cuenta que había una pregunta que",
+    "duration": 3640,
+    "offset": 2359280,
+    "lang": "es"
+  },
+  {
+    "text": "debiera valer",
+    "duration": 4599,
+    "offset": 2361480,
+    "lang": "es"
+  },
+  {
+    "text": "más entonces en esa pregunta que ustedes",
+    "duration": 5040,
+    "offset": 2362920,
+    "lang": "es"
+  },
+  {
+    "text": "se dieron cuenta que debiera valer más",
+    "duration": 4601,
+    "offset": 2366079,
+    "lang": "es"
+  },
+  {
+    "text": "pueden Ir y cambiarle el valor y va a",
+    "duration": 4840,
+    "offset": 2367960,
+    "lang": "es"
+  },
+  {
+    "text": "hacer un recálculo y lo que va a hacer",
+    "duration": 5120,
+    "offset": 2370680,
+    "lang": "es"
+  },
+  {
+    "text": "es cuando hace el recálculo le muestra",
+    "duration": 5559,
+    "offset": 2372800,
+    "lang": "es"
+  },
+  {
+    "text": "la nota vieja tachada y cómo queda la",
+    "duration": 5240,
+    "offset": 2375800,
+    "lang": "es"
+  },
+  {
+    "text": "nota nueva Entonces el docente puede ver",
+    "duration": 4561,
+    "offset": 2378359,
+    "lang": "es"
+  },
+  {
+    "text": "que hubo un recálculo y por ahí hay",
+    "duration": 3400,
+    "offset": 2381040,
+    "lang": "es"
+  },
+  {
+    "text": "alumnos que aprobaron hay alumnos que",
+    "duration": 3480,
+    "offset": 2382920,
+    "lang": "es"
+  },
+  {
+    "text": "desaprobaron depende de cuánto es que",
+    "duration": 3320,
+    "offset": 2384440,
+    "lang": "es"
+  },
+  {
+    "text": "cambiaron si cambiaron para arriba o",
+    "duration": 3919,
+    "offset": 2386400,
+    "lang": "es"
+  },
+  {
+    "text": "para abajo y otra cosa que se puede",
+    "duration": 3839,
+    "offset": 2387760,
+    "lang": "es"
+  },
+  {
+    "text": "hacer",
+    "duration": 7121,
+    "offset": 2390319,
+    "lang": "es"
+  },
+  {
+    "text": "eh vamos a verlo acá en el caso de eh",
+    "duration": 8361,
+    "offset": 2391599,
+    "lang": "es"
+  },
+  {
+    "text": "este el multiple Choice",
+    "duration": 6120,
+    "offset": 2397440,
+    "lang": "es"
+  },
+  {
+    "text": "es cuando yo tengo preguntas multiple",
+    "duration": 7720,
+    "offset": 2399960,
+    "lang": "es"
+  },
+  {
+    "text": "Choice yo puedo elegir que si da una",
+    "duration": 7440,
+    "offset": 2403560,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta que esa respuesta es muy mala",
+    "duration": 6480,
+    "offset": 2407680,
+    "lang": "es"
+  },
+  {
+    "text": "que en cambio de sumar reste o sea puede",
+    "duration": 5720,
+    "offset": 2411000,
+    "lang": "es"
+  },
+  {
+    "text": "elegir una",
+    "duration": 5679,
+    "offset": 2414160,
+    "lang": "es"
+  },
+  {
+    "text": "penalización eso es algo que",
+    "duration": 6119,
+    "offset": 2416720,
+    "lang": "es"
+  },
+  {
+    "text": "este que también es posible hay que ver",
+    "duration": 6401,
+    "offset": 2419839,
+    "lang": "es"
+  },
+  {
+    "text": "si uno no quiere estar si uno dice Bueno",
+    "duration": 7401,
+    "offset": 2422839,
+    "lang": "es"
+  },
+  {
+    "text": "puse algo que está ente muy mal y que es",
+    "duration": 7400,
+    "offset": 2426240,
+    "lang": "es"
+  },
+  {
+    "text": "una animalada y que habría que penalizar",
+    "duration": 5640,
+    "offset": 2430240,
+    "lang": "es"
+  },
+  {
+    "text": "lo si lo responden se puede hacer y se",
+    "duration": 3479,
+    "offset": 2433640,
+    "lang": "es"
+  },
+  {
+    "text": "puede",
+    "duration": 3199,
+    "offset": 2435880,
+    "lang": "es"
+  },
+  {
+    "text": "penalizar",
+    "duration": 5960,
+    "offset": 2437119,
+    "lang": "es"
+  },
+  {
+    "text": "bien Entonces hasta ahí lo que Estuvimos",
+    "duration": 7961,
+    "offset": 2439079,
+    "lang": "es"
+  },
+  {
+    "text": "viendo Es que parte de las preguntas yo",
+    "duration": 5841,
+    "offset": 2443079,
+    "lang": "es"
+  },
+  {
+    "text": "puedo crear el banco de preguntas el",
+    "duration": 3799,
+    "offset": 2447040,
+    "lang": "es"
+  },
+  {
+    "text": "banco de preguntas una categoría un",
+    "duration": 4640,
+    "offset": 2448920,
+    "lang": "es"
+  },
+  {
+    "text": "montón de preguntas ese montón de",
+    "duration": 7280,
+    "offset": 2450839,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas yo las puedo eh",
+    "duration": 7880,
+    "offset": 2453560,
+    "lang": "es"
+  },
+  {
+    "text": "en parte poner fijas y en parte poner",
+    "duration": 4720,
+    "offset": 2458119,
+    "lang": "es"
+  },
+  {
+    "text": "que",
+    "duration": 6960,
+    "offset": 2461440,
+    "lang": "es"
+  },
+  {
+    "text": "se reorden al azar entonces a su vez",
+    "duration": 8601,
+    "offset": 2462839,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que acá dice pregunta aleatoria",
+    "duration": 3880,
+    "offset": 2468400,
+    "lang": "es"
+  },
+  {
+    "text": "qué",
+    "duration": 3879,
+    "offset": 2471440,
+    "lang": "es"
+  },
+  {
+    "text": "significa que acá de el banco de",
+    "duration": 6319,
+    "offset": 2472280,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas vamos a",
+    "duration": 5961,
+    "offset": 2475319,
+    "lang": "es"
+  },
+  {
+    "text": "verlas esto Supongo que por ahí ya todos",
+    "duration": 4401,
+    "offset": 2478599,
+    "lang": "es"
+  },
+  {
+    "text": "lo usaron Acá tengo un banco de",
+    "duration": 3559,
+    "offset": 2481280,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas que tiene un montón de",
+    "duration": 4960,
+    "offset": 2483000,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas y de ese banco de",
+    "duration": 5721,
+    "offset": 2484839,
+    "lang": "es"
+  },
+  {
+    "text": "que este por ejemplo",
+    "duration": 7119,
+    "offset": 2487960,
+    "lang": "es"
+  },
+  {
+    "text": "tiene una dos 3 cu c preguntas de ese",
+    "duration": 6559,
+    "offset": 2490560,
+    "lang": "es"
+  },
+  {
+    "text": "banco de preguntas que tiene cinco",
+    "duration": 5280,
+    "offset": 2495079,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas va a elegir al azar",
+    "duration": 5441,
+    "offset": 2497119,
+    "lang": "es"
+  },
+  {
+    "text": "una con lo",
+    "duration": 7720,
+    "offset": 2500359,
+    "lang": "es"
+  },
+  {
+    "text": "cual del mismo tema a los a los",
+    "duration": 7279,
+    "offset": 2502560,
+    "lang": "es"
+  },
+  {
+    "text": "distintos alumnos no le va a tocar la",
+    "duration": 5081,
+    "offset": 2508079,
+    "lang": "es"
+  },
+  {
+    "text": "misma pregunta sino que le va a tocar",
+    "duration": 8240,
+    "offset": 2509839,
+    "lang": "es"
+  },
+  {
+    "text": "una Tom una de de las cinco y aparte de",
+    "duration": 7199,
+    "offset": 2513160,
+    "lang": "es"
+  },
+  {
+    "text": "eso van a estar ordenadas al azar con lo",
+    "duration": 5040,
+    "offset": 2518079,
+    "lang": "es"
+  },
+  {
+    "text": "cual puede que ondas sea la pregunta",
+    "duration": 7081,
+    "offset": 2520359,
+    "lang": "es"
+  },
+  {
+    "text": "número uno y la pregunta tres de ondas",
+    "duration": 7240,
+    "offset": 2523119,
+    "lang": "es"
+  },
+  {
+    "text": "para un alumno y esté en el lugar cuatro",
+    "duration": 5520,
+    "offset": 2527440,
+    "lang": "es"
+  },
+  {
+    "text": "pero sea la pregunta uno para otro",
+    "duration": 5441,
+    "offset": 2530359,
+    "lang": "es"
+  },
+  {
+    "text": "alumno",
+    "duration": 6480,
+    "offset": 2532960,
+    "lang": "es"
+  },
+  {
+    "text": "bien Igual si uno digamos una vez que",
+    "duration": 6160,
+    "offset": 2535800,
+    "lang": "es"
+  },
+  {
+    "text": "los alumnos se avivaron que hicimos eso",
+    "duration": 5320,
+    "offset": 2539440,
+    "lang": "es"
+  },
+  {
+    "text": "pueden discutir pregunta por pregunta y",
+    "duration": 6080,
+    "offset": 2541960,
+    "lang": "es"
+  },
+  {
+    "text": "si bien Esto al hacer varias preguntas",
+    "duration": 5400,
+    "offset": 2544760,
+    "lang": "es"
+  },
+  {
+    "text": "que estén ordenadas al azar y que se",
+    "duration": 4319,
+    "offset": 2548040,
+    "lang": "es"
+  },
+  {
+    "text": "elijan en forma aleatoria de un banco de",
+    "duration": 4480,
+    "offset": 2550160,
+    "lang": "es"
+  },
+  {
+    "text": "varias preguntas minimiza la posibilidad",
+    "duration": 5921,
+    "offset": 2552359,
+    "lang": "es"
+  },
+  {
+    "text": "de copia digamos así todos se pueden",
+    "duration": 6120,
+    "offset": 2554640,
+    "lang": "es"
+  },
+  {
+    "text": "juntar en grupo utilizar papelitos y",
+    "duration": 5680,
+    "offset": 2558280,
+    "lang": "es"
+  },
+  {
+    "text": "demás Pero bueno es como que es algo que",
+    "duration": 5319,
+    "offset": 2560760,
+    "lang": "es"
+  },
+  {
+    "text": "al estar hecho de esa manera la",
+    "duration": 7280,
+    "offset": 2563960,
+    "lang": "es"
+  },
+  {
+    "text": "posibilidad de copia la minimiza",
+    "duration": 8201,
+    "offset": 2566079,
+    "lang": "es"
+  },
+  {
+    "text": "bien bueno",
+    "duration": 6560,
+    "offset": 2571240,
+    "lang": "es"
+  },
+  {
+    "text": "este las únicas preguntas como habíamos",
+    "duration": 6319,
+    "offset": 2574280,
+    "lang": "es"
+  },
+  {
+    "text": "visto recién que no se pueden calificar",
+    "duration": 5039,
+    "offset": 2577800,
+    "lang": "es"
+  },
+  {
+    "text": "en forma automática son las preguntas",
+    "duration": 5561,
+    "offset": 2580599,
+    "lang": "es"
+  },
+  {
+    "text": "tipo ensayo la pregunta tipo ensayo Sí o",
+    "duration": 6240,
+    "offset": 2582839,
+    "lang": "es"
+  },
+  {
+    "text": "sí hay que ir a ver el intento y le va a",
+    "duration": 4600,
+    "offset": 2586160,
+    "lang": "es"
+  },
+  {
+    "text": "decir en el intento pendiente de",
+    "duration": 3801,
+    "offset": 2589079,
+    "lang": "es"
+  },
+  {
+    "text": "calificación y uno la va a tener que",
+    "duration": 4040,
+    "offset": 2590760,
+    "lang": "es"
+  },
+  {
+    "text": "calificar en forma",
+    "duration": 4840,
+    "offset": 2592880,
+    "lang": "es"
+  },
+  {
+    "text": "manual para la pregunta tipo ensayo no",
+    "duration": 5160,
+    "offset": 2594800,
+    "lang": "es"
+  },
+  {
+    "text": "se puede hacer otra cosa que leerla y",
+    "duration": 5720,
+    "offset": 2597720,
+    "lang": "es"
+  },
+  {
+    "text": "poner la calificación en forma manual",
+    "duration": 7359,
+    "offset": 2599960,
+    "lang": "es"
+  },
+  {
+    "text": "bien bien entonces",
+    "duration": 6119,
+    "offset": 2603440,
+    "lang": "es"
+  },
+  {
+    "text": "alguien me había",
+    "duration": 4881,
+    "offset": 2607319,
+    "lang": "es"
+  },
+  {
+    "text": "preguntado justamente por eso te",
+    "duration": 5241,
+    "offset": 2609559,
+    "lang": "es"
+  },
+  {
+    "text": "preguntaba si no hay algún módulo que se",
+    "duration": 5960,
+    "offset": 2612200,
+    "lang": "es"
+  },
+  {
+    "text": "puede agregar al modle para tener",
+    "duration": 5319,
+    "offset": 2614800,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas que",
+    "duration": 5560,
+    "offset": 2618160,
+    "lang": "es"
+  },
+  {
+    "text": "sean de calificación automática pero con",
+    "duration": 6041,
+    "offset": 2620119,
+    "lang": "es"
+  },
+  {
+    "text": "la posibilidad de revisión por parte del",
+    "duration": 4520,
+    "offset": 2623720,
+    "lang": "es"
+  },
+  {
+    "text": "docente es decir",
+    "duration": 5600,
+    "offset": 2626160,
+    "lang": "es"
+  },
+  {
+    "text": "que Perdón Igualmente vos las preguntas",
+    "duration": 6480,
+    "offset": 2628240,
+    "lang": "es"
+  },
+  {
+    "text": "podés hacer multiple Choice y le podés",
+    "duration": 5559,
+    "offset": 2631760,
+    "lang": "es"
+  },
+  {
+    "text": "poner penalización o el otro que podés",
+    "duration": 3760,
+    "offset": 2634720,
+    "lang": "es"
+  },
+  {
+    "text": "es vamos",
+    "duration": 6760,
+    "offset": 2637319,
+    "lang": "es"
+  },
+  {
+    "text": "a a ir al intento vos cuando tenés el",
+    "duration": 7359,
+    "offset": 2638480,
+    "lang": "es"
+  },
+  {
+    "text": "intento por",
+    "duration": 4841,
+    "offset": 2644079,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo por ejemplo vamos a agarrar este",
+    "duration": 5561,
+    "offset": 2645839,
+    "lang": "es"
+  },
+  {
+    "text": "Ah qué lástima bueno no me di",
+    "duration": 5399,
+    "offset": 2648920,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta no se pueden poner preguntas",
+    "duration": 5719,
+    "offset": 2651400,
+    "lang": "es"
+  },
+  {
+    "text": "donde tenga que completar la respuesta y",
+    "duration": 4881,
+    "offset": 2654319,
+    "lang": "es"
+  },
+  {
+    "text": "ahí el docente va a",
+    "duration": 5480,
+    "offset": 2657119,
+    "lang": "es"
+  },
+  {
+    "text": "intervenir poner en",
+    "duration": 3399,
+    "offset": 2659200,
+    "lang": "es"
+  },
+  {
+    "text": "pausa for",
+    "duration": 4039,
+    "offset": 2666040,
+    "lang": "es"
+  }
+]

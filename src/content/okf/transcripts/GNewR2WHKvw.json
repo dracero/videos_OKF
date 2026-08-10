@@ -1,0 +1,548 @@
+[
+  {
+    "text": "Vamos a mostrar un ejemplo de uso del",
+    "duration": 5560,
+    "offset": 5440,
+    "lang": "es"
+  },
+  {
+    "text": "protocolo A2A. ¿Para qué sirve el",
+    "duration": 6320,
+    "offset": 7960,
+    "lang": "es"
+  },
+  {
+    "text": "protocolo A2A? Complementando a IMCP,",
+    "duration": 6279,
+    "offset": 11000,
+    "lang": "es"
+  },
+  {
+    "text": "A2A nos va a servir fundamentalmente",
+    "duration": 4159,
+    "offset": 14280,
+    "lang": "es"
+  },
+  {
+    "text": "para poder",
+    "duration": 4681,
+    "offset": 17279,
+    "lang": "es"
+  },
+  {
+    "text": "distribuir los sistemas de agentes.",
+    "duration": 5241,
+    "offset": 18439,
+    "lang": "es"
+  },
+  {
+    "text": "¿Para qué nos va a servir distribuir los",
+    "duration": 3520,
+    "offset": 21960,
+    "lang": "es"
+  },
+  {
+    "text": "sistemas de agentes en una institución",
+    "duration": 4439,
+    "offset": 23680,
+    "lang": "es"
+  },
+  {
+    "text": "como la Fiuba? En lugar de tener un",
+    "duration": 6199,
+    "offset": 25480,
+    "lang": "es"
+  },
+  {
+    "text": "único silo de agentes y un costo",
+    "duration": 5760,
+    "offset": 28119,
+    "lang": "es"
+  },
+  {
+    "text": "computacional importante tanto en",
+    "duration": 5601,
+    "offset": 31679,
+    "lang": "es"
+  },
+  {
+    "text": "energía como en hardware, vamos a poder",
+    "duration": 5321,
+    "offset": 33879,
+    "lang": "es"
+  },
+  {
+    "text": "distribuir tal vez con instituciones",
+    "duration": 4759,
+    "offset": 37280,
+    "lang": "es"
+  },
+  {
+    "text": "hermanas el mismo poder de cómputo y de",
+    "duration": 5640,
+    "offset": 39200,
+    "lang": "es"
+  },
+  {
+    "text": "esa manera poder compartir agentes de la",
+    "duration": 5040,
+    "offset": 42039,
+    "lang": "es"
+  },
+  {
+    "text": "misma manera que se comparten los",
+    "duration": 4920,
+    "offset": 44840,
+    "lang": "es"
+  },
+  {
+    "text": "laboratorios remotos.",
+    "duration": 5721,
+    "offset": 47079,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, vamos a ver un ejemplo. Acá",
+    "duration": 6119,
+    "offset": 49760,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos cuatro agentes",
+    "duration": 5439,
+    "offset": 52800,
+    "lang": "es"
+  },
+  {
+    "text": "funcionando. Estos cuatro agentes, uno",
+    "duration": 5000,
+    "offset": 55879,
+    "lang": "es"
+  },
+  {
+    "text": "genera imágenes, otro es un agente de",
+    "duration": 4601,
+    "offset": 58239,
+    "lang": "es"
+  },
+  {
+    "text": "reembolsos, otro es un agente que hace",
+    "duration": 4441,
+    "offset": 60879,
+    "lang": "es"
+  },
+  {
+    "text": "conversiones de moneda y otro es uno que",
+    "duration": 4959,
+    "offset": 62840,
+    "lang": "es"
+  },
+  {
+    "text": "conoce de física. Entonces, vamos a",
+    "duration": 3920,
+    "offset": 65320,
+    "lang": "es"
+  },
+  {
+    "text": "abrir el",
+    "duration": 3680,
+    "offset": 67799,
+    "lang": "es"
+  },
+  {
+    "text": "orquestador, que este sería el chatbot",
+    "duration": 6320,
+    "offset": 69240,
+    "lang": "es"
+  },
+  {
+    "text": "al que accederían los alumnos.",
+    "duration": 7921,
+    "offset": 71479,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá vamos a ver, tenemos los agentes",
+    "duration": 6680,
+    "offset": 75560,
+    "lang": "es"
+  },
+  {
+    "text": "registrados. Vamos a",
+    "duration": 6679,
+    "offset": 79400,
+    "lang": "es"
+  },
+  {
+    "text": "registrar el",
+    "duration": 9600,
+    "offset": 82240,
+    "lang": "es"
+  },
+  {
+    "text": "agente que responde preguntas de",
+    "duration": 5761,
+    "offset": 86079,
+    "lang": "es"
+  },
+  {
+    "text": "física. Acá dice, bien, descripción.",
+    "duration": 4521,
+    "offset": 95119,
+    "lang": "es"
+  },
+  {
+    "text": "Este es el Asient Card. A través del",
+    "duration": 3800,
+    "offset": 97720,
+    "lang": "es"
+  },
+  {
+    "text": "insert card, el orquestador lo conoce,",
+    "duration": 4560,
+    "offset": 99640,
+    "lang": "es"
+  },
+  {
+    "text": "pero a través del",
+    "duration": 2680,
+    "offset": 101520,
+    "lang": "es"
+  },
+  {
+    "text": "inserción manual, pero esa registración",
+    "duration": 5240,
+    "offset": 106000,
+    "lang": "es"
+  },
+  {
+    "text": "se puede hacer automática, transparente",
+    "duration": 6921,
+    "offset": 108439,
+    "lang": "es"
+  },
+  {
+    "text": "totalmente al al usuario. Vamos ahora",
+    "duration": 10960,
+    "offset": 111240,
+    "lang": "es"
+  },
+  {
+    "text": "acá le vamos a pedir si me podés generar",
+    "duration": 9439,
+    "offset": 115360,
+    "lang": "es"
+  },
+  {
+    "text": "una",
+    "duration": 2599,
+    "offset": 122200,
+    "lang": "es"
+  },
+  {
+    "text": "imagen. Ahí le preguntamos si es que nos",
+    "duration": 6000,
+    "offset": 127000,
+    "lang": "es"
+  },
+  {
+    "text": "puede generar una",
+    "duration": 3521,
+    "offset": 129479,
+    "lang": "es"
+  },
+  {
+    "text": "imagen. Empiezan a trabajar y a",
+    "duration": 4600,
+    "offset": 134080,
+    "lang": "es"
+  },
+  {
+    "text": "intercambiar",
+    "duration": 5321,
+    "offset": 136959,
+    "lang": "es"
+  },
+  {
+    "text": "mensajes todos los",
+    "duration": 3600,
+    "offset": 138680,
+    "lang": "es"
+  },
+  {
+    "text": "agentes. Acá vemos el agente que está",
+    "duration": 5601,
+    "offset": 146879,
+    "lang": "es"
+  },
+  {
+    "text": "respondiendo, al cual le ha ido, que",
+    "duration": 6640,
+    "offset": 149800,
+    "lang": "es"
+  },
+  {
+    "text": "este es el agente que se halla en el",
+    "duration": 6800,
+    "offset": 152480,
+    "lang": "es"
+  },
+  {
+    "text": "puerto 100001, que es el agente de Crue",
+    "duration": 6040,
+    "offset": 156440,
+    "lang": "es"
+  },
+  {
+    "text": "II, que es el que es capaz de generar",
+    "duration": 5720,
+    "offset": 159280,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes. Y ahí bien me generó una",
+    "duration": 5960,
+    "offset": 162480,
+    "lang": "es"
+  },
+  {
+    "text": "imagen y le digo, puede",
+    "duration": 3440,
+    "offset": 165000,
+    "lang": "es"
+  },
+  {
+    "text": "ser un",
+    "duration": 7730,
+    "offset": 170000,
+    "lang": "es"
+  },
+  {
+    "text": "gato andando en",
+    "duration": 7981,
+    "offset": 172879,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3130,
+    "offset": 177730,
+    "lang": "es"
+  },
+  {
+    "text": "bicicleta. Ahí le decimos si lo que",
+    "duration": 5121,
+    "offset": 183159,
+    "lang": "es"
+  },
+  {
+    "text": "puede generar es un gato andando en",
+    "duration": 6120,
+    "offset": 185440,
+    "lang": "es"
+  },
+  {
+    "text": "bicicleta y",
+    "duration": 7440,
+    "offset": 188280,
+    "lang": "es"
+  },
+  {
+    "text": "ahí nos fijamos va, se empiezan a",
+    "duration": 7200,
+    "offset": 191560,
+    "lang": "es"
+  },
+  {
+    "text": "comunicar los agentes y el que tiene el",
+    "duration": 5239,
+    "offset": 195720,
+    "lang": "es"
+  },
+  {
+    "text": "puerto 100001 es el que va a contestar.",
+    "duration": 4039,
+    "offset": 198760,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, acá está el gato andando en",
+    "duration": 6360,
+    "offset": 200959,
+    "lang": "es"
+  },
+  {
+    "text": "bicicleta. Ahora le digo, por ejemplo,",
+    "duration": 4520,
+    "offset": 202799,
+    "lang": "es"
+  },
+  {
+    "text": "tengo",
+    "duration": 7280,
+    "offset": 208200,
+    "lang": "es"
+  },
+  {
+    "text": "una duda de física.",
+    "duration": 4881,
+    "offset": 210599,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí le dije que tengo una duda de física",
+    "duration": 7280,
+    "offset": 219720,
+    "lang": "es"
+  },
+  {
+    "text": "y ahora va a empezar a trabajar, van a",
+    "duration": 7600,
+    "offset": 222120,
+    "lang": "es"
+  },
+  {
+    "text": "empezar los",
+    "duration": 5920,
+    "offset": 227000,
+    "lang": "es"
+  },
+  {
+    "text": "agentes que este que es el agente",
+    "duration": 5799,
+    "offset": 229720,
+    "lang": "es"
+  },
+  {
+    "text": "100003, el que está en el puerto 100003",
+    "duration": 4640,
+    "offset": 232920,
+    "lang": "es"
+  },
+  {
+    "text": "que es el que puede responder física. Y",
+    "duration": 4401,
+    "offset": 235519,
+    "lang": "es"
+  },
+  {
+    "text": "acá me dice que me puede responder de",
+    "duration": 4879,
+    "offset": 237560,
+    "lang": "es"
+  },
+  {
+    "text": "óptica física, de dinámica, cinemática y",
+    "duration": 5480,
+    "offset": 239920,
+    "lang": "es"
+  },
+  {
+    "text": "dinámica del cuerpo rígido. Y le digo,",
+    "duration": 5360,
+    "offset": 242439,
+    "lang": "es"
+  },
+  {
+    "text": "\"¿Me",
+    "duration": 2399,
+    "offset": 245400,
+    "lang": "es"
+  },
+  {
+    "text": "explicas el",
+    "duration": 4081,
+    "offset": 251799,
+    "lang": "es"
+  },
+  {
+    "text": "teorema",
+    "duration": 5520,
+    "offset": 254360,
+    "lang": "es"
+  },
+  {
+    "text": "de Steiner?",
+    "duration": 4000,
+    "offset": 255880,
+    "lang": "es"
+  },
+  {
+    "text": "Se está poniendo lenta la máquina",
+    "duration": 4680,
+    "offset": 264280,
+    "lang": "es"
+  },
+  {
+    "text": "porque, bueno, está",
+    "duration": 6201,
+    "offset": 265919,
+    "lang": "es"
+  },
+  {
+    "text": "sobreexigida. Bien. Y acá me pasa el",
+    "duration": 5920,
+    "offset": 268960,
+    "lang": "es"
+  },
+  {
+    "text": "teorema de Steiner. Fíjense con fórmulas",
+    "duration": 5639,
+    "offset": 272120,
+    "lang": "es"
+  },
+  {
+    "text": "y demás. Es correcto. Ese es el teorema",
+    "duration": 5759,
+    "offset": 274880,
+    "lang": "es"
+  },
+  {
+    "text": "de Steiner. Bien. Así estos agentes no",
+    "duration": 4641,
+    "offset": 277759,
+    "lang": "es"
+  },
+  {
+    "text": "necesariamente tienen que estar en la",
+    "duration": 4120,
+    "offset": 280639,
+    "lang": "es"
+  },
+  {
+    "text": "misma máquina. Puedo tener un",
+    "duration": 3920,
+    "offset": 282400,
+    "lang": "es"
+  },
+  {
+    "text": "orquestador, que es una máquina muy",
+    "duration": 4280,
+    "offset": 284759,
+    "lang": "es"
+  },
+  {
+    "text": "sencilla y simple, y distintos agentes",
+    "duration": 5240,
+    "offset": 286320,
+    "lang": "es"
+  },
+  {
+    "text": "distribuidas en distintos lugares que",
+    "duration": 5921,
+    "offset": 289039,
+    "lang": "es"
+  },
+  {
+    "text": "colaboran en una red que sirve para",
+    "duration": 8440,
+    "offset": 291560,
+    "lang": "es"
+  },
+  {
+    "text": "formar estos tutores virtuales. Yes.",
+    "duration": 5040,
+    "offset": 294960,
+    "lang": "es"
+  }
+]

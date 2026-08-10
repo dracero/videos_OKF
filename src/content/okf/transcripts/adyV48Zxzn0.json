@@ -1,0 +1,3476 @@
+[
+  {
+    "text": "Bueno vamos a hablar de redes neuronales",
+    "duration": 7141,
+    "offset": 2399,
+    "lang": "es"
+  },
+  {
+    "text": "y vamos a empezar con una historia que",
+    "duration": 6400,
+    "offset": 6560,
+    "lang": "es"
+  },
+  {
+    "text": "comienza en el año 2017 si bien las",
+    "duration": 6659,
+    "offset": 9540,
+    "lang": "es"
+  },
+  {
+    "text": "redes neuronales existen desde mucho",
+    "duration": 6260,
+    "offset": 12960,
+    "lang": "es"
+  },
+  {
+    "text": "antes de esa fecha nosotros",
+    "duration": 6301,
+    "offset": 16199,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a hablar qué es lo que pasa a",
+    "duration": 6100,
+    "offset": 19220,
+    "lang": "es"
+  },
+  {
+    "text": "partir del año 2017 y por qué nuestra",
+    "duration": 4500,
+    "offset": 22500,
+    "lang": "es"
+  },
+  {
+    "text": "historia llega hasta el 30 de noviembre",
+    "duration": 4080,
+    "offset": 25320,
+    "lang": "es"
+  },
+  {
+    "text": "del 2022",
+    "duration": 5040,
+    "offset": 27000,
+    "lang": "es"
+  },
+  {
+    "text": "Qué son las redes neuronales las redes",
+    "duration": 5400,
+    "offset": 29400,
+    "lang": "es"
+  },
+  {
+    "text": "neuronales son modelos matemáticos que",
+    "duration": 5699,
+    "offset": 32040,
+    "lang": "es"
+  },
+  {
+    "text": "se utilizan para realizar distintos",
+    "duration": 5880,
+    "offset": 34800,
+    "lang": "es"
+  },
+  {
+    "text": "tipos de tareas y se llaman redes",
+    "duration": 5881,
+    "offset": 37739,
+    "lang": "es"
+  },
+  {
+    "text": "neuronales porque tienen un",
+    "duration": 5940,
+    "offset": 40680,
+    "lang": "es"
+  },
+  {
+    "text": "funcionamiento que es muy similar muy",
+    "duration": 5340,
+    "offset": 43620,
+    "lang": "es"
+  },
+  {
+    "text": "parecido",
+    "duration": 5220,
+    "offset": 46620,
+    "lang": "es"
+  },
+  {
+    "text": "a la forma en la cual se conectan las",
+    "duration": 4800,
+    "offset": 48960,
+    "lang": "es"
+  },
+  {
+    "text": "neuronas y las dendritas en el cerebro",
+    "duration": 4340,
+    "offset": 51840,
+    "lang": "es"
+  },
+  {
+    "text": "humano",
+    "duration": 2420,
+    "offset": 53760,
+    "lang": "es"
+  },
+  {
+    "text": "para qué sirven las redes neuronales",
+    "duration": 3960,
+    "offset": 56520,
+    "lang": "es"
+  },
+  {
+    "text": "buenos hoy las redes neuronales se",
+    "duration": 4860,
+    "offset": 58379,
+    "lang": "es"
+  },
+  {
+    "text": "utilizan principalmente para todos los",
+    "duration": 4259,
+    "offset": 60480,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene que ver con sistemas de",
+    "duration": 4560,
+    "offset": 63239,
+    "lang": "es"
+  },
+  {
+    "text": "Inteligencia artificial",
+    "duration": 5101,
+    "offset": 64739,
+    "lang": "es"
+  },
+  {
+    "text": "porque nuestra historia comienza en el",
+    "duration": 5581,
+    "offset": 67799,
+    "lang": "es"
+  },
+  {
+    "text": "año 2017 en ese año es cuando los",
+    "duration": 6740,
+    "offset": 69840,
+    "lang": "es"
+  },
+  {
+    "text": "investigadores de Google",
+    "duration": 6779,
+    "offset": 73380,
+    "lang": "es"
+  },
+  {
+    "text": "publican un paper llamado atención y Sol",
+    "duration": 5380,
+    "offset": 76580,
+    "lang": "es"
+  },
+  {
+    "text": "y United",
+    "duration": 5280,
+    "offset": 80159,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que pasaba en ese paper en ese",
+    "duration": 5240,
+    "offset": 81960,
+    "lang": "es"
+  },
+  {
+    "text": "paper",
+    "duration": 4741,
+    "offset": 85439,
+    "lang": "es"
+  },
+  {
+    "text": "se ponía de manifiesto la existencia de",
+    "duration": 6040,
+    "offset": 87200,
+    "lang": "es"
+  },
+  {
+    "text": "un nuevo tipo de red neuronal que es la",
+    "duration": 6840,
+    "offset": 90180,
+    "lang": "es"
+  },
+  {
+    "text": "red neuronal Transformer",
+    "duration": 3780,
+    "offset": 93240,
+    "lang": "es"
+  },
+  {
+    "text": "Hasta ahora se estaban utilizando redes",
+    "duration": 5320,
+    "offset": 97759,
+    "lang": "es"
+  },
+  {
+    "text": "neuronales de distinto tipo pero no",
+    "duration": 4521,
+    "offset": 100979,
+    "lang": "es"
+  },
+  {
+    "text": "existía nada como las redes neuronales",
+    "duration": 5220,
+    "offset": 103079,
+    "lang": "es"
+  },
+  {
+    "text": "Transformers para qué se empezaron a",
+    "duration": 4420,
+    "offset": 105500,
+    "lang": "es"
+  },
+  {
+    "text": "utilizar o qué fue lo primero que se",
+    "duration": 3301,
+    "offset": 108299,
+    "lang": "es"
+  },
+  {
+    "text": "hizo con este tipo de redes neuronales",
+    "duration": 4860,
+    "offset": 109920,
+    "lang": "es"
+  },
+  {
+    "text": "se hicieron las conversiones de",
+    "duration": 6059,
+    "offset": 111600,
+    "lang": "es"
+  },
+  {
+    "text": "secuencias secuencia se usaban",
+    "duration": 5280,
+    "offset": 114780,
+    "lang": "es"
+  },
+  {
+    "text": "principalmente para traducir yo lo que",
+    "duration": 6661,
+    "offset": 117659,
+    "lang": "es"
+  },
+  {
+    "text": "hacía era ingresaba una un texto ese",
+    "duration": 6960,
+    "offset": 120060,
+    "lang": "es"
+  },
+  {
+    "text": "texto se convertía para que pueda ser",
+    "duration": 6260,
+    "offset": 124320,
+    "lang": "es"
+  },
+  {
+    "text": "utilizado por la red neuronal y después",
+    "duration": 6480,
+    "offset": 127020,
+    "lang": "es"
+  },
+  {
+    "text": "se lo reconvertía en otro texto pero en",
+    "duration": 5700,
+    "offset": 130580,
+    "lang": "es"
+  },
+  {
+    "text": "un idioma extranjero",
+    "duration": 2780,
+    "offset": 133500,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 4699,
+    "offset": 138040,
+    "lang": "es"
+  },
+  {
+    "text": "la red",
+    "duration": 6379,
+    "offset": 140220,
+    "lang": "es"
+  },
+  {
+    "text": "la red neuronal o sea lo que hacía era",
+    "duration": 7681,
+    "offset": 142739,
+    "lang": "es"
+  },
+  {
+    "text": "transformaba la secuencia que estaba en",
+    "duration": 5381,
+    "offset": 146599,
+    "lang": "es"
+  },
+  {
+    "text": "un idioma en otra secuencia ahora bien",
+    "duration": 4500,
+    "offset": 150420,
+    "lang": "es"
+  },
+  {
+    "text": "acuérdense que habíamos dicho que una",
+    "duration": 4800,
+    "offset": 151980,
+    "lang": "es"
+  },
+  {
+    "text": "red neuronal es un modelo matemático",
+    "duration": 5100,
+    "offset": 154920,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces el modelo matemático lo único",
+    "duration": 6720,
+    "offset": 156780,
+    "lang": "es"
+  },
+  {
+    "text": "que puede procesar son números no puede",
+    "duration": 7040,
+    "offset": 160020,
+    "lang": "es"
+  },
+  {
+    "text": "procesar otra cosa que no sean números",
+    "duration": 5959,
+    "offset": 163500,
+    "lang": "es"
+  },
+  {
+    "text": "como una función algo que solamente",
+    "duration": 5740,
+    "offset": 167060,
+    "lang": "es"
+  },
+  {
+    "text": "puede trabajar con números Entonces",
+    "duration": 6701,
+    "offset": 169459,
+    "lang": "es"
+  },
+  {
+    "text": "hasta el año 2017 había un montón de",
+    "duration": 6120,
+    "offset": 172800,
+    "lang": "es"
+  },
+  {
+    "text": "redes neuronales que hacían distintas",
+    "duration": 6299,
+    "offset": 176160,
+    "lang": "es"
+  },
+  {
+    "text": "tareas por ejemplo las lstm y las grúas",
+    "duration": 6420,
+    "offset": 178920,
+    "lang": "es"
+  },
+  {
+    "text": "se usaban para trabajar con lenguaje las",
+    "duration": 4981,
+    "offset": 182459,
+    "lang": "es"
+  },
+  {
+    "text": "redes Gan se usaban para generar",
+    "duration": 5220,
+    "offset": 185340,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes todas esas redes poco a poco",
+    "duration": 5659,
+    "offset": 187440,
+    "lang": "es"
+  },
+  {
+    "text": "han sido reemplazadas por",
+    "duration": 6140,
+    "offset": 190560,
+    "lang": "es"
+  },
+  {
+    "text": "las este redes Transformers poco a poco",
+    "duration": 6701,
+    "offset": 193099,
+    "lang": "es"
+  },
+  {
+    "text": "este Y qué pasó con las redes",
+    "duration": 5380,
+    "offset": 196700,
+    "lang": "es"
+  },
+  {
+    "text": "Transformers como en realidad la red",
+    "duration": 5400,
+    "offset": 199800,
+    "lang": "es"
+  },
+  {
+    "text": "Transformers sola la red neuronal",
+    "duration": 5579,
+    "offset": 202080,
+    "lang": "es"
+  },
+  {
+    "text": "solamente puede trabajar con números",
+    "duration": 4800,
+    "offset": 205200,
+    "lang": "es"
+  },
+  {
+    "text": "bueno rápidamente se dieron cuenta que",
+    "duration": 4381,
+    "offset": 207659,
+    "lang": "es"
+  },
+  {
+    "text": "no era algo que solamente servía para",
+    "duration": 5300,
+    "offset": 210000,
+    "lang": "es"
+  },
+  {
+    "text": "problemas del tipo secuencia secuencia",
+    "duration": 6479,
+    "offset": 212040,
+    "lang": "es"
+  },
+  {
+    "text": "era algo que también era Útil para",
+    "duration": 6340,
+    "offset": 215300,
+    "lang": "es"
+  },
+  {
+    "text": "resolver problemas con imágenes para",
+    "duration": 7021,
+    "offset": 218519,
+    "lang": "es"
+  },
+  {
+    "text": "resolver este problemas con sonido",
+    "duration": 6200,
+    "offset": 221640,
+    "lang": "es"
+  },
+  {
+    "text": "porque en",
+    "duration": 5339,
+    "offset": 225540,
+    "lang": "es"
+  },
+  {
+    "text": "las imágenes el sonido cuando se ponen",
+    "duration": 5020,
+    "offset": 227840,
+    "lang": "es"
+  },
+  {
+    "text": "dentro del mundo digital o sea del mundo",
+    "duration": 3961,
+    "offset": 230879,
+    "lang": "es"
+  },
+  {
+    "text": "de una computadora al igual que las",
+    "duration": 4500,
+    "offset": 232860,
+    "lang": "es"
+  },
+  {
+    "text": "palabras tienen que transformarse en",
+    "duration": 8399,
+    "offset": 234840,
+    "lang": "es"
+  },
+  {
+    "text": "números entonces las empezaron a este a",
+    "duration": 8280,
+    "offset": 237360,
+    "lang": "es"
+  },
+  {
+    "text": "crearse sistemas utilizando este tipo de",
+    "duration": 5821,
+    "offset": 243239,
+    "lang": "es"
+  },
+  {
+    "text": "redes neuronales y los más novedosos o",
+    "duration": 5000,
+    "offset": 245640,
+    "lang": "es"
+  },
+  {
+    "text": "el tema de Por qué nuestra historia",
+    "duration": 4560,
+    "offset": 249060,
+    "lang": "es"
+  },
+  {
+    "text": "termina o mejor dicho porque en esta",
+    "duration": 4599,
+    "offset": 250640,
+    "lang": "es"
+  },
+  {
+    "text": "historia se reinicia el 30 de noviembre",
+    "duration": 5940,
+    "offset": 253620,
+    "lang": "es"
+  },
+  {
+    "text": "del año 2022 es porque en esa fecha una",
+    "duration": 7981,
+    "offset": 255239,
+    "lang": "es"
+  },
+  {
+    "text": "empresa llamada openiye hace público un",
+    "duration": 6240,
+    "offset": 259560,
+    "lang": "es"
+  },
+  {
+    "text": "modelo de chatbot basado en redes",
+    "duration": 6419,
+    "offset": 263220,
+    "lang": "es"
+  },
+  {
+    "text": "Transformers conocido como chat gpt Qué",
+    "duration": 7560,
+    "offset": 265800,
+    "lang": "es"
+  },
+  {
+    "text": "significa Qué es la t la t en gpt es la",
+    "duration": 5941,
+    "offset": 269639,
+    "lang": "es"
+  },
+  {
+    "text": "t de Transformers es un modelo",
+    "duration": 6080,
+    "offset": 273360,
+    "lang": "es"
+  },
+  {
+    "text": "generativo de hecho las iniciales gpt es",
+    "duration": 7440,
+    "offset": 275580,
+    "lang": "es"
+  },
+  {
+    "text": "generative Transformers Transformers",
+    "duration": 6520,
+    "offset": 279440,
+    "lang": "es"
+  },
+  {
+    "text": "generativo pre entrenado o sea es un",
+    "duration": 3660,
+    "offset": 283020,
+    "lang": "es"
+  },
+  {
+    "text": "modelo",
+    "duration": 4080,
+    "offset": 285960,
+    "lang": "es"
+  },
+  {
+    "text": "que lo que puede hacer es generar cosas",
+    "duration": 5820,
+    "offset": 286680,
+    "lang": "es"
+  },
+  {
+    "text": "ya no es más una simple traducción de",
+    "duration": 4620,
+    "offset": 290040,
+    "lang": "es"
+  },
+  {
+    "text": "secuencias secuencia sino que ahora",
+    "duration": 4020,
+    "offset": 292500,
+    "lang": "es"
+  },
+  {
+    "text": "utiliza la arquitectura de redes",
+    "duration": 4860,
+    "offset": 294660,
+    "lang": "es"
+  },
+  {
+    "text": "Transformer para generar cosas",
+    "duration": 5100,
+    "offset": 296520,
+    "lang": "es"
+  },
+  {
+    "text": "si uno Busca la arquitectura de redes",
+    "duration": 3840,
+    "offset": 299520,
+    "lang": "es"
+  },
+  {
+    "text": "transforma en el internet va a ver este",
+    "duration": 4680,
+    "offset": 301620,
+    "lang": "es"
+  },
+  {
+    "text": "dibujito Qué significa este dibujito",
+    "duration": 5220,
+    "offset": 303360,
+    "lang": "es"
+  },
+  {
+    "text": "este dibujito nos dice que la red",
+    "duration": 3899,
+    "offset": 306300,
+    "lang": "es"
+  },
+  {
+    "text": "Transformer tiene una arquitectura que",
+    "duration": 4200,
+    "offset": 308580,
+    "lang": "es"
+  },
+  {
+    "text": "está dividida en dos partes la parte que",
+    "duration": 6301,
+    "offset": 310199,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros vemos del encoder lo que hace",
+    "duration": 4880,
+    "offset": 312780,
+    "lang": "es"
+  },
+  {
+    "text": "es",
+    "duration": 3780,
+    "offset": 316500,
+    "lang": "es"
+  },
+  {
+    "text": "transforma el elemento que se va a",
+    "duration": 5440,
+    "offset": 317660,
+    "lang": "es"
+  },
+  {
+    "text": "tratar en la red del números",
+    "duration": 5820,
+    "offset": 320280,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo en el caso del traductor lo",
+    "duration": 7379,
+    "offset": 323100,
+    "lang": "es"
+  },
+  {
+    "text": "que hacía era transformaba",
+    "duration": 4379,
+    "offset": 326100,
+    "lang": "es"
+  },
+  {
+    "text": "la palabra que yo ponía en un idioma por",
+    "duration": 5101,
+    "offset": 331139,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo el idioma inglés la transformaba",
+    "duration": 3660,
+    "offset": 334259,
+    "lang": "es"
+  },
+  {
+    "text": "números",
+    "duration": 5360,
+    "offset": 336240,
+    "lang": "es"
+  },
+  {
+    "text": "la salida de ese",
+    "duration": 7081,
+    "offset": 337919,
+    "lang": "es"
+  },
+  {
+    "text": "encoder no es exactamente así pero vamos",
+    "duration": 6879,
+    "offset": 341600,
+    "lang": "es"
+  },
+  {
+    "text": "a simplificarlo la salida de ese encoder",
+    "duration": 6240,
+    "offset": 345000,
+    "lang": "es"
+  },
+  {
+    "text": "se conecta a un decoder o sea un",
+    "duration": 4621,
+    "offset": 348479,
+    "lang": "es"
+  },
+  {
+    "text": "decodificador que hace el decodificador",
+    "duration": 3840,
+    "offset": 351240,
+    "lang": "es"
+  },
+  {
+    "text": "transforma los números en palabras pero",
+    "duration": 5340,
+    "offset": 353100,
+    "lang": "es"
+  },
+  {
+    "text": "ahora esas palabras no las transforma en",
+    "duration": 4860,
+    "offset": 355080,
+    "lang": "es"
+  },
+  {
+    "text": "el idioma original sino que las",
+    "duration": 3120,
+    "offset": 358440,
+    "lang": "es"
+  },
+  {
+    "text": "transforma en un idioma nuevo o sea",
+    "duration": 3960,
+    "offset": 359940,
+    "lang": "es"
+  },
+  {
+    "text": "tomaba las palabras en idioma inglés Por",
+    "duration": 4560,
+    "offset": 361560,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo y las transformadas por ejemplo",
+    "duration": 5340,
+    "offset": 363900,
+    "lang": "es"
+  },
+  {
+    "text": "el idioma francés pero primero las",
+    "duration": 5220,
+    "offset": 366120,
+    "lang": "es"
+  },
+  {
+    "text": "convertía números las pasaba números y",
+    "duration": 5780,
+    "offset": 369240,
+    "lang": "es"
+  },
+  {
+    "text": "después las volví a convertir a palabras",
+    "duration": 3680,
+    "offset": 371340,
+    "lang": "es"
+  },
+  {
+    "text": "Qué es lo importante de esto que el",
+    "duration": 5380,
+    "offset": 375259,
+    "lang": "es"
+  },
+  {
+    "text": "contexto la idea principal de la frase",
+    "duration": 5241,
+    "offset": 377759,
+    "lang": "es"
+  },
+  {
+    "text": "que yo estaba expresando",
+    "duration": 5161,
+    "offset": 380639,
+    "lang": "es"
+  },
+  {
+    "text": "quedaba perfectamente reflejada en el en",
+    "duration": 5139,
+    "offset": 383000,
+    "lang": "es"
+  },
+  {
+    "text": "el idioma extranjero no era una",
+    "duration": 4800,
+    "offset": 385800,
+    "lang": "es"
+  },
+  {
+    "text": "traducción literal palabra palabra lo",
+    "duration": 4441,
+    "offset": 388139,
+    "lang": "es"
+  },
+  {
+    "text": "cual Bueno es potencialmente un desastre",
+    "duration": 5900,
+    "offset": 390600,
+    "lang": "es"
+  },
+  {
+    "text": "sino que era una traducción hecha",
+    "duration": 6660,
+    "offset": 392580,
+    "lang": "es"
+  },
+  {
+    "text": "a través de comprender el contexto",
+    "duration": 4660,
+    "offset": 396500,
+    "lang": "es"
+  },
+  {
+    "text": "comprender la idea de lo que se estaba",
+    "duration": 3899,
+    "offset": 399240,
+    "lang": "es"
+  },
+  {
+    "text": "diciendo de hecho hoy las redes",
+    "duration": 4620,
+    "offset": 401160,
+    "lang": "es"
+  },
+  {
+    "text": "Transformers tienen una gran aplicación",
+    "duration": 4280,
+    "offset": 403139,
+    "lang": "es"
+  },
+  {
+    "text": "para lo que es",
+    "duration": 5280,
+    "offset": 405780,
+    "lang": "es"
+  },
+  {
+    "text": "análisis Porque pueden comprender sin",
+    "duration": 5500,
+    "offset": 407419,
+    "lang": "es"
+  },
+  {
+    "text": "ningún problema los distintos modismos",
+    "duration": 5579,
+    "offset": 411060,
+    "lang": "es"
+  },
+  {
+    "text": "del lenguaje de los distintos idiomas no",
+    "duration": 5521,
+    "offset": 412919,
+    "lang": "es"
+  },
+  {
+    "text": "es lo mismo hablar español mexicano que",
+    "duration": 3361,
+    "offset": 416639,
+    "lang": "es"
+  },
+  {
+    "text": "hablar español colombiano que hablar",
+    "duration": 3960,
+    "offset": 418440,
+    "lang": "es"
+  },
+  {
+    "text": "español argentino bien las redes",
+    "duration": 5220,
+    "offset": 420000,
+    "lang": "es"
+  },
+  {
+    "text": "Transformers pueden comprender todas",
+    "duration": 4200,
+    "offset": 422400,
+    "lang": "es"
+  },
+  {
+    "text": "esas tipas de variaciones todos esos",
+    "duration": 2400,
+    "offset": 425220,
+    "lang": "es"
+  },
+  {
+    "text": "tipos de variaciones del lenguaje",
+    "duration": 4020,
+    "offset": 426600,
+    "lang": "es"
+  },
+  {
+    "text": "gracias a sus transformaciones de",
+    "duration": 5340,
+    "offset": 427620,
+    "lang": "es"
+  },
+  {
+    "text": "encoder y decoder",
+    "duration": 4820,
+    "offset": 430620,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 2480,
+    "offset": 432960,
+    "lang": "es"
+  },
+  {
+    "text": "es una empresa de tecnología que",
+    "duration": 9900,
+    "offset": 435620,
+    "lang": "es"
+  },
+  {
+    "text": "comenzó haciendo desarrollos para",
+    "duration": 7179,
+    "offset": 441020,
+    "lang": "es"
+  },
+  {
+    "text": "para aplicaciones de lenguaje natural",
+    "duration": 6519,
+    "offset": 445520,
+    "lang": "es"
+  },
+  {
+    "text": "bien pero que tiene pero después bueno",
+    "duration": 5821,
+    "offset": 448199,
+    "lang": "es"
+  },
+  {
+    "text": "se amplió en un montón de cosas ya vamos",
+    "duration": 4041,
+    "offset": 452039,
+    "lang": "es"
+  },
+  {
+    "text": "a ver",
+    "duration": 5399,
+    "offset": 454020,
+    "lang": "es"
+  },
+  {
+    "text": "es este conocida porque tiene una",
+    "duration": 5619,
+    "offset": 456080,
+    "lang": "es"
+  },
+  {
+    "text": "plataforma de código abierto de redes",
+    "duration": 4021,
+    "offset": 459419,
+    "lang": "es"
+  },
+  {
+    "text": "Transformers que es ampliamente",
+    "duration": 3741,
+    "offset": 461699,
+    "lang": "es"
+  },
+  {
+    "text": "utilizada por la comunidad de",
+    "duration": 6420,
+    "offset": 463440,
+    "lang": "es"
+  },
+  {
+    "text": "desarrolladores e investigadores",
+    "duration": 7259,
+    "offset": 465440,
+    "lang": "es"
+  },
+  {
+    "text": "a través de",
+    "duration": 6959,
+    "offset": 469860,
+    "lang": "es"
+  },
+  {
+    "text": "hacking Face se pueden utilizar un",
+    "duration": 6641,
+    "offset": 472699,
+    "lang": "es"
+  },
+  {
+    "text": "montón de modelos de redes neuronales",
+    "duration": 4621,
+    "offset": 476819,
+    "lang": "es"
+  },
+  {
+    "text": "hugging Face es un Hub o sea un",
+    "duration": 4320,
+    "offset": 479340,
+    "lang": "es"
+  },
+  {
+    "text": "concentrador que lo que haces tiene",
+    "duration": 4979,
+    "offset": 481440,
+    "lang": "es"
+  },
+  {
+    "text": "modelos de redes neuronales y es a donde",
+    "duration": 4560,
+    "offset": 483660,
+    "lang": "es"
+  },
+  {
+    "text": "ponen para probar sus modelos red",
+    "duration": 4201,
+    "offset": 486419,
+    "lang": "es"
+  },
+  {
+    "text": "neuronales las empresas más importantes",
+    "duration": 5099,
+    "offset": 488220,
+    "lang": "es"
+  },
+  {
+    "text": "que están en el mercado realizando",
+    "duration": 4260,
+    "offset": 490620,
+    "lang": "es"
+  },
+  {
+    "text": "investigaciones por ejemplo Facebook",
+    "duration": 3380,
+    "offset": 493319,
+    "lang": "es"
+  },
+  {
+    "text": "Google",
+    "duration": 5400,
+    "offset": 494880,
+    "lang": "es"
+  },
+  {
+    "text": "opening Mind and tropic todas esas",
+    "duration": 5861,
+    "offset": 496699,
+    "lang": "es"
+  },
+  {
+    "text": "empresas tienen modelos que te dan en",
+    "duration": 4740,
+    "offset": 500280,
+    "lang": "es"
+  },
+  {
+    "text": "forma gratuita en hacking Face para que",
+    "duration": 4380,
+    "offset": 502560,
+    "lang": "es"
+  },
+  {
+    "text": "vos los pruebes y puedas hacer tus",
+    "duration": 4140,
+    "offset": 505020,
+    "lang": "es"
+  },
+  {
+    "text": "propios desarrollos",
+    "duration": 4680,
+    "offset": 506940,
+    "lang": "es"
+  },
+  {
+    "text": "gpt 3 no te lo dan gratis no bien",
+    "duration": 4889,
+    "offset": 509160,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 6079,
+    "offset": 511620,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3650,
+    "offset": 514049,
+    "lang": "es"
+  },
+  {
+    "text": "cada uno de estos modelos se pueden",
+    "duration": 6660,
+    "offset": 520440,
+    "lang": "es"
+  },
+  {
+    "text": "utilizar en forma gratuita a través de",
+    "duration": 6060,
+    "offset": 523140,
+    "lang": "es"
+  },
+  {
+    "text": "interfaces que ellos mismos brindan",
+    "duration": 4700,
+    "offset": 527100,
+    "lang": "es"
+  },
+  {
+    "text": "llamadas",
+    "duration": 2600,
+    "offset": 529200,
+    "lang": "es"
+  },
+  {
+    "text": "bien Vamos a ver algunos ejemplos de los",
+    "duration": 5340,
+    "offset": 532860,
+    "lang": "es"
+  },
+  {
+    "text": "modelos que podemos encontrar en hacking",
+    "duration": 5340,
+    "offset": 535800,
+    "lang": "es"
+  },
+  {
+    "text": "Face vamos a ver algunos ejemplos de",
+    "duration": 5040,
+    "offset": 538200,
+    "lang": "es"
+  },
+  {
+    "text": "modelos justamente como vamos a hablar",
+    "duration": 4860,
+    "offset": 541140,
+    "lang": "es"
+  },
+  {
+    "text": "de estamos hablando de procesamiento de",
+    "duration": 5460,
+    "offset": 543240,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes para sacar un poco la idea de",
+    "duration": 4740,
+    "offset": 546000,
+    "lang": "es"
+  },
+  {
+    "text": "que hacking Face o este hack o que las",
+    "duration": 4020,
+    "offset": 548700,
+    "lang": "es"
+  },
+  {
+    "text": "redes transformes siguen solo sirven",
+    "duration": 3480,
+    "offset": 550740,
+    "lang": "es"
+  },
+  {
+    "text": "solo para procesamiento de lenguaje",
+    "duration": 5660,
+    "offset": 552720,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver algunos ejemplos",
+    "duration": 4160,
+    "offset": 554220,
+    "lang": "es"
+  },
+  {
+    "text": "de modelos que están en hacking Face por",
+    "duration": 7280,
+    "offset": 558540,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo este que tenemos acá",
+    "duration": 4520,
+    "offset": 561300,
+    "lang": "es"
+  },
+  {
+    "text": "bien Este modelo que tenemos acá es un",
+    "duration": 11279,
+    "offset": 583560,
+    "lang": "es"
+  },
+  {
+    "text": "modelo de Avatar lo que hace es poder",
+    "duration": 6719,
+    "offset": 588120,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a poner que mueva las dos manos",
+    "duration": 4160,
+    "offset": 596100,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a poner acá que sea un poco",
+    "duration": 8080,
+    "offset": 600980,
+    "lang": "es"
+  },
+  {
+    "text": "bajo acá le vamos a poner que el idioma",
+    "duration": 4260,
+    "offset": 606600,
+    "lang": "es"
+  },
+  {
+    "text": "es inglés y cualquier cosa que nosotros",
+    "duration": 6260,
+    "offset": 609060,
+    "lang": "es"
+  },
+  {
+    "text": "le pongamos lo puede",
+    "duration": 7500,
+    "offset": 610860,
+    "lang": "es"
+  },
+  {
+    "text": "hablar como si lo estuviese diciendo",
+    "duration": 7740,
+    "offset": 615320,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a pegar acá una frase",
+    "duration": 4700,
+    "offset": 618360,
+    "lang": "es"
+  },
+  {
+    "text": "esa frase la pegamos acá y lo vamos a",
+    "duration": 6299,
+    "offset": 624480,
+    "lang": "es"
+  },
+  {
+    "text": "ejecutar ahí se está ejecutando el",
+    "duration": 5461,
+    "offset": 627959,
+    "lang": "es"
+  },
+  {
+    "text": "modelo tarda un rato porque Bueno no es",
+    "duration": 6661,
+    "offset": 630779,
+    "lang": "es"
+  },
+  {
+    "text": "algo sumamente rápido",
+    "duration": 7260,
+    "offset": 633420,
+    "lang": "es"
+  },
+  {
+    "text": "pero vamos a ver este Este es un modelo",
+    "duration": 6200,
+    "offset": 637440,
+    "lang": "es"
+  },
+  {
+    "text": "que utiliza redes neuronales",
+    "duration": 7500,
+    "offset": 640680,
+    "lang": "es"
+  },
+  {
+    "text": "Transformers para fíjense que se ve",
+    "duration": 7259,
+    "offset": 643640,
+    "lang": "es"
+  },
+  {
+    "text": "bastante real",
+    "duration": 2719,
+    "offset": 648180,
+    "lang": "es"
+  },
+  {
+    "text": "bueno como ven se ve como mueve la boca",
+    "duration": 5320,
+    "offset": 658579,
+    "lang": "es"
+  },
+  {
+    "text": "en función de lo que nosotros le pusimos",
+    "duration": 3381,
+    "offset": 662279,
+    "lang": "es"
+  },
+  {
+    "text": "realmente Bueno",
+    "duration": 4861,
+    "offset": 663899,
+    "lang": "es"
+  },
+  {
+    "text": "Este no es este a lo mejor el mejor",
+    "duration": 4900,
+    "offset": 665660,
+    "lang": "es"
+  },
+  {
+    "text": "Avatar que uno puede imaginar pero",
+    "duration": 4139,
+    "offset": 668760,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que se le ve bastante real y",
+    "duration": 5279,
+    "offset": 670560,
+    "lang": "es"
+  },
+  {
+    "text": "este como mueve la boca también se lo ve",
+    "duration": 6120,
+    "offset": 672899,
+    "lang": "es"
+  },
+  {
+    "text": "bastante real los mejores avatares están",
+    "duration": 5281,
+    "offset": 675839,
+    "lang": "es"
+  },
+  {
+    "text": "en forma paga en una empresa que se",
+    "duration": 3621,
+    "offset": 679019,
+    "lang": "es"
+  },
+  {
+    "text": "llama sintesia",
+    "duration": 3140,
+    "offset": 681120,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 4480,
+    "offset": 682640,
+    "lang": "es"
+  },
+  {
+    "text": "esos este realmente usan estos modelos",
+    "duration": 6160,
+    "offset": 684260,
+    "lang": "es"
+  },
+  {
+    "text": "de redes Transformers pero con un",
+    "duration": 6600,
+    "offset": 687120,
+    "lang": "es"
+  },
+  {
+    "text": "Hardware que es mucho más poderoso y el",
+    "duration": 5640,
+    "offset": 690420,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento que tiene el Avatar es",
+    "duration": 3600,
+    "offset": 693720,
+    "lang": "es"
+  },
+  {
+    "text": "prácticamente igual que tiene una",
+    "duration": 2719,
+    "offset": 696060,
+    "lang": "es"
+  },
+  {
+    "text": "persona con lo cual",
+    "duration": 4440,
+    "offset": 697320,
+    "lang": "es"
+  },
+  {
+    "text": "Digamos si uno no está atento no llega",
+    "duration": 5021,
+    "offset": 698779,
+    "lang": "es"
+  },
+  {
+    "text": "nunca a nombrar No ya nunca a darse",
+    "duration": 4500,
+    "offset": 701760,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta que no es una persona el que está",
+    "duration": 5159,
+    "offset": 703800,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo la presentación",
+    "duration": 4880,
+    "offset": 706260,
+    "lang": "es"
+  },
+  {
+    "text": "bien Vamos a ver",
+    "duration": 4801,
+    "offset": 708959,
+    "lang": "es"
+  },
+  {
+    "text": "este que seguramente lo habrán escuchado",
+    "duration": 4720,
+    "offset": 711140,
+    "lang": "es"
+  },
+  {
+    "text": "nombrar que se llama stable difusión",
+    "duration": 6720,
+    "offset": 713760,
+    "lang": "es"
+  },
+  {
+    "text": "Este es un texto y match o sea yo le",
+    "duration": 8280,
+    "offset": 715860,
+    "lang": "es"
+  },
+  {
+    "text": "pongo texto y va a generar imágenes y",
+    "duration": 7640,
+    "offset": 720480,
+    "lang": "es"
+  },
+  {
+    "text": "las va a crear en función de",
+    "duration": 7439,
+    "offset": 724140,
+    "lang": "es"
+  },
+  {
+    "text": "lo que yo le haya pedido por ejemplo le",
+    "duration": 5040,
+    "offset": 728120,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a pedir",
+    "duration": 3361,
+    "offset": 731579,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 4500,
+    "offset": 733160,
+    "lang": "es"
+  },
+  {
+    "text": "sí",
+    "duration": 6520,
+    "offset": 734940,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3800,
+    "offset": 737660,
+    "lang": "es"
+  },
+  {
+    "text": "Back y vamos a generar la imagen en",
+    "duration": 8919,
+    "offset": 757040,
+    "lang": "es"
+  },
+  {
+    "text": "función de ese pront que nosotros le",
+    "duration": 8220,
+    "offset": 761160,
+    "lang": "es"
+  },
+  {
+    "text": "escribimos esto también va a tardar un",
+    "duration": 5481,
+    "offset": 765959,
+    "lang": "es"
+  },
+  {
+    "text": "rato en",
+    "duration": 5480,
+    "offset": 769380,
+    "lang": "es"
+  },
+  {
+    "text": "generar la imagen",
+    "duration": 3420,
+    "offset": 771440,
+    "lang": "es"
+  },
+  {
+    "text": "este y Acá hay que llenar el bache no sé",
+    "duration": 5579,
+    "offset": 776700,
+    "lang": "es"
+  },
+  {
+    "text": "este hablando de temas poco",
+    "duration": 3840,
+    "offset": 780600,
+    "lang": "es"
+  },
+  {
+    "text": "controversiales como políticos religión",
+    "duration": 6360,
+    "offset": 782279,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo este bueno va a tardar un",
+    "duration": 6320,
+    "offset": 784440,
+    "lang": "es"
+  },
+  {
+    "text": "rato",
+    "duration": 2121,
+    "offset": 788639,
+    "lang": "es"
+  },
+  {
+    "text": "pero vamos a ver cómo",
+    "duration": 4920,
+    "offset": 792240,
+    "lang": "es"
+  },
+  {
+    "text": "este difusión este es muy conocido",
+    "duration": 3960,
+    "offset": 794660,
+    "lang": "es"
+  },
+  {
+    "text": "también",
+    "duration": 5520,
+    "offset": 797160,
+    "lang": "es"
+  },
+  {
+    "text": "no es de opene",
+    "duration": 6540,
+    "offset": 798620,
+    "lang": "es"
+  },
+  {
+    "text": "es",
+    "duration": 2480,
+    "offset": 802680,
+    "lang": "es"
+  },
+  {
+    "text": "bueno acá dice forjaste ingeniera de",
+    "duration": 4940,
+    "offset": 807240,
+    "lang": "es"
+  },
+  {
+    "text": "acceso",
+    "duration": 2120,
+    "offset": 810060,
+    "lang": "es"
+  },
+  {
+    "text": "bien ahí ya casi estamos va a aparecer",
+    "duration": 7081,
+    "offset": 823079,
+    "lang": "es"
+  },
+  {
+    "text": "la imagen bien y acá está la imagen que",
+    "duration": 5820,
+    "offset": 826560,
+    "lang": "es"
+  },
+  {
+    "text": "yo le había pedido",
+    "duration": 6299,
+    "offset": 830160,
+    "lang": "es"
+  },
+  {
+    "text": "este generada simplemente a partir de un",
+    "duration": 6780,
+    "offset": 832380,
+    "lang": "es"
+  },
+  {
+    "text": "pronto o sea a partir de algo que yo le",
+    "duration": 6180,
+    "offset": 836459,
+    "lang": "es"
+  },
+  {
+    "text": "escribí y Qué pasa si acá yo quiero que",
+    "duration": 5340,
+    "offset": 839160,
+    "lang": "es"
+  },
+  {
+    "text": "lo haga",
+    "duration": 4291,
+    "offset": 842639,
+    "lang": "es"
+  },
+  {
+    "text": "Andy",
+    "duration": 5600,
+    "offset": 844500,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3170,
+    "offset": 846930,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ahí le pido que lo genere que",
+    "duration": 5521,
+    "offset": 852899,
+    "lang": "es"
+  },
+  {
+    "text": "genere la misma imagen pero con un",
+    "duration": 6260,
+    "offset": 855240,
+    "lang": "es"
+  },
+  {
+    "text": "estilo antiguo",
+    "duration": 3080,
+    "offset": 858420,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno ahí tiene un pequeño error Ahí",
+    "duration": 6500,
+    "offset": 862800,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a volver porque está",
+    "duration": 6300,
+    "offset": 865440,
+    "lang": "es"
+  },
+  {
+    "text": "demasiada sobrecarga ya para aplicación",
+    "duration": 4479,
+    "offset": 869300,
+    "lang": "es"
+  },
+  {
+    "text": "el problema que tienen todo lo que es el",
+    "duration": 5060,
+    "offset": 871740,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo con redes neuronales es que",
+    "duration": 6541,
+    "offset": 873779,
+    "lang": "es"
+  },
+  {
+    "text": "es muy Hardware intensi Entonces es muy",
+    "duration": 5860,
+    "offset": 876800,
+    "lang": "es"
+  },
+  {
+    "text": "intensivo el uso de hardware entonces",
+    "duration": 4199,
+    "offset": 880320,
+    "lang": "es"
+  },
+  {
+    "text": "bueno por ahí hay que darle cierto",
+    "duration": 5580,
+    "offset": 882660,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo porque este no puede recuperarse",
+    "duration": 5341,
+    "offset": 884519,
+    "lang": "es"
+  },
+  {
+    "text": "tan pronto después de haber hecho la",
+    "duration": 4099,
+    "offset": 888240,
+    "lang": "es"
+  },
+  {
+    "text": "última tarea",
+    "duration": 2479,
+    "offset": 889860,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí vamos a esperar que está generando",
+    "duration": 5620,
+    "offset": 917600,
+    "lang": "es"
+  },
+  {
+    "text": "estos baches son los peores",
+    "duration": 5100,
+    "offset": 920220,
+    "lang": "es"
+  },
+  {
+    "text": "Pero bueno podríamos aprovechar y contar",
+    "duration": 4460,
+    "offset": 923220,
+    "lang": "es"
+  },
+  {
+    "text": "un chiste",
+    "duration": 2360,
+    "offset": 925320,
+    "lang": "es"
+  },
+  {
+    "text": "este bien",
+    "duration": 6059,
+    "offset": 927720,
+    "lang": "es"
+  },
+  {
+    "text": "acá la vuelve a dibujar en algunos casos",
+    "duration": 5721,
+    "offset": 931079,
+    "lang": "es"
+  },
+  {
+    "text": "salió más o menos",
+    "duration": 3021,
+    "offset": 933779,
+    "lang": "es"
+  },
+  {
+    "text": "Pero bueno Ahí cambió el styling porque",
+    "duration": 5099,
+    "offset": 938100,
+    "lang": "es"
+  },
+  {
+    "text": "le pedimos que lo hiciera estilo Andy",
+    "duration": 4920,
+    "offset": 940380,
+    "lang": "es"
+  },
+  {
+    "text": "warhol bueno hubo un problema de",
+    "duration": 3661,
+    "offset": 943199,
+    "lang": "es"
+  },
+  {
+    "text": "Hardware acá esperemos que no esté el",
+    "duration": 3420,
+    "offset": 945300,
+    "lang": "es"
+  },
+  {
+    "text": "problema en el momento que lo hacemos y",
+    "duration": 4860,
+    "offset": 946860,
+    "lang": "es"
+  },
+  {
+    "text": "acá vamos a ver mi chorning que mick",
+    "duration": 6059,
+    "offset": 948720,
+    "lang": "es"
+  },
+  {
+    "text": "Journey es otro este mil es otro",
+    "duration": 5960,
+    "offset": 951720,
+    "lang": "es"
+  },
+  {
+    "text": "generador de imágenes",
+    "duration": 2901,
+    "offset": 954779,
+    "lang": "es"
+  },
+  {
+    "text": "que es bastante más poderoso y acá",
+    "duration": 6459,
+    "offset": 959240,
+    "lang": "es"
+  },
+  {
+    "text": "inclusive acá Tiene lo último que le",
+    "duration": 5341,
+    "offset": 962579,
+    "lang": "es"
+  },
+  {
+    "text": "escribí y lo guarda inclusive guarda",
+    "duration": 4080,
+    "offset": 965699,
+    "lang": "es"
+  },
+  {
+    "text": "este con mi usuario lo último que le",
+    "duration": 4279,
+    "offset": 967920,
+    "lang": "es"
+  },
+  {
+    "text": "había escrito",
+    "duration": 2420,
+    "offset": 969779,
+    "lang": "es"
+  },
+  {
+    "text": "es un texto image también es tal vez",
+    "duration": 6841,
+    "offset": 973199,
+    "lang": "es"
+  },
+  {
+    "text": "Este es mejor hay tres que son muy",
+    "duration": 5520,
+    "offset": 977100,
+    "lang": "es"
+  },
+  {
+    "text": "conocidos uno que es de upn y hay en la",
+    "duration": 5220,
+    "offset": 980040,
+    "lang": "es"
+  },
+  {
+    "text": "misma empresa que hizo chat gpt que se",
+    "duration": 9000,
+    "offset": 982620,
+    "lang": "es"
+  },
+  {
+    "text": "llama Dali 2 hay otro que es este",
+    "duration": 10079,
+    "offset": 985260,
+    "lang": "es"
+  },
+  {
+    "text": "y hay otro que es mid Journey",
+    "duration": 6200,
+    "offset": 991620,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 2481,
+    "offset": 995339,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno ahí está haciendo el dibujo se",
+    "duration": 5539,
+    "offset": 1002660,
+    "lang": "es"
+  },
+  {
+    "text": "toma su tiempo",
+    "duration": 2659,
+    "offset": 1005540,
+    "lang": "es"
+  },
+  {
+    "text": "bien pero bien",
+    "duration": 6180,
+    "offset": 1008540,
+    "lang": "es"
+  },
+  {
+    "text": "La idea es que es ver cómo las nuevas",
+    "duration": 6481,
+    "offset": 1010699,
+    "lang": "es"
+  },
+  {
+    "text": "redes neuronales pueden a partir de",
+    "duration": 6000,
+    "offset": 1014720,
+    "lang": "es"
+  },
+  {
+    "text": "texto su justamente la capacidad que",
+    "duration": 6480,
+    "offset": 1017180,
+    "lang": "es"
+  },
+  {
+    "text": "tienen para transformar algo en otra",
+    "duration": 5459,
+    "offset": 1020720,
+    "lang": "es"
+  },
+  {
+    "text": "cosa hacen que ese algo que transformen",
+    "duration": 4639,
+    "offset": 1023660,
+    "lang": "es"
+  },
+  {
+    "text": "puede ser texto y lo pueden transformar",
+    "duration": 5101,
+    "offset": 1026179,
+    "lang": "es"
+  },
+  {
+    "text": "en este imágenes de la misma manera",
+    "duration": 4900,
+    "offset": 1028299,
+    "lang": "es"
+  },
+  {
+    "text": "también después vamos a ver algún",
+    "duration": 4799,
+    "offset": 1031280,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo vamos a ver un ejemplo pueden",
+    "duration": 5461,
+    "offset": 1033199,
+    "lang": "es"
+  },
+  {
+    "text": "transformar las imágenes en texto y",
+    "duration": 5760,
+    "offset": 1036079,
+    "lang": "es"
+  },
+  {
+    "text": "entonces pueden describir qué es lo que",
+    "duration": 5220,
+    "offset": 1038660,
+    "lang": "es"
+  },
+  {
+    "text": "hay en la imagen",
+    "duration": 4220,
+    "offset": 1041839,
+    "lang": "es"
+  },
+  {
+    "text": "y con eso Bueno se pueden utilizar para",
+    "duration": 6079,
+    "offset": 1043880,
+    "lang": "es"
+  },
+  {
+    "text": "identificar objetos",
+    "duration": 3900,
+    "offset": 1046059,
+    "lang": "es"
+  },
+  {
+    "text": "bueno mientras estos está terminando de",
+    "duration": 7581,
+    "offset": 1113179,
+    "lang": "es"
+  },
+  {
+    "text": "bajar así vemos estas partes de",
+    "duration": 4760,
+    "offset": 1116000,
+    "lang": "es"
+  },
+  {
+    "text": "de las cámaras vamos a ver",
+    "duration": 4920,
+    "offset": 1121700,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 5010,
+    "offset": 1124310,
+    "lang": "es"
+  },
+  {
+    "text": "un ejemplo",
+    "duration": 5640,
+    "offset": 1126620,
+    "lang": "es"
+  },
+  {
+    "text": "de desarrollo de una página web con los",
+    "duration": 4920,
+    "offset": 1129320,
+    "lang": "es"
+  },
+  {
+    "text": "publine de hacking Face O sea qué es lo",
+    "duration": 3620,
+    "offset": 1132260,
+    "lang": "es"
+  },
+  {
+    "text": "que vamos a hacer",
+    "duration": 4380,
+    "offset": 1134240,
+    "lang": "es"
+  },
+  {
+    "text": "hacking Face tiene un montón de modelos",
+    "duration": 7320,
+    "offset": 1135880,
+    "lang": "es"
+  },
+  {
+    "text": "y como habíamos comentado nos da",
+    "duration": 7679,
+    "offset": 1138620,
+    "lang": "es"
+  },
+  {
+    "text": "la posibilidad de utilizarlos en forma",
+    "duration": 7660,
+    "offset": 1143200,
+    "lang": "es"
+  },
+  {
+    "text": "gratuita a partir de este",
+    "duration": 6781,
+    "offset": 1146299,
+    "lang": "es"
+  },
+  {
+    "text": "un elemento un modelo que se llama",
+    "duration": 5939,
+    "offset": 1150860,
+    "lang": "es"
+  },
+  {
+    "text": "publine Entonces vamos a tomar el código",
+    "duration": 8120,
+    "offset": 1153080,
+    "lang": "es"
+  },
+  {
+    "text": "de un pub Line de hacking Face y",
+    "duration": 8521,
+    "offset": 1156799,
+    "lang": "es"
+  },
+  {
+    "text": "le vamos a pedir al chat gpt que nos",
+    "duration": 8320,
+    "offset": 1161200,
+    "lang": "es"
+  },
+  {
+    "text": "desarrolle este una Api que es una Api",
+    "duration": 6000,
+    "offset": 1165320,
+    "lang": "es"
+  },
+  {
+    "text": "Api son las iniciales de application",
+    "duration": 4500,
+    "offset": 1169520,
+    "lang": "es"
+  },
+  {
+    "text": "program interface lo que le vamos a",
+    "duration": 5300,
+    "offset": 1171320,
+    "lang": "es"
+  },
+  {
+    "text": "pedir al chat gpt simplemente",
+    "duration": 5039,
+    "offset": 1174020,
+    "lang": "es"
+  },
+  {
+    "text": "escribiéndole con texto y mostrándole el",
+    "duration": 5700,
+    "offset": 1176620,
+    "lang": "es"
+  },
+  {
+    "text": "código que bajamos de hacking Face es",
+    "duration": 8881,
+    "offset": 1179059,
+    "lang": "es"
+  },
+  {
+    "text": "que nos haga un programa que nos permita",
+    "duration": 8800,
+    "offset": 1182320,
+    "lang": "es"
+  },
+  {
+    "text": "crear un servidor es decir algo que",
+    "duration": 5820,
+    "offset": 1187940,
+    "lang": "es"
+  },
+  {
+    "text": "Escucha para que después nosotros desde",
+    "duration": 4380,
+    "offset": 1191120,
+    "lang": "es"
+  },
+  {
+    "text": "la web podemos usar esa Inteligencia",
+    "duration": 4400,
+    "offset": 1193760,
+    "lang": "es"
+  },
+  {
+    "text": "artificial",
+    "duration": 2660,
+    "offset": 1195500,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos este código que es este modelo",
+    "duration": 5581,
+    "offset": 1200299,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a buscar Este modelo enhaging Face",
+    "duration": 6140,
+    "offset": 1202880,
+    "lang": "es"
+  },
+  {
+    "text": "así les muestro",
+    "duration": 3140,
+    "offset": 1205880,
+    "lang": "es"
+  },
+  {
+    "text": "este acá todavía está pensando",
+    "duration": 3860,
+    "offset": 1211280,
+    "lang": "es"
+  },
+  {
+    "text": "Acá está Tengo este que es un modelo",
+    "duration": 4740,
+    "offset": 1224600,
+    "lang": "es"
+  },
+  {
+    "text": "Este modelo que es lo que hace Este",
+    "duration": 5480,
+    "offset": 1226880,
+    "lang": "es"
+  },
+  {
+    "text": "modelo de hacking Face lo que hace es",
+    "duration": 6660,
+    "offset": 1229340,
+    "lang": "es"
+  },
+  {
+    "text": "transforma las imágenes",
+    "duration": 6160,
+    "offset": 1232360,
+    "lang": "es"
+  },
+  {
+    "text": "en texto fíjense que acá me está",
+    "duration": 7340,
+    "offset": 1236000,
+    "lang": "es"
+  },
+  {
+    "text": "diciendo que está viendo un este",
+    "duration": 4820,
+    "offset": 1238520,
+    "lang": "es"
+  },
+  {
+    "text": "está viendo me está diciendo lo que ve",
+    "duration": 4740,
+    "offset": 1244520,
+    "lang": "es"
+  },
+  {
+    "text": "en la imagen yo le puedo poner alguna",
+    "duration": 5880,
+    "offset": 1246980,
+    "lang": "es"
+  },
+  {
+    "text": "imagen mía y lo que me va a decir es ve",
+    "duration": 5760,
+    "offset": 1249260,
+    "lang": "es"
+  },
+  {
+    "text": "lo que se ve en la imagen a ver por",
+    "duration": 4800,
+    "offset": 1252860,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo si acá pongo un partido de",
+    "duration": 4880,
+    "offset": 1255020,
+    "lang": "es"
+  },
+  {
+    "text": "fútbol",
+    "duration": 2240,
+    "offset": 1257660,
+    "lang": "es"
+  },
+  {
+    "text": "va a ir va a procesar la imagen y me va",
+    "duration": 4500,
+    "offset": 1262160,
+    "lang": "es"
+  },
+  {
+    "text": "a escribir un texto esto es al revés de",
+    "duration": 4081,
+    "offset": 1264559,
+    "lang": "es"
+  },
+  {
+    "text": "lo que habíamos visto con mick Journey",
+    "duration": 4379,
+    "offset": 1266660,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 4500,
+    "offset": 1268640,
+    "lang": "es"
+  },
+  {
+    "text": "y acá me da el ejemplo de código para",
+    "duration": 6121,
+    "offset": 1271039,
+    "lang": "es"
+  },
+  {
+    "text": "poder usar esto utilizando papelines",
+    "duration": 6200,
+    "offset": 1273140,
+    "lang": "es"
+  },
+  {
+    "text": "ven acá dice un jugador de fútbol",
+    "duration": 5639,
+    "offset": 1277160,
+    "lang": "es"
+  },
+  {
+    "text": "pateando una pelota de fútbol que es",
+    "duration": 5199,
+    "offset": 1279340,
+    "lang": "es"
+  },
+  {
+    "text": "justamente lo que se ve en la imagen no",
+    "duration": 4500,
+    "offset": 1282799,
+    "lang": "es"
+  },
+  {
+    "text": "me identifica quién pero sirve para",
+    "duration": 4020,
+    "offset": 1284539,
+    "lang": "es"
+  },
+  {
+    "text": "identificarse que hay un jugador de",
+    "duration": 3061,
+    "offset": 1287299,
+    "lang": "es"
+  },
+  {
+    "text": "fútbol y hay una pelota de fútbol la",
+    "duration": 3721,
+    "offset": 1288559,
+    "lang": "es"
+  },
+  {
+    "text": "parte central lo más importante de la",
+    "duration": 5460,
+    "offset": 1290360,
+    "lang": "es"
+  },
+  {
+    "text": "imagen me lo muestra Entonces qué es lo",
+    "duration": 6320,
+    "offset": 1292280,
+    "lang": "es"
+  },
+  {
+    "text": "que pasa Yo voy a tomar este código",
+    "duration": 7200,
+    "offset": 1295820,
+    "lang": "es"
+  },
+  {
+    "text": "que es el código del packline lo voy a",
+    "duration": 6280,
+    "offset": 1298600,
+    "lang": "es"
+  },
+  {
+    "text": "introducir acá al chat gpt y le voy a",
+    "duration": 5519,
+    "offset": 1303020,
+    "lang": "es"
+  },
+  {
+    "text": "decir Tengo este código y quiero hacer",
+    "duration": 7220,
+    "offset": 1304880,
+    "lang": "es"
+  },
+  {
+    "text": "una app con Fast Api",
+    "duration": 6841,
+    "offset": 1308539,
+    "lang": "es"
+  },
+  {
+    "text": "Y entonces le pongo el código que bajé",
+    "duration": 5699,
+    "offset": 1312100,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 2419,
+    "offset": 1315380,
+    "lang": "es"
+  },
+  {
+    "text": "que bajeo que vi en",
+    "duration": 5681,
+    "offset": 1318159,
+    "lang": "es"
+  },
+  {
+    "text": "hacking Face qué es lo que hace eso lo",
+    "duration": 6161,
+    "offset": 1320919,
+    "lang": "es"
+  },
+  {
+    "text": "que hace es voy a construir yo mi propia",
+    "duration": 5400,
+    "offset": 1323840,
+    "lang": "es"
+  },
+  {
+    "text": "web que pueda hacer esto de acá le sigo",
+    "duration": 3599,
+    "offset": 1327080,
+    "lang": "es"
+  },
+  {
+    "text": "le subo una imagen y me va a escribir",
+    "duration": 4939,
+    "offset": 1329240,
+    "lang": "es"
+  },
+  {
+    "text": "que qué es lo que se ve ahí",
+    "duration": 6421,
+    "offset": 1330679,
+    "lang": "es"
+  },
+  {
+    "text": "bien entonces una vez que yo le pongo",
+    "duration": 6521,
+    "offset": 1334179,
+    "lang": "es"
+  },
+  {
+    "text": "este pront es muy importante la manera",
+    "duration": 6120,
+    "offset": 1337100,
+    "lang": "es"
+  },
+  {
+    "text": "en la que ustedes le van a preguntar al",
+    "duration": 4380,
+    "offset": 1340700,
+    "lang": "es"
+  },
+  {
+    "text": "chat Porque de eso depende el éxito de",
+    "duration": 4920,
+    "offset": 1343220,
+    "lang": "es"
+  },
+  {
+    "text": "lo que le va a contestar y acá me dice",
+    "duration": 5099,
+    "offset": 1345080,
+    "lang": "es"
+  },
+  {
+    "text": "que no hay problema dice para crear una",
+    "duration": 4380,
+    "offset": 1348140,
+    "lang": "es"
+  },
+  {
+    "text": "aplicación con Fast Api que use el",
+    "duration": 4021,
+    "offset": 1350179,
+    "lang": "es"
+  },
+  {
+    "text": "modelo de i+d captionning de",
+    "duration": 3539,
+    "offset": 1352520,
+    "lang": "es"
+  },
+  {
+    "text": "Transformers ya sabe de qué modelo le",
+    "duration": 4080,
+    "offset": 1354200,
+    "lang": "es"
+  },
+  {
+    "text": "estoy hablando puede seguir los",
+    "duration": 4441,
+    "offset": 1356059,
+    "lang": "es"
+  },
+  {
+    "text": "siguientes pasos entonces acá me dice",
+    "duration": 5160,
+    "offset": 1358280,
+    "lang": "es"
+  },
+  {
+    "text": "primero lo que tengo que instalar y acá",
+    "duration": 6360,
+    "offset": 1360500,
+    "lang": "es"
+  },
+  {
+    "text": "me dice el código que tengo que poner y",
+    "duration": 5340,
+    "offset": 1363440,
+    "lang": "es"
+  },
+  {
+    "text": "acá me dice",
+    "duration": 4860,
+    "offset": 1366860,
+    "lang": "es"
+  },
+  {
+    "text": "Cómo es que tengo que correr ese código",
+    "duration": 6660,
+    "offset": 1368780,
+    "lang": "es"
+  },
+  {
+    "text": "para que quede listo para crear un",
+    "duration": 6000,
+    "offset": 1371720,
+    "lang": "es"
+  },
+  {
+    "text": "servidor al que yo Después voy a poder",
+    "duration": 6239,
+    "offset": 1375440,
+    "lang": "es"
+  },
+  {
+    "text": "este conectar desde una página web",
+    "duration": 8459,
+    "offset": 1377720,
+    "lang": "es"
+  },
+  {
+    "text": "bien Entonces qué es lo que pasa Yo lo",
+    "duration": 7761,
+    "offset": 1381679,
+    "lang": "es"
+  },
+  {
+    "text": "que hice fue escribir el código",
+    "duration": 3261,
+    "offset": 1386179,
+    "lang": "es"
+  },
+  {
+    "text": "este código lo escribí tal cual me lo",
+    "duration": 5461,
+    "offset": 1390559,
+    "lang": "es"
+  },
+  {
+    "text": "puso ahora después vamos a ver que hubo",
+    "duration": 5041,
+    "offset": 1394159,
+    "lang": "es"
+  },
+  {
+    "text": "acá que cambiarle algo pero yo escribí",
+    "duration": 5880,
+    "offset": 1396020,
+    "lang": "es"
+  },
+  {
+    "text": "ese código y bueno y ahora es donde les",
+    "duration": 4800,
+    "offset": 1399200,
+    "lang": "es"
+  },
+  {
+    "text": "muestro que tengo ese código funcionando",
+    "duration": 5220,
+    "offset": 1401900,
+    "lang": "es"
+  },
+  {
+    "text": "o sea les muestro Cómo ese código que es",
+    "duration": 7100,
+    "offset": 1404000,
+    "lang": "es"
+  },
+  {
+    "text": "este el código de hacking Face",
+    "duration": 3980,
+    "offset": 1407120,
+    "lang": "es"
+  },
+  {
+    "text": "este yo ya lo tengo copiado y ya lo",
+    "duration": 5220,
+    "offset": 1411140,
+    "lang": "es"
+  },
+  {
+    "text": "probé y ya lo tengo funcionando bien",
+    "duration": 4740,
+    "offset": 1413960,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ellos lo que van a ver ahí es",
+    "duration": 6480,
+    "offset": 1416360,
+    "lang": "es"
+  },
+  {
+    "text": "que lo que hice fue pedirle acá fíjense",
+    "duration": 6839,
+    "offset": 1418700,
+    "lang": "es"
+  },
+  {
+    "text": "aparecieron las tasas de café estilo",
+    "duration": 6180,
+    "offset": 1422840,
+    "lang": "es"
+  },
+  {
+    "text": "Andy warhol que les habíamos pedido a",
+    "duration": 6481,
+    "offset": 1425539,
+    "lang": "es"
+  },
+  {
+    "text": "mil",
+    "duration": 3000,
+    "offset": 1429020,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 2540,
+    "offset": 1432440,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a pedirle otra cosa Mientras tanto",
+    "duration": 4460,
+    "offset": 1436280,
+    "lang": "es"
+  },
+  {
+    "text": "que nos haga un gato Como si fuese",
+    "duration": 5300,
+    "offset": 1443960,
+    "lang": "es"
+  },
+  {
+    "text": "rembrand bien Bueno ahí va a estar",
+    "duration": 4880,
+    "offset": 1446240,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo esto",
+    "duration": 5560,
+    "offset": 1449260,
+    "lang": "es"
+  },
+  {
+    "text": "entonces bueno acá es donde yo les voy a",
+    "duration": 6039,
+    "offset": 1451120,
+    "lang": "es"
+  },
+  {
+    "text": "mostrar el código funcionando y les voy",
+    "duration": 6180,
+    "offset": 1454820,
+    "lang": "es"
+  },
+  {
+    "text": "a mostrar la lo que tengo en la web y",
+    "duration": 6841,
+    "offset": 1457159,
+    "lang": "es"
+  },
+  {
+    "text": "ellos van a poder ver este cómo",
+    "duration": 5159,
+    "offset": 1461000,
+    "lang": "es"
+  },
+  {
+    "text": "efectivamente funciona ahora qué es lo",
+    "duration": 3799,
+    "offset": 1464000,
+    "lang": "es"
+  },
+  {
+    "text": "que pasa",
+    "duration": 4681,
+    "offset": 1466159,
+    "lang": "es"
+  },
+  {
+    "text": "yo tengo Solamente la parte del servidor",
+    "duration": 6701,
+    "offset": 1467799,
+    "lang": "es"
+  },
+  {
+    "text": "o el backen de la web ahora lo que yo",
+    "duration": 5400,
+    "offset": 1470840,
+    "lang": "es"
+  },
+  {
+    "text": "necesito es algo que se pueda publicar",
+    "duration": 4919,
+    "offset": 1474500,
+    "lang": "es"
+  },
+  {
+    "text": "en un browser entonces lo que vamos a",
+    "duration": 5340,
+    "offset": 1476240,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es le vamos a pedir le vamos a",
+    "duration": 4681,
+    "offset": 1479419,
+    "lang": "es"
+  },
+  {
+    "text": "pegar el código del servidor y le vamos",
+    "duration": 5300,
+    "offset": 1481580,
+    "lang": "es"
+  },
+  {
+    "text": "a pedir que nos haga",
+    "duration": 7079,
+    "offset": 1484100,
+    "lang": "es"
+  },
+  {
+    "text": "un desarrollo capaz de poderse ver en",
+    "duration": 7480,
+    "offset": 1486880,
+    "lang": "es"
+  },
+  {
+    "text": "este en la web",
+    "duration": 5461,
+    "offset": 1491179,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando un lenguaje llame esbelta",
+    "duration": 5280,
+    "offset": 1494360,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 3000,
+    "offset": 1496640,
+    "lang": "es"
+  },
+  {
+    "text": "acá qué es lo que pasa le vamos a decir",
+    "duration": 5901,
+    "offset": 1500059,
+    "lang": "es"
+  },
+  {
+    "text": "necesito como él ya me había escrito un",
+    "duration": 5680,
+    "offset": 1506140,
+    "lang": "es"
+  },
+  {
+    "text": "backen le digo Necesito que ese vaquén",
+    "duration": 6300,
+    "offset": 1509840,
+    "lang": "es"
+  },
+  {
+    "text": "que parece baquen me crees un fronten en",
+    "duration": 6120,
+    "offset": 1511820,
+    "lang": "es"
+  },
+  {
+    "text": "esbelte",
+    "duration": 5220,
+    "offset": 1516140,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense si por ahí ustedes no me creen",
+    "duration": 6599,
+    "offset": 1517940,
+    "lang": "es"
+  },
+  {
+    "text": "que genera esto vamos a copiar es muy",
+    "duration": 5660,
+    "offset": 1521360,
+    "lang": "es"
+  },
+  {
+    "text": "importante el prompt",
+    "duration": 5401,
+    "offset": 1524539,
+    "lang": "es"
+  },
+  {
+    "text": "es todo un arte no Entonces vamos a",
+    "duration": 5200,
+    "offset": 1527020,
+    "lang": "es"
+  },
+  {
+    "text": "copiar esto acá",
+    "duration": 4739,
+    "offset": 1529940,
+    "lang": "es"
+  },
+  {
+    "text": "le voy a pedir que me genere el código y",
+    "duration": 5780,
+    "offset": 1532220,
+    "lang": "es"
+  },
+  {
+    "text": "ahí fíjense cómo",
+    "duration": 3321,
+    "offset": 1534679,
+    "lang": "es"
+  },
+  {
+    "text": "bien Ahí me lo está explicando un poco",
+    "duration": 4980,
+    "offset": 1541220,
+    "lang": "es"
+  },
+  {
+    "text": "más más verborrágico pero ahí me tira",
+    "duration": 6899,
+    "offset": 1543260,
+    "lang": "es"
+  },
+  {
+    "text": "efectivamente el mismo código que es el",
+    "duration": 8339,
+    "offset": 1546200,
+    "lang": "es"
+  },
+  {
+    "text": "que después yo voy a usar bien ese mismo",
+    "duration": 7380,
+    "offset": 1550159,
+    "lang": "es"
+  },
+  {
+    "text": "código lo genera el propio chat gpt que",
+    "duration": 5221,
+    "offset": 1554539,
+    "lang": "es"
+  },
+  {
+    "text": "es lo que hace es un sistema generativo",
+    "duration": 6120,
+    "offset": 1557539,
+    "lang": "es"
+  },
+  {
+    "text": "Transformer toma el texto y ese texto lo",
+    "duration": 6539,
+    "offset": 1559760,
+    "lang": "es"
+  },
+  {
+    "text": "que toma la información que tiene y lo",
+    "duration": 5341,
+    "offset": 1563659,
+    "lang": "es"
+  },
+  {
+    "text": "utiliza para generar algo y acá está",
+    "duration": 4801,
+    "offset": 1566299,
+    "lang": "es"
+  },
+  {
+    "text": "generando un código que va a funcionar y",
+    "duration": 3900,
+    "offset": 1569000,
+    "lang": "es"
+  },
+  {
+    "text": "que ella lo vamos a ver funcionando que",
+    "duration": 3720,
+    "offset": 1571100,
+    "lang": "es"
+  },
+  {
+    "text": "ellos lo van a ver funcionando ellos se",
+    "duration": 5180,
+    "offset": 1572900,
+    "lang": "es"
+  },
+  {
+    "text": "lo voy a mostrar y ahora le digo",
+    "duration": 3260,
+    "offset": 1574820,
+    "lang": "es"
+  },
+  {
+    "text": "para este backend",
+    "duration": 4319,
+    "offset": 1578720,
+    "lang": "es"
+  },
+  {
+    "text": "Quiero",
+    "duration": 2840,
+    "offset": 1584900,
+    "lang": "es"
+  },
+  {
+    "text": "un cliente en",
+    "duration": 5980,
+    "offset": 1588520,
+    "lang": "es"
+  },
+  {
+    "text": "entonces lo que le voy a decir es que",
+    "duration": 6020,
+    "offset": 1592580,
+    "lang": "es"
+  },
+  {
+    "text": "parece Quiero un cliente en esbelta",
+    "duration": 4100,
+    "offset": 1594500,
+    "lang": "es"
+  },
+  {
+    "text": "acá me está explicando cómo es que todos",
+    "duration": 7301,
+    "offset": 1601419,
+    "lang": "es"
+  },
+  {
+    "text": "los puntos que tiene que tener el código",
+    "duration": 6061,
+    "offset": 1605179,
+    "lang": "es"
+  },
+  {
+    "text": "y acá me dice te dejo un ejemplo de cómo",
+    "duration": 5939,
+    "offset": 1608720,
+    "lang": "es"
+  },
+  {
+    "text": "se vería y acá me tira un ejemplo de",
+    "duration": 5840,
+    "offset": 1611240,
+    "lang": "es"
+  },
+  {
+    "text": "código",
+    "duration": 2421,
+    "offset": 1614659,
+    "lang": "es"
+  },
+  {
+    "text": "acá me tira el ejemplo de código de cómo",
+    "duration": 5280,
+    "offset": 1622940,
+    "lang": "es"
+  },
+  {
+    "text": "se vería este código es el código que yo",
+    "duration": 4200,
+    "offset": 1625760,
+    "lang": "es"
+  },
+  {
+    "text": "voy a copiar y voy a pegar lo único que",
+    "duration": 5280,
+    "offset": 1628220,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que saber es cómo setear la",
+    "duration": 6420,
+    "offset": 1629960,
+    "lang": "es"
+  },
+  {
+    "text": "aplicación esbelte pero este código es",
+    "duration": 5279,
+    "offset": 1633500,
+    "lang": "es"
+  },
+  {
+    "text": "el código que",
+    "duration": 6120,
+    "offset": 1636380,
+    "lang": "es"
+  },
+  {
+    "text": "me va a este yo voy a copiar y pegar y",
+    "duration": 5461,
+    "offset": 1638779,
+    "lang": "es"
+  },
+  {
+    "text": "con esto ya tengo el cliente y lo puedo",
+    "duration": 4740,
+    "offset": 1642500,
+    "lang": "es"
+  },
+  {
+    "text": "hacer correr en el browser y por ejemplo",
+    "duration": 7380,
+    "offset": 1644240,
+    "lang": "es"
+  },
+  {
+    "text": "si acá a mí no me gusta esto yo lo que",
+    "duration": 7319,
+    "offset": 1647240,
+    "lang": "es"
+  },
+  {
+    "text": "puedo hacer es tomar esto acá que eso lo",
+    "duration": 7140,
+    "offset": 1651620,
+    "lang": "es"
+  },
+  {
+    "text": "voy a hacer ahí en vivo y decirle",
+    "duration": 4201,
+    "offset": 1654559,
+    "lang": "es"
+  },
+  {
+    "text": "en este código",
+    "duration": 3319,
+    "offset": 1661220,
+    "lang": "es"
+  },
+  {
+    "text": "quiero que",
+    "duration": 5120,
+    "offset": 1665000,
+    "lang": "es"
+  },
+  {
+    "text": "el botón tenga",
+    "duration": 7540,
+    "offset": 1666580,
+    "lang": "es"
+  },
+  {
+    "text": "fondo azul",
+    "duration": 4000,
+    "offset": 1670120,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 5160,
+    "offset": 1674240,
+    "lang": "es"
+  },
+  {
+    "text": "letras blancas",
+    "duration": 4000,
+    "offset": 1675400,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ahí le pasó el código",
+    "duration": 5700,
+    "offset": 1681440,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí lo que va a hacer es me va a hacer",
+    "duration": 4260,
+    "offset": 1684980,
+    "lang": "es"
+  },
+  {
+    "text": "el styling O sea me va a cambiar el",
+    "duration": 5240,
+    "offset": 1687140,
+    "lang": "es"
+  },
+  {
+    "text": "formato del código",
+    "duration": 3140,
+    "offset": 1689240,
+    "lang": "es"
+  },
+  {
+    "text": "bien Este es un problema típico de chat",
+    "duration": 6680,
+    "offset": 1694400,
+    "lang": "es"
+  },
+  {
+    "text": "gpt es porque",
+    "duration": 6060,
+    "offset": 1697820,
+    "lang": "es"
+  },
+  {
+    "text": "la red está colapsada cuando es gratis",
+    "duration": 6540,
+    "offset": 1701080,
+    "lang": "es"
+  },
+  {
+    "text": "por eso es que yo me llevo",
+    "duration": 8240,
+    "offset": 1703880,
+    "lang": "es"
+  },
+  {
+    "text": "esto ya funcionando",
+    "duration": 4500,
+    "offset": 1707620,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 2480,
+    "offset": 1712640,
+    "lang": "es"
+  },
+  {
+    "text": "porque eso puede pasar que la red diga",
+    "duration": 5521,
+    "offset": 1716059,
+    "lang": "es"
+  },
+  {
+    "text": "como como es gratis acá me hace el gato",
+    "duration": 6899,
+    "offset": 1718520,
+    "lang": "es"
+  },
+  {
+    "text": "estilo rembrandt bien como las redes",
+    "duration": 7920,
+    "offset": 1721580,
+    "lang": "es"
+  },
+  {
+    "text": "gratis puede pasar que este",
+    "duration": 4081,
+    "offset": 1725419,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí está como no es el sistema pago lo",
+    "duration": 5440,
+    "offset": 1734140,
+    "lang": "es"
+  },
+  {
+    "text": "que sí cuando la red está así pero no se",
+    "duration": 6620,
+    "offset": 1737360,
+    "lang": "es"
+  },
+  {
+    "text": "preocupen que yo llego acá ya todo listo",
+    "duration": 8459,
+    "offset": 1739580,
+    "lang": "es"
+  },
+  {
+    "text": "para ser utilizado bien Y entonces acá",
+    "duration": 7780,
+    "offset": 1743980,
+    "lang": "es"
+  },
+  {
+    "text": "le puedo decir en este caso",
+    "duration": 7701,
+    "offset": 1748039,
+    "lang": "es"
+  },
+  {
+    "text": "que este botón",
+    "duration": 3980,
+    "offset": 1751760,
+    "lang": "es"
+  },
+  {
+    "text": "este botón lo quiero con",
+    "duration": 12600,
+    "offset": 1761299,
+    "lang": "es"
+  },
+  {
+    "text": "fondo azul y letras blancas",
+    "duration": 6939,
+    "offset": 1766960,
+    "lang": "es"
+  },
+  {
+    "text": "le pongo el código del botón y ahí lo",
+    "duration": 4500,
+    "offset": 1774020,
+    "lang": "es"
+  },
+  {
+    "text": "que va a hacer es me va a generar el",
+    "duration": 5661,
+    "offset": 1776659,
+    "lang": "es"
+  },
+  {
+    "text": "styling necesario y yo eso",
+    "duration": 3800,
+    "offset": 1778520,
+    "lang": "es"
+  },
+  {
+    "text": "ahí me dice cómo es que tengo que",
+    "duration": 4421,
+    "offset": 1788559,
+    "lang": "es"
+  },
+  {
+    "text": "reformar el código entonces yo voy a ir",
+    "duration": 5640,
+    "offset": 1790940,
+    "lang": "es"
+  },
+  {
+    "text": "y en el esbelte que él me da voy a",
+    "duration": 6840,
+    "offset": 1792980,
+    "lang": "es"
+  },
+  {
+    "text": "reformar el código en función de eso y",
+    "duration": 5400,
+    "offset": 1796580,
+    "lang": "es"
+  },
+  {
+    "text": "ellos lo van a poder ver en tiempo real",
+    "duration": 4500,
+    "offset": 1799820,
+    "lang": "es"
+  },
+  {
+    "text": "y lo último que le quiero mostrar es",
+    "duration": 4919,
+    "offset": 1801980,
+    "lang": "es"
+  },
+  {
+    "text": "bueno la web se las voy a mostrar",
+    "duration": 4800,
+    "offset": 1804320,
+    "lang": "es"
+  },
+  {
+    "text": "funcionando algunas imágenes y lo último",
+    "duration": 4581,
+    "offset": 1806899,
+    "lang": "es"
+  },
+  {
+    "text": "si hay tiempo le voy a mostrar",
+    "duration": 4220,
+    "offset": 1809120,
+    "lang": "es"
+  },
+  {
+    "text": "esta imagen",
+    "duration": 5460,
+    "offset": 1811480,
+    "lang": "es"
+  },
+  {
+    "text": "y esta imagen la hice con",
+    "duration": 7600,
+    "offset": 1813340,
+    "lang": "es"
+  },
+  {
+    "text": "una nueva herramienta de meta o Google",
+    "duration": 7839,
+    "offset": 1816940,
+    "lang": "es"
+  },
+  {
+    "text": "que se llama segment inicien model bien",
+    "duration": 6420,
+    "offset": 1820940,
+    "lang": "es"
+  },
+  {
+    "text": "si después quieren este probarla porque",
+    "duration": 5581,
+    "offset": 1824779,
+    "lang": "es"
+  },
+  {
+    "text": "ya nos estamos quedando",
+    "duration": 6559,
+    "offset": 1827360,
+    "lang": "es"
+  },
+  {
+    "text": "casi sin tiempo pero",
+    "duration": 3559,
+    "offset": 1830360,
+    "lang": "es"
+  },
+  {
+    "text": "esto fíjense acá",
+    "duration": 3980,
+    "offset": 1834020,
+    "lang": "es"
+  },
+  {
+    "text": "este",
+    "duration": 5399,
+    "offset": 1839000,
+    "lang": "es"
+  },
+  {
+    "text": "podemos fíjense acá lo que voy a hacer",
+    "duration": 6539,
+    "offset": 1840760,
+    "lang": "es"
+  },
+  {
+    "text": "es segmento del perro pongo",
+    "duration": 6421,
+    "offset": 1844399,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí lo corté botón derecho copy image y",
+    "duration": 6181,
+    "offset": 1847299,
+    "lang": "es"
+  },
+  {
+    "text": "acá voy",
+    "duration": 2660,
+    "offset": 1850820,
+    "lang": "es"
+  },
+  {
+    "text": "pego este perro tal cual lo puedo hacer",
+    "duration": 5321,
+    "offset": 1853539,
+    "lang": "es"
+  },
+  {
+    "text": "con cualquier imagen fíjense como la",
+    "duration": 4579,
+    "offset": 1856340,
+    "lang": "es"
+  },
+  {
+    "text": "Inteligencia artificial",
+    "duration": 4559,
+    "offset": 1858860,
+    "lang": "es"
+  },
+  {
+    "text": "supo delimitar o supo recortar",
+    "duration": 5081,
+    "offset": 1860919,
+    "lang": "es"
+  },
+  {
+    "text": "perfectamente la imagen de todo lo otro",
+    "duration": 4740,
+    "offset": 1863419,
+    "lang": "es"
+  },
+  {
+    "text": "lo que hace justamente esta Inteligencia",
+    "duration": 4860,
+    "offset": 1866000,
+    "lang": "es"
+  },
+  {
+    "text": "artificial utilizando redes Transformers",
+    "duration": 7561,
+    "offset": 1868159,
+    "lang": "es"
+  },
+  {
+    "text": "es realizar la detección de objetos y lo",
+    "duration": 6059,
+    "offset": 1870860,
+    "lang": "es"
+  },
+  {
+    "text": "bueno de esto es que es una herramienta",
+    "duration": 3059,
+    "offset": 1875720,
+    "lang": "es"
+  },
+  {
+    "text": "Open source O sea que tienen un código",
+    "duration": 4140,
+    "offset": 1876919,
+    "lang": "es"
+  },
+  {
+    "text": "que ustedes pueden poner también en sus",
+    "duration": 4620,
+    "offset": 1878779,
+    "lang": "es"
+  },
+  {
+    "text": "propias en sus propios desarrollos como",
+    "duration": 6021,
+    "offset": 1881059,
+    "lang": "es"
+  },
+  {
+    "text": "hicimos Recién con el desarrollo de",
+    "duration": 6361,
+    "offset": 1883399,
+    "lang": "es"
+  },
+  {
+    "text": "hugging Face",
+    "duration": 4780,
+    "offset": 1887080,
+    "lang": "es"
+  },
+  {
+    "text": "bien bueno Muchas gracias por su",
+    "duration": 5960,
+    "offset": 1889760,
+    "lang": "es"
+  },
+  {
+    "text": "participación los esperamos en figuras",
+    "duration": 3860,
+    "offset": 1891860,
+    "lang": "es"
+  }
+]

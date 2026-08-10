@@ -1,0 +1,524 @@
+[
+  {
+    "text": "vamos a ver entonces cómo hacemos para",
+    "duration": 9081,
+    "offset": 4319,
+    "lang": "es"
+  },
+  {
+    "text": "entrenar nuestro propio dataset con Yolo",
+    "duration": 7880,
+    "offset": 8960,
+    "lang": "es"
+  },
+  {
+    "text": "post lo que vamos a hacer ahora es",
+    "duration": 4920,
+    "offset": 13400,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos un",
+    "duration": 5040,
+    "offset": 16840,
+    "lang": "es"
+  },
+  {
+    "text": "pegamento vamos a definir dos puntos",
+    "duration": 6959,
+    "offset": 18320,
+    "lang": "es"
+  },
+  {
+    "text": "para el post estimation de ese pegamento",
+    "duration": 5559,
+    "offset": 21880,
+    "lang": "es"
+  },
+  {
+    "text": "para después poder",
+    "duration": 5281,
+    "offset": 25279,
+    "lang": "es"
+  },
+  {
+    "text": "discernir con nuestro sistema de",
+    "duration": 5521,
+    "offset": 27439,
+    "lang": "es"
+  },
+  {
+    "text": "si es que el pomo de pegamento viene",
+    "duration": 5560,
+    "offset": 30560,
+    "lang": "es"
+  },
+  {
+    "text": "bien orientado o no A partir de poder",
+    "duration": 6759,
+    "offset": 32960,
+    "lang": "es"
+  },
+  {
+    "text": "establecer el ángulo de inclinación con",
+    "duration": 6720,
+    "offset": 36120,
+    "lang": "es"
+  },
+  {
+    "text": "el que viene Entonces lo primero que",
+    "duration": 4761,
+    "offset": 39719,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que hacer",
+    "duration": 5680,
+    "offset": 42840,
+    "lang": "es"
+  },
+  {
+    "text": "es subir nuestras imágenes podemos subir",
+    "duration": 7800,
+    "offset": 44480,
+    "lang": "es"
+  },
+  {
+    "text": "nuestras imágenes en un video y el mismo",
+    "duration": 6199,
+    "offset": 48520,
+    "lang": "es"
+  },
+  {
+    "text": "programa este fracci el video en",
+    "duration": 5000,
+    "offset": 52280,
+    "lang": "es"
+  },
+  {
+    "text": "fotogramas o podemos subir fotos como",
+    "duration": 5160,
+    "offset": 54719,
+    "lang": "es"
+  },
+  {
+    "text": "hice yo que subí directamente fotos que",
+    "duration": 6439,
+    "offset": 57280,
+    "lang": "es"
+  },
+  {
+    "text": "que le fui sacando a e a un pomo de poxy",
+    "duration": 6401,
+    "offset": 59879,
+    "lang": "es"
+  },
+  {
+    "text": "ran tenemos que ver que el elemento esté",
+    "duration": 4561,
+    "offset": 63719,
+    "lang": "es"
+  },
+  {
+    "text": "en el entorno en el que después lo vamos",
+    "duration": 4600,
+    "offset": 66280,
+    "lang": "es"
+  },
+  {
+    "text": "a detectar para que haga un",
+    "duration": 5159,
+    "offset": 68280,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento perfectamente Bueno",
+    "duration": 5279,
+    "offset": 70880,
+    "lang": "es"
+  },
+  {
+    "text": "después acá nos dice que le asignemos a",
+    "duration": 5401,
+    "offset": 73439,
+    "lang": "es"
+  },
+  {
+    "text": "alguien las imágenes yo me las voy a",
+    "duration": 4801,
+    "offset": 76159,
+    "lang": "es"
+  },
+  {
+    "text": "asignar a mí mismo porque soy el único",
+    "duration": 4319,
+    "offset": 78840,
+    "lang": "es"
+  },
+  {
+    "text": "que hay acá van a ver acá porque yo ya",
+    "duration": 3600,
+    "offset": 80960,
+    "lang": "es"
+  },
+  {
+    "text": "las asign pero ustedes van a ver que",
+    "duration": 3000,
+    "offset": 83159,
+    "lang": "es"
+  },
+  {
+    "text": "dicen a quién se las asigno se las",
+    "duration": 4519,
+    "offset": 84560,
+    "lang": "es"
+  },
+  {
+    "text": "asignan a ustedes mismos y acá viene la",
+    "duration": 7561,
+    "offset": 86159,
+    "lang": "es"
+  },
+  {
+    "text": "parte más importante que es hacer el",
+    "duration": 4641,
+    "offset": 89079,
+    "lang": "es"
+  },
+  {
+    "text": "annotation acá en este momento cuando",
+    "duration": 6320,
+    "offset": 95119,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos el annotation lo que hacemos Es",
+    "duration": 6920,
+    "offset": 98000,
+    "lang": "es"
+  },
+  {
+    "text": "poner con esta herramienta en cada",
+    "duration": 6960,
+    "offset": 101439,
+    "lang": "es"
+  },
+  {
+    "text": "imagen Qué es cada elemento del post que",
+    "duration": 6640,
+    "offset": 104920,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros queremos hacer previamente",
+    "duration": 7841,
+    "offset": 108399,
+    "lang": "es"
+  },
+  {
+    "text": "antes de haber hecho esto nosotros",
+    "duration": 9519,
+    "offset": 111560,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que ir a donde dice Clash",
+    "duration": 7280,
+    "offset": 116240,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que crear una",
+    "duration": 5161,
+    "offset": 121079,
+    "lang": "es"
+  },
+  {
+    "text": "clase y dentro de esa clase vamos a",
+    "duration": 7359,
+    "offset": 123520,
+    "lang": "es"
+  },
+  {
+    "text": "tener el skeleton map vamos a crear el",
+    "duration": 7960,
+    "offset": 126240,
+    "lang": "es"
+  },
+  {
+    "text": "skeleton esta parte es muy importante",
+    "duration": 6681,
+    "offset": 130879,
+    "lang": "es"
+  },
+  {
+    "text": "acá es donde definen Cuáles son los key",
+    "duration": 6840,
+    "offset": 134200,
+    "lang": "es"
+  },
+  {
+    "text": "points los puntos clave del elemento que",
+    "duration": 5959,
+    "offset": 137560,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes quieren detectar para después",
+    "duration": 5120,
+    "offset": 141040,
+    "lang": "es"
+  },
+  {
+    "text": "poder hacer el post",
+    "duration": 7000,
+    "offset": 143519,
+    "lang": "es"
+  },
+  {
+    "text": "estimation y cuando hacen tiene esto",
+    "duration": 6359,
+    "offset": 146160,
+    "lang": "es"
+  },
+  {
+    "text": "tienen que fijarse que quede claramente",
+    "duration": 4641,
+    "offset": 150519,
+    "lang": "es"
+  },
+  {
+    "text": "definido no se tienen que equivocar",
+    "duration": 5961,
+    "offset": 152519,
+    "lang": "es"
+  },
+  {
+    "text": "cuando van a hacer el",
+    "duration": 3320,
+    "offset": 155160,
+    "lang": "es"
+  },
+  {
+    "text": "annotation se tienen que fijar de",
+    "duration": 5160,
+    "offset": 158680,
+    "lang": "es"
+  },
+  {
+    "text": "ordenar la imagen yo lo hice siempre",
+    "duration": 4160,
+    "offset": 161840,
+    "lang": "es"
+  },
+  {
+    "text": "primero ordenaba el top y después el",
+    "duration": 5640,
+    "offset": 163840,
+    "lang": "es"
+  },
+  {
+    "text": "bottom entonces después cuando van a",
+    "duration": 8159,
+    "offset": 166000,
+    "lang": "es"
+  },
+  {
+    "text": "rata acá les muestra la posición del id0",
+    "duration": 7679,
+    "offset": 169480,
+    "lang": "es"
+  },
+  {
+    "text": "que en este caso es el bottom y el id1",
+    "duration": 4841,
+    "offset": 174159,
+    "lang": "es"
+  },
+  {
+    "text": "que en este caso es el top y tienen que",
+    "duration": 4401,
+    "offset": 177159,
+    "lang": "es"
+  },
+  {
+    "text": "chequear en cada uno de los annotation",
+    "duration": 5840,
+    "offset": 179000,
+    "lang": "es"
+  },
+  {
+    "text": "que hacen que los ID se mantengan",
+    "duration": 5120,
+    "offset": 181560,
+    "lang": "es"
+  },
+  {
+    "text": "siempre los mismos y",
+    "duration": 5000,
+    "offset": 184840,
+    "lang": "es"
+  },
+  {
+    "text": "coherentes porque si no después no van a",
+    "duration": 5600,
+    "offset": 186680,
+    "lang": "es"
+  },
+  {
+    "text": "saber cuál es el top y cuál es el botón",
+    "duration": 5600,
+    "offset": 189840,
+    "lang": "es"
+  },
+  {
+    "text": "si es que va cambiando en cada uno y eso",
+    "duration": 5760,
+    "offset": 192280,
+    "lang": "es"
+  },
+  {
+    "text": "depende de cómo es que ordenan los",
+    "duration": 4719,
+    "offset": 195440,
+    "lang": "es"
+  },
+  {
+    "text": "puntos siempre tienen que ordenar",
+    "duration": 5800,
+    "offset": 198040,
+    "lang": "es"
+  },
+  {
+    "text": "primero el mismo punto y después el otro",
+    "duration": 5761,
+    "offset": 200159,
+    "lang": "es"
+  },
+  {
+    "text": "siempre tiene que ser en el mismo orden",
+    "duration": 4280,
+    "offset": 203840,
+    "lang": "es"
+  },
+  {
+    "text": "para que los ID los ponga siempre en el",
+    "duration": 4239,
+    "offset": 205920,
+    "lang": "es"
+  },
+  {
+    "text": "mismo orden si lo ordenan en un orden",
+    "duration": 4759,
+    "offset": 208120,
+    "lang": "es"
+  },
+  {
+    "text": "alterado va a estar alterado el ID no",
+    "duration": 4201,
+    "offset": 210159,
+    "lang": "es"
+  },
+  {
+    "text": "les va a",
+    "duration": 4241,
+    "offset": 212879,
+    "lang": "es"
+  },
+  {
+    "text": "servir entonces una vez que hicieron",
+    "duration": 4680,
+    "offset": 214360,
+    "lang": "es"
+  },
+  {
+    "text": "subieron la imagen se la anotaron",
+    "duration": 4119,
+    "offset": 217120,
+    "lang": "es"
+  },
+  {
+    "text": "crearon las clases hicieron el skeleton",
+    "duration": 3640,
+    "offset": 219040,
+    "lang": "es"
+  },
+  {
+    "text": "y hacen el",
+    "duration": 4000,
+    "offset": 221239,
+    "lang": "es"
+  },
+  {
+    "text": "annotation lo que tienen que hacer es",
+    "duration": 5600,
+    "offset": 222680,
+    "lang": "es"
+  },
+  {
+    "text": "generar el dataset acá les da para",
+    "duration": 5521,
+    "offset": 225239,
+    "lang": "es"
+  },
+  {
+    "text": "generar el dataset Yo acá ya lo tengo",
+    "duration": 4799,
+    "offset": 228280,
+    "lang": "es"
+  },
+  {
+    "text": "generado ahora qué es lo que pasa si",
+    "duration": 5960,
+    "offset": 230760,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes pagan Tienen que pueden",
+    "duration": 6000,
+    "offset": 233079,
+    "lang": "es"
+  },
+  {
+    "text": "entrenarlo acá mismo dentro de la página",
+    "duration": 5200,
+    "offset": 236720,
+    "lang": "es"
+  },
+  {
+    "text": "de Rob pero si no pagan pueden elegir",
+    "duration": 6121,
+    "offset": 239079,
+    "lang": "es"
+  },
+  {
+    "text": "como hago yo exportar el",
+    "duration": 6480,
+    "offset": 241920,
+    "lang": "es"
+  },
+  {
+    "text": "dataset y acá les va a dar un snippet de",
+    "duration": 5160,
+    "offset": 245200,
+    "lang": "es"
+  },
+  {
+    "text": "código que después vamos a ver dónde es",
+    "duration": 5160,
+    "offset": 248400,
+    "lang": "es"
+  },
+  {
+    "text": "que lo tienen que",
+    "duration": 3200,
+    "offset": 250360,
+    "lang": "es"
+  },
+  {
+    "text": "poner",
+    "duration": 3000,
+    "offset": 254400,
+    "lang": "es"
+  }
+]

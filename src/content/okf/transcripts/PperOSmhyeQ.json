@@ -1,0 +1,752 @@
+[
+  {
+    "text": "Siguiendo con nuestro uso de MCP, lo que",
+    "duration": 8240,
+    "offset": 1120,
+    "lang": "es"
+  },
+  {
+    "text": "creamos ahora es un text, que lo que va",
+    "duration": 7441,
+    "offset": 4839,
+    "lang": "es"
+  },
+  {
+    "text": "a hacer es transformar el lenguaje",
+    "duration": 7400,
+    "offset": 9360,
+    "lang": "es"
+  },
+  {
+    "text": "natural en sentencias de SQL. Eh,",
+    "duration": 8280,
+    "offset": 12280,
+    "lang": "es"
+  },
+  {
+    "text": "para poder probar tenemos un SQL Light.",
+    "duration": 8800,
+    "offset": 16760,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, le vamos a iniciar el",
+    "duration": 5000,
+    "offset": 20560,
+    "lang": "es"
+  },
+  {
+    "text": "chatbot. Eh, una vez que inicie, lo que",
+    "duration": 6641,
+    "offset": 28679,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a hacer es",
+    "duration": 6200,
+    "offset": 32800,
+    "lang": "es"
+  },
+  {
+    "text": "preguntarle cuáles son todas las tablas",
+    "duration": 9000,
+    "offset": 35320,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene la base de datos.",
+    "duration": 5320,
+    "offset": 39000,
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuáles",
+    "duration": 3000,
+    "offset": 49600,
+    "lang": "es"
+  },
+  {
+    "text": "son las tablas",
+    "duration": 5200,
+    "offset": 53039,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 4680,
+    "offset": 56160,
+    "lang": "es"
+  },
+  {
+    "text": "que que tiene",
+    "duration": 7681,
+    "offset": 58239,
+    "lang": "es"
+  },
+  {
+    "text": "la base de datos?",
+    "duration": 5080,
+    "offset": 60840,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, entonces acá nos dice que la base",
+    "duration": 6600,
+    "offset": 69280,
+    "lang": "es"
+  },
+  {
+    "text": "de datos contiene la tabla personas. Me",
+    "duration": 6440,
+    "offset": 71520,
+    "lang": "es"
+  },
+  {
+    "text": "podés",
+    "duration": 5080,
+    "offset": 75880,
+    "lang": "es"
+  },
+  {
+    "text": "listar",
+    "duration": 3000,
+    "offset": 77960,
+    "lang": "es"
+  },
+  {
+    "text": "todas todo el",
+    "duration": 8080,
+    "offset": 83200,
+    "lang": "es"
+  },
+  {
+    "text": "contenido de personas.",
+    "duration": 7400,
+    "offset": 86200,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí le pedimos, fíjense que es lenguaje",
+    "duration": 6040,
+    "offset": 91280,
+    "lang": "es"
+  },
+  {
+    "text": "coloquial y acá nos dice que tiene la",
+    "duration": 6680,
+    "offset": 93600,
+    "lang": "es"
+  },
+  {
+    "text": "fila eh nombre Diego y apellido Rasero.",
+    "duration": 5040,
+    "offset": 97320,
+    "lang": "es"
+  },
+  {
+    "text": "O sea, estos son las nombres de columnas",
+    "duration": 4159,
+    "offset": 100280,
+    "lang": "es"
+  },
+  {
+    "text": "y esto es lo único que tiene que es",
+    "duration": 3399,
+    "offset": 102360,
+    "lang": "es"
+  },
+  {
+    "text": "Diego Racero. Lo que le vamos a decir",
+    "duration": 4081,
+    "offset": 104439,
+    "lang": "es"
+  },
+  {
+    "text": "es, ¿me podés",
+    "duration": 5761,
+    "offset": 105759,
+    "lang": "es"
+  },
+  {
+    "text": "dar",
+    "duration": 3000,
+    "offset": 108520,
+    "lang": "es"
+  },
+  {
+    "text": "los",
+    "duration": 3000,
+    "offset": 112079,
+    "lang": "es"
+  },
+  {
+    "text": "comandos? ¿Qué usaste para dar las",
+    "duration": 7561,
+    "offset": 117719,
+    "lang": "es"
+  },
+  {
+    "text": "respuestas? Fíjense que este chat de",
+    "duration": 5279,
+    "offset": 122960,
+    "lang": "es"
+  },
+  {
+    "text": "Google que implementa a través de un MSP",
+    "duration": 6520,
+    "offset": 125280,
+    "lang": "es"
+  },
+  {
+    "text": "Server eh la conexión SQL Lite tiene",
+    "duration": 6961,
+    "offset": 128239,
+    "lang": "es"
+  },
+  {
+    "text": "también memoria de la sesión. Entonces",
+    "duration": 5560,
+    "offset": 131800,
+    "lang": "es"
+  },
+  {
+    "text": "por eso recuerdo y mantiene la eh",
+    "duration": 5240,
+    "offset": 135200,
+    "lang": "es"
+  },
+  {
+    "text": "coherencia de la información. Y ahí",
+    "duration": 5519,
+    "offset": 137360,
+    "lang": "es"
+  },
+  {
+    "text": "bien, fíjense que acá me da select name",
+    "duration": 5720,
+    "offset": 140440,
+    "lang": "es"
+  },
+  {
+    "text": "from Master type table. Esta es para las",
+    "duration": 6241,
+    "offset": 142879,
+    "lang": "es"
+  },
+  {
+    "text": "tablas y esta es para la segunda. ¿Ven",
+    "duration": 4640,
+    "offset": 146160,
+    "lang": "es"
+  },
+  {
+    "text": "como acá me pasa parte todos los",
+    "duration": 3240,
+    "offset": 149120,
+    "lang": "es"
+  },
+  {
+    "text": "comandos?",
+    "duration": 4840,
+    "offset": 150800,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué tiene de bueno? Bien, copilot lo",
+    "duration": 7120,
+    "offset": 152360,
+    "lang": "es"
+  },
+  {
+    "text": "puedo el copilot de de GitHut Copilot",
+    "duration": 6400,
+    "offset": 155640,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene Visual Studio Code, lo puedo",
+    "duration": 5360,
+    "offset": 159480,
+    "lang": "es"
+  },
+  {
+    "text": "conectar a un MSP Server. Yo en este",
+    "duration": 5360,
+    "offset": 162040,
+    "lang": "es"
+  },
+  {
+    "text": "caso lo conecté al MSP Server de",
+    "duration": 4880,
+    "offset": 164840,
+    "lang": "es"
+  },
+  {
+    "text": "Playright. ¿Para qué? Porque Playright",
+    "duration": 5800,
+    "offset": 167400,
+    "lang": "es"
+  },
+  {
+    "text": "se conecta a internet y puede realizar",
+    "duration": 7480,
+    "offset": 169720,
+    "lang": "es"
+  },
+  {
+    "text": "búsquedas. Vamos a abrir el chat.",
+    "duration": 7039,
+    "offset": 173200,
+    "lang": "es"
+  },
+  {
+    "text": "Este chat lo voy a poner en modo agente.",
+    "duration": 6440,
+    "offset": 177200,
+    "lang": "es"
+  },
+  {
+    "text": "Acá aparecen todas las eh las",
+    "duration": 6920,
+    "offset": 180239,
+    "lang": "es"
+  },
+  {
+    "text": "herramientas MCP que tiene el MCP Server",
+    "duration": 5280,
+    "offset": 183640,
+    "lang": "es"
+  },
+  {
+    "text": "de Playwright.",
+    "duration": 5640,
+    "offset": 187159,
+    "lang": "es"
+  },
+  {
+    "text": "Es muy importante eh, para todo lo el",
+    "duration": 6039,
+    "offset": 188920,
+    "lang": "es"
+  },
+  {
+    "text": "que está haciendo trabajos de",
+    "duration": 7201,
+    "offset": 192799,
+    "lang": "es"
+  },
+  {
+    "text": "programación y le vamos a decir si me",
+    "duration": 5041,
+    "offset": 194959,
+    "lang": "es"
+  },
+  {
+    "text": "podés",
+    "duration": 3000,
+    "offset": 200120,
+    "lang": "es"
+  },
+  {
+    "text": "transformar este código en una API",
+    "duration": 8200,
+    "offset": 204640,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 3000,
+    "offset": 209840,
+    "lang": "es"
+  },
+  {
+    "text": "backend",
+    "duration": 4681,
+    "offset": 213879,
+    "lang": "es"
+  },
+  {
+    "text": "con fast.",
+    "duration": 5800,
+    "offset": 216480,
+    "lang": "es"
+  },
+  {
+    "text": "AP. Entonces ahí le pedimos, fíjense que",
+    "duration": 7520,
+    "offset": 218560,
+    "lang": "es"
+  },
+  {
+    "text": "el agente ahora el el Copilot va a",
+    "duration": 6080,
+    "offset": 222280,
+    "lang": "es"
+  },
+  {
+    "text": "utilizar Playwright, va se va a conectar",
+    "duration": 3760,
+    "offset": 226080,
+    "lang": "es"
+  },
+  {
+    "text": "a",
+    "duration": 5120,
+    "offset": 228360,
+    "lang": "es"
+  },
+  {
+    "text": "internet, va a utilizar Playwright y con",
+    "duration": 7200,
+    "offset": 229840,
+    "lang": "es"
+  },
+  {
+    "text": "eh esa conexión a internet lo que va a",
+    "duration": 6080,
+    "offset": 233480,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es me va a pasar el código para",
+    "duration": 6080,
+    "offset": 237040,
+    "lang": "es"
+  },
+  {
+    "text": "transformar este archivo que yo tengo en",
+    "duration": 6800,
+    "offset": 239560,
+    "lang": "es"
+  },
+  {
+    "text": "una API de backend con",
+    "duration": 5959,
+    "offset": 243120,
+    "lang": "es"
+  },
+  {
+    "text": "fasti. Vamos a esperar. Ya en cualquier",
+    "duration": 4719,
+    "offset": 246360,
+    "lang": "es"
+  },
+  {
+    "text": "momento nos va a dar la",
+    "duration": 5561,
+    "offset": 249079,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta. Ahí lo está",
+    "duration": 3561,
+    "offset": 251079,
+    "lang": "es"
+  },
+  {
+    "text": "generando. Ahí ya empieza a generar el",
+    "duration": 4321,
+    "offset": 260639,
+    "lang": "es"
+  },
+  {
+    "text": "código. Fíjense, la verdad que es",
+    "duration": 4880,
+    "offset": 263120,
+    "lang": "es"
+  },
+  {
+    "text": "bastante rápido. Y ahí le vamos a dar",
+    "duration": 5200,
+    "offset": 264960,
+    "lang": "es"
+  },
+  {
+    "text": "keep.",
+    "duration": 8759,
+    "offset": 268000,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá ya generó la API de Backem con",
+    "duration": 6599,
+    "offset": 270160,
+    "lang": "es"
+  },
+  {
+    "text": "fasti. Y fíjense que genera también el",
+    "duration": 10120,
+    "offset": 277840,
+    "lang": "es"
+  },
+  {
+    "text": "requirement txt para asegurar que eh que",
+    "duration": 6880,
+    "offset": 281080,
+    "lang": "es"
+  },
+  {
+    "text": "tenga bien. Y acá me dice inclusive cómo",
+    "duration": 6241,
+    "offset": 288199,
+    "lang": "es"
+  },
+  {
+    "text": "correrlo. Acá me pone el requirement xt",
+    "duration": 5440,
+    "offset": 291440,
+    "lang": "es"
+  },
+  {
+    "text": "a donde se fije que este código tenga",
+    "duration": 5400,
+    "offset": 294440,
+    "lang": "es"
+  },
+  {
+    "text": "todo lo",
+    "duration": 4480,
+    "offset": 296880,
+    "lang": "es"
+  },
+  {
+    "text": "necesario.",
+    "duration": 4040,
+    "offset": 299840,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, le voy a dar cancel porque no",
+    "duration": 4080,
+    "offset": 301360,
+    "lang": "es"
+  },
+  {
+    "text": "quiero que",
+    "duration": 4800,
+    "offset": 303880,
+    "lang": "es"
+  },
+  {
+    "text": "que me inicie el servidor, pero bien, ya",
+    "duration": 8599,
+    "offset": 305440,
+    "lang": "es"
+  },
+  {
+    "text": "hizo el me creó y me dice cómo",
+    "duration": 9200,
+    "offset": 308680,
+    "lang": "es"
+  },
+  {
+    "text": "utilizarlo el",
+    "duration": 6961,
+    "offset": 314039,
+    "lang": "es"
+  },
+  {
+    "text": "este el",
+    "duration": 7960,
+    "offset": 317880,
+    "lang": "es"
+  },
+  {
+    "text": "código para poder hacer la eh la API de",
+    "duration": 6960,
+    "offset": 321000,
+    "lang": "es"
+  },
+  {
+    "text": "Backen. Acá lo tengo. Me pasé a otro",
+    "duration": 3840,
+    "offset": 325840,
+    "lang": "es"
+  },
+  {
+    "text": "justo que estaba ahí toqueteando, pero",
+    "duration": 3560,
+    "offset": 327960,
+    "lang": "es"
+  },
+  {
+    "text": "este era el código original que yo le",
+    "duration": 5799,
+    "offset": 329680,
+    "lang": "es"
+  },
+  {
+    "text": "pedía, que es el que tiene el SQL",
+    "duration": 3959,
+    "offset": 331520,
+    "lang": "es"
+  },
+  {
+    "text": "Lite. Bien, acá está cómo es que se",
+    "duration": 6679,
+    "offset": 336520,
+    "lang": "es"
+  },
+  {
+    "text": "maneja la API de backend, el OI para",
+    "duration": 6600,
+    "offset": 340240,
+    "lang": "es"
+  },
+  {
+    "text": "verificar la eh salud del servicio y",
+    "duration": 6961,
+    "offset": 343199,
+    "lang": "es"
+  },
+  {
+    "text": "demás. Eh, ¿qué podemos hacer acá? Le",
+    "duration": 7960,
+    "offset": 346840,
+    "lang": "es"
+  },
+  {
+    "text": "podemos decir si podés",
+    "duration": 4640,
+    "offset": 350160,
+    "lang": "es"
+  },
+  {
+    "text": "conectarte a internet.",
+    "duration": 4000,
+    "offset": 354919,
+    "lang": "es"
+  },
+  {
+    "text": "y ver si",
+    "duration": 6079,
+    "offset": 359680,
+    "lang": "es"
+  },
+  {
+    "text": "hay algo hecho",
+    "duration": 7160,
+    "offset": 362120,
+    "lang": "es"
+  },
+  {
+    "text": "con estos",
+    "duration": 3521,
+    "offset": 365759,
+    "lang": "es"
+  },
+  {
+    "text": "features. Ahí le decimos si puede",
+    "duration": 5240,
+    "offset": 369720,
+    "lang": "es"
+  },
+  {
+    "text": "conectarse internet y ver si hay algún",
+    "duration": 6560,
+    "offset": 371720,
+    "lang": "es"
+  },
+  {
+    "text": "servidor de backend que utilice el MCP",
+    "duration": 5720,
+    "offset": 374960,
+    "lang": "es"
+  },
+  {
+    "text": "Server. Voy a buscar información sobre",
+    "duration": 4319,
+    "offset": 378280,
+    "lang": "es"
+  },
+  {
+    "text": "las inventaciones similares de MSP",
+    "duration": 5480,
+    "offset": 380680,
+    "lang": "es"
+  },
+  {
+    "text": "Model, Concurrant y Fast Appi. Déjame",
+    "duration": 7121,
+    "offset": 382599,
+    "lang": "es"
+  },
+  {
+    "text": "algunas para investigar. FCH. Acá dice",
+    "duration": 7319,
+    "offset": 386160,
+    "lang": "es"
+  },
+  {
+    "text": "las páginas que va a fechar. Bien. y así",
+    "duration": 6879,
+    "offset": 389720,
+    "lang": "es"
+  },
+  {
+    "text": "va buscando. Bueno, este es el MCP",
+    "duration": 5801,
+    "offset": 393479,
+    "lang": "es"
+  },
+  {
+    "text": "Server puesto al servicio de Visual",
+    "duration": 5600,
+    "offset": 396599,
+    "lang": "es"
+  },
+  {
+    "text": "Studio Code para que",
+    "duration": 4600,
+    "offset": 399280,
+    "lang": "es"
+  },
+  {
+    "text": "pueda",
+    "duration": 4881,
+    "offset": 402199,
+    "lang": "es"
+  },
+  {
+    "text": "generar distintas",
+    "duration": 6080,
+    "offset": 403880,
+    "lang": "es"
+  },
+  {
+    "text": "este distintas búsquedas en internet y",
+    "duration": 6200,
+    "offset": 407080,
+    "lang": "es"
+  },
+  {
+    "text": "pueda ayudarnos a hacer mejor nuestro",
+    "duration": 5320,
+    "offset": 409960,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo. Bien, para todos los que",
+    "duration": 3639,
+    "offset": 413280,
+    "lang": "es"
+  },
+  {
+    "text": "querían ver una implementación real de",
+    "duration": 4479,
+    "offset": 415280,
+    "lang": "es"
+  },
+  {
+    "text": "un MCP Server, yo creo que esta ya está",
+    "duration": 5720,
+    "offset": 416919,
+    "lang": "es"
+  },
+  {
+    "text": "más que suficiente.",
+    "duration": 2880,
+    "offset": 419759,
+    "lang": "es"
+  }
+]

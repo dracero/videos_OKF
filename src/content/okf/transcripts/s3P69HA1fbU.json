@@ -1,0 +1,248 @@
+[
+  {
+    "text": "tengo grabados tres archivos de audio el",
+    "duration": 6159,
+    "offset": 2480,
+    "lang": "es"
+  },
+  {
+    "text": "primero es con mi voz bueno Esto es una",
+    "duration": 4441,
+    "offset": 6399,
+    "lang": "es"
+  },
+  {
+    "text": "prueba Porque necesitamos un archivo W",
+    "duration": 5880,
+    "offset": 8639,
+    "lang": "es"
+  },
+  {
+    "text": "para ver si genera los",
+    "duration": 3679,
+    "offset": 10840,
+    "lang": "es"
+  },
+  {
+    "text": "edit el segundo también es con mi voz",
+    "duration": 6280,
+    "offset": 15960,
+    "lang": "es"
+  },
+  {
+    "text": "Esto es para ver si Bueno si realmente",
+    "duration": 4520,
+    "offset": 19240,
+    "lang": "es"
+  },
+  {
+    "text": "sirve porque estoy diciendo cosas",
+    "duration": 3440,
+    "offset": 22240,
+    "lang": "es"
+  },
+  {
+    "text": "totalmente diferentes pero es para ver",
+    "duration": 4800,
+    "offset": 23760,
+    "lang": "es"
+  },
+  {
+    "text": "si detecta la voz o qué",
+    "duration": 6880,
+    "offset": 25680,
+    "lang": "es"
+  },
+  {
+    "text": "detecta y el tercero",
+    "duration": 4000,
+    "offset": 28560,
+    "lang": "es"
+  },
+  {
+    "text": "son aplausos y ruido entonces lo que voy",
+    "duration": 6319,
+    "offset": 33760,
+    "lang": "es"
+  },
+  {
+    "text": "a hacer es usar el algoritmo de",
+    "duration": 5440,
+    "offset": 37000,
+    "lang": "es"
+  },
+  {
+    "text": "similaridad para ver si es que lo",
+    "duration": 6201,
+    "offset": 40079,
+    "lang": "es"
+  },
+  {
+    "text": "detecta o no lo detecta",
+    "duration": 7240,
+    "offset": 42440,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá",
+    "duration": 3400,
+    "offset": 46280,
+    "lang": "es"
+  },
+  {
+    "text": "estoy qué es lo que voy a hacer primero",
+    "duration": 7039,
+    "offset": 50360,
+    "lang": "es"
+  },
+  {
+    "text": "eh voy a poner el",
+    "duration": 4200,
+    "offset": 53199,
+    "lang": "es"
+  },
+  {
+    "text": "sonido de mi voz que es sound y lo voy a",
+    "duration": 6800,
+    "offset": 58480,
+    "lang": "es"
+  },
+  {
+    "text": "comparar con el sonido que ya guardé en",
+    "duration": 4200,
+    "offset": 63320,
+    "lang": "es"
+  },
+  {
+    "text": "la base de datos qdb a y lo que voy a",
+    "duration": 5800,
+    "offset": 65280,
+    "lang": "es"
+  },
+  {
+    "text": "ver es esto el nn",
+    "duration": 3560,
+    "offset": 67520,
+    "lang": "es"
+  },
+  {
+    "text": "distance que me da el índice de",
+    "duration": 4479,
+    "offset": 71320,
+    "lang": "es"
+  },
+  {
+    "text": "similaridad fíjense que hay el nn",
+    "duration": 5600,
+    "offset": 79479,
+    "lang": "es"
+  },
+  {
+    "text": "distance si bien digo palabras que son",
+    "duration": 6079,
+    "offset": 82400,
+    "lang": "es"
+  },
+  {
+    "text": "totalmente distintas el nn distance es",
+    "duration": 5201,
+    "offset": 85079,
+    "lang": "es"
+  },
+  {
+    "text": "08",
+    "duration": 5521,
+    "offset": 88479,
+    "lang": "es"
+  },
+  {
+    "text": "es un es un uno muy similar si yo le",
+    "duration": 6080,
+    "offset": 90280,
+    "lang": "es"
+  },
+  {
+    "text": "pongo",
+    "duration": 2360,
+    "offset": 94000,
+    "lang": "es"
+  },
+  {
+    "text": "sonido eh Me faltó acá la",
+    "duration": 7800,
+    "offset": 104880,
+    "lang": "es"
+  },
+  {
+    "text": "p si le pongo sonido que es exactamente",
+    "duration": 6921,
+    "offset": 108079,
+    "lang": "es"
+  },
+  {
+    "text": "lo mismo que está guardado en la base de",
+    "duration": 4359,
+    "offset": 112680,
+    "lang": "es"
+  },
+  {
+    "text": "datos es el mismo",
+    "duration": 5560,
+    "offset": 115000,
+    "lang": "es"
+  },
+  {
+    "text": "sonido cuando pongo para ver los result",
+    "duration": 8720,
+    "offset": 117039,
+    "lang": "es"
+  },
+  {
+    "text": "me da uno y si le pongo Clap que son los",
+    "duration": 5199,
+    "offset": 120560,
+    "lang": "es"
+  },
+  {
+    "text": "aplausos ahí le puse Clap que son los",
+    "duration": 6440,
+    "offset": 130720,
+    "lang": "es"
+  },
+  {
+    "text": "aplausos y vamos a ver cuánto da fíjense",
+    "duration": 6480,
+    "offset": 133640,
+    "lang": "es"
+  },
+  {
+    "text": "02 lo que significa que hay una",
+    "duration": 6320,
+    "offset": 137160,
+    "lang": "es"
+  },
+  {
+    "text": "distancia muy grande del Clap al sonido",
+    "duration": 6320,
+    "offset": 140120,
+    "lang": "es"
+  },
+  {
+    "text": "de mi voz y bueno esto sirve para",
+    "duration": 5600,
+    "offset": 143480,
+    "lang": "es"
+  },
+  {
+    "text": "ingresar proms de sonido y detectar la",
+    "duration": 7000,
+    "offset": 146440,
+    "lang": "es"
+  },
+  {
+    "text": "voz de la persona que está hablando",
+    "duration": 4360,
+    "offset": 149080,
+    "lang": "es"
+  }
+]

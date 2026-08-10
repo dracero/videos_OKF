@@ -1,0 +1,680 @@
+[
+  {
+    "text": "Bueno, lo que vamos a mostrar ahora es",
+    "duration": 8920,
+    "offset": 2280,
+    "lang": "es"
+  },
+  {
+    "text": "cómo eh podemos generar un RMI con todos",
+    "duration": 9080,
+    "offset": 5920,
+    "lang": "es"
+  },
+  {
+    "text": "los detalles de un software que estamos",
+    "duration": 7680,
+    "offset": 11200,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo directamente utilizando el",
+    "duration": 8960,
+    "offset": 15000,
+    "lang": "es"
+  },
+  {
+    "text": "agente de eh",
+    "duration": 7840,
+    "offset": 18880,
+    "lang": "es"
+  },
+  {
+    "text": "el modo agente de Visual Studio Code.",
+    "duration": 5040,
+    "offset": 23960,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, ¿qué le voy a decir? Le voy a",
+    "duration": 5959,
+    "offset": 26720,
+    "lang": "es"
+  },
+  {
+    "text": "decir que me",
+    "duration": 3679,
+    "offset": 29000,
+    "lang": "es"
+  },
+  {
+    "text": "podés armar un",
+    "duration": 5400,
+    "offset": 32880,
+    "lang": "es"
+  },
+  {
+    "text": "RMI",
+    "duration": 6919,
+    "offset": 36120,
+    "lang": "es"
+  },
+  {
+    "text": "pun MD dentro del",
+    "duration": 7759,
+    "offset": 38280,
+    "lang": "es"
+  },
+  {
+    "text": "directorio",
+    "duration": 3000,
+    "offset": 43039,
+    "lang": "es"
+  },
+  {
+    "text": "A2A.",
+    "duration": 6000,
+    "offset": 46960,
+    "lang": "es"
+  },
+  {
+    "text": "A2 A",
+    "duration": 6040,
+    "offset": 49920,
+    "lang": "es"
+  },
+  {
+    "text": "multient",
+    "duration": 3000,
+    "offset": 52960,
+    "lang": "es"
+  },
+  {
+    "text": "que",
+    "duration": 5399,
+    "offset": 56840,
+    "lang": "es"
+  },
+  {
+    "text": "explique",
+    "duration": 3000,
+    "offset": 59239,
+    "lang": "es"
+  },
+  {
+    "text": "cómo armar",
+    "duration": 7119,
+    "offset": 65360,
+    "lang": "es"
+  },
+  {
+    "text": "el punto,",
+    "duration": 3919,
+    "offset": 68560,
+    "lang": "es"
+  },
+  {
+    "text": "cómo iniciar los",
+    "duration": 7481,
+    "offset": 73159,
+    "lang": "es"
+  },
+  {
+    "text": "agentes ¿Cómo iniciar",
+    "duration": 5600,
+    "offset": 77080,
+    "lang": "es"
+  },
+  {
+    "text": "el",
+    "duration": 4799,
+    "offset": 80640,
+    "lang": "es"
+  },
+  {
+    "text": "orquestador",
+    "duration": 9799,
+    "offset": 82680,
+    "lang": "es"
+  },
+  {
+    "text": "y que se usa por línea de",
+    "duration": 13881,
+    "offset": 85439,
+    "lang": "es"
+  },
+  {
+    "text": "comandos? Porque tiene el decorator",
+    "duration": 6841,
+    "offset": 92479,
+    "lang": "es"
+  },
+  {
+    "text": "click. Ahí le dije que me cree",
+    "duration": 6600,
+    "offset": 100119,
+    "lang": "es"
+  },
+  {
+    "text": "un RITMI dentro de este directorio. Ahí",
+    "duration": 6120,
+    "offset": 103520,
+    "lang": "es"
+  },
+  {
+    "text": "empieza a pensar y a trabajar. Vamos a",
+    "duration": 6680,
+    "offset": 106719,
+    "lang": "es"
+  },
+  {
+    "text": "ver cómo lo hace.",
+    "duration": 3759,
+    "offset": 109640,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí ya creó el RMI",
+    "duration": 6801,
+    "offset": 117119,
+    "lang": "es"
+  },
+  {
+    "text": "y ahora le va a poner todo el contenido",
+    "duration": 5799,
+    "offset": 121680,
+    "lang": "es"
+  },
+  {
+    "text": "que nosotros le le pedimos, le dijimos",
+    "duration": 6559,
+    "offset": 123920,
+    "lang": "es"
+  },
+  {
+    "text": "que pusiera. Fíjense como no tenemos que",
+    "duration": 5120,
+    "offset": 127479,
+    "lang": "es"
+  },
+  {
+    "text": "hacer nada más que pedirle que lo haga.",
+    "duration": 6161,
+    "offset": 130479,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense, ahí lo está creando.",
+    "duration": 6681,
+    "offset": 132599,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí pone cómo se tiene que crear el",
+    "duration": 5640,
+    "offset": 136640,
+    "lang": "es"
+  },
+  {
+    "text": "punto",
+    "duration": 3000,
+    "offset": 139280,
+    "lang": "es"
+  },
+  {
+    "text": "y acá",
+    "duration": 6560,
+    "offset": 145000,
+    "lang": "es"
+  },
+  {
+    "text": "está poniendo",
+    "duration": 3321,
+    "offset": 148239,
+    "lang": "es"
+  },
+  {
+    "text": "cómo instalar las dependencias y cómo",
+    "duration": 5640,
+    "offset": 153080,
+    "lang": "es"
+  },
+  {
+    "text": "iniciar",
+    "duration": 5440,
+    "offset": 156560,
+    "lang": "es"
+  },
+  {
+    "text": "cada uno de los servidores. O sea, ya",
+    "duration": 6960,
+    "offset": 158720,
+    "lang": "es"
+  },
+  {
+    "text": "está listo todo en el RID y acá dice lo",
+    "duration": 6760,
+    "offset": 162000,
+    "lang": "es"
+  },
+  {
+    "text": "que creó, cómo crear el archivo.",
+    "duration": 4960,
+    "offset": 165680,
+    "lang": "es"
+  },
+  {
+    "text": "Y qué debe conectar, cómo instalar las",
+    "duration": 3600,
+    "offset": 168760,
+    "lang": "es"
+  },
+  {
+    "text": "dependencias, cómo iniciar los agentes",
+    "duration": 3760,
+    "offset": 170640,
+    "lang": "es"
+  },
+  {
+    "text": "hijos, cómo iniciar el orquestador tanto",
+    "duration": 4000,
+    "offset": 172360,
+    "lang": "es"
+  },
+  {
+    "text": "como API, fast API como por líneas de",
+    "duration": 4320,
+    "offset": 174400,
+    "lang": "es"
+  },
+  {
+    "text": "comando click y ejemplos de uso de la",
+    "duration": 5080,
+    "offset": 176360,
+    "lang": "es"
+  },
+  {
+    "text": "API y notas importantes. Entonces, ya",
+    "duration": 7159,
+    "offset": 178720,
+    "lang": "es"
+  },
+  {
+    "text": "armó absolutamente todo el",
+    "duration": 6040,
+    "offset": 181440,
+    "lang": "es"
+  },
+  {
+    "text": "Ritmi.",
+    "duration": 5440,
+    "offset": 185879,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora lo podemos pulle directamente o si",
+    "duration": 7679,
+    "offset": 187480,
+    "lang": "es"
+  },
+  {
+    "text": "quisiéramos también",
+    "duration": 3840,
+    "offset": 191319,
+    "lang": "es"
+  },
+  {
+    "text": "escribí Mar Atlasian, pero le estoy",
+    "duration": 3920,
+    "offset": 210879,
+    "lang": "es"
+  },
+  {
+    "text": "preguntando. A ver, no me acuerdo si es",
+    "duration": 6601,
+    "offset": 212599,
+    "lang": "es"
+  },
+  {
+    "text": "que acá había activado el MCP server.",
+    "duration": 6921,
+    "offset": 214799,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, entrar en servicio externo, sin",
+    "duration": 4200,
+    "offset": 219200,
+    "lang": "es"
+  },
+  {
+    "text": "embargo, puedo ayudarte a preparar la",
+    "duration": 4960,
+    "offset": 221720,
+    "lang": "es"
+  },
+  {
+    "text": "documentación. Claro, acá yo no me había",
+    "duration": 5759,
+    "offset": 223400,
+    "lang": "es"
+  },
+  {
+    "text": "acordado, pero",
+    "duration": 6399,
+    "offset": 226680,
+    "lang": "es"
+  },
+  {
+    "text": "eh si vamos a e",
+    "duration": 8000,
+    "offset": 229159,
+    "lang": "es"
+  },
+  {
+    "text": "inicio preferencias settings y acá",
+    "duration": 7880,
+    "offset": 233079,
+    "lang": "es"
+  },
+  {
+    "text": "ponemos MCP",
+    "duration": 3800,
+    "offset": 237159,
+    "lang": "es"
+  },
+  {
+    "text": "y vamos a la parte de MCP Server. Yo acá",
+    "duration": 6201,
+    "offset": 242519,
+    "lang": "es"
+  },
+  {
+    "text": "no, el único que tengo es el de",
+    "duration": 4399,
+    "offset": 246200,
+    "lang": "es"
+  },
+  {
+    "text": "Playright,",
+    "duration": 5200,
+    "offset": 248720,
+    "lang": "es"
+  },
+  {
+    "text": "eh, pero acá si quisiera le podría",
+    "duration": 7920,
+    "offset": 250599,
+    "lang": "es"
+  },
+  {
+    "text": "conectar el MCP Server de Atlacean y que",
+    "duration": 7279,
+    "offset": 253920,
+    "lang": "es"
+  },
+  {
+    "text": "este Redmi con todos los comentarios lo",
+    "duration": 4641,
+    "offset": 258519,
+    "lang": "es"
+  },
+  {
+    "text": "mande directamente.",
+    "duration": 3641,
+    "offset": 261199,
+    "lang": "es"
+  },
+  {
+    "text": "Pero lo que le puedo decir, como tiene",
+    "duration": 5080,
+    "offset": 263160,
+    "lang": "es"
+  },
+  {
+    "text": "el MCP Server de",
+    "duration": 7680,
+    "offset": 264840,
+    "lang": "es"
+  },
+  {
+    "text": "Atlacian, perdón, el MCP Server de",
+    "duration": 7720,
+    "offset": 268240,
+    "lang": "es"
+  },
+  {
+    "text": "Playwgright, que es un web scrapper, lo",
+    "duration": 8239,
+    "offset": 272520,
+    "lang": "es"
+  },
+  {
+    "text": "que le puedo decir es si",
+    "duration": 8239,
+    "offset": 275960,
+    "lang": "es"
+  },
+  {
+    "text": "te podés conectar",
+    "duration": 5081,
+    "offset": 280759,
+    "lang": "es"
+  },
+  {
+    "text": "a",
+    "duration": 4641,
+    "offset": 284199,
+    "lang": "es"
+  },
+  {
+    "text": "internet,",
+    "duration": 3000,
+    "offset": 285840,
+    "lang": "es"
+  },
+  {
+    "text": "buscar",
+    "duration": 7359,
+    "offset": 289680,
+    "lang": "es"
+  },
+  {
+    "text": "formación de V y",
+    "duration": 6839,
+    "offset": 291800,
+    "lang": "es"
+  },
+  {
+    "text": "agregarla",
+    "duration": 3201,
+    "offset": 297039,
+    "lang": "es"
+  },
+  {
+    "text": "al",
+    "duration": 4361,
+    "offset": 298639,
+    "lang": "es"
+  },
+  {
+    "text": "Redmi",
+    "duration": 6040,
+    "offset": 300240,
+    "lang": "es"
+  },
+  {
+    "text": "y acá lo va a hacer utilizando el Model",
+    "duration": 5680,
+    "offset": 303000,
+    "lang": "es"
+  },
+  {
+    "text": "Context Protocol de Playwrite, que yo ya",
+    "duration": 4080,
+    "offset": 306280,
+    "lang": "es"
+  },
+  {
+    "text": "lo tengo instalado, el de Atlasia, me",
+    "duration": 4079,
+    "offset": 308680,
+    "lang": "es"
+  },
+  {
+    "text": "olvidé. ¿Ven? Acá dice, voy a ir,",
+    "duration": 4360,
+    "offset": 310360,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense, voy a ir a esta página. Me pide",
+    "duration": 4201,
+    "offset": 312759,
+    "lang": "es"
+  },
+  {
+    "text": "permiso porque, bueno, esto",
+    "duration": 3840,
+    "offset": 314720,
+    "lang": "es"
+  },
+  {
+    "text": "potencialmente puede ser un lío.",
+    "duration": 4600,
+    "offset": 316960,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, antes de escribir o hacer",
+    "duration": 4720,
+    "offset": 318560,
+    "lang": "es"
+  },
+  {
+    "text": "nada, me pide permiso para ir a esa",
+    "duration": 4759,
+    "offset": 321560,
+    "lang": "es"
+  },
+  {
+    "text": "página y va a la página de Astral V. Ahí",
+    "duration": 5680,
+    "offset": 323280,
+    "lang": "es"
+  },
+  {
+    "text": "va a buscar información respecto de V,",
+    "duration": 4481,
+    "offset": 326319,
+    "lang": "es"
+  },
+  {
+    "text": "la va a contrastar con la información",
+    "duration": 5160,
+    "offset": 328960,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene esto. Fíjense que la gente se",
+    "duration": 6360,
+    "offset": 330800,
+    "lang": "es"
+  },
+  {
+    "text": "está conectando al MCP Server, así como",
+    "duration": 5519,
+    "offset": 334120,
+    "lang": "es"
+  },
+  {
+    "text": "yo le pido que vaya y busque información",
+    "duration": 6360,
+    "offset": 337160,
+    "lang": "es"
+  },
+  {
+    "text": "y me escriba en el RMI que ACV,",
+    "duration": 6801,
+    "offset": 339639,
+    "lang": "es"
+  },
+  {
+    "text": "información",
+    "duration": 5760,
+    "offset": 343520,
+    "lang": "es"
+  },
+  {
+    "text": "confiable sacada directamente. es un",
+    "duration": 4879,
+    "offset": 346440,
+    "lang": "es"
+  },
+  {
+    "text": "gestor de P proyecto para Pythamente",
+    "duration": 3600,
+    "offset": 349280,
+    "lang": "es"
+  },
+  {
+    "text": "rápido escrito en RAST, reemplaza",
+    "duration": 4720,
+    "offset": 351319,
+    "lang": "es"
+  },
+  {
+    "text": "herramientas y acá esto está sacado, si",
+    "duration": 5840,
+    "offset": 352880,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes se fijan, de la página oficial,",
+    "duration": 4641,
+    "offset": 356039,
+    "lang": "es"
+  },
+  {
+    "text": "así como yo le pido que me dé",
+    "duration": 4880,
+    "offset": 358720,
+    "lang": "es"
+  },
+  {
+    "text": "información y la puedo si quiero guardar",
+    "duration": 5760,
+    "offset": 360680,
+    "lang": "es"
+  },
+  {
+    "text": "también dentro de el confluence, así",
+    "duration": 4560,
+    "offset": 363600,
+    "lang": "es"
+  },
+  {
+    "text": "también le puedo pedir que empiece a",
+    "duration": 3840,
+    "offset": 366440,
+    "lang": "es"
+  },
+  {
+    "text": "programar y que me haga él mismo los",
+    "duration": 5000,
+    "offset": 368160,
+    "lang": "es"
+  },
+  {
+    "text": "programas si yo tengo dónde está la",
+    "duration": 6680,
+    "offset": 370280,
+    "lang": "es"
+  },
+  {
+    "text": "documentación correcta.",
+    "duration": 3800,
+    "offset": 373160,
+    "lang": "es"
+  }
+]

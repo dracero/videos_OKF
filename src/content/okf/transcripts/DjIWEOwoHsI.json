@@ -1,0 +1,638 @@
+[
+  {
+    "text": "vamos a ver cómo es que empieza todo",
+    "duration": 6510,
+    "offset": 3470,
+    "lang": "es"
+  },
+  {
+    "text": "para la creación del champú todo empieza",
+    "duration": 5660,
+    "offset": 6260,
+    "lang": "es"
+  },
+  {
+    "text": "con una pregunta",
+    "duration": 5070,
+    "offset": 9980,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a hacer esta pregunta basada en un",
+    "duration": 7420,
+    "offset": 11920,
+    "lang": "es"
+  },
+  {
+    "text": "problema de la guía que es el en el",
+    "duration": 6880,
+    "offset": 15050,
+    "lang": "es"
+  },
+  {
+    "text": "cilindro que rueda",
+    "duration": 4990,
+    "offset": 19340,
+    "lang": "es"
+  },
+  {
+    "text": "en un caño que tiene mitad de rozamiento",
+    "duration": 5550,
+    "offset": 21930,
+    "lang": "es"
+  },
+  {
+    "text": "y mitad no como no está atado a una",
+    "duration": 5670,
+    "offset": 24330,
+    "lang": "es"
+  },
+  {
+    "text": "representación específica vamos a",
+    "duration": 4320,
+    "offset": 27480,
+    "lang": "es"
+  },
+  {
+    "text": "intentar hacer la pregunta de la forma",
+    "duration": 4620,
+    "offset": 30000,
+    "lang": "es"
+  },
+  {
+    "text": "lo más general posible para que en",
+    "duration": 4800,
+    "offset": 31800,
+    "lang": "es"
+  },
+  {
+    "text": "realidad se aplique para el cilindro o",
+    "duration": 3930,
+    "offset": 34620,
+    "lang": "es"
+  },
+  {
+    "text": "para cualquier otra superficie que tenga",
+    "duration": 3420,
+    "offset": 36600,
+    "lang": "es"
+  },
+  {
+    "text": "la característica qué parte tiene",
+    "duration": 4770,
+    "offset": 38550,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento y parte no la pregunta es qué",
+    "duration": 5370,
+    "offset": 40020,
+    "lang": "es"
+  },
+  {
+    "text": "pasa cuando el cuerpo rígido está",
+    "duration": 4230,
+    "offset": 43320,
+    "lang": "es"
+  },
+  {
+    "text": "rodando sin deslizar y en la superficie",
+    "duration": 3870,
+    "offset": 45390,
+    "lang": "es"
+  },
+  {
+    "text": "sobre la cual se mueve el índice de",
+    "duration": 4400,
+    "offset": 47550,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento se hace cero",
+    "duration": 5150,
+    "offset": 49260,
+    "lang": "es"
+  },
+  {
+    "text": "inspirado en ese problema pero genérico",
+    "duration": 5040,
+    "offset": 51950,
+    "lang": "es"
+  },
+  {
+    "text": "esta es la pregunta así es donde es como",
+    "duration": 4680,
+    "offset": 54410,
+    "lang": "es"
+  },
+  {
+    "text": "yo imagino que podría llegar a",
+    "duration": 4400,
+    "offset": 56990,
+    "lang": "es"
+  },
+  {
+    "text": "preguntarlo un alumno",
+    "duration": 4399,
+    "offset": 59090,
+    "lang": "es"
+  },
+  {
+    "text": "a partir de esa pregunta yo voy a",
+    "duration": 4650,
+    "offset": 61390,
+    "lang": "es"
+  },
+  {
+    "text": "estructurar una respuesta en un",
+    "duration": 4861,
+    "offset": 63489,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento de roto traslación el cuerpo",
+    "duration": 4130,
+    "offset": 66040,
+    "lang": "es"
+  },
+  {
+    "text": "rígido necesita que exista",
+    "duration": 5730,
+    "offset": 68350,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento para poder rodar sin deslizar",
+    "duration": 7850,
+    "offset": 70170,
+    "lang": "es"
+  },
+  {
+    "text": "entonces esto de acá",
+    "duration": 6849,
+    "offset": 74080,
+    "lang": "es"
+  },
+  {
+    "text": "este esta parte de acá que dice que",
+    "duration": 4949,
+    "offset": 78020,
+    "lang": "es"
+  },
+  {
+    "text": "necesita que exista rozamiento para",
+    "duration": 3900,
+    "offset": 80929,
+    "lang": "es"
+  },
+  {
+    "text": "poder rodar sin deslizar le vamos a",
+    "duration": 4911,
+    "offset": 82969,
+    "lang": "es"
+  },
+  {
+    "text": "poner intent",
+    "duration": 3051,
+    "offset": 84829,
+    "lang": "es"
+  },
+  {
+    "text": "es el nombre perdón de este le vamos a",
+    "duration": 4379,
+    "offset": 88600,
+    "lang": "es"
+  },
+  {
+    "text": "poner como nombre intento es una",
+    "duration": 2750,
+    "offset": 91119,
+    "lang": "es"
+  },
+  {
+    "text": "estructura",
+    "duration": 3750,
+    "offset": 92979,
+    "lang": "es"
+  },
+  {
+    "text": "que se llama intent y acá le vamos a",
+    "duration": 5961,
+    "offset": 93869,
+    "lang": "es"
+  },
+  {
+    "text": "poner como nombre",
+    "duration": 5851,
+    "offset": 96729,
+    "lang": "es"
+  },
+  {
+    "text": "rodadura",
+    "duration": 4280,
+    "offset": 99830,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 3720,
+    "offset": 102580,
+    "lang": "es"
+  },
+  {
+    "text": "después si en un movimiento derrotó la",
+    "duration": 4500,
+    "offset": 104110,
+    "lang": "es"
+  },
+  {
+    "text": "traslación sobre el cuerpo rígido actúa",
+    "duration": 4230,
+    "offset": 106300,
+    "lang": "es"
+  },
+  {
+    "text": "una fuerza en su centro de percusión",
+    "duration": 4140,
+    "offset": 108610,
+    "lang": "es"
+  },
+  {
+    "text": "entonces puede rodar sin deslizar con",
+    "duration": 3830,
+    "offset": 110530,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento nulo",
+    "duration": 6320,
+    "offset": 112750,
+    "lang": "es"
+  },
+  {
+    "text": "este de acá es el anti ti",
+    "duration": 4710,
+    "offset": 114360,
+    "lang": "es"
+  },
+  {
+    "text": "y le vamos a poner como nombre percusión",
+    "duration": 4849,
+    "offset": 119560,
+    "lang": "es"
+  },
+  {
+    "text": "si un cuerpo rígido acá estoy pensando",
+    "duration": 4650,
+    "offset": 128720,
+    "lang": "es"
+  },
+  {
+    "text": "siempre la respuesta si un cuerpo rígido",
+    "duration": 4230,
+    "offset": 131150,
+    "lang": "es"
+  },
+  {
+    "text": "ruedas sin deslizar no tiene una fuerza",
+    "duration": 4800,
+    "offset": 133370,
+    "lang": "es"
+  },
+  {
+    "text": "aplicada y no tiene reacción al izar no",
+    "duration": 4290,
+    "offset": 135380,
+    "lang": "es"
+  },
+  {
+    "text": "tiene una fuerza aplicada en su centro",
+    "duration": 3270,
+    "offset": 138170,
+    "lang": "es"
+  },
+  {
+    "text": "de percusión y el rozamiento se hace",
+    "duration": 5030,
+    "offset": 139670,
+    "lang": "es"
+  },
+  {
+    "text": "cero se mueve con velocidad angular",
+    "duration": 6060,
+    "offset": 141440,
+    "lang": "es"
+  },
+  {
+    "text": "constante entonces acá le vamos a poner",
+    "duration": 5240,
+    "offset": 144700,
+    "lang": "es"
+  },
+  {
+    "text": "este va a ser el roll",
+    "duration": 5020,
+    "offset": 147500,
+    "lang": "es"
+  },
+  {
+    "text": "el rol dentro de éste en tití y acá le",
+    "duration": 7790,
+    "offset": 149940,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a poner and under cord const",
+    "duration": 5210,
+    "offset": 152520,
+    "lang": "es"
+  },
+  {
+    "text": "bien este va a ser el roll",
+    "duration": 5360,
+    "offset": 158710,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que la primera entidad es el",
+    "duration": 5850,
+    "offset": 161190,
+    "lang": "es"
+  },
+  {
+    "text": "intento la segunda entidad es el en tití",
+    "duration": 5940,
+    "offset": 164070,
+    "lang": "es"
+  },
+  {
+    "text": "que aporta información a lo que indicaba",
+    "duration": 5610,
+    "offset": 167040,
+    "lang": "es"
+  },
+  {
+    "text": "el intent la tercera entidad es el rol",
+    "duration": 5430,
+    "offset": 170010,
+    "lang": "es"
+  },
+  {
+    "text": "que aportó en información adicional al",
+    "duration": 5640,
+    "offset": 172650,
+    "lang": "es"
+  },
+  {
+    "text": "entity y la última entidad que es el",
+    "duration": 6300,
+    "offset": 175440,
+    "lang": "es"
+  },
+  {
+    "text": "trade que es siempre un clasificador un",
+    "duration": 4710,
+    "offset": 178290,
+    "lang": "es"
+  },
+  {
+    "text": "clasificador se usa para hacer",
+    "duration": 4880,
+    "offset": 181740,
+    "lang": "es"
+  },
+  {
+    "text": "clasificaciones si el cuerpo rígido",
+    "duration": 5360,
+    "offset": 183000,
+    "lang": "es"
+  },
+  {
+    "text": "siempre que un cuerpo rígido tiene una",
+    "duration": 4410,
+    "offset": 186620,
+    "lang": "es"
+  },
+  {
+    "text": "rota traslación existe un ser y entonces",
+    "duration": 6349,
+    "offset": 188360,
+    "lang": "es"
+  },
+  {
+    "text": "a éste le vamos a poner root",
+    "duration": 3679,
+    "offset": 191030,
+    "lang": "es"
+  },
+  {
+    "text": "entonces qué es lo que pasa tenemos la",
+    "duration": 5160,
+    "offset": 200710,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta esa pregunta la estructura moss",
+    "duration": 5190,
+    "offset": 202870,
+    "lang": "es"
+  },
+  {
+    "text": "de tal manera de poder subdividir la en",
+    "duration": 4410,
+    "offset": 205870,
+    "lang": "es"
+  },
+  {
+    "text": "cuatro respuestas siempre pensándolo de",
+    "duration": 5160,
+    "offset": 208060,
+    "lang": "es"
+  },
+  {
+    "text": "forma general para que en algún momento",
+    "duration": 5160,
+    "offset": 210280,
+    "lang": "es"
+  },
+  {
+    "text": "también las otras entidades puedan ser",
+    "duration": 5680,
+    "offset": 213220,
+    "lang": "es"
+  },
+  {
+    "text": "reutilizadas en combinaciones",
+    "duration": 6070,
+    "offset": 215440,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que sucede ahora lo que",
+    "duration": 5880,
+    "offset": 218900,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que hacer es llevar esta",
+    "duration": 8039,
+    "offset": 221510,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta y los intentos al sistema de",
+    "duration": 7319,
+    "offset": 224780,
+    "lang": "es"
+  },
+  {
+    "text": "inteligencia artificial al sistema de lv",
+    "duration": 5791,
+    "offset": 229549,
+    "lang": "es"
+  },
+  {
+    "text": "para que pueda empezar a ser comprendido",
+    "duration": 4470,
+    "offset": 232099,
+    "lang": "es"
+  },
+  {
+    "text": "y para que el sistema de enero puede",
+    "duration": 3510,
+    "offset": 235340,
+    "lang": "es"
+  },
+  {
+    "text": "empezar a ser entrenado",
+    "duration": 4681,
+    "offset": 236569,
+    "lang": "es"
+  },
+  {
+    "text": "siempre tenemos que pensar en subdividir",
+    "duration": 4730,
+    "offset": 238850,
+    "lang": "es"
+  },
+  {
+    "text": "la respuesta en estas cuatro estructuras",
+    "duration": 5520,
+    "offset": 241250,
+    "lang": "es"
+  },
+  {
+    "text": "porque de esa manera vamos a obtener la",
+    "duration": 4890,
+    "offset": 243580,
+    "lang": "es"
+  },
+  {
+    "text": "mayor información",
+    "duration": 3800,
+    "offset": 246770,
+    "lang": "es"
+  },
+  {
+    "text": "y después también",
+    "duration": 5370,
+    "offset": 248470,
+    "lang": "es"
+  },
+  {
+    "text": "si él hacemos genérico vamos a poder",
+    "duration": 6430,
+    "offset": 250570,
+    "lang": "es"
+  },
+  {
+    "text": "reutilizar algunas de las estructuras en",
+    "duration": 7560,
+    "offset": 253840,
+    "lang": "es"
+  },
+  {
+    "text": "distintas respuestas entonces",
+    "duration": 4400,
+    "offset": 257000,
+    "lang": "es"
+  },
+  {
+    "text": "yo copié la respuesta",
+    "duration": 6860,
+    "offset": 261840,
+    "lang": "es"
+  },
+  {
+    "text": "aguardé me copió está acá",
+    "duration": 3950,
+    "offset": 264750,
+    "lang": "es"
+  },
+  {
+    "text": "a ver si me lo deja pegar",
+    "duration": 5759,
+    "offset": 272270,
+    "lang": "es"
+  },
+  {
+    "text": "y mira qué pasa cuando el cuerpo rígido",
+    "duration": 5640,
+    "offset": 275249,
+    "lang": "es"
+  },
+  {
+    "text": "está rodando sin deslizar y en la",
+    "duration": 4840,
+    "offset": 278029,
+    "lang": "es"
+  },
+  {
+    "text": "superficie sobre la cual se mueve el",
+    "duration": 3750,
+    "offset": 280889,
+    "lang": "es"
+  },
+  {
+    "text": "índice de rozamiento es cero acá me",
+    "duration": 3510,
+    "offset": 282869,
+    "lang": "es"
+  },
+  {
+    "text": "aparece algo porque ya estaba entrenado",
+    "duration": 4200,
+    "offset": 284639,
+    "lang": "es"
+  },
+  {
+    "text": "pero yo lo borro porque voy a crear",
+    "duration": 5640,
+    "offset": 286379,
+    "lang": "es"
+  },
+  {
+    "text": "cosas nuevas y entonces acá le voy a",
+    "duration": 4871,
+    "offset": 288839,
+    "lang": "es"
+  },
+  {
+    "text": "poner",
+    "duration": 6050,
+    "offset": 292019,
+    "lang": "es"
+  },
+  {
+    "text": "rodadura bien donde dice intent escribo",
+    "duration": 8940,
+    "offset": 293710,
+    "lang": "es"
+  },
+  {
+    "text": "rodadura y pongo crear un nuevo intento",
+    "duration": 4581,
+    "offset": 298069,
+    "lang": "es"
+  }
+]

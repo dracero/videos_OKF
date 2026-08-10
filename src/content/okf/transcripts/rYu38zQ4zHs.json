@@ -1,0 +1,80 @@
+[
+  {
+    "text": "una vez que nuestro modelo está",
+    "duration": 5520,
+    "offset": 680,
+    "lang": "es"
+  },
+  {
+    "text": "entrenado directamente lo podemos hacer",
+    "duration": 6760,
+    "offset": 2600,
+    "lang": "es"
+  },
+  {
+    "text": "correr Y utilizando el método Ke Point",
+    "duration": 5800,
+    "offset": 6200,
+    "lang": "es"
+  },
+  {
+    "text": "xi de 0 y de 1 podemos",
+    "duration": 6159,
+    "offset": 9360,
+    "lang": "es"
+  },
+  {
+    "text": "ver las coordenadas xi del top y del",
+    "duration": 6039,
+    "offset": 12000,
+    "lang": "es"
+  },
+  {
+    "text": "bottom Y con estas coordenadas x y lo",
+    "duration": 5641,
+    "offset": 15519,
+    "lang": "es"
+  },
+  {
+    "text": "que podemos hacer es detectar Cómo es la",
+    "duration": 5480,
+    "offset": 18039,
+    "lang": "es"
+  },
+  {
+    "text": "posición y por ejemplo podemos detectar",
+    "duration": 6000,
+    "offset": 21160,
+    "lang": "es"
+  },
+  {
+    "text": "si es que está o no está bien orientado",
+    "duration": 6961,
+    "offset": 23519,
+    "lang": "es"
+  },
+  {
+    "text": "para que continúe en la cinta transpor",
+    "duration": 7399,
+    "offset": 27160,
+    "lang": "es"
+  },
+  {
+    "text": "un ejemplo de mecanismo de",
+    "duration": 4079,
+    "offset": 30480,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3230,
+    "offset": 35440,
+    "lang": "es"
+  },
+  {
+    "text": "visión",
+    "duration": 3000,
+    "offset": 42640,
+    "lang": "es"
+  }
+]

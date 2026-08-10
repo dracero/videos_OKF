@@ -1,0 +1,404 @@
+[
+  {
+    "text": "bien entonces se acuerdan que habíamos",
+    "duration": 5880,
+    "offset": 1560,
+    "lang": "es"
+  },
+  {
+    "text": "preguntado Qué es el sir y nos había",
+    "duration": 5399,
+    "offset": 4620,
+    "lang": "es"
+  },
+  {
+    "text": "dicho no entiendo tu pregunta lo que",
+    "duration": 4079,
+    "offset": 7440,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a hacer ahora en la evolución del",
+    "duration": 4620,
+    "offset": 10019,
+    "lang": "es"
+  },
+  {
+    "text": "chatbot es poner dos redes Transformers",
+    "duration": 5760,
+    "offset": 11519,
+    "lang": "es"
+  },
+  {
+    "text": "una que realiza natural Language",
+    "duration": 5581,
+    "offset": 14639,
+    "lang": "es"
+  },
+  {
+    "text": "inferencias que clasifica es un",
+    "duration": 5701,
+    "offset": 17279,
+    "lang": "es"
+  },
+  {
+    "text": "clasificador multiclasic de texto y la",
+    "duration": 4819,
+    "offset": 20220,
+    "lang": "es"
+  },
+  {
+    "text": "otra que lo que va a hacer es Buscar",
+    "duration": 5520,
+    "offset": 22980,
+    "lang": "es"
+  },
+  {
+    "text": "respuestas por ejemplo recuerdan la",
+    "duration": 5681,
+    "offset": 25039,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta que se llama sir esa pregunta",
+    "duration": 4259,
+    "offset": 28500,
+    "lang": "es"
+  },
+  {
+    "text": "que se llama así en cambio de poner no",
+    "duration": 3960,
+    "offset": 30720,
+    "lang": "es"
+  },
+  {
+    "text": "entiendo tu pregunta se la va a pasar a",
+    "duration": 5281,
+    "offset": 32759,
+    "lang": "es"
+  },
+  {
+    "text": "otro sistema que la procesa acá toma la",
+    "duration": 4399,
+    "offset": 34680,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta",
+    "duration": 4440,
+    "offset": 38040,
+    "lang": "es"
+  },
+  {
+    "text": "acá procesa la pregunta para ver de qué",
+    "duration": 5800,
+    "offset": 39079,
+    "lang": "es"
+  },
+  {
+    "text": "se trata y acá lo que hace es la",
+    "duration": 5040,
+    "offset": 42480,
+    "lang": "es"
+  },
+  {
+    "text": "clasifica cinemática va a ir a buscar",
+    "duration": 4921,
+    "offset": 44879,
+    "lang": "es"
+  },
+  {
+    "text": "textos de cinemática de la partícula y",
+    "duration": 4580,
+    "offset": 47520,
+    "lang": "es"
+  },
+  {
+    "text": "del cuerpo rígido En definitiva",
+    "duration": 4980,
+    "offset": 49800,
+    "lang": "es"
+  },
+  {
+    "text": "circentro instantáneo de rotación es",
+    "duration": 6540,
+    "offset": 52100,
+    "lang": "es"
+  },
+  {
+    "text": "algo de cuerpo rígido",
+    "duration": 3860,
+    "offset": 54780,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces ahora vamos a ir",
+    "duration": 4560,
+    "offset": 59420,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que encuentra que se trata de",
+    "duration": 5221,
+    "offset": 65339,
+    "lang": "es"
+  },
+  {
+    "text": "cinemática de la partícula del cuerpo",
+    "duration": 5039,
+    "offset": 68580,
+    "lang": "es"
+  },
+  {
+    "text": "rígido va a ir a una base de datos que",
+    "duration": 5160,
+    "offset": 70560,
+    "lang": "es"
+  },
+  {
+    "text": "yo acá tengo simulada a donde están",
+    "duration": 4561,
+    "offset": 73619,
+    "lang": "es"
+  },
+  {
+    "text": "todos los textos de ese cinemática de la",
+    "duration": 6000,
+    "offset": 75720,
+    "lang": "es"
+  },
+  {
+    "text": "partícula o del cuerpo rígido y acá lo",
+    "duration": 7820,
+    "offset": 78180,
+    "lang": "es"
+  },
+  {
+    "text": "que le va a pasar es la misma pregunta",
+    "duration": 4280,
+    "offset": 81720,
+    "lang": "es"
+  },
+  {
+    "text": "acá le va a pasar al alumno la misma",
+    "duration": 7980,
+    "offset": 86240,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta que había hecho en su momento",
+    "duration": 7560,
+    "offset": 89460,
+    "lang": "es"
+  },
+  {
+    "text": "va a pasar digamos al sistema la misma",
+    "duration": 4480,
+    "offset": 94220,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta que había hecho el alumno en su",
+    "duration": 4080,
+    "offset": 97020,
+    "lang": "es"
+  },
+  {
+    "text": "momento que es a qué se llama Siri",
+    "duration": 4440,
+    "offset": 98700,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá",
+    "duration": 6559,
+    "offset": 101100,
+    "lang": "es"
+  },
+  {
+    "text": "recordemos que ya clasificó la pregunta",
+    "duration": 4519,
+    "offset": 103140,
+    "lang": "es"
+  },
+  {
+    "text": "ya clasificó la pregunta y sabe que se",
+    "duration": 3960,
+    "offset": 107939,
+    "lang": "es"
+  },
+  {
+    "text": "trata de cinemática de la partícula del",
+    "duration": 3659,
+    "offset": 110100,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido entonces va la base de",
+    "duration": 5431,
+    "offset": 111899,
+    "lang": "es"
+  },
+  {
+    "text": "datos de cinemática acá",
+    "duration": 6421,
+    "offset": 113759,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 6749,
+    "offset": 117330,
+    "lang": "es"
+  },
+  {
+    "text": "tengo la pregunta A qué este se llama",
+    "duration": 6439,
+    "offset": 120180,
+    "lang": "es"
+  },
+  {
+    "text": "sir",
+    "duration": 2540,
+    "offset": 124079,
+    "lang": "es"
+  },
+  {
+    "text": "ahora voy a ejecutar esto para que",
+    "duration": 5640,
+    "offset": 127380,
+    "lang": "es"
+  },
+  {
+    "text": "busque bien entonces acá le hice al",
+    "duration": 4560,
+    "offset": 130200,
+    "lang": "es"
+  },
+  {
+    "text": "alumno si eres centro instantáneo de",
+    "duration": 4740,
+    "offset": 133020,
+    "lang": "es"
+  },
+  {
+    "text": "rotación o sea En definitiva lo que le",
+    "duration": 5820,
+    "offset": 134760,
+    "lang": "es"
+  },
+  {
+    "text": "dijo Es A qué se llama así bueno decir",
+    "duration": 5339,
+    "offset": 137760,
+    "lang": "es"
+  },
+  {
+    "text": "es el centro instantáneo de rotación y",
+    "duration": 4500,
+    "offset": 140580,
+    "lang": "es"
+  },
+  {
+    "text": "entonces el alumno de la siguiente duda",
+    "duration": 4881,
+    "offset": 143099,
+    "lang": "es"
+  },
+  {
+    "text": "que puede tener Es",
+    "duration": 2900,
+    "offset": 145080,
+    "lang": "es"
+  },
+  {
+    "text": "Cuál es la velocidad del cir",
+    "duration": 5180,
+    "offset": 152340,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí va a ir nuevamente a buscarlo el",
+    "duration": 4740,
+    "offset": 157980,
+    "lang": "es"
+  },
+  {
+    "text": "texto y dice que el cir tiene velocidad",
+    "duration": 6240,
+    "offset": 159900,
+    "lang": "es"
+  },
+  {
+    "text": "instantánea nula o sea en cambio ahora",
+    "duration": 6000,
+    "offset": 162720,
+    "lang": "es"
+  },
+  {
+    "text": "de decir No entiendo tu pregunta lo que",
+    "duration": 5160,
+    "offset": 166140,
+    "lang": "es"
+  },
+  {
+    "text": "hace es clasifica esa pregunta va una",
+    "duration": 5099,
+    "offset": 168720,
+    "lang": "es"
+  },
+  {
+    "text": "base de datos de conocimiento de eso que",
+    "duration": 4920,
+    "offset": 171300,
+    "lang": "es"
+  },
+  {
+    "text": "se está preguntando porque sabe que la",
+    "duration": 4200,
+    "offset": 173819,
+    "lang": "es"
+  },
+  {
+    "text": "red neuronal lo clasificó como algo de",
+    "duration": 4799,
+    "offset": 176220,
+    "lang": "es"
+  },
+  {
+    "text": "cinemática y en esos textos de",
+    "duration": 5101,
+    "offset": 178019,
+    "lang": "es"
+  },
+  {
+    "text": "cinemática va ahora a buscar las",
+    "duration": 4981,
+    "offset": 181019,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas que hace el alumno Entonces ya",
+    "duration": 4500,
+    "offset": 183120,
+    "lang": "es"
+  },
+  {
+    "text": "el alumno sabe que Siri es el centro",
+    "duration": 3959,
+    "offset": 186000,
+    "lang": "es"
+  },
+  {
+    "text": "instantáneo de rotación y que tiene una",
+    "duration": 5960,
+    "offset": 187620,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad instantánea nula",
+    "duration": 3621,
+    "offset": 189959,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,1274 @@
+[
+  {
+    "text": "bueno y finalmente la expresión a la que",
+    "duration": 7220,
+    "offset": 3260,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a llegar para el punto de es",
+    "duration": 6921,
+    "offset": 6319,
+    "lang": "es"
+  },
+  {
+    "text": "un medio de m 1 por b 2 sobre 2 al",
+    "duration": 4469,
+    "offset": 10480,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado que es en definitiva la",
+    "duration": 3990,
+    "offset": 13240,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad de 1 que es la mitad de la",
+    "duration": 6711,
+    "offset": 14949,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad de 2 más un medio de m2",
+    "duration": 4430,
+    "offset": 17230,
+    "lang": "es"
+  },
+  {
+    "text": "más un medio de m2 por b sub 2 al",
+    "duration": 6090,
+    "offset": 22250,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado es igual al trabajo de la",
+    "duration": 4300,
+    "offset": 25510,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza de fem hacia el trabajo de la",
+    "duration": 4010,
+    "offset": 28340,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza de rozamiento más el trabajo de",
+    "duration": 7819,
+    "offset": 29810,
+    "lang": "es"
+  },
+  {
+    "text": "la fuerza peso más el trabajo de la",
+    "duration": 9099,
+    "offset": 32350,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza es g que había que calcular la de",
+    "duration": 5711,
+    "offset": 37629,
+    "lang": "es"
+  },
+  {
+    "text": "esta manera bien considerando que se",
+    "duration": 4380,
+    "offset": 41449,
+    "lang": "es"
+  },
+  {
+    "text": "movía en una línea vertical",
+    "duration": 6960,
+    "offset": 43340,
+    "lang": "es"
+  },
+  {
+    "text": "la curva gamma era c 1 y el diferencial",
+    "duration": 8010,
+    "offset": 45829,
+    "lang": "es"
+  },
+  {
+    "text": "gamma era diferencial inversor j este",
+    "duration": 6390,
+    "offset": 50300,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo cuando yo lo calculé me va a",
+    "duration": 5911,
+    "offset": 53839,
+    "lang": "es"
+  },
+  {
+    "text": "quedar esto va a ser igual a que x y",
+    "duration": 6630,
+    "offset": 56690,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado sobre 2 entre 0 y 4 y en 4 el",
+    "duration": 6240,
+    "offset": 59750,
+    "lang": "es"
+  },
+  {
+    "text": "cuadro 16 divide o 2 este trabajo me va",
+    "duration": 4480,
+    "offset": 63320,
+    "lang": "es"
+  },
+  {
+    "text": "a dar menos",
+    "duration": 4520,
+    "offset": 65990,
+    "lang": "es"
+  },
+  {
+    "text": "y por 8 bien",
+    "duration": 6490,
+    "offset": 67800,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ahí ya tenía todo listo para",
+    "duration": 7560,
+    "offset": 70510,
+    "lang": "es"
+  },
+  {
+    "text": "cazar factor común v2 cuadrado y hallar",
+    "duration": 6960,
+    "offset": 74290,
+    "lang": "es"
+  },
+  {
+    "text": "la velocidad en función del valor de la",
+    "duration": 5700,
+    "offset": 78070,
+    "lang": "es"
+  },
+  {
+    "text": "constante de la fuerza g que estoy",
+    "duration": 4380,
+    "offset": 81250,
+    "lang": "es"
+  },
+  {
+    "text": "aplicando",
+    "duration": 6709,
+    "offset": 83770,
+    "lang": "es"
+  },
+  {
+    "text": "bueno vamos a pasar ahora al punto 2",
+    "duration": 4849,
+    "offset": 85630,
+    "lang": "es"
+  },
+  {
+    "text": "en el punto 2 lo que si el problema es",
+    "duration": 6449,
+    "offset": 91710,
+    "lang": "es"
+  },
+  {
+    "text": "que tengo una partícula de masa de 10",
+    "duration": 4651,
+    "offset": 95159,
+    "lang": "es"
+  },
+  {
+    "text": "kilogramos que se mueve en un plano",
+    "duration": 4861,
+    "offset": 98159,
+    "lang": "es"
+  },
+  {
+    "text": "vertical tomada de un hilo ideal atado",
+    "duration": 5849,
+    "offset": 99810,
+    "lang": "es"
+  },
+  {
+    "text": "de un centro fijo de tal manera que pasa",
+    "duration": 5010,
+    "offset": 103020,
+    "lang": "es"
+  },
+  {
+    "text": "por la parte superior a la menor",
+    "duration": 4710,
+    "offset": 105659,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad posible bien lo primero que",
+    "duration": 5160,
+    "offset": 108030,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que ver acá es que significa a",
+    "duration": 5461,
+    "offset": 110369,
+    "lang": "es"
+  },
+  {
+    "text": "la menor velocidad posible si elegimos",
+    "duration": 5850,
+    "offset": 113190,
+    "lang": "es"
+  },
+  {
+    "text": "este sistema de referencia dibujamos",
+    "duration": 6240,
+    "offset": 115830,
+    "lang": "es"
+  },
+  {
+    "text": "esta partícula acá voy a tener la",
+    "duration": 7200,
+    "offset": 119040,
+    "lang": "es"
+  },
+  {
+    "text": "tensión y el peso",
+    "duration": 6659,
+    "offset": 122070,
+    "lang": "es"
+  },
+  {
+    "text": "y yo lo que puedo decir es que menos la",
+    "duration": 7100,
+    "offset": 126240,
+    "lang": "es"
+  },
+  {
+    "text": "atención menos el peso es igual a",
+    "duration": 7551,
+    "offset": 128729,
+    "lang": "es"
+  },
+  {
+    "text": "y lo voy a hacer mejor porque acá me",
+    "duration": 5179,
+    "offset": 133340,
+    "lang": "es"
+  },
+  {
+    "text": "quedo",
+    "duration": 2239,
+    "offset": 136280,
+    "lang": "es"
+  },
+  {
+    "text": "- la tensión menos el peso es igual a",
+    "duration": 8570,
+    "offset": 139530,
+    "lang": "es"
+  },
+  {
+    "text": "menos masa por aceleración centrípeta",
+    "duration": 6150,
+    "offset": 144300,
+    "lang": "es"
+  },
+  {
+    "text": "ahora la condición de velocidad mínima",
+    "duration": 4540,
+    "offset": 148100,
+    "lang": "es"
+  },
+  {
+    "text": "es que la tensión en ese punto más alto",
+    "duration": 4850,
+    "offset": 150450,
+    "lang": "es"
+  },
+  {
+    "text": "sea cero entonces acá me va a quedar que",
+    "duration": 5900,
+    "offset": 152640,
+    "lang": "es"
+  },
+  {
+    "text": "masa por gravedad es igual a la masa",
+    "duration": 6590,
+    "offset": 155300,
+    "lang": "es"
+  },
+  {
+    "text": "menos no porque ya lo saque",
+    "duration": 6410,
+    "offset": 158540,
+    "lang": "es"
+  },
+  {
+    "text": "acá simplifique los menos entonces me va",
+    "duration": 4370,
+    "offset": 161890,
+    "lang": "es"
+  },
+  {
+    "text": "a quedar a",
+    "duration": 4259,
+    "offset": 164950,
+    "lang": "es"
+  },
+  {
+    "text": "masa por el módulo cuadrado de esta",
+    "duration": 5500,
+    "offset": 166260,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad inicial sobre el radio de",
+    "duration": 5731,
+    "offset": 169209,
+    "lang": "es"
+  },
+  {
+    "text": "curvatura acá puedo simplificar la masa",
+    "duration": 5820,
+    "offset": 171760,
+    "lang": "es"
+  },
+  {
+    "text": "y me queda que el radio de curvatura va",
+    "duration": 5250,
+    "offset": 174940,
+    "lang": "es"
+  },
+  {
+    "text": "a ser igual al módulo cuadrado de la",
+    "duration": 7020,
+    "offset": 177580,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad sobre la gravedad y ya con eso",
+    "duration": 6730,
+    "offset": 180190,
+    "lang": "es"
+  },
+  {
+    "text": "encontré el valor d",
+    "duration": 5140,
+    "offset": 184600,
+    "lang": "es"
+  },
+  {
+    "text": "el radio de curvatura",
+    "duration": 5020,
+    "offset": 186920,
+    "lang": "es"
+  },
+  {
+    "text": "entonces para que me va a servir el",
+    "duration": 3910,
+    "offset": 189740,
+    "lang": "es"
+  },
+  {
+    "text": "radio de curvatura lo que me pide el",
+    "duration": 4470,
+    "offset": 191940,
+    "lang": "es"
+  },
+  {
+    "text": "problema es hallar la velocidad de prima",
+    "duration": 5520,
+    "offset": 193650,
+    "lang": "es"
+  },
+  {
+    "text": "respecto de v entonces vamos a ver un",
+    "duration": 6860,
+    "offset": 196410,
+    "lang": "es"
+  },
+  {
+    "text": "poquito eso es aparte",
+    "duration": 4100,
+    "offset": 199170,
+    "lang": "es"
+  },
+  {
+    "text": "qué es la velocidad de prima respecto de",
+    "duration": 4220,
+    "offset": 203770,
+    "lang": "es"
+  },
+  {
+    "text": "v",
+    "duration": 2120,
+    "offset": 205870,
+    "lang": "es"
+  },
+  {
+    "text": "yo tengo acá el punto b y tengo acá el",
+    "duration": 8370,
+    "offset": 209750,
+    "lang": "es"
+  },
+  {
+    "text": "punto de prima la velocidad debe prima",
+    "duration": 5780,
+    "offset": 214970,
+    "lang": "es"
+  },
+  {
+    "text": "respecto de b",
+    "duration": 7380,
+    "offset": 218120,
+    "lang": "es"
+  },
+  {
+    "text": "en que hoy y recto",
+    "duration": 4750,
+    "offset": 220750,
+    "lang": "es"
+  },
+  {
+    "text": "por fuera porque",
+    "duration": 3530,
+    "offset": 227670,
+    "lang": "es"
+  },
+  {
+    "text": "el miro lo dibuja para hacer un conector",
+    "duration": 4460,
+    "offset": 231530,
+    "lang": "es"
+  },
+  {
+    "text": "la velocidad debe primar respecto de v",
+    "duration": 5120,
+    "offset": 237500,
+    "lang": "es"
+  },
+  {
+    "text": "no es otra cosa que esta velocidad",
+    "duration": 6240,
+    "offset": 239990,
+    "lang": "es"
+  },
+  {
+    "text": "tomando sería la velocidad tomando como",
+    "duration": 6970,
+    "offset": 242620,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de referencia el punto b",
+    "duration": 5250,
+    "offset": 246230,
+    "lang": "es"
+  },
+  {
+    "text": "esta es la velocidad de prima respecto",
+    "duration": 4040,
+    "offset": 249590,
+    "lang": "es"
+  },
+  {
+    "text": "de ve ahora",
+    "duration": 5900,
+    "offset": 251480,
+    "lang": "es"
+  },
+  {
+    "text": "si yo tengo acá el punto o sea el punto",
+    "duration": 5729,
+    "offset": 253630,
+    "lang": "es"
+  },
+  {
+    "text": "fijo a tierra",
+    "duration": 5659,
+    "offset": 257380,
+    "lang": "es"
+  },
+  {
+    "text": "yo lo que puedo decir es que",
+    "duration": 3680,
+    "offset": 259359,
+    "lang": "es"
+  },
+  {
+    "text": "esta velocidad",
+    "duration": 3200,
+    "offset": 264990,
+    "lang": "es"
+  },
+  {
+    "text": "así así les queda bien claro",
+    "duration": 7160,
+    "offset": 272340,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense",
+    "duration": 2660,
+    "offset": 276840,
+    "lang": "es"
+  },
+  {
+    "text": "esta es la velocidad de prima respecto",
+    "duration": 5910,
+    "offset": 282689,
+    "lang": "es"
+  },
+  {
+    "text": "de v esta es la velocidad de prima",
+    "duration": 4620,
+    "offset": 285839,
+    "lang": "es"
+  },
+  {
+    "text": "respecto de tierra y esta es la",
+    "duration": 3920,
+    "offset": 288599,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad de ver respecto de tierra",
+    "duration": 5250,
+    "offset": 290459,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que la velocidad de prima",
+    "duration": 5970,
+    "offset": 292519,
+    "lang": "es"
+  },
+  {
+    "text": "respecto de tierra es igual a la",
+    "duration": 6920,
+    "offset": 295709,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad de ver respecto de tierra más",
+    "duration": 8381,
+    "offset": 298489,
+    "lang": "es"
+  },
+  {
+    "text": "la velocidad de prima respecto de b",
+    "duration": 6901,
+    "offset": 302629,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 2660,
+    "offset": 306870,
+    "lang": "es"
+  },
+  {
+    "text": "bien más la vectorial mente es tornado",
+    "duration": 9060,
+    "offset": 314169,
+    "lang": "es"
+  },
+  {
+    "text": "más la velocidad de prima respecto dv",
+    "duration": 8889,
+    "offset": 317560,
+    "lang": "es"
+  },
+  {
+    "text": "entonces la velocidad debe primar",
+    "duration": 6690,
+    "offset": 323229,
+    "lang": "es"
+  },
+  {
+    "text": "respecto debe va a ser igual a la",
+    "duration": 6421,
+    "offset": 326449,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad debe prima respecto de tierra",
+    "duration": 5411,
+    "offset": 329919,
+    "lang": "es"
+  },
+  {
+    "text": "menos la velocidad de ver respecto de",
+    "duration": 5520,
+    "offset": 332870,
+    "lang": "es"
+  },
+  {
+    "text": "tierra bien",
+    "duration": 5610,
+    "offset": 335330,
+    "lang": "es"
+  },
+  {
+    "text": "es este problema de movimiento relativo",
+    "duration": 3830,
+    "offset": 338390,
+    "lang": "es"
+  },
+  {
+    "text": "lo que me están pidiendo",
+    "duration": 3990,
+    "offset": 340940,
+    "lang": "es"
+  },
+  {
+    "text": "ahora cuánto vale la velocidad debe",
+    "duration": 5290,
+    "offset": 342220,
+    "lang": "es"
+  },
+  {
+    "text": "respecto de tierra",
+    "duration": 4710,
+    "offset": 344930,
+    "lang": "es"
+  },
+  {
+    "text": "acuérdense que me dice que lo expresa en",
+    "duration": 5430,
+    "offset": 347510,
+    "lang": "es"
+  },
+  {
+    "text": "forma vectorial entonces yo sé que en el",
+    "duration": 5730,
+    "offset": 349640,
+    "lang": "es"
+  },
+  {
+    "text": "punto más alto de la trayectoria voy a",
+    "duration": 6690,
+    "offset": 352940,
+    "lang": "es"
+  },
+  {
+    "text": "tener un medio de la masa por la",
+    "duration": 8660,
+    "offset": 355370,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad cero al cuadrado más",
+    "duration": 4400,
+    "offset": 359630,
+    "lang": "es"
+  },
+  {
+    "text": "m por 12 erre que es la energía",
+    "duration": 8670,
+    "offset": 364670,
+    "lang": "es"
+  },
+  {
+    "text": "potencial gravitatoria y como acá la",
+    "duration": 7950,
+    "offset": 368210,
+    "lang": "es"
+  },
+  {
+    "text": "única actuando fuerzas la tensión y el",
+    "duration": 5730,
+    "offset": 373340,
+    "lang": "es"
+  },
+  {
+    "text": "peso el trabajo del peso es la energía",
+    "duration": 5490,
+    "offset": 376160,
+    "lang": "es"
+  },
+  {
+    "text": "potencial y gravitatoria y el trabajo de",
+    "duration": 4170,
+    "offset": 379070,
+    "lang": "es"
+  },
+  {
+    "text": "la tensión es cero porque siempre",
+    "duration": 3260,
+    "offset": 381650,
+    "lang": "es"
+  },
+  {
+    "text": "ortogonal al desplazamiento",
+    "duration": 5740,
+    "offset": 383240,
+    "lang": "es"
+  },
+  {
+    "text": "entonces se va a conservar la energía",
+    "duration": 6470,
+    "offset": 384910,
+    "lang": "es"
+  },
+  {
+    "text": "mecánica porque no hay trabajo de",
+    "duration": 5400,
+    "offset": 388980,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas no conserva tibás entonces esto",
+    "duration": 6720,
+    "offset": 391380,
+    "lang": "es"
+  },
+  {
+    "text": "va a ser igual a un medio de la masa por",
+    "duration": 7040,
+    "offset": 394380,
+    "lang": "es"
+  },
+  {
+    "text": "la velocidad de al cuadrado",
+    "duration": 6800,
+    "offset": 398100,
+    "lang": "es"
+  },
+  {
+    "text": "y de acá voy a encontrar la velocidad en",
+    "duration": 4620,
+    "offset": 401420,
+    "lang": "es"
+  },
+  {
+    "text": "b",
+    "duration": 4080,
+    "offset": 404900,
+    "lang": "es"
+  },
+  {
+    "text": "que la velocidad vectorial va a ser",
+    "duration": 7620,
+    "offset": 406040,
+    "lang": "es"
+  },
+  {
+    "text": "igual a menos velocidad de verso jota",
+    "duration": 6690,
+    "offset": 408980,
+    "lang": "es"
+  },
+  {
+    "text": "porque la velocidad en ve acá abajo",
+    "duration": 5820,
+    "offset": 413660,
+    "lang": "es"
+  },
+  {
+    "text": "tiene la dirección del menos ver sor j",
+    "duration": 5880,
+    "offset": 415670,
+    "lang": "es"
+  },
+  {
+    "text": "y no hay velocidad en el emerson y",
+    "duration": 4430,
+    "offset": 419480,
+    "lang": "es"
+  },
+  {
+    "text": "perdón",
+    "duration": 2360,
+    "offset": 421550,
+    "lang": "es"
+  },
+  {
+    "text": "perdone me confundí",
+    "duration": 4690,
+    "offset": 424390,
+    "lang": "es"
+  },
+  {
+    "text": "es verso",
+    "duration": 6039,
+    "offset": 426400,
+    "lang": "es"
+  },
+  {
+    "text": "acá es ver sol y es la dirección del",
+    "duration": 7530,
+    "offset": 429080,
+    "lang": "es"
+  },
+  {
+    "text": "menos verso bien en función menos porque",
+    "duration": 7081,
+    "offset": 432439,
+    "lang": "es"
+  },
+  {
+    "text": "bueno acá en este caso no porque yo",
+    "duration": 5489,
+    "offset": 436610,
+    "lang": "es"
+  },
+  {
+    "text": "elegí este sistema de referencia ustedes",
+    "duration": 5669,
+    "offset": 439520,
+    "lang": "es"
+  },
+  {
+    "text": "podrían elegir otro pero bien acá me",
+    "duration": 5160,
+    "offset": 442099,
+    "lang": "es"
+  },
+  {
+    "text": "queda esta velocidad va a ser menos ver",
+    "duration": 5000,
+    "offset": 445189,
+    "lang": "es"
+  },
+  {
+    "text": "sol y ahora",
+    "duration": 2930,
+    "offset": 447259,
+    "lang": "es"
+  },
+  {
+    "text": "qué pasa con él",
+    "duration": 7340,
+    "offset": 450240,
+    "lang": "es"
+  },
+  {
+    "text": "el punto a prima",
+    "duration": 3860,
+    "offset": 453720,
+    "lang": "es"
+  },
+  {
+    "text": "el movimiento de la partícula que sale",
+    "duration": 4410,
+    "offset": 458580,
+    "lang": "es"
+  },
+  {
+    "text": "del punto a prima es un tiro oblicuo que",
+    "duration": 4440,
+    "offset": 460949,
+    "lang": "es"
+  },
+  {
+    "text": "sale justo de la altura máxima entonces",
+    "duration": 6090,
+    "offset": 462990,
+    "lang": "es"
+  },
+  {
+    "text": "yo tengo que la velocidad de a prima es",
+    "duration": 8011,
+    "offset": 465389,
+    "lang": "es"
+  },
+  {
+    "text": "igual a la velocidad en x",
+    "duration": 7670,
+    "offset": 469080,
+    "lang": "es"
+  },
+  {
+    "text": "versos y menos",
+    "duration": 6760,
+    "offset": 473400,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad en verso j",
+    "duration": 5990,
+    "offset": 476750,
+    "lang": "es"
+  },
+  {
+    "text": "- porque va hacia abajo",
+    "duration": 5759,
+    "offset": 480160,
+    "lang": "es"
+  },
+  {
+    "text": "ahora yo sé por las condiciones de tiro",
+    "duration": 5280,
+    "offset": 482740,
+    "lang": "es"
+  },
+  {
+    "text": "oblicuo que la velocidad en x va a ser",
+    "duration": 6541,
+    "offset": 485919,
+    "lang": "es"
+  },
+  {
+    "text": "igual a 4 metros por segundo verso lee y",
+    "duration": 7700,
+    "offset": 488020,
+    "lang": "es"
+  },
+  {
+    "text": "la velocidad ni va a ser igual a menos",
+    "duration": 5410,
+    "offset": 492460,
+    "lang": "es"
+  },
+  {
+    "text": "deporte",
+    "duration": 4030,
+    "offset": 495720,
+    "lang": "es"
+  },
+  {
+    "text": "versos jota",
+    "duration": 4650,
+    "offset": 497870,
+    "lang": "es"
+  },
+  {
+    "text": "ahora cuánto vale un instante en el",
+    "duration": 4540,
+    "offset": 499750,
+    "lang": "es"
+  },
+  {
+    "text": "punto b prima en qué instante llega al",
+    "duration": 3570,
+    "offset": 502520,
+    "lang": "es"
+  },
+  {
+    "text": "punto de prima yo sé que ambos llegan al",
+    "duration": 3690,
+    "offset": 504290,
+    "lang": "es"
+  },
+  {
+    "text": "punto de prima en el mismo instante por",
+    "duration": 3330,
+    "offset": 506090,
+    "lang": "es"
+  },
+  {
+    "text": "eso es que acá puse que la velocidad",
+    "duration": 3930,
+    "offset": 507980,
+    "lang": "es"
+  },
+  {
+    "text": "valía menos ver solís pero para sacar el",
+    "duration": 4590,
+    "offset": 509420,
+    "lang": "es"
+  },
+  {
+    "text": "instante yo sé que el punto de prima es",
+    "duration": 6930,
+    "offset": 511910,
+    "lang": "es"
+  },
+  {
+    "text": "casi la posición igual cero y esto va a",
+    "duration": 7140,
+    "offset": 514010,
+    "lang": "es"
+  },
+  {
+    "text": "ser igual a la posición inicial que es",
+    "duration": 4400,
+    "offset": 518840,
+    "lang": "es"
+  },
+  {
+    "text": "12 r menos",
+    "duration": 6060,
+    "offset": 521150,
+    "lang": "es"
+  },
+  {
+    "text": "un medio de eje por tiempo al cuadrado",
+    "duration": 6910,
+    "offset": 523240,
+    "lang": "es"
+  },
+  {
+    "text": "como este 2 r yo lo conozco del paso",
+    "duration": 4920,
+    "offset": 527210,
+    "lang": "es"
+  },
+  {
+    "text": "anterior de acá puedo sacar el instante",
+    "duration": 4950,
+    "offset": 530150,
+    "lang": "es"
+  },
+  {
+    "text": "y tengo la velocidad en y entonces acá",
+    "duration": 4640,
+    "offset": 532130,
+    "lang": "es"
+  },
+  {
+    "text": "con esto ya tengo todo lo que necesito",
+    "duration": 5840,
+    "offset": 535100,
+    "lang": "es"
+  },
+  {
+    "text": "porque me queda que",
+    "duration": 8640,
+    "offset": 536770,
+    "lang": "es"
+  },
+  {
+    "text": "la velocidad en de prima es igual a 4",
+    "duration": 7860,
+    "offset": 540940,
+    "lang": "es"
+  },
+  {
+    "text": "metros por segundo",
+    "duration": 8680,
+    "offset": 545410,
+    "lang": "es"
+  },
+  {
+    "text": "verzeri menos la velocidad en inversor j",
+    "duration": 6960,
+    "offset": 548800,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 4680,
+    "offset": 554090,
+    "lang": "es"
+  },
+  {
+    "text": "entonces fue yo sé que lo que había",
+    "duration": 4750,
+    "offset": 555760,
+    "lang": "es"
+  },
+  {
+    "text": "dicho antes la velocidad de prima",
+    "duration": 5220,
+    "offset": 558770,
+    "lang": "es"
+  },
+  {
+    "text": "respecto de b es igual a la velocidad en",
+    "duration": 6480,
+    "offset": 560510,
+    "lang": "es"
+  },
+  {
+    "text": "b prima menos la velocidad de ver",
+    "duration": 6170,
+    "offset": 563990,
+    "lang": "es"
+  },
+  {
+    "text": "respecto de tierra",
+    "duration": 3170,
+    "offset": 566990,
+    "lang": "es"
+  },
+  {
+    "text": "y la velocidad en vez respecto de tierra",
+    "duration": 6210,
+    "offset": 572470,
+    "lang": "es"
+  },
+  {
+    "text": "la tengo acá y la velocidad de prima",
+    "duration": 6300,
+    "offset": 574990,
+    "lang": "es"
+  },
+  {
+    "text": "respecto de tierra la tengo acá listo ya",
+    "duration": 5160,
+    "offset": 578680,
+    "lang": "es"
+  },
+  {
+    "text": "tengo los resultados tengo los dos las",
+    "duration": 4890,
+    "offset": 581290,
+    "lang": "es"
+  },
+  {
+    "text": "dos velocidades y con eso expresó el",
+    "duration": 5000,
+    "offset": 583840,
+    "lang": "es"
+  },
+  {
+    "text": "resultado",
+    "duration": 2660,
+    "offset": 586180,
+    "lang": "es"
+  },
+  {
+    "text": "existían otras maneras de hacerlo bien",
+    "duration": 5520,
+    "offset": 589040,
+    "lang": "es"
+  },
+  {
+    "text": "no es esta la única manera pero lo que",
+    "duration": 5279,
+    "offset": 591800,
+    "lang": "es"
+  },
+  {
+    "text": "sí pasaba es que esta velocidad de prima",
+    "duration": 4560,
+    "offset": 594560,
+    "lang": "es"
+  },
+  {
+    "text": "respecto debe tener una componente en el",
+    "duration": 5190,
+    "offset": 597079,
+    "lang": "es"
+  },
+  {
+    "text": "verso 'rey y una componente en el verso",
+    "duration": 5110,
+    "offset": 599120,
+    "lang": "es"
+  },
+  {
+    "text": "j",
+    "duration": 6181,
+    "offset": 602269,
+    "lang": "es"
+  },
+  {
+    "text": "no servía sacar sola sólo la",
+    "duration": 6410,
+    "offset": 604230,
+    "lang": "es"
+  },
+  {
+    "text": "en energía cinética y expresar esta",
+    "duration": 5390,
+    "offset": 608450,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad en mi primer módulo",
+    "duration": 3200,
+    "offset": 610640,
+    "lang": "es"
+  },
+  {
+    "text": "hacer",
+    "duration": 4040,
+    "offset": 613870,
+    "lang": "es"
+  },
+  {
+    "text": "consideraciones energéticas y expresar",
+    "duration": 4060,
+    "offset": 615560,
+    "lang": "es"
+  },
+  {
+    "text": "la velocidad del primer módulo porque el",
+    "duration": 4320,
+    "offset": 617910,
+    "lang": "es"
+  },
+  {
+    "text": "problema lo que decía claramente es que",
+    "duration": 5730,
+    "offset": 619620,
+    "lang": "es"
+  },
+  {
+    "text": "lo que había que expresar es el vector",
+    "duration": 5359,
+    "offset": 622230,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad relativa",
+    "duration": 5099,
+    "offset": 625350,
+    "lang": "es"
+  },
+  {
+    "text": "así que si usted es en el vector",
+    "duration": 5381,
+    "offset": 627589,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad relativa ponían que esto tenía",
+    "duration": 5221,
+    "offset": 630449,
+    "lang": "es"
+  },
+  {
+    "text": "solamente una componente en el verso",
+    "duration": 5880,
+    "offset": 632970,
+    "lang": "es"
+  },
+  {
+    "text": "equis o en el verso lori nos servía si",
+    "duration": 4830,
+    "offset": 635670,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes acaban estos por consideraciones",
+    "duration": 3919,
+    "offset": 638850,
+    "lang": "es"
+  },
+  {
+    "text": "energéticas",
+    "duration": 4220,
+    "offset": 640500,
+    "lang": "es"
+  },
+  {
+    "text": "no iban a saber cuánto valían las",
+    "duration": 3810,
+    "offset": 642769,
+    "lang": "es"
+  },
+  {
+    "text": "componentes o debieran haber hecho",
+    "duration": 4200,
+    "offset": 644720,
+    "lang": "es"
+  },
+  {
+    "text": "después algo para averiguar cuánto",
+    "duration": 5930,
+    "offset": 646579,
+    "lang": "es"
+  },
+  {
+    "text": "valían las componentes",
+    "duration": 3589,
+    "offset": 648920,
+    "lang": "es"
+  }
+]

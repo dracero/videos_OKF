@@ -1,0 +1,290 @@
+[
+  {
+    "text": "bien vamos a vamos a implementar el",
+    "duration": 4740,
+    "offset": 420,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollo del papeline de hacking Face",
+    "duration": 5000,
+    "offset": 3000,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando sentimental análisis",
+    "duration": 5510,
+    "offset": 5160,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces vamos a escribir acá",
+    "duration": 14319,
+    "offset": 8000,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 11649,
+    "offset": 10670,
+    "lang": "es"
+  },
+  {
+    "text": "Face pablaneford sentimental análisis",
+    "duration": 3921,
+    "offset": 32099,
+    "lang": "es"
+  },
+  {
+    "text": "with",
+    "duration": 5220,
+    "offset": 34320,
+    "lang": "es"
+  },
+  {
+    "text": "y le damos ese modelo Entonces ahora",
+    "duration": 7660,
+    "offset": 36020,
+    "lang": "es"
+  },
+  {
+    "text": "sabemos que empiece siempre con un Front",
+    "duration": 8400,
+    "offset": 39540,
+    "lang": "es"
+  },
+  {
+    "text": "ahí ya nos sugiere el código sabemos que",
+    "duration": 5760,
+    "offset": 43680,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que importar algo que siempre",
+    "duration": 4439,
+    "offset": 47940,
+    "lang": "es"
+  },
+  {
+    "text": "empieza con un from Entonces entonces",
+    "duration": 5939,
+    "offset": 49440,
+    "lang": "es"
+  },
+  {
+    "text": "acá",
+    "duration": 3000,
+    "offset": 52379,
+    "lang": "es"
+  },
+  {
+    "text": "sabemos que necesitamos",
+    "duration": 5721,
+    "offset": 57539,
+    "lang": "es"
+  },
+  {
+    "text": "un clasifyer",
+    "duration": 7779,
+    "offset": 59840,
+    "lang": "es"
+  },
+  {
+    "text": "y acá ya nos dice bien classifyer o sea",
+    "duration": 6640,
+    "offset": 63260,
+    "lang": "es"
+  },
+  {
+    "text": "Nosotros sabemos que el packland siempre",
+    "duration": 4621,
+    "offset": 67619,
+    "lang": "es"
+  },
+  {
+    "text": "empiezan con un from y después",
+    "duration": 6800,
+    "offset": 69900,
+    "lang": "es"
+  },
+  {
+    "text": "necesitamos un clasifire Ese clasifire",
+    "duration": 4460,
+    "offset": 72240,
+    "lang": "es"
+  },
+  {
+    "text": "es igual appline que ahí usa el",
+    "duration": 6940,
+    "offset": 76880,
+    "lang": "es"
+  },
+  {
+    "text": "lápiz de pubmedline de hugging Face nos",
+    "duration": 4719,
+    "offset": 81080,
+    "lang": "es"
+  },
+  {
+    "text": "dice que sentimental análisis y nos trae",
+    "duration": 5180,
+    "offset": 83820,
+    "lang": "es"
+  },
+  {
+    "text": "el model que nosotros queríamos",
+    "duration": 3201,
+    "offset": 85799,
+    "lang": "es"
+  },
+  {
+    "text": "y acá ya nos da para hacer directamente",
+    "duration": 5940,
+    "offset": 89460,
+    "lang": "es"
+  },
+  {
+    "text": "la clasificación Entonces vamos a ver si",
+    "duration": 3800,
+    "offset": 92580,
+    "lang": "es"
+  },
+  {
+    "text": "funciona",
+    "duration": 3719,
+    "offset": 95400,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos Run Ahí está bajando el modelo",
+    "duration": 6900,
+    "offset": 96380,
+    "lang": "es"
+  },
+  {
+    "text": "está corriendo en nuestra máquina local",
+    "duration": 4161,
+    "offset": 99119,
+    "lang": "es"
+  },
+  {
+    "text": "una estrella ven que dice te odia a ver",
+    "duration": 4140,
+    "offset": 104100,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver como el modelo funciona",
+    "duration": 4739,
+    "offset": 106380,
+    "lang": "es"
+  },
+  {
+    "text": "también en español vamos a poner el",
+    "duration": 4460,
+    "offset": 108240,
+    "lang": "es"
+  },
+  {
+    "text": "curso Me",
+    "duration": 5721,
+    "offset": 111119,
+    "lang": "es"
+  },
+  {
+    "text": "parece muy bueno",
+    "duration": 4140,
+    "offset": 112700,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense Cuánta estrellas si pongo el",
+    "duration": 5801,
+    "offset": 119899,
+    "lang": "es"
+  },
+  {
+    "text": "curso me parece",
+    "duration": 5780,
+    "offset": 122820,
+    "lang": "es"
+  },
+  {
+    "text": "excelente",
+    "duration": 2900,
+    "offset": 125700,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí está corriendo la clasificación",
+    "duration": 3739,
+    "offset": 132360,
+    "lang": "es"
+  },
+  {
+    "text": "cinco estrellas y si pongo el curso me",
+    "duration": 5340,
+    "offset": 136200,
+    "lang": "es"
+  },
+  {
+    "text": "parece",
+    "duration": 4579,
+    "offset": 139800,
+    "lang": "es"
+  },
+  {
+    "text": "malísimo",
+    "duration": 2839,
+    "offset": 141540,
+    "lang": "es"
+  },
+  {
+    "text": "muy malo",
+    "duration": 2780,
+    "offset": 150959,
+    "lang": "es"
+  },
+  {
+    "text": "dos estrellas Ah porque acá escribí mal",
+    "duration": 5101,
+    "offset": 155599,
+    "lang": "es"
+  },
+  {
+    "text": "bien dos estrellas y si pongo algo más",
+    "duration": 6960,
+    "offset": 164480,
+    "lang": "es"
+  },
+  {
+    "text": "que muy malo pongo pésimo",
+    "duration": 3380,
+    "offset": 168060,
+    "lang": "es"
+  },
+  {
+    "text": "bien dos estrellas bien entonces vemos",
+    "duration": 6960,
+    "offset": 178440,
+    "lang": "es"
+  },
+  {
+    "text": "cómo funciona perfectamente el",
+    "duration": 4740,
+    "offset": 182940,
+    "lang": "es"
+  },
+  {
+    "text": "clasificador Y prácticamente no tuvimos",
+    "duration": 6199,
+    "offset": 185400,
+    "lang": "es"
+  },
+  {
+    "text": "que recordar ningún tipo de código",
+    "duration": 3919,
+    "offset": 187680,
+    "lang": "es"
+  }
+]

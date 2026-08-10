@@ -1,0 +1,740 @@
+[
+  {
+    "text": "vamos a hablar del aprendizaje por",
+    "duration": 4360,
+    "offset": 399,
+    "lang": "es"
+  },
+  {
+    "text": "refuerzo pero primero vamos a definir",
+    "duration": 4320,
+    "offset": 2120,
+    "lang": "es"
+  },
+  {
+    "text": "Qué entendemos por aprendizaje por",
+    "duration": 4281,
+    "offset": 4759,
+    "lang": "es"
+  },
+  {
+    "text": "refuerzo el aprendizaje por refuerzo es",
+    "duration": 5319,
+    "offset": 6440,
+    "lang": "es"
+  },
+  {
+    "text": "un campo del aprendizaje",
+    "duration": 5160,
+    "offset": 9040,
+    "lang": "es"
+  },
+  {
+    "text": "automático que se centra en el",
+    "duration": 6081,
+    "offset": 11759,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollo de algoritmos y técnicas para",
+    "duration": 6520,
+    "offset": 14200,
+    "lang": "es"
+  },
+  {
+    "text": "entrenar agentes que toman decisiones",
+    "duration": 6279,
+    "offset": 17840,
+    "lang": "es"
+  },
+  {
+    "text": "autónomas en un entorno determinado o en",
+    "duration": 7240,
+    "offset": 20720,
+    "lang": "es"
+  },
+  {
+    "text": "un ambiente determinado el el objetivo",
+    "duration": 7201,
+    "offset": 24119,
+    "lang": "es"
+  },
+  {
+    "text": "principal de la gente en el entorno del",
+    "duration": 6800,
+    "offset": 27960,
+    "lang": "es"
+  },
+  {
+    "text": "aprendizaje por refuerzo es maximizar la",
+    "duration": 6079,
+    "offset": 31320,
+    "lang": "es"
+  },
+  {
+    "text": "recompensa acumulada a lo largo del",
+    "duration": 5560,
+    "offset": 34760,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo el proceso implica que la gente",
+    "duration": 7241,
+    "offset": 37399,
+    "lang": "es"
+  },
+  {
+    "text": "interactúe con el entorno reciba una una",
+    "duration": 6200,
+    "offset": 40320,
+    "lang": "es"
+  },
+  {
+    "text": "retroalimentación en forma de",
+    "duration": 4840,
+    "offset": 44640,
+    "lang": "es"
+  },
+  {
+    "text": "recompensas o penalizaciones y ajuste",
+    "duration": 5480,
+    "offset": 46520,
+    "lang": "es"
+  },
+  {
+    "text": "sus decisiones y estrategias para",
+    "duration": 5320,
+    "offset": 49480,
+    "lang": "es"
+  },
+  {
+    "text": "mejorar su desempeño que puede ser según",
+    "duration": 5879,
+    "offset": 52000,
+    "lang": "es"
+  },
+  {
+    "text": "el algoritmo maximizar la recompensa",
+    "duration": 6320,
+    "offset": 54800,
+    "lang": "es"
+  },
+  {
+    "text": "maximizar la política ahora qué es el",
+    "duration": 6920,
+    "offset": 57879,
+    "lang": "es"
+  },
+  {
+    "text": "agente el agente es el el ente que toma",
+    "duration": 7679,
+    "offset": 61120,
+    "lang": "es"
+  },
+  {
+    "text": "decisiones por ejemplo en esta película",
+    "duration": 8561,
+    "offset": 64799,
+    "lang": "es"
+  },
+  {
+    "text": "que estamos viendo el agente es este",
+    "duration": 7241,
+    "offset": 68799,
+    "lang": "es"
+  },
+  {
+    "text": "robot que va",
+    "duration": 5799,
+    "offset": 73360,
+    "lang": "es"
+  },
+  {
+    "text": "saltando Ese es el agente el ente que",
+    "duration": 6240,
+    "offset": 76040,
+    "lang": "es"
+  },
+  {
+    "text": "toma decisiones Cuál es el entorno el",
+    "duration": 7600,
+    "offset": 79159,
+    "lang": "es"
+  },
+  {
+    "text": "entorno son las placas sobre las que va",
+    "duration": 8479,
+    "offset": 82280,
+    "lang": "es"
+  },
+  {
+    "text": "saltando Ese es el entorno",
+    "duration": 6761,
+    "offset": 86759,
+    "lang": "es"
+  },
+  {
+    "text": "cuando el agente toma una decisión que",
+    "duration": 5761,
+    "offset": 90759,
+    "lang": "es"
+  },
+  {
+    "text": "no es la correcta y se cae se le va a",
+    "duration": 6160,
+    "offset": 93520,
+    "lang": "es"
+  },
+  {
+    "text": "dar una penalización o una recompensa",
+    "duration": 5080,
+    "offset": 96520,
+    "lang": "es"
+  },
+  {
+    "text": "negativa cuando el agente toma la",
+    "duration": 2960,
+    "offset": 99680,
+    "lang": "es"
+  },
+  {
+    "text": "decisión",
+    "duration": 4320,
+    "offset": 101600,
+    "lang": "es"
+  },
+  {
+    "text": "correcta se le da una recompensa",
+    "duration": 8000,
+    "offset": 102640,
+    "lang": "es"
+  },
+  {
+    "text": "positiva y Entonces de esa manera se va",
+    "duration": 8879,
+    "offset": 105920,
+    "lang": "es"
+  },
+  {
+    "text": "autoprogram el agente que tiene como",
+    "duration": 7280,
+    "offset": 110640,
+    "lang": "es"
+  },
+  {
+    "text": "objetivo maximizar la",
+    "duration": 6121,
+    "offset": 114799,
+    "lang": "es"
+  },
+  {
+    "text": "recompensa esas plataformas aparecen en",
+    "duration": 5239,
+    "offset": 117920,
+    "lang": "es"
+  },
+  {
+    "text": "forma aleatoria no hay una regla que le",
+    "duration": 5280,
+    "offset": 120920,
+    "lang": "es"
+  },
+  {
+    "text": "esté diciendo para qué lado moverse esa",
+    "duration": 5600,
+    "offset": 123159,
+    "lang": "es"
+  },
+  {
+    "text": "regla la va aprendiendo el agente a",
+    "duration": 5240,
+    "offset": 126200,
+    "lang": "es"
+  },
+  {
+    "text": "medida que detecta Qué es lo que está",
+    "duration": 5681,
+    "offset": 128759,
+    "lang": "es"
+  },
+  {
+    "text": "pasando con el entorno el espacio de",
+    "duration": 5040,
+    "offset": 131440,
+    "lang": "es"
+  },
+  {
+    "text": "Estados es el conjunto de todas las",
+    "duration": 4439,
+    "offset": 134440,
+    "lang": "es"
+  },
+  {
+    "text": "posibles situaciones o configuraciones",
+    "duration": 4200,
+    "offset": 136480,
+    "lang": "es"
+  },
+  {
+    "text": "que puede encontrarse la gente dentro",
+    "duration": 4761,
+    "offset": 138879,
+    "lang": "es"
+  },
+  {
+    "text": "del entorno acá por ejemplo todas las",
+    "duration": 4680,
+    "offset": 140680,
+    "lang": "es"
+  },
+  {
+    "text": "posibles direcciones en donde puede",
+    "duration": 5599,
+    "offset": 143640,
+    "lang": "es"
+  },
+  {
+    "text": "haber placa el espacio de acción es",
+    "duration": 6040,
+    "offset": 145360,
+    "lang": "es"
+  },
+  {
+    "text": "todos los movimientos o todas las",
+    "duration": 4241,
+    "offset": 149239,
+    "lang": "es"
+  },
+  {
+    "text": "acciones posibles que puede realizar el",
+    "duration": 4080,
+    "offset": 151400,
+    "lang": "es"
+  },
+  {
+    "text": "agente en este caso el espacio de acción",
+    "duration": 5240,
+    "offset": 153480,
+    "lang": "es"
+  },
+  {
+    "text": "sería saltar",
+    "duration": 5720,
+    "offset": 155480,
+    "lang": "es"
+  },
+  {
+    "text": "moverse moverse hacia la izquierda",
+    "duration": 5640,
+    "offset": 158720,
+    "lang": "es"
+  },
+  {
+    "text": "moverse hacia la derecha ese sería el",
+    "duration": 5880,
+    "offset": 161200,
+    "lang": "es"
+  },
+  {
+    "text": "espacio de acción esto de saltar moverse",
+    "duration": 4080,
+    "offset": 164360,
+    "lang": "es"
+  },
+  {
+    "text": "hacia la izquierda moverse hacia la",
+    "duration": 2960,
+    "offset": 167080,
+    "lang": "es"
+  },
+  {
+    "text": "derecha es el espacio de acción acá",
+    "duration": 5879,
+    "offset": 168440,
+    "lang": "es"
+  },
+  {
+    "text": "vemos otro agente otro espacio de",
+    "duration": 4279,
+    "offset": 170040,
+    "lang": "es"
+  },
+  {
+    "text": "acción el espacio la recompensa es",
+    "duration": 6200,
+    "offset": 176080,
+    "lang": "es"
+  },
+  {
+    "text": "numérica se un valor que yo le doy si lo",
+    "duration": 4119,
+    "offset": 180120,
+    "lang": "es"
+  },
+  {
+    "text": "que hace Está bien o está mal la",
+    "duration": 4239,
+    "offset": 182280,
+    "lang": "es"
+  },
+  {
+    "text": "política que es algo importante también",
+    "duration": 5041,
+    "offset": 184239,
+    "lang": "es"
+  },
+  {
+    "text": "es la estrategia que la gente sigue para",
+    "duration": 4921,
+    "offset": 186519,
+    "lang": "es"
+  },
+  {
+    "text": "decidir qué acción tomar en función del",
+    "duration": 5200,
+    "offset": 189280,
+    "lang": "es"
+  },
+  {
+    "text": "estado actual puede ser determinística o",
+    "duration": 5000,
+    "offset": 191440,
+    "lang": "es"
+  },
+  {
+    "text": "estocástica depende",
+    "duration": 4679,
+    "offset": 194480,
+    "lang": "es"
+  },
+  {
+    "text": "del del algoritmo que use pero en",
+    "duration": 6359,
+    "offset": 196440,
+    "lang": "es"
+  },
+  {
+    "text": "general la que más vamos a usar son las",
+    "duration": 5881,
+    "offset": 199159,
+    "lang": "es"
+  },
+  {
+    "text": "estocásticas función valor hay una",
+    "duration": 5561,
+    "offset": 202799,
+    "lang": "es"
+  },
+  {
+    "text": "función que estima la recompensa futura",
+    "duration": 4960,
+    "offset": 205040,
+    "lang": "es"
+  },
+  {
+    "text": "esperada",
+    "duration": 4120,
+    "offset": 208360,
+    "lang": "es"
+  },
+  {
+    "text": "de un estado o acción y la exploración",
+    "duration": 4599,
+    "offset": 210000,
+    "lang": "es"
+  },
+  {
+    "text": "versus explotación hay algoritmos como",
+    "duration": 5880,
+    "offset": 212480,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo el epsilon gridy que me va a",
+    "duration": 7521,
+    "offset": 214599,
+    "lang": "es"
+  },
+  {
+    "text": "dar una suerte de compensación entre",
+    "duration": 5400,
+    "offset": 218360,
+    "lang": "es"
+  },
+  {
+    "text": "exploración y",
+    "duration": 6759,
+    "offset": 222120,
+    "lang": "es"
+  },
+  {
+    "text": "explotación Si volvemos al al caso",
+    "duration": 9559,
+    "offset": 223760,
+    "lang": "es"
+  },
+  {
+    "text": "anterior el agente primero antes de",
+    "duration": 7801,
+    "offset": 228879,
+    "lang": "es"
+  },
+  {
+    "text": "decidir Para dónde va a ir tiene que",
+    "duration": 6681,
+    "offset": 233319,
+    "lang": "es"
+  },
+  {
+    "text": "tener un espacio de exploración en ese",
+    "duration": 6479,
+    "offset": 236680,
+    "lang": "es"
+  },
+  {
+    "text": "espacio de exploración es a donde se da",
+    "duration": 5959,
+    "offset": 240000,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta cómo tiene que moverse o para qué",
+    "duration": 5360,
+    "offset": 243159,
+    "lang": "es"
+  },
+  {
+    "text": "lado tiene que ir y de explotación una",
+    "duration": 4840,
+    "offset": 245959,
+    "lang": "es"
+  },
+  {
+    "text": "vez que la gente aprendió cierto camino",
+    "duration": 5640,
+    "offset": 248519,
+    "lang": "es"
+  },
+  {
+    "text": "explota sigue sobre ese cierto camino lo",
+    "duration": 5440,
+    "offset": 250799,
+    "lang": "es"
+  },
+  {
+    "text": "que tenemos que tener en cuenta es que",
+    "duration": 4320,
+    "offset": 254159,
+    "lang": "es"
+  },
+  {
+    "text": "depende de la dependiendo del algoritmo",
+    "duration": 6081,
+    "offset": 256239,
+    "lang": "es"
+  },
+  {
+    "text": "que usemos puede ser que el manejo de la",
+    "duration": 6720,
+    "offset": 258479,
+    "lang": "es"
+  },
+  {
+    "text": "gente esté separado de la exploración y",
+    "duration": 5840,
+    "offset": 262320,
+    "lang": "es"
+  },
+  {
+    "text": "explotación o puede ser que el mismo",
+    "duration": 5241,
+    "offset": 265199,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmo ya resuel",
+    "duration": 4120,
+    "offset": 268160,
+    "lang": "es"
+  },
+  {
+    "text": "la compensación entre exploración y",
+    "duration": 4560,
+    "offset": 270440,
+    "lang": "es"
+  },
+  {
+    "text": "explotación para manejar el agente pero",
+    "duration": 4520,
+    "offset": 272280,
+    "lang": "es"
+  },
+  {
+    "text": "las cosas que tenemos que tener en claro",
+    "duration": 4320,
+    "offset": 275000,
+    "lang": "es"
+  },
+  {
+    "text": "en aprendizaje por refuerzo que es Yo no",
+    "duration": 4320,
+    "offset": 276800,
+    "lang": "es"
+  },
+  {
+    "text": "le estoy",
+    "duration": 5560,
+    "offset": 279320,
+    "lang": "es"
+  },
+  {
+    "text": "programando a la gente Qué es lo que",
+    "duration": 5600,
+    "offset": 281120,
+    "lang": "es"
+  },
+  {
+    "text": "tiene que hacer o cómo tiene que moverse",
+    "duration": 4640,
+    "offset": 284880,
+    "lang": "es"
+  },
+  {
+    "text": "lo que yo le programo lo que yo tengo",
+    "duration": 6520,
+    "offset": 286720,
+    "lang": "es"
+  },
+  {
+    "text": "que configurar es una función de",
+    "duration": 6080,
+    "offset": 289520,
+    "lang": "es"
+  },
+  {
+    "text": "recompensa un espacio de",
+    "duration": 5120,
+    "offset": 293240,
+    "lang": "es"
+  },
+  {
+    "text": "observación que es lo que la gente tiene",
+    "duration": 6240,
+    "offset": 295600,
+    "lang": "es"
+  },
+  {
+    "text": "que observar espacio de acción y en",
+    "duration": 6480,
+    "offset": 298360,
+    "lang": "es"
+  },
+  {
+    "text": "función de las acciones que tome y los",
+    "duration": 5000,
+    "offset": 301840,
+    "lang": "es"
+  },
+  {
+    "text": "Estados a los que llegue yo le voy a dar",
+    "duration": 5000,
+    "offset": 304840,
+    "lang": "es"
+  },
+  {
+    "text": "una recompensa y después hay que definir",
+    "duration": 5120,
+    "offset": 306840,
+    "lang": "es"
+  },
+  {
+    "text": "una política y una función valor para",
+    "duration": 4600,
+    "offset": 309840,
+    "lang": "es"
+  },
+  {
+    "text": "ver cómo es que yo quiero que vaya",
+    "duration": 4679,
+    "offset": 311960,
+    "lang": "es"
+  },
+  {
+    "text": "trabajando con esa recompensa pero el",
+    "duration": 4400,
+    "offset": 314440,
+    "lang": "es"
+  },
+  {
+    "text": "camino este que ustedes están viendo que",
+    "duration": 5801,
+    "offset": 316639,
+    "lang": "es"
+  },
+  {
+    "text": "recorre es el el robotito que sería el",
+    "duration": 6240,
+    "offset": 318840,
+    "lang": "es"
+  },
+  {
+    "text": "agente lo aprendió solo solo fue",
+    "duration": 5080,
+    "offset": 322440,
+    "lang": "es"
+  },
+  {
+    "text": "descubriendo el entorno por eso es que",
+    "duration": 4720,
+    "offset": 325080,
+    "lang": "es"
+  },
+  {
+    "text": "el aprendizaje por refuerzo es tan útil",
+    "duration": 4560,
+    "offset": 327520,
+    "lang": "es"
+  },
+  {
+    "text": "para tener robots o para tener cualquier",
+    "duration": 5679,
+    "offset": 329800,
+    "lang": "es"
+  },
+  {
+    "text": "tipo de eh algoritmos que tome",
+    "duration": 5280,
+    "offset": 332080,
+    "lang": "es"
+  },
+  {
+    "text": "decisiones autónomas intentando",
+    "duration": 4000,
+    "offset": 335479,
+    "lang": "es"
+  },
+  {
+    "text": "maximizar una función",
+    "duration": 4440,
+    "offset": 337360,
+    "lang": "es"
+  },
+  {
+    "text": "valor no es que yo le tengo que",
+    "duration": 3961,
+    "offset": 339479,
+    "lang": "es"
+  },
+  {
+    "text": "programar Qué es lo que tiene que hacer",
+    "duration": 4119,
+    "offset": 341800,
+    "lang": "es"
+  },
+  {
+    "text": "acá",
+    "duration": 2479,
+    "offset": 343440,
+    "lang": "es"
+  }
+]

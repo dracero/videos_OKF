@@ -1,0 +1,830 @@
+[
+  {
+    "text": "vamos a construir un chat bot utilizando",
+    "duration": 7319,
+    "offset": 2320,
+    "lang": "es"
+  },
+  {
+    "text": "un sistema de nlb natural language",
+    "duration": 5669,
+    "offset": 6100,
+    "lang": "es"
+  },
+  {
+    "text": "understanding",
+    "duration": 4801,
+    "offset": 9639,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que hace este sistema de nl y",
+    "duration": 6451,
+    "offset": 11769,
+    "lang": "es"
+  },
+  {
+    "text": "que necesita para funcionar el sistema d",
+    "duration": 7259,
+    "offset": 14440,
+    "lang": "es"
+  },
+  {
+    "text": "nv lo que va a hacer es transformar el",
+    "duration": 7859,
+    "offset": 18220,
+    "lang": "es"
+  },
+  {
+    "text": "lenguaje común coloquial como el",
+    "duration": 6601,
+    "offset": 21699,
+    "lang": "es"
+  },
+  {
+    "text": "lenguaje en el que hemos expresado este",
+    "duration": 6680,
+    "offset": 26079,
+    "lang": "es"
+  },
+  {
+    "text": "problema en datos estructurados",
+    "duration": 4459,
+    "offset": 28300,
+    "lang": "es"
+  },
+  {
+    "text": "para que nos van a servir esos datos",
+    "duration": 4020,
+    "offset": 32790,
+    "lang": "es"
+  },
+  {
+    "text": "estructurados nos van a servir porque",
+    "duration": 4250,
+    "offset": 34530,
+    "lang": "es"
+  },
+  {
+    "text": "después a partir de esos datos",
+    "duration": 5720,
+    "offset": 36810,
+    "lang": "es"
+  },
+  {
+    "text": "estructurados vamos a poder establecer",
+    "duration": 6130,
+    "offset": 38780,
+    "lang": "es"
+  },
+  {
+    "text": "bifurcaciones condicionales que van a ir",
+    "duration": 5710,
+    "offset": 42530,
+    "lang": "es"
+  },
+  {
+    "text": "guiando al alumno hacia o lo van a ir",
+    "duration": 4770,
+    "offset": 44910,
+    "lang": "es"
+  },
+  {
+    "text": "orientando hacia la solución del",
+    "duration": 2800,
+    "offset": 48240,
+    "lang": "es"
+  },
+  {
+    "text": "problema",
+    "duration": 4180,
+    "offset": 49680,
+    "lang": "es"
+  },
+  {
+    "text": "que quede claro en el chat bot no le va",
+    "duration": 5160,
+    "offset": 51040,
+    "lang": "es"
+  },
+  {
+    "text": "a dar al alumno cuál es la solución del",
+    "duration": 4560,
+    "offset": 53860,
+    "lang": "es"
+  },
+  {
+    "text": "problema lo que vamos a hacer con el",
+    "duration": 5700,
+    "offset": 56200,
+    "lang": "es"
+  },
+  {
+    "text": "chat bot es ir guiando lo para que él",
+    "duration": 6110,
+    "offset": 58420,
+    "lang": "es"
+  },
+  {
+    "text": "pueda encontrar la solución del problema",
+    "duration": 6270,
+    "offset": 61900,
+    "lang": "es"
+  },
+  {
+    "text": "entonces lo primero que nosotros tenemos",
+    "duration": 6760,
+    "offset": 64530,
+    "lang": "es"
+  },
+  {
+    "text": "que hacer es definir algo que se llama",
+    "duration": 6480,
+    "offset": 68170,
+    "lang": "es"
+  },
+  {
+    "text": "la intención o el intento el intento es",
+    "duration": 6780,
+    "offset": 71290,
+    "lang": "es"
+  },
+  {
+    "text": "la idea principal la idea central o el",
+    "duration": 7020,
+    "offset": 74650,
+    "lang": "es"
+  },
+  {
+    "text": "tema fundamental del cual habla la frase",
+    "duration": 6630,
+    "offset": 78070,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo si nosotros leemos este",
+    "duration": 6150,
+    "offset": 81670,
+    "lang": "es"
+  },
+  {
+    "text": "problema dice que nos encontramos en la",
+    "duration": 5309,
+    "offset": 84700,
+    "lang": "es"
+  },
+  {
+    "text": "antigua sucia en suiza donde guillermo",
+    "duration": 4260,
+    "offset": 87820,
+    "lang": "es"
+  },
+  {
+    "text": "tell va a intentar ensartar con una",
+    "duration": 3931,
+    "offset": 90009,
+    "lang": "es"
+  },
+  {
+    "text": "flecha una manzana dispuesta en la",
+    "duration": 5280,
+    "offset": 92080,
+    "lang": "es"
+  },
+  {
+    "text": "cabeza de su hijo a cierta distancia del",
+    "duration": 6360,
+    "offset": 93940,
+    "lang": "es"
+  },
+  {
+    "text": "punto de disparo la manzana está cinco",
+    "duration": 4350,
+    "offset": 97360,
+    "lang": "es"
+  },
+  {
+    "text": "metros por debajo del punto de",
+    "duration": 4470,
+    "offset": 100300,
+    "lang": "es"
+  },
+  {
+    "text": "lanzamiento de la flecha la flecha sale",
+    "duration": 4980,
+    "offset": 101710,
+    "lang": "es"
+  },
+  {
+    "text": "con una velocidad inicial de 50 metros",
+    "duration": 3810,
+    "offset": 104770,
+    "lang": "es"
+  },
+  {
+    "text": "por segundo",
+    "duration": 3569,
+    "offset": 106690,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo una inclinación de 30 grados",
+    "duration": 4679,
+    "offset": 108580,
+    "lang": "es"
+  },
+  {
+    "text": "con la horizontal y el viento produce",
+    "duration": 6301,
+    "offset": 110259,
+    "lang": "es"
+  },
+  {
+    "text": "una aceleración horizontal opuesta a su",
+    "duration": 6541,
+    "offset": 113259,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad de 2 por segundo",
+    "duration": 6360,
+    "offset": 116560,
+    "lang": "es"
+  },
+  {
+    "text": "claramente este problema está hablando",
+    "duration": 7380,
+    "offset": 119800,
+    "lang": "es"
+  },
+  {
+    "text": "de un problema de tiro oblicuo pero el",
+    "duration": 6870,
+    "offset": 122920,
+    "lang": "es"
+  },
+  {
+    "text": "tema central cuál es cuando hablamos de",
+    "duration": 5820,
+    "offset": 127180,
+    "lang": "es"
+  },
+  {
+    "text": "tiro oblicuo cinemática entonces",
+    "duration": 6920,
+    "offset": 129790,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros tenemos que definir",
+    "duration": 3710,
+    "offset": 133000,
+    "lang": "es"
+  },
+  {
+    "text": "en primer lugar el intento",
+    "duration": 7580,
+    "offset": 137110,
+    "lang": "es"
+  },
+  {
+    "text": "que es cinemática",
+    "duration": 3890,
+    "offset": 140800,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros lo que yo necesito es que de",
+    "duration": 5420,
+    "offset": 145260,
+    "lang": "es"
+  },
+  {
+    "text": "los problemas",
+    "duration": 4951,
+    "offset": 149549,
+    "lang": "es"
+  },
+  {
+    "text": "venga identificado el intento porque",
+    "duration": 6880,
+    "offset": 150680,
+    "lang": "es"
+  },
+  {
+    "text": "porque después le voy a mostrar cómo es",
+    "duration": 8120,
+    "offset": 154500,
+    "lang": "es"
+  },
+  {
+    "text": "que este problema se carga en el sistema",
+    "duration": 5060,
+    "offset": 157560,
+    "lang": "es"
+  },
+  {
+    "text": "el sistema en principio en el n l uno",
+    "duration": 5280,
+    "offset": 163520,
+    "lang": "es"
+  },
+  {
+    "text": "sabe que es cinemática no sabe que es",
+    "duration": 3990,
+    "offset": 166850,
+    "lang": "es"
+  },
+  {
+    "text": "dinámica lo va a aprender gracias a que",
+    "duration": 5010,
+    "offset": 168800,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros se lo vamos a enseñar entonces",
+    "duration": 5520,
+    "offset": 170840,
+    "lang": "es"
+  },
+  {
+    "text": "necesita que nosotros ingresemos esos",
+    "duration": 4190,
+    "offset": 173810,
+    "lang": "es"
+  },
+  {
+    "text": "datos estructurados",
+    "duration": 6090,
+    "offset": 176360,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá claramente el tema central",
+    "duration": 8410,
+    "offset": 178000,
+    "lang": "es"
+  },
+  {
+    "text": "es cinemática entonces a este tema",
+    "duration": 6600,
+    "offset": 182450,
+    "lang": "es"
+  },
+  {
+    "text": "central a este intento le vamos a poner",
+    "duration": 4840,
+    "offset": 186410,
+    "lang": "es"
+  },
+  {
+    "text": "cinemáticas",
+    "duration": 5680,
+    "offset": 189050,
+    "lang": "es"
+  },
+  {
+    "text": "bien o sea el intent es el tema central",
+    "duration": 8250,
+    "offset": 191250,
+    "lang": "es"
+  },
+  {
+    "text": "el tema núcleo de qué es lo que se está",
+    "duration": 6840,
+    "offset": 194730,
+    "lang": "es"
+  },
+  {
+    "text": "hablando ahora qué es lo que pasa dentro",
+    "duration": 4680,
+    "offset": 199500,
+    "lang": "es"
+  },
+  {
+    "text": "de la cinemática yo tengo distintas",
+    "duration": 6480,
+    "offset": 201570,
+    "lang": "es"
+  },
+  {
+    "text": "entidades tengo tiro oblicuo movimiento",
+    "duration": 7850,
+    "offset": 204180,
+    "lang": "es"
+  },
+  {
+    "text": "circular uniforme en movimiento general",
+    "duration": 7940,
+    "offset": 208050,
+    "lang": "es"
+  },
+  {
+    "text": "tengo un montón de entidades bien",
+    "duration": 7910,
+    "offset": 212030,
+    "lang": "es"
+  },
+  {
+    "text": "justamente para poder",
+    "duration": 7950,
+    "offset": 215990,
+    "lang": "es"
+  },
+  {
+    "text": "indicar mejor al sistema de nlv que se",
+    "duration": 6670,
+    "offset": 219940,
+    "lang": "es"
+  },
+  {
+    "text": "está hablando es que están las en titís",
+    "duration": 6440,
+    "offset": 223940,
+    "lang": "es"
+  },
+  {
+    "text": "o entidades acá claramente",
+    "duration": 3770,
+    "offset": 226610,
+    "lang": "es"
+  },
+  {
+    "text": "la entidad",
+    "duration": 3580,
+    "offset": 230540,
+    "lang": "es"
+  },
+  {
+    "text": "es",
+    "duration": 3630,
+    "offset": 232990,
+    "lang": "es"
+  },
+  {
+    "text": "tiro oblicuo",
+    "duration": 4960,
+    "offset": 234120,
+    "lang": "es"
+  },
+  {
+    "text": "bien entonces lo que yo voy a necesitar",
+    "duration": 6089,
+    "offset": 236620,
+    "lang": "es"
+  },
+  {
+    "text": "es que además de indicarme el intent que",
+    "duration": 7590,
+    "offset": 239080,
+    "lang": "es"
+  },
+  {
+    "text": "es cinemática me indiquen la en ti tío",
+    "duration": 6481,
+    "offset": 242709,
+    "lang": "es"
+  },
+  {
+    "text": "sea la entidad que estiró oblicua puede",
+    "duration": 5849,
+    "offset": 246670,
+    "lang": "es"
+  },
+  {
+    "text": "haber más de una entidad en realidad los",
+    "duration": 5400,
+    "offset": 249190,
+    "lang": "es"
+  },
+  {
+    "text": "datos estructuras después vamos a ver",
+    "duration": 5641,
+    "offset": 252519,
+    "lang": "es"
+  },
+  {
+    "text": "bien los tres en elementos en los cuales",
+    "duration": 6239,
+    "offset": 254590,
+    "lang": "es"
+  },
+  {
+    "text": "se estructuran pero si puede haber más",
+    "duration": 6390,
+    "offset": 258160,
+    "lang": "es"
+  },
+  {
+    "text": "de una entidad pero acá me dice intent",
+    "duration": 5611,
+    "offset": 260829,
+    "lang": "es"
+  },
+  {
+    "text": "cinemática",
+    "duration": 5930,
+    "offset": 264550,
+    "lang": "es"
+  },
+  {
+    "text": "en tití tiro oblicuo y después",
+    "duration": 8580,
+    "offset": 266440,
+    "lang": "es"
+  },
+  {
+    "text": "podemos seguir agregando datos para que",
+    "duration": 6730,
+    "offset": 270480,
+    "lang": "es"
+  },
+  {
+    "text": "la información sea más precisa y que",
+    "duration": 4620,
+    "offset": 275020,
+    "lang": "es"
+  },
+  {
+    "text": "pueda dar una mejor orientación nuestro",
+    "duration": 4980,
+    "offset": 277210,
+    "lang": "es"
+  },
+  {
+    "text": "chat ver qué es lo que sucede por",
+    "duration": 6560,
+    "offset": 279640,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo acá lo que podríamos hacer es",
+    "duration": 4010,
+    "offset": 282190,
+    "lang": "es"
+  },
+  {
+    "text": "utilizar una nueva un nuevo elemento que",
+    "duration": 5731,
+    "offset": 286449,
+    "lang": "es"
+  },
+  {
+    "text": "nos da el sistema de n lo que es el",
+    "duration": 5230,
+    "offset": 290409,
+    "lang": "es"
+  },
+  {
+    "text": "trade los trades son",
+    "duration": 7199,
+    "offset": 292180,
+    "lang": "es"
+  },
+  {
+    "text": "y elementos que sirven para hacer",
+    "duration": 3740,
+    "offset": 295639,
+    "lang": "es"
+  },
+  {
+    "text": "para",
+    "duration": 5440,
+    "offset": 299770,
+    "lang": "es"
+  },
+  {
+    "text": "determinar cualidades binarias o para",
+    "duration": 5410,
+    "offset": 301689,
+    "lang": "es"
+  },
+  {
+    "text": "determinar cualidades que pueden ser",
+    "duration": 4709,
+    "offset": 305210,
+    "lang": "es"
+  },
+  {
+    "text": "enumeradas por ejemplo un trade acá",
+    "duration": 6090,
+    "offset": 307099,
+    "lang": "es"
+  },
+  {
+    "text": "podría ser sistema de referencia",
+    "duration": 9020,
+    "offset": 309919,
+    "lang": "es"
+  },
+  {
+    "text": "cartesiano entonces acá tenemos",
+    "duration": 5750,
+    "offset": 313189,
+    "lang": "es"
+  },
+  {
+    "text": "por último el trade coordenadas",
+    "duration": 4980,
+    "offset": 319520,
+    "lang": "es"
+  },
+  {
+    "text": "cartesianas si podemos tener un trade",
+    "duration": 5359,
+    "offset": 321680,
+    "lang": "es"
+  },
+  {
+    "text": "que sea coordenadas cartesianas y",
+    "duration": 4800,
+    "offset": 324500,
+    "lang": "es"
+  },
+  {
+    "text": "coordenadas cartesianas coordenadas",
+    "duration": 5581,
+    "offset": 327039,
+    "lang": "es"
+  },
+  {
+    "text": "intrínsecas coordinadas en",
+    "duration": 7769,
+    "offset": 329300,
+    "lang": "es"
+  },
+  {
+    "text": "polares o sea no importa la cantidad lo",
+    "duration": 6160,
+    "offset": 332620,
+    "lang": "es"
+  },
+  {
+    "text": "que interesa es que el trade es para",
+    "duration": 3660,
+    "offset": 337069,
+    "lang": "es"
+  },
+  {
+    "text": "elementos innumerables para elementos",
+    "duration": 5490,
+    "offset": 338780,
+    "lang": "es"
+  },
+  {
+    "text": "que tienen valores discretos entonces",
+    "duration": 8501,
+    "offset": 340729,
+    "lang": "es"
+  },
+  {
+    "text": "acá leemos este problema",
+    "duration": 8530,
+    "offset": 344270,
+    "lang": "es"
+  },
+  {
+    "text": "y teniendo en cuenta lo que nos piden y",
+    "duration": 6540,
+    "offset": 349230,
+    "lang": "es"
+  },
+  {
+    "text": "el gráfico sabemos que es un problema",
+    "duration": 5880,
+    "offset": 352800,
+    "lang": "es"
+  },
+  {
+    "text": "cuyo intento o con la idea principal es",
+    "duration": 8460,
+    "offset": 355770,
+    "lang": "es"
+  },
+  {
+    "text": "cinemática cuyo en tití o dentro de la",
+    "duration": 9000,
+    "offset": 358680,
+    "lang": "es"
+  },
+  {
+    "text": "rama de la cinemática es tiro oblicuo y",
+    "duration": 6120,
+    "offset": 364230,
+    "lang": "es"
+  },
+  {
+    "text": "que además por la forma en la que por lo",
+    "duration": 4680,
+    "offset": 367680,
+    "lang": "es"
+  },
+  {
+    "text": "que me piden calcular el 30 es",
+    "duration": 4650,
+    "offset": 370350,
+    "lang": "es"
+  },
+  {
+    "text": "coordenadas cartesianas o sea de los",
+    "duration": 4380,
+    "offset": 372360,
+    "lang": "es"
+  },
+  {
+    "text": "elementos que se pueden operar lo puedo",
+    "duration": 3680,
+    "offset": 375000,
+    "lang": "es"
+  },
+  {
+    "text": "poner coordenadas cartesianas",
+    "duration": 4170,
+    "offset": 376740,
+    "lang": "es"
+  },
+  {
+    "text": "estos son los tres elementos que yo",
+    "duration": 4870,
+    "offset": 378680,
+    "lang": "es"
+  },
+  {
+    "text": "puedo definir el intento es único pero",
+    "duration": 4890,
+    "offset": 380910,
+    "lang": "es"
+  },
+  {
+    "text": "puede haber más de un trade y puede",
+    "duration": 5400,
+    "offset": 383550,
+    "lang": "es"
+  },
+  {
+    "text": "haber más de un en tití no hay problema",
+    "duration": 5310,
+    "offset": 385800,
+    "lang": "es"
+  },
+  {
+    "text": "con eso si ustedes creen que es",
+    "duration": 5400,
+    "offset": 388950,
+    "lang": "es"
+  },
+  {
+    "text": "necesario definir más de un trade o más",
+    "duration": 6120,
+    "offset": 391110,
+    "lang": "es"
+  },
+  {
+    "text": "de un en tití lo pueden hacer no se",
+    "duration": 6960,
+    "offset": 394350,
+    "lang": "es"
+  },
+  {
+    "text": "preocupen porque después el trabajo del",
+    "duration": 7830,
+    "offset": 397230,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollador es poner justamente esto",
+    "duration": 6110,
+    "offset": 401310,
+    "lang": "es"
+  },
+  {
+    "text": "dentro del sistema",
+    "duration": 5090,
+    "offset": 405060,
+    "lang": "es"
+  },
+  {
+    "text": "y eso es lo que vamos a ver en el",
+    "duration": 6600,
+    "offset": 407420,
+    "lang": "es"
+  },
+  {
+    "text": "próximo vídeo cómo es que se hace para",
+    "duration": 6960,
+    "offset": 410150,
+    "lang": "es"
+  },
+  {
+    "text": "poner todo esto que nosotros hicimos",
+    "duration": 7100,
+    "offset": 414020,
+    "lang": "es"
+  },
+  {
+    "text": "recién dentro del sistema",
+    "duration": 4010,
+    "offset": 417110,
+    "lang": "es"
+  }
+]

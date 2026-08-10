@@ -1,0 +1,722 @@
+[
+  {
+    "text": "Ahora que ya tenemos armado nuestro",
+    "duration": 5441,
+    "offset": 2159,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de rag agéntico, ahora que ya",
+    "duration": 6840,
+    "offset": 4120,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos los metadatos, ya tenemos todos",
+    "duration": 5760,
+    "offset": 7600,
+    "lang": "es"
+  },
+  {
+    "text": "nuestros archivos convertidos en chan y",
+    "duration": 4639,
+    "offset": 10960,
+    "lang": "es"
+  },
+  {
+    "text": "guardados en la base de datos Kudran, lo",
+    "duration": 4400,
+    "offset": 13360,
+    "lang": "es"
+  },
+  {
+    "text": "que tenemos que hacer es usarlo. Y una",
+    "duration": 3801,
+    "offset": 15599,
+    "lang": "es"
+  },
+  {
+    "text": "de las cosas que es importante tener en",
+    "duration": 3599,
+    "offset": 17760,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta es que el ragéntico con sistemas",
+    "duration": 5000,
+    "offset": 19400,
+    "lang": "es"
+  },
+  {
+    "text": "que tienen resoning como Sheminite 2.5 5",
+    "duration": 6240,
+    "offset": 21359,
+    "lang": "es"
+  },
+  {
+    "text": "Flash o Pro no es un sistema que",
+    "duration": 5240,
+    "offset": 24400,
+    "lang": "es"
+  },
+  {
+    "text": "únicamente nos va a devolver o nos va a",
+    "duration": 3840,
+    "offset": 27599,
+    "lang": "es"
+  },
+  {
+    "text": "explicar contenido. También es un",
+    "duration": 3960,
+    "offset": 29640,
+    "lang": "es"
+  },
+  {
+    "text": "sistema que puede razonar y lo más",
+    "duration": 4521,
+    "offset": 31439,
+    "lang": "es"
+  },
+  {
+    "text": "importante, resolver ejercicios. Si",
+    "duration": 4520,
+    "offset": 33600,
+    "lang": "es"
+  },
+  {
+    "text": "estamos en el caso de una empresa y",
+    "duration": 4160,
+    "offset": 35960,
+    "lang": "es"
+  },
+  {
+    "text": "queremos, por ejemplo, que nos resuelva",
+    "duration": 4360,
+    "offset": 38120,
+    "lang": "es"
+  },
+  {
+    "text": "un convenio colectivo de trabajo o que",
+    "duration": 5160,
+    "offset": 40120,
+    "lang": "es"
+  },
+  {
+    "text": "nos resuelva una licitación, también",
+    "duration": 5320,
+    "offset": 42480,
+    "lang": "es"
+  },
+  {
+    "text": "podrá hacerlo. Lo que importante es",
+    "duration": 4680,
+    "offset": 45280,
+    "lang": "es"
+  },
+  {
+    "text": "tener prompting de los agentes y el",
+    "duration": 3960,
+    "offset": 47800,
+    "lang": "es"
+  },
+  {
+    "text": "contenido adecuado. Pero ahora vamos a",
+    "duration": 4759,
+    "offset": 49960,
+    "lang": "es"
+  },
+  {
+    "text": "ver cómo resuelve un problema de física.",
+    "duration": 8560,
+    "offset": 51760,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, le vamos a dar este problema",
+    "duration": 5601,
+    "offset": 54719,
+    "lang": "es"
+  },
+  {
+    "text": "y le vamos a decir, podés resolver",
+    "duration": 4880,
+    "offset": 60440,
+    "lang": "es"
+  },
+  {
+    "text": "este problema",
+    "duration": 3439,
+    "offset": 66040,
+    "lang": "es"
+  },
+  {
+    "text": "usando trabajo y",
+    "duration": 6560,
+    "offset": 69640,
+    "lang": "es"
+  },
+  {
+    "text": "energía.",
+    "duration": 3000,
+    "offset": 73200,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, le vamos a dar el problema y",
+    "duration": 5839,
+    "offset": 76280,
+    "lang": "es"
+  },
+  {
+    "text": "ahí le pedimos que lo empiece a trabajar",
+    "duration": 6960,
+    "offset": 78600,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí empiezan a trabajar nuestros",
+    "duration": 7601,
+    "offset": 82119,
+    "lang": "es"
+  },
+  {
+    "text": "agentes. Fíjense que acá ya está. Ya,",
+    "duration": 6280,
+    "offset": 85560,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que",
+    "duration": 4320,
+    "offset": 89720,
+    "lang": "es"
+  },
+  {
+    "text": "eh dice, \"Voy a hacer trabajo y energía,",
+    "duration": 4919,
+    "offset": 91840,
+    "lang": "es"
+  },
+  {
+    "text": "pero usando choque",
+    "duration": 4280,
+    "offset": 94040,
+    "lang": "es"
+  },
+  {
+    "text": "y demás.\" Bien, esto es para los que",
+    "duration": 6201,
+    "offset": 96759,
+    "lang": "es"
+  },
+  {
+    "text": "saben física, pero fíjense que",
+    "duration": 6439,
+    "offset": 98320,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a resolver este problema de choque",
+    "duration": 3080,
+    "offset": 102960,
+    "lang": "es"
+  },
+  {
+    "text": "elástico en un plano inclinado",
+    "duration": 2281,
+    "offset": 104759,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando los principios de",
+    "duration": 3079,
+    "offset": 106040,
+    "lang": "es"
+  },
+  {
+    "text": "conservación del momento y la energía. O",
+    "duration": 4200,
+    "offset": 107040,
+    "lang": "es"
+  },
+  {
+    "text": "sea, él ya sabe que tiene que conservar",
+    "duration": 3360,
+    "offset": 109119,
+    "lang": "es"
+  },
+  {
+    "text": "el momento y la energía. Dice,",
+    "duration": 2919,
+    "offset": 111240,
+    "lang": "es"
+  },
+  {
+    "text": "inicialmente, solo la masa M tiene el",
+    "duration": 3761,
+    "offset": 112479,
+    "lang": "es"
+  },
+  {
+    "text": "momento horizontal. Después del choque,",
+    "duration": 3681,
+    "offset": 114159,
+    "lang": "es"
+  },
+  {
+    "text": "solo el plano inclinado N tiene el",
+    "duration": 3280,
+    "offset": 116240,
+    "lang": "es"
+  },
+  {
+    "text": "momento horizontal. Por lo tanto, la",
+    "duration": 3559,
+    "offset": 117840,
+    "lang": "es"
+  },
+  {
+    "text": "conservación del momento lineal en la",
+    "duration": 5959,
+    "offset": 119520,
+    "lang": "es"
+  },
+  {
+    "text": "dirección horizontal es no plantea la",
+    "duration": 5360,
+    "offset": 121399,
+    "lang": "es"
+  },
+  {
+    "text": "conservación del momento en las dos",
+    "duration": 2801,
+    "offset": 125479,
+    "lang": "es"
+  },
+  {
+    "text": "direcciones. La conservación de la",
+    "duration": 3161,
+    "offset": 126759,
+    "lang": "es"
+  },
+  {
+    "text": "energía cinéctica por ser un choque",
+    "duration": 2840,
+    "offset": 128280,
+    "lang": "es"
+  },
+  {
+    "text": "elástico, que es lo que dice el",
+    "duration": 3800,
+    "offset": 129920,
+    "lang": "es"
+  },
+  {
+    "text": "problema. Acá empieza con la relación de",
+    "duration": 5199,
+    "offset": 131120,
+    "lang": "es"
+  },
+  {
+    "text": "velocidades y finalmente resuelve el",
+    "duration": 6480,
+    "offset": 133720,
+    "lang": "es"
+  },
+  {
+    "text": "problema de la velocidad de la bola y la",
+    "duration": 7881,
+    "offset": 136319,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad de el plano inclinado. Y si yo",
+    "duration": 7280,
+    "offset": 140200,
+    "lang": "es"
+  },
+  {
+    "text": "le pregunto, por ejemplo, fíjense, se",
+    "duration": 6280,
+    "offset": 144200,
+    "lang": "es"
+  },
+  {
+    "text": "conserva,",
+    "duration": 3000,
+    "offset": 147480,
+    "lang": "es"
+  },
+  {
+    "text": "se conserva la cantidad de movimiento",
+    "duration": 5120,
+    "offset": 152160,
+    "lang": "es"
+  },
+  {
+    "text": "del sistema",
+    "duration": 10200,
+    "offset": 158160,
+    "lang": "es"
+  },
+  {
+    "text": "en el sentido del eje I.",
+    "duration": 7000,
+    "offset": 161360,
+    "lang": "es"
+  },
+  {
+    "text": "Hay fuerzas",
+    "duration": 6039,
+    "offset": 169480,
+    "lang": "es"
+  },
+  {
+    "text": "externas",
+    "duration": 3000,
+    "offset": 172519,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí le estoy pidiendo que me explique",
+    "duration": 4200,
+    "offset": 176000,
+    "lang": "es"
+  },
+  {
+    "text": "como el agente tiene memoria, recuerden,",
+    "duration": 4039,
+    "offset": 177920,
+    "lang": "es"
+  },
+  {
+    "text": "memoria semántica, episódica y",
+    "duration": 4640,
+    "offset": 180200,
+    "lang": "es"
+  },
+  {
+    "text": "procedural. Es un framework autogen el",
+    "duration": 5280,
+    "offset": 181959,
+    "lang": "es"
+  },
+  {
+    "text": "que está trabajando. Va a empezar a",
+    "duration": 4119,
+    "offset": 184840,
+    "lang": "es"
+  },
+  {
+    "text": "analizar la conservación del momento en",
+    "duration": 4241,
+    "offset": 187239,
+    "lang": "es"
+  },
+  {
+    "text": "el eje, las fuerzas externas. Y acá nos",
+    "duration": 5521,
+    "offset": 188959,
+    "lang": "es"
+  },
+  {
+    "text": "dice,",
+    "duration": 3000,
+    "offset": 191480,
+    "lang": "es"
+  },
+  {
+    "text": "para determinar si se conserva la",
+    "duration": 2601,
+    "offset": 195159,
+    "lang": "es"
+  },
+  {
+    "text": "cantidad de movimiento en el eje,",
+    "duration": 2640,
+    "offset": 196599,
+    "lang": "es"
+  },
+  {
+    "text": "debemos analizar la fuerzas externas",
+    "duration": 3000,
+    "offset": 197760,
+    "lang": "es"
+  },
+  {
+    "text": "quean sobre el sistema en esa dirección.",
+    "duration": 3401,
+    "offset": 199239,
+    "lang": "es"
+  },
+  {
+    "text": "Inicialmente, el sistema plenado de masa",
+    "duration": 3160,
+    "offset": 200760,
+    "lang": "es"
+  },
+  {
+    "text": "tiene una cantidad de movimiento en el",
+    "duration": 3879,
+    "offset": 202640,
+    "lang": "es"
+  },
+  {
+    "text": "eje I = a 0, ya que ambos están sobre la",
+    "duration": 3920,
+    "offset": 203920,
+    "lang": "es"
+  },
+  {
+    "text": "superficie horizontal. Después del",
+    "duration": 2881,
+    "offset": 206519,
+    "lang": "es"
+  },
+  {
+    "text": "choque, la masa m se mueve verticalmente",
+    "duration": 4280,
+    "offset": 207840,
+    "lang": "es"
+  },
+  {
+    "text": "hacia arriba conidad B sub M. Antes del",
+    "duration": 4559,
+    "offset": 209400,
+    "lang": "es"
+  },
+  {
+    "text": "choque, la fuerza externa neta en el eje",
+    "duration": 4160,
+    "offset": 212120,
+    "lang": "es"
+  },
+  {
+    "text": "IER. Tanto en el plano inclinado como",
+    "duration": 5081,
+    "offset": 213959,
+    "lang": "es"
+  },
+  {
+    "text": "sobre la masa están en equilibrio",
+    "duration": 4959,
+    "offset": 216280,
+    "lang": "es"
+  },
+  {
+    "text": "vertical. antes del choque, cuando está",
+    "duration": 4960,
+    "offset": 219040,
+    "lang": "es"
+  },
+  {
+    "text": "justo en ese momento durante el choque.",
+    "duration": 4321,
+    "offset": 221239,
+    "lang": "es"
+  },
+  {
+    "text": "Durante el choque, la fuerza normal",
+    "duration": 3360,
+    "offset": 224000,
+    "lang": "es"
+  },
+  {
+    "text": "ejercida por el suelo sobre el plano",
+    "duration": 4000,
+    "offset": 225560,
+    "lang": "es"
+  },
+  {
+    "text": "inclinado cambia. Esta fuerza normal es",
+    "duration": 5519,
+    "offset": 227360,
+    "lang": "es"
+  },
+  {
+    "text": "la fuerza externa al sistema. Además, la",
+    "duration": 5039,
+    "offset": 229560,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza que ejerce el plano sobre la masa",
+    "duration": 3521,
+    "offset": 232879,
+    "lang": "es"
+  },
+  {
+    "text": "y vicevers una fuerza interna del",
+    "duration": 3640,
+    "offset": 234599,
+    "lang": "es"
+  },
+  {
+    "text": "sistema. Conclusión sobre la",
+    "duration": 3440,
+    "offset": 236400,
+    "lang": "es"
+  },
+  {
+    "text": "conservación del movimiento en el eje I.",
+    "duration": 3640,
+    "offset": 238239,
+    "lang": "es"
+  },
+  {
+    "text": "Dado que durante el choque hay una",
+    "duration": 4679,
+    "offset": 239840,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza externa neta en el eje I, la",
+    "duration": 4601,
+    "offset": 241879,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza normal del suelo en el plano",
+    "duration": 4241,
+    "offset": 244519,
+    "lang": "es"
+  },
+  {
+    "text": "inclinado, la cantidad de movimiento no",
+    "duration": 4240,
+    "offset": 246480,
+    "lang": "es"
+  },
+  {
+    "text": "se conserva en el eje I. La fuerza",
+    "duration": 3640,
+    "offset": 248760,
+    "lang": "es"
+  },
+  {
+    "text": "normal del suelo es necesaria para",
+    "duration": 3879,
+    "offset": 250720,
+    "lang": "es"
+  },
+  {
+    "text": "cambiar la dirección del movimiento de",
+    "duration": 3839,
+    "offset": 252400,
+    "lang": "es"
+  },
+  {
+    "text": "la masa M horizontal. En resumen, no se",
+    "duration": 2600,
+    "offset": 254599,
+    "lang": "es"
+  },
+  {
+    "text": "conserva la cantidad de movimiento en el",
+    "duration": 2641,
+    "offset": 256239,
+    "lang": "es"
+  },
+  {
+    "text": "eje I debido a la presencia de una",
+    "duration": 3081,
+    "offset": 257199,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza externa, la fuerza normal del",
+    "duration": 4000,
+    "offset": 258880,
+    "lang": "es"
+  },
+  {
+    "text": "suelo. Bien, entonces nos dice que",
+    "duration": 4440,
+    "offset": 260280,
+    "lang": "es"
+  },
+  {
+    "text": "durante el choque de una fuerza externa,",
+    "duration": 3759,
+    "offset": 262880,
+    "lang": "es"
+  },
+  {
+    "text": "por ahí falta refinarlo un poco, pero",
+    "duration": 3199,
+    "offset": 264720,
+    "lang": "es"
+  },
+  {
+    "text": "esa fuerza externa es la fuerza",
+    "duration": 3400,
+    "offset": 266639,
+    "lang": "es"
+  },
+  {
+    "text": "impulsiva que provoca el cambio en la",
+    "duration": 4161,
+    "offset": 267919,
+    "lang": "es"
+  },
+  {
+    "text": "dirección de la cantidad de movimiento.",
+    "duration": 4121,
+    "offset": 270039,
+    "lang": "es"
+  },
+  {
+    "text": "Este raga",
+    "duration": 4119,
+    "offset": 272080,
+    "lang": "es"
+  },
+  {
+    "text": "estudiar, ideal para explicar, ideal",
+    "duration": 3680,
+    "offset": 274160,
+    "lang": "es"
+  },
+  {
+    "text": "para aquellas personas que necesitan un",
+    "duration": 3241,
+    "offset": 276199,
+    "lang": "es"
+  },
+  {
+    "text": "sociocognitivo",
+    "duration": 4840,
+    "offset": 277840,
+    "lang": "es"
+  },
+  {
+    "text": "y que deben completar esto con el",
+    "duration": 6360,
+    "offset": 279440,
+    "lang": "es"
+  },
+  {
+    "text": "adecuado eh bagaje teórico que se da en",
+    "duration": 6079,
+    "offset": 282680,
+    "lang": "es"
+  },
+  {
+    "text": "clase. Pero para que tengan una idea de",
+    "duration": 4320,
+    "offset": 285800,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que se puede hacer con el",
+    "duration": 4000,
+    "offset": 288759,
+    "lang": "es"
+  },
+  {
+    "text": "ragaagéntico.",
+    "duration": 2639,
+    "offset": 290120,
+    "lang": "es"
+  }
+]

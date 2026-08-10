@@ -1,0 +1,974 @@
+[
+  {
+    "text": "Vamos a ver en esta segunda parte cómo",
+    "duration": 7840,
+    "offset": 2240,
+    "lang": "es"
+  },
+  {
+    "text": "trabajar con el archivo Jason para cómo",
+    "duration": 6240,
+    "offset": 6279,
+    "lang": "es"
+  },
+  {
+    "text": "trabajar con el dispai y los archivos",
+    "duration": 5160,
+    "offset": 10080,
+    "lang": "es"
+  },
+  {
+    "text": "Jason para clonar nuestra manera de",
+    "duration": 5840,
+    "offset": 12519,
+    "lang": "es"
+  },
+  {
+    "text": "explicar. En principio acá vemos el",
+    "duration": 5160,
+    "offset": 15240,
+    "lang": "es"
+  },
+  {
+    "text": "archivo que tenemos que formar que se",
+    "duration": 6000,
+    "offset": 18359,
+    "lang": "es"
+  },
+  {
+    "text": "llama trainingxamples.jonjason.",
+    "duration": 3959,
+    "offset": 20400,
+    "lang": "es"
+  },
+  {
+    "text": "Con este archivo y los scripts de",
+    "duration": 4799,
+    "offset": 24400,
+    "lang": "es"
+  },
+  {
+    "text": "optimización",
+    "duration": 3881,
+    "offset": 27439,
+    "lang": "es"
+  },
+  {
+    "text": "que vemos",
+    "duration": 6121,
+    "offset": 29199,
+    "lang": "es"
+  },
+  {
+    "text": "más arriba, que son este este script de",
+    "duration": 6759,
+    "offset": 31320,
+    "lang": "es"
+  },
+  {
+    "text": "optimización, se van a generar estos",
+    "duration": 6160,
+    "offset": 35320,
+    "lang": "es"
+  },
+  {
+    "text": "archivos Jason de prom optimizados. Los",
+    "duration": 6041,
+    "offset": 38079,
+    "lang": "es"
+  },
+  {
+    "text": "agentes lo primero que van a hacer es ir",
+    "duration": 5480,
+    "offset": 41480,
+    "lang": "es"
+  },
+  {
+    "text": "a ver si están creados estos archivos",
+    "duration": 5840,
+    "offset": 44120,
+    "lang": "es"
+  },
+  {
+    "text": "Jonss de Prom optimizado para",
+    "duration": 5759,
+    "offset": 46960,
+    "lang": "es"
+  },
+  {
+    "text": "contestarnos. Y este training examples",
+    "duration": 6560,
+    "offset": 49960,
+    "lang": "es"
+  },
+  {
+    "text": "es que se es el que se va a formar con",
+    "duration": 5921,
+    "offset": 52719,
+    "lang": "es"
+  },
+  {
+    "text": "lo que quiere el profesor o se va a",
+    "duration": 5519,
+    "offset": 56520,
+    "lang": "es"
+  },
+  {
+    "text": "formar para clonar la forma de explicar",
+    "duration": 6159,
+    "offset": 58640,
+    "lang": "es"
+  },
+  {
+    "text": "del profesor. Ahora, ¿cómo es que",
+    "duration": 5601,
+    "offset": 62039,
+    "lang": "es"
+  },
+  {
+    "text": "empieza a gestarse",
+    "duration": 6721,
+    "offset": 64799,
+    "lang": "es"
+  },
+  {
+    "text": "todo esto? En principio, nosotros lo que",
+    "duration": 6799,
+    "offset": 67640,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que hacer es le damos un",
+    "duration": 6120,
+    "offset": 71520,
+    "lang": "es"
+  },
+  {
+    "text": "problema y es y vemos que ese problema",
+    "duration": 5761,
+    "offset": 74439,
+    "lang": "es"
+  },
+  {
+    "text": "se explica de una manera que no es la",
+    "duration": 5560,
+    "offset": 77640,
+    "lang": "es"
+  },
+  {
+    "text": "que nosotros lo haríamos. No nos gusta",
+    "duration": 6080,
+    "offset": 80200,
+    "lang": "es"
+  },
+  {
+    "text": "cómo está expresado ese problema. Ahora,",
+    "duration": 5559,
+    "offset": 83200,
+    "lang": "es"
+  },
+  {
+    "text": "¿qué es lo que sucede? Ese problema que",
+    "duration": 4600,
+    "offset": 86280,
+    "lang": "es"
+  },
+  {
+    "text": "pusimos ahí no lo vamos a ver en este",
+    "duration": 4561,
+    "offset": 88759,
+    "lang": "es"
+  },
+  {
+    "text": "momento porque eso forma parte de la",
+    "duration": 5199,
+    "offset": 90880,
+    "lang": "es"
+  },
+  {
+    "text": "interacción con el alumno. Cuando lo",
+    "duration": 7079,
+    "offset": 93320,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver, nosotros vamos a ir a",
+    "duration": 8720,
+    "offset": 96079,
+    "lang": "es"
+  },
+  {
+    "text": "nuestro sistema que hace la telemetría",
+    "duration": 8400,
+    "offset": 100399,
+    "lang": "es"
+  },
+  {
+    "text": "de todas las interacciones que tiene el",
+    "duration": 7721,
+    "offset": 104799,
+    "lang": "es"
+  },
+  {
+    "text": "estudiante con el sistema. Entonces, acá",
+    "duration": 6960,
+    "offset": 108799,
+    "lang": "es"
+  },
+  {
+    "text": "vemos que guarda el problema que le",
+    "duration": 5879,
+    "offset": 112520,
+    "lang": "es"
+  },
+  {
+    "text": "ingresó el estudiante. Acá se ve también",
+    "duration": 5841,
+    "offset": 115759,
+    "lang": "es"
+  },
+  {
+    "text": "el poder del sistema multimodal.",
+    "duration": 6481,
+    "offset": 118399,
+    "lang": "es"
+  },
+  {
+    "text": "¿Por qué? Porque nosotros le habíamos",
+    "duration": 6560,
+    "offset": 121600,
+    "lang": "es"
+  },
+  {
+    "text": "puesto esta imagen",
+    "duration": 6600,
+    "offset": 124880,
+    "lang": "es"
+  },
+  {
+    "text": "y el sistema multimodal lo que hace es",
+    "duration": 4960,
+    "offset": 128160,
+    "lang": "es"
+  },
+  {
+    "text": "describe",
+    "duration": 5360,
+    "offset": 131480,
+    "lang": "es"
+  },
+  {
+    "text": "la imagen para que el sistema LLM, que",
+    "duration": 7560,
+    "offset": 133120,
+    "lang": "es"
+  },
+  {
+    "text": "es el que va a resolver el problema,",
+    "duration": 6560,
+    "offset": 136840,
+    "lang": "es"
+  },
+  {
+    "text": "tenga no solamente el enunciado del",
+    "duration": 4440,
+    "offset": 140680,
+    "lang": "es"
+  },
+  {
+    "text": "problema, sino también toda la",
+    "duration": 4880,
+    "offset": 143400,
+    "lang": "es"
+  },
+  {
+    "text": "descripción del gráfico. Eso es un poco",
+    "duration": 4560,
+    "offset": 145120,
+    "lang": "es"
+  },
+  {
+    "text": "el funcionamiento del sistema",
+    "duration": 4360,
+    "offset": 148280,
+    "lang": "es"
+  },
+  {
+    "text": "multimodal. vemos toda la interacción y",
+    "duration": 5800,
+    "offset": 149680,
+    "lang": "es"
+  },
+  {
+    "text": "vemos la respuesta. Y lo que vemos en la",
+    "duration": 5080,
+    "offset": 152640,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta, ¿qué es? Bien, en la",
+    "duration": 7119,
+    "offset": 155480,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta lo que vemos es que toma un",
+    "duration": 7040,
+    "offset": 157720,
+    "lang": "es"
+  },
+  {
+    "text": "valor, hace algo que no es lo que",
+    "duration": 4000,
+    "offset": 162599,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros realmente quisiéramos que",
+    "duration": 4640,
+    "offset": 164760,
+    "lang": "es"
+  },
+  {
+    "text": "hiciera. Decimos, \"No, nosotros no",
+    "duration": 4961,
+    "offset": 166599,
+    "lang": "es"
+  },
+  {
+    "text": "queremos que el sistema funcione de esa",
+    "duration": 4479,
+    "offset": 169400,
+    "lang": "es"
+  },
+  {
+    "text": "manera. No queremos que este ejercicio,",
+    "duration": 4640,
+    "offset": 171560,
+    "lang": "es"
+  },
+  {
+    "text": "si bien no está mal resuelto, es algo",
+    "duration": 4280,
+    "offset": 173879,
+    "lang": "es"
+  },
+  {
+    "text": "que es muy complejo para el estudiante y",
+    "duration": 3600,
+    "offset": 176200,
+    "lang": "es"
+  },
+  {
+    "text": "hay que encararlo por otro lado.\" ¿Qué",
+    "duration": 6360,
+    "offset": 178159,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos? Por un lado, copiamos",
+    "duration": 4719,
+    "offset": 179800,
+    "lang": "es"
+  },
+  {
+    "text": "esta entrada de acá en la parte de",
+    "duration": 4560,
+    "offset": 185640,
+    "lang": "es"
+  },
+  {
+    "text": "input. Esta entrada de acá la vamos a",
+    "duration": 4401,
+    "offset": 187519,
+    "lang": "es"
+  },
+  {
+    "text": "copiar solamente la entrada, no la",
+    "duration": 4560,
+    "offset": 190200,
+    "lang": "es"
+  },
+  {
+    "text": "descripción visual, la parte de texto.",
+    "duration": 6440,
+    "offset": 191920,
+    "lang": "es"
+  },
+  {
+    "text": "Después vamos acá y copiamos el output",
+    "duration": 6119,
+    "offset": 194760,
+    "lang": "es"
+  },
+  {
+    "text": "de la salida de lo que respondió el",
+    "duration": 6120,
+    "offset": 198360,
+    "lang": "es"
+  },
+  {
+    "text": "sistema. Todo esto, todo este output lo",
+    "duration": 6481,
+    "offset": 200879,
+    "lang": "es"
+  },
+  {
+    "text": "copiamos. Después vamos a un Llm. El que",
+    "duration": 5839,
+    "offset": 204480,
+    "lang": "es"
+  },
+  {
+    "text": "a mí me gusta usar es cloud.",
+    "duration": 6000,
+    "offset": 207360,
+    "lang": "es"
+  },
+  {
+    "text": "Y en ese sistema cloud, ¿qué hacemos?",
+    "duration": 6681,
+    "offset": 210319,
+    "lang": "es"
+  },
+  {
+    "text": "Copiamos la pregunta, copiamos la",
+    "duration": 5879,
+    "offset": 213360,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta,",
+    "duration": 4799,
+    "offset": 217000,
+    "lang": "es"
+  },
+  {
+    "text": "copiamos también",
+    "duration": 6640,
+    "offset": 219239,
+    "lang": "es"
+  },
+  {
+    "text": "el archivo Jason de entrenamiento.",
+    "duration": 6281,
+    "offset": 221799,
+    "lang": "es"
+  },
+  {
+    "text": "Este archivo Jason de entrenamiento lo",
+    "duration": 4961,
+    "offset": 225879,
+    "lang": "es"
+  },
+  {
+    "text": "copiamos también. Y finalmente le",
+    "duration": 6200,
+    "offset": 228080,
+    "lang": "es"
+  },
+  {
+    "text": "pedimos a Cloud que",
+    "duration": 8599,
+    "offset": 230840,
+    "lang": "es"
+  },
+  {
+    "text": "aumente ese archivo Jason con el",
+    "duration": 7400,
+    "offset": 234280,
+    "lang": "es"
+  },
+  {
+    "text": "problema, pero que en ese problema",
+    "duration": 5440,
+    "offset": 239439,
+    "lang": "es"
+  },
+  {
+    "text": "indique que hay que hacer tal acción o",
+    "duration": 5160,
+    "offset": 241680,
+    "lang": "es"
+  },
+  {
+    "text": "tal otra. O sea, ahí lo que estamos",
+    "duration": 5000,
+    "offset": 244879,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo es empezando a clonar nuestra",
+    "duration": 5039,
+    "offset": 246840,
+    "lang": "es"
+  },
+  {
+    "text": "forma de",
+    "duration": 5841,
+    "offset": 249879,
+    "lang": "es"
+  },
+  {
+    "text": "explicar. Entonces,",
+    "duration": 7760,
+    "offset": 251879,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que Cloud hace eso, nos da el",
+    "duration": 5720,
+    "offset": 255720,
+    "lang": "es"
+  },
+  {
+    "text": "archivo que teníamos antes más la",
+    "duration": 5801,
+    "offset": 259639,
+    "lang": "es"
+  },
+  {
+    "text": "explicación de el cilindro",
+    "duration": 5920,
+    "offset": 261440,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo las cosas que nosotros queremos",
+    "duration": 5759,
+    "offset": 265440,
+    "lang": "es"
+  },
+  {
+    "text": "que haga. Entonces, lo copiamos.",
+    "duration": 9880,
+    "offset": 267360,
+    "lang": "es"
+  },
+  {
+    "text": "Lo que hacemos ahora vamos a nuestro",
+    "duration": 6041,
+    "offset": 271199,
+    "lang": "es"
+  },
+  {
+    "text": "a nuestro archivo Jason.",
+    "duration": 5560,
+    "offset": 277520,
+    "lang": "es"
+  },
+  {
+    "text": "Borramos esto",
+    "duration": 5079,
+    "offset": 280840,
+    "lang": "es"
+  },
+  {
+    "text": "y pegamos",
+    "duration": 7880,
+    "offset": 283080,
+    "lang": "es"
+  },
+  {
+    "text": "lo que e recién nos este",
+    "duration": 8921,
+    "offset": 285919,
+    "lang": "es"
+  },
+  {
+    "text": "pegamos. Lo que recién",
+    "duration": 3880,
+    "offset": 290960,
+    "lang": "es"
+  },
+  {
+    "text": "em",
+    "duration": 6120,
+    "offset": 294880,
+    "lang": "es"
+  },
+  {
+    "text": "sacamos de cloud.",
+    "duration": 5400,
+    "offset": 297720,
+    "lang": "es"
+  },
+  {
+    "text": "Acá tenemos pegado lo que recién sacamos",
+    "duration": 6280,
+    "offset": 301000,
+    "lang": "es"
+  },
+  {
+    "text": "de cloud. Guardamos.",
+    "duration": 4160,
+    "offset": 303120,
+    "lang": "es"
+  },
+  {
+    "text": "[resoplido]",
+    "duration": 2947,
+    "offset": 307853,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que esto es no hay que saber",
+    "duration": 5200,
+    "offset": 307960,
+    "lang": "es"
+  },
+  {
+    "text": "programar nada, no requiere ninguna",
+    "duration": 3839,
+    "offset": 310800,
+    "lang": "es"
+  },
+  {
+    "text": "habilidad de computación, ninguna",
+    "duration": 4000,
+    "offset": 313160,
+    "lang": "es"
+  },
+  {
+    "text": "habilidad de programación, perdón.",
+    "duration": 5161,
+    "offset": 314639,
+    "lang": "es"
+  },
+  {
+    "text": "Lo que hay que hacer es observar, hay",
+    "duration": 4640,
+    "offset": 317160,
+    "lang": "es"
+  },
+  {
+    "text": "que saber obviamente la materia en la",
+    "duration": 4519,
+    "offset": 319800,
+    "lang": "es"
+  },
+  {
+    "text": "que vamos a aconsejar, ¿no? Hay que",
+    "duration": 6480,
+    "offset": 321800,
+    "lang": "es"
+  },
+  {
+    "text": "observar el e",
+    "duration": 7561,
+    "offset": 324319,
+    "lang": "es"
+  },
+  {
+    "text": "hay que observar el eh",
+    "duration": 5880,
+    "offset": 328280,
+    "lang": "es"
+  },
+  {
+    "text": "la entrada, hay que observar el sistema",
+    "duration": 5000,
+    "offset": 331880,
+    "lang": "es"
+  },
+  {
+    "text": "de telemetría, la salida, eso hay que",
+    "duration": 5360,
+    "offset": 334160,
+    "lang": "es"
+  },
+  {
+    "text": "ponérselo a un LM que cualquiera genera",
+    "duration": 5120,
+    "offset": 336880,
+    "lang": "es"
+  },
+  {
+    "text": "Jason, pero a mí me gusta usar cloud. Y",
+    "duration": 5200,
+    "offset": 339520,
+    "lang": "es"
+  },
+  {
+    "text": "con eso vamos agrandando el archivo que",
+    "duration": 4520,
+    "offset": 342000,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros queremos usar. Una vez que",
+    "duration": 7240,
+    "offset": 344720,
+    "lang": "es"
+  },
+  {
+    "text": "hicimos esto, lo que hacemos es ponemos",
+    "duration": 8320,
+    "offset": 346520,
+    "lang": "es"
+  },
+  {
+    "text": "a correr el dispa, que va a empezar a",
+    "duration": 4600,
+    "offset": 351960,
+    "lang": "es"
+  },
+  {
+    "text": "hacer la optimización de prom. va a",
+    "duration": 3880,
+    "offset": 354840,
+    "lang": "es"
+  },
+  {
+    "text": "tomar el training example y a partir del",
+    "duration": 5160,
+    "offset": 356560,
+    "lang": "es"
+  },
+  {
+    "text": "training example va a ir cambiando los",
+    "duration": 5360,
+    "offset": 358720,
+    "lang": "es"
+  },
+  {
+    "text": "archivos de optimización de prompts que",
+    "duration": 5840,
+    "offset": 361720,
+    "lang": "es"
+  },
+  {
+    "text": "son los que va a leer el agente cuando",
+    "duration": 5760,
+    "offset": 364080,
+    "lang": "es"
+  },
+  {
+    "text": "empiece",
+    "duration": 6320,
+    "offset": 367560,
+    "lang": "es"
+  },
+  {
+    "text": "la a contestarle al estudiante. Y ahora",
+    "duration": 6400,
+    "offset": 369840,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver el resultado. Nosotros lo",
+    "duration": 5159,
+    "offset": 373880,
+    "lang": "es"
+  },
+  {
+    "text": "que queríamos es lo que yo hice fue",
+    "duration": 6200,
+    "offset": 376240,
+    "lang": "es"
+  },
+  {
+    "text": "pedirle que el centro de masa lo tomara",
+    "duration": 6121,
+    "offset": 379039,
+    "lang": "es"
+  },
+  {
+    "text": "en e",
+    "duration": 4520,
+    "offset": 382440,
+    "lang": "es"
+  },
+  {
+    "text": "en el perdón, que el centro de momento",
+    "duration": 3840,
+    "offset": 385160,
+    "lang": "es"
+  },
+  {
+    "text": "lo tomara en el centro de masa.",
+    "duration": 4560,
+    "offset": 386960,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, ahora vamos a ir a ver. Acá",
+    "duration": 4360,
+    "offset": 389000,
+    "lang": "es"
+  },
+  {
+    "text": "está",
+    "duration": 4160,
+    "offset": 391520,
+    "lang": "es"
+  },
+  {
+    "text": "generándose el archivo, está generándose",
+    "duration": 5399,
+    "offset": 393360,
+    "lang": "es"
+  },
+  {
+    "text": "el prom, leyendo, leyendo y generando el",
+    "duration": 4919,
+    "offset": 395680,
+    "lang": "es"
+  },
+  {
+    "text": "prompt incorrecto para funcionar como",
+    "duration": 4681,
+    "offset": 398759,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros queremos. Y ahora vamos a ir a",
+    "duration": 5841,
+    "offset": 400599,
+    "lang": "es"
+  },
+  {
+    "text": "ver",
+    "duration": 3000,
+    "offset": 403440,
+    "lang": "es"
+  },
+  {
+    "text": "la solución. Esta fue la primer parte.",
+    "duration": 4120,
+    "offset": 407639,
+    "lang": "es"
+  },
+  {
+    "text": "Esta es la segunda parte después que",
+    "duration": 4641,
+    "offset": 410039,
+    "lang": "es"
+  },
+  {
+    "text": "está el prompt optimizado. Y se ve que",
+    "duration": 4641,
+    "offset": 411759,
+    "lang": "es"
+  },
+  {
+    "text": "lo que queríamos hacer nosotros en la",
+    "duration": 5199,
+    "offset": 414680,
+    "lang": "es"
+  },
+  {
+    "text": "ecuación de torque lo toma respecto al",
+    "duration": 5680,
+    "offset": 416400,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa.",
+    "duration": 5880,
+    "offset": 419879,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá lo que hace es le explica al",
+    "duration": 5799,
+    "offset": 422080,
+    "lang": "es"
+  },
+  {
+    "text": "alumno, le da una salida al alumno como",
+    "duration": 5761,
+    "offset": 425759,
+    "lang": "es"
+  },
+  {
+    "text": "la que el profesor le hubiese dado.",
+    "duration": 6320,
+    "offset": 427879,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, cuando vienen, como el sistema",
+    "duration": 4679,
+    "offset": 431520,
+    "lang": "es"
+  },
+  {
+    "text": "trabaja por similaridad semántica,",
+    "duration": 4280,
+    "offset": 434199,
+    "lang": "es"
+  },
+  {
+    "text": "cuando vengan problemas que son",
+    "duration": 4801,
+    "offset": 436199,
+    "lang": "es"
+  },
+  {
+    "text": "semánticamente similares, lo que va a",
+    "duration": 4201,
+    "offset": 438479,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es va a explicar de la misma",
+    "duration": 4199,
+    "offset": 441000,
+    "lang": "es"
+  },
+  {
+    "text": "manera que lo explicaría el profesor.",
+    "duration": 4160,
+    "offset": 442680,
+    "lang": "es"
+  },
+  {
+    "text": "poco a poco, a medida que aumenta la",
+    "duration": 3400,
+    "offset": 445199,
+    "lang": "es"
+  },
+  {
+    "text": "interacción, a medida que nosotros",
+    "duration": 4280,
+    "offset": 446840,
+    "lang": "es"
+  },
+  {
+    "text": "podemos ir formando cada vez y cada vez",
+    "duration": 4880,
+    "offset": 448599,
+    "lang": "es"
+  },
+  {
+    "text": "engordando ese Jason, poco a poco vamos",
+    "duration": 5199,
+    "offset": 451120,
+    "lang": "es"
+  },
+  {
+    "text": "a ir logrando que toda la guía se",
+    "duration": 5280,
+    "offset": 453479,
+    "lang": "es"
+  },
+  {
+    "text": "explique a partir de los términos de",
+    "duration": 4121,
+    "offset": 456319,
+    "lang": "es"
+  },
+  {
+    "text": "búsqueda, los términos ingresados por el",
+    "duration": 6681,
+    "offset": 458759,
+    "lang": "es"
+  },
+  {
+    "text": "estudiante, como quiere el docente.",
+    "duration": 5000,
+    "offset": 460440,
+    "lang": "es"
+  }
+]

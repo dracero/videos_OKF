@@ -1,0 +1,368 @@
+[
+  {
+    "text": "entonces acá ya tenemos el intento que",
+    "duration": 7220,
+    "offset": 2580,
+    "lang": "es"
+  },
+  {
+    "text": "es rodadura ahora tenemos que buscar",
+    "duration": 7409,
+    "offset": 6390,
+    "lang": "es"
+  },
+  {
+    "text": "un grupo de texto libre y para palabras",
+    "duration": 7520,
+    "offset": 9800,
+    "lang": "es"
+  },
+  {
+    "text": "claves que se puedan asociar al entity",
+    "duration": 7361,
+    "offset": 13799,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá por ejemplo el cuerpo",
+    "duration": 8070,
+    "offset": 17320,
+    "lang": "es"
+  },
+  {
+    "text": "rígido está rodando sin deslizar y en en",
+    "duration": 5700,
+    "offset": 21160,
+    "lang": "es"
+  },
+  {
+    "text": "la superficie sobre la cual se mueve el",
+    "duration": 4290,
+    "offset": 25390,
+    "lang": "es"
+  },
+  {
+    "text": "índice de rozamiento se hace cero o",
+    "duration": 4919,
+    "offset": 26860,
+    "lang": "es"
+  },
+  {
+    "text": "podemos hacer directamente cuerpo rígido",
+    "duration": 4470,
+    "offset": 29680,
+    "lang": "es"
+  },
+  {
+    "text": "que está rodando sin deslizar entonces",
+    "duration": 3981,
+    "offset": 31779,
+    "lang": "es"
+  },
+  {
+    "text": "acá elegimos",
+    "duration": 4320,
+    "offset": 34150,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido no vamos a poner acá",
+    "duration": 4360,
+    "offset": 35760,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido que está rodando sin",
+    "duration": 3600,
+    "offset": 38470,
+    "lang": "es"
+  },
+  {
+    "text": "deslizar y el índice de rozamiento se",
+    "duration": 4310,
+    "offset": 40120,
+    "lang": "es"
+  },
+  {
+    "text": "hace cero sólo a las palabras bien",
+    "duration": 4919,
+    "offset": 42070,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 6680,
+    "offset": 44430,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros habíamos dicho que el inti el",
+    "duration": 7271,
+    "offset": 46989,
+    "lang": "es"
+  },
+  {
+    "text": "inta el inti se llamaba percusión bien",
+    "duration": 5190,
+    "offset": 51110,
+    "lang": "es"
+  },
+  {
+    "text": "sin acento por supuesto ahí lo puse con",
+    "duration": 5369,
+    "offset": 54260,
+    "lang": "es"
+  },
+  {
+    "text": "acento entonces elegimos cuerpo rígido",
+    "duration": 5279,
+    "offset": 56300,
+    "lang": "es"
+  },
+  {
+    "text": "ahorrando sin deslizar y el índice de",
+    "duration": 4200,
+    "offset": 59629,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento se hace cero",
+    "duration": 4351,
+    "offset": 61579,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá nos da para crear el nuevo",
+    "duration": 5001,
+    "offset": 63829,
+    "lang": "es"
+  },
+  {
+    "text": "en tití le ponemos",
+    "duration": 5770,
+    "offset": 65930,
+    "lang": "es"
+  },
+  {
+    "text": "percusión",
+    "duration": 2870,
+    "offset": 68830,
+    "lang": "es"
+  },
+  {
+    "text": "en que no existe porque si existe me",
+    "duration": 4730,
+    "offset": 71870,
+    "lang": "es"
+  },
+  {
+    "text": "sale esto y hago la creación del ente",
+    "duration": 5190,
+    "offset": 73910,
+    "lang": "es"
+  },
+  {
+    "text": "entonces a esta entidad le puse",
+    "duration": 6480,
+    "offset": 76600,
+    "lang": "es"
+  },
+  {
+    "text": "percusión el rol era",
+    "duration": 7250,
+    "offset": 79100,
+    "lang": "es"
+  },
+  {
+    "text": "en ancón porque es por la velocidad",
+    "duration": 6180,
+    "offset": 83080,
+    "lang": "es"
+  },
+  {
+    "text": "angular constante entonces acá voy a",
+    "duration": 4900,
+    "offset": 86350,
+    "lang": "es"
+  },
+  {
+    "text": "crear el roll",
+    "duration": 2420,
+    "offset": 89260,
+    "lang": "es"
+  },
+  {
+    "text": "an",
+    "duration": 2960,
+    "offset": 91250,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 5460,
+    "offset": 91680,
+    "lang": "es"
+  },
+  {
+    "text": "const",
+    "duration": 2930,
+    "offset": 94210,
+    "lang": "es"
+  },
+  {
+    "text": "y pongo crear el rol y el trade el",
+    "duration": 5360,
+    "offset": 98060,
+    "lang": "es"
+  },
+  {
+    "text": "clasificador era root",
+    "duration": 4660,
+    "offset": 101210,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá",
+    "duration": 4960,
+    "offset": 103420,
+    "lang": "es"
+  },
+  {
+    "text": "rod sin",
+    "duration": 5880,
+    "offset": 105870,
+    "lang": "es"
+  },
+  {
+    "text": "create trade y acá en el barrio y le",
+    "duration": 5100,
+    "offset": 108380,
+    "lang": "es"
+  },
+  {
+    "text": "pongo",
+    "duration": 4240,
+    "offset": 111750,
+    "lang": "es"
+  },
+  {
+    "text": "roth",
+    "duration": 2510,
+    "offset": 113480,
+    "lang": "es"
+  },
+  {
+    "text": "sí no",
+    "duration": 4510,
+    "offset": 118040,
+    "lang": "es"
+  },
+  {
+    "text": "create vale",
+    "duration": 5380,
+    "offset": 119780,
+    "lang": "es"
+  },
+  {
+    "text": "y ya tengo las cuatro entidades fíjense",
+    "duration": 4770,
+    "offset": 122550,
+    "lang": "es"
+  },
+  {
+    "text": "que la frase está asociada al intento",
+    "duration": 4129,
+    "offset": 125160,
+    "lang": "es"
+  },
+  {
+    "text": "que es rodadura",
+    "duration": 4249,
+    "offset": 127320,
+    "lang": "es"
+  },
+  {
+    "text": "el texto libre que dice que el cuerpo",
+    "duration": 4111,
+    "offset": 129289,
+    "lang": "es"
+  },
+  {
+    "text": "ruedas sin deslizar y en la superficie",
+    "duration": 4081,
+    "offset": 131569,
+    "lang": "es"
+  },
+  {
+    "text": "sobre la cual se mueve el índice de",
+    "duration": 5510,
+    "offset": 133400,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento se hace cero es percusión",
+    "duration": 5990,
+    "offset": 135650,
+    "lang": "es"
+  },
+  {
+    "text": "después el rol de esa parte de",
+    "duration": 5190,
+    "offset": 138910,
+    "lang": "es"
+  },
+  {
+    "text": "percusiones angular constante y el trade",
+    "duration": 6030,
+    "offset": 141640,
+    "lang": "es"
+  },
+  {
+    "text": "schrott shift rotzer sino bien o sea si",
+    "duration": 5650,
+    "offset": 144100,
+    "lang": "es"
+  },
+  {
+    "text": "rota decir sí o no",
+    "duration": 5000,
+    "offset": 147670,
+    "lang": "es"
+  },
+  {
+    "text": "30 en validez",
+    "duration": 5080,
+    "offset": 149750,
+    "lang": "es"
+  },
+  {
+    "text": "bien ahí",
+    "duration": 4649,
+    "offset": 152670,
+    "lang": "es"
+  },
+  {
+    "text": "estoy empieza a entrenarse la red",
+    "duration": 5190,
+    "offset": 154830,
+    "lang": "es"
+  },
+  {
+    "text": "neuronal sobre esas frases después lo",
+    "duration": 5250,
+    "offset": 157319,
+    "lang": "es"
+  },
+  {
+    "text": "que a mí me va a tocar es entrenarla",
+    "duration": 5689,
+    "offset": 160020,
+    "lang": "es"
+  },
+  {
+    "text": "sobre los sinónimos",
+    "duration": 3140,
+    "offset": 162569,
+    "lang": "es"
+  }
+]

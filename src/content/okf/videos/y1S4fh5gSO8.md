@@ -4,7 +4,7 @@ title: "Aprendiendo con Code academy y preparándose para las entrevistas"
 description: "El proceso de aprender a programar no tiene necesariamente que ser difícil y caro. Te dejo en este video una serie de webs para hacer el kick off en t"
 resource: "https://www.youtube.com/watch?v=y1S4fh5gSO8"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-02T00:21:58.288Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:48.454Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"
@@ -18,7 +18,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-02"
+    last_modified: "2026-08-10"
   - id: channel-concept
     resource: "src/content/okf/channels/UCx1KkYmHhghhGFgA7VP2aWQ.md"
     title: "Channel: Diego Racero"

@@ -1,0 +1,944 @@
+[
+  {
+    "text": "Vamos a mostrar cómo funciona",
+    "duration": 5359,
+    "offset": 960,
+    "lang": "es"
+  },
+  {
+    "text": "el sistema de chatbot que estamos",
+    "duration": 4601,
+    "offset": 3879,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollando para el proyecto Ubatic.",
+    "duration": 4801,
+    "offset": 6319,
+    "lang": "es"
+  },
+  {
+    "text": "Primero iniciamos sesión",
+    "duration": 8480,
+    "offset": 8480,
+    "lang": "es"
+  },
+  {
+    "text": "con la cuenta de Google de Fuba.",
+    "duration": 5840,
+    "offset": 11120,
+    "lang": "es"
+  },
+  {
+    "text": "Una vez que estamos dentro del sistema,",
+    "duration": 7240,
+    "offset": 22359,
+    "lang": "es"
+  },
+  {
+    "text": "podemos ir a crear un curso. Acá tengo",
+    "duration": 5080,
+    "offset": 26199,
+    "lang": "es"
+  },
+  {
+    "text": "creado el curso de física de los",
+    "duration": 4441,
+    "offset": 29599,
+    "lang": "es"
+  },
+  {
+    "text": "sistemas de partículas, pero puedo crear",
+    "duration": 5721,
+    "offset": 31279,
+    "lang": "es"
+  },
+  {
+    "text": "tantos cursos como yo quiera.",
+    "duration": 5720,
+    "offset": 34040,
+    "lang": "es"
+  },
+  {
+    "text": "Una vez que creé el curso,",
+    "duration": 8360,
+    "offset": 37000,
+    "lang": "es"
+  },
+  {
+    "text": "dentro del curso, puedo ir a documentos,",
+    "duration": 5600,
+    "offset": 39760,
+    "lang": "es"
+  },
+  {
+    "text": "subo los documentos y una vez que subo",
+    "duration": 5080,
+    "offset": 45920,
+    "lang": "es"
+  },
+  {
+    "text": "los proceso",
+    "duration": 7360,
+    "offset": 48960,
+    "lang": "es"
+  },
+  {
+    "text": "y ya queda listo para hacer distintos",
+    "duration": 7760,
+    "offset": 51000,
+    "lang": "es"
+  },
+  {
+    "text": "ejercicios. ¿Qué es lo que va a hacer?",
+    "duration": 5559,
+    "offset": 56320,
+    "lang": "es"
+  },
+  {
+    "text": "tiene en el en la parte frontal el",
+    "duration": 5719,
+    "offset": 58760,
+    "lang": "es"
+  },
+  {
+    "text": "asistente un orquestador y ese",
+    "duration": 4841,
+    "offset": 61879,
+    "lang": "es"
+  },
+  {
+    "text": "orquestador en función de la pregunta",
+    "duration": 5921,
+    "offset": 64479,
+    "lang": "es"
+  },
+  {
+    "text": "que yo le haga me va a responder, pero",
+    "duration": 5920,
+    "offset": 66720,
+    "lang": "es"
+  },
+  {
+    "text": "como es un sistema de rabéntico",
+    "duration": 6359,
+    "offset": 70400,
+    "lang": "es"
+  },
+  {
+    "text": "solamente solamente va a responder de el",
+    "duration": 7280,
+    "offset": 72640,
+    "lang": "es"
+  },
+  {
+    "text": "contenido que él eh tenga.",
+    "duration": 6320,
+    "offset": 76759,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a ver el ejemplo de un ejercicio",
+    "duration": 5040,
+    "offset": 79920,
+    "lang": "es"
+  },
+  {
+    "text": "sencillo",
+    "duration": 4761,
+    "offset": 83079,
+    "lang": "es"
+  },
+  {
+    "text": "de física. va por ahí, no tan sencillo.",
+    "duration": 5199,
+    "offset": 84960,
+    "lang": "es"
+  },
+  {
+    "text": "Y vamos a ver cómo",
+    "duration": 6520,
+    "offset": 87840,
+    "lang": "es"
+  },
+  {
+    "text": "razona el sistema.",
+    "duration": 4201,
+    "offset": 90159,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, vamos a buscar",
+    "duration": 4241,
+    "offset": 97399,
+    "lang": "es"
+  },
+  {
+    "text": "algún ejercicio",
+    "duration": 5439,
+    "offset": 101680,
+    "lang": "es"
+  },
+  {
+    "text": "recuperatorio.",
+    "duration": 5481,
+    "offset": 104119,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, entonces",
+    "duration": 5481,
+    "offset": 107119,
+    "lang": "es"
+  },
+  {
+    "text": "acá le voy a poner",
+    "duration": 4760,
+    "offset": 109600,
+    "lang": "es"
+  },
+  {
+    "text": "un ejercicio que es un ejercicio de un",
+    "duration": 5080,
+    "offset": 112600,
+    "lang": "es"
+  },
+  {
+    "text": "parcial que tomamos nosotros.",
+    "duration": 7200,
+    "offset": 114360,
+    "lang": "es"
+  },
+  {
+    "text": "Se lo puedo pegar, le doy enviar y ahí",
+    "duration": 6359,
+    "offset": 117680,
+    "lang": "es"
+  },
+  {
+    "text": "ya está procesando. Es un cañón que",
+    "duration": 7000,
+    "offset": 121560,
+    "lang": "es"
+  },
+  {
+    "text": "dispara un proyectil en forma oblicua.",
+    "duration": 6881,
+    "offset": 124039,
+    "lang": "es"
+  },
+  {
+    "text": "Acá están todos los datos y ahí está",
+    "duration": 5120,
+    "offset": 128560,
+    "lang": "es"
+  },
+  {
+    "text": "procesando para dar la respuesta del",
+    "duration": 4520,
+    "offset": 130920,
+    "lang": "es"
+  },
+  {
+    "text": "sistema.",
+    "duration": 4040,
+    "offset": 133680,
+    "lang": "es"
+  },
+  {
+    "text": "Funciona de la misma manera con es un",
+    "duration": 4320,
+    "offset": 135440,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de reagéntico. Funciona de la",
+    "duration": 4400,
+    "offset": 137720,
+    "lang": "es"
+  },
+  {
+    "text": "misma manera que funciona",
+    "duration": 4160,
+    "offset": 139760,
+    "lang": "es"
+  },
+  {
+    "text": "chat e chat GPT, no, perdón, que",
+    "duration": 3560,
+    "offset": 142120,
+    "lang": "es"
+  },
+  {
+    "text": "funciona Notebook LM. Notebook LM",
+    "duration": 3520,
+    "offset": 143920,
+    "lang": "es"
+  },
+  {
+    "text": "conectado a Sheminite con la única",
+    "duration": 6120,
+    "offset": 145680,
+    "lang": "es"
+  },
+  {
+    "text": "diferencia es que eh",
+    "duration": 6400,
+    "offset": 147440,
+    "lang": "es"
+  },
+  {
+    "text": "al ser un contenido propio, nosotros",
+    "duration": 5439,
+    "offset": 151800,
+    "lang": "es"
+  },
+  {
+    "text": "podemos eventualmente ver toda la",
+    "duration": 7520,
+    "offset": 153840,
+    "lang": "es"
+  },
+  {
+    "text": "interacción que hay entre el alumno y el",
+    "duration": 6000,
+    "offset": 157239,
+    "lang": "es"
+  },
+  {
+    "text": "eh",
+    "duration": 5799,
+    "offset": 161360,
+    "lang": "es"
+  },
+  {
+    "text": "entre el alumno y el sistema,",
+    "duration": 6801,
+    "offset": 163239,
+    "lang": "es"
+  },
+  {
+    "text": "cosa que no se puede ver la interacción",
+    "duration": 4440,
+    "offset": 167159,
+    "lang": "es"
+  },
+  {
+    "text": "entre, o sea, ¿qué le preguntó alumno,",
+    "duration": 3520,
+    "offset": 170040,
+    "lang": "es"
+  },
+  {
+    "text": "qué le respondió el sistema, no se puede",
+    "duration": 7241,
+    "offset": 171599,
+    "lang": "es"
+  },
+  {
+    "text": "ver directamente en e",
+    "duration": 7640,
+    "offset": 173560,
+    "lang": "es"
+  },
+  {
+    "text": "cuando uno usa notebook LM. Bien, acá",
+    "duration": 4600,
+    "offset": 178840,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos nos devolvió. Bueno, hay que ver",
+    "duration": 5480,
+    "offset": 181200,
+    "lang": "es"
+  },
+  {
+    "text": "ahora porque en algunos casos nos sale",
+    "duration": 6799,
+    "offset": 183440,
+    "lang": "es"
+  },
+  {
+    "text": "el e",
+    "duration": 6400,
+    "offset": 186680,
+    "lang": "es"
+  },
+  {
+    "text": "la parte de látex, pero las fórmulas que",
+    "duration": 5401,
+    "offset": 190239,
+    "lang": "es"
+  },
+  {
+    "text": "da son todas correctas, la manera de ser",
+    "duration": 6040,
+    "offset": 193080,
+    "lang": "es"
+  },
+  {
+    "text": "el diagrama de cuerpo libre, eh la forma",
+    "duration": 7560,
+    "offset": 195640,
+    "lang": "es"
+  },
+  {
+    "text": "en que resuelve. Acá vamos a ver.",
+    "duration": 5839,
+    "offset": 199120,
+    "lang": "es"
+  },
+  {
+    "text": "E",
+    "duration": 3280,
+    "offset": 203200,
+    "lang": "es"
+  },
+  {
+    "text": "dice que se conserva la cantidad de",
+    "duration": 2840,
+    "offset": 204959,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento horizontal. Entonces, le",
+    "duration": 3880,
+    "offset": 206480,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a pedir, le vamos a preguntar,",
+    "duration": 7201,
+    "offset": 207799,
+    "lang": "es"
+  },
+  {
+    "text": "pero la cantidad de movimiento",
+    "duration": 7159,
+    "offset": 210360,
+    "lang": "es"
+  },
+  {
+    "text": "ver",
+    "duration": 4959,
+    "offset": 215000,
+    "lang": "es"
+  },
+  {
+    "text": "cal",
+    "duration": 4601,
+    "offset": 217519,
+    "lang": "es"
+  },
+  {
+    "text": "no se",
+    "duration": 5161,
+    "offset": 219959,
+    "lang": "es"
+  },
+  {
+    "text": "conserva.",
+    "duration": 3000,
+    "offset": 222120,
+    "lang": "es"
+  },
+  {
+    "text": "Acá le estamos preguntando por la",
+    "duration": 6200,
+    "offset": 227480,
+    "lang": "es"
+  },
+  {
+    "text": "cantidad de movimiento vertical.",
+    "duration": 4200,
+    "offset": 229480,
+    "lang": "es"
+  },
+  {
+    "text": "El modelo que tiene es un modelo chino",
+    "duration": 5599,
+    "offset": 241840,
+    "lang": "es"
+  },
+  {
+    "text": "que es un modelo muy muy barato,",
+    "duration": 5320,
+    "offset": 244680,
+    "lang": "es"
+  },
+  {
+    "text": "realmente muy barato.",
+    "duration": 4800,
+    "offset": 247439,
+    "lang": "es"
+  },
+  {
+    "text": "Y este es el que va a poder procesar,",
+    "duration": 4159,
+    "offset": 250000,
+    "lang": "es"
+  },
+  {
+    "text": "como tiene un orquestador, cualquier",
+    "duration": 4000,
+    "offset": 252239,
+    "lang": "es"
+  },
+  {
+    "text": "tipo de mensaje. O sea, no solamente va",
+    "duration": 5920,
+    "offset": 254159,
+    "lang": "es"
+  },
+  {
+    "text": "a procesar mensajes e en mensajes no",
+    "duration": 6121,
+    "offset": 256239,
+    "lang": "es"
+  },
+  {
+    "text": "solamente va a procesar problemas de de",
+    "duration": 5081,
+    "offset": 260079,
+    "lang": "es"
+  },
+  {
+    "text": "física, sino que también de química, de",
+    "duration": 5080,
+    "offset": 262360,
+    "lang": "es"
+  },
+  {
+    "text": "histopatología, de todo lo que al",
+    "duration": 3920,
+    "offset": 265160,
+    "lang": "es"
+  },
+  {
+    "text": "orquestador se le informe que puede",
+    "duration": 4599,
+    "offset": 267440,
+    "lang": "es"
+  },
+  {
+    "text": "resolver. Bien. Y entonces acá dice, ¿se",
+    "duration": 4000,
+    "offset": 269080,
+    "lang": "es"
+  },
+  {
+    "text": "conserva la cantidad de movimiento",
+    "duration": 2681,
+    "offset": 272039,
+    "lang": "es"
+  },
+  {
+    "text": "vertical? La respuesta correcta es no.",
+    "duration": 2920,
+    "offset": 273080,
+    "lang": "es"
+  },
+  {
+    "text": "La cantidad de movimiento vertical del",
+    "duration": 3560,
+    "offset": 274720,
+    "lang": "es"
+  },
+  {
+    "text": "sistema no se conserva durante el",
+    "duration": 4720,
+    "offset": 276000,
+    "lang": "es"
+  },
+  {
+    "text": "disparo. Te explico por qué. Para que un",
+    "duration": 3800,
+    "offset": 278280,
+    "lang": "es"
+  },
+  {
+    "text": "componente de cantidad de movimiento de",
+    "duration": 2960,
+    "offset": 280720,
+    "lang": "es"
+  },
+  {
+    "text": "un sistema se conserve, la suma de las",
+    "duration": 3280,
+    "offset": 282080,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas externas que actúan sobre el",
+    "duration": 4079,
+    "offset": 283680,
+    "lang": "es"
+  },
+  {
+    "text": "sistema en esa dirección debe ser cero.",
+    "duration": 4000,
+    "offset": 285360,
+    "lang": "es"
+  },
+  {
+    "text": "Fuerzas externas en dirección vertical,",
+    "duration": 3681,
+    "offset": 287759,
+    "lang": "es"
+  },
+  {
+    "text": "dice sobre el sistema bala cañón carro",
+    "duration": 3920,
+    "offset": 289360,
+    "lang": "es"
+  },
+  {
+    "text": "actúan dos fuerzas externas verticales,",
+    "duration": 4240,
+    "offset": 291440,
+    "lang": "es"
+  },
+  {
+    "text": "el peso y la normal. Si el carro se",
+    "duration": 4320,
+    "offset": 293280,
+    "lang": "es"
+  },
+  {
+    "text": "mantiene sobre el carril sin aceleración",
+    "duration": 4320,
+    "offset": 295680,
+    "lang": "es"
+  },
+  {
+    "text": "vertical, podrías pensar que n = mg, que",
+    "duration": 4240,
+    "offset": 297600,
+    "lang": "es"
+  },
+  {
+    "text": "ambas se cancelan, pero eso no es cierto",
+    "duration": 3400,
+    "offset": 300000,
+    "lang": "es"
+  },
+  {
+    "text": "durante el disparo. Está perfecta esta",
+    "duration": 4320,
+    "offset": 301840,
+    "lang": "es"
+  },
+  {
+    "text": "aplicación. Cuando el cañón dispara la",
+    "duration": 4320,
+    "offset": 303400,
+    "lang": "es"
+  },
+  {
+    "text": "eh dispara la bala, este adquiere un",
+    "duration": 4240,
+    "offset": 306160,
+    "lang": "es"
+  },
+  {
+    "text": "componente vertical de velocidad.",
+    "duration": 4080,
+    "offset": 307720,
+    "lang": "es"
+  },
+  {
+    "text": "Acá, bueno, hay que ver por qué no sale",
+    "duration": 3079,
+    "offset": 310400,
+    "lang": "es"
+  },
+  {
+    "text": "el látex, que eso lo vamos a arreglar,",
+    "duration": 4000,
+    "offset": 311800,
+    "lang": "es"
+  },
+  {
+    "text": "pero es una cosa simplemente del",
+    "duration": 4521,
+    "offset": 313479,
+    "lang": "es"
+  },
+  {
+    "text": "frontend. Esto significa que el centro",
+    "duration": 3600,
+    "offset": 315800,
+    "lang": "es"
+  },
+  {
+    "text": "de masa del sistema experimenta una",
+    "duration": 3440,
+    "offset": 318000,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración vertical porque la bala se",
+    "duration": 3239,
+    "offset": 319400,
+    "lang": "es"
+  },
+  {
+    "text": "mueve hacia arriba, mientras que el",
+    "duration": 3720,
+    "offset": 321440,
+    "lang": "es"
+  },
+  {
+    "text": "carro cañón permanece en el carril.",
+    "duration": 4400,
+    "offset": 322639,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. Acá, bueno, nos está explicando",
+    "duration": 4319,
+    "offset": 325160,
+    "lang": "es"
+  },
+  {
+    "text": "que hay una fuerza externa vertical",
+    "duration": 4961,
+    "offset": 327039,
+    "lang": "es"
+  },
+  {
+    "text": "impulsiva que no es cero y eso hace que",
+    "duration": 3881,
+    "offset": 329479,
+    "lang": "es"
+  },
+  {
+    "text": "no se conserve la cantidad de",
+    "duration": 4720,
+    "offset": 332000,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento. Y acá una conclusión, la",
+    "duration": 5040,
+    "offset": 333360,
+    "lang": "es"
+  },
+  {
+    "text": "verdad que es perfecto como explica.",
+    "duration": 3680,
+    "offset": 336720,
+    "lang": "es"
+  },
+  {
+    "text": "Este es nuestro sistema. Este lo tenemos",
+    "duration": 3880,
+    "offset": 338400,
+    "lang": "es"
+  },
+  {
+    "text": "hosteado nosotros. Ahora está probando",
+    "duration": 4760,
+    "offset": 340400,
+    "lang": "es"
+  },
+  {
+    "text": "medicina. nos falta arreglar algo. Y",
+    "duration": 4720,
+    "offset": 342280,
+    "lang": "es"
+  },
+  {
+    "text": "después",
+    "duration": 5520,
+    "offset": 345160,
+    "lang": "es"
+  },
+  {
+    "text": "lo otro que e que se puede hacer con",
+    "duration": 6840,
+    "offset": 347000,
+    "lang": "es"
+  },
+  {
+    "text": "este sistema, como es contenido propio,",
+    "duration": 6519,
+    "offset": 350680,
+    "lang": "es"
+  },
+  {
+    "text": "es este analizar",
+    "duration": 6960,
+    "offset": 353840,
+    "lang": "es"
+  },
+  {
+    "text": "todas las eh interacciones,",
+    "duration": 6201,
+    "offset": 357199,
+    "lang": "es"
+  },
+  {
+    "text": "todas las interacciones que hubo entre",
+    "duration": 7399,
+    "offset": 360800,
+    "lang": "es"
+  },
+  {
+    "text": "el usuario y el eh",
+    "duration": 8680,
+    "offset": 363400,
+    "lang": "es"
+  },
+  {
+    "text": "analizar todas las interacciones",
+    "duration": 6840,
+    "offset": 368199,
+    "lang": "es"
+  },
+  {
+    "text": "que hubo en entre el usuario y el",
+    "duration": 6080,
+    "offset": 372080,
+    "lang": "es"
+  },
+  {
+    "text": "sistema. Y de esa manera, analizando las",
+    "duration": 5440,
+    "offset": 375039,
+    "lang": "es"
+  },
+  {
+    "text": "interacciones entre el usuario y el",
+    "duration": 4280,
+    "offset": 378160,
+    "lang": "es"
+  },
+  {
+    "text": "sistema, nosotros podemos tomar",
+    "duration": 3241,
+    "offset": 380479,
+    "lang": "es"
+  },
+  {
+    "text": "decisiones que es lo que viene en la",
+    "duration": 3000,
+    "offset": 382440,
+    "lang": "es"
+  },
+  {
+    "text": "segunda parte, que es hacer el",
+    "duration": 4080,
+    "offset": 383720,
+    "lang": "es"
+  },
+  {
+    "text": "mejoramiento del proms, cambiar el",
+    "duration": 6960,
+    "offset": 385440,
+    "lang": "es"
+  },
+  {
+    "text": "material y demás.",
+    "duration": 4600,
+    "offset": 387800,
+    "lang": "es"
+  },
+  {
+    "text": "Eso, ¿cómo lo hacemos? Acá voy a mostrar",
+    "duration": 5720,
+    "offset": 393039,
+    "lang": "es"
+  },
+  {
+    "text": "eh",
+    "duration": 5481,
+    "offset": 399639,
+    "lang": "es"
+  },
+  {
+    "text": "por telemetría.",
+    "duration": 5480,
+    "offset": 402400,
+    "lang": "es"
+  },
+  {
+    "text": "Aguérdenme que ah acá acá se está viendo",
+    "duration": 5440,
+    "offset": 405120,
+    "lang": "es"
+  },
+  {
+    "text": "justamente la otra pantalla, justamente",
+    "duration": 4920,
+    "offset": 407880,
+    "lang": "es"
+  },
+  {
+    "text": "por telemetría. Acá vemos, este es un",
+    "duration": 6359,
+    "offset": 410560,
+    "lang": "es"
+  },
+  {
+    "text": "sistema que por telemetría toma todo lo",
+    "duration": 6880,
+    "offset": 412800,
+    "lang": "es"
+  },
+  {
+    "text": "que e",
+    "duration": 4840,
+    "offset": 416919,
+    "lang": "es"
+  },
+  {
+    "text": "toda la interacción.",
+    "duration": 3799,
+    "offset": 419680,
+    "lang": "es"
+  },
+  {
+    "text": "Se se muestran también la cantidad de",
+    "duration": 3801,
+    "offset": 421759,
+    "lang": "es"
+  },
+  {
+    "text": "token que se gastan y demás. se toma",
+    "duration": 3641,
+    "offset": 423479,
+    "lang": "es"
+  },
+  {
+    "text": "toda la interacción entre el sistema y",
+    "duration": 4639,
+    "offset": 425560,
+    "lang": "es"
+  },
+  {
+    "text": "el alumno y después esto se puede usar",
+    "duration": 5600,
+    "offset": 427120,
+    "lang": "es"
+  },
+  {
+    "text": "para hacer la modificación de proms, que",
+    "duration": 4881,
+    "offset": 430199,
+    "lang": "es"
+  },
+  {
+    "text": "es lo que viene, bueno, en esta segunda",
+    "duration": 9120,
+    "offset": 432720,
+    "lang": "es"
+  },
+  {
+    "text": "y última parte de el proyecto Ubatic.",
+    "duration": 6760,
+    "offset": 435080,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,776 @@
+[
+  {
+    "text": "qué tenemos acá acá tenemos un grafo que",
+    "duration": 7160,
+    "offset": 1880,
+    "lang": "es"
+  },
+  {
+    "text": "está armado es un una forma",
+    "duration": 6960,
+    "offset": 5400,
+    "lang": "es"
+  },
+  {
+    "text": "estructurada con una topología de nodos",
+    "duration": 7079,
+    "offset": 9040,
+    "lang": "es"
+  },
+  {
+    "text": "y vértices Armada a partir de un texto",
+    "duration": 6800,
+    "offset": 12360,
+    "lang": "es"
+  },
+  {
+    "text": "no estructurado Cuál es el texto no",
+    "duration": 6201,
+    "offset": 16119,
+    "lang": "es"
+  },
+  {
+    "text": "estructurado que nosotros elegimos es",
+    "duration": 5800,
+    "offset": 19160,
+    "lang": "es"
+  },
+  {
+    "text": "este de la doble diplomatura con Francia",
+    "duration": 6640,
+    "offset": 22320,
+    "lang": "es"
+  },
+  {
+    "text": "todo este texto que se ve acá que",
+    "duration": 7159,
+    "offset": 24960,
+    "lang": "es"
+  },
+  {
+    "text": "explica todas las frequently as question",
+    "duration": 6080,
+    "offset": 28960,
+    "lang": "es"
+  },
+  {
+    "text": "que los alumnos hacen cuando quieren",
+    "duration": 5841,
+    "offset": 32119,
+    "lang": "es"
+  },
+  {
+    "text": "aplicar para la doble diplomatura con",
+    "duration": 6240,
+    "offset": 35040,
+    "lang": "es"
+  },
+  {
+    "text": "Francia fue convertido con algoritmos de",
+    "duration": 6480,
+    "offset": 37960,
+    "lang": "es"
+  },
+  {
+    "text": "neo4j en un grafo Qué importancia tiene",
+    "duration": 5720,
+    "offset": 41280,
+    "lang": "es"
+  },
+  {
+    "text": "que se haya puesto en un grafo bien",
+    "duration": 6320,
+    "offset": 44440,
+    "lang": "es"
+  },
+  {
+    "text": "primero que hay una estructura",
+    "duration": 7039,
+    "offset": 47000,
+    "lang": "es"
+  },
+  {
+    "text": "jerárquica dentro de cada uno de los",
+    "duration": 6040,
+    "offset": 50760,
+    "lang": "es"
+  },
+  {
+    "text": "nodos cuando se hace la búsqueda en",
+    "duration": 4761,
+    "offset": 54039,
+    "lang": "es"
+  },
+  {
+    "text": "cambio de ser una búsqueda puramente en",
+    "duration": 3800,
+    "offset": 56800,
+    "lang": "es"
+  },
+  {
+    "text": "base de acto",
+    "duration": 4120,
+    "offset": 58800,
+    "lang": "es"
+  },
+  {
+    "text": "se hace primero la búsqueda a través de",
+    "duration": 5480,
+    "offset": 60600,
+    "lang": "es"
+  },
+  {
+    "text": "los nodos como Busca el camino más corto",
+    "duration": 5839,
+    "offset": 62920,
+    "lang": "es"
+  },
+  {
+    "text": "o el mejor camino un algoritmo de red",
+    "duration": 5000,
+    "offset": 66080,
+    "lang": "es"
+  },
+  {
+    "text": "bien igualmente se busca la mejor",
+    "duration": 4201,
+    "offset": 68759,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta a través del texto en los",
+    "duration": 4880,
+    "offset": 71080,
+    "lang": "es"
+  },
+  {
+    "text": "nodos pero después cada uno de esos",
+    "duration": 5519,
+    "offset": 72960,
+    "lang": "es"
+  },
+  {
+    "text": "textos tienen beddings con los cual con",
+    "duration": 5040,
+    "offset": 75960,
+    "lang": "es"
+  },
+  {
+    "text": "los cuales se pueden hacer búsquedas",
+    "duration": 5280,
+    "offset": 78479,
+    "lang": "es"
+  },
+  {
+    "text": "vectoriales como la que habíamos visto",
+    "duration": 6439,
+    "offset": 81000,
+    "lang": "es"
+  },
+  {
+    "text": "antes Para qué sirve todo esto esto",
+    "duration": 6360,
+    "offset": 83759,
+    "lang": "es"
+  },
+  {
+    "text": "sirve porque yo lo que puedo hacer es",
+    "duration": 5761,
+    "offset": 87439,
+    "lang": "es"
+  },
+  {
+    "text": "responder preguntas generales",
+    "duration": 6521,
+    "offset": 90119,
+    "lang": "es"
+  },
+  {
+    "text": "holísticas y también puedo generar todos",
+    "duration": 6720,
+    "offset": 93200,
+    "lang": "es"
+  },
+  {
+    "text": "los algoritmos de agrupamientos cac",
+    "duration": 8000,
+    "offset": 96640,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmos de este de clustering que me",
+    "duration": 8320,
+    "offset": 99920,
+    "lang": "es"
+  },
+  {
+    "text": "van a ayudar a descubrir patrones dentro",
+    "duration": 8240,
+    "offset": 104640,
+    "lang": "es"
+  },
+  {
+    "text": "de El grafo a partir de texto no",
+    "duration": 8640,
+    "offset": 108240,
+    "lang": "es"
+  },
+  {
+    "text": "estructurado que vamos a verlo en acción",
+    "duration": 6559,
+    "offset": 112880,
+    "lang": "es"
+  },
+  {
+    "text": "no tenemos tenemos un prototipo porque",
+    "duration": 5040,
+    "offset": 116880,
+    "lang": "es"
+  },
+  {
+    "text": "bueno se está Armando Pero fíjense que",
+    "duration": 6081,
+    "offset": 119439,
+    "lang": "es"
+  },
+  {
+    "text": "acá tenemos la doble diplomatura y como",
+    "duration": 6720,
+    "offset": 121920,
+    "lang": "es"
+  },
+  {
+    "text": "nodos hijos de la doble diplomatura",
+    "duration": 5840,
+    "offset": 125520,
+    "lang": "es"
+  },
+  {
+    "text": "todas aquellas implicancias o todas",
+    "duration": 4400,
+    "offset": 128640,
+    "lang": "es"
+  },
+  {
+    "text": "aquellas consideraciones que se",
+    "duration": 4680,
+    "offset": 131360,
+    "lang": "es"
+  },
+  {
+    "text": "desprenden de la doble diplomatura y",
+    "duration": 6839,
+    "offset": 133040,
+    "lang": "es"
+  },
+  {
+    "text": "relacionado con eso tenemos las e los",
+    "duration": 6199,
+    "offset": 136040,
+    "lang": "es"
+  },
+  {
+    "text": "vértices que nos dan el texto",
+    "duration": 4521,
+    "offset": 139879,
+    "lang": "es"
+  },
+  {
+    "text": "explicativo de cómo es que se va",
+    "duration": 4241,
+    "offset": 142239,
+    "lang": "es"
+  },
+  {
+    "text": "llegando a los hijos toda esa estructura",
+    "duration": 4919,
+    "offset": 144400,
+    "lang": "es"
+  },
+  {
+    "text": "de grafos si quisiera yo podría utilizar",
+    "duration": 7399,
+    "offset": 146480,
+    "lang": "es"
+  },
+  {
+    "text": "al algoritmos que se llaman graf e Data",
+    "duration": 7681,
+    "offset": 149319,
+    "lang": "es"
+  },
+  {
+    "text": "System los algoritmos esos de gds que",
+    "duration": 6321,
+    "offset": 153879,
+    "lang": "es"
+  },
+  {
+    "text": "tiene la base de datos me van a ayudar",
+    "duration": 5560,
+    "offset": 157000,
+    "lang": "es"
+  },
+  {
+    "text": "para poder hacer con esto un clasing y",
+    "duration": 5280,
+    "offset": 160200,
+    "lang": "es"
+  },
+  {
+    "text": "establecer patrones Por ejemplo si yo",
+    "duration": 5319,
+    "offset": 162560,
+    "lang": "es"
+  },
+  {
+    "text": "tengo distintos documentos distinto",
+    "duration": 4160,
+    "offset": 165480,
+    "lang": "es"
+  },
+  {
+    "text": "accionar de clientes podría estar",
+    "duration": 3681,
+    "offset": 167879,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo detección de fraude o podría",
+    "duration": 3760,
+    "offset": 169640,
+    "lang": "es"
+  },
+  {
+    "text": "estar haciendo detección de cosas que de",
+    "duration": 4599,
+    "offset": 171560,
+    "lang": "es"
+  },
+  {
+    "text": "otra manera permanecerían ocultas porque",
+    "duration": 4960,
+    "offset": 173400,
+    "lang": "es"
+  },
+  {
+    "text": "requerirían un análisis del texto vamos",
+    "duration": 5681,
+    "offset": 176159,
+    "lang": "es"
+  },
+  {
+    "text": "a verlo en acción",
+    "duration": 3480,
+    "offset": 178360,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que lo primero que le vamos a",
+    "duration": 4720,
+    "offset": 183519,
+    "lang": "es"
+  },
+  {
+    "text": "preguntar una pregunta general Qué es la",
+    "duration": 5280,
+    "offset": 185400,
+    "lang": "es"
+  },
+  {
+    "text": "doble diplomatura Entonces le vamos a",
+    "duration": 5640,
+    "offset": 188239,
+    "lang": "es"
+  },
+  {
+    "text": "preguntar qué es la doble",
+    "duration": 6639,
+    "offset": 190680,
+    "lang": "es"
+  },
+  {
+    "text": "diplomatura y acá nos explica después de",
+    "duration": 4961,
+    "offset": 193879,
+    "lang": "es"
+  },
+  {
+    "text": "haber hecho búsquedas la doble",
+    "duration": 4121,
+    "offset": 197319,
+    "lang": "es"
+  },
+  {
+    "text": "diplomatura es una Unión de un programa",
+    "duration": 6640,
+    "offset": 198840,
+    "lang": "es"
+  },
+  {
+    "text": "relacionado con la fiuba y el eco e de",
+    "duration": 6760,
+    "offset": 201440,
+    "lang": "es"
+  },
+  {
+    "text": "Francia",
+    "duration": 6000,
+    "offset": 205480,
+    "lang": "es"
+  },
+  {
+    "text": "e acá y explica bueno todas las",
+    "duration": 5160,
+    "offset": 208200,
+    "lang": "es"
+  },
+  {
+    "text": "condiciones porque fue buscando en el",
+    "duration": 3959,
+    "offset": 211480,
+    "lang": "es"
+  },
+  {
+    "text": "grafo todas las condiciones que se deben",
+    "duration": 6000,
+    "offset": 213360,
+    "lang": "es"
+  },
+  {
+    "text": "cumplir para aplicar tener el cbc 2 años",
+    "duration": 7121,
+    "offset": 215439,
+    "lang": "es"
+  },
+  {
+    "text": "una buena performance académica promedio",
+    "duration": 5280,
+    "offset": 219360,
+    "lang": "es"
+  },
+  {
+    "text": "o arriba del promedio de la carrera",
+    "duration": 4920,
+    "offset": 222560,
+    "lang": "es"
+  },
+  {
+    "text": "Generalmente más de 7 tener el 60 por de",
+    "duration": 5360,
+    "offset": 224640,
+    "lang": "es"
+  },
+  {
+    "text": "las materias aprobadas y acá me da un",
+    "duration": 4319,
+    "offset": 227480,
+    "lang": "es"
+  },
+  {
+    "text": "número que yo se lo puse Aparte que es",
+    "duration": 6519,
+    "offset": 230000,
+    "lang": "es"
+  },
+  {
+    "text": "el esor el escor es",
+    "duration": 8241,
+    "offset": 231799,
+    "lang": "es"
+  },
+  {
+    "text": "el el valor con el cual se ha encontrado",
+    "duration": 5321,
+    "offset": 236519,
+    "lang": "es"
+  },
+  {
+    "text": "similaridad con",
+    "duration": 6000,
+    "offset": 240040,
+    "lang": "es"
+  },
+  {
+    "text": "ese con esa pregunta ahora yo le voy a",
+    "duration": 7640,
+    "offset": 241840,
+    "lang": "es"
+  },
+  {
+    "text": "preguntar por ejemplo una pregunta más",
+    "duration": 6640,
+    "offset": 246040,
+    "lang": "es"
+  },
+  {
+    "text": "general si la doble diplomatura aplica",
+    "duration": 7399,
+    "offset": 249480,
+    "lang": "es"
+  },
+  {
+    "text": "solo a estudiantes de la fiuba",
+    "duration": 4199,
+    "offset": 252680,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a escribirlo bien solo estudiantes",
+    "duration": 4119,
+    "offset": 271800,
+    "lang": "es"
+  },
+  {
+    "text": "de la fiuba y ahí le pregunto si aplica",
+    "duration": 5200,
+    "offset": 273960,
+    "lang": "es"
+  },
+  {
+    "text": "solo estudiantes de la fiuba fíjense que",
+    "duration": 5881,
+    "offset": 275919,
+    "lang": "es"
+  },
+  {
+    "text": "ahora hace una búsqueda un poco más",
+    "duration": 6599,
+    "offset": 279160,
+    "lang": "es"
+  },
+  {
+    "text": "exhaustiva y dice que basado en en los",
+    "duration": 6959,
+    "offset": 281800,
+    "lang": "es"
+  },
+  {
+    "text": "datos estructurados que me",
+    "duration": 5041,
+    "offset": 285759,
+    "lang": "es"
+  },
+  {
+    "text": "proveyeron parece que la doble",
+    "duration": 4521,
+    "offset": 288759,
+    "lang": "es"
+  },
+  {
+    "text": "diplomatura en ingeniería en Francia",
+    "duration": 5839,
+    "offset": 290800,
+    "lang": "es"
+  },
+  {
+    "text": "está altamente vinculada a la fiuba pero",
+    "duration": 6639,
+    "offset": 293280,
+    "lang": "es"
+  },
+  {
+    "text": "sin embargo dentro de los datos porque",
+    "duration": 5681,
+    "offset": 296639,
+    "lang": "es"
+  },
+  {
+    "text": "yo le decía que es tiene alta explicaba",
+    "duration": 4801,
+    "offset": 299919,
+    "lang": "es"
+  },
+  {
+    "text": "y sirve para descubrir fraudes o sirve",
+    "duration": 4480,
+    "offset": 302320,
+    "lang": "es"
+  },
+  {
+    "text": "para descubrir patrones que no habíamos",
+    "duration": 4720,
+    "offset": 304720,
+    "lang": "es"
+  },
+  {
+    "text": "puesto fíjense que acá dice que dentro",
+    "duration": 5119,
+    "offset": 306800,
+    "lang": "es"
+  },
+  {
+    "text": "de los datos no se dice explícitamente",
+    "duration": 5800,
+    "offset": 309440,
+    "lang": "es"
+  },
+  {
+    "text": "que la doble diplomatura aplica solo a",
+    "duration": 7280,
+    "offset": 311919,
+    "lang": "es"
+  },
+  {
+    "text": "estudiantes de eh de la uva entonces",
+    "duration": 5079,
+    "offset": 315240,
+    "lang": "es"
+  },
+  {
+    "text": "dice",
+    "duration": 3481,
+    "offset": 319199,
+    "lang": "es"
+  },
+  {
+    "text": "definitivamente yo no puedo responder",
+    "duration": 5041,
+    "offset": 320319,
+    "lang": "es"
+  },
+  {
+    "text": "esta pregunta sin información adicional",
+    "duration": 6280,
+    "offset": 322680,
+    "lang": "es"
+  },
+  {
+    "text": "acá me descubre un Gap que había en el",
+    "duration": 5800,
+    "offset": 325360,
+    "lang": "es"
+  },
+  {
+    "text": "documento como es un documento abierto a",
+    "duration": 4320,
+    "offset": 328960,
+    "lang": "es"
+  },
+  {
+    "text": "todos Alguien podría hacer esta pregunta",
+    "duration": 4960,
+    "offset": 331160,
+    "lang": "es"
+  },
+  {
+    "text": "general en una base de datos vectorial",
+    "duration": 4039,
+    "offset": 333280,
+    "lang": "es"
+  },
+  {
+    "text": "este tipo de pregunta general",
+    "duration": 4240,
+    "offset": 336120,
+    "lang": "es"
+  },
+  {
+    "text": "Generalmente llevaría al fracaso en una",
+    "duration": 5241,
+    "offset": 337319,
+    "lang": "es"
+  },
+  {
+    "text": "base de datos de",
+    "duration": 6559,
+    "offset": 340360,
+    "lang": "es"
+  },
+  {
+    "text": "e grafos esta pregunta se responde Y si",
+    "duration": 6440,
+    "offset": 342560,
+    "lang": "es"
+  },
+  {
+    "text": "yo acá por ejemplo le pregunto si algo",
+    "duration": 4681,
+    "offset": 346919,
+    "lang": "es"
+  },
+  {
+    "text": "que está totalmente fuera de la",
+    "duration": 5759,
+    "offset": 349000,
+    "lang": "es"
+  },
+  {
+    "text": "semántica por",
+    "duration": 3159,
+    "offset": 351600,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo le pregunto Quién ganó",
+    "duration": 8600,
+    "offset": 356000,
+    "lang": "es"
+  },
+  {
+    "text": "el River",
+    "duration": 8241,
+    "offset": 361039,
+    "lang": "es"
+  },
+  {
+    "text": "boca ahí la métrica que le puse me tira",
+    "duration": 6719,
+    "offset": 364600,
+    "lang": "es"
+  },
+  {
+    "text": "no se encontró información relevante Por",
+    "duration": 4479,
+    "offset": 369280,
+    "lang": "es"
+  },
+  {
+    "text": "qué Porque la métrica está debajo de 09",
+    "duration": 5401,
+    "offset": 371319,
+    "lang": "es"
+  },
+  {
+    "text": "que es la métrica que yo le puse y que",
+    "duration": 4801,
+    "offset": 373759,
+    "lang": "es"
+  },
+  {
+    "text": "es la que descubrimos que es la que",
+    "duration": 4000,
+    "offset": 376720,
+    "lang": "es"
+  },
+  {
+    "text": "sirve para detectar que se habla de",
+    "duration": 5320,
+    "offset": 378560,
+    "lang": "es"
+  },
+  {
+    "text": "cosas que son relevantes",
+    "duration": 6319,
+    "offset": 380720,
+    "lang": "es"
+  },
+  {
+    "text": "al al tema que se está",
+    "duration": 5840,
+    "offset": 383880,
+    "lang": "es"
+  },
+  {
+    "text": "tratando o mejor dicho a los documentos",
+    "duration": 5841,
+    "offset": 387039,
+    "lang": "es"
+  },
+  {
+    "text": "que se ingestar",
+    "duration": 3160,
+    "offset": 389720,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,46 @@
+---
+type: YouTube Video
+title: "mcp"
+description: ""
+resource: "https://www.youtube.com/watch?v=-rKLhB93dQs"
+tags: []
+generated: { by: "process:sync-youtube", at: "2026-08-10T17:04:21.991Z" }
+verified: machine-confirmed
+status: current
+channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
+published_at: "2025-07-29T17:09:24Z"
+view_count: 5
+like_count: 0
+comment_count: 0
+duration: "10:00"
+thumbnail: "https://i.ytimg.com/vi/-rKLhB93dQs/maxresdefault.jpg"
+sources:
+  - id: youtube-api
+    resource: "https://developers.google.com/youtube/v3"
+    title: "YouTube Data API v3"
+    last_modified: "2026-08-10"
+  - id: channel-concept
+    resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
+    title: "Channel: DiegoTestDireco"
+---
+
+# mcp
+
+<div class="video-embed-container">
+  <iframe 
+    src="https://www.youtube.com/embed/-rKLhB93dQs" 
+    title="mcp"
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+## Detalles
+- **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Publicado el:** 29 de julio de 2025
+- **Duración:** 10:00
+- **Vistas:** 5 | **Likes:** 0
+
+## Descripción
+Sin descripción.

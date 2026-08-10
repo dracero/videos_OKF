@@ -1,0 +1,800 @@
+[
+  {
+    "text": "vamos a ver un problema que es un poco",
+    "duration": 4890,
+    "offset": 2790,
+    "lang": "es"
+  },
+  {
+    "text": "diferente a lo que están acostumbrados a",
+    "duration": 5280,
+    "offset": 5760,
+    "lang": "es"
+  },
+  {
+    "text": "ver porque en general en física uno de",
+    "duration": 6749,
+    "offset": 7680,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros vemos problemas de cinemática",
+    "duration": 5219,
+    "offset": 11040,
+    "lang": "es"
+  },
+  {
+    "text": "de la partícula de dinámica de la",
+    "duration": 4981,
+    "offset": 14429,
+    "lang": "es"
+  },
+  {
+    "text": "partícula con movimientos planos cuando",
+    "duration": 5671,
+    "offset": 16259,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes hacen el sistema de coordenadas",
+    "duration": 4410,
+    "offset": 19410,
+    "lang": "es"
+  },
+  {
+    "text": "el sistema de coordenadas tiene un eje",
+    "duration": 5489,
+    "offset": 21930,
+    "lang": "es"
+  },
+  {
+    "text": "xy un eje y ahora vamos a ver un",
+    "duration": 6230,
+    "offset": 23820,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento que tiene",
+    "duration": 6881,
+    "offset": 27419,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento en las tres dimensiones",
+    "duration": 4250,
+    "offset": 30050,
+    "lang": "es"
+  },
+  {
+    "text": "es un tren el tren se va moviendo a",
+    "duration": 4620,
+    "offset": 34540,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad constante y por ese tren que",
+    "duration": 3570,
+    "offset": 37090,
+    "lang": "es"
+  },
+  {
+    "text": "se va moviendo a velocidad constante",
+    "duration": 4980,
+    "offset": 39160,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos un nene que tira la pelota a",
+    "duration": 5690,
+    "offset": 40660,
+    "lang": "es"
+  },
+  {
+    "text": "través de la ventana",
+    "duration": 4530,
+    "offset": 44140,
+    "lang": "es"
+  },
+  {
+    "text": "entonces los primeros que nos pregunta",
+    "duration": 4389,
+    "offset": 46350,
+    "lang": "es"
+  },
+  {
+    "text": "el problema es qué tipo de movimiento",
+    "duration": 4380,
+    "offset": 48670,
+    "lang": "es"
+  },
+  {
+    "text": "realiza la pelota",
+    "duration": 4590,
+    "offset": 50739,
+    "lang": "es"
+  },
+  {
+    "text": "uno se siente tentado decir que es un",
+    "duration": 4680,
+    "offset": 53050,
+    "lang": "es"
+  },
+  {
+    "text": "tiro oblicuo lo que sucede es que el",
+    "duration": 3781,
+    "offset": 55329,
+    "lang": "es"
+  },
+  {
+    "text": "tiro oblicua es un movimiento en el",
+    "duration": 3710,
+    "offset": 57730,
+    "lang": "es"
+  },
+  {
+    "text": "plano",
+    "duration": 2330,
+    "offset": 59110,
+    "lang": "es"
+  },
+  {
+    "text": "y en realidad este movimiento es un",
+    "duration": 6380,
+    "offset": 62250,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento en tres dimensiones porque",
+    "duration": 5740,
+    "offset": 65519,
+    "lang": "es"
+  },
+  {
+    "text": "porque el chico",
+    "duration": 7230,
+    "offset": 68630,
+    "lang": "es"
+  },
+  {
+    "text": "tira la pelota a 10 metros por segundo",
+    "duration": 8951,
+    "offset": 71259,
+    "lang": "es"
+  },
+  {
+    "text": "el tren se estaba moviendo a 30 metros",
+    "duration": 8930,
+    "offset": 75860,
+    "lang": "es"
+  },
+  {
+    "text": "por segundo pero a su vez la pelota cae",
+    "duration": 6740,
+    "offset": 80210,
+    "lang": "es"
+  },
+  {
+    "text": "por efecto de la aceleración de la",
+    "duration": 3110,
+    "offset": 84790,
+    "lang": "es"
+  },
+  {
+    "text": "gravedad",
+    "duration": 3570,
+    "offset": 86950,
+    "lang": "es"
+  },
+  {
+    "text": "entonces el movimiento de su movimiento",
+    "duration": 3900,
+    "offset": 87900,
+    "lang": "es"
+  },
+  {
+    "text": "en tres dimensiones",
+    "duration": 5700,
+    "offset": 90520,
+    "lang": "es"
+  },
+  {
+    "text": "en el eje xy en el eje y tenemos",
+    "duration": 5820,
+    "offset": 91800,
+    "lang": "es"
+  },
+  {
+    "text": "movimientos",
+    "duration": 4290,
+    "offset": 96220,
+    "lang": "es"
+  },
+  {
+    "text": "rectilíneas uniformes porque movimientos",
+    "duration": 5290,
+    "offset": 97620,
+    "lang": "es"
+  },
+  {
+    "text": "rectilíneos uniformes porque no tenemos",
+    "duration": 4890,
+    "offset": 100510,
+    "lang": "es"
+  },
+  {
+    "text": "ninguna aceleración que actúe en el",
+    "duration": 5010,
+    "offset": 102910,
+    "lang": "es"
+  },
+  {
+    "text": "sentido del eje x ni tenemos ninguna",
+    "duration": 4170,
+    "offset": 105400,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración que actúen en el sentido del",
+    "duration": 5010,
+    "offset": 107920,
+    "lang": "es"
+  },
+  {
+    "text": "eje y ahora qué pasa en el sentido del",
+    "duration": 5820,
+    "offset": 109570,
+    "lang": "es"
+  },
+  {
+    "text": "eje z en el eje vertical y en el eje z",
+    "duration": 4049,
+    "offset": 112930,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos la aceleración de la gravedad",
+    "duration": 4019,
+    "offset": 115390,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 4710,
+    "offset": 116979,
+    "lang": "es"
+  },
+  {
+    "text": "ahí vamos a tener un movimiento",
+    "duration": 5340,
+    "offset": 119409,
+    "lang": "es"
+  },
+  {
+    "text": "rectilíneo uniformemente acelerado es",
+    "duration": 4701,
+    "offset": 121689,
+    "lang": "es"
+  },
+  {
+    "text": "decir",
+    "duration": 4040,
+    "offset": 124749,
+    "lang": "es"
+  },
+  {
+    "text": "la posición en función del tiempo en",
+    "duration": 6120,
+    "offset": 126390,
+    "lang": "es"
+  },
+  {
+    "text": "este movimiento va a estar dada por tres",
+    "duration": 4821,
+    "offset": 128789,
+    "lang": "es"
+  },
+  {
+    "text": "coordenadas",
+    "duration": 6870,
+    "offset": 132510,
+    "lang": "es"
+  },
+  {
+    "text": "x que es y este verso lee y que es 30 t",
+    "duration": 12300,
+    "offset": 133610,
+    "lang": "es"
+  },
+  {
+    "text": "versos j iceta que es 2 45 menos",
+    "duration": 11540,
+    "offset": 139380,
+    "lang": "es"
+  },
+  {
+    "text": "reporte cuadrado vers horca",
+    "duration": 5010,
+    "offset": 145910,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos",
+    "duration": 4650,
+    "offset": 151319,
+    "lang": "es"
+  },
+  {
+    "text": "12 movimientos rectilíneos uniformes en",
+    "duration": 8011,
+    "offset": 152719,
+    "lang": "es"
+  },
+  {
+    "text": "los ejes xy y en el sentido del eje z",
+    "duration": 7350,
+    "offset": 155969,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos un movimiento rectilíneo",
+    "duration": 5860,
+    "offset": 160730,
+    "lang": "es"
+  },
+  {
+    "text": "uniformemente acelerado a partir de esos",
+    "duration": 5250,
+    "offset": 163319,
+    "lang": "es"
+  },
+  {
+    "text": "valores de posición en función del",
+    "duration": 3149,
+    "offset": 166590,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo",
+    "duration": 3241,
+    "offset": 168569,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros podemos hallar la posición de",
+    "duration": 5061,
+    "offset": 169739,
+    "lang": "es"
+  },
+  {
+    "text": "la pelota y cómo lo hacemos",
+    "duration": 6320,
+    "offset": 171810,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros sabemos que la pelota parte de",
+    "duration": 6450,
+    "offset": 174800,
+    "lang": "es"
+  },
+  {
+    "text": "una altura de 2 metros 45 y realiza un",
+    "duration": 4530,
+    "offset": 178130,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento rectilíneo uniformemente",
+    "duration": 3840,
+    "offset": 181250,
+    "lang": "es"
+  },
+  {
+    "text": "acelerado hasta que llega al piso o sea",
+    "duration": 4230,
+    "offset": 182660,
+    "lang": "es"
+  },
+  {
+    "text": "la altura cero",
+    "duration": 3870,
+    "offset": 185090,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ponemos que la posición inicial",
+    "duration": 5450,
+    "offset": 186890,
+    "lang": "es"
+  },
+  {
+    "text": "es cero",
+    "duration": 3380,
+    "offset": 188960,
+    "lang": "es"
+  },
+  {
+    "text": "y la posición final la ponemos igual a 2",
+    "duration": 10360,
+    "offset": 193220,
+    "lang": "es"
+  },
+  {
+    "text": "45 menos un medio de ge por t cuadrado",
+    "duration": 9560,
+    "offset": 198230,
+    "lang": "es"
+  },
+  {
+    "text": "entonces a partir de s",
+    "duration": 6299,
+    "offset": 203580,
+    "lang": "es"
+  },
+  {
+    "text": "a partir de ese valor",
+    "duration": 5069,
+    "offset": 207790,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros lo que hacemos es despejamos el",
+    "duration": 5351,
+    "offset": 209879,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo y tenemos el tiempo que tarda en",
+    "duration": 5091,
+    "offset": 212859,
+    "lang": "es"
+  },
+  {
+    "text": "caer la pelota que es el mismo tiempo",
+    "duration": 5789,
+    "offset": 215230,
+    "lang": "es"
+  },
+  {
+    "text": "que tarda el movimiento en el eje y en",
+    "duration": 5739,
+    "offset": 217950,
+    "lang": "es"
+  },
+  {
+    "text": "el eje x entonces despejando de ese",
+    "duration": 6711,
+    "offset": 221019,
+    "lang": "es"
+  },
+  {
+    "text": "valor de tiempo encontramos",
+    "duration": 4041,
+    "offset": 223689,
+    "lang": "es"
+  },
+  {
+    "text": "los valores en el eje y en el eje x y",
+    "duration": 7500,
+    "offset": 229110,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ya podemos decir bueno va a",
+    "duration": 7170,
+    "offset": 234420,
+    "lang": "es"
+  },
+  {
+    "text": "valer 0 para z x e y según lo que",
+    "duration": 9140,
+    "offset": 236610,
+    "lang": "es"
+  },
+  {
+    "text": "calculemos con los valores del tiempo",
+    "duration": 4160,
+    "offset": 241590,
+    "lang": "es"
+  },
+  {
+    "text": "bien entonces por último el este es un",
+    "duration": 8369,
+    "offset": 247840,
+    "lang": "es"
+  },
+  {
+    "text": "punto también que hay que ver con mucho",
+    "duration": 4649,
+    "offset": 253300,
+    "lang": "es"
+  },
+  {
+    "text": "cuidado porque lo que nos pregunta por",
+    "duration": 4710,
+    "offset": 256209,
+    "lang": "es"
+  },
+  {
+    "text": "último es si el chico deja caer la",
+    "duration": 4981,
+    "offset": 257949,
+    "lang": "es"
+  },
+  {
+    "text": "pelota no que la lanza por la ventana",
+    "duration": 4831,
+    "offset": 260919,
+    "lang": "es"
+  },
+  {
+    "text": "sino que va en el tren y deja caer la",
+    "duration": 3980,
+    "offset": 262930,
+    "lang": "es"
+  },
+  {
+    "text": "pelota",
+    "duration": 3819,
+    "offset": 265750,
+    "lang": "es"
+  },
+  {
+    "text": "realizando una caída libre",
+    "duration": 6200,
+    "offset": 266910,
+    "lang": "es"
+  },
+  {
+    "text": "a qué distancia de la ventana cae la",
+    "duration": 5660,
+    "offset": 269569,
+    "lang": "es"
+  },
+  {
+    "text": "pelota",
+    "duration": 2119,
+    "offset": 273110,
+    "lang": "es"
+  },
+  {
+    "text": "esto suele generar mucha confusión",
+    "duration": 7220,
+    "offset": 275650,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que sucede el chico va",
+    "duration": 4370,
+    "offset": 280470,
+    "lang": "es"
+  },
+  {
+    "text": "viajando en el té y lleva la pelota",
+    "duration": 4670,
+    "offset": 282870,
+    "lang": "es"
+  },
+  {
+    "text": "agarrada en la mano",
+    "duration": 5610,
+    "offset": 284840,
+    "lang": "es"
+  },
+  {
+    "text": "en un determinado momento suelta la",
+    "duration": 6540,
+    "offset": 287540,
+    "lang": "es"
+  },
+  {
+    "text": "pelota ahora cuando el chico suelta la",
+    "duration": 5310,
+    "offset": 290450,
+    "lang": "es"
+  },
+  {
+    "text": "pelota",
+    "duration": 3360,
+    "offset": 294080,
+    "lang": "es"
+  },
+  {
+    "text": "normalmente como en el caso anterior",
+    "duration": 5040,
+    "offset": 295760,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos solamente actuando aceleración",
+    "duration": 6390,
+    "offset": 297440,
+    "lang": "es"
+  },
+  {
+    "text": "en el sentido de el eje z si",
+    "duration": 5520,
+    "offset": 300800,
+    "lang": "es"
+  },
+  {
+    "text": "despreciamos los rozamientos que hay con",
+    "duration": 5130,
+    "offset": 303830,
+    "lang": "es"
+  },
+  {
+    "text": "el viento solamente tenemos aceleración",
+    "duration": 6540,
+    "offset": 306320,
+    "lang": "es"
+  },
+  {
+    "text": "en el sentido de el eje z eso que",
+    "duration": 5570,
+    "offset": 308960,
+    "lang": "es"
+  },
+  {
+    "text": "significa que",
+    "duration": 3620,
+    "offset": 312860,
+    "lang": "es"
+  },
+  {
+    "text": "como no hay",
+    "duration": 5500,
+    "offset": 314530,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración ni en el sentido del eje x",
+    "duration": 6760,
+    "offset": 316480,
+    "lang": "es"
+  },
+  {
+    "text": "ni el sentido del eje y de hecho en el",
+    "duration": 5130,
+    "offset": 320030,
+    "lang": "es"
+  },
+  {
+    "text": "sentido del eje x como deja caer la",
+    "duration": 4770,
+    "offset": 323240,
+    "lang": "es"
+  },
+  {
+    "text": "pelota ni siquiera tiene velocidad lo",
+    "duration": 6450,
+    "offset": 325160,
+    "lang": "es"
+  },
+  {
+    "text": "que va a suceder es que la pelota va a",
+    "duration": 8360,
+    "offset": 328010,
+    "lang": "es"
+  },
+  {
+    "text": "caer exactamente a la misma",
+    "duration": 8210,
+    "offset": 331610,
+    "lang": "es"
+  },
+  {
+    "text": "a la misma distancia en y que tenía en",
+    "duration": 5220,
+    "offset": 336370,
+    "lang": "es"
+  },
+  {
+    "text": "el momento que la dejo o sea va a caer",
+    "duration": 3960,
+    "offset": 339820,
+    "lang": "es"
+  },
+  {
+    "text": "al lado de la ventana pero abajo en el",
+    "duration": 4079,
+    "offset": 341590,
+    "lang": "es"
+  },
+  {
+    "text": "piso obviamente porque está en caída",
+    "duration": 4470,
+    "offset": 343780,
+    "lang": "es"
+  },
+  {
+    "text": "libre pero contrariamente a lo que",
+    "duration": 5071,
+    "offset": 345669,
+    "lang": "es"
+  },
+  {
+    "text": "muchos piensan no es que la ventana si",
+    "duration": 5760,
+    "offset": 348250,
+    "lang": "es"
+  },
+  {
+    "text": "la pelota cae sino que yo dejo caer la",
+    "duration": 5310,
+    "offset": 350740,
+    "lang": "es"
+  },
+  {
+    "text": "pelota y la ventana y la pelota se va",
+    "duration": 3180,
+    "offset": 354010,
+    "lang": "es"
+  },
+  {
+    "text": "moviendo con la misma velocidad",
+    "duration": 3570,
+    "offset": 356050,
+    "lang": "es"
+  },
+  {
+    "text": "constante porque porque en este sentido",
+    "duration": 3860,
+    "offset": 357190,
+    "lang": "es"
+  },
+  {
+    "text": "no tengo nada que",
+    "duration": 4470,
+    "offset": 359620,
+    "lang": "es"
+  },
+  {
+    "text": "haga aceleración entonces cuando yo dejo",
+    "duration": 6070,
+    "offset": 361050,
+    "lang": "es"
+  },
+  {
+    "text": "la pelota se va cayendo la pelota con la",
+    "duration": 4829,
+    "offset": 364090,
+    "lang": "es"
+  },
+  {
+    "text": "misma velocidad constante que tenía",
+    "duration": 4169,
+    "offset": 367120,
+    "lang": "es"
+  },
+  {
+    "text": "cuando va viajando el tren así que si yo",
+    "duration": 4171,
+    "offset": 368919,
+    "lang": "es"
+  },
+  {
+    "text": "saco una foto al final cuando está en el",
+    "duration": 4500,
+    "offset": 371289,
+    "lang": "es"
+  },
+  {
+    "text": "piso la distancia a la que está de la",
+    "duration": 5130,
+    "offset": 373090,
+    "lang": "es"
+  },
+  {
+    "text": "ventana son los 2 metros 45 que tiene la",
+    "duration": 5061,
+    "offset": 375789,
+    "lang": "es"
+  },
+  {
+    "text": "altura del tren",
+    "duration": 2630,
+    "offset": 378220,
+    "lang": "es"
+  }
+]

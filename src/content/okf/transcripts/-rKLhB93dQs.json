@@ -1,0 +1,1226 @@
+[
+  {
+    "text": "¿Para qué puede servir un MCP?",
+    "duration": 6120,
+    "offset": 0,
+    "lang": "es"
+  },
+  {
+    "text": "El protocolo MCP, ¿para qué puede",
+    "duration": 4480,
+    "offset": 4480,
+    "lang": "es"
+  },
+  {
+    "text": "servir? Bien, el MCP es una suerte de",
+    "duration": 5160,
+    "offset": 6120,
+    "lang": "es"
+  },
+  {
+    "text": "conector universal.",
+    "duration": 5280,
+    "offset": 8960,
+    "lang": "es"
+  },
+  {
+    "text": "Nosotros tenemos los agentes, en",
+    "duration": 6360,
+    "offset": 11280,
+    "lang": "es"
+  },
+  {
+    "text": "realidad pueden ser agentes o también",
+    "duration": 7640,
+    "offset": 14240,
+    "lang": "es"
+  },
+  {
+    "text": "puede ser el LLM.",
+    "duration": 4240,
+    "offset": 17640,
+    "lang": "es"
+  },
+  {
+    "text": "El LLM, ¿qué es el host? El host, ¿qué",
+    "duration": 7400,
+    "offset": 22279,
+    "lang": "es"
+  },
+  {
+    "text": "es generalmente el host? Es una interfaz",
+    "duration": 6240,
+    "offset": 25320,
+    "lang": "es"
+  },
+  {
+    "text": "de chatpot",
+    "duration": 4001,
+    "offset": 29679,
+    "lang": "es"
+  },
+  {
+    "text": "o puede ser también algún tipo de",
+    "duration": 4040,
+    "offset": 31560,
+    "lang": "es"
+  },
+  {
+    "text": "proceso automatizado, pero lo que",
+    "duration": 5080,
+    "offset": 33680,
+    "lang": "es"
+  },
+  {
+    "text": "buscamos es que el host agente sea una",
+    "duration": 5639,
+    "offset": 35600,
+    "lang": "es"
+  },
+  {
+    "text": "interfaz de chatbot. Lo mejor que",
+    "duration": 4840,
+    "offset": 38760,
+    "lang": "es"
+  },
+  {
+    "text": "encontramos hasta ahora es usar como",
+    "duration": 5921,
+    "offset": 41239,
+    "lang": "es"
+  },
+  {
+    "text": "host agentes a el framework ADK. ¿Por",
+    "duration": 6040,
+    "offset": 43600,
+    "lang": "es"
+  },
+  {
+    "text": "qué? Porque el host agente se tiene que",
+    "duration": 5760,
+    "offset": 47160,
+    "lang": "es"
+  },
+  {
+    "text": "conectar a un MCP client. Y lo bueno de",
+    "duration": 6520,
+    "offset": 49640,
+    "lang": "es"
+  },
+  {
+    "text": "el framework ADK es que ya tiene tanto",
+    "duration": 6680,
+    "offset": 52920,
+    "lang": "es"
+  },
+  {
+    "text": "el host ll como el MCP client totalmente",
+    "duration": 6719,
+    "offset": 56160,
+    "lang": "es"
+  },
+  {
+    "text": "incorporado. Ahora, ese MCP client es",
+    "duration": 6839,
+    "offset": 59600,
+    "lang": "es"
+  },
+  {
+    "text": "universal y se puede conectar a",
+    "duration": 7081,
+    "offset": 62879,
+    "lang": "es"
+  },
+  {
+    "text": "cualquier MSP server.",
+    "duration": 5360,
+    "offset": 66439,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué significa? Significa que una",
+    "duration": 5040,
+    "offset": 69960,
+    "lang": "es"
+  },
+  {
+    "text": "empresa, por ejemplo, tiene",
+    "duration": 8441,
+    "offset": 71799,
+    "lang": "es"
+  },
+  {
+    "text": "un sistema que eh hace facturación, un",
+    "duration": 8560,
+    "offset": 75000,
+    "lang": "es"
+  },
+  {
+    "text": "sistema que hace pedidos, un sistema que",
+    "duration": 6239,
+    "offset": 80240,
+    "lang": "es"
+  },
+  {
+    "text": "se encarga de la gestión de empleados y",
+    "duration": 6400,
+    "offset": 83560,
+    "lang": "es"
+  },
+  {
+    "text": "demás. Todo, absolutamente todo, se",
+    "duration": 6881,
+    "offset": 86479,
+    "lang": "es"
+  },
+  {
+    "text": "puede conectar a través de el MCP",
+    "duration": 6720,
+    "offset": 89960,
+    "lang": "es"
+  },
+  {
+    "text": "client. Si el sistema tiene una API, las",
+    "duration": 8280,
+    "offset": 93360,
+    "lang": "es"
+  },
+  {
+    "text": "APIs de ese M de ese las endoint de API",
+    "duration": 8560,
+    "offset": 96680,
+    "lang": "es"
+  },
+  {
+    "text": "se pueden convertir en funciones de un",
+    "duration": 6920,
+    "offset": 101640,
+    "lang": "es"
+  },
+  {
+    "text": "MCP server. Y a veces ni siquiera eso,",
+    "duration": 7800,
+    "offset": 105240,
+    "lang": "es"
+  },
+  {
+    "text": "porque por ejemplo si te estamos usando",
+    "duration": 7440,
+    "offset": 108560,
+    "lang": "es"
+  },
+  {
+    "text": "e Google",
+    "duration": 6640,
+    "offset": 113040,
+    "lang": "es"
+  },
+  {
+    "text": "ADK, el Google ADK tiene el Toolbox for",
+    "duration": 6439,
+    "offset": 116000,
+    "lang": "es"
+  },
+  {
+    "text": "databases que por ejemplo se conecta",
+    "duration": 5399,
+    "offset": 119680,
+    "lang": "es"
+  },
+  {
+    "text": "directamente a BigQuery. Acá tenemos un",
+    "duration": 6001,
+    "offset": 122439,
+    "lang": "es"
+  },
+  {
+    "text": "archivo Yaml a donde estamos haciendo un",
+    "duration": 6800,
+    "offset": 125079,
+    "lang": "es"
+  },
+  {
+    "text": "query a un big query público que lo que",
+    "duration": 5600,
+    "offset": 128440,
+    "lang": "es"
+  },
+  {
+    "text": "va a hacer es traernos datos de los",
+    "duration": 6281,
+    "offset": 131879,
+    "lang": "es"
+  },
+  {
+    "text": "últimos lanzamientos de e de Google",
+    "duration": 6479,
+    "offset": 134040,
+    "lang": "es"
+  },
+  {
+    "text": "Cloud Platform de GCP, pero no",
+    "duration": 4120,
+    "offset": 138160,
+    "lang": "es"
+  },
+  {
+    "text": "necesariamente",
+    "duration": 5601,
+    "offset": 140519,
+    "lang": "es"
+  },
+  {
+    "text": "es que eh me puedo conectar a una base",
+    "duration": 5880,
+    "offset": 142280,
+    "lang": "es"
+  },
+  {
+    "text": "de datos pública, una base de datos",
+    "duration": 4479,
+    "offset": 146120,
+    "lang": "es"
+  },
+  {
+    "text": "privada, o sea, puedo hacer lo que yo",
+    "duration": 5600,
+    "offset": 148160,
+    "lang": "es"
+  },
+  {
+    "text": "quiera, puedo acá poner todos los",
+    "duration": 5640,
+    "offset": 150599,
+    "lang": "es"
+  },
+  {
+    "text": "comandos SQL que yo quiera e inclusive",
+    "duration": 5880,
+    "offset": 153760,
+    "lang": "es"
+  },
+  {
+    "text": "como gran parte de las cosas van a ir al",
+    "duration": 6481,
+    "offset": 156239,
+    "lang": "es"
+  },
+  {
+    "text": "LLM que es el host, ni siquiera tengo",
+    "duration": 5480,
+    "offset": 159640,
+    "lang": "es"
+  },
+  {
+    "text": "que estar haciendo tantas cosas en SQL",
+    "duration": 4120,
+    "offset": 162720,
+    "lang": "es"
+  },
+  {
+    "text": "porque directamente muchos de los",
+    "duration": 3960,
+    "offset": 165120,
+    "lang": "es"
+  },
+  {
+    "text": "queries una vez que tenga el texto",
+    "duration": 7479,
+    "offset": 166840,
+    "lang": "es"
+  },
+  {
+    "text": "completo lo puede resolver el mismo e",
+    "duration": 8360,
+    "offset": 169080,
+    "lang": "es"
+  },
+  {
+    "text": "ll. Entonces acá nosotros lo que hicimos",
+    "duration": 6361,
+    "offset": 174319,
+    "lang": "es"
+  },
+  {
+    "text": "fue crear un MCP Server utilizando el",
+    "duration": 6439,
+    "offset": 177440,
+    "lang": "es"
+  },
+  {
+    "text": "Toolbox, que también provee Google.",
+    "duration": 5119,
+    "offset": 180680,
+    "lang": "es"
+  },
+  {
+    "text": "Y utilizando ese Toolbo del Google nos",
+    "duration": 5761,
+    "offset": 183879,
+    "lang": "es"
+  },
+  {
+    "text": "conectamos directamente a GCP, pero la",
+    "duration": 5681,
+    "offset": 185799,
+    "lang": "es"
+  },
+  {
+    "text": "idea era mostrar el grado de",
+    "duration": 4200,
+    "offset": 189640,
+    "lang": "es"
+  },
+  {
+    "text": "automatización que yo puedo tener porque",
+    "duration": 5600,
+    "offset": 191480,
+    "lang": "es"
+  },
+  {
+    "text": "desde el LLM host conectar a",
+    "duration": 5479,
+    "offset": 193840,
+    "lang": "es"
+  },
+  {
+    "text": "prácticamente o a todos los sistemas de",
+    "duration": 4840,
+    "offset": 197080,
+    "lang": "es"
+  },
+  {
+    "text": "la empresa. Algunos serán privados y no",
+    "duration": 4480,
+    "offset": 199319,
+    "lang": "es"
+  },
+  {
+    "text": "los voy a exponer, pero si quiero puedo",
+    "duration": 3520,
+    "offset": 201920,
+    "lang": "es"
+  },
+  {
+    "text": "exponer algunos. Por ejemplo, si tengo",
+    "duration": 3921,
+    "offset": 203799,
+    "lang": "es"
+  },
+  {
+    "text": "una empresa de ventas, puede exponer",
+    "duration": 4600,
+    "offset": 205440,
+    "lang": "es"
+  },
+  {
+    "text": "directamente toda la parte que gestiona",
+    "duration": 6360,
+    "offset": 207720,
+    "lang": "es"
+  },
+  {
+    "text": "pedidos y directamente el cliente puede",
+    "duration": 6520,
+    "offset": 210040,
+    "lang": "es"
+  },
+  {
+    "text": "interfacear con los pedidos y generar",
+    "duration": 5519,
+    "offset": 214080,
+    "lang": "es"
+  },
+  {
+    "text": "los pedidos y eso puede hacer que se",
+    "duration": 6039,
+    "offset": 216560,
+    "lang": "es"
+  },
+  {
+    "text": "disparen las este las órdenes de",
+    "duration": 6360,
+    "offset": 219599,
+    "lang": "es"
+  },
+  {
+    "text": "producción y demás.",
+    "duration": 6081,
+    "offset": 222599,
+    "lang": "es"
+  },
+  {
+    "text": "Es necesario finalmente que todo sea",
+    "duration": 5401,
+    "offset": 225959,
+    "lang": "es"
+  },
+  {
+    "text": "controlado por una persona. No es que se",
+    "duration": 4680,
+    "offset": 228680,
+    "lang": "es"
+  },
+  {
+    "text": "puede prescindir de la gente, porque",
+    "duration": 3560,
+    "offset": 231360,
+    "lang": "es"
+  },
+  {
+    "text": "estamos hablando de sistemas que son",
+    "duration": 3799,
+    "offset": 233360,
+    "lang": "es"
+  },
+  {
+    "text": "naturalmente estocásticos. Lo que sucede",
+    "duration": 3800,
+    "offset": 234920,
+    "lang": "es"
+  },
+  {
+    "text": "es que la carga de trabajo la",
+    "duration": 4201,
+    "offset": 237159,
+    "lang": "es"
+  },
+  {
+    "text": "productividad se mejora muchísimo.",
+    "duration": 4840,
+    "offset": 238720,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense acá",
+    "duration": 4200,
+    "offset": 241360,
+    "lang": "es"
+  },
+  {
+    "text": "que tenemos este MSP Server que se",
+    "duration": 7640,
+    "offset": 243560,
+    "lang": "es"
+  },
+  {
+    "text": "conecta a GCP. Vamos a abrir el ADK web.",
+    "duration": 8959,
+    "offset": 245560,
+    "lang": "es"
+  },
+  {
+    "text": "Acá tenemos un conjunto de dos agentes,",
+    "duration": 6240,
+    "offset": 251200,
+    "lang": "es"
+  },
+  {
+    "text": "un rotation que lo que hace es tiene las",
+    "duration": 5761,
+    "offset": 254519,
+    "lang": "es"
+  },
+  {
+    "text": "herramientas de los MSP externos, se",
+    "duration": 4960,
+    "offset": 257440,
+    "lang": "es"
+  },
+  {
+    "text": "conecta al file system, se conecta a",
+    "duration": 5000,
+    "offset": 260280,
+    "lang": "es"
+  },
+  {
+    "text": "Playright y se conecta a Cudrant, que es",
+    "duration": 6120,
+    "offset": 262400,
+    "lang": "es"
+  },
+  {
+    "text": "un vector store. Y después tenemos el",
+    "duration": 7080,
+    "offset": 265280,
+    "lang": "es"
+  },
+  {
+    "text": "agente que utiliza el tool para",
+    "duration": 8000,
+    "offset": 268520,
+    "lang": "es"
+  },
+  {
+    "text": "conectarse a GCP y directamente tiene un",
+    "duration": 5720,
+    "offset": 272360,
+    "lang": "es"
+  },
+  {
+    "text": "builting tool, no hay que hacer",
+    "duration": 3239,
+    "offset": 276520,
+    "lang": "es"
+  },
+  {
+    "text": "absolutamente nada. Una vez que",
+    "duration": 3640,
+    "offset": 278080,
+    "lang": "es"
+  },
+  {
+    "text": "levantamos de una manera muy sencilla",
+    "duration": 5241,
+    "offset": 279759,
+    "lang": "es"
+  },
+  {
+    "text": "con archivo Y la conexión a JCP, con",
+    "duration": 6280,
+    "offset": 281720,
+    "lang": "es"
+  },
+  {
+    "text": "estas dos líneas de código ya tenemos",
+    "duration": 7919,
+    "offset": 285000,
+    "lang": "es"
+  },
+  {
+    "text": "todo listo. Fíjense que acá levantamos",
+    "duration": 4919,
+    "offset": 288000,
+    "lang": "es"
+  },
+  {
+    "text": "el agent y acá ya lo tenemos. Entonces",
+    "duration": 7960,
+    "offset": 293400,
+    "lang": "es"
+  },
+  {
+    "text": "le puedo decir, le voy a preguntar acá,",
+    "duration": 5480,
+    "offset": 295880,
+    "lang": "es"
+  },
+  {
+    "text": "¿qué herramientas tenés?",
+    "duration": 5600,
+    "offset": 301720,
+    "lang": "es"
+  },
+  {
+    "text": "Acá le dije que me que me explique a ver",
+    "duration": 4120,
+    "offset": 305160,
+    "lang": "es"
+  },
+  {
+    "text": "qué herramientas tiene. Va a empezar acá",
+    "duration": 4840,
+    "offset": 307320,
+    "lang": "es"
+  },
+  {
+    "text": "a mostrarme, va a buscar porque están",
+    "duration": 5000,
+    "offset": 309280,
+    "lang": "es"
+  },
+  {
+    "text": "publicadas. va a ser consciente el LLM",
+    "duration": 4400,
+    "offset": 312160,
+    "lang": "es"
+  },
+  {
+    "text": "de todo lo que puede hacer y me va a",
+    "duration": 5160,
+    "offset": 314280,
+    "lang": "es"
+  },
+  {
+    "text": "exponer todas las herramientas que",
+    "duration": 6759,
+    "offset": 316560,
+    "lang": "es"
+  },
+  {
+    "text": "tiene. Este es el ADK web que tiene que",
+    "duration": 6759,
+    "offset": 319440,
+    "lang": "es"
+  },
+  {
+    "text": "viene built con Google y por eso va a",
+    "duration": 6481,
+    "offset": 323319,
+    "lang": "es"
+  },
+  {
+    "text": "tardar un poco más, pero",
+    "duration": 5681,
+    "offset": 326199,
+    "lang": "es"
+  },
+  {
+    "text": "yo lo que puedo hacer es mi propio",
+    "duration": 4320,
+    "offset": 329800,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de backend y lo y lo usa",
+    "duration": 5120,
+    "offset": 331880,
+    "lang": "es"
+  },
+  {
+    "text": "directamente. Fíjense que acá me dice,",
+    "duration": 4560,
+    "offset": 334120,
+    "lang": "es"
+  },
+  {
+    "text": "tiene la herramienta de sistema de",
+    "duration": 4759,
+    "offset": 337000,
+    "lang": "es"
+  },
+  {
+    "text": "archivos, tiene la herramienta de",
+    "duration": 4840,
+    "offset": 338680,
+    "lang": "es"
+  },
+  {
+    "text": "automatización del navegador que es",
+    "duration": 3481,
+    "offset": 341759,
+    "lang": "es"
+  },
+  {
+    "text": "playrght, tiene la herramienta de",
+    "duration": 4880,
+    "offset": 343520,
+    "lang": "es"
+  },
+  {
+    "text": "memoria semántica CDRAN, que es el",
+    "duration": 7440,
+    "offset": 345240,
+    "lang": "es"
+  },
+  {
+    "text": "vector store. Y acá dice que",
+    "duration": 7079,
+    "offset": 348400,
+    "lang": "es"
+  },
+  {
+    "text": "puedo eh transferir el transfering, que",
+    "duration": 4560,
+    "offset": 352680,
+    "lang": "es"
+  },
+  {
+    "text": "es una herramienta para transferir otro",
+    "duration": 3081,
+    "offset": 355479,
+    "lang": "es"
+  },
+  {
+    "text": "agente. Y esta herramienta que",
+    "duration": 4000,
+    "offset": 357240,
+    "lang": "es"
+  },
+  {
+    "text": "transfiere otra agente es el agente que",
+    "duration": 4359,
+    "offset": 358560,
+    "lang": "es"
+  },
+  {
+    "text": "tiene las últimas novedades de",
+    "duration": 3560,
+    "offset": 361240,
+    "lang": "es"
+  },
+  {
+    "text": "Googlecloud. Entonces, fíjense, le voy a",
+    "duration": 3481,
+    "offset": 362919,
+    "lang": "es"
+  },
+  {
+    "text": "decir,",
+    "duration": 5519,
+    "offset": 364800,
+    "lang": "es"
+  },
+  {
+    "text": "\"¿Me podés dar las",
+    "duration": 9280,
+    "offset": 366400,
+    "lang": "es"
+  },
+  {
+    "text": "últimas novedades de",
+    "duration": 5361,
+    "offset": 370319,
+    "lang": "es"
+  },
+  {
+    "text": "Google Cloud?",
+    "duration": 3440,
+    "offset": 376599,
+    "lang": "es"
+  },
+  {
+    "text": "Directamente, fíjense que si esto fuese",
+    "duration": 4200,
+    "offset": 380680,
+    "lang": "es"
+  },
+  {
+    "text": "un sistema de producción, tendría las",
+    "duration": 4639,
+    "offset": 382280,
+    "lang": "es"
+  },
+  {
+    "text": "bases de datos o las APIs de los",
+    "duration": 4200,
+    "offset": 384880,
+    "lang": "es"
+  },
+  {
+    "text": "sistemas de producción, de stock y",
+    "duration": 5120,
+    "offset": 386919,
+    "lang": "es"
+  },
+  {
+    "text": "demás.\" y directamente el cliente habla",
+    "duration": 4839,
+    "offset": 389080,
+    "lang": "es"
+  },
+  {
+    "text": "con eso y yo no tengo que estar",
+    "duration": 6081,
+    "offset": 392039,
+    "lang": "es"
+  },
+  {
+    "text": "preocupándome de estar respondiendo ni",
+    "duration": 7680,
+    "offset": 393919,
+    "lang": "es"
+  },
+  {
+    "text": "controlando ni nada. Bien, ahí está. Ahí",
+    "duration": 5560,
+    "offset": 398120,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que genera el train virtuation",
+    "duration": 3641,
+    "offset": 401599,
+    "lang": "es"
+  },
+  {
+    "text": "para la pregunta de la gente más",
+    "duration": 4000,
+    "offset": 403680,
+    "lang": "es"
+  },
+  {
+    "text": "adecuados.",
+    "duration": 4920,
+    "offset": 405240,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, le digo, \"Sí,",
+    "duration": 7120,
+    "offset": 407680,
+    "lang": "es"
+  },
+  {
+    "text": "me pide permiso para hacer las cosas",
+    "duration": 4640,
+    "offset": 410160,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí está buscando, fíjense, el set",
+    "duration": 9600,
+    "offset": 415680,
+    "lang": "es"
+  },
+  {
+    "text": "relode de Big Query y ahí lo ejecutó.",
+    "duration": 6760,
+    "offset": 418520,
+    "lang": "es"
+  },
+  {
+    "text": "Lo que sí sucede es que la gente como",
+    "duration": 4400,
+    "offset": 425440,
+    "lang": "es"
+  },
+  {
+    "text": "tiene que interactuar con File System o",
+    "duration": 3880,
+    "offset": 427680,
+    "lang": "es"
+  },
+  {
+    "text": "tiene que utilizar herramientas",
+    "duration": 4440,
+    "offset": 429840,
+    "lang": "es"
+  },
+  {
+    "text": "externas, te dice, \"Sí, tengo esto.\"",
+    "duration": 5919,
+    "offset": 431560,
+    "lang": "es"
+  },
+  {
+    "text": "Pero te pide permiso, te avisa qué es lo",
+    "duration": 6039,
+    "offset": 434280,
+    "lang": "es"
+  },
+  {
+    "text": "que va a hacer. Por eso es que si uno lo",
+    "duration": 4321,
+    "offset": 437479,
+    "lang": "es"
+  },
+  {
+    "text": "va a exponer a personas fuera de la",
+    "duration": 4041,
+    "offset": 440319,
+    "lang": "es"
+  },
+  {
+    "text": "empresa, tiene que tener cuidado que eso",
+    "duration": 4839,
+    "offset": 441800,
+    "lang": "es"
+  },
+  {
+    "text": "no genere ninguna. Bien. Y acá me trajo",
+    "duration": 5239,
+    "offset": 444360,
+    "lang": "es"
+  },
+  {
+    "text": "cuáles son, fíjense, las últimas",
+    "duration": 5321,
+    "offset": 446639,
+    "lang": "es"
+  },
+  {
+    "text": "novedades de Google Cloud Platform y lo",
+    "duration": 8641,
+    "offset": 449599,
+    "lang": "es"
+  },
+  {
+    "text": "hizo a través de esta consulta.",
+    "duration": 6280,
+    "offset": 451960,
+    "lang": "es"
+  },
+  {
+    "text": "Lo hizo a través de esta consulta con",
+    "duration": 4199,
+    "offset": 458720,
+    "lang": "es"
+  },
+  {
+    "text": "esta tabla de BigQuery, pero puedo",
+    "duration": 3480,
+    "offset": 461240,
+    "lang": "es"
+  },
+  {
+    "text": "acceder a cualquier tabla de BigQuery",
+    "duration": 6161,
+    "offset": 462919,
+    "lang": "es"
+  },
+  {
+    "text": "GCP si yo tengo el proyecto adecuado y",
+    "duration": 9400,
+    "offset": 464720,
+    "lang": "es"
+  },
+  {
+    "text": "por supuesto las credenciales adecuadas.",
+    "duration": 5040,
+    "offset": 469080,
+    "lang": "es"
+  },
+  {
+    "text": "Y igualmente esto sigue conectándose. Si",
+    "duration": 6080,
+    "offset": 475360,
+    "lang": "es"
+  },
+  {
+    "text": "le digo, \"¿Me das",
+    "duration": 5639,
+    "offset": 478840,
+    "lang": "es"
+  },
+  {
+    "text": "los titulares",
+    "duration": 5319,
+    "offset": 481440,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 5160,
+    "offset": 484479,
+    "lang": "es"
+  },
+  {
+    "text": "la nación? Ahí lo que va a usar es el",
+    "duration": 7241,
+    "offset": 486759,
+    "lang": "es"
+  },
+  {
+    "text": "browser y se va se va a conectar a",
+    "duration": 6161,
+    "offset": 489639,
+    "lang": "es"
+  },
+  {
+    "text": "se va a conectar a los titulares de la",
+    "duration": 4800,
+    "offset": 494000,
+    "lang": "es"
+  },
+  {
+    "text": "nación.",
+    "duration": 3000,
+    "offset": 495800,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí vuelve al agente original que es el",
+    "duration": 4479,
+    "offset": 504280,
+    "lang": "es"
+  },
+  {
+    "text": "root agent",
+    "duration": 5440,
+    "offset": 506479,
+    "lang": "es"
+  },
+  {
+    "text": "y me eh ahí lo que va a hacer es con el",
+    "duration": 7561,
+    "offset": 508759,
+    "lang": "es"
+  },
+  {
+    "text": "browser va a este",
+    "duration": 4401,
+    "offset": 511919,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que tiene memoria.",
+    "duration": 3960,
+    "offset": 520360,
+    "lang": "es"
+  },
+  {
+    "text": "me dice que sí porque encontró la",
+    "duration": 5680,
+    "offset": 527320,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta. Me responde. Ahí le vuelvo",
+    "duration": 4960,
+    "offset": 530080,
+    "lang": "es"
+  },
+  {
+    "text": "a decir que me dé los titulares. Tiene",
+    "duration": 4000,
+    "offset": 533000,
+    "lang": "es"
+  },
+  {
+    "text": "memoria. ¿Se acuerda que yo le pedí los",
+    "duration": 3560,
+    "offset": 535040,
+    "lang": "es"
+  },
+  {
+    "text": "titulares de la nación? Ahora va a",
+    "duration": 3839,
+    "offset": 537000,
+    "lang": "es"
+  },
+  {
+    "text": "aparecer el browser",
+    "duration": 4520,
+    "offset": 538600,
+    "lang": "es"
+  },
+  {
+    "text": "para este.",
+    "duration": 4721,
+    "offset": 540839,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, acá igualmente va mostrando las",
+    "duration": 4440,
+    "offset": 543120,
+    "lang": "es"
+  },
+  {
+    "text": "invocaciones y se ve que tiene memoria",
+    "duration": 3719,
+    "offset": 545560,
+    "lang": "es"
+  },
+  {
+    "text": "de todo. Bien, ahí está el browser",
+    "duration": 6080,
+    "offset": 547560,
+    "lang": "es"
+  },
+  {
+    "text": "navigate, ¿no? Transfer to agent",
+    "duration": 8161,
+    "offset": 549279,
+    "lang": "es"
+  },
+  {
+    "text": "y el este con el browser navigate me va",
+    "duration": 6280,
+    "offset": 553640,
+    "lang": "es"
+  },
+  {
+    "text": "a responder",
+    "duration": 5440,
+    "offset": 557440,
+    "lang": "es"
+  },
+  {
+    "text": "cuáles son los titulares de la nación y",
+    "duration": 5359,
+    "offset": 559920,
+    "lang": "es"
+  },
+  {
+    "text": "después le voy a pedir que se conecte a",
+    "duration": 4480,
+    "offset": 562880,
+    "lang": "es"
+  },
+  {
+    "text": "un",
+    "duration": 3921,
+    "offset": 565279,
+    "lang": "es"
+  },
+  {
+    "text": "file system. Ahí está sacando los",
+    "duration": 5000,
+    "offset": 567360,
+    "lang": "es"
+  },
+  {
+    "text": "snapshot. Bien, esto porque es el prueba",
+    "duration": 5199,
+    "offset": 569200,
+    "lang": "es"
+  },
+  {
+    "text": "con el ADK web, pero yo lo puedo hacer",
+    "duration": 5800,
+    "offset": 572360,
+    "lang": "es"
+  },
+  {
+    "text": "con cualquier otro. Y también tiene la",
+    "duration": 6281,
+    "offset": 574399,
+    "lang": "es"
+  },
+  {
+    "text": "conexión alfile System. Acá están los",
+    "duration": 6560,
+    "offset": 578160,
+    "lang": "es"
+  },
+  {
+    "text": "titulares de la nación de el este el día",
+    "duration": 5680,
+    "offset": 580680,
+    "lang": "es"
+  },
+  {
+    "text": "de hoy y se puede conectar al File",
+    "duration": 4880,
+    "offset": 584720,
+    "lang": "es"
+  },
+  {
+    "text": "System y entonces yo le podría pedir que",
+    "duration": 5240,
+    "offset": 586360,
+    "lang": "es"
+  },
+  {
+    "text": "busque los titulares y me los escriba o",
+    "duration": 4040,
+    "offset": 589600,
+    "lang": "es"
+  },
+  {
+    "text": "directamente como son agentes, este",
+    "duration": 4200,
+    "offset": 591600,
+    "lang": "es"
+  },
+  {
+    "text": "proceso automatizado lo puede hacer el",
+    "duration": 5560,
+    "offset": 593640,
+    "lang": "es"
+  },
+  {
+    "text": "agente sin recurrir a ninguna operación",
+    "duration": 6120,
+    "offset": 595800,
+    "lang": "es"
+  },
+  {
+    "text": "humana. Yeah.",
+    "duration": 2720,
+    "offset": 599200,
+    "lang": "es"
+  }
+]

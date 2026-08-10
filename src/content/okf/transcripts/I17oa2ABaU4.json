@@ -1,0 +1,356 @@
+[
+  {
+    "text": "bueno y ahora que ya empezamos con el",
+    "duration": 6750,
+    "offset": 1930,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento de nuestro sistema de lv",
+    "duration": 5671,
+    "offset": 5049,
+    "lang": "es"
+  },
+  {
+    "text": "de nuestra red neuronal lo que yo quiero",
+    "duration": 5280,
+    "offset": 8680,
+    "lang": "es"
+  },
+  {
+    "text": "es mostrárselos en acción volvamos al",
+    "duration": 4890,
+    "offset": 10720,
+    "lang": "es"
+  },
+  {
+    "text": "problema hagamos de cuenta que un alumno",
+    "duration": 4860,
+    "offset": 13960,
+    "lang": "es"
+  },
+  {
+    "text": "lo ve y dice bueno que me piden hallar",
+    "duration": 5580,
+    "offset": 15610,
+    "lang": "es"
+  },
+  {
+    "text": "la distancia horizontal y la altura",
+    "duration": 3200,
+    "offset": 18820,
+    "lang": "es"
+  },
+  {
+    "text": "máxima",
+    "duration": 4650,
+    "offset": 21190,
+    "lang": "es"
+  },
+  {
+    "text": "de un móvil que parte con una velocidad",
+    "duration": 5940,
+    "offset": 22020,
+    "lang": "es"
+  },
+  {
+    "text": "inicial y un ángulo de inclinación",
+    "duration": 6859,
+    "offset": 25840,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá ponemos tengo que hallar",
+    "duration": 8610,
+    "offset": 27960,
+    "lang": "es"
+  },
+  {
+    "text": "tengo que hacer la",
+    "duration": 6791,
+    "offset": 32699,
+    "lang": "es"
+  },
+  {
+    "text": "distancia",
+    "duration": 4590,
+    "offset": 36570,
+    "lang": "es"
+  },
+  {
+    "text": "y la distancia",
+    "duration": 3200,
+    "offset": 39490,
+    "lang": "es"
+  },
+  {
+    "text": "horizontal",
+    "duration": 4310,
+    "offset": 41160,
+    "lang": "es"
+  },
+  {
+    "text": "y la",
+    "duration": 9640,
+    "offset": 42690,
+    "lang": "es"
+  },
+  {
+    "text": "dura máxima de un cuerpo que parte con",
+    "duration": 9570,
+    "offset": 45470,
+    "lang": "es"
+  },
+  {
+    "text": "una",
+    "duration": 4920,
+    "offset": 52330,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad",
+    "duration": 8800,
+    "offset": 55040,
+    "lang": "es"
+  },
+  {
+    "text": "inicial que tiene un ángulo d",
+    "duration": 8500,
+    "offset": 57250,
+    "lang": "es"
+  },
+  {
+    "text": "nació",
+    "duration": 4120,
+    "offset": 63840,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense como",
+    "duration": 6200,
+    "offset": 65750,
+    "lang": "es"
+  },
+  {
+    "text": "el sistema de texto o sea el sistema de",
+    "duration": 6510,
+    "offset": 67960,
+    "lang": "es"
+  },
+  {
+    "text": "lv que ya está entrenado por eso acá",
+    "duration": 4890,
+    "offset": 71950,
+    "lang": "es"
+  },
+  {
+    "text": "dice training complete está entrenado",
+    "duration": 3740,
+    "offset": 74470,
+    "lang": "es"
+  },
+  {
+    "text": "para este problema",
+    "duration": 3660,
+    "offset": 76840,
+    "lang": "es"
+  },
+  {
+    "text": "detecto la variante que no tiene nada",
+    "duration": 3430,
+    "offset": 78210,
+    "lang": "es"
+  },
+  {
+    "text": "que ver con la que habíamos escrito",
+    "duration": 2509,
+    "offset": 80500,
+    "lang": "es"
+  },
+  {
+    "text": "originalmente",
+    "duration": 3570,
+    "offset": 81640,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que aparece así está hablando de",
+    "duration": 3641,
+    "offset": 83009,
+    "lang": "es"
+  },
+  {
+    "text": "una velocidad inicial con un ángulo de",
+    "duration": 2630,
+    "offset": 85210,
+    "lang": "es"
+  },
+  {
+    "text": "inclinación",
+    "duration": 4579,
+    "offset": 86650,
+    "lang": "es"
+  },
+  {
+    "text": "definitivamente el intento es cinemática",
+    "duration": 7800,
+    "offset": 87840,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense qué dice hay un 88 por ciento de",
+    "duration": 6640,
+    "offset": 91229,
+    "lang": "es"
+  },
+  {
+    "text": "probabilidad de que esté hablando de",
+    "duration": 4539,
+    "offset": 95640,
+    "lang": "es"
+  },
+  {
+    "text": "dentro del indec cinemática de un tiro",
+    "duration": 5431,
+    "offset": 97869,
+    "lang": "es"
+  },
+  {
+    "text": "oblicuo y estoy 100% seguro que son",
+    "duration": 5091,
+    "offset": 100179,
+    "lang": "es"
+  },
+  {
+    "text": "coordenadas cartesianas",
+    "duration": 4170,
+    "offset": 103300,
+    "lang": "es"
+  },
+  {
+    "text": "falta obviamente que lo entreguemos",
+    "duration": 4810,
+    "offset": 105270,
+    "lang": "es"
+  },
+  {
+    "text": "falta que ustedes me pasen más problemas",
+    "duration": 6120,
+    "offset": 107470,
+    "lang": "es"
+  },
+  {
+    "text": "me pasen tres intentos en ti tics y",
+    "duration": 5580,
+    "offset": 110080,
+    "lang": "es"
+  },
+  {
+    "text": "vayamos entrenando lo y también que",
+    "duration": 4470,
+    "offset": 113590,
+    "lang": "es"
+  },
+  {
+    "text": "vayamos sintetizando el texto respecto",
+    "duration": 5940,
+    "offset": 115660,
+    "lang": "es"
+  },
+  {
+    "text": "de lo que piden hallar una vez que esté",
+    "duration": 5099,
+    "offset": 118060,
+    "lang": "es"
+  },
+  {
+    "text": "hecha esta primera parte donde el",
+    "duration": 3510,
+    "offset": 121600,
+    "lang": "es"
+  },
+  {
+    "text": "sistema pueda responder correctamente",
+    "duration": 4831,
+    "offset": 123159,
+    "lang": "es"
+  },
+  {
+    "text": "pueda discriminar correctamente los",
+    "duration": 5050,
+    "offset": 125110,
+    "lang": "es"
+  },
+  {
+    "text": "distintos problemas",
+    "duration": 5190,
+    "offset": 127990,
+    "lang": "es"
+  },
+  {
+    "text": "es que vamos a pasar a una",
+    "duration": 6570,
+    "offset": 130160,
+    "lang": "es"
+  },
+  {
+    "text": "segunda parte a donde ya vamos a empezar",
+    "duration": 6820,
+    "offset": 133180,
+    "lang": "es"
+  },
+  {
+    "text": "a generar bifurcaciones condicionales",
+    "duration": 5330,
+    "offset": 136730,
+    "lang": "es"
+  },
+  {
+    "text": "que vayan",
+    "duration": 4140,
+    "offset": 140000,
+    "lang": "es"
+  },
+  {
+    "text": "orientando al alumno pero lo fundamental",
+    "duration": 7030,
+    "offset": 142060,
+    "lang": "es"
+  },
+  {
+    "text": "ahora es poder escribir de cada uno de",
+    "duration": 7950,
+    "offset": 144140,
+    "lang": "es"
+  },
+  {
+    "text": "los problemas de cinemática dinámica los",
+    "duration": 7050,
+    "offset": 149090,
+    "lang": "es"
+  },
+  {
+    "text": "intentos lo hacen titís los trades y",
+    "duration": 6210,
+    "offset": 152090,
+    "lang": "es"
+  },
+  {
+    "text": "poder sintetizar qué es lo que piden",
+    "duration": 4590,
+    "offset": 156140,
+    "lang": "es"
+  },
+  {
+    "text": "para poder empezar a entrenar nuestra",
+    "duration": 6410,
+    "offset": 158300,
+    "lang": "es"
+  },
+  {
+    "text": "red neuronal nuestro sistema de nl",
+    "duration": 3980,
+    "offset": 160730,
+    "lang": "es"
+  }
+]

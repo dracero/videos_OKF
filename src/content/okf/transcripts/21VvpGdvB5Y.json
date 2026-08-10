@@ -1,0 +1,680 @@
+[
+  {
+    "text": "habíamos visto en el video anterior que",
+    "duration": 6040,
+    "offset": 2440,
+    "lang": "es"
+  },
+  {
+    "text": "teníamos un juego de ep Game y que ese",
+    "duration": 4719,
+    "offset": 5920,
+    "lang": "es"
+  },
+  {
+    "text": "juego de ep Game que era el space inv",
+    "duration": 5319,
+    "offset": 8480,
+    "lang": "es"
+  },
+  {
+    "text": "others tenía tres grados de libertad",
+    "duration": 7241,
+    "offset": 10639,
+    "lang": "es"
+  },
+  {
+    "text": "posibles y que si yo mataba a un Invasor",
+    "duration": 6681,
+    "offset": 13799,
+    "lang": "es"
+  },
+  {
+    "text": "con una de las balas que disparaba tenía",
+    "duration": 6440,
+    "offset": 17880,
+    "lang": "es"
+  },
+  {
+    "text": "un punto positivo y si El Invasor me",
+    "duration": 7119,
+    "offset": 20480,
+    "lang": "es"
+  },
+  {
+    "text": "chocaba terminaba el juego qué es lo que",
+    "duration": 5279,
+    "offset": 24320,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos que hacer ahora ahora tenemos",
+    "duration": 2961,
+    "offset": 27599,
+    "lang": "es"
+  },
+  {
+    "text": "que",
+    "duration": 4201,
+    "offset": 29599,
+    "lang": "es"
+  },
+  {
+    "text": "extender la clase",
+    "duration": 6800,
+    "offset": 30560,
+    "lang": "es"
+  },
+  {
+    "text": "gymnasium sobre el código de ese juego",
+    "duration": 7040,
+    "offset": 33800,
+    "lang": "es"
+  },
+  {
+    "text": "de Pame para poder controlarlo a través",
+    "duration": 6080,
+    "offset": 37360,
+    "lang": "es"
+  },
+  {
+    "text": "de la clase gymnasium y a través de los",
+    "duration": 5800,
+    "offset": 40840,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmos de aprendizaje por refuerzo",
+    "duration": 6279,
+    "offset": 43440,
+    "lang": "es"
+  },
+  {
+    "text": "Recuerden que dijimos que íbamos a tener",
+    "duration": 6840,
+    "offset": 46640,
+    "lang": "es"
+  },
+  {
+    "text": "una recompensa positiva si matamos un",
+    "duration": 6320,
+    "offset": 49719,
+    "lang": "es"
+  },
+  {
+    "text": "Invasor negativa si El Invasor nos",
+    "duration": 5280,
+    "offset": 53480,
+    "lang": "es"
+  },
+  {
+    "text": "chocaba acá es donde definimos el",
+    "duration": 6121,
+    "offset": 56039,
+    "lang": "es"
+  },
+  {
+    "text": "espacio de es un espacio discreto de 3",
+    "duration": 5439,
+    "offset": 58760,
+    "lang": "es"
+  },
+  {
+    "text": "grados de libertad eso se lo decimos en",
+    "duration": 5560,
+    "offset": 62160,
+    "lang": "es"
+  },
+  {
+    "text": "esta línea de código y acuérdense que",
+    "duration": 7721,
+    "offset": 64199,
+    "lang": "es"
+  },
+  {
+    "text": "habíamos dicho que íbamos a observar el",
+    "duration": 7399,
+    "offset": 67720,
+    "lang": "es"
+  },
+  {
+    "text": "puntaje acá es donde definimos la",
+    "duration": 5160,
+    "offset": 71920,
+    "lang": "es"
+  },
+  {
+    "text": "variable que va a dar el espacio de",
+    "duration": 3761,
+    "offset": 75119,
+    "lang": "es"
+  },
+  {
+    "text": "observaciones acuérdense que en",
+    "duration": 4320,
+    "offset": 77080,
+    "lang": "es"
+  },
+  {
+    "text": "aprendizaje por refuerzo Yo tengo un",
+    "duration": 6040,
+    "offset": 78880,
+    "lang": "es"
+  },
+  {
+    "text": "agente ese agente se desenvuelve sobre",
+    "duration": 6560,
+    "offset": 81400,
+    "lang": "es"
+  },
+  {
+    "text": "un entorno y sobre ese entorno tengo un",
+    "duration": 5600,
+    "offset": 84920,
+    "lang": "es"
+  },
+  {
+    "text": "espacio de acción un espacio de ación y",
+    "duration": 3880,
+    "offset": 87960,
+    "lang": "es"
+  },
+  {
+    "text": "una",
+    "duration": 4720,
+    "offset": 90520,
+    "lang": "es"
+  },
+  {
+    "text": "recompensa Entonces se acuerdan que",
+    "duration": 6200,
+    "offset": 91840,
+    "lang": "es"
+  },
+  {
+    "text": "tenía una parte del código a",
+    "duration": 5280,
+    "offset": 95240,
+    "lang": "es"
+  },
+  {
+    "text": "donde tomaba o",
+    "duration": 5560,
+    "offset": 98040,
+    "lang": "es"
+  },
+  {
+    "text": "capturaba los ingresos del teclado la",
+    "duration": 6680,
+    "offset": 100520,
+    "lang": "es"
+  },
+  {
+    "text": "sar o la barra espaciadora fíjense Este",
+    "duration": 5879,
+    "offset": 103600,
+    "lang": "es"
+  },
+  {
+    "text": "es el constructor de la clase A donde yo",
+    "duration": 5760,
+    "offset": 107200,
+    "lang": "es"
+  },
+  {
+    "text": "voy a poner exactamente todo lo mismo",
+    "duration": 6721,
+    "offset": 109479,
+    "lang": "es"
+  },
+  {
+    "text": "que estaba al inicio de ep Game excepto",
+    "duration": 5320,
+    "offset": 112960,
+    "lang": "es"
+  },
+  {
+    "text": "las cosas particulares del algoritmo de",
+    "duration": 4800,
+    "offset": 116200,
+    "lang": "es"
+  },
+  {
+    "text": "stable B 3 de la clase",
+    "duration": 6720,
+    "offset": 118280,
+    "lang": "es"
+  },
+  {
+    "text": "gymnasium acá lo que voy a hacer Qué es",
+    "duration": 7239,
+    "offset": 121000,
+    "lang": "es"
+  },
+  {
+    "text": "en cambio de utilizar la captura de los",
+    "duration": 5720,
+    "offset": 125000,
+    "lang": "es"
+  },
+  {
+    "text": "elementos del teclado lo que voy a hacer",
+    "duration": 5521,
+    "offset": 128239,
+    "lang": "es"
+  },
+  {
+    "text": "es definir elementos del espacio de",
+    "duration": 6920,
+    "offset": 130720,
+    "lang": "es"
+  },
+  {
+    "text": "acción discreto acá estoy recibiendo en",
+    "duration": 7240,
+    "offset": 133760,
+    "lang": "es"
+  },
+  {
+    "text": "este método que se llama Step action que",
+    "duration": 6720,
+    "offset": 137640,
+    "lang": "es"
+  },
+  {
+    "text": "action tiene tres valores 0 1 y dos y",
+    "duration": 5120,
+    "offset": 141000,
+    "lang": "es"
+  },
+  {
+    "text": "son los tres valores de los tres grados",
+    "duration": 3200,
+    "offset": 144360,
+    "lang": "es"
+  },
+  {
+    "text": "de libertad No",
+    "duration": 4240,
+    "offset": 146120,
+    "lang": "es"
+  },
+  {
+    "text": "importa Qué valor le asigno a cosa",
+    "duration": 4440,
+    "offset": 147560,
+    "lang": "es"
+  },
+  {
+    "text": "porque Después cuando empiece a ciclar",
+    "duration": 4599,
+    "offset": 150360,
+    "lang": "es"
+  },
+  {
+    "text": "el algoritmo solo va a aprender para",
+    "duration": 5080,
+    "offset": 152000,
+    "lang": "es"
+  },
+  {
+    "text": "dónde es que tiene que moverse con cada",
+    "duration": 4640,
+    "offset": 154959,
+    "lang": "es"
+  },
+  {
+    "text": "uno de estos elementos así que por qué",
+    "duration": 5439,
+    "offset": 157080,
+    "lang": "es"
+  },
+  {
+    "text": "puse cer left no importa",
+    "duration": 7121,
+    "offset": 159599,
+    "lang": "es"
+  },
+  {
+    "text": "Eso después lo que voy a tener Es que",
+    "duration": 6241,
+    "offset": 162519,
+    "lang": "es"
+  },
+  {
+    "text": "definir una",
+    "duration": 5599,
+    "offset": 166720,
+    "lang": "es"
+  },
+  {
+    "text": "recompensa que lo tengo más abajo Acá",
+    "duration": 6479,
+    "offset": 168760,
+    "lang": "es"
+  },
+  {
+    "text": "tengo",
+    "duration": 6920,
+    "offset": 172319,
+    "lang": "es"
+  },
+  {
+    "text": "la la recompensa que la defino negativa",
+    "duration": 7681,
+    "offset": 175239,
+    "lang": "es"
+  },
+  {
+    "text": "si es que El Invasor me choca y después",
+    "duration": 6321,
+    "offset": 179239,
+    "lang": "es"
+  },
+  {
+    "text": "tengo una recompensa que la defino",
+    "duration": 5360,
+    "offset": 182920,
+    "lang": "es"
+  },
+  {
+    "text": "positiva si es que yo le pegué un tiro y",
+    "duration": 5080,
+    "offset": 185560,
+    "lang": "es"
+  },
+  {
+    "text": "maté al",
+    "duration": 5160,
+    "offset": 188280,
+    "lang": "es"
+  },
+  {
+    "text": "Invasor y el espacio de observaciones",
+    "duration": 5519,
+    "offset": 190640,
+    "lang": "es"
+  },
+  {
+    "text": "como había dicho es el puntaje el valor",
+    "duration": 5480,
+    "offset": 193440,
+    "lang": "es"
+  },
+  {
+    "text": "del puntaje O sea ya acá definí",
+    "duration": 5881,
+    "offset": 196159,
+    "lang": "es"
+  },
+  {
+    "text": "extendiendo la clase dentro de mi propio",
+    "duration": 5560,
+    "offset": 198920,
+    "lang": "es"
+  },
+  {
+    "text": "código el espacio de acción el de",
+    "duration": 4000,
+    "offset": 202040,
+    "lang": "es"
+  },
+  {
+    "text": "observación y la",
+    "duration": 5479,
+    "offset": 204480,
+    "lang": "es"
+  },
+  {
+    "text": "recompensa ahora esta extensión de clase",
+    "duration": 6520,
+    "offset": 206040,
+    "lang": "es"
+  },
+  {
+    "text": "Yo la voy a buscar la voy a importar en",
+    "duration": 5761,
+    "offset": 209959,
+    "lang": "es"
+  },
+  {
+    "text": "otro código y en ese otro código defino",
+    "duration": 5319,
+    "offset": 212560,
+    "lang": "es"
+  },
+  {
+    "text": "el algoritmo que voy a utilizar y la",
+    "duration": 4360,
+    "offset": 215720,
+    "lang": "es"
+  },
+  {
+    "text": "cantidad de pasos con los que voy a",
+    "duration": 4761,
+    "offset": 217879,
+    "lang": "es"
+  },
+  {
+    "text": "ciclar Entonces",
+    "duration": 7320,
+    "offset": 220080,
+    "lang": "es"
+  },
+  {
+    "text": "ahora vamos a ejecutarlo",
+    "duration": 4760,
+    "offset": 222640,
+    "lang": "es"
+  },
+  {
+    "text": "ahí se va a ir",
+    "duration": 5759,
+    "offset": 249760,
+    "lang": "es"
+  },
+  {
+    "text": "ejecutando ven como Ven ahora ya no lo",
+    "duration": 7320,
+    "offset": 251400,
+    "lang": "es"
+  },
+  {
+    "text": "manejo más con las teclas lo que va a ir",
+    "duration": 5240,
+    "offset": 255519,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo es se va a ir ejecutando Y a",
+    "duration": 4160,
+    "offset": 258720,
+    "lang": "es"
+  },
+  {
+    "text": "medida que se vaya ejecutando y vaya",
+    "duration": 6201,
+    "offset": 260759,
+    "lang": "es"
+  },
+  {
+    "text": "ciclando va a ir aprendiendo Cómo es que",
+    "duration": 6200,
+    "offset": 262880,
+    "lang": "es"
+  },
+  {
+    "text": "tiene que hacer A través de los espacios",
+    "duration": 4400,
+    "offset": 266960,
+    "lang": "es"
+  },
+  {
+    "text": "de acción observación y recompensa",
+    "duration": 4200,
+    "offset": 269080,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que al principio hacía pocos",
+    "duration": 3559,
+    "offset": 271360,
+    "lang": "es"
+  },
+  {
+    "text": "puntos Y a medida que va pasando el",
+    "duration": 4199,
+    "offset": 273280,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo va aprendiendo cómo moverse y va",
+    "duration": 6321,
+    "offset": 274919,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo cada vez más y más",
+    "duration": 3761,
+    "offset": 277479,
+    "lang": "es"
+  },
+  {
+    "text": "puntos acá es donde yo puedo elegir al",
+    "duration": 5360,
+    "offset": 287520,
+    "lang": "es"
+  },
+  {
+    "text": "igual que como elegía en el caso que",
+    "duration": 5000,
+    "offset": 290520,
+    "lang": "es"
+  },
+  {
+    "text": "habíamos visto en el primer video Qué",
+    "duration": 5080,
+    "offset": 292880,
+    "lang": "es"
+  },
+  {
+    "text": "tipo de algoritmo es el que voy a usar",
+    "duration": 7080,
+    "offset": 295520,
+    "lang": "es"
+  },
+  {
+    "text": "si voy a usar dqn si voy a usar a actor",
+    "duration": 7600,
+    "offset": 297960,
+    "lang": "es"
+  },
+  {
+    "text": "critic advantage actor critic o proximal",
+    "duration": 5240,
+    "offset": 302600,
+    "lang": "es"
+  },
+  {
+    "text": "policy optimization acá es donde yo voy",
+    "duration": 5520,
+    "offset": 305560,
+    "lang": "es"
+  },
+  {
+    "text": "a poder probar esos tres algoritmos",
+    "duration": 7240,
+    "offset": 307840,
+    "lang": "es"
+  },
+  {
+    "text": "acuérdense que dqn era para movimientos",
+    "duration": 8880,
+    "offset": 311080,
+    "lang": "es"
+  },
+  {
+    "text": "más más bruscos más fuertes y proximal",
+    "duration": 5959,
+    "offset": 315080,
+    "lang": "es"
+  },
+  {
+    "text": "policy",
+    "duration": 3840,
+    "offset": 319960,
+    "lang": "es"
+  },
+  {
+    "text": "optimization era para",
+    "duration": 5921,
+    "offset": 321039,
+    "lang": "es"
+  },
+  {
+    "text": "movimientos más cuidados era por ejemplo",
+    "duration": 4880,
+    "offset": 323800,
+    "lang": "es"
+  },
+  {
+    "text": "cuando yo tenía que moverme sobre un",
+    "duration": 3920,
+    "offset": 326960,
+    "lang": "es"
+  },
+  {
+    "text": "precipicio o algo así y va a ser un",
+    "duration": 4639,
+    "offset": 328680,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmo mucho más lento vamos a ver",
+    "duration": 6640,
+    "offset": 330880,
+    "lang": "es"
+  },
+  {
+    "text": "ahora Cómo funciona el proximal policy",
+    "duration": 4201,
+    "offset": 333319,
+    "lang": "es"
+  },
+  {
+    "text": "optimization fíjense que ahora",
+    "duration": 7440,
+    "offset": 339080,
+    "lang": "es"
+  },
+  {
+    "text": "este los movimientos que realiza la nave",
+    "duration": 5161,
+    "offset": 343639,
+    "lang": "es"
+  },
+  {
+    "text": "son movimientos muchísimo más lentos",
+    "duration": 5040,
+    "offset": 346520,
+    "lang": "es"
+  },
+  {
+    "text": "pero bien también va ganando muchísimos",
+    "duration": 5399,
+    "offset": 348800,
+    "lang": "es"
+  },
+  {
+    "text": "más puntos",
+    "duration": 2639,
+    "offset": 351560,
+    "lang": "es"
+  },
+  {
+    "text": "verdad an",
+    "duration": 4000,
+    "offset": 358639,
+    "lang": "es"
+  }
+]

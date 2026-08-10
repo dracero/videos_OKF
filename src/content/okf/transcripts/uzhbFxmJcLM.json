@@ -1,0 +1,518 @@
+[
+  {
+    "text": "Una de las ventajas más grandes y más",
+    "duration": 4840,
+    "offset": 1120,
+    "lang": "es"
+  },
+  {
+    "text": "importantes que tiene el nuevo framework",
+    "duration": 5000,
+    "offset": 4000,
+    "lang": "es"
+  },
+  {
+    "text": "de agente Asienteloperit de Google es",
+    "duration": 5759,
+    "offset": 5960,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene como Building Tool un MCP",
+    "duration": 5400,
+    "offset": 9000,
+    "lang": "es"
+  },
+  {
+    "text": "client. Recuerden que cuando nosotros",
+    "duration": 4801,
+    "offset": 11719,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a construir una aplicación MCP",
+    "duration": 5320,
+    "offset": 14400,
+    "lang": "es"
+  },
+  {
+    "text": "necesitamos tres cosas. El host que se",
+    "duration": 7079,
+    "offset": 16520,
+    "lang": "es"
+  },
+  {
+    "text": "comunica con el MCP client y el server,",
+    "duration": 6160,
+    "offset": 19720,
+    "lang": "es"
+  },
+  {
+    "text": "el MCP server, que es el que recibe las",
+    "duration": 6080,
+    "offset": 23599,
+    "lang": "es"
+  },
+  {
+    "text": "peticiones del MCP client. El MSP client",
+    "duration": 7320,
+    "offset": 25880,
+    "lang": "es"
+  },
+  {
+    "text": "es universal y cualquier archivo de",
+    "duration": 6001,
+    "offset": 29679,
+    "lang": "es"
+  },
+  {
+    "text": "configuración para un MCP Server ya lo",
+    "duration": 5519,
+    "offset": 33200,
+    "lang": "es"
+  },
+  {
+    "text": "conecta. Fíjense que acá lo que tenemos",
+    "duration": 5640,
+    "offset": 35680,
+    "lang": "es"
+  },
+  {
+    "text": "es una carpeta, que es esta carpeta",
+    "duration": 7881,
+    "offset": 38719,
+    "lang": "es"
+  },
+  {
+    "text": "donde yo tengo el programa. Y",
+    "duration": 7399,
+    "offset": 41320,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a limpiar acá para poder hacer una",
+    "duration": 4920,
+    "offset": 46600,
+    "lang": "es"
+  },
+  {
+    "text": "llamada de cero,",
+    "duration": 5160,
+    "offset": 48719,
+    "lang": "es"
+  },
+  {
+    "text": "una carpeta donde yo eh tengo el",
+    "duration": 5240,
+    "offset": 51520,
+    "lang": "es"
+  },
+  {
+    "text": "programa y acá lo que tengo es el MCP",
+    "duration": 5441,
+    "offset": 53879,
+    "lang": "es"
+  },
+  {
+    "text": "client, que está directamente como un",
+    "duration": 6040,
+    "offset": 56760,
+    "lang": "es"
+  },
+  {
+    "text": "MCP tool de la gente, o sea, como un un",
+    "duration": 5199,
+    "offset": 59320,
+    "lang": "es"
+  },
+  {
+    "text": "building tool de la gente. Es algo",
+    "duration": 3920,
+    "offset": 62800,
+    "lang": "es"
+  },
+  {
+    "text": "realmente muy importante y que ahorra",
+    "duration": 5481,
+    "offset": 64519,
+    "lang": "es"
+  },
+  {
+    "text": "muchas horas de trabajo. Vamos a mostrar",
+    "duration": 6240,
+    "offset": 66720,
+    "lang": "es"
+  },
+  {
+    "text": "la versatilidad que tiene ADK acá. Como",
+    "duration": 5680,
+    "offset": 70000,
+    "lang": "es"
+  },
+  {
+    "text": "estoyendo v",
+    "duration": 8360,
+    "offset": 72960,
+    "lang": "es"
+  },
+  {
+    "text": "RAM - M de module adc",
+    "duration": 7560,
+    "offset": 75680,
+    "lang": "es"
+  },
+  {
+    "text": "mp",
+    "duration": 5640,
+    "offset": 81320,
+    "lang": "es"
+  },
+  {
+    "text": "samples punagent",
+    "duration": 3720,
+    "offset": 83240,
+    "lang": "es"
+  },
+  {
+    "text": "que es el nombre de el módulo el que voy",
+    "duration": 5759,
+    "offset": 88680,
+    "lang": "es"
+  },
+  {
+    "text": "a hacer correr. Entonces ahí va a",
+    "duration": 5439,
+    "offset": 91360,
+    "lang": "es"
+  },
+  {
+    "text": "empezar",
+    "duration": 4761,
+    "offset": 94439,
+    "lang": "es"
+  },
+  {
+    "text": "bien y me dice que eh bueno, que escriba",
+    "duration": 4081,
+    "offset": 96799,
+    "lang": "es"
+  },
+  {
+    "text": "quit para salir y comandos para",
+    "duration": 4559,
+    "offset": 99200,
+    "lang": "es"
+  },
+  {
+    "text": "gestionar archivo. Y acá directamente",
+    "duration": 6839,
+    "offset": 100880,
+    "lang": "es"
+  },
+  {
+    "text": "como el host es un LLM que como verán",
+    "duration": 7601,
+    "offset": 103759,
+    "lang": "es"
+  },
+  {
+    "text": "acá es Gemini 2.5 Flash. Le voy a decir,",
+    "duration": 6521,
+    "offset": 107719,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo, podés listar",
+    "duration": 7439,
+    "offset": 111360,
+    "lang": "es"
+  },
+  {
+    "text": "el contenido de",
+    "duration": 4559,
+    "offset": 114240,
+    "lang": "es"
+  },
+  {
+    "text": "de la carpeta",
+    "duration": 3640,
+    "offset": 119360,
+    "lang": "es"
+  },
+  {
+    "text": "ADK",
+    "duration": 3879,
+    "offset": 123880,
+    "lang": "es"
+  },
+  {
+    "text": "MCP",
+    "duration": 4640,
+    "offset": 125520,
+    "lang": "es"
+  },
+  {
+    "text": "samples y ahí va a leer de mi file",
+    "duration": 4001,
+    "offset": 127759,
+    "lang": "es"
+  },
+  {
+    "text": "system. van a aparecer una serie de",
+    "duration": 5719,
+    "offset": 130160,
+    "lang": "es"
+  },
+  {
+    "text": "warning por un tema de eh permisos.",
+    "duration": 8000,
+    "offset": 131760,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, fíjense que acá lo que me dice son",
+    "duration": 6640,
+    "offset": 135879,
+    "lang": "es"
+  },
+  {
+    "text": "esos archivos. Entonces, les voy a decir",
+    "duration": 4800,
+    "offset": 139760,
+    "lang": "es"
+  },
+  {
+    "text": "como es un agente y tiene memoria, ya",
+    "duration": 3561,
+    "offset": 142519,
+    "lang": "es"
+  },
+  {
+    "text": "memoriza que es sobre esa carpeta. Le",
+    "duration": 3920,
+    "offset": 144560,
+    "lang": "es"
+  },
+  {
+    "text": "voy a decir si podés",
+    "duration": 5879,
+    "offset": 146080,
+    "lang": "es"
+  },
+  {
+    "text": "crear el",
+    "duration": 3479,
+    "offset": 148480,
+    "lang": "es"
+  },
+  {
+    "text": "directorio",
+    "duration": 3000,
+    "offset": 153200,
+    "lang": "es"
+  },
+  {
+    "text": "prueba y dentro del mismo test.pi.",
+    "duration": 8239,
+    "offset": 162280,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí está. Fíjense que acá ya creó el",
+    "duration": 4440,
+    "offset": 172040,
+    "lang": "es"
+  },
+  {
+    "text": "directorio prueba y dentro del",
+    "duration": 3561,
+    "offset": 174519,
+    "lang": "es"
+  },
+  {
+    "text": "directorio prueba, obviamente está",
+    "duration": 5560,
+    "offset": 176480,
+    "lang": "es"
+  },
+  {
+    "text": "vacío, pero tengo el archivo test.P y",
+    "duration": 7040,
+    "offset": 178080,
+    "lang": "es"
+  },
+  {
+    "text": "acá me devuelve el que lo ha creado.",
+    "duration": 9279,
+    "offset": 182040,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que puedo manejar directamente e",
+    "duration": 8479,
+    "offset": 185120,
+    "lang": "es"
+  },
+  {
+    "text": "desde el chatbot",
+    "duration": 4441,
+    "offset": 191319,
+    "lang": "es"
+  },
+  {
+    "text": "el file system de mi propia máquina. ¿Y",
+    "duration": 3881,
+    "offset": 193599,
+    "lang": "es"
+  },
+  {
+    "text": "cuál es la ventaja y la versatilidad que",
+    "duration": 4759,
+    "offset": 195760,
+    "lang": "es"
+  },
+  {
+    "text": "tiene ADK? Fíjense, si ustedes acá ponen",
+    "duration": 5920,
+    "offset": 197480,
+    "lang": "es"
+  },
+  {
+    "text": "ADK web,",
+    "duration": 6440,
+    "offset": 200519,
+    "lang": "es"
+  },
+  {
+    "text": "esperen que voy a salir acá, escriben",
+    "duration": 5680,
+    "offset": 203400,
+    "lang": "es"
+  },
+  {
+    "text": "ADK web",
+    "duration": 4521,
+    "offset": 206959,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí les va a levantar una interfaz web",
+    "duration": 7519,
+    "offset": 209080,
+    "lang": "es"
+  },
+  {
+    "text": "para que ustedes, fíjense, acá lo hizo,",
+    "duration": 6839,
+    "offset": 211480,
+    "lang": "es"
+  },
+  {
+    "text": "levanta una interfaz web y de esta",
+    "duration": 6881,
+    "offset": 216599,
+    "lang": "es"
+  },
+  {
+    "text": "interfaz web ustedes directamente pueden",
+    "duration": 5161,
+    "offset": 218319,
+    "lang": "es"
+  },
+  {
+    "text": "acá elegí el agente, pueden hacer por de",
+    "duration": 8720,
+    "offset": 223879,
+    "lang": "es"
+  },
+  {
+    "text": "el agente. Si le pongo lista los",
+    "duration": 9921,
+    "offset": 226439,
+    "lang": "es"
+  },
+  {
+    "text": "archivos de la carpeta.",
+    "duration": 3761,
+    "offset": 232599,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que es un de qué e entonces dice",
+    "duration": 7160,
+    "offset": 237840,
+    "lang": "es"
+  },
+  {
+    "text": "qué carpeta le digo de le vamos a poner",
+    "duration": 6319,
+    "offset": 241920,
+    "lang": "es"
+  },
+  {
+    "text": "de prueba.",
+    "duration": 3239,
+    "offset": 245000,
+    "lang": "es"
+  },
+  {
+    "text": "Él ya sabe porque yo le definí sobre qué",
+    "duration": 4681,
+    "offset": 249239,
+    "lang": "es"
+  },
+  {
+    "text": "directorio va a trabajar. Entonces ahí",
+    "duration": 4640,
+    "offset": 251200,
+    "lang": "es"
+  },
+  {
+    "text": "le estás buscando, ven y ahí pone los",
+    "duration": 4999,
+    "offset": 253920,
+    "lang": "es"
+  },
+  {
+    "text": "archivos de prueba son test.pi. P. Esto",
+    "duration": 5679,
+    "offset": 255840,
+    "lang": "es"
+  },
+  {
+    "text": "lo pueden usar, como ven, para probar si",
+    "duration": 4481,
+    "offset": 258919,
+    "lang": "es"
+  },
+  {
+    "text": "funciona con un interfaz web que",
+    "duration": 4521,
+    "offset": 261519,
+    "lang": "es"
+  },
+  {
+    "text": "directamente traen los mismos agentes o",
+    "duration": 5639,
+    "offset": 263400,
+    "lang": "es"
+  },
+  {
+    "text": "si quieren lo pueden utilizar dentro de",
+    "duration": 7760,
+    "offset": 266040,
+    "lang": "es"
+  },
+  {
+    "text": "un e sistema eh desarrollado por usted.",
+    "duration": 6801,
+    "offset": 269039,
+    "lang": "es"
+  },
+  {
+    "text": "Yeah.",
+    "duration": 2040,
+    "offset": 273800,
+    "lang": "es"
+  }
+]

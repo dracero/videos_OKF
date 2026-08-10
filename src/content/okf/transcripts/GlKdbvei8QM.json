@@ -1,0 +1,422 @@
+[
+  {
+    "text": "Vamos a mostrar un sistema llamado MSP",
+    "duration": 8000,
+    "offset": 2200,
+    "lang": "es"
+  },
+  {
+    "text": "Host, que eh sirve como MSP client y",
+    "duration": 7320,
+    "offset": 5520,
+    "lang": "es"
+  },
+  {
+    "text": "utiliza como host un LLM. En este caso",
+    "duration": 3920,
+    "offset": 10200,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros vamos a",
+    "duration": 3519,
+    "offset": 12840,
+    "lang": "es"
+  },
+  {
+    "text": "usar Olama Quin",
+    "duration": 5480,
+    "offset": 14120,
+    "lang": "es"
+  },
+  {
+    "text": "2.5, pero puede también utilizar si",
+    "duration": 6521,
+    "offset": 16359,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros quisiéramos eh Gemini 2.0. Acá",
+    "duration": 6439,
+    "offset": 19600,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a hacer uno es sencillo. ¿Qué",
+    "duration": 5360,
+    "offset": 22880,
+    "lang": "es"
+  },
+  {
+    "text": "particularidad y qué tiene de bueno que",
+    "duration": 4281,
+    "offset": 26039,
+    "lang": "es"
+  },
+  {
+    "text": "cualquier MSP server que nosotros",
+    "duration": 3999,
+    "offset": 28240,
+    "lang": "es"
+  },
+  {
+    "text": "querramos conectar de los que están en",
+    "duration": 4280,
+    "offset": 30320,
+    "lang": "es"
+  },
+  {
+    "text": "GitHub publicados, que cada vez son más",
+    "duration": 5320,
+    "offset": 32239,
+    "lang": "es"
+  },
+  {
+    "text": "y más, lo podemos conectar utilizando",
+    "duration": 6119,
+    "offset": 34600,
+    "lang": "es"
+  },
+  {
+    "text": "MSP Host con la misma configuración que",
+    "duration": 8160,
+    "offset": 37559,
+    "lang": "es"
+  },
+  {
+    "text": "conectaríamos en Antropic Desktop, Cloud",
+    "duration": 8000,
+    "offset": 40719,
+    "lang": "es"
+  },
+  {
+    "text": "Desktop, perdón, el de Antropic. Bien,",
+    "duration": 5320,
+    "offset": 45719,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ahí empezamos.",
+    "duration": 5761,
+    "offset": 48719,
+    "lang": "es"
+  },
+  {
+    "text": "carga todos los MCP",
+    "duration": 3441,
+    "offset": 51039,
+    "lang": "es"
+  },
+  {
+    "text": "servers. Fíjense una cosa, acá podemos",
+    "duration": 5199,
+    "offset": 56160,
+    "lang": "es"
+  },
+  {
+    "text": "buscar cosas en internet a través de",
+    "duration": 6000,
+    "offset": 59320,
+    "lang": "es"
+  },
+  {
+    "text": "Dagdag Go. Podemos hacer una consulta a",
+    "duration": 7440,
+    "offset": 61359,
+    "lang": "es"
+  },
+  {
+    "text": "una base de datos SQL, podemos hacer una",
+    "duration": 5880,
+    "offset": 65320,
+    "lang": "es"
+  },
+  {
+    "text": "consulta a una base de datos new for o",
+    "duration": 5041,
+    "offset": 68799,
+    "lang": "es"
+  },
+  {
+    "text": "podemos crear algo en nuestro file",
+    "duration": 6599,
+    "offset": 71200,
+    "lang": "es"
+  },
+  {
+    "text": "system. Por ejemplo, si le decimos",
+    "duration": 8959,
+    "offset": 73840,
+    "lang": "es"
+  },
+  {
+    "text": "podés crear el",
+    "duration": 5000,
+    "offset": 77799,
+    "lang": "es"
+  },
+  {
+    "text": "directorio barra",
+    "duration": 3520,
+    "offset": 83320,
+    "lang": "es"
+  },
+  {
+    "text": "TMP/prueba. Fíjense que es Quen 2.5, que",
+    "duration": 8401,
+    "offset": 88439,
+    "lang": "es"
+  },
+  {
+    "text": "es el LLM interactuando. Ahí ya lo creó",
+    "duration": 5119,
+    "offset": 93040,
+    "lang": "es"
+  },
+  {
+    "text": "el el",
+    "duration": 5480,
+    "offset": 96840,
+    "lang": "es"
+  },
+  {
+    "text": "directorio a través del LLM con el MCP",
+    "duration": 5761,
+    "offset": 98159,
+    "lang": "es"
+  },
+  {
+    "text": "Server puede interactuar con nuestra",
+    "duration": 3839,
+    "offset": 102320,
+    "lang": "es"
+  },
+  {
+    "text": "computadora y crearnos un directorio. Y",
+    "duration": 4839,
+    "offset": 103920,
+    "lang": "es"
+  },
+  {
+    "text": "ahora si le decimos",
+    "duration": 3791,
+    "offset": 106159,
+    "lang": "es"
+  },
+  {
+    "text": "podés",
+    "duration": 3761,
+    "offset": 108759,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 6370,
+    "offset": 109950,
+    "lang": "es"
+  },
+  {
+    "text": "crear tabla",
+    "duration": 3800,
+    "offset": 112520,
+    "lang": "es"
+  },
+  {
+    "text": "en",
+    "duration": 2960,
+    "offset": 117079,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 4189,
+    "offset": 118850,
+    "lang": "es"
+  },
+  {
+    "text": "SQ",
+    "duration": 3000,
+    "offset": 120039,
+    "lang": "es"
+  },
+  {
+    "text": "Lite para",
+    "duration": 3640,
+    "offset": 125320,
+    "lang": "es"
+  },
+  {
+    "text": "guardar nombre y apellido. Entonces ahí",
+    "duration": 8800,
+    "offset": 129280,
+    "lang": "es"
+  },
+  {
+    "text": "va a usar el MSP Server de SQL Lite.",
+    "duration": 6281,
+    "offset": 134519,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que el nombre es SQL Creatable,",
+    "duration": 4920,
+    "offset": 138080,
+    "lang": "es"
+  },
+  {
+    "text": "que es el comando de SQL",
+    "duration": 5360,
+    "offset": 140800,
+    "lang": "es"
+  },
+  {
+    "text": "Lite y se ha creado la tabla personas en",
+    "duration": 4680,
+    "offset": 143000,
+    "lang": "es"
+  },
+  {
+    "text": "la base de datos de SQL Lite con los",
+    "duration": 3280,
+    "offset": 146160,
+    "lang": "es"
+  },
+  {
+    "text": "campos ID, nombre y apellido. Ahora",
+    "duration": 3800,
+    "offset": 147680,
+    "lang": "es"
+  },
+  {
+    "text": "puedes comenzar a insertar registros en",
+    "duration": 3519,
+    "offset": 149440,
+    "lang": "es"
+  },
+  {
+    "text": "la tabla. ¿Te gustaría saber cómo",
+    "duration": 4600,
+    "offset": 151480,
+    "lang": "es"
+  },
+  {
+    "text": "hacerlo? Bien, fíjense la cantidad de",
+    "duration": 7441,
+    "offset": 152959,
+    "lang": "es"
+  },
+  {
+    "text": "cosas que permite el MSP Server. Y",
+    "duration": 7960,
+    "offset": 156080,
+    "lang": "es"
+  },
+  {
+    "text": "entonces podés",
+    "duration": 3640,
+    "offset": 160400,
+    "lang": "es"
+  },
+  {
+    "text": "decirme una",
+    "duration": 3680,
+    "offset": 164440,
+    "lang": "es"
+  },
+  {
+    "text": "película datos de",
+    "duration": 4401,
+    "offset": 170159,
+    "lang": "es"
+  },
+  {
+    "text": "Newtulo",
+    "duration": 3561,
+    "offset": 179519,
+    "lang": "es"
+  },
+  {
+    "text": "está",
+    "duration": 4679,
+    "offset": 181280,
+    "lang": "es"
+  },
+  {
+    "text": "bien ahí con la parte de Neo for J",
+    "duration": 5480,
+    "offset": 183080,
+    "lang": "es"
+  },
+  {
+    "text": "todavía a lo mejor",
+    "duration": 4481,
+    "offset": 185959,
+    "lang": "es"
+  },
+  {
+    "text": "hace un poco de agua,",
+    "duration": 6120,
+    "offset": 188560,
+    "lang": "es"
+  },
+  {
+    "text": "pero hay que seguir viendo este",
+    "duration": 6799,
+    "offset": 190440,
+    "lang": "es"
+  },
+  {
+    "text": "porque a medida que va pasando el tiempo",
+    "duration": 4760,
+    "offset": 194680,
+    "lang": "es"
+  },
+  {
+    "text": "cada vez sale más y más SQL. Bien, acá",
+    "duration": 3961,
+    "offset": 197239,
+    "lang": "es"
+  },
+  {
+    "text": "dice la película que se ha recuperado la",
+    "duration": 3719,
+    "offset": 199440,
+    "lang": "es"
+  },
+  {
+    "text": "base de datos New For esto Story Bien.",
+    "duration": 4880,
+    "offset": 201200,
+    "lang": "es"
+  },
+  {
+    "text": "Como ven, antes hubiésemos tenido que",
+    "duration": 6041,
+    "offset": 203159,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollar toda una serie de tools para",
+    "duration": 5799,
+    "offset": 206080,
+    "lang": "es"
+  },
+  {
+    "text": "que Quen pudiera hacer esto y ahora no",
+    "duration": 4560,
+    "offset": 209200,
+    "lang": "es"
+  },
+  {
+    "text": "hace falta desarrollar ningún tool, sino",
+    "duration": 6801,
+    "offset": 211879,
+    "lang": "es"
+  },
+  {
+    "text": "directamente conectarse al MSP Server.",
+    "duration": 4920,
+    "offset": 213760,
+    "lang": "es"
+  }
+]

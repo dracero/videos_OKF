@@ -1,0 +1,392 @@
+[
+  {
+    "text": "Cómo hacer para poder",
+    "duration": 5720,
+    "offset": 840,
+    "lang": "es"
+  },
+  {
+    "text": "transformar la planilla Excel con el",
+    "duration": 7399,
+    "offset": 3120,
+    "lang": "es"
+  },
+  {
+    "text": "formato adecuado en un archivo Jason que",
+    "duration": 7880,
+    "offset": 6560,
+    "lang": "es"
+  },
+  {
+    "text": "después vamos a usar para crear la",
+    "duration": 7441,
+    "offset": 10519,
+    "lang": "es"
+  },
+  {
+    "text": "página de la transición de materias",
+    "duration": 4640,
+    "offset": 14440,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos",
+    "duration": 4680,
+    "offset": 17960,
+    "lang": "es"
+  },
+  {
+    "text": "este documento en Google Cab hacemos",
+    "duration": 6039,
+    "offset": 19080,
+    "lang": "es"
+  },
+  {
+    "text": "clic acá lo primero que hacemos es",
+    "duration": 5479,
+    "offset": 22640,
+    "lang": "es"
+  },
+  {
+    "text": "clonar el repositorio",
+    "duration": 6080,
+    "offset": 25119,
+    "lang": "es"
+  },
+  {
+    "text": "que pasaron los alumos es un repositorio",
+    "duration": 5641,
+    "offset": 28119,
+    "lang": "es"
+  },
+  {
+    "text": "Público con lo cual haciendo clic",
+    "duration": 5040,
+    "offset": 31199,
+    "lang": "es"
+  },
+  {
+    "text": "simplemente Ahí va a funcionar ya se",
+    "duration": 4840,
+    "offset": 33760,
+    "lang": "es"
+  },
+  {
+    "text": "conecta solo al colab y ahí este til de",
+    "duration": 5441,
+    "offset": 36239,
+    "lang": "es"
+  },
+  {
+    "text": "verde significa que ya c clonó ahora",
+    "duration": 5040,
+    "offset": 38600,
+    "lang": "es"
+  },
+  {
+    "text": "instalamos las",
+    "duration": 4840,
+    "offset": 41680,
+    "lang": "es"
+  },
+  {
+    "text": "dependencias como figuren en instructivo",
+    "duration": 6759,
+    "offset": 43640,
+    "lang": "es"
+  },
+  {
+    "text": "que los alumnos hicieron ahí",
+    "duration": 6160,
+    "offset": 46520,
+    "lang": "es"
+  },
+  {
+    "text": "instalamos todas las dependencias",
+    "duration": 3800,
+    "offset": 50399,
+    "lang": "es"
+  },
+  {
+    "text": "necesarias para",
+    "duration": 3879,
+    "offset": 52680,
+    "lang": "es"
+  },
+  {
+    "text": "seguir",
+    "duration": 4680,
+    "offset": 54199,
+    "lang": "es"
+  },
+  {
+    "text": "funcionando podemos Si queremos salir de",
+    "duration": 4601,
+    "offset": 56559,
+    "lang": "es"
+  },
+  {
+    "text": "la página y hacer ot otra cosa mientras",
+    "duration": 5000,
+    "offset": 58879,
+    "lang": "es"
+  },
+  {
+    "text": "está instalando",
+    "duration": 5760,
+    "offset": 61160,
+    "lang": "es"
+  },
+  {
+    "text": "esto bien no le damos bola a estos",
+    "duration": 5001,
+    "offset": 63879,
+    "lang": "es"
+  },
+  {
+    "text": "carteles porque no representan ningún",
+    "duration": 5280,
+    "offset": 66920,
+    "lang": "es"
+  },
+  {
+    "text": "problema estos carteles de Warning error",
+    "duration": 6840,
+    "offset": 68880,
+    "lang": "es"
+  },
+  {
+    "text": "y qué s yo no pasa nada vamos",
+    "duration": 6120,
+    "offset": 72200,
+    "lang": "es"
+  },
+  {
+    "text": "eh hacemos clic",
+    "duration": 6079,
+    "offset": 75720,
+    "lang": "es"
+  },
+  {
+    "text": "en vamos a",
+    "duration": 3479,
+    "offset": 78320,
+    "lang": "es"
+  },
+  {
+    "text": "volver hacemos clic en este icono de",
+    "duration": 5920,
+    "offset": 82920,
+    "lang": "es"
+  },
+  {
+    "text": "carpeta que dice archivo y hacemos clic",
+    "duration": 5439,
+    "offset": 85640,
+    "lang": "es"
+  },
+  {
+    "text": "en este icono que dice carga de archivos",
+    "duration": 4959,
+    "offset": 88840,
+    "lang": "es"
+  },
+  {
+    "text": "y ahí vamos a buscar la planilla Excel",
+    "duration": 4801,
+    "offset": 91079,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a elegir la de",
+    "duration": 4881,
+    "offset": 93799,
+    "lang": "es"
+  },
+  {
+    "text": "informática acá le damos",
+    "duration": 5480,
+    "offset": 95880,
+    "lang": "es"
+  },
+  {
+    "text": "aceptar hacemos clic en este icono de",
+    "duration": 5439,
+    "offset": 98680,
+    "lang": "es"
+  },
+  {
+    "text": "carpeta que tiene",
+    "duration": 2759,
+    "offset": 101360,
+    "lang": "es"
+  },
+  {
+    "text": "eh Para ver si ya la cargó ahí ya la",
+    "duration": 7640,
+    "offset": 104320,
+    "lang": "es"
+  },
+  {
+    "text": "cargó Acá está informática",
+    "duration": 6841,
+    "offset": 108479,
+    "lang": "es"
+  },
+  {
+    "text": "ods qué es lo que tenemos que tener en",
+    "duration": 6400,
+    "offset": 111960,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta acá no hacemos clic sio vamos a",
+    "duration": 6920,
+    "offset": 115320,
+    "lang": "es"
+  },
+  {
+    "text": "tener que que cliquear acá abajo pero",
+    "duration": 7880,
+    "offset": 118360,
+    "lang": "es"
+  },
+  {
+    "text": "qué hacemos vamos a borrar esto de acá",
+    "duration": 6239,
+    "offset": 122240,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a donde dice informática ods",
+    "duration": 5440,
+    "offset": 126240,
+    "lang": "es"
+  },
+  {
+    "text": "clique en los tres puntos copiar ruta de",
+    "duration": 6561,
+    "offset": 128479,
+    "lang": "es"
+  },
+  {
+    "text": "acceso y esa la pegamos acá entre",
+    "duration": 6559,
+    "offset": 131680,
+    "lang": "es"
+  },
+  {
+    "text": "comillas y una vez que hicimos eso",
+    "duration": 5880,
+    "offset": 135040,
+    "lang": "es"
+  },
+  {
+    "text": "acuérdense tenemos que darle clic para",
+    "duration": 5201,
+    "offset": 138239,
+    "lang": "es"
+  },
+  {
+    "text": "correr a estos dos que dicen git clone y",
+    "duration": 5160,
+    "offset": 140920,
+    "lang": "es"
+  },
+  {
+    "text": "pip install y finalmente a este que es",
+    "duration": 5320,
+    "offset": 143440,
+    "lang": "es"
+  },
+  {
+    "text": "para ejecutar la función hacemos clic",
+    "duration": 7680,
+    "offset": 146080,
+    "lang": "es"
+  },
+  {
+    "text": "ahí y ahí la función acá perdón eh",
+    "duration": 7479,
+    "offset": 148760,
+    "lang": "es"
+  },
+  {
+    "text": "tiramos esto da un error a este error",
+    "duration": 7119,
+    "offset": 153760,
+    "lang": "es"
+  },
+  {
+    "text": "tampoco le prestamos atención y acá sí",
+    "duration": 5961,
+    "offset": 156239,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos",
+    "duration": 4601,
+    "offset": 160879,
+    "lang": "es"
+  },
+  {
+    "text": "clic listo y ahí sí funcionó bien",
+    "duration": 5440,
+    "offset": 162200,
+    "lang": "es"
+  },
+  {
+    "text": "primero me olvidé perdón hay que hacer",
+    "duration": 4000,
+    "offset": 165480,
+    "lang": "es"
+  },
+  {
+    "text": "clic acá va a tirar un error no le",
+    "duration": 4280,
+    "offset": 167640,
+    "lang": "es"
+  },
+  {
+    "text": "prestamos atención y después hacemos",
+    "duration": 3920,
+    "offset": 169480,
+    "lang": "es"
+  },
+  {
+    "text": "clic acá",
+    "duration": 4480,
+    "offset": 171920,
+    "lang": "es"
+  },
+  {
+    "text": "acá fíjense que acá Ya bajaron plan",
+    "duration": 5800,
+    "offset": 173400,
+    "lang": "es"
+  },
+  {
+    "text": "nuevo Jason y plan viejo Jason Entonces",
+    "duration": 6919,
+    "offset": 176400,
+    "lang": "es"
+  },
+  {
+    "text": "esto de acá le damos Descargar y ahí se",
+    "duration": 8560,
+    "offset": 179200,
+    "lang": "es"
+  },
+  {
+    "text": "descargan a nuestra computadora los",
+    "duration": 4441,
+    "offset": 183319,
+    "lang": "es"
+  },
+  {
+    "text": "archivos",
+    "duration": 3000,
+    "offset": 187920,
+    "lang": "es"
+  }
+]

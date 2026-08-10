@@ -1,0 +1,278 @@
+[
+  {
+    "text": "vamos a ver un ejemplo de rack",
+    "duration": 3799,
+    "offset": 1000,
+    "lang": "es"
+  },
+  {
+    "text": "multimodal con",
+    "duration": 4401,
+    "offset": 3199,
+    "lang": "es"
+  },
+  {
+    "text": "gemini Por qué rack multimodal Porque en",
+    "duration": 5840,
+    "offset": 4799,
+    "lang": "es"
+  },
+  {
+    "text": "cambio de poner en el promt un texto",
+    "duration": 5159,
+    "offset": 7600,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a hacer de PR vamos a usar como",
+    "duration": 6480,
+    "offset": 10639,
+    "lang": "es"
+  },
+  {
+    "text": "prom una imagen por qué Porque gemini es",
+    "duration": 8841,
+    "offset": 12759,
+    "lang": "es"
+  },
+  {
+    "text": "un lmm es un large multimodal model esto",
+    "duration": 6320,
+    "offset": 17119,
+    "lang": "es"
+  },
+  {
+    "text": "que te voy a mostrar Ya lo tenemos",
+    "duration": 4400,
+    "offset": 21600,
+    "lang": "es"
+  },
+  {
+    "text": "funcionando y ya están trabajando los",
+    "duration": 4401,
+    "offset": 23439,
+    "lang": "es"
+  },
+  {
+    "text": "chicos becarios en hacer una ap de",
+    "duration": 4480,
+    "offset": 26000,
+    "lang": "es"
+  },
+  {
+    "text": "backend",
+    "duration": 5840,
+    "offset": 27840,
+    "lang": "es"
+  },
+  {
+    "text": "ahí capturé la imagen ahora esa imagen",
+    "duration": 4200,
+    "offset": 30480,
+    "lang": "es"
+  },
+  {
+    "text": "que",
+    "duration": 3800,
+    "offset": 33680,
+    "lang": "es"
+  },
+  {
+    "text": "capturé voy a venir a mi código y la voy",
+    "duration": 3480,
+    "offset": 34680,
+    "lang": "es"
+  },
+  {
+    "text": "a",
+    "duration": 2880,
+    "offset": 37480,
+    "lang": "es"
+  },
+  {
+    "text": "subir desde",
+    "duration": 7000,
+    "offset": 38160,
+    "lang": "es"
+  },
+  {
+    "text": "e el disco acá voy a ir a copiar",
+    "duration": 10679,
+    "offset": 40360,
+    "lang": "es"
+  },
+  {
+    "text": "en la ruta de acceso y eh en el",
+    "duration": 9399,
+    "offset": 45160,
+    "lang": "es"
+  },
+  {
+    "text": "prompt lo que le voy a poner es la ruta",
+    "duration": 6200,
+    "offset": 51039,
+    "lang": "es"
+  },
+  {
+    "text": "de esa imagen Y le voy a decir que",
+    "duration": 4361,
+    "offset": 54559,
+    "lang": "es"
+  },
+  {
+    "text": "describa la imagen en",
+    "duration": 5280,
+    "offset": 57239,
+    "lang": "es"
+  },
+  {
+    "text": "español eh en forma lo más detallada",
+    "duration": 6040,
+    "offset": 58920,
+    "lang": "es"
+  },
+  {
+    "text": "posible y con ecuaciones entonces acá",
+    "duration": 4561,
+    "offset": 62519,
+    "lang": "es"
+  },
+  {
+    "text": "hago correr",
+    "duration": 5000,
+    "offset": 64960,
+    "lang": "es"
+  },
+  {
+    "text": "esto acá ejecuté todo un proceso más",
+    "duration": 5520,
+    "offset": 67080,
+    "lang": "es"
+  },
+  {
+    "text": "complejo que va a buscar al vector Store",
+    "duration": 5280,
+    "offset": 69960,
+    "lang": "es"
+  },
+  {
+    "text": "y demás Pero bueno eso simplemente qué",
+    "duration": 5199,
+    "offset": 72600,
+    "lang": "es"
+  },
+  {
+    "text": "hice en cambio de ingresar un texto lo",
+    "duration": 5280,
+    "offset": 75240,
+    "lang": "es"
+  },
+  {
+    "text": "que ingreso es una imagen y le pido que",
+    "duration": 5721,
+    "offset": 77799,
+    "lang": "es"
+  },
+  {
+    "text": "describa esa imagen con el mayor detalle",
+    "duration": 6559,
+    "offset": 80520,
+    "lang": "es"
+  },
+  {
+    "text": "posible y acá voy a usar gemina 1.5",
+    "duration": 6400,
+    "offset": 83520,
+    "lang": "es"
+  },
+  {
+    "text": "flash que es el que te dan gratis pero",
+    "duration": 4441,
+    "offset": 87079,
+    "lang": "es"
+  },
+  {
+    "text": "tenés que hacer el código",
+    "duration": 5640,
+    "offset": 89920,
+    "lang": "es"
+  },
+  {
+    "text": "python acá lo hago",
+    "duration": 4040,
+    "offset": 91520,
+    "lang": "es"
+  },
+  {
+    "text": "correr tarda un rato porque por supuesto",
+    "duration": 4881,
+    "offset": 97079,
+    "lang": "es"
+  },
+  {
+    "text": "No es fácil porque tiene que decodificar",
+    "duration": 6079,
+    "offset": 100000,
+    "lang": "es"
+  },
+  {
+    "text": "toda una imagen y es una imagen bastante",
+    "duration": 9040,
+    "offset": 101960,
+    "lang": "es"
+  },
+  {
+    "text": "grande y ahí devolvió Fíjate que dice",
+    "duration": 8040,
+    "offset": 106079,
+    "lang": "es"
+  },
+  {
+    "text": "que la imagen describe ondas",
+    "duration": 5880,
+    "offset": 111000,
+    "lang": "es"
+  },
+  {
+    "text": "longitudinales y ondas transversales y",
+    "duration": 5000,
+    "offset": 114119,
+    "lang": "es"
+  },
+  {
+    "text": "acá explica que son ondas longitudinales",
+    "duration": 4000,
+    "offset": 116880,
+    "lang": "es"
+  },
+  {
+    "text": "y transversales Explica las",
+    "duration": 4401,
+    "offset": 119119,
+    "lang": "es"
+  },
+  {
+    "text": "características de una onda todo",
+    "duration": 5400,
+    "offset": 120880,
+    "lang": "es"
+  },
+  {
+    "text": "detallado como yo le había pedido y esta",
+    "duration": 4840,
+    "offset": 123520,
+    "lang": "es"
+  },
+  {
+    "text": "es la imagen que yo le ingresé eso lo",
+    "duration": 6959,
+    "offset": 126280,
+    "lang": "es"
+  },
+  {
+    "text": "devuelve el mismo gemini",
+    "duration": 4879,
+    "offset": 128360,
+    "lang": "es"
+  }
+]

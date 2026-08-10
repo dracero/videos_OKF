@@ -4,7 +4,7 @@ title: "Instructivo página de asignatura 2"
 description: "Video realizado para ayudar a los docentes a armar una página desde cero."
 resource: "https://www.youtube.com/watch?v=Dko8ea1lD0o"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-02T00:21:56.900Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T17:06:15.038Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -18,7 +18,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-02"
+    last_modified: "2026-08-10"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"

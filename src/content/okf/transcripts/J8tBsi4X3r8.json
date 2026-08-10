@@ -1,0 +1,1520 @@
+[
+  {
+    "text": "vamos a resolver un problema de un",
+    "duration": 7141,
+    "offset": 2179,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido formado por tres barras",
+    "duration": 7021,
+    "offset": 5279,
+    "lang": "es"
+  },
+  {
+    "text": "contenidas dentro de un mismo plano y",
+    "duration": 5260,
+    "offset": 9320,
+    "lang": "es"
+  },
+  {
+    "text": "sostenidas por un eje perpendicular a",
+    "duration": 4979,
+    "offset": 12300,
+    "lang": "es"
+  },
+  {
+    "text": "dicho plano el motivo de haber elegido",
+    "duration": 5940,
+    "offset": 14580,
+    "lang": "es"
+  },
+  {
+    "text": "este problema es que yo lo creo muy útil",
+    "duration": 5760,
+    "offset": 17279,
+    "lang": "es"
+  },
+  {
+    "text": "para desarrollar las habilidades",
+    "duration": 5820,
+    "offset": 20520,
+    "lang": "es"
+  },
+  {
+    "text": "matemáticas y físicas sobre todo para",
+    "duration": 8041,
+    "offset": 23039,
+    "lang": "es"
+  },
+  {
+    "text": "explicar el concepto de momento de",
+    "duration": 8540,
+    "offset": 26340,
+    "lang": "es"
+  },
+  {
+    "text": "Inercia centro de masa y la conservación",
+    "duration": 7280,
+    "offset": 31080,
+    "lang": "es"
+  },
+  {
+    "text": "de la energía",
+    "duration": 3480,
+    "offset": 34880,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces el problema nos dice que el",
+    "duration": 5460,
+    "offset": 38460,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido formado por tres barras de",
+    "duration": 4860,
+    "offset": 41160,
+    "lang": "es"
+  },
+  {
+    "text": "longitud Dos metros y masa 20 kilogramos",
+    "duration": 5400,
+    "offset": 43920,
+    "lang": "es"
+  },
+  {
+    "text": "está en principio en reposo en la",
+    "duration": 5120,
+    "offset": 46020,
+    "lang": "es"
+  },
+  {
+    "text": "posición indicada en la figura izquierda",
+    "duration": 5219,
+    "offset": 49320,
+    "lang": "es"
+  },
+  {
+    "text": "y se deja caer hasta la posición",
+    "duration": 6220,
+    "offset": 51140,
+    "lang": "es"
+  },
+  {
+    "text": "indicada en la figura derecha",
+    "duration": 4981,
+    "offset": 54539,
+    "lang": "es"
+  },
+  {
+    "text": "cada uno de los ítems que se pide",
+    "duration": 4620,
+    "offset": 57360,
+    "lang": "es"
+  },
+  {
+    "text": "calcular está puesto a propósito para",
+    "duration": 4800,
+    "offset": 59520,
+    "lang": "es"
+  },
+  {
+    "text": "que sea de utilidad para el cálculo del",
+    "duration": 3620,
+    "offset": 61980,
+    "lang": "es"
+  },
+  {
+    "text": "ítem siguiente",
+    "duration": 3659,
+    "offset": 64320,
+    "lang": "es"
+  },
+  {
+    "text": "nos dice Entonces por ejemplo que",
+    "duration": 5559,
+    "offset": 65600,
+    "lang": "es"
+  },
+  {
+    "text": "hallemos la posición del centro de masa",
+    "duration": 5401,
+    "offset": 67979,
+    "lang": "es"
+  },
+  {
+    "text": "como se trata de un cuerpo homogéneo acá",
+    "duration": 3780,
+    "offset": 71159,
+    "lang": "es"
+  },
+  {
+    "text": "el alumno puede tener habilidades",
+    "duration": 2820,
+    "offset": 73380,
+    "lang": "es"
+  },
+  {
+    "text": "matemáticas o sea ustedes pueden tener",
+    "duration": 2901,
+    "offset": 74939,
+    "lang": "es"
+  },
+  {
+    "text": "habilidades matemáticas y",
+    "duration": 4440,
+    "offset": 76200,
+    "lang": "es"
+  },
+  {
+    "text": "y considerando que el centro de masa del",
+    "duration": 4240,
+    "offset": 77840,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo homogéneo coincide con el centro",
+    "duration": 3060,
+    "offset": 80640,
+    "lang": "es"
+  },
+  {
+    "text": "geométrico lo pueden hacer por",
+    "duration": 4320,
+    "offset": 82080,
+    "lang": "es"
+  },
+  {
+    "text": "trigonometría o simplemente conociendo",
+    "duration": 4800,
+    "offset": 83700,
+    "lang": "es"
+  },
+  {
+    "text": "la fórmula del baricentro de un",
+    "duration": 5640,
+    "offset": 86400,
+    "lang": "es"
+  },
+  {
+    "text": "triángulo equilátero lo que yo voy a",
+    "duration": 5880,
+    "offset": 88500,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es resolverlo a partir de",
+    "duration": 4680,
+    "offset": 92040,
+    "lang": "es"
+  },
+  {
+    "text": "considerar al cuerpo rígido como tres",
+    "duration": 5040,
+    "offset": 94380,
+    "lang": "es"
+  },
+  {
+    "text": "partículas cuyas posiciones son las",
+    "duration": 5759,
+    "offset": 96720,
+    "lang": "es"
+  },
+  {
+    "text": "posiciones del centro de masa y cuya",
+    "duration": 5400,
+    "offset": 99420,
+    "lang": "es"
+  },
+  {
+    "text": "masa está concentrada en dicha posición",
+    "duration": 4381,
+    "offset": 102479,
+    "lang": "es"
+  },
+  {
+    "text": "o sea en el centro de masa o sea acá voy",
+    "duration": 4140,
+    "offset": 104820,
+    "lang": "es"
+  },
+  {
+    "text": "a tener",
+    "duration": 4939,
+    "offset": 106860,
+    "lang": "es"
+  },
+  {
+    "text": "el centro de masa de una partícula",
+    "duration": 6119,
+    "offset": 108960,
+    "lang": "es"
+  },
+  {
+    "text": "el centro de masa de la otra partícula y",
+    "duration": 6481,
+    "offset": 111799,
+    "lang": "es"
+  },
+  {
+    "text": "el centro de masa",
+    "duration": 3201,
+    "offset": 115079,
+    "lang": "es"
+  },
+  {
+    "text": "de la otra barra que va a ser la",
+    "duration": 6480,
+    "offset": 118560,
+    "lang": "es"
+  },
+  {
+    "text": "posición que utilice para la fórmula del",
+    "duration": 6539,
+    "offset": 120540,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de partículas acá esta la voy a",
+    "duration": 4919,
+    "offset": 125040,
+    "lang": "es"
+  },
+  {
+    "text": "llamar barra uno barra dos y barra tres",
+    "duration": 3921,
+    "offset": 127079,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 4801,
+    "offset": 129959,
+    "lang": "es"
+  },
+  {
+    "text": "la posición del centro de masa la puede",
+    "duration": 6000,
+    "offset": 131000,
+    "lang": "es"
+  },
+  {
+    "text": "escribir como la sumatoria",
+    "duration": 8400,
+    "offset": 134760,
+    "lang": "es"
+  },
+  {
+    "text": "de igual uno a n de m sube por r subí",
+    "duration": 11980,
+    "offset": 137000,
+    "lang": "es"
+  },
+  {
+    "text": "sobre la sumatoria de igual 1 a n de las",
+    "duration": 8520,
+    "offset": 143160,
+    "lang": "es"
+  },
+  {
+    "text": "m subí Ahora yo sé que las masas son",
+    "duration": 5580,
+    "offset": 148980,
+    "lang": "es"
+  },
+  {
+    "text": "tres y que son iguales entonces acá",
+    "duration": 6540,
+    "offset": 151680,
+    "lang": "es"
+  },
+  {
+    "text": "puedo sacar m fuera de la sumatoria acá",
+    "duration": 8100,
+    "offset": 154560,
+    "lang": "es"
+  },
+  {
+    "text": "me queda igual uno a n de r sub I y acá",
+    "duration": 7440,
+    "offset": 158220,
+    "lang": "es"
+  },
+  {
+    "text": "me va a quedar 3M entonces puedo",
+    "duration": 5340,
+    "offset": 162660,
+    "lang": "es"
+  },
+  {
+    "text": "simplificar esto con esto y me queda que",
+    "duration": 5579,
+    "offset": 165660,
+    "lang": "es"
+  },
+  {
+    "text": "esto es igual a un tercio por la",
+    "duration": 7319,
+    "offset": 168000,
+    "lang": "es"
+  },
+  {
+    "text": "sumatoria de igual 1 a n de los r subí",
+    "duration": 7941,
+    "offset": 171239,
+    "lang": "es"
+  },
+  {
+    "text": "ahora cuánto vale cada rv",
+    "duration": 9500,
+    "offset": 175319,
+    "lang": "es"
+  },
+  {
+    "text": "R1 del centro de masa es igual a",
+    "duration": 5639,
+    "offset": 179180,
+    "lang": "es"
+  },
+  {
+    "text": "l sobre 2 acá podemos considerar que",
+    "duration": 5120,
+    "offset": 186060,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos",
+    "duration": 4859,
+    "offset": 189660,
+    "lang": "es"
+  },
+  {
+    "text": "un triángulo rectángulo y que este",
+    "duration": 5260,
+    "offset": 191180,
+    "lang": "es"
+  },
+  {
+    "text": "ángulo vale 60 grados por ser un",
+    "duration": 4140,
+    "offset": 194519,
+    "lang": "es"
+  },
+  {
+    "text": "triángulo equilátero entonces Esto va a",
+    "duration": 4700,
+    "offset": 196440,
+    "lang": "es"
+  },
+  {
+    "text": "ser igual menos",
+    "duration": 5360,
+    "offset": 198659,
+    "lang": "es"
+  },
+  {
+    "text": "coseno de 60",
+    "duration": 8080,
+    "offset": 201140,
+    "lang": "es"
+  },
+  {
+    "text": "seno de 60 para el caso de la partícula",
+    "duration": 8561,
+    "offset": 204019,
+    "lang": "es"
+  },
+  {
+    "text": "dos su centro de masa va a estar en l",
+    "duration": 9439,
+    "offset": 209220,
+    "lang": "es"
+  },
+  {
+    "text": "sobre 2 por coseno de 60",
+    "duration": 6079,
+    "offset": 212580,
+    "lang": "es"
+  },
+  {
+    "text": "seno de 60 y para el caso de la",
+    "duration": 4440,
+    "offset": 219019,
+    "lang": "es"
+  },
+  {
+    "text": "partícula tres",
+    "duration": 4680,
+    "offset": 222180,
+    "lang": "es"
+  },
+  {
+    "text": "su centro de masa va a estar en cero",
+    "duration": 5640,
+    "offset": 223459,
+    "lang": "es"
+  },
+  {
+    "text": "cero Entonces ahora",
+    "duration": 5700,
+    "offset": 226860,
+    "lang": "es"
+  },
+  {
+    "text": "la posición del centro de masa a qué va",
+    "duration": 5860,
+    "offset": 229099,
+    "lang": "es"
+  },
+  {
+    "text": "a ser igual fíjense",
+    "duration": 7140,
+    "offset": 232560,
+    "lang": "es"
+  },
+  {
+    "text": "el X acá vamos a tener un tercio por la",
+    "duration": 7261,
+    "offset": 234959,
+    "lang": "es"
+  },
+  {
+    "text": "sumatoria de los r subí",
+    "duration": 5160,
+    "offset": 239700,
+    "lang": "es"
+  },
+  {
+    "text": "ahora qué es lo que pasa",
+    "duration": 6120,
+    "offset": 242220,
+    "lang": "es"
+  },
+  {
+    "text": "menos coseno de 60 más coseno de 60 + 0",
+    "duration": 6239,
+    "offset": 244860,
+    "lang": "es"
+  },
+  {
+    "text": "nos da cero entonces en x vamos a tener",
+    "duration": 5599,
+    "offset": 248340,
+    "lang": "es"
+  },
+  {
+    "text": "cero y acá tenemos",
+    "duration": 6360,
+    "offset": 251099,
+    "lang": "es"
+  },
+  {
+    "text": "seno de 60 más seno de 60 nos da dos por",
+    "duration": 7241,
+    "offset": 253939,
+    "lang": "es"
+  },
+  {
+    "text": "l sobre 2 nos queda l + 0 nos va a",
+    "duration": 8460,
+    "offset": 257459,
+    "lang": "es"
+  },
+  {
+    "text": "quedar L por el seno de 60 y Esto va a",
+    "duration": 10260,
+    "offset": 261180,
+    "lang": "es"
+  },
+  {
+    "text": "ser igual a un tercio por 0 por 2 por el",
+    "duration": 8041,
+    "offset": 265919,
+    "lang": "es"
+  },
+  {
+    "text": "seno de 60 que es raíz de 3 sobre 2",
+    "duration": 4920,
+    "offset": 271440,
+    "lang": "es"
+  },
+  {
+    "text": "entonces se va esto con esto y nos va a",
+    "duration": 4280,
+    "offset": 273960,
+    "lang": "es"
+  },
+  {
+    "text": "quedar",
+    "duration": 6480,
+    "offset": 276360,
+    "lang": "es"
+  },
+  {
+    "text": "0 raíz de 3 sobre 3 el X del centro de",
+    "duration": 5519,
+    "offset": 278240,
+    "lang": "es"
+  },
+  {
+    "text": "masa entonces",
+    "duration": 4380,
+    "offset": 282840,
+    "lang": "es"
+  },
+  {
+    "text": "va a estar en esa posición raíz de tres",
+    "duration": 5561,
+    "offset": 283759,
+    "lang": "es"
+  },
+  {
+    "text": "sobre tres",
+    "duration": 6740,
+    "offset": 287220,
+    "lang": "es"
+  },
+  {
+    "text": "lo siguiente que nos piden hallar es",
+    "duration": 4640,
+    "offset": 289320,
+    "lang": "es"
+  },
+  {
+    "text": "el momento de Inercia para Hallar el",
+    "duration": 5821,
+    "offset": 294419,
+    "lang": "es"
+  },
+  {
+    "text": "momento de Inercia podemos aplicar el",
+    "duration": 5720,
+    "offset": 297900,
+    "lang": "es"
+  },
+  {
+    "text": "teorema de steiner y podemos aplicar",
+    "duration": 6300,
+    "offset": 300240,
+    "lang": "es"
+  },
+  {
+    "text": "el podemos utilizar el carácter aditivo",
+    "duration": 5920,
+    "offset": 303620,
+    "lang": "es"
+  },
+  {
+    "text": "o sea podemos decir que si nosotros",
+    "duration": 5820,
+    "offset": 306540,
+    "lang": "es"
+  },
+  {
+    "text": "conocemos el momento de Inercia de cada",
+    "duration": 5280,
+    "offset": 309540,
+    "lang": "es"
+  },
+  {
+    "text": "uno de estos cuerpos rígidos el momento",
+    "duration": 5820,
+    "offset": 312360,
+    "lang": "es"
+  },
+  {
+    "text": "de Inercia total va a ser igual a la",
+    "duration": 4980,
+    "offset": 314820,
+    "lang": "es"
+  },
+  {
+    "text": "sumatoria de cada uno de esos momentos",
+    "duration": 5820,
+    "offset": 318180,
+    "lang": "es"
+  },
+  {
+    "text": "de Inercia parciales para el caso de las",
+    "duration": 7500,
+    "offset": 319800,
+    "lang": "es"
+  },
+  {
+    "text": "partículas 1 y 2 la simetría O sea la",
+    "duration": 5900,
+    "offset": 324000,
+    "lang": "es"
+  },
+  {
+    "text": "distancia que la separa respecto del eje",
+    "duration": 6780,
+    "offset": 327300,
+    "lang": "es"
+  },
+  {
+    "text": "o del eje que pasa por el punto es la",
+    "duration": 6760,
+    "offset": 329900,
+    "lang": "es"
+  },
+  {
+    "text": "misma con lo cual",
+    "duration": 4860,
+    "offset": 334080,
+    "lang": "es"
+  },
+  {
+    "text": "el momento de Inercia de la partícula",
+    "duration": 4520,
+    "offset": 336660,
+    "lang": "es"
+  },
+  {
+    "text": "uno",
+    "duration": 2240,
+    "offset": 338940,
+    "lang": "es"
+  },
+  {
+    "text": "respecto a o va a ser igual",
+    "duration": 4340,
+    "offset": 341460,
+    "lang": "es"
+  },
+  {
+    "text": "base",
+    "duration": 5581,
+    "offset": 346199,
+    "lang": "es"
+  },
+  {
+    "text": "va a ser igual",
+    "duration": 5520,
+    "offset": 348660,
+    "lang": "es"
+  },
+  {
+    "text": "Al momento de Inercia de la partícula",
+    "duration": 6900,
+    "offset": 351780,
+    "lang": "es"
+  },
+  {
+    "text": "dos respecto a o y va a ser igual a m",
+    "duration": 9959,
+    "offset": 354180,
+    "lang": "es"
+  },
+  {
+    "text": "por l cuadrado sobre 12 más m por l",
+    "duration": 9180,
+    "offset": 358680,
+    "lang": "es"
+  },
+  {
+    "text": "sobre 2 al cuadrado",
+    "duration": 6241,
+    "offset": 364139,
+    "lang": "es"
+  },
+  {
+    "text": "y esto",
+    "duration": 6480,
+    "offset": 367860,
+    "lang": "es"
+  },
+  {
+    "text": "va a ser igual m por l sobre 2 todo al",
+    "duration": 5879,
+    "offset": 370380,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado Perdón bien Esto va a ser igual",
+    "duration": 8040,
+    "offset": 374340,
+    "lang": "es"
+  },
+  {
+    "text": "a m por l cuadrado sobre 12 más m por l",
+    "duration": 9481,
+    "offset": 376259,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado sobre 4 y esto En definitiva",
+    "duration": 6080,
+    "offset": 382380,
+    "lang": "es"
+  },
+  {
+    "text": "nos va a dar",
+    "duration": 2720,
+    "offset": 385740,
+    "lang": "es"
+  },
+  {
+    "text": "m por l cuadrado sobre 3 si sumo estas",
+    "duration": 5960,
+    "offset": 391380,
+    "lang": "es"
+  },
+  {
+    "text": "fracciones sacando",
+    "duration": 3960,
+    "offset": 396000,
+    "lang": "es"
+  },
+  {
+    "text": "denominador común no 12 nos va a quedar",
+    "duration": 7540,
+    "offset": 397340,
+    "lang": "es"
+  },
+  {
+    "text": "cuatro ML al cuadrado sobre 12 4 en ML",
+    "duration": 8040,
+    "offset": 399960,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado sobre tres bien y para el caso",
+    "duration": 8060,
+    "offset": 404880,
+    "lang": "es"
+  },
+  {
+    "text": "o sea que Esto va a ser igual a m que es",
+    "duration": 9199,
+    "offset": 408000,
+    "lang": "es"
+  },
+  {
+    "text": "20 por 2",
+    "duration": 6879,
+    "offset": 412940,
+    "lang": "es"
+  },
+  {
+    "text": "al cuadrado",
+    "duration": 5201,
+    "offset": 417199,
+    "lang": "es"
+  },
+  {
+    "text": "sobre 3",
+    "duration": 5461,
+    "offset": 419819,
+    "lang": "es"
+  },
+  {
+    "text": "y para el caso",
+    "duration": 9120,
+    "offset": 422400,
+    "lang": "es"
+  },
+  {
+    "text": "de la barra 3 La distancia es fíjense la",
+    "duration": 8520,
+    "offset": 425280,
+    "lang": "es"
+  },
+  {
+    "text": "altura del triángulo esta altura del",
+    "duration": 5880,
+    "offset": 431520,
+    "lang": "es"
+  },
+  {
+    "text": "triángulo la puedo calcular como L por",
+    "duration": 8640,
+    "offset": 433800,
+    "lang": "es"
+  },
+  {
+    "text": "el seno de 60 o sea acá me va a quedar m",
+    "duration": 9019,
+    "offset": 437400,
+    "lang": "es"
+  },
+  {
+    "text": "por l cuadrado sobre 12 más",
+    "duration": 10140,
+    "offset": 442440,
+    "lang": "es"
+  },
+  {
+    "text": "m por L por el seno de 60 al cuadrado y",
+    "duration": 8741,
+    "offset": 446419,
+    "lang": "es"
+  },
+  {
+    "text": "Esto va a ser igual a m por l cuadrado",
+    "duration": 5420,
+    "offset": 452580,
+    "lang": "es"
+  },
+  {
+    "text": "sobre 12",
+    "duration": 6500,
+    "offset": 455160,
+    "lang": "es"
+  },
+  {
+    "text": "más m por",
+    "duration": 7000,
+    "offset": 458000,
+    "lang": "es"
+  },
+  {
+    "text": "2 por raíz de 3 sobre 2 me queda raíz de",
+    "duration": 6400,
+    "offset": 461660,
+    "lang": "es"
+  },
+  {
+    "text": "3 al cuadrado 3 bien",
+    "duration": 7039,
+    "offset": 465000,
+    "lang": "es"
+  },
+  {
+    "text": "entonces Esto va a ser igual a",
+    "duration": 7079,
+    "offset": 468060,
+    "lang": "es"
+  },
+  {
+    "text": "20 por",
+    "duration": 9041,
+    "offset": 472039,
+    "lang": "es"
+  },
+  {
+    "text": "2 al cuadrado sobre 12 más 3 y cuando",
+    "duration": 8460,
+    "offset": 475139,
+    "lang": "es"
+  },
+  {
+    "text": "quieras sumar el momento de Inercia",
+    "duration": 5580,
+    "offset": 481080,
+    "lang": "es"
+  },
+  {
+    "text": "total cuando yo quiera Hallar el momento",
+    "duration": 6801,
+    "offset": 483599,
+    "lang": "es"
+  },
+  {
+    "text": "de Inercia total lo tengo que hallar",
+    "duration": 7080,
+    "offset": 486660,
+    "lang": "es"
+  },
+  {
+    "text": "de la siguiente manera el momento de",
+    "duration": 6720,
+    "offset": 490400,
+    "lang": "es"
+  },
+  {
+    "text": "Inercia este es respecto",
+    "duration": 3380,
+    "offset": 493740,
+    "lang": "es"
+  },
+  {
+    "text": "al punto",
+    "duration": 5400,
+    "offset": 497160,
+    "lang": "es"
+  },
+  {
+    "text": "el momento de Inercia total respecto al",
+    "duration": 6000,
+    "offset": 498860,
+    "lang": "es"
+  },
+  {
+    "text": "punto va a ser igual a",
+    "duration": 5460,
+    "offset": 502560,
+    "lang": "es"
+  },
+  {
+    "text": "el momento de Inercia de uno más el",
+    "duration": 7020,
+    "offset": 504860,
+    "lang": "es"
+  },
+  {
+    "text": "momento de Inercia de dos más el momento",
+    "duration": 8639,
+    "offset": 508020,
+    "lang": "es"
+  },
+  {
+    "text": "de Inercia respecto a o de tres y Esto",
+    "duration": 8440,
+    "offset": 511880,
+    "lang": "es"
+  },
+  {
+    "text": "va a ser igual a 2",
+    "duration": 10341,
+    "offset": 516659,
+    "lang": "es"
+  },
+  {
+    "text": "por 20 por 2 al cuadrado sobre 3 más",
+    "duration": 12720,
+    "offset": 520320,
+    "lang": "es"
+  },
+  {
+    "text": "20 por 2 al cuadrado sobre 12 más 3 y",
+    "duration": 9060,
+    "offset": 527000,
+    "lang": "es"
+  },
+  {
+    "text": "Esto va a ser igual a",
+    "duration": 4700,
+    "offset": 533040,
+    "lang": "es"
+  },
+  {
+    "text": "120",
+    "duration": 6120,
+    "offset": 536060,
+    "lang": "es"
+  },
+  {
+    "text": "kilogramos por metro cuadrado",
+    "duration": 4440,
+    "offset": 537740,
+    "lang": "es"
+  },
+  {
+    "text": "lo siguiente que nos piden calcular es",
+    "duration": 8560,
+    "offset": 548540,
+    "lang": "es"
+  },
+  {
+    "text": "Cuánto vale la velocidad cuando el",
+    "duration": 6520,
+    "offset": 553040,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo que parte de la posición de la",
+    "duration": 5220,
+    "offset": 557100,
+    "lang": "es"
+  },
+  {
+    "text": "figura de la derecha se encuentra en la",
+    "duration": 5399,
+    "offset": 559560,
+    "lang": "es"
+  },
+  {
+    "text": "posición perdón el cuerpo que parte en",
+    "duration": 4560,
+    "offset": 562320,
+    "lang": "es"
+  },
+  {
+    "text": "la posición de la figura de la izquierda",
+    "duration": 3721,
+    "offset": 564959,
+    "lang": "es"
+  },
+  {
+    "text": "llega a la posición indicada en la",
+    "duration": 4519,
+    "offset": 566880,
+    "lang": "es"
+  },
+  {
+    "text": "figura de la derecha",
+    "duration": 2719,
+    "offset": 568680,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí es donde tenemos que empezar a usar",
+    "duration": 9000,
+    "offset": 571820,
+    "lang": "es"
+  },
+  {
+    "text": "algún concepto geométrico para ver",
+    "duration": 5180,
+    "offset": 575640,
+    "lang": "es"
+  },
+  {
+    "text": "la altura de la que parte el cuerpo acá",
+    "duration": 5460,
+    "offset": 580980,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos esto hecho un poco fuera de",
+    "duration": 7400,
+    "offset": 583260,
+    "lang": "es"
+  },
+  {
+    "text": "escala pero En definitiva lo que",
+    "duration": 7320,
+    "offset": 586440,
+    "lang": "es"
+  },
+  {
+    "text": "estaría si consideramos el cero del",
+    "duration": 8040,
+    "offset": 590660,
+    "lang": "es"
+  },
+  {
+    "text": "potencial sobre el centro de masa",
+    "duration": 6500,
+    "offset": 593760,
+    "lang": "es"
+  },
+  {
+    "text": "inicialmente",
+    "duration": 4840,
+    "offset": 598700,
+    "lang": "es"
+  },
+  {
+    "text": "el centro de masa que está ubicado acá y",
+    "duration": 7780,
+    "offset": 600260,
+    "lang": "es"
+  },
+  {
+    "text": "finalmente se ubica en esta posición",
+    "duration": 7820,
+    "offset": 603540,
+    "lang": "es"
+  },
+  {
+    "text": "esta posición de acá",
+    "duration": 6780,
+    "offset": 608040,
+    "lang": "es"
+  },
+  {
+    "text": "esta posición de acá acá sería el y que",
+    "duration": 6039,
+    "offset": 611360,
+    "lang": "es"
+  },
+  {
+    "text": "habíamos calculado de el centro de masa",
+    "duration": 5699,
+    "offset": 614820,
+    "lang": "es"
+  },
+  {
+    "text": "y esta posición de acá sería la altura",
+    "duration": 6301,
+    "offset": 617399,
+    "lang": "es"
+  },
+  {
+    "text": "total menos el y del centro de masa y",
+    "duration": 6301,
+    "offset": 620519,
+    "lang": "es"
+  },
+  {
+    "text": "aquí en esta posición podemos poner el",
+    "duration": 7079,
+    "offset": 623700,
+    "lang": "es"
+  },
+  {
+    "text": "cero de potencial nos conviene ahí poner",
+    "duration": 6360,
+    "offset": 626820,
+    "lang": "es"
+  },
+  {
+    "text": "el cero de potencial Entonces qué es lo",
+    "duration": 6180,
+    "offset": 630779,
+    "lang": "es"
+  },
+  {
+    "text": "que sucede podemos considerar el momento",
+    "duration": 7200,
+    "offset": 633180,
+    "lang": "es"
+  },
+  {
+    "text": "de Inercia respecto al punto o Y si",
+    "duration": 5401,
+    "offset": 636959,
+    "lang": "es"
+  },
+  {
+    "text": "consideramos el momento de Inercia",
+    "duration": 5100,
+    "offset": 640380,
+    "lang": "es"
+  },
+  {
+    "text": "respecto al punto o lo que vamos a tener",
+    "duration": 6780,
+    "offset": 642360,
+    "lang": "es"
+  },
+  {
+    "text": "Es que el cuerpo realiza una rotación",
+    "duration": 7859,
+    "offset": 645480,
+    "lang": "es"
+  },
+  {
+    "text": "pura que inicialmente tenía solo energía",
+    "duration": 7199,
+    "offset": 649140,
+    "lang": "es"
+  },
+  {
+    "text": "potencial gravitatoria",
+    "duration": 6500,
+    "offset": 653339,
+    "lang": "es"
+  },
+  {
+    "text": "y que al final va a tener energía",
+    "duration": 6721,
+    "offset": 656339,
+    "lang": "es"
+  },
+  {
+    "text": "puramente energía cinética energía",
+    "duration": 5620,
+    "offset": 659839,
+    "lang": "es"
+  },
+  {
+    "text": "cinética de rotación si consideramos",
+    "duration": 5279,
+    "offset": 663060,
+    "lang": "es"
+  },
+  {
+    "text": "respecto al punto o porque llega al cero",
+    "duration": 5481,
+    "offset": 665459,
+    "lang": "es"
+  },
+  {
+    "text": "de potencial",
+    "duration": 2601,
+    "offset": 668339,
+    "lang": "es"
+  },
+  {
+    "text": "Por qué calculamos el momento de Inercia",
+    "duration": 4800,
+    "offset": 671640,
+    "lang": "es"
+  },
+  {
+    "text": "respecto al punto o porque les va a",
+    "duration": 4859,
+    "offset": 674100,
+    "lang": "es"
+  },
+  {
+    "text": "servir para este siguiente paso para que",
+    "duration": 4980,
+    "offset": 676440,
+    "lang": "es"
+  },
+  {
+    "text": "no se confundan con el momento de",
+    "duration": 5641,
+    "offset": 678959,
+    "lang": "es"
+  },
+  {
+    "text": "Inercia respecto al centro de masa y se",
+    "duration": 5700,
+    "offset": 681420,
+    "lang": "es"
+  },
+  {
+    "text": "olviden si consideran el momento de",
+    "duration": 4620,
+    "offset": 684600,
+    "lang": "es"
+  },
+  {
+    "text": "Inercia respecto al centro de masa que",
+    "duration": 4380,
+    "offset": 687120,
+    "lang": "es"
+  },
+  {
+    "text": "aparte de la energía cinética de",
+    "duration": 4440,
+    "offset": 689220,
+    "lang": "es"
+  },
+  {
+    "text": "rotación También tienen que considerar",
+    "duration": 5459,
+    "offset": 691500,
+    "lang": "es"
+  },
+  {
+    "text": "la energía cinética de traslación para",
+    "duration": 4640,
+    "offset": 693660,
+    "lang": "es"
+  },
+  {
+    "text": "evitar que",
+    "duration": 4861,
+    "offset": 696959,
+    "lang": "es"
+  },
+  {
+    "text": "haya confusiones en esa consideración es",
+    "duration": 5800,
+    "offset": 698300,
+    "lang": "es"
+  },
+  {
+    "text": "que yo les pido que primero hagan el",
+    "duration": 4500,
+    "offset": 701820,
+    "lang": "es"
+  },
+  {
+    "text": "momento de Inercia respecto al punto o",
+    "duration": 4880,
+    "offset": 704100,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces",
+    "duration": 2660,
+    "offset": 706320,
+    "lang": "es"
+  },
+  {
+    "text": "en este caso el punto 3",
+    "duration": 8380,
+    "offset": 711260,
+    "lang": "es"
+  },
+  {
+    "text": "para resolver el punto 3 yo puedo decir",
+    "duration": 6460,
+    "offset": 715700,
+    "lang": "es"
+  },
+  {
+    "text": "que inicialmente el cuerpo tenía una",
+    "duration": 5420,
+    "offset": 719640,
+    "lang": "es"
+  },
+  {
+    "text": "energía potencial gravitatoria está",
+    "duration": 6980,
+    "offset": 722160,
+    "lang": "es"
+  },
+  {
+    "text": "sería igual a tres m por G por h y que",
+    "duration": 8620,
+    "offset": 725060,
+    "lang": "es"
+  },
+  {
+    "text": "esto es igual a y un medio de y respecto",
+    "duration": 6520,
+    "offset": 729140,
+    "lang": "es"
+  },
+  {
+    "text": "al momento de Inercia Total que",
+    "duration": 4080,
+    "offset": 733680,
+    "lang": "es"
+  },
+  {
+    "text": "calculamos más arriba respecto al punto",
+    "duration": 6119,
+    "offset": 735660,
+    "lang": "es"
+  },
+  {
+    "text": "por la velocidad angular Omega al",
+    "duration": 6180,
+    "offset": 737760,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado que es lo que nos piden",
+    "duration": 5581,
+    "offset": 741779,
+    "lang": "es"
+  },
+  {
+    "text": "averiguar bien entonces acá nos va a",
+    "duration": 9540,
+    "offset": 743940,
+    "lang": "es"
+  },
+  {
+    "text": "quedar 3 por m por G por",
+    "duration": 6120,
+    "offset": 747360,
+    "lang": "es"
+  },
+  {
+    "text": "raíz de 3 menos raíz de 3",
+    "duration": 7620,
+    "offset": 754880,
+    "lang": "es"
+  },
+  {
+    "text": "sobre 3 y Esto va a ser igual a",
+    "duration": 7979,
+    "offset": 758660,
+    "lang": "es"
+  },
+  {
+    "text": "un medio de este que sabemos que vale",
+    "duration": 6240,
+    "offset": 762500,
+    "lang": "es"
+  },
+  {
+    "text": "120 por",
+    "duration": 5861,
+    "offset": 766639,
+    "lang": "es"
+  },
+  {
+    "text": "Omega al cuadrado entonces podemos decir",
+    "duration": 9700,
+    "offset": 768740,
+    "lang": "es"
+  },
+  {
+    "text": "que Omega va a ser igual a",
+    "duration": 7800,
+    "offset": 772500,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 8519,
+    "offset": 778440,
+    "lang": "es"
+  },
+  {
+    "text": "la raíz cuadrada de 2 por 3 6 por 20 por",
+    "duration": 10140,
+    "offset": 780300,
+    "lang": "es"
+  },
+  {
+    "text": "10 que es la gravedad por raíz de 3",
+    "duration": 4820,
+    "offset": 786959,
+    "lang": "es"
+  },
+  {
+    "text": "menos",
+    "duration": 5399,
+    "offset": 790440,
+    "lang": "es"
+  },
+  {
+    "text": "raíz de 3 sobre 3",
+    "duration": 7060,
+    "offset": 791779,
+    "lang": "es"
+  },
+  {
+    "text": "sobre",
+    "duration": 3000,
+    "offset": 795839,
+    "lang": "es"
+  },
+  {
+    "text": "120 y de acá podemos hallar la",
+    "duration": 10380,
+    "offset": 800540,
+    "lang": "es"
+  },
+  {
+    "text": "de acá podemos Hallar el valor de Omega",
+    "duration": 8740,
+    "offset": 805279,
+    "lang": "es"
+  },
+  {
+    "text": "podemos Hallar el valor de Omega en",
+    "duration": 6419,
+    "offset": 810920,
+    "lang": "es"
+  },
+  {
+    "text": "radianes por segundo",
+    "duration": 3320,
+    "offset": 814019,
+    "lang": "es"
+  },
+  {
+    "text": "y de ahí podemos obtener el valor de",
+    "duration": 6900,
+    "offset": 827220,
+    "lang": "es"
+  },
+  {
+    "text": "Omega que va a ser igual a 3,36 radianes",
+    "duration": 6560,
+    "offset": 830100,
+    "lang": "es"
+  },
+  {
+    "text": "por segundo",
+    "duration": 2540,
+    "offset": 834120,
+    "lang": "es"
+  },
+  {
+    "text": "bien con esto terminamos de hacer lo que",
+    "duration": 8920,
+    "offset": 839300,
+    "lang": "es"
+  },
+  {
+    "text": "nos habían preguntado",
+    "duration": 3720,
+    "offset": 844500,
+    "lang": "es"
+  }
+]

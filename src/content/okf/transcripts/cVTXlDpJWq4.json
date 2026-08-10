@@ -1,0 +1,506 @@
+[
+  {
+    "text": "vamos a explicar el concepto de agentes",
+    "duration": 7480,
+    "offset": 880,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando la plataforma no code",
+    "duration": 7360,
+    "offset": 4359,
+    "lang": "es"
+  },
+  {
+    "text": "lanflow fíjense en principio tenemos",
+    "duration": 7679,
+    "offset": 8360,
+    "lang": "es"
+  },
+  {
+    "text": "tres Tools una tool que es para hacer",
+    "duration": 7201,
+    "offset": 11719,
+    "lang": "es"
+  },
+  {
+    "text": "operaciones Matemáticas sencillas una",
+    "duration": 5961,
+    "offset": 16039,
+    "lang": "es"
+  },
+  {
+    "text": "tool que es para hacer operaciones",
+    "duration": 7000,
+    "offset": 18920,
+    "lang": "es"
+  },
+  {
+    "text": "Matemáticas más complejas y una tool que",
+    "duration": 8840,
+    "offset": 22000,
+    "lang": "es"
+  },
+  {
+    "text": "es para hacer búsquedas en Wikipedia",
+    "duration": 8280,
+    "offset": 25920,
+    "lang": "es"
+  },
+  {
+    "text": "la entrada del chat se aplica a ag gente",
+    "duration": 7160,
+    "offset": 30840,
+    "lang": "es"
+  },
+  {
+    "text": "y el agente a su vez se conecta a un",
+    "duration": 7039,
+    "offset": 34200,
+    "lang": "es"
+  },
+  {
+    "text": "llm qué Qué efecto va a tener esto",
+    "duration": 4600,
+    "offset": 38000,
+    "lang": "es"
+  },
+  {
+    "text": "cuando el",
+    "duration": 5000,
+    "offset": 41239,
+    "lang": "es"
+  },
+  {
+    "text": "usuario escriba un prompt en el chat",
+    "duration": 6400,
+    "offset": 42600,
+    "lang": "es"
+  },
+  {
+    "text": "input ese prompt en cambio de ir",
+    "duration": 8120,
+    "offset": 46239,
+    "lang": "es"
+  },
+  {
+    "text": "directamente al llm va a ir al ag el",
+    "duration": 7760,
+    "offset": 49000,
+    "lang": "es"
+  },
+  {
+    "text": "agente al cual a través de un prom le",
+    "duration": 4040,
+    "offset": 54359,
+    "lang": "es"
+  },
+  {
+    "text": "hemos dicho qué es lo que tenía que",
+    "duration": 5520,
+    "offset": 56760,
+    "lang": "es"
+  },
+  {
+    "text": "hacer le pusimos un promt a la gente a",
+    "duration": 5601,
+    "offset": 58399,
+    "lang": "es"
+  },
+  {
+    "text": "donde le decimos que bueno es un agente",
+    "duration": 4720,
+    "offset": 62280,
+    "lang": "es"
+  },
+  {
+    "text": "asombroso que puede usar herramientas",
+    "duration": 6920,
+    "offset": 64000,
+    "lang": "es"
+  },
+  {
+    "text": "matemáticas para proveer respuestas a",
+    "duration": 5920,
+    "offset": 67000,
+    "lang": "es"
+  },
+  {
+    "text": "problemas matemáticos y si no es un",
+    "duration": 3800,
+    "offset": 70920,
+    "lang": "es"
+  },
+  {
+    "text": "problema matemático que use una",
+    "duration": 4360,
+    "offset": 72920,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta de",
+    "duration": 6280,
+    "offset": 74720,
+    "lang": "es"
+  },
+  {
+    "text": "búsqueda eso que parece una simple un",
+    "duration": 6040,
+    "offset": 77280,
+    "lang": "es"
+  },
+  {
+    "text": "simple comentario es en realidad lo que",
+    "duration": 4840,
+    "offset": 81000,
+    "lang": "es"
+  },
+  {
+    "text": "va a permitir que la gente trabaje con",
+    "duration": 3479,
+    "offset": 83320,
+    "lang": "es"
+  },
+  {
+    "text": "el",
+    "duration": 6400,
+    "offset": 85840,
+    "lang": "es"
+  },
+  {
+    "text": "llm y es m le ayude a elegir la",
+    "duration": 8121,
+    "offset": 86799,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta correcta para que la gente",
+    "duration": 5360,
+    "offset": 92240,
+    "lang": "es"
+  },
+  {
+    "text": "pueda dar su respuesta a través del chat",
+    "duration": 5479,
+    "offset": 94920,
+    "lang": "es"
+  },
+  {
+    "text": "output vamos a ver cómo funciona si yo",
+    "duration": 6680,
+    "offset": 97600,
+    "lang": "es"
+  },
+  {
+    "text": "le pregunto por ejemplo Cuánto",
+    "duration": 7961,
+    "offset": 100399,
+    "lang": "es"
+  },
+  {
+    "text": "es 2 por",
+    "duration": 4080,
+    "offset": 104280,
+    "lang": "es"
+  },
+  {
+    "text": "5 Ahí va a pensar y me dice 10 ahí",
+    "duration": 7039,
+    "offset": 108680,
+    "lang": "es"
+  },
+  {
+    "text": "responde el agente matemático si yo le",
+    "duration": 5479,
+    "offset": 113240,
+    "lang": "es"
+  },
+  {
+    "text": "pregunto",
+    "duration": 3000,
+    "offset": 115719,
+    "lang": "es"
+  },
+  {
+    "text": "vale el",
+    "duration": 5120,
+    "offset": 120520,
+    "lang": "es"
+  },
+  {
+    "text": "producto",
+    "duration": 8920,
+    "offset": 123600,
+    "lang": "es"
+  },
+  {
+    "text": "escalar de y le paso vectores 1 3",
+    "duration": 9880,
+    "offset": 125640,
+    "lang": "es"
+  },
+  {
+    "text": "2",
+    "duration": 3000,
+    "offset": 132520,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 6521,
+    "offset": 136519,
+    "lang": "es"
+  },
+  {
+    "text": "dos 2 1",
+    "duration": 9000,
+    "offset": 139000,
+    "lang": "es"
+  },
+  {
+    "text": "5 Ahí le pido para que me dé el producto",
+    "duration": 9080,
+    "offset": 143040,
+    "lang": "es"
+  },
+  {
+    "text": "escalar y ahí dice bien ahí le puse",
+    "duration": 10360,
+    "offset": 148000,
+    "lang": "es"
+  },
+  {
+    "text": "2,1 1 y fíjense efectivamente qua 2 * 5",
+    "duration": 11119,
+    "offset": 152120,
+    "lang": "es"
+  },
+  {
+    "text": "10 3 * 1 3 2,1 * 1",
+    "duration": 8280,
+    "offset": 158360,
+    "lang": "es"
+  },
+  {
+    "text": "2,1 13 + 2",
+    "duration": 7920,
+    "offset": 163239,
+    "lang": "es"
+  },
+  {
+    "text": "15,1 bien y si le pregunto por",
+    "duration": 4519,
+    "offset": 166640,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo",
+    "duration": 5200,
+    "offset": 171200,
+    "lang": "es"
+  },
+  {
+    "text": "Quién",
+    "duration": 3000,
+    "offset": 173400,
+    "lang": "es"
+  },
+  {
+    "text": "fue Jorge Luis",
+    "duration": 6000,
+    "offset": 176840,
+    "lang": "es"
+  },
+  {
+    "text": "Borges algo que no tiene nada que ver",
+    "duration": 4759,
+    "offset": 180840,
+    "lang": "es"
+  },
+  {
+    "text": "con un problema",
+    "duration": 2759,
+    "offset": 182840,
+    "lang": "es"
+  },
+  {
+    "text": "matemático ahí está seleccionando el",
+    "duration": 5319,
+    "offset": 188640,
+    "lang": "es"
+  },
+  {
+    "text": "Tour pensando tarda un rato más porque",
+    "duration": 4640,
+    "offset": 191360,
+    "lang": "es"
+  },
+  {
+    "text": "no está en directo porque ahora está",
+    "duration": 4721,
+    "offset": 193959,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo un Search en Wikipedia y ahí me",
+    "duration": 5159,
+    "offset": 196000,
+    "lang": "es"
+  },
+  {
+    "text": "responde Jorge Luis Borges fue un",
+    "duration": 5000,
+    "offset": 198680,
+    "lang": "es"
+  },
+  {
+    "text": "escritor",
+    "duration": 2521,
+    "offset": 201159,
+    "lang": "es"
+  },
+  {
+    "text": "argentino Se comprende el",
+    "duration": 6881,
+    "offset": 203879,
+    "lang": "es"
+  },
+  {
+    "text": "concepto la verdad que u low Es",
+    "duration": 5560,
+    "offset": 207360,
+    "lang": "es"
+  },
+  {
+    "text": "realmente muy muy sencillo de comprender",
+    "duration": 4800,
+    "offset": 210760,
+    "lang": "es"
+  },
+  {
+    "text": "o sea yo podría tener un montón de",
+    "duration": 5360,
+    "offset": 212920,
+    "lang": "es"
+  },
+  {
+    "text": "procesos acá estas Tools podrían ser por",
+    "duration": 4120,
+    "offset": 215560,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo",
+    "duration": 5840,
+    "offset": 218280,
+    "lang": "es"
+  },
+  {
+    "text": "racs y el agente elegiría el mejor rag",
+    "duration": 6880,
+    "offset": 219680,
+    "lang": "es"
+  },
+  {
+    "text": "según el tipo de pregunta por ejemplo un",
+    "duration": 5600,
+    "offset": 224120,
+    "lang": "es"
+  },
+  {
+    "text": "graf rack de neo4j si nosotros queremos",
+    "duration": 6200,
+    "offset": 226560,
+    "lang": "es"
+  },
+  {
+    "text": "hacer preguntas administrativas un rack",
+    "duration": 5840,
+    "offset": 229720,
+    "lang": "es"
+  },
+  {
+    "text": "de kdb si nosotros queremos hacer",
+    "duration": 5679,
+    "offset": 232760,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas que tienen que ver con un",
+    "duration": 5519,
+    "offset": 235560,
+    "lang": "es"
+  },
+  {
+    "text": "sistema multimodal",
+    "duration": 7241,
+    "offset": 238439,
+    "lang": "es"
+  },
+  {
+    "text": "e y No necesariamente la respuesta acá",
+    "duration": 6761,
+    "offset": 241079,
+    "lang": "es"
+  },
+  {
+    "text": "podemos intercalar Si queremos un",
+    "duration": 4199,
+    "offset": 245680,
+    "lang": "es"
+  },
+  {
+    "text": "sistema multimodal para que no responda",
+    "duration": 3599,
+    "offset": 247840,
+    "lang": "es"
+  },
+  {
+    "text": "directamente la gente a través de este",
+    "duration": 4200,
+    "offset": 249879,
+    "lang": "es"
+  },
+  {
+    "text": "lar Language model y podemos tener",
+    "duration": 6401,
+    "offset": 251439,
+    "lang": "es"
+  },
+  {
+    "text": "entonces un llm que sirve",
+    "duration": 6081,
+    "offset": 254079,
+    "lang": "es"
+  },
+  {
+    "text": "para",
+    "duration": 5040,
+    "offset": 257840,
+    "lang": "es"
+  },
+  {
+    "text": "generar el trabajo de la gente y",
+    "duration": 4640,
+    "offset": 260160,
+    "lang": "es"
+  },
+  {
+    "text": "discernir ayudarle a pensar Qué",
+    "duration": 5280,
+    "offset": 262880,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta usar y otro llm para que de",
+    "duration": 7920,
+    "offset": 264800,
+    "lang": "es"
+  },
+  {
+    "text": "la salida multimodal y",
+    "duration": 4560,
+    "offset": 268160,
+    "lang": "es"
+  }
+]

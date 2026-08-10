@@ -1,0 +1,380 @@
+[
+  {
+    "text": "cuando nosotros hacemos",
+    "duration": 5320,
+    "offset": 880,
+    "lang": "es"
+  },
+  {
+    "text": "rag uno de los problemas que nos",
+    "duration": 7159,
+    "offset": 3600,
+    "lang": "es"
+  },
+  {
+    "text": "enfrentamos si no ponemos una frase que",
+    "duration": 8240,
+    "offset": 6200,
+    "lang": "es"
+  },
+  {
+    "text": "tenga similitud semántica con las cosas",
+    "duration": 6360,
+    "offset": 10759,
+    "lang": "es"
+  },
+  {
+    "text": "que figuran en la base de datos puede",
+    "duration": 3759,
+    "offset": 14440,
+    "lang": "es"
+  },
+  {
+    "text": "ser",
+    "duration": 4801,
+    "offset": 17119,
+    "lang": "es"
+  },
+  {
+    "text": "que la frase esa nunca sea bien",
+    "duration": 7281,
+    "offset": 18199,
+    "lang": "es"
+  },
+  {
+    "text": "respondida Por ejemplo si yo tengo un",
+    "duration": 5640,
+    "offset": 21920,
+    "lang": "es"
+  },
+  {
+    "text": "chico Tengo un problema de un chico que",
+    "duration": 2879,
+    "offset": 25480,
+    "lang": "es"
+  },
+  {
+    "text": "va",
+    "duration": 3799,
+    "offset": 27560,
+    "lang": "es"
+  },
+  {
+    "text": "caminando con una velocidad B hacia una",
+    "duration": 6081,
+    "offset": 28359,
+    "lang": "es"
+  },
+  {
+    "text": "pared silvando a una frecuencia",
+    "duration": 7040,
+    "offset": 31359,
+    "lang": "es"
+  },
+  {
+    "text": "F la el sistema de rag el sistema de",
+    "duration": 6080,
+    "offset": 34440,
+    "lang": "es"
+  },
+  {
+    "text": "búsqueda semántica no tiene",
+    "duration": 4721,
+    "offset": 38399,
+    "lang": "es"
+  },
+  {
+    "text": "absolutamente nada para determinar que",
+    "duration": 4080,
+    "offset": 40520,
+    "lang": "es"
+  },
+  {
+    "text": "se trata de un problema de efecto",
+    "duration": 2919,
+    "offset": 43120,
+    "lang": "es"
+  },
+  {
+    "text": "Doppler",
+    "duration": 3959,
+    "offset": 44600,
+    "lang": "es"
+  },
+  {
+    "text": "ahora Si en lugar de hacer Simplemente",
+    "duration": 8561,
+    "offset": 46039,
+    "lang": "es"
+  },
+  {
+    "text": "rag yo uso un sistema con reasoning como",
+    "duration": 10840,
+    "offset": 48559,
+    "lang": "es"
+  },
+  {
+    "text": "gemin 2.0 flash gemin 2.0 flash s puede",
+    "duration": 6040,
+    "offset": 54600,
+    "lang": "es"
+  },
+  {
+    "text": "determin",
+    "duration": 2921,
+    "offset": 59399,
+    "lang": "es"
+  },
+  {
+    "text": "que ese problema se trata de un problema",
+    "duration": 4839,
+    "offset": 60640,
+    "lang": "es"
+  },
+  {
+    "text": "de efecto dopper Entonces qué es lo que",
+    "duration": 6000,
+    "offset": 62320,
+    "lang": "es"
+  },
+  {
+    "text": "propusimos primero tenemos el temario de",
+    "duration": 4000,
+    "offset": 65479,
+    "lang": "es"
+  },
+  {
+    "text": "física",
+    "duration": 3439,
+    "offset": 68320,
+    "lang": "es"
+  },
+  {
+    "text": "1 después lo que vamos a hacer es",
+    "duration": 5081,
+    "offset": 69479,
+    "lang": "es"
+  },
+  {
+    "text": "construir un sistema multiagente con",
+    "duration": 5881,
+    "offset": 71759,
+    "lang": "es"
+  },
+  {
+    "text": "autoin ese sistema multiagente lo que va",
+    "duration": 7239,
+    "offset": 74560,
+    "lang": "es"
+  },
+  {
+    "text": "a hacer es va a recibir la consulta del",
+    "duration": 8519,
+    "offset": 77640,
+    "lang": "es"
+  },
+  {
+    "text": "usuario utilizando gemin 2.0 la va a",
+    "duration": 6881,
+    "offset": 81799,
+    "lang": "es"
+  },
+  {
+    "text": "clasificar en alguno de los elementos",
+    "duration": 4640,
+    "offset": 86159,
+    "lang": "es"
+  },
+  {
+    "text": "del temario de fí",
+    "duration": 4360,
+    "offset": 88680,
+    "lang": "es"
+  },
+  {
+    "text": "y esos elementos del temario ahora lo",
+    "duration": 4401,
+    "offset": 90799,
+    "lang": "es"
+  },
+  {
+    "text": "hicimos lo va a ir a buscar utilizando",
+    "duration": 6200,
+    "offset": 93040,
+    "lang": "es"
+  },
+  {
+    "text": "tabili a internet Pero qué es lo que",
+    "duration": 5640,
+    "offset": 95200,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros queremos hacer en realidad lo",
+    "duration": 3159,
+    "offset": 99240,
+    "lang": "es"
+  },
+  {
+    "text": "que nosotros queremos hacer es que ese",
+    "duration": 5400,
+    "offset": 100840,
+    "lang": "es"
+  },
+  {
+    "text": "elemento del temario lo vaya a buscar a",
+    "duration": 6521,
+    "offset": 102399,
+    "lang": "es"
+  },
+  {
+    "text": "una base de datos que tiene el propio",
+    "duration": 4720,
+    "offset": 106240,
+    "lang": "es"
+  },
+  {
+    "text": "contenido de física 1 o el propio",
+    "duration": 4559,
+    "offset": 108920,
+    "lang": "es"
+  },
+  {
+    "text": "contenido de la materia qué hacemos con",
+    "duration": 5280,
+    "offset": 110960,
+    "lang": "es"
+  },
+  {
+    "text": "esos en total en lugar de tener que",
+    "duration": 5201,
+    "offset": 113479,
+    "lang": "es"
+  },
+  {
+    "text": "hacer Chan de un millón de tokens para",
+    "duration": 5600,
+    "offset": 116240,
+    "lang": "es"
+  },
+  {
+    "text": "que o de token depende el sistema de",
+    "duration": 6479,
+    "offset": 118680,
+    "lang": "es"
+  },
+  {
+    "text": "gemin que estemos pagando para que gemin",
+    "duration": 6120,
+    "offset": 121840,
+    "lang": "es"
+  },
+  {
+    "text": "analice todo que eso tarda bastante",
+    "duration": 6241,
+    "offset": 125159,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo lo que hacemos Es un paso previo",
+    "duration": 6200,
+    "offset": 127960,
+    "lang": "es"
+  },
+  {
+    "text": "a donde el",
+    "duration": 5800,
+    "offset": 131400,
+    "lang": "es"
+  },
+  {
+    "text": "sistema clasifica de qué tema se está",
+    "duration": 4680,
+    "offset": 134160,
+    "lang": "es"
+  },
+  {
+    "text": "hablando a partir del temario que",
+    "duration": 3679,
+    "offset": 137200,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros tenemos que fue introducido",
+    "duration": 4280,
+    "offset": 138840,
+    "lang": "es"
+  },
+  {
+    "text": "convenientemente en la base de datos",
+    "duration": 5121,
+    "offset": 140879,
+    "lang": "es"
+  },
+  {
+    "text": "vectorial y hace una búsqueda mucho más",
+    "duration": 4920,
+    "offset": 143120,
+    "lang": "es"
+  },
+  {
+    "text": "precisa y exhaustiva de esos temas",
+    "duration": 4920,
+    "offset": 146000,
+    "lang": "es"
+  },
+  {
+    "text": "después eso mismo se devuelve a y gem da",
+    "duration": 6279,
+    "offset": 148040,
+    "lang": "es"
+  },
+  {
+    "text": "la respuesta pero de una manera mucho",
+    "duration": 6240,
+    "offset": 150920,
+    "lang": "es"
+  },
+  {
+    "text": "más rápida porque tuvo que buscar en un",
+    "duration": 5881,
+    "offset": 154319,
+    "lang": "es"
+  },
+  {
+    "text": "espacio mucho más",
+    "duration": 3040,
+    "offset": 157160,
+    "lang": "es"
+  },
+  {
+    "text": "acotado",
+    "duration": 3000,
+    "offset": 178840,
+    "lang": "es"
+  },
+  {
+    "text": "al",
+    "duration": 3000,
+    "offset": 208760,
+    "lang": "es"
+  },
+  {
+    "text": "al",
+    "duration": 3000,
+    "offset": 238720,
+    "lang": "es"
+  },
+  {
+    "text": "al",
+    "duration": 3000,
+    "offset": 268720,
+    "lang": "es"
+  },
+  {
+    "text": "al al",
+    "duration": 4041,
+    "offset": 298639,
+    "lang": "es"
+  }
+]

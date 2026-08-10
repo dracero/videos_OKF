@@ -1,0 +1,722 @@
+[
+  {
+    "text": "Vamos a mostrar un ejemplo en desarrollo",
+    "duration": 6520,
+    "offset": 2159,
+    "lang": "es"
+  },
+  {
+    "text": "de agentic rag, de",
+    "duration": 4799,
+    "offset": 5720,
+    "lang": "es"
+  },
+  {
+    "text": "ragéntico. ¿Qué es lo primero que",
+    "duration": 5160,
+    "offset": 8679,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos? Lo primero que tenemos es el",
+    "duration": 7600,
+    "offset": 10519,
+    "lang": "es"
+  },
+  {
+    "text": "temario entero de la materia física uno.",
+    "duration": 6921,
+    "offset": 13839,
+    "lang": "es"
+  },
+  {
+    "text": "Todo el temario de la materia física uno",
+    "duration": 7240,
+    "offset": 18119,
+    "lang": "es"
+  },
+  {
+    "text": "lo tenemos guardado en una variable que",
+    "duration": 7040,
+    "offset": 20760,
+    "lang": "es"
+  },
+  {
+    "text": "se llama temario. Como verán, es el",
+    "duration": 5240,
+    "offset": 25359,
+    "lang": "es"
+  },
+  {
+    "text": "índice de todos los temas que uno tiene",
+    "duration": 7000,
+    "offset": 27800,
+    "lang": "es"
+  },
+  {
+    "text": "que ver en física una guardado en esta",
+    "duration": 5601,
+    "offset": 30599,
+    "lang": "es"
+  },
+  {
+    "text": "en esta",
+    "duration": 3400,
+    "offset": 34800,
+    "lang": "es"
+  },
+  {
+    "text": "variable. Después, ¿qué es lo que",
+    "duration": 6039,
+    "offset": 36200,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos? creamos utilizando",
+    "duration": 6999,
+    "offset": 38200,
+    "lang": "es"
+  },
+  {
+    "text": "Autogen un",
+    "duration": 5201,
+    "offset": 42239,
+    "lang": "es"
+  },
+  {
+    "text": "ragao. En realidad, ¿qué es lo que vamos",
+    "duration": 5121,
+    "offset": 45199,
+    "lang": "es"
+  },
+  {
+    "text": "a hacer primero? Lo primero que hacemos",
+    "duration": 6360,
+    "offset": 47440,
+    "lang": "es"
+  },
+  {
+    "text": "es utilizamos Gemini Gemini 2.0",
+    "duration": 7800,
+    "offset": 50320,
+    "lang": "es"
+  },
+  {
+    "text": "cero y generamos con los agentes,",
+    "duration": 8559,
+    "offset": 53800,
+    "lang": "es"
+  },
+  {
+    "text": "creamos un chat group de agentes autoin",
+    "duration": 6720,
+    "offset": 58120,
+    "lang": "es"
+  },
+  {
+    "text": "que lo que hacen",
+    "duration": 4201,
+    "offset": 62359,
+    "lang": "es"
+  },
+  {
+    "text": "es",
+    "duration": 5560,
+    "offset": 64840,
+    "lang": "es"
+  },
+  {
+    "text": "reciben un prompt de usuario, pero ese",
+    "duration": 5080,
+    "offset": 66560,
+    "lang": "es"
+  },
+  {
+    "text": "prom de usuario tiene una",
+    "duration": 3039,
+    "offset": 70400,
+    "lang": "es"
+  },
+  {
+    "text": "particularidad, no es que ese prom de",
+    "duration": 5200,
+    "offset": 71640,
+    "lang": "es"
+  },
+  {
+    "text": "usuario dice, \"Yo quiero saber de cuerpo",
+    "duration": 5401,
+    "offset": 73439,
+    "lang": "es"
+  },
+  {
+    "text": "rígido, yo quiero saber de efecto",
+    "duration": 3959,
+    "offset": 76840,
+    "lang": "es"
+  },
+  {
+    "text": "dopler\". Es decir, que está buscando",
+    "duration": 4800,
+    "offset": 78840,
+    "lang": "es"
+  },
+  {
+    "text": "específicamente un tema. Fíjense que acá",
+    "duration": 4640,
+    "offset": 80799,
+    "lang": "es"
+  },
+  {
+    "text": "lo que dice es cómo hay el trabajo de",
+    "duration": 3839,
+    "offset": 83640,
+    "lang": "es"
+  },
+  {
+    "text": "una fuerza aplicada sobre un cilindro",
+    "duration": 5121,
+    "offset": 85439,
+    "lang": "es"
+  },
+  {
+    "text": "rígido que rueda sin",
+    "duration": 5761,
+    "offset": 87479,
+    "lang": "es"
+  },
+  {
+    "text": "deslizar. Y le vamos a agregar estando",
+    "duration": 4879,
+    "offset": 90560,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 2199,
+    "offset": 93240,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza a una",
+    "duration": 8280,
+    "offset": 98159,
+    "lang": "es"
+  },
+  {
+    "text": "distancia de del centro de masa.",
+    "duration": 9400,
+    "offset": 100920,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces ahora ejecutamos este ragazico.",
+    "duration": 6640,
+    "offset": 106439,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí aparece Mlow porque estamos haciendo",
+    "duration": 4720,
+    "offset": 110320,
+    "lang": "es"
+  },
+  {
+    "text": "toda la evaluación de los agentes como",
+    "duration": 4161,
+    "offset": 113079,
+    "lang": "es"
+  },
+  {
+    "text": "con Mlow. Y",
+    "duration": 5759,
+    "offset": 115040,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense cómo lo clasifica, dice el tema,",
+    "duration": 5559,
+    "offset": 117240,
+    "lang": "es"
+  },
+  {
+    "text": "¿qué es lo que hace Geminite? Como tiene",
+    "duration": 5360,
+    "offset": 120799,
+    "lang": "es"
+  },
+  {
+    "text": "la capacidad de realizar reasoning,",
+    "duration": 5481,
+    "offset": 122799,
+    "lang": "es"
+  },
+  {
+    "text": "clasifica el tema utilizando a los",
+    "duration": 4361,
+    "offset": 126159,
+    "lang": "es"
+  },
+  {
+    "text": "agentes, porque solamente Yemini no",
+    "duration": 4679,
+    "offset": 128280,
+    "lang": "es"
+  },
+  {
+    "text": "podría hacer esto, porque se necesita un",
+    "duration": 4999,
+    "offset": 130520,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo conjunto de los agentes que",
+    "duration": 3961,
+    "offset": 132959,
+    "lang": "es"
+  },
+  {
+    "text": "tienen",
+    "duration": 5000,
+    "offset": 135519,
+    "lang": "es"
+  },
+  {
+    "text": "eh la posibilidad de ir a buscar a la",
+    "duration": 6160,
+    "offset": 136920,
+    "lang": "es"
+  },
+  {
+    "text": "variable temario todos los temarios de",
+    "duration": 4720,
+    "offset": 140519,
+    "lang": "es"
+  },
+  {
+    "text": "física uno. Fíjense que acá dice el tema",
+    "duration": 5000,
+    "offset": 143080,
+    "lang": "es"
+  },
+  {
+    "text": "es trabajo y energía. Trabajo realizado",
+    "duration": 5321,
+    "offset": 145239,
+    "lang": "es"
+  },
+  {
+    "text": "por una fuerza. Energía cinética de",
+    "duration": 5320,
+    "offset": 148080,
+    "lang": "es"
+  },
+  {
+    "text": "rotación, rodaduras en deslizamiento,",
+    "duration": 4759,
+    "offset": 150560,
+    "lang": "es"
+  },
+  {
+    "text": "teorema en el trabajo de energía y estas",
+    "duration": 3800,
+    "offset": 153400,
+    "lang": "es"
+  },
+  {
+    "text": "keywords. Fuerza del",
+    "duration": 3601,
+    "offset": 155319,
+    "lang": "es"
+  },
+  {
+    "text": "cilindro, eh, rodadura sin",
+    "duration": 3280,
+    "offset": 157200,
+    "lang": "es"
+  },
+  {
+    "text": "deslizamiento, energía cinética,",
+    "duration": 3039,
+    "offset": 158920,
+    "lang": "es"
+  },
+  {
+    "text": "rotación, momento de inercia, centro de",
+    "duration": 3240,
+    "offset": 160480,
+    "lang": "es"
+  },
+  {
+    "text": "masa. ¿Qué es lo que se dio cuenta? Se",
+    "duration": 4601,
+    "offset": 161959,
+    "lang": "es"
+  },
+  {
+    "text": "dio cuenta, o sea, pudo razonar que no",
+    "duration": 4480,
+    "offset": 163720,
+    "lang": "es"
+  },
+  {
+    "text": "era solamente hallar el trabajo de la",
+    "duration": 3280,
+    "offset": 166560,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza, la distancia recorrida por el",
+    "duration": 3480,
+    "offset": 168200,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa, sino también el trabajo",
+    "duration": 4560,
+    "offset": 169840,
+    "lang": "es"
+  },
+  {
+    "text": "de rotación. ¿Qué hacen los agentes con",
+    "duration": 5960,
+    "offset": 171680,
+    "lang": "es"
+  },
+  {
+    "text": "eso con esos temas?",
+    "duration": 8040,
+    "offset": 174400,
+    "lang": "es"
+  },
+  {
+    "text": "Utilizan TBLI y van a buscar a internet.",
+    "duration": 9120,
+    "offset": 177640,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá lo que dicen es",
+    "duration": 7480,
+    "offset": 182440,
+    "lang": "es"
+  },
+  {
+    "text": "eh muy bien, o sea, lo buscó en en",
+    "duration": 4720,
+    "offset": 186760,
+    "lang": "es"
+  },
+  {
+    "text": "cuando lo busca en internet, como le",
+    "duration": 3080,
+    "offset": 189920,
+    "lang": "es"
+  },
+  {
+    "text": "pasa muy bien todo el temario y las",
+    "duration": 3800,
+    "offset": 191480,
+    "lang": "es"
+  },
+  {
+    "text": "palabras claves, le dice que como la",
+    "duration": 3879,
+    "offset": 193000,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza está explicada encima del centro",
+    "duration": 3000,
+    "offset": 195280,
+    "lang": "es"
+  },
+  {
+    "text": "de masa, además del trabajo de la",
+    "duration": 3801,
+    "offset": 196879,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza, tiene que tener en cuenta el",
+    "duration": 5560,
+    "offset": 198280,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo eh del torque debido a la",
+    "duration": 5720,
+    "offset": 200680,
+    "lang": "es"
+  },
+  {
+    "text": "rotación, que eso está muy bien, pero",
+    "duration": 4880,
+    "offset": 203840,
+    "lang": "es"
+  },
+  {
+    "text": "eso se logra gracias al razonamiento",
+    "duration": 3919,
+    "offset": 206400,
+    "lang": "es"
+  },
+  {
+    "text": "previo y las palabras claves previas que",
+    "duration": 3439,
+    "offset": 208720,
+    "lang": "es"
+  },
+  {
+    "text": "descubrió. ¿Qué es lo siguiente que",
+    "duration": 4280,
+    "offset": 210319,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos? Cargamos todo el todos los",
+    "duration": 5640,
+    "offset": 212159,
+    "lang": "es"
+  },
+  {
+    "text": "documentos de física 1 que están en la",
+    "duration": 5521,
+    "offset": 214599,
+    "lang": "es"
+  },
+  {
+    "text": "página de cátedra. Esto es el contenido",
+    "duration": 5041,
+    "offset": 217799,
+    "lang": "es"
+  },
+  {
+    "text": "entero de la materia física uno y ese",
+    "duration": 4960,
+    "offset": 220120,
+    "lang": "es"
+  },
+  {
+    "text": "contenido entero lo guardamos en la base",
+    "duration": 4679,
+    "offset": 222840,
+    "lang": "es"
+  },
+  {
+    "text": "de datos CUDran con los embedings de",
+    "duration": 5640,
+    "offset": 225080,
+    "lang": "es"
+  },
+  {
+    "text": "Hagin Face. Lo guardamos entonces en un",
+    "duration": 5121,
+    "offset": 227519,
+    "lang": "es"
+  },
+  {
+    "text": "vector store que es CUDRAN. ¿Y qué",
+    "duration": 4120,
+    "offset": 230720,
+    "lang": "es"
+  },
+  {
+    "text": "hacemos después?",
+    "duration": 4799,
+    "offset": 232640,
+    "lang": "es"
+  },
+  {
+    "text": "a mano porque todavía no construimos el",
+    "duration": 4319,
+    "offset": 234840,
+    "lang": "es"
+  },
+  {
+    "text": "ragagéntico, pero tenemos que hacer",
+    "duration": 3841,
+    "offset": 237439,
+    "lang": "es"
+  },
+  {
+    "text": "esto, una API de Backen para que en",
+    "duration": 6601,
+    "offset": 239159,
+    "lang": "es"
+  },
+  {
+    "text": "cambio de de contactar a atabil contacte",
+    "duration": 8519,
+    "offset": 241280,
+    "lang": "es"
+  },
+  {
+    "text": "a este backend, lo que hace es",
+    "duration": 8160,
+    "offset": 245760,
+    "lang": "es"
+  },
+  {
+    "text": "recibe a través de un inputs los temas",
+    "duration": 8321,
+    "offset": 249799,
+    "lang": "es"
+  },
+  {
+    "text": "que e descubrió Shemin 2.0, O sea, los",
+    "duration": 5960,
+    "offset": 253920,
+    "lang": "es"
+  },
+  {
+    "text": "temas que descubrieron los",
+    "duration": 4920,
+    "offset": 258120,
+    "lang": "es"
+  },
+  {
+    "text": "agentes y eso lo busca en la base de",
+    "duration": 4960,
+    "offset": 259880,
+    "lang": "es"
+  },
+  {
+    "text": "datos Kudran, donde está todo el temario",
+    "duration": 6400,
+    "offset": 263040,
+    "lang": "es"
+  },
+  {
+    "text": "de física uno. Y fíjense que acá está",
+    "duration": 7240,
+    "offset": 264840,
+    "lang": "es"
+  },
+  {
+    "text": "energía cinética de rotación, roduras en",
+    "duration": 5319,
+    "offset": 269440,
+    "lang": "es"
+  },
+  {
+    "text": "deslizamiento. Acá vamos a ver, fíjense",
+    "duration": 5520,
+    "offset": 272080,
+    "lang": "es"
+  },
+  {
+    "text": "que el coeficiente de similitud del",
+    "duration": 4841,
+    "offset": 274759,
+    "lang": "es"
+  },
+  {
+    "text": "similaridad de coseno, que es el que yo",
+    "duration": 3920,
+    "offset": 277600,
+    "lang": "es"
+  },
+  {
+    "text": "configuré para que buscaran el vector",
+    "duration": 5520,
+    "offset": 279600,
+    "lang": "es"
+  },
+  {
+    "text": "store, es prácticamente 09, o sea,",
+    "duration": 6200,
+    "offset": 281520,
+    "lang": "es"
+  },
+  {
+    "text": "altísima la coincidencia con la que está",
+    "duration": 5160,
+    "offset": 285120,
+    "lang": "es"
+  },
+  {
+    "text": "buscando los temas y le está lo que está",
+    "duration": 6440,
+    "offset": 287720,
+    "lang": "es"
+  },
+  {
+    "text": "respondiendo son temas de trabajo y",
+    "duration": 6240,
+    "offset": 290280,
+    "lang": "es"
+  },
+  {
+    "text": "energía del cuerpo rígido y trabajo y",
+    "duration": 4080,
+    "offset": 294160,
+    "lang": "es"
+  },
+  {
+    "text": "energía de rotación. con todo este",
+    "duration": 3959,
+    "offset": 296520,
+    "lang": "es"
+  },
+  {
+    "text": "contenido más el PR de usuario Yemini",
+    "duration": 5080,
+    "offset": 298240,
+    "lang": "es"
+  },
+  {
+    "text": "después va a contestar y va a dar una",
+    "duration": 5081,
+    "offset": 300479,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta realmente muy muy asertiva, o",
+    "duration": 4360,
+    "offset": 303320,
+    "lang": "es"
+  },
+  {
+    "text": "sea, va el grupo de chata agentes va a",
+    "duration": 3280,
+    "offset": 305560,
+    "lang": "es"
+  },
+  {
+    "text": "contestar",
+    "duration": 5320,
+    "offset": 307680,
+    "lang": "es"
+  },
+  {
+    "text": "directamente sobre los temas que que",
+    "duration": 6320,
+    "offset": 308840,
+    "lang": "es"
+  },
+  {
+    "text": "realmente se están tratando en esa",
+    "duration": 4960,
+    "offset": 313000,
+    "lang": "es"
+  },
+  {
+    "text": "materia. O sea, construimos un tutor",
+    "duration": 5200,
+    "offset": 315160,
+    "lang": "es"
+  },
+  {
+    "text": "virtual que ayuda a resolver problemas",
+    "duration": 6640,
+    "offset": 317960,
+    "lang": "es"
+  },
+  {
+    "text": "de una forma muy asertiva. M.",
+    "duration": 4240,
+    "offset": 320360,
+    "lang": "es"
+  }
+]

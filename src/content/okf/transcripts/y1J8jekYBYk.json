@@ -1,0 +1,728 @@
+[
+  {
+    "text": "my app",
+    "duration": 5201,
+    "offset": 1439,
+    "lang": "en"
+  },
+  {
+    "text": "is an app to collect them",
+    "duration": 7281,
+    "offset": 3199,
+    "lang": "en"
+  },
+  {
+    "text": "opinion in different courses",
+    "duration": 7520,
+    "offset": 6640,
+    "lang": "en"
+  },
+  {
+    "text": "so we have a survey and in that service",
+    "duration": 4880,
+    "offset": 10480,
+    "lang": "en"
+  },
+  {
+    "text": "we collect the",
+    "duration": 4560,
+    "offset": 14160,
+    "lang": "en"
+  },
+  {
+    "text": "opinion of the students and",
+    "duration": 7280,
+    "offset": 15360,
+    "lang": "en"
+  },
+  {
+    "text": "the thing that we that we do is",
+    "duration": 6719,
+    "offset": 18720,
+    "lang": "en"
+  },
+  {
+    "text": "collect the different students opinions",
+    "duration": 4160,
+    "offset": 22640,
+    "lang": "en"
+  },
+  {
+    "text": "and classified",
+    "duration": 5121,
+    "offset": 25439,
+    "lang": "en"
+  },
+  {
+    "text": "thanks to vdi in positive neutral",
+    "duration": 6800,
+    "offset": 26800,
+    "lang": "en"
+  },
+  {
+    "text": "or negative so let's begin",
+    "duration": 6640,
+    "offset": 30560,
+    "lang": "en"
+  },
+  {
+    "text": "the first thing that you have to do is",
+    "duration": 6080,
+    "offset": 33600,
+    "lang": "en"
+  },
+  {
+    "text": "login into the with er app if you don't",
+    "duration": 3679,
+    "offset": 37200,
+    "lang": "en"
+  },
+  {
+    "text": "have with the app",
+    "duration": 4800,
+    "offset": 39680,
+    "lang": "en"
+  },
+  {
+    "text": "first create a facebook account and then",
+    "duration": 8160,
+    "offset": 40879,
+    "lang": "en"
+  },
+  {
+    "text": "log into the app okay",
+    "duration": 10160,
+    "offset": 44480,
+    "lang": "en"
+  },
+  {
+    "text": "once you in you have to create a new tab",
+    "duration": 5601,
+    "offset": 49039,
+    "lang": "en"
+  },
+  {
+    "text": "here you have to write the app name",
+    "duration": 7360,
+    "offset": 55039,
+    "lang": "en"
+  },
+  {
+    "text": "you have to choose the language in my",
+    "duration": 3520,
+    "offset": 59280,
+    "lang": "en"
+  },
+  {
+    "text": "case",
+    "duration": 4561,
+    "offset": 62399,
+    "lang": "en"
+  },
+  {
+    "text": "in our case the language was spanish",
+    "duration": 7679,
+    "offset": 62800,
+    "lang": "en"
+  },
+  {
+    "text": "and you have to",
+    "duration": 6640,
+    "offset": 66960,
+    "lang": "en"
+  },
+  {
+    "text": "select spanish language",
+    "duration": 7121,
+    "offset": 70479,
+    "lang": "en"
+  },
+  {
+    "text": "and where you see it where you see this",
+    "duration": 8720,
+    "offset": 73600,
+    "lang": "en"
+  },
+  {
+    "text": "violet is here",
+    "duration": 4720,
+    "offset": 77600,
+    "lang": "en"
+  },
+  {
+    "text": "here spanish",
+    "duration": 7601,
+    "offset": 85119,
+    "lang": "en"
+  },
+  {
+    "text": "and open",
+    "duration": 9041,
+    "offset": 88479,
+    "lang": "en"
+  },
+  {
+    "text": "because i want that everybody use it",
+    "duration": 9039,
+    "offset": 92720,
+    "lang": "en"
+  },
+  {
+    "text": "and click in create",
+    "duration": 7279,
+    "offset": 97520,
+    "lang": "en"
+  },
+  {
+    "text": "the app will be created here is my app",
+    "duration": 7281,
+    "offset": 101759,
+    "lang": "en"
+  },
+  {
+    "text": "server once you have created your app",
+    "duration": 6320,
+    "offset": 104799,
+    "lang": "en"
+  },
+  {
+    "text": "you have to train you have to define the",
+    "duration": 3759,
+    "offset": 109040,
+    "lang": "en"
+  },
+  {
+    "text": "different entities",
+    "duration": 5841,
+    "offset": 111119,
+    "lang": "en"
+  },
+  {
+    "text": "and and train the app",
+    "duration": 4161,
+    "offset": 112799,
+    "lang": "en"
+  },
+  {
+    "text": "so you have to enter this entity",
+    "duration": 8239,
+    "offset": 118560,
+    "lang": "en"
+  },
+  {
+    "text": "here i choose the",
+    "duration": 4239,
+    "offset": 122560,
+    "lang": "en"
+  },
+  {
+    "text": "free text and keywords e and free text",
+    "duration": 6480,
+    "offset": 126960,
+    "lang": "en"
+  },
+  {
+    "text": "and keyword i choose",
+    "duration": 3121,
+    "offset": 130319,
+    "lang": "en"
+  },
+  {
+    "text": "positiva negative and neutral",
+    "duration": 6600,
+    "offset": 134200,
+    "lang": "en"
+  },
+  {
+    "text": "when you have the entities you have to",
+    "duration": 4640,
+    "offset": 138800,
+    "lang": "en"
+  },
+  {
+    "text": "go to",
+    "duration": 6000,
+    "offset": 140800,
+    "lang": "en"
+  },
+  {
+    "text": "understanding and begin to",
+    "duration": 7439,
+    "offset": 143440,
+    "lang": "en"
+  },
+  {
+    "text": "train with different students opinions",
+    "duration": 5760,
+    "offset": 146800,
+    "lang": "en"
+  },
+  {
+    "text": "for the first time from the very",
+    "duration": 2720,
+    "offset": 150879,
+    "lang": "en"
+  },
+  {
+    "text": "beginning",
+    "duration": 4800,
+    "offset": 152560,
+    "lang": "en"
+  },
+  {
+    "text": "i'm trying the app using opinions or",
+    "duration": 6961,
+    "offset": 153599,
+    "lang": "en"
+  },
+  {
+    "text": "opinions that i get from internet from",
+    "duration": 4320,
+    "offset": 157360,
+    "lang": "en"
+  },
+  {
+    "text": "other courses",
+    "duration": 3200,
+    "offset": 160560,
+    "lang": "en"
+  },
+  {
+    "text": "etc but it's very important that you",
+    "duration": 3440,
+    "offset": 161680,
+    "lang": "en"
+  },
+  {
+    "text": "train your app",
+    "duration": 5440,
+    "offset": 163760,
+    "lang": "en"
+  },
+  {
+    "text": "in order to get the uptune",
+    "duration": 8160,
+    "offset": 165120,
+    "lang": "en"
+  },
+  {
+    "text": "to the different languages and opinions",
+    "duration": 7200,
+    "offset": 169200,
+    "lang": "en"
+  },
+  {
+    "text": "perhaps let me show",
+    "duration": 3120,
+    "offset": 173280,
+    "lang": "en"
+  },
+  {
+    "text": "in spanish",
+    "duration": 5191,
+    "offset": 176959,
+    "lang": "en"
+  },
+  {
+    "text": "[Music]",
+    "duration": 3270,
+    "offset": 178880,
+    "lang": "en"
+  },
+  {
+    "text": "sentiment we have to choose",
+    "duration": 8720,
+    "offset": 191920,
+    "lang": "en"
+  },
+  {
+    "text": "positive and train and validate",
+    "duration": 6840,
+    "offset": 196840,
+    "lang": "en"
+  },
+  {
+    "text": "so this is the way where you are",
+    "duration": 7120,
+    "offset": 200640,
+    "lang": "en"
+  },
+  {
+    "text": "you this is the way",
+    "duration": 7440,
+    "offset": 203680,
+    "lang": "en"
+  },
+  {
+    "text": "where you train the application okay",
+    "duration": 5839,
+    "offset": 207760,
+    "lang": "en"
+  },
+  {
+    "text": "and then",
+    "duration": 2479,
+    "offset": 211120,
+    "lang": "en"
+  },
+  {
+    "text": "when you finish with the training the",
+    "duration": 4480,
+    "offset": 215280,
+    "lang": "en"
+  },
+  {
+    "text": "other thing i have to do is",
+    "duration": 5280,
+    "offset": 217920,
+    "lang": "en"
+  },
+  {
+    "text": "put to work this application",
+    "duration": 6320,
+    "offset": 219760,
+    "lang": "en"
+  },
+  {
+    "text": "in a program i choose python because",
+    "duration": 4240,
+    "offset": 223200,
+    "lang": "en"
+  },
+  {
+    "text": "it's very easy to",
+    "duration": 4719,
+    "offset": 226080,
+    "lang": "en"
+  },
+  {
+    "text": "code in python okay",
+    "duration": 6400,
+    "offset": 227440,
+    "lang": "en"
+  },
+  {
+    "text": "here i have my code working the first",
+    "duration": 5681,
+    "offset": 230799,
+    "lang": "en"
+  },
+  {
+    "text": "thing that you have to do is",
+    "duration": 6319,
+    "offset": 233840,
+    "lang": "en"
+  },
+  {
+    "text": "install in python the wait package",
+    "duration": 6479,
+    "offset": 236480,
+    "lang": "en"
+  },
+  {
+    "text": "and i install another package that i use",
+    "duration": 3280,
+    "offset": 240159,
+    "lang": "en"
+  },
+  {
+    "text": "to",
+    "duration": 3920,
+    "offset": 242959,
+    "lang": "en"
+  },
+  {
+    "text": "log into google spreadsheet once it is",
+    "duration": 4080,
+    "offset": 243439,
+    "lang": "en"
+  },
+  {
+    "text": "installed",
+    "duration": 4080,
+    "offset": 246879,
+    "lang": "en"
+  },
+  {
+    "text": "you have here import",
+    "duration": 7681,
+    "offset": 247519,
+    "lang": "en"
+  },
+  {
+    "text": "the different packages",
+    "duration": 7840,
+    "offset": 250959,
+    "lang": "en"
+  },
+  {
+    "text": "here we are importing in",
+    "duration": 6879,
+    "offset": 255200,
+    "lang": "en"
+  },
+  {
+    "text": "the with ai package",
+    "duration": 5921,
+    "offset": 258799,
+    "lang": "en"
+  },
+  {
+    "text": "and here you have to introduce your",
+    "duration": 5201,
+    "offset": 262079,
+    "lang": "en"
+  },
+  {
+    "text": "access token the access token",
+    "duration": 5520,
+    "offset": 264720,
+    "lang": "en"
+  },
+  {
+    "text": "is is the aussie token that the with",
+    "duration": 4160,
+    "offset": 267280,
+    "lang": "en"
+  },
+  {
+    "text": "airp",
+    "duration": 5600,
+    "offset": 270240,
+    "lang": "en"
+  },
+  {
+    "text": "api give to you and",
+    "duration": 4400,
+    "offset": 271440,
+    "lang": "en"
+  },
+  {
+    "text": "then i define liente",
+    "duration": 6961,
+    "offset": 276479,
+    "lang": "en"
+  },
+  {
+    "text": "using the with command",
+    "duration": 6000,
+    "offset": 279919,
+    "lang": "en"
+  },
+  {
+    "text": "and invoking the access token of my",
+    "duration": 4720,
+    "offset": 283440,
+    "lang": "en"
+  },
+  {
+    "text": "application",
+    "duration": 6560,
+    "offset": 285919,
+    "lang": "en"
+  },
+  {
+    "text": "after that i used i log into the google",
+    "duration": 5039,
+    "offset": 288160,
+    "lang": "en"
+  },
+  {
+    "text": "spreadsheet",
+    "duration": 4401,
+    "offset": 292479,
+    "lang": "en"
+  },
+  {
+    "text": "and i took the values of the",
+    "duration": 6321,
+    "offset": 293199,
+    "lang": "en"
+  },
+  {
+    "text": "course name and the opinion of the",
+    "duration": 3280,
+    "offset": 296880,
+    "lang": "en"
+  },
+  {
+    "text": "student",
+    "duration": 4000,
+    "offset": 299520,
+    "lang": "en"
+  },
+  {
+    "text": "are given in my course and",
+    "duration": 6400,
+    "offset": 300160,
+    "lang": "en"
+  },
+  {
+    "text": "after that i passed",
+    "duration": 8080,
+    "offset": 303520,
+    "lang": "en"
+  },
+  {
+    "text": "the opinion for the with ai api",
+    "duration": 8560,
+    "offset": 306560,
+    "lang": "en"
+  },
+  {
+    "text": "and i obtain a value of",
+    "duration": 6640,
+    "offset": 311600,
+    "lang": "en"
+  },
+  {
+    "text": "probability and",
+    "duration": 7919,
+    "offset": 315120,
+    "lang": "en"
+  },
+  {
+    "text": "it gives me and it gives me a value",
+    "duration": 8320,
+    "offset": 318240,
+    "lang": "en"
+  },
+  {
+    "text": "of the probability of the opinion being",
+    "duration": 6641,
+    "offset": 323039,
+    "lang": "en"
+  },
+  {
+    "text": "positive negative or neutral",
+    "duration": 6400,
+    "offset": 326560,
+    "lang": "en"
+  },
+  {
+    "text": "and after that i",
+    "duration": 4940,
+    "offset": 329680,
+    "lang": "en"
+  },
+  {
+    "text": "compare them",
+    "duration": 3920,
+    "offset": 332960,
+    "lang": "en"
+  },
+  {
+    "text": "[Music]",
+    "duration": 6019,
+    "offset": 334620,
+    "lang": "en"
+  },
+  {
+    "text": "i compare with an if",
+    "duration": 3759,
+    "offset": 336880,
+    "lang": "en"
+  },
+  {
+    "text": "if they um code",
+    "duration": 4880,
+    "offset": 343440,
+    "lang": "en"
+  },
+  {
+    "text": "here i collect the",
+    "duration": 6400,
+    "offset": 348960,
+    "lang": "en"
+  },
+  {
+    "text": "sentiment that the application gives to",
+    "duration": 3359,
+    "offset": 352400,
+    "lang": "en"
+  },
+  {
+    "text": "me",
+    "duration": 3360,
+    "offset": 355360,
+    "lang": "en"
+  },
+  {
+    "text": "i collect is is if it is positive",
+    "duration": 6401,
+    "offset": 355759,
+    "lang": "en"
+  },
+  {
+    "text": "negative or neutral",
+    "duration": 3440,
+    "offset": 358720,
+    "lang": "en"
+  },
+  {
+    "text": "and using that",
+    "duration": 6081,
+    "offset": 362319,
+    "lang": "en"
+  },
+  {
+    "text": "values i write the course and the",
+    "duration": 4400,
+    "offset": 365440,
+    "lang": "en"
+  },
+  {
+    "text": "opinion",
+    "duration": 3840,
+    "offset": 368400,
+    "lang": "en"
+  },
+  {
+    "text": "example course one opinion positive",
+    "duration": 3120,
+    "offset": 369840,
+    "lang": "en"
+  },
+  {
+    "text": "course one",
+    "duration": 3120,
+    "offset": 372240,
+    "lang": "en"
+  },
+  {
+    "text": "opinion positive one opinion negative",
+    "duration": 3280,
+    "offset": 372960,
+    "lang": "en"
+  },
+  {
+    "text": "and so on",
+    "duration": 4080,
+    "offset": 375360,
+    "lang": "en"
+  },
+  {
+    "text": "i have all the different opinions in a",
+    "duration": 5120,
+    "offset": 376240,
+    "lang": "en"
+  },
+  {
+    "text": "google spreadsheet again",
+    "duration": 5199,
+    "offset": 379440,
+    "lang": "en"
+  },
+  {
+    "text": "and with that i am",
+    "duration": 9600,
+    "offset": 381360,
+    "lang": "en"
+  },
+  {
+    "text": "able to perform the statistics",
+    "duration": 6321,
+    "offset": 384639,
+    "lang": "en"
+  }
+]

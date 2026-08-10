@@ -4,7 +4,7 @@ title: "Relevamos tus necesidades, fijamos objetivos"
 description: "Ponete en contacto con nosotros, tenemos un presupuesto adaptado para cada caso."
 resource: "https://www.youtube.com/watch?v=3UTabO8uSlY"
 tags: ["#marketingdigital #publicidadonlie."]
-generated: { by: "process:sync-youtube", at: "2026-08-02T00:21:58.359Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-10T17:05:52.037Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"
@@ -18,7 +18,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-02"
+    last_modified: "2026-08-10"
   - id: channel-concept
     resource: "src/content/okf/channels/UCx1KkYmHhghhGFgA7VP2aWQ.md"
     title: "Channel: Diego Racero"

@@ -1,0 +1,656 @@
+[
+  {
+    "text": "vamos a resolver un problema de",
+    "duration": 6270,
+    "offset": 2170,
+    "lang": "es"
+  },
+  {
+    "text": "cinemática de la partícula",
+    "duration": 5921,
+    "offset": 5069,
+    "lang": "es"
+  },
+  {
+    "text": "este problema del que les voy a hablar",
+    "duration": 5159,
+    "offset": 8440,
+    "lang": "es"
+  },
+  {
+    "text": "ahora es un problema que tomamos en la",
+    "duration": 5490,
+    "offset": 10990,
+    "lang": "es"
+  },
+  {
+    "text": "época en la que todavía había parciales",
+    "duration": 5160,
+    "offset": 13599,
+    "lang": "es"
+  },
+  {
+    "text": "presenciales así es un problema que",
+    "duration": 4799,
+    "offset": 16480,
+    "lang": "es"
+  },
+  {
+    "text": "tomamos en un parcial tiene un poquito",
+    "duration": 4701,
+    "offset": 18759,
+    "lang": "es"
+  },
+  {
+    "text": "más de nivel que los que normalmente",
+    "duration": 6921,
+    "offset": 21279,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes pueden encontrar en la guía",
+    "duration": 4740,
+    "offset": 23460,
+    "lang": "es"
+  },
+  {
+    "text": "una partícula se mueve en un plano a una",
+    "duration": 6330,
+    "offset": 28940,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad vedete el problema como ven",
+    "duration": 5220,
+    "offset": 32870,
+    "lang": "es"
+  },
+  {
+    "text": "nos dan como dato la velocidad en",
+    "duration": 5610,
+    "offset": 35270,
+    "lang": "es"
+  },
+  {
+    "text": "función del tiempo nos da como dato el",
+    "duration": 5550,
+    "offset": 38090,
+    "lang": "es"
+  },
+  {
+    "text": "vector velocidad en función del tiempo y",
+    "duration": 5730,
+    "offset": 40880,
+    "lang": "es"
+  },
+  {
+    "text": "nos pide hallar los vectores posición y",
+    "duration": 5500,
+    "offset": 43640,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración de la partícula",
+    "duration": 5260,
+    "offset": 46610,
+    "lang": "es"
+  },
+  {
+    "text": "y nos pide hallar el radio de curvatura",
+    "duration": 5870,
+    "offset": 49140,
+    "lang": "es"
+  },
+  {
+    "text": "de la partícula",
+    "duration": 7079,
+    "offset": 51870,
+    "lang": "es"
+  },
+  {
+    "text": "al cabo de dos segundos sabiendo que se",
+    "duration": 7299,
+    "offset": 55010,
+    "lang": "es"
+  },
+  {
+    "text": "partió de una posición r cero igual a",
+    "duration": 6030,
+    "offset": 58949,
+    "lang": "es"
+  },
+  {
+    "text": "cero dos o lo que sería lo mismo cero",
+    "duration": 7131,
+    "offset": 62309,
+    "lang": "es"
+  },
+  {
+    "text": "versos y dos versos j",
+    "duration": 4461,
+    "offset": 64979,
+    "lang": "es"
+  },
+  {
+    "text": "para resolver este problema vamos a",
+    "duration": 6269,
+    "offset": 69450,
+    "lang": "es"
+  },
+  {
+    "text": "tener que recordar por un lado la parte",
+    "duration": 5820,
+    "offset": 72270,
+    "lang": "es"
+  },
+  {
+    "text": "de cinemática un poco de trabajo con",
+    "duration": 5281,
+    "offset": 75719,
+    "lang": "es"
+  },
+  {
+    "text": "vectores y por otro lado cinemática",
+    "duration": 5520,
+    "offset": 78090,
+    "lang": "es"
+  },
+  {
+    "text": "vectorial cuando hablábamos de que era",
+    "duration": 4439,
+    "offset": 81000,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración de que era la velocidad",
+    "duration": 6290,
+    "offset": 83610,
+    "lang": "es"
+  },
+  {
+    "text": "de la posición si ustedes recuerdan",
+    "duration": 9321,
+    "offset": 85439,
+    "lang": "es"
+  },
+  {
+    "text": "la posición es la derivada y perdón la",
+    "duration": 8340,
+    "offset": 89900,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad es la derivada de la posición",
+    "duration": 6780,
+    "offset": 94760,
+    "lang": "es"
+  },
+  {
+    "text": "respecto del tiempo es decir que si",
+    "duration": 5540,
+    "offset": 98240,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros tenemos la velocidad",
+    "duration": 5010,
+    "offset": 101540,
+    "lang": "es"
+  },
+  {
+    "text": "lo que tenemos el vector velocidad",
+    "duration": 5200,
+    "offset": 103780,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos la derivada del vector posición",
+    "duration": 6510,
+    "offset": 106550,
+    "lang": "es"
+  },
+  {
+    "text": "respecto del tiempo como hacemos una vez",
+    "duration": 5760,
+    "offset": 108980,
+    "lang": "es"
+  },
+  {
+    "text": "que tenemos la derivada para poder",
+    "duration": 4200,
+    "offset": 113060,
+    "lang": "es"
+  },
+  {
+    "text": "hallar el valor original o el valor",
+    "duration": 6240,
+    "offset": 114740,
+    "lang": "es"
+  },
+  {
+    "text": "primitivo hay que integrar entonces como",
+    "duration": 6480,
+    "offset": 117260,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros tenemos la velocidad lo que",
+    "duration": 4430,
+    "offset": 120980,
+    "lang": "es"
+  },
+  {
+    "text": "podemos hacer es",
+    "duration": 4770,
+    "offset": 123740,
+    "lang": "es"
+  },
+  {
+    "text": "integrar la velocidad respecto del",
+    "duration": 7690,
+    "offset": 125410,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo y a partir de ese valor vamos a",
+    "duration": 9540,
+    "offset": 128510,
+    "lang": "es"
+  },
+  {
+    "text": "obtener el vector posición ahora bien de",
+    "duration": 7140,
+    "offset": 133100,
+    "lang": "es"
+  },
+  {
+    "text": "qué nos sirve el valor de la posición",
+    "duration": 5130,
+    "offset": 138050,
+    "lang": "es"
+  },
+  {
+    "text": "inicial si recuerdan cuando nosotros",
+    "duration": 4990,
+    "offset": 140240,
+    "lang": "es"
+  },
+  {
+    "text": "integramos",
+    "duration": 4180,
+    "offset": 143180,
+    "lang": "es"
+  },
+  {
+    "text": "la integral iba a ser un valor más una",
+    "duration": 5610,
+    "offset": 145230,
+    "lang": "es"
+  },
+  {
+    "text": "constante justamente esta constante de",
+    "duration": 6150,
+    "offset": 147360,
+    "lang": "es"
+  },
+  {
+    "text": "integración va a ser el valor de la",
+    "duration": 5580,
+    "offset": 150840,
+    "lang": "es"
+  },
+  {
+    "text": "posición inicial como podemos ver en la",
+    "duration": 4890,
+    "offset": 153510,
+    "lang": "es"
+  },
+  {
+    "text": "resolución del problema lo que hacemos",
+    "duration": 4920,
+    "offset": 156420,
+    "lang": "es"
+  },
+  {
+    "text": "es a la solución final a la primitiva",
+    "duration": 6809,
+    "offset": 158400,
+    "lang": "es"
+  },
+  {
+    "text": "que encontramos al integrar la velocidad",
+    "duration": 7679,
+    "offset": 161340,
+    "lang": "es"
+  },
+  {
+    "text": "es sumarle la posición inicial para",
+    "duration": 7261,
+    "offset": 165209,
+    "lang": "es"
+  },
+  {
+    "text": "obtener así el valor del vector posición",
+    "duration": 5561,
+    "offset": 169019,
+    "lang": "es"
+  },
+  {
+    "text": "en función del tiempo",
+    "duration": 4590,
+    "offset": 172470,
+    "lang": "es"
+  },
+  {
+    "text": "nos pide ahora hallar la aceleración",
+    "duration": 6060,
+    "offset": 174580,
+    "lang": "es"
+  },
+  {
+    "text": "entonces qué es la aceleración la",
+    "duration": 6490,
+    "offset": 177060,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración es la derivada del vector",
+    "duration": 4820,
+    "offset": 180640,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad respecto del tiempo",
+    "duration": 6750,
+    "offset": 183550,
+    "lang": "es"
+  },
+  {
+    "text": "así que como tenemos",
+    "duration": 7960,
+    "offset": 185460,
+    "lang": "es"
+  },
+  {
+    "text": "el vector velocidad derivamos al",
+    "duration": 6300,
+    "offset": 190300,
+    "lang": "es"
+  },
+  {
+    "text": "respecto del tiempo y con eso vamos a",
+    "duration": 6690,
+    "offset": 193420,
+    "lang": "es"
+  },
+  {
+    "text": "tener la aceleración",
+    "duration": 6900,
+    "offset": 196600,
+    "lang": "es"
+  },
+  {
+    "text": "ahora el problema también nos pedía",
+    "duration": 6960,
+    "offset": 200110,
+    "lang": "es"
+  },
+  {
+    "text": "hallar el radio de curvatura para t",
+    "duration": 6560,
+    "offset": 203500,
+    "lang": "es"
+  },
+  {
+    "text": "igual 2 segundos",
+    "duration": 2990,
+    "offset": 207070,
+    "lang": "es"
+  },
+  {
+    "text": "bien cómo hacemos para hallar el radio",
+    "duration": 6550,
+    "offset": 211960,
+    "lang": "es"
+  },
+  {
+    "text": "de curvatura",
+    "duration": 6230,
+    "offset": 216190,
+    "lang": "es"
+  },
+  {
+    "text": "recordemos que nosotros podemos expresar",
+    "duration": 7509,
+    "offset": 218510,
+    "lang": "es"
+  },
+  {
+    "text": "a la aceleración en dos componentes un",
+    "duration": 6090,
+    "offset": 222420,
+    "lang": "es"
+  },
+  {
+    "text": "componente tangencial que es el que es",
+    "duration": 4711,
+    "offset": 226019,
+    "lang": "es"
+  },
+  {
+    "text": "co lineal a la velocidad y que es el",
+    "duration": 4319,
+    "offset": 228510,
+    "lang": "es"
+  },
+  {
+    "text": "responsable del cambio de módulo del",
+    "duration": 6000,
+    "offset": 230730,
+    "lang": "es"
+  },
+  {
+    "text": "vector velocidad y un componente normal",
+    "duration": 5910,
+    "offset": 232829,
+    "lang": "es"
+  },
+  {
+    "text": "que es el responsable del cambio de",
+    "duration": 4159,
+    "offset": 236730,
+    "lang": "es"
+  },
+  {
+    "text": "dirección del vector velocidad",
+    "duration": 6321,
+    "offset": 238739,
+    "lang": "es"
+  },
+  {
+    "text": "justamente ese componente normal",
+    "duration": 6281,
+    "offset": 240889,
+    "lang": "es"
+  },
+  {
+    "text": "responsable del cambio de dirección del",
+    "duration": 6090,
+    "offset": 245060,
+    "lang": "es"
+  },
+  {
+    "text": "vector velocidad lo podemos hallar",
+    "duration": 6330,
+    "offset": 247170,
+    "lang": "es"
+  },
+  {
+    "text": "como estamos viendo acá",
+    "duration": 5559,
+    "offset": 251150,
+    "lang": "es"
+  },
+  {
+    "text": "como el producto vectorial de la",
+    "duration": 6170,
+    "offset": 253500,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración y la velocidad",
+    "duration": 6701,
+    "offset": 256709,
+    "lang": "es"
+  },
+  {
+    "text": "/ el módulo de la velocidad",
+    "duration": 7960,
+    "offset": 259670,
+    "lang": "es"
+  },
+  {
+    "text": "si ustedes recuerdan esa aceleración",
+    "duration": 4220,
+    "offset": 263410,
+    "lang": "es"
+  },
+  {
+    "text": "ese valor nos da la aceleración normal",
+    "duration": 5460,
+    "offset": 268420,
+    "lang": "es"
+  },
+  {
+    "text": "porque si recuerdan el producto",
+    "duration": 5280,
+    "offset": 270790,
+    "lang": "es"
+  },
+  {
+    "text": "vectorial el módulo del producto",
+    "duration": 4350,
+    "offset": 273880,
+    "lang": "es"
+  },
+  {
+    "text": "vectorial de dos vectores es igual al",
+    "duration": 5370,
+    "offset": 276070,
+    "lang": "es"
+  },
+  {
+    "text": "módulo de uno por el módulo del otro por",
+    "duration": 4530,
+    "offset": 278230,
+    "lang": "es"
+  },
+  {
+    "text": "él",
+    "duration": 2790,
+    "offset": 281440,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 4710,
+    "offset": 282760,
+    "lang": "es"
+  },
+  {
+    "text": "por el seno del ángulo que se forma",
+    "duration": 6180,
+    "offset": 284230,
+    "lang": "es"
+  },
+  {
+    "text": "entre estos dos vectores y si ustedes se",
+    "duration": 5250,
+    "offset": 287470,
+    "lang": "es"
+  },
+  {
+    "text": "fijan el seno del ángulo que se forma en",
+    "duration": 4590,
+    "offset": 290410,
+    "lang": "es"
+  },
+  {
+    "text": "estos dos vectores no es otra cosa que",
+    "duration": 4920,
+    "offset": 292720,
+    "lang": "es"
+  },
+  {
+    "text": "la proyección en la dirección normal de",
+    "duration": 4400,
+    "offset": 295000,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración",
+    "duration": 5350,
+    "offset": 297640,
+    "lang": "es"
+  },
+  {
+    "text": "bien entonces a partir de ese valor",
+    "duration": 6269,
+    "offset": 299400,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos el valor de la aceleración",
+    "duration": 6310,
+    "offset": 302990,
+    "lang": "es"
+  },
+  {
+    "text": "normal y como tenemos el valor del",
+    "duration": 5941,
+    "offset": 305669,
+    "lang": "es"
+  },
+  {
+    "text": "módulo el valor del módulo de la",
+    "duration": 3950,
+    "offset": 309300,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración normal y la velocidad",
+    "duration": 3690,
+    "offset": 311610,
+    "lang": "es"
+  },
+  {
+    "text": "sabemos también que la aceleración",
+    "duration": 4060,
+    "offset": 313250,
+    "lang": "es"
+  },
+  {
+    "text": "normal es módulo cuadrado de la",
+    "duration": 4800,
+    "offset": 315300,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad sobre el radio de curvatura y",
+    "duration": 5040,
+    "offset": 317310,
+    "lang": "es"
+  },
+  {
+    "text": "de ahí ya podemos despejar el radio de",
+    "duration": 4580,
+    "offset": 320100,
+    "lang": "es"
+  },
+  {
+    "text": "curvatura",
+    "duration": 2330,
+    "offset": 322350,
+    "lang": "es"
+  }
+]

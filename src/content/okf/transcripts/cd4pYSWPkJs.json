@@ -1,0 +1,476 @@
+[
+  {
+    "text": "creamos con crei un sistema multiagente",
+    "duration": 6999,
+    "offset": 680,
+    "lang": "es"
+  },
+  {
+    "text": "formado por dos",
+    "duration": 5920,
+    "offset": 4839,
+    "lang": "es"
+  },
+  {
+    "text": "agentes primero definimos que íbamos a",
+    "duration": 5801,
+    "offset": 7679,
+    "lang": "es"
+  },
+  {
+    "text": "utilizar agentes Crew",
+    "duration": 6881,
+    "offset": 10759,
+    "lang": "es"
+  },
+  {
+    "text": "Ai después definimos una herramienta que",
+    "duration": 7760,
+    "offset": 13480,
+    "lang": "es"
+  },
+  {
+    "text": "va a ser una herramienta de búsqueda que",
+    "duration": 7399,
+    "offset": 17640,
+    "lang": "es"
+  },
+  {
+    "text": "es exa y lo que hicimos también fue",
+    "duration": 8080,
+    "offset": 21240,
+    "lang": "es"
+  },
+  {
+    "text": "definir una Api de groc que puede emular",
+    "duration": 5640,
+    "offset": 25039,
+    "lang": "es"
+  },
+  {
+    "text": "a",
+    "duration": 4919,
+    "offset": 29320,
+    "lang": "es"
+  },
+  {
+    "text": "la forma que tiene Open Ai para no tener",
+    "duration": 7281,
+    "offset": 30679,
+    "lang": "es"
+  },
+  {
+    "text": "que usar Open Ai como llm de agente de",
+    "duration": 7201,
+    "offset": 34239,
+    "lang": "es"
+  },
+  {
+    "text": "Crew Ai y utilizar groc lo que le",
+    "duration": 6160,
+    "offset": 37960,
+    "lang": "es"
+  },
+  {
+    "text": "dijimos a exa que es el tool que va a",
+    "duration": 4520,
+    "offset": 41440,
+    "lang": "es"
+  },
+  {
+    "text": "realizar la búsqueda es que busque",
+    "duration": 5279,
+    "offset": 44120,
+    "lang": "es"
+  },
+  {
+    "text": "explícitamente en el documento de doble",
+    "duration": 5360,
+    "offset": 45960,
+    "lang": "es"
+  },
+  {
+    "text": "diplomatura con Francia de la",
+    "duration": 3480,
+    "offset": 49399,
+    "lang": "es"
+  },
+  {
+    "text": "Universidad de Buenos Aires de la",
+    "duration": 3079,
+    "offset": 51320,
+    "lang": "es"
+  },
+  {
+    "text": "facultad de",
+    "duration": 3761,
+    "offset": 52879,
+    "lang": "es"
+  },
+  {
+    "text": "ingeniería acá es donde creamos la",
+    "duration": 3721,
+    "offset": 54399,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta y le decimos que busque",
+    "duration": 4040,
+    "offset": 56640,
+    "lang": "es"
+  },
+  {
+    "text": "específicamente en ese lugar",
+    "duration": 3880,
+    "offset": 58120,
+    "lang": "es"
+  },
+  {
+    "text": "el nombre de la herramienta Es muy",
+    "duration": 3879,
+    "offset": 60680,
+    "lang": "es"
+  },
+  {
+    "text": "importante porque con eso va a saber el",
+    "duration": 4920,
+    "offset": 62000,
+    "lang": "es"
+  },
+  {
+    "text": "llm que tiene que usar bueno en este",
+    "duration": 4600,
+    "offset": 64559,
+    "lang": "es"
+  },
+  {
+    "text": "caso tenemos una sola acá definimos el",
+    "duration": 6080,
+    "offset": 66920,
+    "lang": "es"
+  },
+  {
+    "text": "modelo de grock que es un Lama de 70",
+    "duration": 7161,
+    "offset": 69159,
+    "lang": "es"
+  },
+  {
+    "text": "billones de parámetros en este lugar",
+    "duration": 7079,
+    "offset": 73000,
+    "lang": "es"
+  },
+  {
+    "text": "definimos los agentes acá tenemos el",
+    "duration": 5320,
+    "offset": 76320,
+    "lang": "es"
+  },
+  {
+    "text": "agente",
+    "duration": 4521,
+    "offset": 80079,
+    "lang": "es"
+  },
+  {
+    "text": "investigador y el agente de doble",
+    "duration": 5680,
+    "offset": 81640,
+    "lang": "es"
+  },
+  {
+    "text": "diploma que va a analizar el doble",
+    "duration": 5920,
+    "offset": 84600,
+    "lang": "es"
+  },
+  {
+    "text": "diploma entonces acá tenemos los",
+    "duration": 6479,
+    "offset": 87320,
+    "lang": "es"
+  },
+  {
+    "text": "dos agentes acá se",
+    "duration": 6360,
+    "offset": 90520,
+    "lang": "es"
+  },
+  {
+    "text": "va le decimos Cuáles son las tareas que",
+    "duration": 4960,
+    "offset": 93799,
+    "lang": "es"
+  },
+  {
+    "text": "es Buscar información y después",
+    "duration": 3800,
+    "offset": 96880,
+    "lang": "es"
+  },
+  {
+    "text": "interpretarla para dar el mejor",
+    "duration": 5121,
+    "offset": 98759,
+    "lang": "es"
+  },
+  {
+    "text": "resultado la pregunta fue de un alumno",
+    "duration": 5399,
+    "offset": 100680,
+    "lang": "es"
+  },
+  {
+    "text": "que quería saber o sea es un alumno que",
+    "duration": 3960,
+    "offset": 103880,
+    "lang": "es"
+  },
+  {
+    "text": "quiere que se investigue todo lo",
+    "duration": 4080,
+    "offset": 106079,
+    "lang": "es"
+  },
+  {
+    "text": "necesario para poder aplicar a la doble",
+    "duration": 5400,
+    "offset": 107840,
+    "lang": "es"
+  },
+  {
+    "text": "diplomatura con Francia y para saber a",
+    "duration": 8121,
+    "offset": 110159,
+    "lang": "es"
+  },
+  {
+    "text": "qué eco les puede aplicar si se presenta",
+    "duration": 7080,
+    "offset": 113240,
+    "lang": "es"
+  },
+  {
+    "text": "esa doble diplomatura si es estudiante",
+    "duration": 4600,
+    "offset": 118280,
+    "lang": "es"
+  },
+  {
+    "text": "de ingeniería naval entonces en cambio",
+    "duration": 5920,
+    "offset": 120320,
+    "lang": "es"
+  },
+  {
+    "text": "de tener que hacer varias consultas y en",
+    "duration": 5560,
+    "offset": 122880,
+    "lang": "es"
+  },
+  {
+    "text": "cambio de estar la persona en medio",
+    "duration": 4439,
+    "offset": 126240,
+    "lang": "es"
+  },
+  {
+    "text": "guiando para ver qué qué se necesita",
+    "duration": 4920,
+    "offset": 128440,
+    "lang": "es"
+  },
+  {
+    "text": "tener que leer varias frequent as",
+    "duration": 5601,
+    "offset": 130679,
+    "lang": "es"
+  },
+  {
+    "text": "question uno le tira simplemente una",
+    "duration": 5320,
+    "offset": 133360,
+    "lang": "es"
+  },
+  {
+    "text": "línea al agente y el agente en forma",
+    "duration": 5239,
+    "offset": 136280,
+    "lang": "es"
+  },
+  {
+    "text": "Autónoma realiza la investigación para",
+    "duration": 5440,
+    "offset": 138680,
+    "lang": "es"
+  },
+  {
+    "text": "darle la respuesta definitiva bueno acá",
+    "duration": 4401,
+    "offset": 141519,
+    "lang": "es"
+  },
+  {
+    "text": "va saliendo y saliendo la respuesta Pero",
+    "duration": 3040,
+    "offset": 144120,
+    "lang": "es"
+  },
+  {
+    "text": "al",
+    "duration": 5080,
+    "offset": 145920,
+    "lang": "es"
+  },
+  {
+    "text": "final lo que se obtiene es esto",
+    "duration": 5920,
+    "offset": 147160,
+    "lang": "es"
+  },
+  {
+    "text": "al final dice bien la doble diplomatura",
+    "duration": 3680,
+    "offset": 151000,
+    "lang": "es"
+  },
+  {
+    "text": "en ingeniería naval ofrece a los",
+    "duration": 3200,
+    "offset": 153080,
+    "lang": "es"
+  },
+  {
+    "text": "estudiantes oportunidades de tener",
+    "duration": 4520,
+    "offset": 154680,
+    "lang": "es"
+  },
+  {
+    "text": "títulos de grado y posgrado dice En qué",
+    "duration": 5160,
+    "offset": 156280,
+    "lang": "es"
+  },
+  {
+    "text": "en qué lugares es que se puede estudiar",
+    "duration": 6119,
+    "offset": 159200,
+    "lang": "es"
+  },
+  {
+    "text": "dice que necesita tener francés una",
+    "duration": 6680,
+    "offset": 161440,
+    "lang": "es"
+  },
+  {
+    "text": "experiencia laboral relevante un",
+    "duration": 6441,
+    "offset": 165319,
+    "lang": "es"
+  },
+  {
+    "text": "excelente rendimiento académico",
+    "duration": 7600,
+    "offset": 168120,
+    "lang": "es"
+  },
+  {
+    "text": "e bien toda la información la investigó",
+    "duration": 5759,
+    "offset": 171760,
+    "lang": "es"
+  },
+  {
+    "text": "sobre esa fuente Aunque podría haber un",
+    "duration": 4480,
+    "offset": 175720,
+    "lang": "es"
+  },
+  {
+    "text": "montón de fuentes O sea la potencia del",
+    "duration": 5241,
+    "offset": 177519,
+    "lang": "es"
+  },
+  {
+    "text": "agente Es que yo le puedo dar un",
+    "duration": 5319,
+    "offset": 180200,
+    "lang": "es"
+  },
+  {
+    "text": "problema y el agente en forma Autónoma",
+    "duration": 4440,
+    "offset": 182760,
+    "lang": "es"
+  },
+  {
+    "text": "toma todas las fuentes y todas las",
+    "duration": 4241,
+    "offset": 185519,
+    "lang": "es"
+  },
+  {
+    "text": "herramientas que son las Tools a partir",
+    "duration": 4720,
+    "offset": 187200,
+    "lang": "es"
+  },
+  {
+    "text": "de las tareas que yo le definí para",
+    "duration": 3920,
+    "offset": 189760,
+    "lang": "es"
+  },
+  {
+    "text": "poder llevar adelante",
+    "duration": 5520,
+    "offset": 191920,
+    "lang": "es"
+  },
+  {
+    "text": "y realizar ese problema sin ningún tipo",
+    "duration": 5639,
+    "offset": 193680,
+    "lang": "es"
+  },
+  {
+    "text": "de inconveniente o sea en cambio de",
+    "duration": 4359,
+    "offset": 197440,
+    "lang": "es"
+  },
+  {
+    "text": "tener que estar la persona en medio el",
+    "duration": 5761,
+    "offset": 199319,
+    "lang": "es"
+  },
+  {
+    "text": "agente ASUME todas las tareas necesarias",
+    "duration": 4961,
+    "offset": 201799,
+    "lang": "es"
+  },
+  {
+    "text": "para poder dar la respuesta correcta",
+    "duration": 3159,
+    "offset": 205080,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando las herramientas que le",
+    "duration": 6000,
+    "offset": 206760,
+    "lang": "es"
+  },
+  {
+    "text": "fueron definidas B",
+    "duration": 4521,
+    "offset": 208239,
+    "lang": "es"
+  }
+]

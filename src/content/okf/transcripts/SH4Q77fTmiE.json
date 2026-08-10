@@ -1,0 +1,980 @@
+[
+  {
+    "text": "Hoy vamos a analizar una transformación",
+    "duration": 4080,
+    "offset": 40,
+    "lang": "es"
+  },
+  {
+    "text": "que es, bueno, es que es radical. Cómo",
+    "duration": 4239,
+    "offset": 1560,
+    "lang": "es"
+  },
+  {
+    "text": "hemos pasado de simplemente consumir",
+    "duration": 4000,
+    "offset": 4120,
+    "lang": "es"
+  },
+  {
+    "text": "contenido a vivir literalmente dentro de",
+    "duration": 4281,
+    "offset": 5799,
+    "lang": "es"
+  },
+  {
+    "text": "una conversación constante, de ser",
+    "duration": 4240,
+    "offset": 8120,
+    "lang": "es"
+  },
+  {
+    "text": "receptores pasivos a ser participantes",
+    "duration": 4599,
+    "offset": 10080,
+    "lang": "es"
+  },
+  {
+    "text": "activos. Este es, en definitiva, el",
+    "duration": 3960,
+    "offset": 12360,
+    "lang": "es"
+  },
+  {
+    "text": "viaje de la información en nuestro",
+    "duration": 4281,
+    "offset": 14679,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo. Fíjate, esta cita de Benedetti",
+    "duration": 4600,
+    "offset": 16320,
+    "lang": "es"
+  },
+  {
+    "text": "lo clava. Captura la perfección la",
+    "duration": 3960,
+    "offset": 18960,
+    "lang": "es"
+  },
+  {
+    "text": "esencia de la revolución digital. Justo",
+    "duration": 3640,
+    "offset": 20920,
+    "lang": "es"
+  },
+  {
+    "text": "cuando pensábamos que ya entendíamos los",
+    "duration": 3480,
+    "offset": 22920,
+    "lang": "es"
+  },
+  {
+    "text": "medios de toda la vida, llega a internet",
+    "duration": 3680,
+    "offset": 24560,
+    "lang": "es"
+  },
+  {
+    "text": "y le da la vuelta a todo. Porque ya no",
+    "duration": 3799,
+    "offset": 26400,
+    "lang": "es"
+  },
+  {
+    "text": "es que cambiaran las respuestas, no es",
+    "duration": 3720,
+    "offset": 28240,
+    "lang": "es"
+  },
+  {
+    "text": "que cambiaron las propias preguntas que",
+    "duration": 4121,
+    "offset": 30199,
+    "lang": "es"
+  },
+  {
+    "text": "nos hacíamos sobre qué es comunicar.",
+    "duration": 3800,
+    "offset": 31960,
+    "lang": "es"
+  },
+  {
+    "text": "Para entender bien la magnitud de este",
+    "duration": 2759,
+    "offset": 34320,
+    "lang": "es"
+  },
+  {
+    "text": "cambio, vamos a empezar por el",
+    "duration": 3520,
+    "offset": 35760,
+    "lang": "es"
+  },
+  {
+    "text": "principio. A ver, ¿cómo era el mundo de",
+    "duration": 3921,
+    "offset": 37079,
+    "lang": "es"
+  },
+  {
+    "text": "los medios antes de que internet se",
+    "duration": 3720,
+    "offset": 39280,
+    "lang": "es"
+  },
+  {
+    "text": "convirtiera en, bueno, en el centro de",
+    "duration": 5039,
+    "offset": 41000,
+    "lang": "es"
+  },
+  {
+    "text": "todo. Antes el contenido era un producto",
+    "duration": 5399,
+    "offset": 43000,
+    "lang": "es"
+  },
+  {
+    "text": "cerrado, un producto terminado, pensemos",
+    "duration": 4040,
+    "offset": 46039,
+    "lang": "es"
+  },
+  {
+    "text": "en el periódico de la mañana o en el",
+    "duration": 4000,
+    "offset": 48399,
+    "lang": "es"
+  },
+  {
+    "text": "telediario de la noche. Unos pocos lo",
+    "duration": 4041,
+    "offset": 50079,
+    "lang": "es"
+  },
+  {
+    "text": "creaban, lo empaquetaban y lo",
+    "duration": 4241,
+    "offset": 52399,
+    "lang": "es"
+  },
+  {
+    "text": "distribuían a una masa de consumidores.",
+    "duration": 4480,
+    "offset": 54120,
+    "lang": "es"
+  },
+  {
+    "text": "Y la audiencia, pues la audiencia",
+    "duration": 4640,
+    "offset": 56640,
+    "lang": "es"
+  },
+  {
+    "text": "simplemente escuchaba. No había más. El",
+    "duration": 5320,
+    "offset": 58600,
+    "lang": "es"
+  },
+  {
+    "text": "contraste es es que es brutal. Pasamos",
+    "duration": 4960,
+    "offset": 61280,
+    "lang": "es"
+  },
+  {
+    "text": "de un modelo vertical de uno a muchos a",
+    "duration": 4280,
+    "offset": 63920,
+    "lang": "es"
+  },
+  {
+    "text": "una red de muchos a muchos, de una",
+    "duration": 3800,
+    "offset": 66240,
+    "lang": "es"
+  },
+  {
+    "text": "audiencia pasiva a usuarios que no solo",
+    "duration": 4279,
+    "offset": 68200,
+    "lang": "es"
+  },
+  {
+    "text": "consumen, sino que crean y comparten. Y",
+    "duration": 4040,
+    "offset": 70040,
+    "lang": "es"
+  },
+  {
+    "text": "lo más importante, y nos quedemos con",
+    "duration": 3280,
+    "offset": 72479,
+    "lang": "es"
+  },
+  {
+    "text": "esto, el contenido dejó de ser un",
+    "duration": 3440,
+    "offset": 74080,
+    "lang": "es"
+  },
+  {
+    "text": "paquete cerrado, una caja, para",
+    "duration": 4081,
+    "offset": 75759,
+    "lang": "es"
+  },
+  {
+    "text": "convertirse en un flujo líquido, algo",
+    "duration": 4800,
+    "offset": 77520,
+    "lang": "es"
+  },
+  {
+    "text": "que se mueve, que cambia, que no para. Y",
+    "duration": 4680,
+    "offset": 79840,
+    "lang": "es"
+  },
+  {
+    "text": "es aquí, justo aquí, donde se produce la",
+    "duration": 4200,
+    "offset": 82320,
+    "lang": "es"
+  },
+  {
+    "text": "gran fractura, el momento en que la web",
+    "duration": 4000,
+    "offset": 84520,
+    "lang": "es"
+  },
+  {
+    "text": "2.0 libera el contenido de sus",
+    "duration": 4120,
+    "offset": 86520,
+    "lang": "es"
+  },
+  {
+    "text": "contenedores es siempre y todo,",
+    "duration": 4959,
+    "offset": 88520,
+    "lang": "es"
+  },
+  {
+    "text": "absolutamente todo, empieza a fluir. El",
+    "duration": 4839,
+    "offset": 90640,
+    "lang": "es"
+  },
+  {
+    "text": "concepto clave para entender esto es la",
+    "duration": 3801,
+    "offset": 93479,
+    "lang": "es"
+  },
+  {
+    "text": "convergencia, como lo llamó Henry",
+    "duration": 4041,
+    "offset": 95479,
+    "lang": "es"
+  },
+  {
+    "text": "Jenkins. A ver, el contenido ya no está",
+    "duration": 4320,
+    "offset": 97280,
+    "lang": "es"
+  },
+  {
+    "text": "atado a un solo medio, que va, ahora",
+    "duration": 4559,
+    "offset": 99520,
+    "lang": "es"
+  },
+  {
+    "text": "fluye entre plataformas, se comparte, se",
+    "duration": 4680,
+    "offset": 101600,
+    "lang": "es"
+  },
+  {
+    "text": "remezcla, se transforma por el camino, o",
+    "duration": 5121,
+    "offset": 104079,
+    "lang": "es"
+  },
+  {
+    "text": "sea, ya no es algo estático, está vivo.",
+    "duration": 5119,
+    "offset": 106280,
+    "lang": "es"
+  },
+  {
+    "text": "Y claro, ¿quién impulsa este flujo?",
+    "duration": 4519,
+    "offset": 109200,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros, de repente cualquiera puede",
+    "duration": 4760,
+    "offset": 111399,
+    "lang": "es"
+  },
+  {
+    "text": "crear. Es la era del famoso contenido",
+    "duration": 4161,
+    "offset": 113719,
+    "lang": "es"
+  },
+  {
+    "text": "generado por el usuario. Solo hay que",
+    "duration": 4600,
+    "offset": 116159,
+    "lang": "es"
+  },
+  {
+    "text": "pensar en TikTok, en YouTube. Es lo que",
+    "duration": 5199,
+    "offset": 117880,
+    "lang": "es"
+  },
+  {
+    "text": "Manuel Castels llamó la autocomunicación",
+    "duration": 4241,
+    "offset": 120759,
+    "lang": "es"
+  },
+  {
+    "text": "de masas, esa capacidad que tenemos",
+    "duration": 3400,
+    "offset": 123079,
+    "lang": "es"
+  },
+  {
+    "text": "ahora de enviar nuestro propio mensaje",
+    "duration": 3360,
+    "offset": 125000,
+    "lang": "es"
+  },
+  {
+    "text": "al mundo. Así que la frontera entre el",
+    "duration": 4081,
+    "offset": 126479,
+    "lang": "es"
+  },
+  {
+    "text": "que produce y el que consume se borra y",
+    "duration": 5040,
+    "offset": 128360,
+    "lang": "es"
+  },
+  {
+    "text": "de ahí nace el prosumidor. Muy bien. Si",
+    "duration": 4800,
+    "offset": 130560,
+    "lang": "es"
+  },
+  {
+    "text": "ahora todo es un flujo caótico",
+    "duration": 4559,
+    "offset": 133400,
+    "lang": "es"
+  },
+  {
+    "text": "participativo, ¿qué le da forma? O sea,",
+    "duration": 4720,
+    "offset": 135360,
+    "lang": "es"
+  },
+  {
+    "text": "¿cómo se organiza todo este universo de",
+    "duration": 4321,
+    "offset": 137959,
+    "lang": "es"
+  },
+  {
+    "text": "información? Pues la respuesta está en",
+    "duration": 4200,
+    "offset": 140080,
+    "lang": "es"
+  },
+  {
+    "text": "el arquitecto invisible de nuestro mundo",
+    "duration": 4120,
+    "offset": 142280,
+    "lang": "es"
+  },
+  {
+    "text": "digital. Hay una idea fundamental que lo",
+    "duration": 4319,
+    "offset": 144280,
+    "lang": "es"
+  },
+  {
+    "text": "explica todo del investigador Carlos",
+    "duration": 5119,
+    "offset": 146400,
+    "lang": "es"
+  },
+  {
+    "text": "Escolari y es esta. Las interfaces no",
+    "duration": 5441,
+    "offset": 148599,
+    "lang": "es"
+  },
+  {
+    "text": "son transparentes, no son una ventana",
+    "duration": 5360,
+    "offset": 151519,
+    "lang": "es"
+  },
+  {
+    "text": "neutral mundo digital, para nada. Al",
+    "duration": 4800,
+    "offset": 154040,
+    "lang": "es"
+  },
+  {
+    "text": "contrario, son una fuerza activa que",
+    "duration": 4440,
+    "offset": 156879,
+    "lang": "es"
+  },
+  {
+    "text": "moldea, que guía y que limita todo lo",
+    "duration": 4520,
+    "offset": 158840,
+    "lang": "es"
+  },
+  {
+    "text": "que hacemos en línea. Este punto es",
+    "duration": 4121,
+    "offset": 161319,
+    "lang": "es"
+  },
+  {
+    "text": "exclucial para entender el resto. Cada",
+    "duration": 4120,
+    "offset": 163360,
+    "lang": "es"
+  },
+  {
+    "text": "vez que usamos una aplicación, una red",
+    "duration": 4200,
+    "offset": 165440,
+    "lang": "es"
+  },
+  {
+    "text": "social, lo que sea, estamos aceptando lo",
+    "duration": 4280,
+    "offset": 167480,
+    "lang": "es"
+  },
+  {
+    "text": "que Scolari llama un contrato de",
+    "duration": 4840,
+    "offset": 169640,
+    "lang": "es"
+  },
+  {
+    "text": "interacción. Es un acuerdo silencioso,",
+    "duration": 4920,
+    "offset": 171760,
+    "lang": "es"
+  },
+  {
+    "text": "implícito. La interfaz nos propone una",
+    "duration": 4560,
+    "offset": 174480,
+    "lang": "es"
+  },
+  {
+    "text": "forma de actuar y nosotros al usarla",
+    "duration": 5320,
+    "offset": 176680,
+    "lang": "es"
+  },
+  {
+    "text": "aceptamos sus reglas. Y son esas reglas",
+    "duration": 4960,
+    "offset": 179040,
+    "lang": "es"
+  },
+  {
+    "text": "las que definen qué podemos hacer y qué",
+    "duration": 4879,
+    "offset": 182000,
+    "lang": "es"
+  },
+  {
+    "text": "no. Y así, casi sin darnos cuenta, hemos",
+    "duration": 4560,
+    "offset": 184000,
+    "lang": "es"
+  },
+  {
+    "text": "aprendido una especie de gramática",
+    "duration": 4601,
+    "offset": 186879,
+    "lang": "es"
+  },
+  {
+    "text": "universal. El clic para seleccionar, el",
+    "duration": 5160,
+    "offset": 188560,
+    "lang": "es"
+  },
+  {
+    "text": "doble clic para abrir, arrastrar, para",
+    "duration": 4600,
+    "offset": 191480,
+    "lang": "es"
+  },
+  {
+    "text": "mover. Son los verbos, por así decirlo,",
+    "duration": 4120,
+    "offset": 193720,
+    "lang": "es"
+  },
+  {
+    "text": "de un lenguaje que regula nuestra",
+    "duration": 4040,
+    "offset": 196080,
+    "lang": "es"
+  },
+  {
+    "text": "relación con el mundo digital. ¿Vale? Y",
+    "duration": 4000,
+    "offset": 197840,
+    "lang": "es"
+  },
+  {
+    "text": "ahora pasemos a ver qué hay detrás del",
+    "duration": 3440,
+    "offset": 200120,
+    "lang": "es"
+  },
+  {
+    "text": "diseño de toda esta gramática, o sea,",
+    "duration": 3560,
+    "offset": 201840,
+    "lang": "es"
+  },
+  {
+    "text": "cuál es el motor económico que realmente",
+    "duration": 4280,
+    "offset": 203560,
+    "lang": "es"
+  },
+  {
+    "text": "impulsa a estas plataformas. Aquí es",
+    "duration": 4199,
+    "offset": 205400,
+    "lang": "es"
+  },
+  {
+    "text": "super importante entender una distinción",
+    "duration": 4479,
+    "offset": 207840,
+    "lang": "es"
+  },
+  {
+    "text": "clave que hace José Bandck. Una cosa es",
+    "duration": 5560,
+    "offset": 209599,
+    "lang": "es"
+  },
+  {
+    "text": "la conexión humana, un valor social real",
+    "duration": 5241,
+    "offset": 212319,
+    "lang": "es"
+  },
+  {
+    "text": "de toda la vida y otra cosa muy distinta",
+    "duration": 4561,
+    "offset": 215159,
+    "lang": "es"
+  },
+  {
+    "text": "es la conectividad que buscan las",
+    "duration": 4599,
+    "offset": 217560,
+    "lang": "es"
+  },
+  {
+    "text": "plataformas. La conectividad es un valor",
+    "duration": 4519,
+    "offset": 219720,
+    "lang": "es"
+  },
+  {
+    "text": "técnico comercial que convierte nuestras",
+    "duration": 4601,
+    "offset": 222159,
+    "lang": "es"
+  },
+  {
+    "text": "interacciones en datos y claro datos que",
+    "duration": 4681,
+    "offset": 224239,
+    "lang": "es"
+  },
+  {
+    "text": "se pueden monetizar. Y el valor de esos",
+    "duration": 4000,
+    "offset": 226760,
+    "lang": "es"
+  },
+  {
+    "text": "datos se rige por lo que se conoce como",
+    "duration": 3840,
+    "offset": 228920,
+    "lang": "es"
+  },
+  {
+    "text": "el principio de popularidad. Es muy",
+    "duration": 4240,
+    "offset": 230760,
+    "lang": "es"
+  },
+  {
+    "text": "simple. Cuantos más me gusta, más amigos",
+    "duration": 3880,
+    "offset": 232760,
+    "lang": "es"
+  },
+  {
+    "text": "o más seguidores, más valor y más",
+    "duration": 4079,
+    "offset": 235000,
+    "lang": "es"
+  },
+  {
+    "text": "visibilidad se consigue. La popularidad,",
+    "duration": 4200,
+    "offset": 236640,
+    "lang": "es"
+  },
+  {
+    "text": "que era algo social, se convierte de",
+    "duration": 3681,
+    "offset": 239079,
+    "lang": "es"
+  },
+  {
+    "text": "repente en una métrica. Una métrica que",
+    "duration": 3800,
+    "offset": 240840,
+    "lang": "es"
+  },
+  {
+    "text": "las plataformas usan para mantenernos",
+    "duration": 4520,
+    "offset": 242760,
+    "lang": "es"
+  },
+  {
+    "text": "ahí enganchados. Es literalmente la",
+    "duration": 4920,
+    "offset": 244640,
+    "lang": "es"
+  },
+  {
+    "text": "moneda de cambio de esta nueva economía.",
+    "duration": 4400,
+    "offset": 247280,
+    "lang": "es"
+  },
+  {
+    "text": "Por lo tanto, el punto al que llegamos",
+    "duration": 4640,
+    "offset": 249560,
+    "lang": "es"
+  },
+  {
+    "text": "es este. Las plataformas no se limitan a",
+    "duration": 4959,
+    "offset": 251680,
+    "lang": "es"
+  },
+  {
+    "text": "facilitar nuestra vida social, la están",
+    "duration": 4920,
+    "offset": 254200,
+    "lang": "es"
+  },
+  {
+    "text": "diseñando de forma activa. Nuestra",
+    "duration": 4361,
+    "offset": 256639,
+    "lang": "es"
+  },
+  {
+    "text": "necesidad de conectar con otros se",
+    "duration": 3680,
+    "offset": 259120,
+    "lang": "es"
+  },
+  {
+    "text": "transforma en un proceso técnico,",
+    "duration": 3759,
+    "offset": 261000,
+    "lang": "es"
+  },
+  {
+    "text": "gestionable y al final del todo",
+    "duration": 4200,
+    "offset": 262800,
+    "lang": "es"
+  },
+  {
+    "text": "rentable. ¿Cómo? Pues a través de la",
+    "duration": 4321,
+    "offset": 264759,
+    "lang": "es"
+  },
+  {
+    "text": "generación de datos. Muy bien, pues",
+    "duration": 3720,
+    "offset": 267000,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a unir todas las piezas del",
+    "duration": 4280,
+    "offset": 269080,
+    "lang": "es"
+  },
+  {
+    "text": "puzzle. ¿Qué significa vivir hoy, ahora",
+    "duration": 4560,
+    "offset": 270720,
+    "lang": "es"
+  },
+  {
+    "text": "mismo, en este ecosistema mediático que",
+    "duration": 4640,
+    "offset": 273360,
+    "lang": "es"
+  },
+  {
+    "text": "acabamos de describir? Pensemos en este",
+    "duration": 5240,
+    "offset": 275280,
+    "lang": "es"
+  },
+  {
+    "text": "dato que viene de un informe de Reuters.",
+    "duration": 4479,
+    "offset": 278000,
+    "lang": "es"
+  },
+  {
+    "text": "54%,",
+    "duration": 3360,
+    "offset": 280520,
+    "lang": "es"
+  },
+  {
+    "text": "más de la mitad de la gente que usa",
+    "duration": 3160,
+    "offset": 282479,
+    "lang": "es"
+  },
+  {
+    "text": "internet, ya se informa a través de las",
+    "duration": 3879,
+    "offset": 283880,
+    "lang": "es"
+  },
+  {
+    "text": "redes sociales. Esto nos da una idea de",
+    "duration": 3441,
+    "offset": 285639,
+    "lang": "es"
+  },
+  {
+    "text": "hasta qué punto nuestra ventana al mundo",
+    "duration": 3561,
+    "offset": 287759,
+    "lang": "es"
+  },
+  {
+    "text": "está construida por estas plataformas y",
+    "duration": 3959,
+    "offset": 289080,
+    "lang": "es"
+  },
+  {
+    "text": "esto nos lleva a lo que se conoce como",
+    "duration": 4240,
+    "offset": 291320,
+    "lang": "es"
+  },
+  {
+    "text": "un consumo de noticias incidental. ¿Qué",
+    "duration": 4160,
+    "offset": 293039,
+    "lang": "es"
+  },
+  {
+    "text": "quiere decir esto? Pues que ya no vamos",
+    "duration": 4000,
+    "offset": 295560,
+    "lang": "es"
+  },
+  {
+    "text": "a buscar la información de forma activa.",
+    "duration": 3921,
+    "offset": 297199,
+    "lang": "es"
+  },
+  {
+    "text": "Sencillamente nos la encontramos en",
+    "duration": 3720,
+    "offset": 299560,
+    "lang": "es"
+  },
+  {
+    "text": "nuestros feits. Hay mezclada con fotos",
+    "duration": 4519,
+    "offset": 301120,
+    "lang": "es"
+  },
+  {
+    "text": "de amigos, con memes, con publicidad. El",
+    "duration": 4199,
+    "offset": 303280,
+    "lang": "es"
+  },
+  {
+    "text": "contexto y la jerarquía de lo que es",
+    "duration": 4881,
+    "offset": 305639,
+    "lang": "es"
+  },
+  {
+    "text": "importante se diluyen por completo. Esta",
+    "duration": 5241,
+    "offset": 307479,
+    "lang": "es"
+  },
+  {
+    "text": "cita, la verdad, resume a la perfección",
+    "duration": 4560,
+    "offset": 310520,
+    "lang": "es"
+  },
+  {
+    "text": "el cambio de poder. El valor ya no está",
+    "duration": 4240,
+    "offset": 312720,
+    "lang": "es"
+  },
+  {
+    "text": "solo en el contenido en sí, sino en lo",
+    "duration": 4080,
+    "offset": 315080,
+    "lang": "es"
+  },
+  {
+    "text": "que la gente hace con ese contenido, en",
+    "duration": 3880,
+    "offset": 316960,
+    "lang": "es"
+  },
+  {
+    "text": "compartirlo, en comentarlo, en",
+    "duration": 3599,
+    "offset": 319160,
+    "lang": "es"
+  },
+  {
+    "text": "remezclarlo, en definitiva, en la",
+    "duration": 3240,
+    "offset": 320840,
+    "lang": "es"
+  },
+  {
+    "text": "conversación que se genera a su",
+    "duration": 3801,
+    "offset": 322759,
+    "lang": "es"
+  },
+  {
+    "text": "alrededor. Y todo esto nos deja con una",
+    "duration": 4360,
+    "offset": 324080,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta final, una pregunta para",
+    "duration": 3800,
+    "offset": 326560,
+    "lang": "es"
+  },
+  {
+    "text": "reflexionar. Si nuestro mundo",
+    "duration": 3560,
+    "offset": 328440,
+    "lang": "es"
+  },
+  {
+    "text": "informativo se ha transformado en una",
+    "duration": 3959,
+    "offset": 330360,
+    "lang": "es"
+  },
+  {
+    "text": "conversación global, ¿quién dicta las",
+    "duration": 4360,
+    "offset": 332000,
+    "lang": "es"
+  },
+  {
+    "text": "reglas de esa conversación? ¿Quién",
+    "duration": 3521,
+    "offset": 334319,
+    "lang": "es"
+  },
+  {
+    "text": "diseña esa gramática de la que",
+    "duration": 4160,
+    "offset": 336360,
+    "lang": "es"
+  },
+  {
+    "text": "hablábamos antes? ¿Y con qué propósito?",
+    "duration": 4079,
+    "offset": 337840,
+    "lang": "es"
+  },
+  {
+    "text": "Es la gran cuestión que conecta la",
+    "duration": 3200,
+    "offset": 340520,
+    "lang": "es"
+  },
+  {
+    "text": "arquitectura de las interfaces, la",
+    "duration": 3801,
+    "offset": 341919,
+    "lang": "es"
+  },
+  {
+    "text": "economía de la conectividad y nuestra",
+    "duration": 6039,
+    "offset": 343720,
+    "lang": "es"
+  },
+  {
+    "text": "experiencia diaria de la información.",
+    "duration": 4039,
+    "offset": 345720,
+    "lang": "es"
+  }
+]

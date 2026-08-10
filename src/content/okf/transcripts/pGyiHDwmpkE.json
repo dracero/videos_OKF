@@ -1,0 +1,488 @@
+[
+  {
+    "text": "vamos a ver el rag en",
+    "duration": 7359,
+    "offset": 1160,
+    "lang": "es"
+  },
+  {
+    "text": "acción Tengo este documento que es un",
+    "duration": 8680,
+    "offset": 4240,
+    "lang": "es"
+  },
+  {
+    "text": "documento que habla acerca de el",
+    "duration": 8081,
+    "offset": 8519,
+    "lang": "es"
+  },
+  {
+    "text": "tratamiento quirúrgico de la enfermedad",
+    "duration": 6439,
+    "offset": 12920,
+    "lang": "es"
+  },
+  {
+    "text": "de cron y tiene toda una serie de",
+    "duration": 3960,
+    "offset": 16600,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes",
+    "duration": 5881,
+    "offset": 19359,
+    "lang": "es"
+  },
+  {
+    "text": "de distintas recepciones",
+    "duration": 7760,
+    "offset": 20560,
+    "lang": "es"
+  },
+  {
+    "text": "quirúrgicas lo que yo voy a hacer es voy",
+    "duration": 7720,
+    "offset": 25240,
+    "lang": "es"
+  },
+  {
+    "text": "a hacer con consultas sobre",
+    "duration": 7919,
+    "offset": 28320,
+    "lang": "es"
+  },
+  {
+    "text": "este voy a hacer consultas sobre este",
+    "duration": 6919,
+    "offset": 32960,
+    "lang": "es"
+  },
+  {
+    "text": "documento y como estoy utilizando gemini",
+    "duration": 5881,
+    "offset": 36239,
+    "lang": "es"
+  },
+  {
+    "text": "también voy a poner imágenes para que me",
+    "duration": 3921,
+    "offset": 39879,
+    "lang": "es"
+  },
+  {
+    "text": "cuente cosas de las",
+    "duration": 4599,
+    "offset": 42120,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes de acuerdo a lo visto con rag",
+    "duration": 5239,
+    "offset": 43800,
+    "lang": "es"
+  },
+  {
+    "text": "lo que va a hacer es va a ir a",
+    "duration": 7041,
+    "offset": 46719,
+    "lang": "es"
+  },
+  {
+    "text": "buscar Dentro de este documento para",
+    "duration": 7241,
+    "offset": 49039,
+    "lang": "es"
+  },
+  {
+    "text": "responder después vamos a explicar los",
+    "duration": 6599,
+    "offset": 53760,
+    "lang": "es"
+  },
+  {
+    "text": "bloques en forma detallada pero",
+    "duration": 7200,
+    "offset": 56280,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá le",
+    "duration": 3121,
+    "offset": 60359,
+    "lang": "es"
+  },
+  {
+    "text": "pregunto Cuáles son las",
+    "duration": 5040,
+    "offset": 66040,
+    "lang": "es"
+  },
+  {
+    "text": "alternativas",
+    "duration": 4220,
+    "offset": 71960,
+    "lang": "es"
+  },
+  {
+    "text": "quirúrgicas para",
+    "duration": 3520,
+    "offset": 74360,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 6579,
+    "offset": 76180,
+    "lang": "es"
+  },
+  {
+    "text": "la medad de chom",
+    "duration": 4879,
+    "offset": 77880,
+    "lang": "es"
+  },
+  {
+    "text": "ahí ahí ya llegó la pregunta está",
+    "duration": 6200,
+    "offset": 90680,
+    "lang": "es"
+  },
+  {
+    "text": "procesándolos",
+    "duration": 2441,
+    "offset": 94439,
+    "lang": "es"
+  },
+  {
+    "text": "que yo les mostré recién que es el que",
+    "duration": 7400,
+    "offset": 96960,
+    "lang": "es"
+  },
+  {
+    "text": "yo ingest y que puse en el en el vector",
+    "duration": 4680,
+    "offset": 99680,
+    "lang": "es"
+  },
+  {
+    "text": "Store y acá nos",
+    "duration": 6279,
+    "offset": 104880,
+    "lang": "es"
+  },
+  {
+    "text": "responde en función de lo",
+    "duration": 8119,
+    "offset": 107600,
+    "lang": "es"
+  },
+  {
+    "text": "que de lo que ve en el documento eh Si",
+    "duration": 8841,
+    "offset": 111159,
+    "lang": "es"
+  },
+  {
+    "text": "yo le pregunto cuáles son",
+    "duration": 6521,
+    "offset": 115719,
+    "lang": "es"
+  },
+  {
+    "text": "los",
+    "duration": 2240,
+    "offset": 120000,
+    "lang": "es"
+  },
+  {
+    "text": "diagnósticos",
+    "duration": 3000,
+    "offset": 124880,
+    "lang": "es"
+  },
+  {
+    "text": "diferenciales y acá dice el texto",
+    "duration": 4840,
+    "offset": 131520,
+    "lang": "es"
+  },
+  {
+    "text": "menciona apendicitis aguda como ven que",
+    "duration": 3841,
+    "offset": 133959,
+    "lang": "es"
+  },
+  {
+    "text": "hace referencia al texto como",
+    "duration": 3480,
+    "offset": 136360,
+    "lang": "es"
+  },
+  {
+    "text": "diagnóstico falando que su confusión con",
+    "duration": 3840,
+    "offset": 137800,
+    "lang": "es"
+  },
+  {
+    "text": "el form cron Debería ser excepcional si",
+    "duration": 3440,
+    "offset": 139840,
+    "lang": "es"
+  },
+  {
+    "text": "se utilizan los recursos diagnósticos",
+    "duration": 3760,
+    "offset": 141640,
+    "lang": "es"
+  },
+  {
+    "text": "adecuados y ahora vamos a ver con",
+    "duration": 3760,
+    "offset": 143280,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes",
+    "duration": 4960,
+    "offset": 145400,
+    "lang": "es"
+  },
+  {
+    "text": "eh voy a capturar",
+    "duration": 6880,
+    "offset": 147040,
+    "lang": "es"
+  },
+  {
+    "text": "dar una imagen a",
+    "duration": 5879,
+    "offset": 150360,
+    "lang": "es"
+  },
+  {
+    "text": "ver",
+    "duration": 6200,
+    "offset": 153920,
+    "lang": "es"
+  },
+  {
+    "text": "eh acá me dice pieza de resección",
+    "duration": 6841,
+    "offset": 156239,
+    "lang": "es"
+  },
+  {
+    "text": "quirúrgica estrechez de ilion",
+    "duration": 6839,
+    "offset": 160120,
+    "lang": "es"
+  },
+  {
+    "text": "terminal que da el signo de kantot bien",
+    "duration": 6040,
+    "offset": 163080,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a ver esto",
+    "duration": 5441,
+    "offset": 166959,
+    "lang": "es"
+  },
+  {
+    "text": "e vamos a poner esta imagen como estamos",
+    "duration": 5520,
+    "offset": 169120,
+    "lang": "es"
+  },
+  {
+    "text": "en un sistema",
+    "duration": 8160,
+    "offset": 172400,
+    "lang": "es"
+  },
+  {
+    "text": "multimodal le vamos a pegar esta imagen",
+    "duration": 5920,
+    "offset": 174640,
+    "lang": "es"
+  },
+  {
+    "text": "ahí la copiamos ahora vamos a nuestro",
+    "duration": 4520,
+    "offset": 183760,
+    "lang": "es"
+  },
+  {
+    "text": "chatbot y vamos a ir a pictures",
+    "duration": 5920,
+    "offset": 188480,
+    "lang": "es"
+  },
+  {
+    "text": "screenshots y vamos a ver el que tomamos",
+    "duration": 5759,
+    "offset": 191840,
+    "lang": "es"
+  },
+  {
+    "text": "recién que es este de acá y le decimos",
+    "duration": 5119,
+    "offset": 194400,
+    "lang": "es"
+  },
+  {
+    "text": "le",
+    "duration": 4601,
+    "offset": 197599,
+    "lang": "es"
+  },
+  {
+    "text": "preguntamos",
+    "duration": 6681,
+    "offset": 199519,
+    "lang": "es"
+  },
+  {
+    "text": "que podés describirme",
+    "duration": 8000,
+    "offset": 202200,
+    "lang": "es"
+  },
+  {
+    "text": "podés describir",
+    "duration": 4000,
+    "offset": 206200,
+    "lang": "es"
+  },
+  {
+    "text": "la imagen en",
+    "duration": 4800,
+    "offset": 212400,
+    "lang": "es"
+  },
+  {
+    "text": "detalle bien y ahí le consultamos que",
+    "duration": 5920,
+    "offset": 218080,
+    "lang": "es"
+  },
+  {
+    "text": "nos describa la imagen en",
+    "duration": 5439,
+    "offset": 221000,
+    "lang": "es"
+  },
+  {
+    "text": "detalle la imagen muestra una pieza de",
+    "duration": 4159,
+    "offset": 224000,
+    "lang": "es"
+  },
+  {
+    "text": "recepción quirúrgica una estrechez de",
+    "duration": 3961,
+    "offset": 226439,
+    "lang": "es"
+  },
+  {
+    "text": "helion terminal con dilatación suest",
+    "duration": 3881,
+    "offset": 228159,
+    "lang": "es"
+  },
+  {
+    "text": "sonica hay engrosamiento de la par",
+    "duration": 4240,
+    "offset": 230400,
+    "lang": "es"
+  },
+  {
+    "text": "intestinal y hay infiltración y",
+    "duration": 5000,
+    "offset": 232040,
+    "lang": "es"
+  },
+  {
+    "text": "lipomatosis del meso también se aprecian",
+    "duration": 3560,
+    "offset": 234640,
+    "lang": "es"
+  },
+  {
+    "text": "alteraciones de la mucosa y",
+    "duration": 3399,
+    "offset": 237040,
+    "lang": "es"
+  },
+  {
+    "text": "engrosamiento transmural llega hasta la",
+    "duration": 4840,
+    "offset": 238200,
+    "lang": "es"
+  },
+  {
+    "text": "válvula la imagen corresponde a una",
+    "duration": 4160,
+    "offset": 240439,
+    "lang": "es"
+  },
+  {
+    "text": "pieza quirúrgica de un paciente con",
+    "duration": 3720,
+    "offset": 243040,
+    "lang": "es"
+  },
+  {
+    "text": "enfermedad de cron como",
+    "duration": 6441,
+    "offset": 244599,
+    "lang": "es"
+  },
+  {
+    "text": "ven no solamente sirve para ver",
+    "duration": 8240,
+    "offset": 246760,
+    "lang": "es"
+  },
+  {
+    "text": "eh las cosas en texto sino que alizar un",
+    "duration": 7199,
+    "offset": 251040,
+    "lang": "es"
+  },
+  {
+    "text": "modelo multimodal como gemini también",
+    "duration": 5479,
+    "offset": 255000,
+    "lang": "es"
+  },
+  {
+    "text": "podemos",
+    "duration": 6321,
+    "offset": 258239,
+    "lang": "es"
+  },
+  {
+    "text": "e hacer preguntas respecto de bancos de",
+    "duration": 6481,
+    "offset": 260479,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes o cosas que aparecen en esos",
+    "duration": 5840,
+    "offset": 264560,
+    "lang": "es"
+  },
+  {
+    "text": "bancos de imágenes",
+    "duration": 3440,
+    "offset": 266960,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,1388 @@
+[
+  {
+    "text": "y lo que nosotros vamos a ver es la",
+    "duration": 6030,
+    "offset": 2150,
+    "lang": "es"
+  },
+  {
+    "text": "implementación de inteligencia",
+    "duration": 6029,
+    "offset": 5990,
+    "lang": "es"
+  },
+  {
+    "text": "artificial utilizando",
+    "duration": 8009,
+    "offset": 8180,
+    "lang": "es"
+  },
+  {
+    "text": "en redes neuronales una red neuronal es",
+    "duration": 6751,
+    "offset": 12019,
+    "lang": "es"
+  },
+  {
+    "text": "un algoritmo matemático un programa de",
+    "duration": 4711,
+    "offset": 16189,
+    "lang": "es"
+  },
+  {
+    "text": "computación que aprende de los datos",
+    "duration": 3750,
+    "offset": 18770,
+    "lang": "es"
+  },
+  {
+    "text": "desde el punto de vista estrictamente",
+    "duration": 5100,
+    "offset": 20900,
+    "lang": "es"
+  },
+  {
+    "text": "matemático es un conjunto de entradas",
+    "duration": 6380,
+    "offset": 22520,
+    "lang": "es"
+  },
+  {
+    "text": "que se llaman features",
+    "duration": 4880,
+    "offset": 26000,
+    "lang": "es"
+  },
+  {
+    "text": "un conjunto de salidas que se llaman",
+    "duration": 4560,
+    "offset": 28900,
+    "lang": "es"
+  },
+  {
+    "text": "lakers en el medio tenemos lo que se",
+    "duration": 5030,
+    "offset": 30880,
+    "lang": "es"
+  },
+  {
+    "text": "denominan las capas ocultas o neuronas",
+    "duration": 5490,
+    "offset": 33460,
+    "lang": "es"
+  },
+  {
+    "text": "esas capas ocultas o neuronas lo que",
+    "duration": 6039,
+    "offset": 35910,
+    "lang": "es"
+  },
+  {
+    "text": "hacen es multiplicar los valores de",
+    "duration": 4950,
+    "offset": 38950,
+    "lang": "es"
+  },
+  {
+    "text": "entrada por valores de pesos",
+    "duration": 4831,
+    "offset": 41949,
+    "lang": "es"
+  },
+  {
+    "text": "wb que están dentro de estas capas",
+    "duration": 4179,
+    "offset": 43900,
+    "lang": "es"
+  },
+  {
+    "text": "ocultas",
+    "duration": 3969,
+    "offset": 46780,
+    "lang": "es"
+  },
+  {
+    "text": "y fíjense que las capas ocultas se",
+    "duration": 4580,
+    "offset": 48079,
+    "lang": "es"
+  },
+  {
+    "text": "interconectan todas contra todas",
+    "duration": 6121,
+    "offset": 50749,
+    "lang": "es"
+  },
+  {
+    "text": "entonces qué es lo que se logra con esto",
+    "duration": 7031,
+    "offset": 52659,
+    "lang": "es"
+  },
+  {
+    "text": "se logra que haya un aprendizaje de los",
+    "duration": 7850,
+    "offset": 56870,
+    "lang": "es"
+  },
+  {
+    "text": "datos por ejemplo vamos a ver un ejemplo",
+    "duration": 8560,
+    "offset": 59690,
+    "lang": "es"
+  },
+  {
+    "text": "a donde lo que vamos a hacer es",
+    "duration": 6870,
+    "offset": 64720,
+    "lang": "es"
+  },
+  {
+    "text": "convertir grados centígrados en grados",
+    "duration": 4930,
+    "offset": 68250,
+    "lang": "es"
+  },
+  {
+    "text": "fahrenheit",
+    "duration": 4110,
+    "offset": 71590,
+    "lang": "es"
+  },
+  {
+    "text": "uno dirá bueno pero grados sentidos en",
+    "duration": 4610,
+    "offset": 73180,
+    "lang": "es"
+  },
+  {
+    "text": "grados fahrenheit es algo realmente",
+    "duration": 6870,
+    "offset": 75700,
+    "lang": "es"
+  },
+  {
+    "text": "sencillo porque no puedo saber cuál es",
+    "duration": 7150,
+    "offset": 77790,
+    "lang": "es"
+  },
+  {
+    "text": "la ley que da grados centígrados sean de",
+    "duration": 4440,
+    "offset": 82570,
+    "lang": "es"
+  },
+  {
+    "text": "fahrenheit y le implementó con cualquier",
+    "duration": 4890,
+    "offset": 84940,
+    "lang": "es"
+  },
+  {
+    "text": "programa de computación como país bien",
+    "duration": 4500,
+    "offset": 87010,
+    "lang": "es"
+  },
+  {
+    "text": "lo que sucede es que nosotros lo vamos a",
+    "duration": 4050,
+    "offset": 89830,
+    "lang": "es"
+  },
+  {
+    "text": "hacer como ejercicio para mostrar cómo",
+    "duration": 4710,
+    "offset": 91510,
+    "lang": "es"
+  },
+  {
+    "text": "es posible que una red neuronal aprenda",
+    "duration": 3690,
+    "offset": 93880,
+    "lang": "es"
+  },
+  {
+    "text": "de los datos",
+    "duration": 3120,
+    "offset": 96220,
+    "lang": "es"
+  },
+  {
+    "text": "a este porque es un problema muy",
+    "duration": 4500,
+    "offset": 97570,
+    "lang": "es"
+  },
+  {
+    "text": "sencillo pero hay problemas mucho más",
+    "duration": 4500,
+    "offset": 99340,
+    "lang": "es"
+  },
+  {
+    "text": "complejos a dónde vamos a ver la",
+    "duration": 4020,
+    "offset": 102070,
+    "lang": "es"
+  },
+  {
+    "text": "importancia de haber utilizado este",
+    "duration": 5360,
+    "offset": 103840,
+    "lang": "es"
+  },
+  {
+    "text": "concepto de redes neuronales",
+    "duration": 3110,
+    "offset": 106090,
+    "lang": "es"
+  },
+  {
+    "text": "entonces lo primero que nosotros vamos a",
+    "duration": 5730,
+    "offset": 109450,
+    "lang": "es"
+  },
+  {
+    "text": "tener es un conjunto de datos x dichos",
+    "duration": 5489,
+    "offset": 111880,
+    "lang": "es"
+  },
+  {
+    "text": "que ese es el conjunto de datos x2",
+    "duration": 4259,
+    "offset": 115180,
+    "lang": "es"
+  },
+  {
+    "text": "features mediciones de valores de grados",
+    "duration": 4621,
+    "offset": 117369,
+    "lang": "es"
+  },
+  {
+    "text": "centígrados en el mismo lugar vamos a",
+    "duration": 4320,
+    "offset": 119439,
+    "lang": "es"
+  },
+  {
+    "text": "medir con un termómetro grados",
+    "duration": 3839,
+    "offset": 121990,
+    "lang": "es"
+  },
+  {
+    "text": "fahrenheit que vamos a tener las",
+    "duration": 5241,
+    "offset": 123759,
+    "lang": "es"
+  },
+  {
+    "text": "mediciones de valores de grados",
+    "duration": 4981,
+    "offset": 125829,
+    "lang": "es"
+  },
+  {
+    "text": "fahrenheit",
+    "duration": 5050,
+    "offset": 129000,
+    "lang": "es"
+  },
+  {
+    "text": "tener es un set de datos que nos dice",
+    "duration": 6179,
+    "offset": 130810,
+    "lang": "es"
+  },
+  {
+    "text": "para cada valor de grados centígrados",
+    "duration": 4680,
+    "offset": 134050,
+    "lang": "es"
+  },
+  {
+    "text": "cuál es el valor correspondiente en",
+    "duration": 4821,
+    "offset": 136989,
+    "lang": "es"
+  },
+  {
+    "text": "grados farc y lo que vamos a hacer es",
+    "duration": 7420,
+    "offset": 138730,
+    "lang": "es"
+  },
+  {
+    "text": "implementar una serie de",
+    "duration": 8509,
+    "offset": 141810,
+    "lang": "es"
+  },
+  {
+    "text": "tipo de red neuronal que nos ayude a",
+    "duration": 6480,
+    "offset": 146150,
+    "lang": "es"
+  },
+  {
+    "text": "tener",
+    "duration": 4801,
+    "offset": 150319,
+    "lang": "es"
+  },
+  {
+    "text": "esos grados",
+    "duration": 4650,
+    "offset": 152630,
+    "lang": "es"
+  },
+  {
+    "text": "fahrenheit con cualquier grado",
+    "duration": 4920,
+    "offset": 155120,
+    "lang": "es"
+  },
+  {
+    "text": "centígrado",
+    "duration": 5909,
+    "offset": 157280,
+    "lang": "es"
+  },
+  {
+    "text": "pero en cambio de utilizar una ley o una",
+    "duration": 5819,
+    "offset": 160040,
+    "lang": "es"
+  },
+  {
+    "text": "fórmula lo que vamos a hacer es que sea",
+    "duration": 4201,
+    "offset": 163189,
+    "lang": "es"
+  },
+  {
+    "text": "una red neuronal lo que nos dé los",
+    "duration": 4291,
+    "offset": 165859,
+    "lang": "es"
+  },
+  {
+    "text": "valores y vamos a ajustar los pesos w de",
+    "duration": 6750,
+    "offset": 167390,
+    "lang": "es"
+  },
+  {
+    "text": "safety neuronal entonces una vez que yo",
+    "duration": 7199,
+    "offset": 170150,
+    "lang": "es"
+  },
+  {
+    "text": "tengo el conjunto de valores features y",
+    "duration": 5280,
+    "offset": 174140,
+    "lang": "es"
+  },
+  {
+    "text": "de light es decir de grados centígrados",
+    "duration": 4441,
+    "offset": 177349,
+    "lang": "es"
+  },
+  {
+    "text": "ilimitados fahrenheit",
+    "duration": 6020,
+    "offset": 179420,
+    "lang": "es"
+  },
+  {
+    "text": "como hago yo para poder",
+    "duration": 5960,
+    "offset": 181790,
+    "lang": "es"
+  },
+  {
+    "text": "hacer que la red neuronal aprenda de sus",
+    "duration": 4740,
+    "offset": 185440,
+    "lang": "es"
+  },
+  {
+    "text": "datos en definitiva qué significa que la",
+    "duration": 5520,
+    "offset": 187750,
+    "lang": "es"
+  },
+  {
+    "text": "red neuronal aprenda de sus datos que",
+    "duration": 5790,
+    "offset": 190180,
+    "lang": "es"
+  },
+  {
+    "text": "las neuronas de las capas ocultas tengan",
+    "duration": 7320,
+    "offset": 193270,
+    "lang": "es"
+  },
+  {
+    "text": "valor de tv de peso que sea tal que la",
+    "duration": 8130,
+    "offset": 195970,
+    "lang": "es"
+  },
+  {
+    "text": "combinación de esos valores haga que",
+    "duration": 5580,
+    "offset": 200590,
+    "lang": "es"
+  },
+  {
+    "text": "pueda obtener con cualquier entrada",
+    "duration": 5340,
+    "offset": 204100,
+    "lang": "es"
+  },
+  {
+    "text": "cualquier salida entonces ahí puedo",
+    "duration": 4710,
+    "offset": 206170,
+    "lang": "es"
+  },
+  {
+    "text": "decir que efectivamente la red neuronal",
+    "duration": 3870,
+    "offset": 209440,
+    "lang": "es"
+  },
+  {
+    "text": "aprendió de los datos una vez que ajuste",
+    "duration": 5040,
+    "offset": 210880,
+    "lang": "es"
+  },
+  {
+    "text": "los pesos porque con cualquier valor de",
+    "duration": 4230,
+    "offset": 213310,
+    "lang": "es"
+  },
+  {
+    "text": "entrada yo puede obtener cuál va a ser",
+    "duration": 3770,
+    "offset": 215920,
+    "lang": "es"
+  },
+  {
+    "text": "la salida",
+    "duration": 5450,
+    "offset": 217540,
+    "lang": "es"
+  },
+  {
+    "text": "para eso lo que se hace es dividir al",
+    "duration": 5820,
+    "offset": 219690,
+    "lang": "es"
+  },
+  {
+    "text": "conjunto de datos y dos en la práctica",
+    "duration": 6930,
+    "offset": 222990,
+    "lang": "es"
+  },
+  {
+    "text": "en un conjunto de entrenamiento y un",
+    "duration": 6430,
+    "offset": 225510,
+    "lang": "es"
+  },
+  {
+    "text": "conjunto de pruebas",
+    "duration": 4000,
+    "offset": 229920,
+    "lang": "es"
+  },
+  {
+    "text": "primero pongo el conjunto de",
+    "duration": 5120,
+    "offset": 231940,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento y con ese conjunto de",
+    "duration": 7730,
+    "offset": 233920,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento lo que busco es",
+    "duration": 4590,
+    "offset": 237060,
+    "lang": "es"
+  },
+  {
+    "text": "obtener pesos dobles para las salidas",
+    "duration": 6179,
+    "offset": 242900,
+    "lang": "es"
+  },
+  {
+    "text": "que son conocidas y después agarró el",
+    "duration": 5371,
+    "offset": 245989,
+    "lang": "es"
+  },
+  {
+    "text": "conjunto de test son valores que yo me",
+    "duration": 5811,
+    "offset": 249079,
+    "lang": "es"
+  },
+  {
+    "text": "di le aplicó la entrada y los pesos",
+    "duration": 6480,
+    "offset": 251360,
+    "lang": "es"
+  },
+  {
+    "text": "calculó las salidas y me fijo si esas",
+    "duration": 7540,
+    "offset": 254890,
+    "lang": "es"
+  },
+  {
+    "text": "salidas calculadas y en el valor similar",
+    "duration": 6419,
+    "offset": 257840,
+    "lang": "es"
+  },
+  {
+    "text": "a las salidas que yo obtuve por la",
+    "duration": 5100,
+    "offset": 262430,
+    "lang": "es"
+  },
+  {
+    "text": "medición en la práctica nuevamente si",
+    "duration": 5970,
+    "offset": 264259,
+    "lang": "es"
+  },
+  {
+    "text": "tienen valor similar o un valor muy",
+    "duration": 5790,
+    "offset": 267530,
+    "lang": "es"
+  },
+  {
+    "text": "parecido valor igual o mejor quiere",
+    "duration": 6361,
+    "offset": 270229,
+    "lang": "es"
+  },
+  {
+    "text": "decir que yo lo que logré es entrenar la",
+    "duration": 5819,
+    "offset": 273320,
+    "lang": "es"
+  },
+  {
+    "text": "red maternal no lo que tendré que hacer",
+    "duration": 6080,
+    "offset": 276590,
+    "lang": "es"
+  },
+  {
+    "text": "es ajustar una serie de parámetros",
+    "duration": 6681,
+    "offset": 279139,
+    "lang": "es"
+  },
+  {
+    "text": "ronald y volverá a ser a ejecutar con",
+    "duration": 5460,
+    "offset": 282670,
+    "lang": "es"
+  },
+  {
+    "text": "esos parámetros ajustados el proceso de",
+    "duration": 4580,
+    "offset": 285820,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento",
+    "duration": 2270,
+    "offset": 288130,
+    "lang": "es"
+  },
+  {
+    "text": "lo que yo ajusto es la cantidad de capas",
+    "duration": 3990,
+    "offset": 290569,
+    "lang": "es"
+  },
+  {
+    "text": "ocultas",
+    "duration": 4260,
+    "offset": 293809,
+    "lang": "es"
+  },
+  {
+    "text": "yo puedo poner más capas ocultas y",
+    "duration": 5610,
+    "offset": 294559,
+    "lang": "es"
+  },
+  {
+    "text": "dentro de estas capas ocultas puedo",
+    "duration": 5640,
+    "offset": 298069,
+    "lang": "es"
+  },
+  {
+    "text": "agregar más neuronas y sólo yo le ajustó",
+    "duration": 7640,
+    "offset": 300169,
+    "lang": "es"
+  },
+  {
+    "text": "otros parámetros como",
+    "duration": 4100,
+    "offset": 303709,
+    "lang": "es"
+  },
+  {
+    "text": "el regularización la función de",
+    "duration": 6260,
+    "offset": 308310,
+    "lang": "es"
+  },
+  {
+    "text": "activación",
+    "duration": 2570,
+    "offset": 312000,
+    "lang": "es"
+  },
+  {
+    "text": "lo que yo no ajustó son los pesos los",
+    "duration": 7170,
+    "offset": 314660,
+    "lang": "es"
+  },
+  {
+    "text": "pesos una vez que yo elegí los",
+    "duration": 5870,
+    "offset": 319400,
+    "lang": "es"
+  },
+  {
+    "text": "parámetros de entrada",
+    "duration": 6380,
+    "offset": 321830,
+    "lang": "es"
+  },
+  {
+    "text": "y textura de red neuronal el algoritmo",
+    "duration": 5580,
+    "offset": 325270,
+    "lang": "es"
+  },
+  {
+    "text": "de redes neuronales es el que se encarga",
+    "duration": 5490,
+    "offset": 328210,
+    "lang": "es"
+  },
+  {
+    "text": "de ajustar los pesos para obtener la",
+    "duration": 5370,
+    "offset": 330850,
+    "lang": "es"
+  },
+  {
+    "text": "salida correcta",
+    "duration": 4989,
+    "offset": 333700,
+    "lang": "es"
+  },
+  {
+    "text": "parezco",
+    "duration": 5769,
+    "offset": 336220,
+    "lang": "es"
+  },
+  {
+    "text": "esto pero la red neuronal es el que se",
+    "duration": 5730,
+    "offset": 338689,
+    "lang": "es"
+  },
+  {
+    "text": "encarga de obtener unos pesos para sacar",
+    "duration": 6081,
+    "offset": 341989,
+    "lang": "es"
+  },
+  {
+    "text": "para obtener la",
+    "duration": 7091,
+    "offset": 344419,
+    "lang": "es"
+  },
+  {
+    "text": "la salida correcta",
+    "duration": 3440,
+    "offset": 348070,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ese modelo que nosotros vimos",
+    "duration": 5520,
+    "offset": 354700,
+    "lang": "es"
+  },
+  {
+    "text": "recién gráficamente vamos a ver cómo se",
+    "duration": 7110,
+    "offset": 357220,
+    "lang": "es"
+  },
+  {
+    "text": "implementa utilizando un una api de",
+    "duration": 6390,
+    "offset": 360220,
+    "lang": "es"
+  },
+  {
+    "text": "google que se llama tensor flow y que",
+    "duration": 4860,
+    "offset": 364330,
+    "lang": "es"
+  },
+  {
+    "text": "eras que eras es una api de google que",
+    "duration": 5370,
+    "offset": 366610,
+    "lang": "es"
+  },
+  {
+    "text": "fue escrita por françois gillet no se",
+    "duration": 7800,
+    "offset": 369190,
+    "lang": "es"
+  },
+  {
+    "text": "preocupen yo sé que el código tal vez no",
+    "duration": 6810,
+    "offset": 371980,
+    "lang": "es"
+  },
+  {
+    "text": "hayan visto nunca código tal vez hayan",
+    "duration": 3570,
+    "offset": 376990,
+    "lang": "es"
+  },
+  {
+    "text": "visto pero no han visto nunca código de",
+    "duration": 4560,
+    "offset": 378790,
+    "lang": "es"
+  },
+  {
+    "text": "redes neuronales no se preocupen porque",
+    "duration": 5310,
+    "offset": 380560,
+    "lang": "es"
+  },
+  {
+    "text": "yo lo que quiero acá es mostrarles los",
+    "duration": 5960,
+    "offset": 383350,
+    "lang": "es"
+  },
+  {
+    "text": "resultados no no pretende esto",
+    "duration": 6090,
+    "offset": 385870,
+    "lang": "es"
+  },
+  {
+    "text": "enseñarles a implementar redes",
+    "duration": 5800,
+    "offset": 389310,
+    "lang": "es"
+  },
+  {
+    "text": "neuronales utilizando python lo que yo",
+    "duration": 6300,
+    "offset": 391960,
+    "lang": "es"
+  },
+  {
+    "text": "quiero es que ustedes tengan claro el",
+    "duration": 5400,
+    "offset": 395110,
+    "lang": "es"
+  },
+  {
+    "text": "concepto de funcionamiento de una red",
+    "duration": 3920,
+    "offset": 398260,
+    "lang": "es"
+  },
+  {
+    "text": "neuronal",
+    "duration": 5379,
+    "offset": 400510,
+    "lang": "es"
+  },
+  {
+    "text": "entonces yo voy a empezar",
+    "duration": 3709,
+    "offset": 402180,
+    "lang": "es"
+  },
+  {
+    "text": "ajustar este modelo que es un modelo que",
+    "duration": 5100,
+    "offset": 406529,
+    "lang": "es"
+  },
+  {
+    "text": "este que después también lo vamos a",
+    "duration": 4390,
+    "offset": 409009,
+    "lang": "es"
+  },
+  {
+    "text": "tener bueno esto traducido para que lo",
+    "duration": 3540,
+    "offset": 411629,
+    "lang": "es"
+  },
+  {
+    "text": "puedan leer un modelo que esto está",
+    "duration": 4140,
+    "offset": 413399,
+    "lang": "es"
+  },
+  {
+    "text": "público lo pone google público para que",
+    "duration": 4560,
+    "offset": 415169,
+    "lang": "es"
+  },
+  {
+    "text": "la gente aprenda redes neuronales y lo",
+    "duration": 4980,
+    "offset": 417539,
+    "lang": "es"
+  },
+  {
+    "text": "aprenda con tap y que tienen ellos que",
+    "duration": 5910,
+    "offset": 419729,
+    "lang": "es"
+  },
+  {
+    "text": "es que era su persona entonces acá lo",
+    "duration": 6510,
+    "offset": 422519,
+    "lang": "es"
+  },
+  {
+    "text": "que voy a hacer es ingresar los valores",
+    "duration": 5210,
+    "offset": 425639,
+    "lang": "es"
+  },
+  {
+    "text": "que yo me di en la práctica",
+    "duration": 5211,
+    "offset": 429029,
+    "lang": "es"
+  },
+  {
+    "text": "celsius son los features fahrenheit son",
+    "duration": 6270,
+    "offset": 430849,
+    "lang": "es"
+  },
+  {
+    "text": "los o los lakers esta es la entrada y",
+    "duration": 4720,
+    "offset": 434240,
+    "lang": "es"
+  },
+  {
+    "text": "esta es la salida",
+    "duration": 5591,
+    "offset": 437119,
+    "lang": "es"
+  },
+  {
+    "text": "es un problema lineal por eso yo había",
+    "duration": 5070,
+    "offset": 438960,
+    "lang": "es"
+  },
+  {
+    "text": "elegido también cuando hice la",
+    "duration": 3359,
+    "offset": 442710,
+    "lang": "es"
+  },
+  {
+    "text": "representación gráfica un conjunto",
+    "duration": 4400,
+    "offset": 444030,
+    "lang": "es"
+  },
+  {
+    "text": "lineal de valores estos son los valores",
+    "duration": 5581,
+    "offset": 446069,
+    "lang": "es"
+  },
+  {
+    "text": "que yo tengo acá está explicado feature",
+    "duration": 6820,
+    "offset": 448430,
+    "lang": "es"
+  },
+  {
+    "text": "leibel bien entonces acá ya va creando",
+    "duration": 9470,
+    "offset": 451650,
+    "lang": "es"
+  },
+  {
+    "text": "el modelo de red neuronal acá",
+    "duration": 5870,
+    "offset": 455250,
+    "lang": "es"
+  },
+  {
+    "text": "crea una es una red neuronal",
+    "duration": 7580,
+    "offset": 461680,
+    "lang": "es"
+  },
+  {
+    "text": "y acá lo que está haciendo es una única",
+    "duration": 5550,
+    "offset": 466830,
+    "lang": "es"
+  },
+  {
+    "text": "capa que tiene y es este neuronas como",
+    "duration": 5709,
+    "offset": 469260,
+    "lang": "es"
+  },
+  {
+    "text": "vimos nosotros bien",
+    "duration": 7109,
+    "offset": 472380,
+    "lang": "es"
+  },
+  {
+    "text": "la única capa que tiene 10 neuronas",
+    "duration": 4520,
+    "offset": 474969,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 3000,
+    "offset": 480080,
+    "lang": "es"
+  },
+  {
+    "text": "acá y creando picando con el modelo",
+    "duration": 7220,
+    "offset": 483569,
+    "lang": "es"
+  },
+  {
+    "text": "acá está sacando el error con el que yo",
+    "duration": 5430,
+    "offset": 492139,
+    "lang": "es"
+  },
+  {
+    "text": "voy a ajustar si el modelo da o no y el",
+    "duration": 4940,
+    "offset": 495349,
+    "lang": "es"
+  },
+  {
+    "text": "optimizador",
+    "duration": 2720,
+    "offset": 497569,
+    "lang": "es"
+  },
+  {
+    "text": "pero no vamos",
+    "duration": 2930,
+    "offset": 504260,
+    "lang": "es"
+  },
+  {
+    "text": "pérez empezar con el entrenamiento",
+    "duration": 4020,
+    "offset": 508820,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense qué",
+    "duration": 4740,
+    "offset": 510860,
+    "lang": "es"
+  },
+  {
+    "text": "a medida que empieza el entrenamiento de",
+    "duration": 6470,
+    "offset": 512840,
+    "lang": "es"
+  },
+  {
+    "text": "la red neuronal tengo un error muy alto",
+    "duration": 8970,
+    "offset": 515600,
+    "lang": "es"
+  },
+  {
+    "text": "y va corrigiendo cada va en la salida se",
+    "duration": 7780,
+    "offset": 519310,
+    "lang": "es"
+  },
+  {
+    "text": "reinserta la entrada vacilando y cada",
+    "duration": 6260,
+    "offset": 524570,
+    "lang": "es"
+  },
+  {
+    "text": "uno de esos centros se llama y pop",
+    "duration": 3740,
+    "offset": 527090,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ahora mi deber es",
+    "duration": 8230,
+    "offset": 531120,
+    "lang": "es"
+  },
+  {
+    "text": "juan parecido está el modelo fíjense yo",
+    "duration": 7860,
+    "offset": 536080,
+    "lang": "es"
+  },
+  {
+    "text": "acá ya entrené a lo que hice fue entrene",
+    "duration": 7770,
+    "offset": 539350,
+    "lang": "es"
+  },
+  {
+    "text": "vi con el modelo fit hago el",
+    "duration": 5520,
+    "offset": 543940,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento de mi red neuronal fíjense",
+    "duration": 6540,
+    "offset": 547120,
+    "lang": "es"
+  },
+  {
+    "text": "500 ipox significa que permanentemente",
+    "duration": 8280,
+    "offset": 549460,
+    "lang": "es"
+  },
+  {
+    "text": "baja va a dar 500 ciclos para ajustar la",
+    "duration": 7860,
+    "offset": 553660,
+    "lang": "es"
+  },
+  {
+    "text": "red neuronal y ya está le sacó vivo voz",
+    "duration": 7040,
+    "offset": 557740,
+    "lang": "es"
+  },
+  {
+    "text": "falso y le pongo true",
+    "duration": 5530,
+    "offset": 561520,
+    "lang": "es"
+  },
+  {
+    "text": "lo que va a hacer es me va a mostrar",
+    "duration": 5820,
+    "offset": 564780,
+    "lang": "es"
+  },
+  {
+    "text": "cómo es que va ajustando cada cada y",
+    "duration": 5320,
+    "offset": 567050,
+    "lang": "es"
+  },
+  {
+    "text": "poco o sea en cada ciclo cómo va",
+    "duration": 5340,
+    "offset": 570600,
+    "lang": "es"
+  },
+  {
+    "text": "ajustando la red neuronal y la la",
+    "duration": 6420,
+    "offset": 572370,
+    "lang": "es"
+  },
+  {
+    "text": "función de de pérdida que va teniendo",
+    "duration": 6050,
+    "offset": 575940,
+    "lang": "es"
+  },
+  {
+    "text": "bien hasta lograr una función de pérdida",
+    "duration": 7830,
+    "offset": 578790,
+    "lang": "es"
+  },
+  {
+    "text": "razonables es menor que el 10%",
+    "duration": 6790,
+    "offset": 581990,
+    "lang": "es"
+  },
+  {
+    "text": "acá me muestra cómo fue evolucionando la",
+    "duration": 4650,
+    "offset": 586620,
+    "lang": "es"
+  },
+  {
+    "text": "función de pérdida y acá dice bueno",
+    "duration": 4590,
+    "offset": 588780,
+    "lang": "es"
+  },
+  {
+    "text": "puede usar el modelo para los valores",
+    "duration": 6490,
+    "offset": 591270,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que nosotros el valor",
+    "duration": 9580,
+    "offset": 593370,
+    "lang": "es"
+  },
+  {
+    "text": "el valor de 100 grados centígrados",
+    "duration": 6940,
+    "offset": 597760,
+    "lang": "es"
+  },
+  {
+    "text": "rápido por ti",
+    "duration": 5380,
+    "offset": 602950,
+    "lang": "es"
+  },
+  {
+    "text": "cuando nosotros vivimos en los valores",
+    "duration": 6660,
+    "offset": 604700,
+    "lang": "es"
+  },
+  {
+    "text": "de entrada fíjese que el valor de 100",
+    "duration": 5490,
+    "offset": 608330,
+    "lang": "es"
+  },
+  {
+    "text": "grados centígrados no lo tenía no lo",
+    "duration": 4920,
+    "offset": 611360,
+    "lang": "es"
+  },
+  {
+    "text": "tenía bien entonces lo que yo les decía",
+    "duration": 5940,
+    "offset": 613820,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que ajustó la red neuronal lo",
+    "duration": 5270,
+    "offset": 616280,
+    "lang": "es"
+  },
+  {
+    "text": "que",
+    "duration": 4750,
+    "offset": 619760,
+    "lang": "es"
+  },
+  {
+    "text": "para ser es le introduce un valor de 100",
+    "duration": 6469,
+    "offset": 621550,
+    "lang": "es"
+  },
+  {
+    "text": "y fíjense dice que la salida vale 200",
+    "duration": 8860,
+    "offset": 624510,
+    "lang": "es"
+  },
+  {
+    "text": "11,27 y la respuesta correcta sería 212",
+    "duration": 8401,
+    "offset": 628019,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ahí nosotros vemos que",
+    "duration": 5610,
+    "offset": 633370,
+    "lang": "es"
+  },
+  {
+    "text": "evidentemente nuestro modelo de red",
+    "duration": 6190,
+    "offset": 636420,
+    "lang": "es"
+  },
+  {
+    "text": "neuronal aprendió de los datos que",
+    "duration": 4950,
+    "offset": 638980,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros ahora le podemos poner",
+    "duration": 4020,
+    "offset": 642610,
+    "lang": "es"
+  },
+  {
+    "text": "cualquier valor de grado centígrado y a",
+    "duration": 5040,
+    "offset": 643930,
+    "lang": "es"
+  },
+  {
+    "text": "partir de ese valor de grado centígrado",
+    "duration": 4709,
+    "offset": 646630,
+    "lang": "es"
+  },
+  {
+    "text": "nos va a dar un valor de grados",
+    "duration": 4660,
+    "offset": 648970,
+    "lang": "es"
+  },
+  {
+    "text": "fahrenheit",
+    "duration": 4211,
+    "offset": 651339,
+    "lang": "es"
+  },
+  {
+    "text": "pero esa es la idea que yo quería que",
+    "duration": 5550,
+    "offset": 653630,
+    "lang": "es"
+  },
+  {
+    "text": "quede claro como pero modelo es capaz de",
+    "duration": 6860,
+    "offset": 655550,
+    "lang": "es"
+  },
+  {
+    "text": "aprender de los datos",
+    "duration": 3230,
+    "offset": 659180,
+    "lang": "es"
+  },
+  {
+    "text": "y pensé que yo acá le puse otro valor 52",
+    "duration": 8640,
+    "offset": 674250,
+    "lang": "es"
+  },
+  {
+    "text": "y cuando lo ejecutó me da 120 y 54 y en",
+    "duration": 8180,
+    "offset": 677280,
+    "lang": "es"
+  },
+  {
+    "text": "realidad si yo acá en cambio de poner",
+    "duration": 7910,
+    "offset": 682890,
+    "lang": "es"
+  },
+  {
+    "text": "100 pongo cuenta y 2",
+    "duration": 5340,
+    "offset": 685460,
+    "lang": "es"
+  },
+  {
+    "text": "esto debería dar un cambio de poner 100",
+    "duration": 7930,
+    "offset": 692690,
+    "lang": "es"
+  },
+  {
+    "text": "pongo 52 esto debería dar 125 puntos",
+    "duration": 8160,
+    "offset": 695810,
+    "lang": "es"
+  },
+  {
+    "text": "bien fíjense que debe de deberá dar 5",
+    "duration": 7350,
+    "offset": 700620,
+    "lang": "es"
+  },
+  {
+    "text": "25.6 esa cuenta y me da cuando yo lo",
+    "duration": 10410,
+    "offset": 703970,
+    "lang": "es"
+  },
+  {
+    "text": "hago utilizando la red neuronal 125",
+    "duration": 6410,
+    "offset": 707970,
+    "lang": "es"
+  }
+]

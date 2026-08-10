@@ -1,0 +1,308 @@
+[
+  {
+    "text": "fluid dynamics",
+    "duration": 5281,
+    "offset": 21039,
+    "lang": "en"
+  },
+  {
+    "text": "deals with motions of gases and liquids",
+    "duration": 5760,
+    "offset": 22800,
+    "lang": "en"
+  },
+  {
+    "text": "and with how these motions are related",
+    "duration": 5520,
+    "offset": 26320,
+    "lang": "en"
+  },
+  {
+    "text": "to forces",
+    "duration": 3280,
+    "offset": 28560,
+    "lang": "en"
+  },
+  {
+    "text": "for this film",
+    "duration": 2800,
+    "offset": 35520,
+    "lang": "en"
+  },
+  {
+    "text": "we have designed experiments in which",
+    "duration": 4281,
+    "offset": 38559,
+    "lang": "en"
+  },
+  {
+    "text": "gravity",
+    "duration": 4480,
+    "offset": 40800,
+    "lang": "en"
+  },
+  {
+    "text": "electromagnetic centrifugal",
+    "duration": 3800,
+    "offset": 42840,
+    "lang": "en"
+  },
+  {
+    "text": "coriolis",
+    "duration": 4640,
+    "offset": 45280,
+    "lang": "en"
+  },
+  {
+    "text": "in fact all body forces",
+    "duration": 5840,
+    "offset": 46640,
+    "lang": "en"
+  },
+  {
+    "text": "as well as viscous forces",
+    "duration": 4799,
+    "offset": 49920,
+    "lang": "en"
+  },
+  {
+    "text": "are relatively unimportant",
+    "duration": 4239,
+    "offset": 52480,
+    "lang": "en"
+  },
+  {
+    "text": "the centrifugal and coriolis forces",
+    "duration": 4160,
+    "offset": 54719,
+    "lang": "en"
+  },
+  {
+    "text": "refer to here are present only in",
+    "duration": 4721,
+    "offset": 56719,
+    "lang": "en"
+  },
+  {
+    "text": "rotating reference frames",
+    "duration": 5121,
+    "offset": 58879,
+    "lang": "en"
+  },
+  {
+    "text": "the main force accounting for the fluid",
+    "duration": 4160,
+    "offset": 61440,
+    "lang": "en"
+  },
+  {
+    "text": "acceleration",
+    "duration": 4000,
+    "offset": 64000,
+    "lang": "en"
+  },
+  {
+    "text": "will be due to normal stresses",
+    "duration": 5199,
+    "offset": 65600,
+    "lang": "en"
+  },
+  {
+    "text": "to pressures",
+    "duration": 2799,
+    "offset": 68000,
+    "lang": "en"
+  },
+  {
+    "text": "all the experiments will be in steady",
+    "duration": 4480,
+    "offset": 71280,
+    "lang": "en"
+  },
+  {
+    "text": "flow",
+    "duration": 2400,
+    "offset": 73360,
+    "lang": "en"
+  },
+  {
+    "text": "our first experiments have to do with",
+    "duration": 4400,
+    "offset": 76640,
+    "lang": "en"
+  },
+  {
+    "text": "changes of pressure and velocity",
+    "duration": 5761,
+    "offset": 78799,
+    "lang": "en"
+  },
+  {
+    "text": "in the streamwise direction",
+    "duration": 3520,
+    "offset": 81040,
+    "lang": "en"
+  },
+  {
+    "text": "our first test section is a contraction",
+    "duration": 5920,
+    "offset": 84720,
+    "lang": "en"
+  },
+  {
+    "text": "of cross-sectional area",
+    "duration": 3440,
+    "offset": 87200,
+    "lang": "en"
+  },
+  {
+    "text": "this is how it fits to the nozzle",
+    "duration": 5520,
+    "offset": 90720,
+    "lang": "en"
+  },
+  {
+    "text": "static pressure manometers",
+    "duration": 4400,
+    "offset": 94079,
+    "lang": "en"
+  },
+  {
+    "text": "are located at the upstream and",
+    "duration": 5680,
+    "offset": 96240,
+    "lang": "en"
+  },
+  {
+    "text": "downstream cross sections",
+    "duration": 3441,
+    "offset": 98479,
+    "lang": "en"
+  },
+  {
+    "text": "now let's look at the experiment",
+    "duration": 5680,
+    "offset": 105040,
+    "lang": "en"
+  },
+  {
+    "text": "here is the diffuser",
+    "duration": 4241,
+    "offset": 108479,
+    "lang": "en"
+  },
+  {
+    "text": "the settling chamber",
+    "duration": 6399,
+    "offset": 110720,
+    "lang": "en"
+  },
+  {
+    "text": "the nozzle and the test section",
+    "duration": 6960,
+    "offset": 112720,
+    "lang": "en"
+  },
+  {
+    "text": "my colleague charles khan is inserting",
+    "duration": 6161,
+    "offset": 117119,
+    "lang": "en"
+  },
+  {
+    "text": "the static pressure manometers",
+    "duration": 3600,
+    "offset": 119680,
+    "lang": "en"
+  },
+  {
+    "text": "and now he has started the flow",
+    "duration": 4360,
+    "offset": 124560,
+    "lang": "en"
+  },
+  {
+    "text": "we see that the pressure falls",
+    "duration": 4319,
+    "offset": 136560,
+    "lang": "en"
+  },
+  {
+    "text": "from the upstream section to the",
+    "duration": 4560,
+    "offset": 139280,
+    "lang": "en"
+  },
+  {
+    "text": "downstream section",
+    "duration": 2961,
+    "offset": 140879,
+    "lang": "en"
+  },
+  {
+    "text": "what about the velocity of the flow",
+    "duration": 3760,
+    "offset": 144080,
+    "lang": "en"
+  },
+  {
+    "text": "since water is nearly incompressible",
+    "duration": 5841,
+    "offset": 148319,
+    "lang": "en"
+  },
+  {
+    "text": "the volume flow entering the contraction",
+    "duration": 5360,
+    "offset": 151360,
+    "lang": "en"
+  },
+  {
+    "text": "must equal the volume flow leaving",
+    "duration": 4320,
+    "offset": 154160,
+    "lang": "en"
+  },
+  {
+    "text": "or else mass would be created or",
+    "duration": 4400,
+    "offset": 156720,
+    "lang": "en"
+  },
+  {
+    "text": "destroyed",
+    "duration": 2640,
+    "offset": 158480,
+    "lang": "en"
+  },
+  {
+    "text": "but the volume flow is equal to the",
+    "duration": 3360,
+    "offset": 161360,
+    "lang": "en"
+  },
+  {
+    "text": "average velocity times the",
+    "duration": 3600,
+    "offset": 163120,
+    "lang": "en"
+  },
+  {
+    "text": "cross-sectional area",
+    "duration": 4000,
+    "offset": 164720,
+    "lang": "en"
+  },
+  {
+    "text": "so the area decrease",
+    "duration": 6360,
+    "offset": 166720,
+    "lang": "en"
+  },
+  {
+    "text": "should produce a velocity increase",
+    "duration": 4360,
+    "offset": 168720,
+    "lang": "en"
+  }
+]

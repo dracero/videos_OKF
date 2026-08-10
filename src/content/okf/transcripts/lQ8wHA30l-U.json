@@ -1,0 +1,914 @@
+[
+  {
+    "text": "Vamos a ver en este video cómo toda la",
+    "duration": 8399,
+    "offset": 1240,
+    "lang": "es"
+  },
+  {
+    "text": "interacción entre el alumno y el sistema",
+    "duration": 6360,
+    "offset": 6000,
+    "lang": "es"
+  },
+  {
+    "text": "puede ser capturada a través de",
+    "duration": 4481,
+    "offset": 9639,
+    "lang": "es"
+  },
+  {
+    "text": "telemetría.",
+    "duration": 4560,
+    "offset": 12360,
+    "lang": "es"
+  },
+  {
+    "text": "Luego toda esa captura realizada por",
+    "duration": 6399,
+    "offset": 14120,
+    "lang": "es"
+  },
+  {
+    "text": "telemetría se puede analizar utilizando",
+    "duration": 6679,
+    "offset": 16920,
+    "lang": "es"
+  },
+  {
+    "text": "un LLM de categoría superior en un",
+    "duration": 6080,
+    "offset": 20519,
+    "lang": "es"
+  },
+  {
+    "text": "harness o en un tipo de ayuda conocido",
+    "duration": 7801,
+    "offset": 23599,
+    "lang": "es"
+  },
+  {
+    "text": "como LLMCH o LLM como juez. Después, con",
+    "duration": 7921,
+    "offset": 26599,
+    "lang": "es"
+  },
+  {
+    "text": "todo ese material analizado, el docente",
+    "duration": 6200,
+    "offset": 31400,
+    "lang": "es"
+  },
+  {
+    "text": "va a poder ajustar la respuesta",
+    "duration": 6199,
+    "offset": 34520,
+    "lang": "es"
+  },
+  {
+    "text": "y generar un archivo que posteriormente",
+    "duration": 5720,
+    "offset": 37600,
+    "lang": "es"
+  },
+  {
+    "text": "va a alimentar a un algoritmo genético y",
+    "duration": 5121,
+    "offset": 40719,
+    "lang": "es"
+  },
+  {
+    "text": "va a permitir reescribir los prompts",
+    "duration": 7559,
+    "offset": 43320,
+    "lang": "es"
+  },
+  {
+    "text": "para clonar su forma de para clonar la",
+    "duration": 9559,
+    "offset": 45840,
+    "lang": "es"
+  },
+  {
+    "text": "manera en la que explica. Vamos a ver,",
+    "duration": 7360,
+    "offset": 50879,
+    "lang": "es"
+  },
+  {
+    "text": "todo comienza con un problema. El alumno",
+    "duration": 5320,
+    "offset": 55399,
+    "lang": "es"
+  },
+  {
+    "text": "lo que va a hacer es va a ingresar un",
+    "duration": 6960,
+    "offset": 58239,
+    "lang": "es"
+  },
+  {
+    "text": "ejercicio y le va a pedir al docente que",
+    "duration": 7201,
+    "offset": 60719,
+    "lang": "es"
+  },
+  {
+    "text": "le le va a pedir al sistema que lo ayude",
+    "duration": 4721,
+    "offset": 65199,
+    "lang": "es"
+  },
+  {
+    "text": "a resolver ese ejercicio. El sistema va",
+    "duration": 5320,
+    "offset": 67920,
+    "lang": "es"
+  },
+  {
+    "text": "a responder en forma socrática hasta que",
+    "duration": 7440,
+    "offset": 69920,
+    "lang": "es"
+  },
+  {
+    "text": "finalmente le va a dar la respuesta.",
+    "duration": 8640,
+    "offset": 73240,
+    "lang": "es"
+  },
+  {
+    "text": "Todo esto que es e toda esta interacción",
+    "duration": 7799,
+    "offset": 77360,
+    "lang": "es"
+  },
+  {
+    "text": "que es tenida entre el alumno y el",
+    "duration": 7760,
+    "offset": 81880,
+    "lang": "es"
+  },
+  {
+    "text": "sistema es capturada por telemetría y",
+    "duration": 8320,
+    "offset": 85159,
+    "lang": "es"
+  },
+  {
+    "text": "posteriormente puede ser analizada con",
+    "duration": 6000,
+    "offset": 89640,
+    "lang": "es"
+  },
+  {
+    "text": "este otro sistema. El sistema de",
+    "duration": 5320,
+    "offset": 93479,
+    "lang": "es"
+  },
+  {
+    "text": "telemetría lo que tiene es la",
+    "duration": 5360,
+    "offset": 95640,
+    "lang": "es"
+  },
+  {
+    "text": "posibilidad de utilizar un application",
+    "duration": 5360,
+    "offset": 98799,
+    "lang": "es"
+  },
+  {
+    "text": "program interface, o sea, de conectarse",
+    "duration": 5960,
+    "offset": 101000,
+    "lang": "es"
+  },
+  {
+    "text": "a través de una API. Y a través de esa",
+    "duration": 6600,
+    "offset": 104159,
+    "lang": "es"
+  },
+  {
+    "text": "API nosotros podemos elegir que nos",
+    "duration": 7479,
+    "offset": 106960,
+    "lang": "es"
+  },
+  {
+    "text": "podemos elegir visualizar un determinado",
+    "duration": 6241,
+    "offset": 110759,
+    "lang": "es"
+  },
+  {
+    "text": "eh agente. En este caso es el sistema",
+    "duration": 6161,
+    "offset": 114439,
+    "lang": "es"
+  },
+  {
+    "text": "multiagente Socrático Test y la cantidad",
+    "duration": 6159,
+    "offset": 117000,
+    "lang": "es"
+  },
+  {
+    "text": "de días. Acá le vamos a poner el último",
+    "duration": 5199,
+    "offset": 120600,
+    "lang": "es"
+  },
+  {
+    "text": "día, pero podemos elegir hasta 14 o más",
+    "duration": 6041,
+    "offset": 123159,
+    "lang": "es"
+  },
+  {
+    "text": "días. Cuando le damos cargar datos, lo",
+    "duration": 6361,
+    "offset": 125799,
+    "lang": "es"
+  },
+  {
+    "text": "que hace el sistema se conecta con la",
+    "duration": 5800,
+    "offset": 129200,
+    "lang": "es"
+  },
+  {
+    "text": "telemetría y trae todo lo que se hizo. Y",
+    "duration": 7480,
+    "offset": 132160,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver la última e interacción.",
+    "duration": 6239,
+    "offset": 135000,
+    "lang": "es"
+  },
+  {
+    "text": "Esta es la última interacción. Esta es",
+    "duration": 4319,
+    "offset": 139640,
+    "lang": "es"
+  },
+  {
+    "text": "la pregunta del alumno. Este es el",
+    "duration": 4801,
+    "offset": 141239,
+    "lang": "es"
+  },
+  {
+    "text": "contexto que se recupera a través del",
+    "duration": 5121,
+    "offset": 143959,
+    "lang": "es"
+  },
+  {
+    "text": "vector store para que nosotros veamos",
+    "duration": 5240,
+    "offset": 146040,
+    "lang": "es"
+  },
+  {
+    "text": "qué tipo de contexto está recuperando,",
+    "duration": 4120,
+    "offset": 149080,
+    "lang": "es"
+  },
+  {
+    "text": "si está bien, si no está bien. Y esta es",
+    "duration": 4000,
+    "offset": 151280,
+    "lang": "es"
+  },
+  {
+    "text": "la respuesta del profesor. Lo podemos",
+    "duration": 3720,
+    "offset": 153200,
+    "lang": "es"
+  },
+  {
+    "text": "analizar",
+    "duration": 6239,
+    "offset": 155280,
+    "lang": "es"
+  },
+  {
+    "text": "con un sistema de llg. Nosotros estamos",
+    "duration": 9599,
+    "offset": 156920,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando Lama 4 y el sistema de llhat",
+    "duration": 10201,
+    "offset": 161519,
+    "lang": "es"
+  },
+  {
+    "text": "que vamos a utilizar para ver esto es em",
+    "duration": 11800,
+    "offset": 166519,
+    "lang": "es"
+  },
+  {
+    "text": "Gemini 2.5 Flash. Así que ahora",
+    "duration": 11159,
+    "offset": 171720,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a analizar todo esto con Gemini",
+    "duration": 6081,
+    "offset": 178319,
+    "lang": "es"
+  },
+  {
+    "text": "2.5",
+    "duration": 3041,
+    "offset": 182879,
+    "lang": "es"
+  },
+  {
+    "text": "Flash",
+    "duration": 4600,
+    "offset": 184400,
+    "lang": "es"
+  },
+  {
+    "text": "y ver qué nos responde. Bien, entonces",
+    "duration": 4959,
+    "offset": 185920,
+    "lang": "es"
+  },
+  {
+    "text": "acá nos da el análisis, nos dice, \"La",
+    "duration": 3599,
+    "offset": 189000,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta del estudiante es clara y",
+    "duration": 4440,
+    "offset": 190879,
+    "lang": "es"
+  },
+  {
+    "text": "concisa planteando un problema. La",
+    "duration": 4681,
+    "offset": 192599,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta del agente comienza bien con",
+    "duration": 4601,
+    "offset": 195319,
+    "lang": "es"
+  },
+  {
+    "text": "una clasificación eh temática adecuada,",
+    "duration": 5400,
+    "offset": 197280,
+    "lang": "es"
+  },
+  {
+    "text": "lo cual es pedagógicamente valioso. Sin",
+    "duration": 4399,
+    "offset": 199920,
+    "lang": "es"
+  },
+  {
+    "text": "embargo, la calidad didáctica y la",
+    "duration": 4119,
+    "offset": 202680,
+    "lang": "es"
+  },
+  {
+    "text": "precisión física de la resolución son",
+    "duration": 4521,
+    "offset": 204319,
+    "lang": "es"
+  },
+  {
+    "text": "deficientes. Las ecuaciones de",
+    "duration": 3360,
+    "offset": 206799,
+    "lang": "es"
+  },
+  {
+    "text": "equilibrio de fuerza, tanto en la",
+    "duration": 2520,
+    "offset": 208840,
+    "lang": "es"
+  },
+  {
+    "text": "dirección del plano como la",
+    "duration": 3160,
+    "offset": 210159,
+    "lang": "es"
+  },
+  {
+    "text": "perpendicular a él, presentan errores de",
+    "duration": 3879,
+    "offset": 211360,
+    "lang": "es"
+  },
+  {
+    "text": "interpretación de los componentes de la",
+    "duration": 4161,
+    "offset": 213319,
+    "lang": "es"
+  },
+  {
+    "text": "tensión horizontal y sus signos. La",
+    "duration": 3681,
+    "offset": 215239,
+    "lang": "es"
+  },
+  {
+    "text": "explicación sobre la fuerza de rosa,",
+    "duration": 4080,
+    "offset": 217480,
+    "lang": "es"
+  },
+  {
+    "text": "bien, es confusa. Entonces, ¿qué es lo",
+    "duration": 5200,
+    "offset": 218920,
+    "lang": "es"
+  },
+  {
+    "text": "que pasa acá? El contexto recuperado es",
+    "duration": 4000,
+    "offset": 221560,
+    "lang": "es"
+  },
+  {
+    "text": "perfecto y acá dice corregir las",
+    "duration": 3560,
+    "offset": 224120,
+    "lang": "es"
+  },
+  {
+    "text": "ecuaciones de equilibrio. Entonces, ¿qué",
+    "duration": 3560,
+    "offset": 225560,
+    "lang": "es"
+  },
+  {
+    "text": "es lo que puede hacer el agente? O sea,",
+    "duration": 4919,
+    "offset": 227680,
+    "lang": "es"
+  },
+  {
+    "text": "después de ver lo que dice el el LMS y",
+    "duration": 5640,
+    "offset": 229120,
+    "lang": "es"
+  },
+  {
+    "text": "de reflexionar sobre eso, el docente",
+    "duration": 5280,
+    "offset": 232599,
+    "lang": "es"
+  },
+  {
+    "text": "puede editar la respuesta. Esta",
+    "duration": 4720,
+    "offset": 234760,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta",
+    "duration": 4841,
+    "offset": 237879,
+    "lang": "es"
+  },
+  {
+    "text": "se puede editar.",
+    "duration": 5440,
+    "offset": 239480,
+    "lang": "es"
+  },
+  {
+    "text": "Acá lo que me dice es que lo que puedo",
+    "duration": 5680,
+    "offset": 242720,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es eh mejorar las ecuaciones.",
+    "duration": 6080,
+    "offset": 244920,
+    "lang": "es"
+  },
+  {
+    "text": "Habría algún problema de signos y demás.",
+    "duration": 5839,
+    "offset": 248400,
+    "lang": "es"
+  },
+  {
+    "text": "Em, yo lo que puedo hacer acá",
+    "duration": 6239,
+    "offset": 251000,
+    "lang": "es"
+  },
+  {
+    "text": "considerando",
+    "duration": 3000,
+    "offset": 254239,
+    "lang": "es"
+  },
+  {
+    "text": "considerando",
+    "duration": 4039,
+    "offset": 258040,
+    "lang": "es"
+  },
+  {
+    "text": "las distintas componentes, o sea, puedo",
+    "duration": 4680,
+    "offset": 259959,
+    "lang": "es"
+  },
+  {
+    "text": "seguir",
+    "duration": 5521,
+    "offset": 262079,
+    "lang": "es"
+  },
+  {
+    "text": "las eh directivas que me dio el LLM",
+    "duration": 6041,
+    "offset": 264639,
+    "lang": "es"
+  },
+  {
+    "text": "chat. Bien. Y una vez que lo hice, lo",
+    "duration": 7039,
+    "offset": 267600,
+    "lang": "es"
+  },
+  {
+    "text": "que puedo hacer es guardarlo. Entonces,",
+    "duration": 7760,
+    "offset": 270680,
+    "lang": "es"
+  },
+  {
+    "text": "ya tengo esto guardado, todo el análisis",
+    "duration": 5400,
+    "offset": 274639,
+    "lang": "es"
+  },
+  {
+    "text": "guardado.",
+    "duration": 3120,
+    "offset": 278440,
+    "lang": "es"
+  },
+  {
+    "text": "Y ahora, ¿qué es lo que puedo hacer?",
+    "duration": 4160,
+    "offset": 280039,
+    "lang": "es"
+  },
+  {
+    "text": "Tengo acá",
+    "duration": 8560,
+    "offset": 281560,
+    "lang": "es"
+  },
+  {
+    "text": "algo que me dice exportar a Jason.",
+    "duration": 5921,
+    "offset": 284199,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces",
+    "duration": 4880,
+    "offset": 295280,
+    "lang": "es"
+  },
+  {
+    "text": "ahí lo que lo que hice fue exportar a",
+    "duration": 8120,
+    "offset": 296919,
+    "lang": "es"
+  },
+  {
+    "text": "este archivo en e en formato Jason.",
+    "duration": 8759,
+    "offset": 300160,
+    "lang": "es"
+  },
+  {
+    "text": "ese archivo en formato Jason queda en",
+    "duration": 5481,
+    "offset": 305039,
+    "lang": "es"
+  },
+  {
+    "text": "descargas",
+    "duration": 3921,
+    "offset": 308919,
+    "lang": "es"
+  },
+  {
+    "text": "y está listo para que yo después lo",
+    "duration": 6000,
+    "offset": 310520,
+    "lang": "es"
+  },
+  {
+    "text": "pueda subir",
+    "duration": 3680,
+    "offset": 312840,
+    "lang": "es"
+  },
+  {
+    "text": "al em",
+    "duration": 3641,
+    "offset": 317039,
+    "lang": "es"
+  },
+  {
+    "text": "al sistema que lo va a analizar.",
+    "duration": 4880,
+    "offset": 321240,
+    "lang": "es"
+  },
+  {
+    "text": "Acá lo que podemos ver es",
+    "duration": 7720,
+    "offset": 326280,
+    "lang": "es"
+  },
+  {
+    "text": "el archivo en ese",
+    "duration": 7880,
+    "offset": 329800,
+    "lang": "es"
+  },
+  {
+    "text": "formato Jason.",
+    "duration": 3680,
+    "offset": 334000,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a mostrarlo.",
+    "duration": 3759,
+    "offset": 338160,
+    "lang": "es"
+  },
+  {
+    "text": "Acá vemos, este es el archivo. En ese",
+    "duration": 5280,
+    "offset": 351440,
+    "lang": "es"
+  },
+  {
+    "text": "formato nosotros lo editamos toda en la",
+    "duration": 6639,
+    "offset": 354400,
+    "lang": "es"
+  },
+  {
+    "text": "parte de texto, pero tenemos este",
+    "duration": 7400,
+    "offset": 356720,
+    "lang": "es"
+  },
+  {
+    "text": "formato particular. Fíjese que acá tengo",
+    "duration": 7201,
+    "offset": 361039,
+    "lang": "es"
+  },
+  {
+    "text": "question context y professor response.",
+    "duration": 6120,
+    "offset": 364120,
+    "lang": "es"
+  },
+  {
+    "text": "Acá está absolutamente toda la",
+    "duration": 4280,
+    "offset": 368240,
+    "lang": "es"
+  },
+  {
+    "text": "interacción que el docente tiene que",
+    "duration": 4480,
+    "offset": 370240,
+    "lang": "es"
+  },
+  {
+    "text": "ver, tiene que corregir, tiene que",
+    "duration": 5399,
+    "offset": 372520,
+    "lang": "es"
+  },
+  {
+    "text": "analizar con el LLM. Posteriormente,",
+    "duration": 6599,
+    "offset": 374720,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que el docente hace todo eso,",
+    "duration": 5961,
+    "offset": 377919,
+    "lang": "es"
+  },
+  {
+    "text": "puede ir a este sistema",
+    "duration": 4320,
+    "offset": 381319,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 3680,
+    "offset": 383880,
+    "lang": "es"
+  },
+  {
+    "text": "acá donde estamos viendo training",
+    "duration": 4241,
+    "offset": 385639,
+    "lang": "es"
+  },
+  {
+    "text": "example, puede cargar todo ese Jason",
+    "duration": 5720,
+    "offset": 387560,
+    "lang": "es"
+  },
+  {
+    "text": "corregido en este training example.",
+    "duration": 6319,
+    "offset": 389880,
+    "lang": "es"
+  },
+  {
+    "text": "Una vez que carga todo eso corregido en",
+    "duration": 5520,
+    "offset": 393280,
+    "lang": "es"
+  },
+  {
+    "text": "este training example, lo que hace es",
+    "duration": 6000,
+    "offset": 396199,
+    "lang": "es"
+  },
+  {
+    "text": "correr el archivo que se llama",
+    "duration": 5600,
+    "offset": 398800,
+    "lang": "es"
+  },
+  {
+    "text": "optimized,",
+    "duration": 5081,
+    "offset": 402199,
+    "lang": "es"
+  },
+  {
+    "text": "este archivo que se llama optimized",
+    "duration": 6720,
+    "offset": 404400,
+    "lang": "es"
+  },
+  {
+    "text": "prompts. Entonces tiene que",
+    "duration": 5919,
+    "offset": 407280,
+    "lang": "es"
+  },
+  {
+    "text": "buscar",
+    "duration": 5000,
+    "offset": 411120,
+    "lang": "es"
+  },
+  {
+    "text": "esto, venir acá",
+    "duration": 7521,
+    "offset": 413199,
+    "lang": "es"
+  },
+  {
+    "text": "y hacer correr ese archivo.",
+    "duration": 4600,
+    "offset": 416120,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá empieza",
+    "duration": 3921,
+    "offset": 425599,
+    "lang": "es"
+  },
+  {
+    "text": "a correr",
+    "duration": 7600,
+    "offset": 429840,
+    "lang": "es"
+  },
+  {
+    "text": "toda la optimización de prompts",
+    "duration": 5440,
+    "offset": 432000,
+    "lang": "es"
+  },
+  {
+    "text": "poco a poco. Esto, bueno, se va a tomar",
+    "duration": 6480,
+    "offset": 440520,
+    "lang": "es"
+  },
+  {
+    "text": "su tiempo, va a correr toda la e",
+    "duration": 7120,
+    "offset": 442919,
+    "lang": "es"
+  },
+  {
+    "text": "toda la optimización de proms y",
+    "duration": 5879,
+    "offset": 447000,
+    "lang": "es"
+  },
+  {
+    "text": "finalmente lo que voy a lograr yo es",
+    "duration": 4681,
+    "offset": 450039,
+    "lang": "es"
+  },
+  {
+    "text": "tener",
+    "duration": 3921,
+    "offset": 452879,
+    "lang": "es"
+  },
+  {
+    "text": "en esta parte donde están todos los",
+    "duration": 5080,
+    "offset": 454720,
+    "lang": "es"
+  },
+  {
+    "text": "promps optimizados reescritos para que",
+    "duration": 6959,
+    "offset": 456800,
+    "lang": "es"
+  },
+  {
+    "text": "la gente cuando vuelva a ejecutarse tome",
+    "duration": 7959,
+    "offset": 459800,
+    "lang": "es"
+  },
+  {
+    "text": "esos prompts reescritos y ahora conteste",
+    "duration": 6801,
+    "offset": 463759,
+    "lang": "es"
+  },
+  {
+    "text": "de la manera correcta clonando la forma",
+    "duration": 5921,
+    "offset": 467759,
+    "lang": "es"
+  },
+  {
+    "text": "en la que el docente contestaría y con",
+    "duration": 5359,
+    "offset": 470560,
+    "lang": "es"
+  },
+  {
+    "text": "una evaluación precisa hecha a través de",
+    "duration": 7280,
+    "offset": 473680,
+    "lang": "es"
+  },
+  {
+    "text": "los sistemas eh de LLM.",
+    "duration": 5041,
+    "offset": 475919,
+    "lang": "es"
+  }
+]

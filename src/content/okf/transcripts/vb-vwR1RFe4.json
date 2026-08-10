@@ -1,0 +1,1196 @@
+[
+  {
+    "text": "Cuando empezamos a preparar este",
+    "duration": 3279,
+    "offset": 120,
+    "lang": "es"
+  },
+  {
+    "text": "análisis, la premisa fue muy clara.",
+    "duration": 3641,
+    "offset": 1319,
+    "lang": "es"
+  },
+  {
+    "text": "Necesito que armes un resumen de vídeo",
+    "duration": 3281,
+    "offset": 3399,
+    "lang": "es"
+  },
+  {
+    "text": "superceto sobre las mejores prácticas",
+    "duration": 2959,
+    "offset": 4960,
+    "lang": "es"
+  },
+  {
+    "text": "para la revisión de código con",
+    "duration": 3280,
+    "offset": 6680,
+    "lang": "es"
+  },
+  {
+    "text": "inteligencia artificial. Y vaya si hace",
+    "duration": 4121,
+    "offset": 7919,
+    "lang": "es"
+  },
+  {
+    "text": "falta. A ver, hoy en día la IA escupe",
+    "duration": 3480,
+    "offset": 9960,
+    "lang": "es"
+  },
+  {
+    "text": "código a una velocidad que parece de",
+    "duration": 3320,
+    "offset": 12040,
+    "lang": "es"
+  },
+  {
+    "text": "ciencia ficción, pero claro, esto nos",
+    "duration": 3720,
+    "offset": 13440,
+    "lang": "es"
+  },
+  {
+    "text": "lleva de cabeza un problema gigante. Los",
+    "duration": 3160,
+    "offset": 15360,
+    "lang": "es"
+  },
+  {
+    "text": "equipos de ingeniería están pidiendo a",
+    "duration": 2879,
+    "offset": 17160,
+    "lang": "es"
+  },
+  {
+    "text": "gritos marcos de trabajo fiables para",
+    "duration": 3480,
+    "offset": 18520,
+    "lang": "es"
+  },
+  {
+    "text": "revisar toda esa avalancha de código. En",
+    "duration": 3601,
+    "offset": 20039,
+    "lang": "es"
+  },
+  {
+    "text": "este repaso vamos a ver una estrategia",
+    "duration": 2880,
+    "offset": 22000,
+    "lang": "es"
+  },
+  {
+    "text": "muy clara para evitar que nuestros",
+    "duration": 3080,
+    "offset": 23640,
+    "lang": "es"
+  },
+  {
+    "text": "repositorios se conviertan literalmente",
+    "duration": 4040,
+    "offset": 24880,
+    "lang": "es"
+  },
+  {
+    "text": "en un caos automatizado. Venga,",
+    "duration": 4399,
+    "offset": 26720,
+    "lang": "es"
+  },
+  {
+    "text": "repasemos rápidamente la agenda. Tenemos",
+    "duration": 4319,
+    "offset": 28920,
+    "lang": "es"
+  },
+  {
+    "text": "seis puntos. Primero, el contexto",
+    "duration": 3921,
+    "offset": 31119,
+    "lang": "es"
+  },
+  {
+    "text": "general. Luego pasaremos a las tres",
+    "duration": 3681,
+    "offset": 33239,
+    "lang": "es"
+  },
+  {
+    "text": "prácticas clave, que son la revisión",
+    "duration": 3600,
+    "offset": 35040,
+    "lang": "es"
+  },
+  {
+    "text": "independiente, la revisión previa al",
+    "duration": 4280,
+    "offset": 36920,
+    "lang": "es"
+  },
+  {
+    "text": "pull request y el contexto detallado.",
+    "duration": 4280,
+    "offset": 38640,
+    "lang": "es"
+  },
+  {
+    "text": "Después veremos cómo aplicar todo esto",
+    "duration": 4280,
+    "offset": 41200,
+    "lang": "es"
+  },
+  {
+    "text": "con Google Antigravity 2.0 y cerraremos",
+    "duration": 5040,
+    "offset": 42920,
+    "lang": "es"
+  },
+  {
+    "text": "hablando del inmenso valor del contexto.",
+    "duration": 4399,
+    "offset": 45480,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos con el primer punto, el contexto",
+    "duration": 3680,
+    "offset": 47960,
+    "lang": "es"
+  },
+  {
+    "text": "general y el gran reto de la revisión",
+    "duration": 3360,
+    "offset": 49879,
+    "lang": "es"
+  },
+  {
+    "text": "con IA. Para entender el problema de",
+    "duration": 3200,
+    "offset": 51640,
+    "lang": "es"
+  },
+  {
+    "text": "fondo, imaginemos por un momento una",
+    "duration": 3640,
+    "offset": 53239,
+    "lang": "es"
+  },
+  {
+    "text": "aplicación de pagos. Necesitamos añadir",
+    "duration": 4039,
+    "offset": 54840,
+    "lang": "es"
+  },
+  {
+    "text": "un nuevo estado llamado en revisión o",
+    "duration": 4401,
+    "offset": 56879,
+    "lang": "es"
+  },
+  {
+    "text": "under bajo review. Un agente de Lía",
+    "duration": 3881,
+    "offset": 58879,
+    "lang": "es"
+  },
+  {
+    "text": "puede generar este código en cuestión de",
+    "duration": 4199,
+    "offset": 61280,
+    "lang": "es"
+  },
+  {
+    "text": "segundos sin despeinarse. Pero ojo, el",
+    "duration": 4679,
+    "offset": 62760,
+    "lang": "es"
+  },
+  {
+    "text": "verdadero dolor de cabeza es asegurar",
+    "duration": 4161,
+    "offset": 65479,
+    "lang": "es"
+  },
+  {
+    "text": "que ese código recién generado no rompa",
+    "duration": 4320,
+    "offset": 67439,
+    "lang": "es"
+  },
+  {
+    "text": "la lógica de negocio o peor aún que no",
+    "duration": 3960,
+    "offset": 69640,
+    "lang": "es"
+  },
+  {
+    "text": "introduzca una vulnerabilidad crítica en",
+    "duration": 4321,
+    "offset": 71759,
+    "lang": "es"
+  },
+  {
+    "text": "un sistema financiero real. Y para que",
+    "duration": 5199,
+    "offset": 73600,
+    "lang": "es"
+  },
+  {
+    "text": "esos problemas no nos acaben sepultando,",
+    "duration": 4840,
+    "offset": 76080,
+    "lang": "es"
+  },
+  {
+    "text": "hay tres reglas de oro, tres prácticas",
+    "duration": 4201,
+    "offset": 78799,
+    "lang": "es"
+  },
+  {
+    "text": "imprescindibles. Hablamos de tener un",
+    "duration": 4320,
+    "offset": 80920,
+    "lang": "es"
+  },
+  {
+    "text": "entorno de revisión independiente, de",
+    "duration": 4119,
+    "offset": 83000,
+    "lang": "es"
+  },
+  {
+    "text": "hacer una revisión y limpieza antes de",
+    "duration": 3960,
+    "offset": 85240,
+    "lang": "es"
+  },
+  {
+    "text": "abrir un pull request y de aportar un",
+    "duration": 4601,
+    "offset": 87119,
+    "lang": "es"
+  },
+  {
+    "text": "contexto superdallado a nivel de tarea.",
+    "duration": 4640,
+    "offset": 89200,
+    "lang": "es"
+  },
+  {
+    "text": "Si se aplican estas tres reglas, pasamos",
+    "duration": 4280,
+    "offset": 91720,
+    "lang": "es"
+  },
+  {
+    "text": "del caos total a un proceso seguro y",
+    "duration": 4800,
+    "offset": 93840,
+    "lang": "es"
+  },
+  {
+    "text": "predecible. Pasamos a la práctica número",
+    "duration": 5479,
+    "offset": 96000,
+    "lang": "es"
+  },
+  {
+    "text": "uno, la revisión independiente. Pensemos",
+    "duration": 5240,
+    "offset": 98640,
+    "lang": "es"
+  },
+  {
+    "text": "en esto un segundo. Dejar que un agente",
+    "duration": 4521,
+    "offset": 101479,
+    "lang": "es"
+  },
+  {
+    "text": "de IA revise el mismísimo código que",
+    "duration": 3879,
+    "offset": 103880,
+    "lang": "es"
+  },
+  {
+    "text": "acaba de escribir es básicamente como",
+    "duration": 3240,
+    "offset": 106000,
+    "lang": "es"
+  },
+  {
+    "text": "dejar que un estudiante se ponga el",
+    "duration": 3521,
+    "offset": 107759,
+    "lang": "es"
+  },
+  {
+    "text": "mismo la nota de su examen final. Es",
+    "duration": 4440,
+    "offset": 109240,
+    "lang": "es"
+  },
+  {
+    "text": "peligroso, ineficaz y super propenso al",
+    "duration": 4320,
+    "offset": 111280,
+    "lang": "es"
+  },
+  {
+    "text": "sesgo de confirmación. La solución es lo",
+    "duration": 3399,
+    "offset": 113680,
+    "lang": "es"
+  },
+  {
+    "text": "que llamamos un entorno de revisión",
+    "duration": 3960,
+    "offset": 115600,
+    "lang": "es"
+  },
+  {
+    "text": "independiente. A ver, modelos como Codex",
+    "duration": 4921,
+    "offset": 117079,
+    "lang": "es"
+  },
+  {
+    "text": "o Cloud brutales generando código, pero",
+    "duration": 4280,
+    "offset": 119560,
+    "lang": "es"
+  },
+  {
+    "text": "para revisar necesitamos algo distinto,",
+    "duration": 3960,
+    "offset": 122000,
+    "lang": "es"
+  },
+  {
+    "text": "un agente adversarial, una herramienta",
+    "duration": 4199,
+    "offset": 123840,
+    "lang": "es"
+  },
+  {
+    "text": "completamente separada, diseñada única y",
+    "duration": 3880,
+    "offset": 125960,
+    "lang": "es"
+  },
+  {
+    "text": "exclusivamente para buscar riesgos,",
+    "duration": 3321,
+    "offset": 128039,
+    "lang": "es"
+  },
+  {
+    "text": "detectar fallos o ver si estamos",
+    "duration": 2920,
+    "offset": 129840,
+    "lang": "es"
+  },
+  {
+    "text": "rompiendo servicios dependientes en",
+    "duration": 3280,
+    "offset": 131360,
+    "lang": "es"
+  },
+  {
+    "text": "cascada. Es la pura separación de",
+    "duration": 4119,
+    "offset": 132760,
+    "lang": "es"
+  },
+  {
+    "text": "poderes llevada al software. Vamos a por",
+    "duration": 4599,
+    "offset": 134640,
+    "lang": "es"
+  },
+  {
+    "text": "la práctica número dos, la revisión",
+    "duration": 5561,
+    "offset": 136879,
+    "lang": "es"
+  },
+  {
+    "text": "previa al pool request. Seamos sinceros,",
+    "duration": 4961,
+    "offset": 139239,
+    "lang": "es"
+  },
+  {
+    "text": "el tiempo de los desarrolladores es un",
+    "duration": 4120,
+    "offset": 142440,
+    "lang": "es"
+  },
+  {
+    "text": "recurso carísimo y escaso, y desde",
+    "duration": 3960,
+    "offset": 144200,
+    "lang": "es"
+  },
+  {
+    "text": "luego, no estamos para desperdiciarlo",
+    "duration": 3319,
+    "offset": 146560,
+    "lang": "es"
+  },
+  {
+    "text": "actuando como correctores ortográficos",
+    "duration": 3520,
+    "offset": 148160,
+    "lang": "es"
+  },
+  {
+    "text": "de lujo para errores de sintaxis o",
+    "duration": 3401,
+    "offset": 149879,
+    "lang": "es"
+  },
+  {
+    "text": "debatiendo interminablemente sobre",
+    "duration": 3880,
+    "offset": 151680,
+    "lang": "es"
+  },
+  {
+    "text": "espacios y tabulaciones. Un pull request",
+    "duration": 4160,
+    "offset": 153280,
+    "lang": "es"
+  },
+  {
+    "text": "adicional, sin revisión previa suele",
+    "duration": 4000,
+    "offset": 155560,
+    "lang": "es"
+  },
+  {
+    "text": "llegar lleno de ruido, desde conflictos",
+    "duration": 4079,
+    "offset": 157440,
+    "lang": "es"
+  },
+  {
+    "text": "menores entre repositorios hasta BS",
+    "duration": 3959,
+    "offset": 159560,
+    "lang": "es"
+  },
+  {
+    "text": "serios. Sin embargo, si le pedimos a la",
+    "duration": 3681,
+    "offset": 161519,
+    "lang": "es"
+  },
+  {
+    "text": "IA que haga una revisión previa, que",
+    "duration": 3201,
+    "offset": 163519,
+    "lang": "es"
+  },
+  {
+    "text": "limpie la rama en local antes de abrir",
+    "duration": 3399,
+    "offset": 165200,
+    "lang": "es"
+  },
+  {
+    "text": "el PR oficial, la calidad del código",
+    "duration": 4280,
+    "offset": 166720,
+    "lang": "es"
+  },
+  {
+    "text": "entrante mejora de una forma dramática.",
+    "duration": 4000,
+    "offset": 168599,
+    "lang": "es"
+  },
+  {
+    "text": "Y para que nos hagamos una idea del",
+    "duration": 3400,
+    "offset": 171000,
+    "lang": "es"
+  },
+  {
+    "text": "impacto brutal de esta práctica,",
+    "duration": 4560,
+    "offset": 172599,
+    "lang": "es"
+  },
+  {
+    "text": "quedémonos con este número. Tres. Tras",
+    "duration": 4520,
+    "offset": 174400,
+    "lang": "es"
+  },
+  {
+    "text": "hacer esa limpieza en local, una lista",
+    "duration": 3761,
+    "offset": 177159,
+    "lang": "es"
+  },
+  {
+    "text": "enorme de problemas originales se",
+    "duration": 3840,
+    "offset": 178920,
+    "lang": "es"
+  },
+  {
+    "text": "desploma y al equipo humano solo le",
+    "duration": 3679,
+    "offset": 180920,
+    "lang": "es"
+  },
+  {
+    "text": "llegan unos tres hallazgos, pero de",
+    "duration": 4199,
+    "offset": 182760,
+    "lang": "es"
+  },
+  {
+    "text": "altísima relevancia, tres cosas de alta",
+    "duration": 4200,
+    "offset": 184599,
+    "lang": "es"
+  },
+  {
+    "text": "señal. Esto significa que el equipo",
+    "duration": 4041,
+    "offset": 186959,
+    "lang": "es"
+  },
+  {
+    "text": "puede centrar toda su energía mental de",
+    "duration": 4321,
+    "offset": 188799,
+    "lang": "es"
+  },
+  {
+    "text": "forma exclusiva en la arquitectura y en",
+    "duration": 4239,
+    "offset": 191000,
+    "lang": "es"
+  },
+  {
+    "text": "los problemas que realmente importan.",
+    "duration": 4199,
+    "offset": 193120,
+    "lang": "es"
+  },
+  {
+    "text": "Llegamos a la práctica número tres, el",
+    "duration": 4841,
+    "offset": 195239,
+    "lang": "es"
+  },
+  {
+    "text": "contexto detallado. Este es el verdadero",
+    "duration": 5280,
+    "offset": 197319,
+    "lang": "es"
+  },
+  {
+    "text": "núcleo de una IA útil. Los agentes son",
+    "duration": 5519,
+    "offset": 200080,
+    "lang": "es"
+  },
+  {
+    "text": "potentes, sí, pero no son telépatas. Una",
+    "duration": 4640,
+    "offset": 202599,
+    "lang": "es"
+  },
+  {
+    "text": "IA no puede encontrar problemas en los",
+    "duration": 3601,
+    "offset": 205599,
+    "lang": "es"
+  },
+  {
+    "text": "requisitos de negocio si no tienen idea",
+    "duration": 4720,
+    "offset": 207239,
+    "lang": "es"
+  },
+  {
+    "text": "de cuáles son. Sin contexto, solo revisa",
+    "duration": 5480,
+    "offset": 209200,
+    "lang": "es"
+  },
+  {
+    "text": "sintaxis y se pierde toda la intención.",
+    "duration": 4360,
+    "offset": 211959,
+    "lang": "es"
+  },
+  {
+    "text": "Fijémonos en dos tickets de giras",
+    "duration": 4400,
+    "offset": 214680,
+    "lang": "es"
+  },
+  {
+    "text": "reales. Un ticket ambiguo de una sola",
+    "duration": 4840,
+    "offset": 216319,
+    "lang": "es"
+  },
+  {
+    "text": "frase hace que la IA solo proponga",
+    "duration": 4359,
+    "offset": 219080,
+    "lang": "es"
+  },
+  {
+    "text": "arreglillos superficiales en el código,",
+    "duration": 4761,
+    "offset": 221159,
+    "lang": "es"
+  },
+  {
+    "text": "pero un ticket superdallado cambia las",
+    "duration": 4561,
+    "offset": 223439,
+    "lang": "es"
+  },
+  {
+    "text": "reglas del juego. En el caso de nuestra",
+    "duration": 4480,
+    "offset": 225920,
+    "lang": "es"
+  },
+  {
+    "text": "app de pagos, gracias a ese detalle, la",
+    "duration": 4840,
+    "offset": 228000,
+    "lang": "es"
+  },
+  {
+    "text": "IA pudo detectar que un pago en revisión",
+    "duration": 4080,
+    "offset": 230400,
+    "lang": "es"
+  },
+  {
+    "text": "todavía se podía procesar de forma",
+    "duration": 3679,
+    "offset": 232840,
+    "lang": "es"
+  },
+  {
+    "text": "incondicional, un error financiero que",
+    "duration": 4800,
+    "offset": 234480,
+    "lang": "es"
+  },
+  {
+    "text": "habría sido fatal si pasaba producción.",
+    "duration": 4280,
+    "offset": 236519,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, ¿quién necesita un buen ticket",
+    "duration": 3560,
+    "offset": 239280,
+    "lang": "es"
+  },
+  {
+    "text": "de gestión para que la IA le saque jugo?",
+    "duration": 4201,
+    "offset": 240799,
+    "lang": "es"
+  },
+  {
+    "text": "pues componentes indispensables como un",
+    "duration": 4080,
+    "offset": 242840,
+    "lang": "es"
+  },
+  {
+    "text": "título específico, un propósito que se",
+    "duration": 3799,
+    "offset": 245000,
+    "lang": "es"
+  },
+  {
+    "text": "entienda claramente, una historia de",
+    "duration": 4239,
+    "offset": 246920,
+    "lang": "es"
+  },
+  {
+    "text": "usuario bien definida y sobre todo unos",
+    "duration": 4481,
+    "offset": 248799,
+    "lang": "es"
+  },
+  {
+    "text": "criterios de aceptación minuciosos.",
+    "duration": 4160,
+    "offset": 251159,
+    "lang": "es"
+  },
+  {
+    "text": "Cuando la IA dispone de todo esto, no se",
+    "duration": 3840,
+    "offset": 253280,
+    "lang": "es"
+  },
+  {
+    "text": "limita a señalar un error, sino que",
+    "duration": 3440,
+    "offset": 255319,
+    "lang": "es"
+  },
+  {
+    "text": "proporciona evidencias directas que",
+    "duration": 3359,
+    "offset": 257120,
+    "lang": "es"
+  },
+  {
+    "text": "vinculan el fallo del código con la",
+    "duration": 4000,
+    "offset": 258759,
+    "lang": "es"
+  },
+  {
+    "text": "intención original del negocio. Bueno,",
+    "duration": 3961,
+    "offset": 260479,
+    "lang": "es"
+  },
+  {
+    "text": "toda esta teoría suena de maravilla,",
+    "duration": 3761,
+    "offset": 262759,
+    "lang": "es"
+  },
+  {
+    "text": "¿verdad? Pero la gran pregunta es, ¿cómo",
+    "duration": 3840,
+    "offset": 264440,
+    "lang": "es"
+  },
+  {
+    "text": "llevamos todo esto a la práctica en un",
+    "duration": 3640,
+    "offset": 266520,
+    "lang": "es"
+  },
+  {
+    "text": "entorno de desarrollo moderno y con",
+    "duration": 3600,
+    "offset": 268280,
+    "lang": "es"
+  },
+  {
+    "text": "herramientas de vanguardia como Google",
+    "duration": 5200,
+    "offset": 270160,
+    "lang": "es"
+  },
+  {
+    "text": "Antigravity 2.0? Punto número cinco,",
+    "duration": 6800,
+    "offset": 271880,
+    "lang": "es"
+  },
+  {
+    "text": "aplicando Google Antigravity 2.0. Aquí",
+    "duration": 5360,
+    "offset": 275360,
+    "lang": "es"
+  },
+  {
+    "text": "es donde la teoría y la práctica se da",
+    "duration": 4000,
+    "offset": 278680,
+    "lang": "es"
+  },
+  {
+    "text": "en la mano. Esta herramienta que se",
+    "duration": 3600,
+    "offset": 280720,
+    "lang": "es"
+  },
+  {
+    "text": "acaba de relanzar como una potente",
+    "duration": 3480,
+    "offset": 282680,
+    "lang": "es"
+  },
+  {
+    "text": "aplicación de escritorio independiente",
+    "duration": 3560,
+    "offset": 284320,
+    "lang": "es"
+  },
+  {
+    "text": "resulta ser la plataforma perfecta para",
+    "duration": 3879,
+    "offset": 286160,
+    "lang": "es"
+  },
+  {
+    "text": "implementar estos tres pilares. Y es que",
+    "duration": 3840,
+    "offset": 287880,
+    "lang": "es"
+  },
+  {
+    "text": "sus funciones replican las mejores",
+    "duration": 3801,
+    "offset": 290039,
+    "lang": "es"
+  },
+  {
+    "text": "prácticas de forma natural. Por ejemplo,",
+    "duration": 3800,
+    "offset": 291720,
+    "lang": "es"
+  },
+  {
+    "text": "su acción de GitHub proporciona ese",
+    "duration": 3240,
+    "offset": 293840,
+    "lang": "es"
+  },
+  {
+    "text": "entorno aislado independiente del que",
+    "duration": 3320,
+    "offset": 295520,
+    "lang": "es"
+  },
+  {
+    "text": "hablábamos. Luego tiene la vista de",
+    "duration": 3440,
+    "offset": 297080,
+    "lang": "es"
+  },
+  {
+    "text": "administrador con sus permisos de",
+    "duration": 3480,
+    "offset": 298840,
+    "lang": "es"
+  },
+  {
+    "text": "permitir, preguntar o denegar, que",
+    "duration": 4160,
+    "offset": 300520,
+    "lang": "es"
+  },
+  {
+    "text": "orquesta la limpieza previa al PR. Y",
+    "duration": 4200,
+    "offset": 302320,
+    "lang": "es"
+  },
+  {
+    "text": "para rematar incluye un subagente de",
+    "duration": 3720,
+    "offset": 304680,
+    "lang": "es"
+  },
+  {
+    "text": "navegador para pruebas de interfaz y el",
+    "duration": 3600,
+    "offset": 306520,
+    "lang": "es"
+  },
+  {
+    "text": "uso de archivos de contexto persistentes",
+    "duration": 3400,
+    "offset": 308400,
+    "lang": "es"
+  },
+  {
+    "text": "que dotan a la IA de las reglas a nivel",
+    "duration": 4320,
+    "offset": 310120,
+    "lang": "es"
+  },
+  {
+    "text": "de tarea necesarias. Así se vería un",
+    "duration": 4800,
+    "offset": 311800,
+    "lang": "es"
+  },
+  {
+    "text": "flujo de integración continuo o ideal",
+    "duration": 4759,
+    "offset": 314440,
+    "lang": "es"
+  },
+  {
+    "text": "paso a paso. Primero, el agente escribe",
+    "duration": 4400,
+    "offset": 316600,
+    "lang": "es"
+  },
+  {
+    "text": "el código. Segundo, la vista de",
+    "duration": 3560,
+    "offset": 319199,
+    "lang": "es"
+  },
+  {
+    "text": "administrador entra a limpiar la rama en",
+    "duration": 3240,
+    "offset": 321000,
+    "lang": "es"
+  },
+  {
+    "text": "local cumpliendo nuestra regla de",
+    "duration": 3761,
+    "offset": 322759,
+    "lang": "es"
+  },
+  {
+    "text": "revisión previa. Tercero, el SDK de",
+    "duration": 3959,
+    "offset": 324240,
+    "lang": "es"
+  },
+  {
+    "text": "Antigravity hace una revisión a fondo a",
+    "duration": 3600,
+    "offset": 326520,
+    "lang": "es"
+  },
+  {
+    "text": "través de GitHub y finalmente las",
+    "duration": 3201,
+    "offset": 328199,
+    "lang": "es"
+  },
+  {
+    "text": "personas se enfocan solo en los",
+    "duration": 3280,
+    "offset": 330120,
+    "lang": "es"
+  },
+  {
+    "text": "hallazgos de altísimo valor. Ah, y un",
+    "duration": 4160,
+    "offset": 331400,
+    "lang": "es"
+  },
+  {
+    "text": "detalle vital, todo este proceso cuenta",
+    "duration": 3840,
+    "offset": 333400,
+    "lang": "es"
+  },
+  {
+    "text": "con disparadores manuales porque lo",
+    "duration": 3040,
+    "offset": 335560,
+    "lang": "es"
+  },
+  {
+    "text": "último que queremos es que los agentes",
+    "duration": 3280,
+    "offset": 337240,
+    "lang": "es"
+  },
+  {
+    "text": "de IA se queden atrapados en un bucle",
+    "duration": 4000,
+    "offset": 338600,
+    "lang": "es"
+  },
+  {
+    "text": "infinito de revisión entre ellos. Al",
+    "duration": 3959,
+    "offset": 340520,
+    "lang": "es"
+  },
+  {
+    "text": "comparar los conceptos teóricos",
+    "duration": 3400,
+    "offset": 342600,
+    "lang": "es"
+  },
+  {
+    "text": "originales con su arquitectura en",
+    "duration": 4361,
+    "offset": 344479,
+    "lang": "es"
+  },
+  {
+    "text": "antigravity, la conclusión es muy clara.",
+    "duration": 5160,
+    "offset": 346000,
+    "lang": "es"
+  },
+  {
+    "text": "La herramienta específica da igual. Lo",
+    "duration": 4199,
+    "offset": 348840,
+    "lang": "es"
+  },
+  {
+    "text": "que realmente importa para garantizar la",
+    "duration": 3440,
+    "offset": 351160,
+    "lang": "es"
+  },
+  {
+    "text": "estabilidad del software son los",
+    "duration": 3000,
+    "offset": 353039,
+    "lang": "es"
+  },
+  {
+    "text": "principios universales de revisión",
+    "duration": 3520,
+    "offset": 354600,
+    "lang": "es"
+  },
+  {
+    "text": "independiente, la limpieza previa y el",
+    "duration": 4521,
+    "offset": 356039,
+    "lang": "es"
+  },
+  {
+    "text": "contexto persistente. Y así llegamos a",
+    "duration": 4840,
+    "offset": 358120,
+    "lang": "es"
+  },
+  {
+    "text": "la sexta y última sección, el valor del",
+    "duration": 4720,
+    "offset": 360560,
+    "lang": "es"
+  },
+  {
+    "text": "contexto. Para cerrar nuestro análisis,",
+    "duration": 4480,
+    "offset": 362960,
+    "lang": "es"
+  },
+  {
+    "text": "quedémonos con la tesis central de hoy.",
+    "duration": 3520,
+    "offset": 365280,
+    "lang": "es"
+  },
+  {
+    "text": "El contexto es lo que hace que la",
+    "duration": 3560,
+    "offset": 367440,
+    "lang": "es"
+  },
+  {
+    "text": "revisión de código por A sea fiable. A",
+    "duration": 3679,
+    "offset": 368800,
+    "lang": "es"
+  },
+  {
+    "text": "ver, si las máquinas están escribiendo",
+    "duration": 3360,
+    "offset": 371000,
+    "lang": "es"
+  },
+  {
+    "text": "el código y otras máquinas distintas lo",
+    "duration": 3840,
+    "offset": 372479,
+    "lang": "es"
+  },
+  {
+    "text": "están revisando, la labor de ingeniería",
+    "duration": 3839,
+    "offset": 374360,
+    "lang": "es"
+  },
+  {
+    "text": "evoluciona. Ya no se trata de picar",
+    "duration": 3961,
+    "offset": 376319,
+    "lang": "es"
+  },
+  {
+    "text": "bucles sin parar, se trata de orquestar",
+    "duration": 3961,
+    "offset": 378199,
+    "lang": "es"
+  },
+  {
+    "text": "la intención. Así que, viendo todo esto,",
+    "duration": 3400,
+    "offset": 380280,
+    "lang": "es"
+  },
+  {
+    "text": "es un buen momento para darle una vuelta",
+    "duration": 3479,
+    "offset": 382160,
+    "lang": "es"
+  },
+  {
+    "text": "a los procesos internos. Si le estamos",
+    "duration": 3880,
+    "offset": 383680,
+    "lang": "es"
+  },
+  {
+    "text": "delegando tanto trabajo a la IA, le",
+    "duration": 3280,
+    "offset": 385639,
+    "lang": "es"
+  },
+  {
+    "text": "estamos dando también la calidad de",
+    "duration": 2880,
+    "offset": 387560,
+    "lang": "es"
+  },
+  {
+    "text": "contexto necesaria para que no tome",
+    "duration": 3201,
+    "offset": 388919,
+    "lang": "es"
+  },
+  {
+    "text": "decisiones a ciegas. Ahí queda la",
+    "duration": 3000,
+    "offset": 390440,
+    "lang": "es"
+  },
+  {
+    "text": "reflexión. Muchas gracias por",
+    "duration": 3000,
+    "offset": 392120,
+    "lang": "es"
+  },
+  {
+    "text": "acompañarnos en este repaso y hasta la",
+    "duration": 4680,
+    "offset": 393440,
+    "lang": "es"
+  },
+  {
+    "text": "próxima.",
+    "duration": 3000,
+    "offset": 395120,
+    "lang": "es"
+  }
+]

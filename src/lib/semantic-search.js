@@ -1,10 +1,14 @@
 import fs from 'fs/promises';
 import path from 'path';
-import { pipeline } from '@xenova/transformers';
+import { pipeline, env } from '@xenova/transformers';
 import matter from 'gray-matter';
+
+// Set cache directory to /tmp for Vercel / Serverless write permission compatibility
+env.cacheDir = '/tmp/transformers-cache';
 
 const OKF_DIR = path.resolve('./src/content/okf');
 const EMBEDDINGS_FILE = path.join(OKF_DIR, 'embeddings.json');
+const EMBEDDINGS_CHUNKS_FILE = path.join(OKF_DIR, 'embeddings_chunks.json');
 
 let extractor = null;
 
@@ -101,6 +105,112 @@ export async function generateCatalogEmbeddings() {
   // Save all embeddings to disk
   await fs.writeFile(EMBEDDINGS_FILE, JSON.stringify(embeddings, null, 2), 'utf-8');
   console.log(`Successfully generated and saved ${embeddings.length} embeddings to ${EMBEDDINGS_FILE}.`);
+
+  // Generate transcript chunk embeddings as well
+  try {
+    await generateTranscriptEmbeddings();
+  } catch (err) {
+    console.error('Failed to generate transcript chunk embeddings during catalog generation:', err);
+  }
+}
+
+// Generate chunk embeddings for transcripts (RAG)
+export async function generateTranscriptEmbeddings() {
+  console.log('Generating chunk embeddings for transcripts...');
+  const chunksEmbeddings = [];
+  const transcriptsDir = path.join(OKF_DIR, 'transcripts');
+  const videosDir = path.join(OKF_DIR, 'videos');
+  const channelsDir = path.join(OKF_DIR, 'channels');
+
+  try {
+    // Load all channel names to associate them with the chunks
+    const channelFiles = await fs.readdir(channelsDir);
+    const channelsInfo = {};
+    for (const file of channelFiles) {
+      if (!file.endsWith('.md')) continue;
+      const id = file.replace('.md', '');
+      try {
+        const content = await fs.readFile(path.join(channelsDir, file), 'utf-8');
+        const { data } = matter(content);
+        channelsInfo[id] = data.title;
+      } catch (err) {
+        console.warn(`Failed to read channel title for ${id}:`, err);
+      }
+    }
+
+    const transcriptFiles = await fs.readdir(transcriptsDir);
+    for (const file of transcriptFiles) {
+      if (!file.endsWith('.json')) continue;
+      const videoId = file.replace('.json', '');
+
+      // Load video metadata
+      let videoMetadata = null;
+      try {
+        const mdContent = await fs.readFile(path.join(videosDir, `${videoId}.md`), 'utf-8');
+        const { data } = matter(mdContent);
+        videoMetadata = data;
+      } catch (err) {
+        // Skip transcript indexing if video markdown doesn't exist
+        continue;
+      }
+
+      // Load transcript segments
+      const dataStr = await fs.readFile(path.join(transcriptsDir, file), 'utf-8');
+      const segments = JSON.parse(dataStr);
+      if (!segments || segments.length === 0) continue;
+
+      console.log(`Processing transcript chunks for video: ${videoMetadata.title}...`);
+
+      let currentText = '';
+      let currentStart = null;
+      let currentDuration = 0;
+      let wordCount = 0;
+
+      for (let i = 0; i < segments.length; i++) {
+        const seg = segments[i];
+        const cleanText = seg.text.trim();
+        if (!cleanText) continue;
+
+        if (currentStart === null) {
+          currentStart = seg.offset; // in ms
+        }
+
+        currentText += (currentText ? ' ' : '') + cleanText;
+        currentDuration = (seg.offset + seg.duration) - currentStart;
+        wordCount += cleanText.split(/\s+/).length;
+
+        // Chunk condition: ~150 words or end of array
+        if (wordCount >= 150 || i === segments.length - 1) {
+          const vector = await getEmbedding(currentText);
+
+          chunksEmbeddings.push({
+            videoId,
+            videoTitle: videoMetadata.title,
+            channelId: videoMetadata.channel_id,
+            channelTitle: channelsInfo[videoMetadata.channel_id] || 'Diego Racero',
+            thumbnail: videoMetadata.thumbnail || '',
+            duration: videoMetadata.duration || '00:00',
+            text: currentText,
+            start: Math.round(currentStart / 1000), // convert to seconds
+            end: Math.round((currentStart + currentDuration) / 1000), // convert to seconds
+            vector
+          });
+
+          // Reset
+          currentText = '';
+          currentStart = null;
+          currentDuration = 0;
+          wordCount = 0;
+        }
+      }
+    }
+
+    // Save chunks to file
+    await fs.writeFile(EMBEDDINGS_CHUNKS_FILE, JSON.stringify(chunksEmbeddings, null, 2), 'utf-8');
+    console.log(`Successfully generated and saved ${chunksEmbeddings.length} transcript chunk embeddings to ${EMBEDDINGS_CHUNKS_FILE}.`);
+  } catch (err) {
+    console.error('Error generating transcript embeddings:', err);
+  }
 }
 
 // Perform semantic search
@@ -137,4 +247,101 @@ export async function semanticSearch(queryText, limit = 12) {
   return results
     .sort((a, b) => b.similarity - a.similarity)
     .slice(0, limit);
+}
+
+// Perform semantic search over transcripts (with Hybrid keyword boost)
+export async function semanticSearchChunks(queryText, limit = 12) {
+  if (!queryText || queryText.trim() === '') return [];
+
+  // 1. Get query vector
+  const queryVector = await getEmbedding(queryText);
+
+  // 2. Load transcript vectors
+  let chunksEmbeddings = [];
+  try {
+    const data = await fs.readFile(EMBEDDINGS_CHUNKS_FILE, 'utf-8');
+    chunksEmbeddings = JSON.parse(data);
+  } catch (e) {
+    // If not generated, build them
+    await generateTranscriptEmbeddings();
+    try {
+      const data = await fs.readFile(EMBEDDINGS_CHUNKS_FILE, 'utf-8');
+      chunksEmbeddings = JSON.parse(data);
+    } catch (err) {
+      console.error('Failed to load chunks embeddings:', err);
+      return [];
+    }
+  }
+
+  // Normalize query for keyword matching
+  const cleanQuery = queryText.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
+  const queryWords = cleanQuery.split(/\s+/).filter(w => w.length > 2);
+
+  // 3. Compute similarities and apply keyword boost
+  const results = chunksEmbeddings.map(item => {
+    const baseSimilarity = cosineSimilarity(queryVector, item.vector);
+    
+    // Calculate keyword match boost
+    let boost = 0;
+    if (queryWords.length > 0) {
+      const cleanText = item.text.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+      
+      // Exact match gives highest boost
+      if (cleanText.includes(cleanQuery)) {
+        boost += 0.35;
+      } else {
+        // Proportional match for individual words
+        let matchCount = 0;
+        for (const word of queryWords) {
+          if (cleanText.includes(word)) {
+            matchCount++;
+          }
+        }
+        boost += (matchCount / queryWords.length) * 0.2;
+      }
+    }
+
+    const similarity = baseSimilarity + boost;
+
+    return {
+      similarity,
+      type: 'segment',
+      concept: {
+        id: item.videoId,
+        title: item.videoTitle,
+        channel_id: item.channelId,
+        channel_title: item.channelTitle,
+        thumbnail: item.thumbnail,
+        duration: item.duration
+      },
+      segment: {
+        text: item.text,
+        start: item.start,
+        end: item.end,
+        formattedStart: formatTime(item.start)
+      }
+    };
+  });
+
+  // Sort by similarity descending
+  return results
+    .sort((a, b) => b.similarity - a.similarity)
+    .slice(0, limit);
+}
+
+// Helper to format seconds to MM:SS or HH:MM:SS
+function formatTime(seconds) {
+  const hrs = Math.floor(seconds / 3600);
+  const mins = Math.floor((seconds % 3600) / 60);
+  const secs = seconds % 60;
+
+  const parts = [];
+  if (hrs > 0) {
+    parts.push(hrs.toString());
+    parts.push(mins.toString().padStart(2, '0'));
+  } else {
+    parts.push(mins.toString().padStart(2, '0'));
+  }
+  parts.push(secs.toString().padStart(2, '0'));
+  return parts.join(':');
 }

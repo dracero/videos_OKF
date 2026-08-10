@@ -1,0 +1,764 @@
+[
+  {
+    "text": "Bueno vamos a ver Cómo podemos usar los",
+    "duration": 6379,
+    "offset": 420,
+    "lang": "es"
+  },
+  {
+    "text": "plugins que tenemos de",
+    "duration": 6241,
+    "offset": 3659,
+    "lang": "es"
+  },
+  {
+    "text": "las Language models para ayudarnos con",
+    "duration": 4781,
+    "offset": 6799,
+    "lang": "es"
+  },
+  {
+    "text": "nuestro libro",
+    "duration": 4380,
+    "offset": 9900,
+    "lang": "es"
+  },
+  {
+    "text": "si bien no les van a ayudar a resolver",
+    "duration": 4920,
+    "offset": 11580,
+    "lang": "es"
+  },
+  {
+    "text": "problemas porque todavía le falta mucho",
+    "duration": 4380,
+    "offset": 14280,
+    "lang": "es"
+  },
+  {
+    "text": "entrenamiento Si los puede ayudar mucho",
+    "duration": 3779,
+    "offset": 16500,
+    "lang": "es"
+  },
+  {
+    "text": "a hacer un resumen del libro Entonces",
+    "duration": 4440,
+    "offset": 18660,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes copian este link y le pueden",
+    "duration": 5061,
+    "offset": 20279,
+    "lang": "es"
+  },
+  {
+    "text": "preguntar",
+    "duration": 2240,
+    "offset": 23100,
+    "lang": "es"
+  },
+  {
+    "text": "según",
+    "duration": 2601,
+    "offset": 25619,
+    "lang": "es"
+  },
+  {
+    "text": "el siguiente libro",
+    "duration": 4201,
+    "offset": 29039,
+    "lang": "es"
+  },
+  {
+    "text": "como Según el siguiente libro",
+    "duration": 7200,
+    "offset": 36320,
+    "lang": "es"
+  },
+  {
+    "text": "Cuál es la",
+    "duration": 6320,
+    "offset": 41040,
+    "lang": "es"
+  },
+  {
+    "text": "expresión de la",
+    "duration": 5940,
+    "offset": 43520,
+    "lang": "es"
+  },
+  {
+    "text": "energía",
+    "duration": 8980,
+    "offset": 47360,
+    "lang": "es"
+  },
+  {
+    "text": "cinética de un sistema de partículas",
+    "duration": 6880,
+    "offset": 49460,
+    "lang": "es"
+  },
+  {
+    "text": "link",
+    "duration": 5101,
+    "offset": 57539,
+    "lang": "es"
+  },
+  {
+    "text": "y le pasan el libro bien y ahí va a",
+    "duration": 4140,
+    "offset": 59940,
+    "lang": "es"
+  },
+  {
+    "text": "resumir según el libro que compartiste",
+    "duration": 3299,
+    "offset": 62640,
+    "lang": "es"
+  },
+  {
+    "text": "la presión de energía de partículas es",
+    "duration": 4399,
+    "offset": 64080,
+    "lang": "es"
+  },
+  {
+    "text": "la siguiente",
+    "duration": 2540,
+    "offset": 65939,
+    "lang": "es"
+  },
+  {
+    "text": "bien entonces acá lo que me dice es ven",
+    "duration": 5520,
+    "offset": 73320,
+    "lang": "es"
+  },
+  {
+    "text": "la expresión de la energía cinética me",
+    "duration": 3600,
+    "offset": 76920,
+    "lang": "es"
+  },
+  {
+    "text": "la pone como la sumatoria de la energía",
+    "duration": 3840,
+    "offset": 78840,
+    "lang": "es"
+  },
+  {
+    "text": "cinética de cada una de las partículas y",
+    "duration": 4099,
+    "offset": 80520,
+    "lang": "es"
+  },
+  {
+    "text": "ahora le puedo poner",
+    "duration": 7439,
+    "offset": 82680,
+    "lang": "es"
+  },
+  {
+    "text": "Cómo se relaciona",
+    "duration": 5500,
+    "offset": 84619,
+    "lang": "es"
+  },
+  {
+    "text": "esta expresión con la energía",
+    "duration": 6841,
+    "offset": 93799,
+    "lang": "es"
+  },
+  {
+    "text": "del centro de masa siempre",
+    "duration": 9100,
+    "offset": 101360,
+    "lang": "es"
+  },
+  {
+    "text": "según el libro",
+    "duration": 4260,
+    "offset": 106200,
+    "lang": "es"
+  },
+  {
+    "text": "de la siguiente manera en términos",
+    "duration": 5759,
+    "offset": 113720,
+    "lang": "es"
+  },
+  {
+    "text": "energía relativa al centro de masa bien",
+    "duration": 6461,
+    "offset": 115759,
+    "lang": "es"
+  },
+  {
+    "text": "de la energía cinética es la energía",
+    "duration": 5881,
+    "offset": 119479,
+    "lang": "es"
+  },
+  {
+    "text": "cinética relativa al centro de máxima",
+    "duration": 5000,
+    "offset": 122220,
+    "lang": "es"
+  },
+  {
+    "text": "masa es",
+    "duration": 4239,
+    "offset": 125360,
+    "lang": "es"
+  },
+  {
+    "text": "un medio de la masa porque el sector más",
+    "duration": 4679,
+    "offset": 127220,
+    "lang": "es"
+  },
+  {
+    "text": "al cuadrado",
+    "duration": 2300,
+    "offset": 129599,
+    "lang": "es"
+  },
+  {
+    "text": "bien y ahí me pone las expresiones todo",
+    "duration": 4921,
+    "offset": 137099,
+    "lang": "es"
+  },
+  {
+    "text": "lo va sacando del libro bien y le pongo",
+    "duration": 5000,
+    "offset": 139800,
+    "lang": "es"
+  },
+  {
+    "text": "cómo se llama",
+    "duration": 2780,
+    "offset": 142020,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 5340,
+    "offset": 147680,
+    "lang": "es"
+  },
+  {
+    "text": "energía cinética",
+    "duration": 5280,
+    "offset": 149300,
+    "lang": "es"
+  },
+  {
+    "text": "relativa",
+    "duration": 6719,
+    "offset": 153020,
+    "lang": "es"
+  },
+  {
+    "text": "al centro de masa",
+    "duration": 5159,
+    "offset": 154580,
+    "lang": "es"
+  },
+  {
+    "text": "porque energía cinética traslacional",
+    "duration": 6380,
+    "offset": 169560,
+    "lang": "es"
+  },
+  {
+    "text": "relativa no la vimos tiene otro nombre",
+    "duration": 4040,
+    "offset": 171900,
+    "lang": "es"
+  },
+  {
+    "text": "es bien ahí bueno fallan decírmelo de la",
+    "duration": 4860,
+    "offset": 178260,
+    "lang": "es"
+  },
+  {
+    "text": "energía interna pero bien me dio bien",
+    "duration": 4500,
+    "offset": 181080,
+    "lang": "es"
+  },
+  {
+    "text": "las expresiones que a ustedes les son",
+    "duration": 6860,
+    "offset": 183120,
+    "lang": "es"
+  },
+  {
+    "text": "muy útiles para poder este",
+    "duration": 7820,
+    "offset": 185580,
+    "lang": "es"
+  },
+  {
+    "text": "le son muy útiles",
+    "duration": 3420,
+    "offset": 189980,
+    "lang": "es"
+  },
+  {
+    "text": "para poder hacer este el rezamemos que",
+    "duration": 4560,
+    "offset": 193620,
+    "lang": "es"
+  },
+  {
+    "text": "esta es la energía interna pero les va a",
+    "duration": 3961,
+    "offset": 196739,
+    "lang": "es"
+  },
+  {
+    "text": "servir para hacer el cuadro sinóptico el",
+    "duration": 4440,
+    "offset": 198180,
+    "lang": "es"
+  },
+  {
+    "text": "compendio bien les va a servir para",
+    "duration": 3660,
+    "offset": 200700,
+    "lang": "es"
+  },
+  {
+    "text": "pensar bueno Qué pasa si todas las",
+    "duration": 2759,
+    "offset": 202620,
+    "lang": "es"
+  },
+  {
+    "text": "partículas se mueven a la misma",
+    "duration": 1879,
+    "offset": 204360,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad",
+    "duration": 3720,
+    "offset": 205379,
+    "lang": "es"
+  },
+  {
+    "text": "acá les va a quedar que esta velocidad",
+    "duration": 4780,
+    "offset": 206239,
+    "lang": "es"
+  },
+  {
+    "text": "relativa al centro de masa va a ser cero",
+    "duration": 3661,
+    "offset": 209099,
+    "lang": "es"
+  },
+  {
+    "text": "y la energía interna va a ser cero y acá",
+    "duration": 3481,
+    "offset": 211019,
+    "lang": "es"
+  },
+  {
+    "text": "tienen que directamente Esto va a ser un",
+    "duration": 2820,
+    "offset": 212760,
+    "lang": "es"
+  },
+  {
+    "text": "medio de la masa por velocidad del",
+    "duration": 3780,
+    "offset": 214500,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa bien Qué pasa Por ejemplo",
+    "duration": 5840,
+    "offset": 215580,
+    "lang": "es"
+  },
+  {
+    "text": "si le pregunto",
+    "duration": 3140,
+    "offset": 218280,
+    "lang": "es"
+  },
+  {
+    "text": "Cuál es la",
+    "duration": 9080,
+    "offset": 222239,
+    "lang": "es"
+  },
+  {
+    "text": "expresión de la velocidad",
+    "duration": 5520,
+    "offset": 225799,
+    "lang": "es"
+  },
+  {
+    "text": "de un punto de",
+    "duration": 4669,
+    "offset": 231480,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3319,
+    "offset": 232830,
+    "lang": "es"
+  },
+  {
+    "text": "un cuerpo rígido",
+    "duration": 3780,
+    "offset": 237720,
+    "lang": "es"
+  },
+  {
+    "text": "tiene",
+    "duration": 2840,
+    "offset": 245700,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento de",
+    "duration": 6099,
+    "offset": 252860,
+    "lang": "es"
+  },
+  {
+    "text": "Roto traslación",
+    "duration": 4000,
+    "offset": 254959,
+    "lang": "es"
+  },
+  {
+    "text": "bien fíjense como ahí me da cuando",
+    "duration": 4400,
+    "offset": 292500,
+    "lang": "es"
+  },
+  {
+    "text": "tienen que usar siempre la palabra",
+    "duration": 3960,
+    "offset": 297840,
+    "lang": "es"
+  },
+  {
+    "text": "expresión o sea tienen que hacer el",
+    "duration": 3960,
+    "offset": 299580,
+    "lang": "es"
+  },
+  {
+    "text": "pronta incorrecto Pero ven como haciendo",
+    "duration": 4800,
+    "offset": 301800,
+    "lang": "es"
+  },
+  {
+    "text": "el pronting correcto acá les pasa un",
+    "duration": 6379,
+    "offset": 303540,
+    "lang": "es"
+  },
+  {
+    "text": "resumen de todo no",
+    "duration": 3319,
+    "offset": 306600,
+    "lang": "es"
+  },
+  {
+    "text": "no sirve para hacer deducciones todavía",
+    "duration": 4080,
+    "offset": 310080,
+    "lang": "es"
+  },
+  {
+    "text": "no tiene el entrenamiento suficiente",
+    "duration": 5220,
+    "offset": 312300,
+    "lang": "es"
+  },
+  {
+    "text": "para poder resolver un problema pero sí",
+    "duration": 6240,
+    "offset": 314160,
+    "lang": "es"
+  },
+  {
+    "text": "sirve para poder hacer resúmenes y",
+    "duration": 4940,
+    "offset": 317520,
+    "lang": "es"
+  },
+  {
+    "text": "evitar tener que estar",
+    "duration": 6299,
+    "offset": 320400,
+    "lang": "es"
+  },
+  {
+    "text": "leyendo todo el libro bien y otra cosa",
+    "duration": 7480,
+    "offset": 322460,
+    "lang": "es"
+  },
+  {
+    "text": "que tenemos",
+    "duration": 3241,
+    "offset": 326699,
+    "lang": "es"
+  },
+  {
+    "text": "es nuestro chat de física 1 el chat de",
+    "duration": 7500,
+    "offset": 336120,
+    "lang": "es"
+  },
+  {
+    "text": "física 1 ya lo tenemos conectado al chat",
+    "duration": 9000,
+    "offset": 339840,
+    "lang": "es"
+  },
+  {
+    "text": "gpt acá por ejemplo le puedo poner este",
+    "duration": 5220,
+    "offset": 343620,
+    "lang": "es"
+  },
+  {
+    "text": "Qué es el centro de",
+    "duration": 5980,
+    "offset": 350880,
+    "lang": "es"
+  },
+  {
+    "text": "percusión en",
+    "duration": 5140,
+    "offset": 354680,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 6399,
+    "offset": 356860,
+    "lang": "es"
+  },
+  {
+    "text": "un cuerpo rígido",
+    "duration": 3439,
+    "offset": 359820,
+    "lang": "es"
+  },
+  {
+    "text": "bien y acá me contesta que es el centro",
+    "duration": 6000,
+    "offset": 378660,
+    "lang": "es"
+  },
+  {
+    "text": "de percusión en un cuerpo rígido es el",
+    "duration": 3119,
+    "offset": 382860,
+    "lang": "es"
+  },
+  {
+    "text": "punto en el que se puede aplicar una",
+    "duration": 3060,
+    "offset": 384660,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza para producir movimiento de",
+    "duration": 3301,
+    "offset": 385979,
+    "lang": "es"
+  },
+  {
+    "text": "rotación sin que se produzca movimiento",
+    "duration": 4319,
+    "offset": 387720,
+    "lang": "es"
+  },
+  {
+    "text": "de traslaciones es decir un punto en el",
+    "duration": 4320,
+    "offset": 389280,
+    "lang": "es"
+  },
+  {
+    "text": "que se puede golpear al objeto para que",
+    "duration": 4461,
+    "offset": 392039,
+    "lang": "es"
+  },
+  {
+    "text": "gire sin que se desplace en línea recta",
+    "duration": 5520,
+    "offset": 393600,
+    "lang": "es"
+  },
+  {
+    "text": "este punto depende de la forma y",
+    "duration": 4000,
+    "offset": 396500,
+    "lang": "es"
+  },
+  {
+    "text": "distribución de la masa del objeto en",
+    "duration": 3359,
+    "offset": 399120,
+    "lang": "es"
+  },
+  {
+    "text": "general se encuentra cerca del centro de",
+    "duration": 4020,
+    "offset": 400500,
+    "lang": "es"
+  },
+  {
+    "text": "gravedad del objeto pero no",
+    "duration": 3660,
+    "offset": 402479,
+    "lang": "es"
+  },
+  {
+    "text": "necesariamente en el mismo lugar el",
+    "duration": 2820,
+    "offset": 404520,
+    "lang": "es"
+  },
+  {
+    "text": "conocimiento del centro por ser",
+    "duration": 2461,
+    "offset": 406139,
+    "lang": "es"
+  },
+  {
+    "text": "importante en la mecánica y el diseño",
+    "duration": 3299,
+    "offset": 407340,
+    "lang": "es"
+  },
+  {
+    "text": "objeto que necesitan girar sin",
+    "duration": 3240,
+    "offset": 408600,
+    "lang": "es"
+  },
+  {
+    "text": "desplazarse como los instrumentos",
+    "duration": 2881,
+    "offset": 410639,
+    "lang": "es"
+  },
+  {
+    "text": "musicales o los objetos deportivos como",
+    "duration": 3720,
+    "offset": 411840,
+    "lang": "es"
+  },
+  {
+    "text": "los bates de béisbol",
+    "duration": 4260,
+    "offset": 413520,
+    "lang": "es"
+  },
+  {
+    "text": "es el lugar a donde no hay cuando uno",
+    "duration": 5540,
+    "offset": 415560,
+    "lang": "es"
+  },
+  {
+    "text": "golpea ahí no tiene reacción de vínculo",
+    "duration": 7100,
+    "offset": 417780,
+    "lang": "es"
+  },
+  {
+    "text": "o también podemos decir que es el lugar",
+    "duration": 7599,
+    "offset": 421100,
+    "lang": "es"
+  },
+  {
+    "text": "a donde puede rodar sin deslizar Por más",
+    "duration": 7200,
+    "offset": 424880,
+    "lang": "es"
+  },
+  {
+    "text": "que haya rozamiento cero bien",
+    "duration": 6060,
+    "offset": 428699,
+    "lang": "es"
+  },
+  {
+    "text": "pero bueno",
+    "duration": 5679,
+    "offset": 432080,
+    "lang": "es"
+  },
+  {
+    "text": "También tenemos este chat por ahí no le",
+    "duration": 4560,
+    "offset": 434759,
+    "lang": "es"
+  },
+  {
+    "text": "va a dar expresiones matemáticas como",
+    "duration": 3301,
+    "offset": 437759,
+    "lang": "es"
+  },
+  {
+    "text": "hace Mónica",
+    "duration": 4261,
+    "offset": 439319,
+    "lang": "es"
+  },
+  {
+    "text": "pero ambas cosas le pueden servir en el",
+    "duration": 4380,
+    "offset": 441060,
+    "lang": "es"
+  },
+  {
+    "text": "momento que están estudiando para poder",
+    "duration": 4820,
+    "offset": 443580,
+    "lang": "es"
+  },
+  {
+    "text": "hacer algún tipo",
+    "duration": 5400,
+    "offset": 445440,
+    "lang": "es"
+  },
+  {
+    "text": "de resumen y evitar tener que estar",
+    "duration": 5940,
+    "offset": 448400,
+    "lang": "es"
+  },
+  {
+    "text": "leyendo todo el libro no es cierto",
+    "duration": 3500,
+    "offset": 450840,
+    "lang": "es"
+  }
+]

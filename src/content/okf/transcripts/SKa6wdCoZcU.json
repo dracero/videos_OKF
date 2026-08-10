@@ -1,0 +1,596 @@
+[
+  {
+    "text": "Bueno, vamos a mostrar un ejemplo de",
+    "duration": 5999,
+    "offset": 760,
+    "lang": "es"
+  },
+  {
+    "text": "cómo usar eh los nuevos agentes de",
+    "duration": 9039,
+    "offset": 3560,
+    "lang": "es"
+  },
+  {
+    "text": "Google para eh crear eh para poder",
+    "duration": 9321,
+    "offset": 6759,
+    "lang": "es"
+  },
+  {
+    "text": "trabajar con una base de datos e My",
+    "duration": 5561,
+    "offset": 12599,
+    "lang": "es"
+  },
+  {
+    "text": "Sequel Lite, una base de datos SQL.",
+    "duration": 3840,
+    "offset": 16080,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a borrar esto, ya lo hicimos de",
+    "duration": 5640,
+    "offset": 18160,
+    "lang": "es"
+  },
+  {
+    "text": "antes. Fíjense que acá tenemos ADK,",
+    "duration": 6279,
+    "offset": 19920,
+    "lang": "es"
+  },
+  {
+    "text": "Asient Development Kit, los agentes que",
+    "duration": 5520,
+    "offset": 23800,
+    "lang": "es"
+  },
+  {
+    "text": "Google ha lanzado el pasado jueves 10 de",
+    "duration": 4320,
+    "offset": 26199,
+    "lang": "es"
+  },
+  {
+    "text": "abril.",
+    "duration": 4919,
+    "offset": 29320,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá tenemos el MCP Tool. ¿Qué es lo",
+    "duration": 5040,
+    "offset": 30519,
+    "lang": "es"
+  },
+  {
+    "text": "bueno de",
+    "duration": 4761,
+    "offset": 34239,
+    "lang": "es"
+  },
+  {
+    "text": "eso? Tiene ya incorporado un MCP client",
+    "duration": 6441,
+    "offset": 35559,
+    "lang": "es"
+  },
+  {
+    "text": "para comunicarse directamente con el ll",
+    "duration": 4320,
+    "offset": 39000,
+    "lang": "es"
+  },
+  {
+    "text": "host.",
+    "duration": 4879,
+    "offset": 42000,
+    "lang": "es"
+  },
+  {
+    "text": "Y la forma de configurar el tool es",
+    "duration": 6399,
+    "offset": 43320,
+    "lang": "es"
+  },
+  {
+    "text": "simplemente la configuración estándar",
+    "duration": 6281,
+    "offset": 46879,
+    "lang": "es"
+  },
+  {
+    "text": "que da Antropic para sus MCP servers.",
+    "duration": 4961,
+    "offset": 49719,
+    "lang": "es"
+  },
+  {
+    "text": "Realmente es muy",
+    "duration": 3640,
+    "offset": 53160,
+    "lang": "es"
+  },
+  {
+    "text": "sencillo",
+    "duration": 4519,
+    "offset": 54680,
+    "lang": "es"
+  },
+  {
+    "text": "hacerlo. Fíjense que acá estamos",
+    "duration": 4120,
+    "offset": 56800,
+    "lang": "es"
+  },
+  {
+    "text": "definiendo en forma sync, porque siempre",
+    "duration": 3281,
+    "offset": 59199,
+    "lang": "es"
+  },
+  {
+    "text": "se definen syc",
+    "duration": 5720,
+    "offset": 60920,
+    "lang": "es"
+  },
+  {
+    "text": "tools. E acá",
+    "duration": 7080,
+    "offset": 62480,
+    "lang": "es"
+  },
+  {
+    "text": "este creamos el agente. En este caso",
+    "duration": 5560,
+    "offset": 66640,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos un solo agente y le",
+    "duration": 6840,
+    "offset": 69560,
+    "lang": "es"
+  },
+  {
+    "text": "definimos que va a a utilizar la tool",
+    "duration": 7320,
+    "offset": 72200,
+    "lang": "es"
+  },
+  {
+    "text": "que habíamos nombrado más arriba. Y acá,",
+    "duration": 6079,
+    "offset": 76400,
+    "lang": "es"
+  },
+  {
+    "text": "como vemos el agente es este que es un",
+    "duration": 6599,
+    "offset": 79520,
+    "lang": "es"
+  },
+  {
+    "text": "2.0 Flash, pero sabemos muy bien que es",
+    "duration": 7241,
+    "offset": 82479,
+    "lang": "es"
+  },
+  {
+    "text": "multimodelo. Y acá lo que hacemos es",
+    "duration": 4921,
+    "offset": 86119,
+    "lang": "es"
+  },
+  {
+    "text": "crear la",
+    "duration": 3039,
+    "offset": 89720,
+    "lang": "es"
+  },
+  {
+    "text": "sesión",
+    "duration": 3320,
+    "offset": 91040,
+    "lang": "es"
+  },
+  {
+    "text": "del",
+    "duration": 6761,
+    "offset": 92759,
+    "lang": "es"
+  },
+  {
+    "text": "agente y eh lo hacemos funcionar en un",
+    "duration": 8320,
+    "offset": 94360,
+    "lang": "es"
+  },
+  {
+    "text": "en un bucle y ese bucle va a permitir",
+    "duration": 5720,
+    "offset": 99520,
+    "lang": "es"
+  },
+  {
+    "text": "que hagamos distintas trabajos sobre la",
+    "duration": 4240,
+    "offset": 102680,
+    "lang": "es"
+  },
+  {
+    "text": "base de datos, o sea, va a transformar",
+    "duration": 6600,
+    "offset": 105240,
+    "lang": "es"
+  },
+  {
+    "text": "el lenguaje eh natural en comandos SQL",
+    "duration": 6920,
+    "offset": 106920,
+    "lang": "es"
+  },
+  {
+    "text": "que van a ir a través del agente",
+    "duration": 5040,
+    "offset": 111840,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando un MCP Server y MCP client.",
+    "duration": 5319,
+    "offset": 113840,
+    "lang": "es"
+  },
+  {
+    "text": "todo gracias a esta este nuevo",
+    "duration": 3839,
+    "offset": 116880,
+    "lang": "es"
+  },
+  {
+    "text": "lanzamiento que hizo Google. Vamos a",
+    "duration": 3920,
+    "offset": 119159,
+    "lang": "es"
+  },
+  {
+    "text": "verlo",
+    "duration": 2360,
+    "offset": 120719,
+    "lang": "es"
+  },
+  {
+    "text": "funcionar. Acá empieza ahí creó la base",
+    "duration": 5239,
+    "offset": 124000,
+    "lang": "es"
+  },
+  {
+    "text": "de datos que yo recién la había borrado.",
+    "duration": 5320,
+    "offset": 126520,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, y acá consulta para la base de",
+    "duration": 6601,
+    "offset": 129239,
+    "lang": "es"
+  },
+  {
+    "text": "datos. Crea la",
+    "duration": 8000,
+    "offset": 131840,
+    "lang": "es"
+  },
+  {
+    "text": "tabla personas.",
+    "duration": 4000,
+    "offset": 135840,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, no sé si alcanzan a ver porque la",
+    "duration": 5240,
+    "offset": 141680,
+    "lang": "es"
+  },
+  {
+    "text": "salida es un poco, pero ven acá dice",
+    "duration": 4400,
+    "offset": 144360,
+    "lang": "es"
+  },
+  {
+    "text": "crear la tabla ver. Necesito saber las",
+    "duration": 5720,
+    "offset": 146920,
+    "lang": "es"
+  },
+  {
+    "text": "columnas. Bien, entonces dos",
+    "duration": 3880,
+    "offset": 148760,
+    "lang": "es"
+  },
+  {
+    "text": "columnas, dos columnas, nombre",
+    "duration": 7720,
+    "offset": 153080,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 3000,
+    "offset": 157800,
+    "lang": "es"
+  },
+  {
+    "text": "apellido. Bien, fíjense que acá ya",
+    "duration": 6560,
+    "offset": 162200,
+    "lang": "es"
+  },
+  {
+    "text": "muestra cómo lo creo y ya eh lo tiene",
+    "duration": 6520,
+    "offset": 164920,
+    "lang": "es"
+  },
+  {
+    "text": "creado. Bien, todo utilizando el",
+    "duration": 4559,
+    "offset": 168760,
+    "lang": "es"
+  },
+  {
+    "text": "lenguaje natural. Entonces acá le",
+    "duration": 4840,
+    "offset": 171440,
+    "lang": "es"
+  },
+  {
+    "text": "ponemos",
+    "duration": 2961,
+    "offset": 173319,
+    "lang": "es"
+  },
+  {
+    "text": "ingresar",
+    "duration": 3000,
+    "offset": 179800,
+    "lang": "es"
+  },
+  {
+    "text": "PP prueba en la",
+    "duration": 4200,
+    "offset": 183920,
+    "lang": "es"
+  },
+  {
+    "text": "tabla. Ahí le ponemos que ingrese a PP",
+    "duration": 7440,
+    "offset": 189280,
+    "lang": "es"
+  },
+  {
+    "text": "prueba. Evento recibido. Entonces, eh,",
+    "duration": 5680,
+    "offset": 193000,
+    "lang": "es"
+  },
+  {
+    "text": "por favor, especifica los tipos de datos",
+    "duration": 4920,
+    "offset": 196720,
+    "lang": "es"
+  },
+  {
+    "text": "de las columnas. Entonces, nombre acá.",
+    "duration": 5360,
+    "offset": 198680,
+    "lang": "es"
+  },
+  {
+    "text": "Claro.",
+    "duration": 2400,
+    "offset": 201640,
+    "lang": "es"
+  },
+  {
+    "text": "Nombre.",
+    "duration": 3000,
+    "offset": 205360,
+    "lang": "es"
+  },
+  {
+    "text": "Pepe.",
+    "duration": 5920,
+    "offset": 209120,
+    "lang": "es"
+  },
+  {
+    "text": "Apellido.",
+    "duration": 3000,
+    "offset": 212040,
+    "lang": "es"
+  },
+  {
+    "text": "Prueba. Bien. Y entonces acá ya le",
+    "duration": 6039,
+    "offset": 218200,
+    "lang": "es"
+  },
+  {
+    "text": "pasamos nombre,",
+    "duration": 4161,
+    "offset": 222319,
+    "lang": "es"
+  },
+  {
+    "text": "apellido. Necesito la criterio para",
+    "duration": 4041,
+    "offset": 224239,
+    "lang": "es"
+  },
+  {
+    "text": "crear la Tar antes disatar por espec los",
+    "duration": 3640,
+    "offset": 226480,
+    "lang": "es"
+  },
+  {
+    "text": "tipos de datos de las columnas, nombre y",
+    "duration": 5560,
+    "offset": 228280,
+    "lang": "es"
+  },
+  {
+    "text": "apellido. Error, mod, Ging, data. Eh,",
+    "duration": 9080,
+    "offset": 230120,
+    "lang": "es"
+  },
+  {
+    "text": "bien. Entonces son textos.",
+    "duration": 5360,
+    "offset": 233840,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, ahí ya tiene todos los datos y",
+    "duration": 4481,
+    "offset": 242439,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ya acá",
+    "duration": 6280,
+    "offset": 245159,
+    "lang": "es"
+  },
+  {
+    "text": "insertar PP le vamos a decir que",
+    "duration": 4519,
+    "offset": 246920,
+    "lang": "es"
+  },
+  {
+    "text": "sí.",
+    "duration": 4280,
+    "offset": 251560,
+    "lang": "es"
+  },
+  {
+    "text": "Bien,",
+    "duration": 5080,
+    "offset": 253879,
+    "lang": "es"
+  },
+  {
+    "text": "entonces listo dice, \"Hola, ¿qué tal?",
+    "duration": 5919,
+    "offset": 255840,
+    "lang": "es"
+  },
+  {
+    "text": "Buenas tardes. Ya hice en la tabla",
+    "duration": 7001,
+    "offset": 258959,
+    "lang": "es"
+  },
+  {
+    "text": "personas. Eh, Pepe prueba.",
+    "duration": 6241,
+    "offset": 261759,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, buenas tardes, Gonzalo. ¿Se",
+    "duration": 4600,
+    "offset": 265960,
+    "lang": "es"
+  },
+  {
+    "text": "escucha? Se escucha. Sí, sí, me escuchan",
+    "duration": 4360,
+    "offset": 268000,
+    "lang": "es"
+  },
+  {
+    "text": "bien a mí.",
+    "duration": 5960,
+    "offset": 270560,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí pusimos PP prueba y si le",
+    "duration": 7160,
+    "offset": 272360,
+    "lang": "es"
+  },
+  {
+    "text": "ponemos",
+    "duration": 3000,
+    "offset": 276520,
+    "lang": "es"
+  },
+  {
+    "text": "distan los datos de la",
+    "duration": 4280,
+    "offset": 279880,
+    "lang": "es"
+  },
+  {
+    "text": "base. Bien, acá. nombre PP, apellido",
+    "duration": 4600,
+    "offset": 286400,
+    "lang": "es"
+  },
+  {
+    "text": "prueba. Ya",
+    "duration": 4840,
+    "offset": 289639,
+    "lang": "es"
+  },
+  {
+    "text": "tiene, ven como solamente con el MCP",
+    "duration": 5280,
+    "offset": 291000,
+    "lang": "es"
+  },
+  {
+    "text": "Server y estos agentes. Obviamente acá",
+    "duration": 3361,
+    "offset": 294479,
+    "lang": "es"
+  },
+  {
+    "text": "lo estamos haciendo manual, pero",
+    "duration": 3320,
+    "offset": 296280,
+    "lang": "es"
+  },
+  {
+    "text": "podríamos hacer que funcione en forma",
+    "duration": 3680,
+    "offset": 297840,
+    "lang": "es"
+  },
+  {
+    "text": "autónoma.",
+    "duration": 4760,
+    "offset": 299600,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos.",
+    "duration": 2840,
+    "offset": 301520,
+    "lang": "es"
+  }
+]

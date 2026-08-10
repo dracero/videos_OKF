@@ -1,0 +1,1010 @@
+[
+  {
+    "text": "Hola a todos y bienvenidos a Física en",
+    "duration": 5360,
+    "offset": 280,
+    "lang": "es"
+  },
+  {
+    "text": "tu vida. Soy Ana y como siempre me",
+    "duration": 5160,
+    "offset": 2800,
+    "lang": "es"
+  },
+  {
+    "text": "acompaña David para desentrañar los",
+    "duration": 3879,
+    "offset": 5640,
+    "lang": "es"
+  },
+  {
+    "text": "misterios del universo.",
+    "duration": 3639,
+    "offset": 7960,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué tal, Ana? Hoy tenemos un tema que",
+    "duration": 4120,
+    "offset": 9519,
+    "lang": "es"
+  },
+  {
+    "text": "usamos en nuestro lenguaje diario, pero",
+    "duration": 4200,
+    "offset": 11599,
+    "lang": "es"
+  },
+  {
+    "text": "que en física tiene un significado muy",
+    "duration": 5081,
+    "offset": 13639,
+    "lang": "es"
+  },
+  {
+    "text": "preciso. Trabajo y energía.",
+    "duration": 5441,
+    "offset": 15799,
+    "lang": "es"
+  },
+  {
+    "text": "Exacto. Y prometemos llevarlos a un",
+    "duration": 5280,
+    "offset": 18720,
+    "lang": "es"
+  },
+  {
+    "text": "concepto más profundo y elegante. Los",
+    "duration": 5240,
+    "offset": 21240,
+    "lang": "es"
+  },
+  {
+    "text": "campos de fuerza conservativos.",
+    "duration": 5199,
+    "offset": 24000,
+    "lang": "es"
+  },
+  {
+    "text": "Esa palabra conservativo ya suena",
+    "duration": 4639,
+    "offset": 26480,
+    "lang": "es"
+  },
+  {
+    "text": "importante, pero empecemos por el",
+    "duration": 5200,
+    "offset": 29199,
+    "lang": "es"
+  },
+  {
+    "text": "principio. Ana, en física, ¿qué es",
+    "duration": 6321,
+    "offset": 31119,
+    "lang": "es"
+  },
+  {
+    "text": "exactamente el trabajo?",
+    "duration": 5160,
+    "offset": 34399,
+    "lang": "es"
+  },
+  {
+    "text": "Si yo paso todo el día empujando una",
+    "duration": 4480,
+    "offset": 37440,
+    "lang": "es"
+  },
+  {
+    "text": "pared que no se mueve, he trabajado",
+    "duration": 3361,
+    "offset": 39559,
+    "lang": "es"
+  },
+  {
+    "text": "mucho.",
+    "duration": 3760,
+    "offset": 41920,
+    "lang": "es"
+  },
+  {
+    "text": "Te habrás cansado, sin duda, pero en el",
+    "duration": 5240,
+    "offset": 42920,
+    "lang": "es"
+  },
+  {
+    "text": "estricto sentido de la física no habrás",
+    "duration": 4840,
+    "offset": 45680,
+    "lang": "es"
+  },
+  {
+    "text": "realizado ningún trabajo. Para que",
+    "duration": 5000,
+    "offset": 48160,
+    "lang": "es"
+  },
+  {
+    "text": "exista trabajo, una fuerza debe tener un",
+    "duration": 5160,
+    "offset": 50520,
+    "lang": "es"
+  },
+  {
+    "text": "sentido que no sea ortogonal al",
+    "duration": 5320,
+    "offset": 53160,
+    "lang": "es"
+  },
+  {
+    "text": "desplazamiento. Por ejemplo, un bloque",
+    "duration": 5039,
+    "offset": 55680,
+    "lang": "es"
+  },
+  {
+    "text": "que se desliza sobre el piso tiene una",
+    "duration": 4440,
+    "offset": 58480,
+    "lang": "es"
+  },
+  {
+    "text": "normal, pero como la normal es",
+    "duration": 4720,
+    "offset": 60719,
+    "lang": "es"
+  },
+  {
+    "text": "perpendicular al desplazamiento, esta",
+    "duration": 5000,
+    "offset": 62920,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza no realiza trabajo.",
+    "duration": 5521,
+    "offset": 65439,
+    "lang": "es"
+  },
+  {
+    "text": "¿Entendido? El movimiento es clave.",
+    "duration": 5480,
+    "offset": 67920,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, ¿qué es la energía?",
+    "duration": 4640,
+    "offset": 70960,
+    "lang": "es"
+  },
+  {
+    "text": "La energía es la capacidad para realizar",
+    "duration": 4800,
+    "offset": 73400,
+    "lang": "es"
+  },
+  {
+    "text": "ese trabajo. Es como la moneda de cambio",
+    "duration": 5519,
+    "offset": 75600,
+    "lang": "es"
+  },
+  {
+    "text": "del universo para que las cosas ocurran.",
+    "duration": 5239,
+    "offset": 78200,
+    "lang": "es"
+  },
+  {
+    "text": "Tenemos la energía cinética, que es la",
+    "duration": 4521,
+    "offset": 81119,
+    "lang": "es"
+  },
+  {
+    "text": "energía del movimiento, y la energía",
+    "duration": 5161,
+    "offset": 83439,
+    "lang": "es"
+  },
+  {
+    "text": "potencial. que es energía almacenada,",
+    "duration": 4560,
+    "offset": 85640,
+    "lang": "es"
+  },
+  {
+    "text": "lista para ser usada.",
+    "duration": 3440,
+    "offset": 88600,
+    "lang": "es"
+  },
+  {
+    "text": "Como cuando estiras una banda elástica,",
+    "duration": 4239,
+    "offset": 90200,
+    "lang": "es"
+  },
+  {
+    "text": "¿verdad? No se mueve, pero sientes que",
+    "duration": 4480,
+    "offset": 92040,
+    "lang": "es"
+  },
+  {
+    "text": "tiene energía acumulada.",
+    "duration": 4801,
+    "offset": 94439,
+    "lang": "es"
+  },
+  {
+    "text": "Es el ejemplo perfecto. Eso es energía",
+    "duration": 5360,
+    "offset": 96520,
+    "lang": "es"
+  },
+  {
+    "text": "potencial elástica. Y todo esto nos",
+    "duration": 5559,
+    "offset": 99240,
+    "lang": "es"
+  },
+  {
+    "text": "lleva astrotema central. No todas las",
+    "duration": 5400,
+    "offset": 101880,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas manejan esta energía de la misma",
+    "duration": 5280,
+    "offset": 104799,
+    "lang": "es"
+  },
+  {
+    "text": "manera y ahí es donde entran los campos",
+    "duration": 4080,
+    "offset": 107280,
+    "lang": "es"
+  },
+  {
+    "text": "conservativos.",
+    "duration": 4201,
+    "offset": 110079,
+    "lang": "es"
+  },
+  {
+    "text": "¿De acuerdo? Explícanos qué es un campo",
+    "duration": 6759,
+    "offset": 111360,
+    "lang": "es"
+  },
+  {
+    "text": "de fuerza y qué lo hace conservativo.",
+    "duration": 5799,
+    "offset": 114280,
+    "lang": "es"
+  },
+  {
+    "text": "Un campo de fuerza es una región del",
+    "duration": 3721,
+    "offset": 118119,
+    "lang": "es"
+  },
+  {
+    "text": "espacio donde un objeto siente una",
+    "duration": 4040,
+    "offset": 120079,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza. El campo gravitatorio de la",
+    "duration": 4760,
+    "offset": 121840,
+    "lang": "es"
+  },
+  {
+    "text": "Tierra es el más familiar, nos atrae",
+    "duration": 5441,
+    "offset": 124119,
+    "lang": "es"
+  },
+  {
+    "text": "constantemente hacia abajo. Ahora, lo",
+    "duration": 4920,
+    "offset": 126600,
+    "lang": "es"
+  },
+  {
+    "text": "que hace que el campo gravitatorio sea",
+    "duration": 5120,
+    "offset": 129560,
+    "lang": "es"
+  },
+  {
+    "text": "conservativo es una propiedad asombrosa.",
+    "duration": 5040,
+    "offset": 131520,
+    "lang": "es"
+  },
+  {
+    "text": "El trabajo que realiza para mover un",
+    "duration": 4960,
+    "offset": 134680,
+    "lang": "es"
+  },
+  {
+    "text": "objeto entre dos puntos es independiente",
+    "duration": 5920,
+    "offset": 136560,
+    "lang": "es"
+  },
+  {
+    "text": "de la trayectoria. Espera, eso sueña un",
+    "duration": 5280,
+    "offset": 139640,
+    "lang": "es"
+  },
+  {
+    "text": "poco extraño. ¿Quieres decir que no",
+    "duration": 4560,
+    "offset": 142480,
+    "lang": "es"
+  },
+  {
+    "text": "importa el camino que tome?",
+    "duration": 4399,
+    "offset": 144920,
+    "lang": "es"
+  },
+  {
+    "text": "Exacto. Imagina que queremos subir una",
+    "duration": 4479,
+    "offset": 147040,
+    "lang": "es"
+  },
+  {
+    "text": "caja desde la planta baja hasta el",
+    "duration": 4321,
+    "offset": 149319,
+    "lang": "es"
+  },
+  {
+    "text": "quinto piso de un edificio.",
+    "duration": 4360,
+    "offset": 151519,
+    "lang": "es"
+  },
+  {
+    "text": "Puedo subirla en el ascensor en línea",
+    "duration": 4760,
+    "offset": 153640,
+    "lang": "es"
+  },
+  {
+    "text": "recta o puedo subirla por las escaleras",
+    "duration": 5440,
+    "offset": 155879,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo un largo recorrido en zigzag.",
+    "duration": 5520,
+    "offset": 158400,
+    "lang": "es"
+  },
+  {
+    "text": "Perfecto. Si solo consideramos la fuerza",
+    "duration": 5441,
+    "offset": 161319,
+    "lang": "es"
+  },
+  {
+    "text": "de gravedad, el trabajo que esta realiza",
+    "duration": 6080,
+    "offset": 163920,
+    "lang": "es"
+  },
+  {
+    "text": "sobre la caja es exactamente el mismo en",
+    "duration": 5720,
+    "offset": 166760,
+    "lang": "es"
+  },
+  {
+    "text": "ambos casos. A la gravedad no le importa",
+    "duration": 4519,
+    "offset": 170000,
+    "lang": "es"
+  },
+  {
+    "text": "tu recorrido horizontal, solo le",
+    "duration": 4080,
+    "offset": 172480,
+    "lang": "es"
+  },
+  {
+    "text": "interesa el cambio de altura, la",
+    "duration": 4000,
+    "offset": 174519,
+    "lang": "es"
+  },
+  {
+    "text": "distancia vertical entre tu punto de",
+    "duration": 4120,
+    "offset": 176560,
+    "lang": "es"
+  },
+  {
+    "text": "partida y tu punto final.",
+    "duration": 4561,
+    "offset": 178519,
+    "lang": "es"
+  },
+  {
+    "text": "¡Wow! Así que para la gravedad el",
+    "duration": 4919,
+    "offset": 180680,
+    "lang": "es"
+  },
+  {
+    "text": "esfuerzo es el mismo. Eso es la",
+    "duration": 5040,
+    "offset": 183080,
+    "lang": "es"
+  },
+  {
+    "text": "independencia de la trayectoria. ¿Hay",
+    "duration": 5321,
+    "offset": 185599,
+    "lang": "es"
+  },
+  {
+    "text": "alguna otra propiedad? Sí, una que se",
+    "duration": 5759,
+    "offset": 188120,
+    "lang": "es"
+  },
+  {
+    "text": "deriva directamente de esta. El trabajo",
+    "duration": 5480,
+    "offset": 190920,
+    "lang": "es"
+  },
+  {
+    "text": "realizado por una fuerza conservativa a",
+    "duration": 4881,
+    "offset": 193879,
+    "lang": "es"
+  },
+  {
+    "text": "lo largo de una trayectoria cerrada es",
+    "duration": 3720,
+    "offset": 196400,
+    "lang": "es"
+  },
+  {
+    "text": "siempre cero.",
+    "duration": 4399,
+    "offset": 198760,
+    "lang": "es"
+  },
+  {
+    "text": "Es decir, si subo la caja al quinto piso",
+    "duration": 6080,
+    "offset": 200120,
+    "lang": "es"
+  },
+  {
+    "text": "y luego la vuelvo a bajar exactamente al",
+    "duration": 4640,
+    "offset": 203159,
+    "lang": "es"
+  },
+  {
+    "text": "mismo punto de partida,",
+    "duration": 3399,
+    "offset": 206200,
+    "lang": "es"
+  },
+  {
+    "text": "el trabajo total realizado por la",
+    "duration": 4841,
+    "offset": 207799,
+    "lang": "es"
+  },
+  {
+    "text": "gravedad sobre la caja es cero. El",
+    "duration": 4881,
+    "offset": 209599,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo negativo que hizo mientras",
+    "duration": 4400,
+    "offset": 212640,
+    "lang": "es"
+  },
+  {
+    "text": "subías se anula perfectamente con el",
+    "duration": 4479,
+    "offset": 214480,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo positivo que hizo mientras",
+    "duration": 4600,
+    "offset": 217040,
+    "lang": "es"
+  },
+  {
+    "text": "bajabas. Es como si la gravedad te",
+    "duration": 5840,
+    "offset": 218959,
+    "lang": "es"
+  },
+  {
+    "text": "devolviera toda la energía. Nada se",
+    "duration": 4679,
+    "offset": 221640,
+    "lang": "es"
+  },
+  {
+    "text": "pierde en el proceso.",
+    "duration": 3681,
+    "offset": 224799,
+    "lang": "es"
+  },
+  {
+    "text": "Nada se pierde. Ahí está la palabra",
+    "duration": 5801,
+    "offset": 226319,
+    "lang": "es"
+  },
+  {
+    "text": "clave, conservar. Y supongo que aquí es",
+    "duration": 5640,
+    "offset": 228480,
+    "lang": "es"
+  },
+  {
+    "text": "donde conectamos de nuevo con la energía",
+    "duration": 3119,
+    "offset": 232120,
+    "lang": "es"
+  },
+  {
+    "text": "potencial.",
+    "duration": 3640,
+    "offset": 234120,
+    "lang": "es"
+  },
+  {
+    "text": "Has dado en el clavo. A cada fuerza",
+    "duration": 4881,
+    "offset": 235239,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa podemos asociarle una",
+    "duration": 4319,
+    "offset": 237760,
+    "lang": "es"
+  },
+  {
+    "text": "energía potencial.",
+    "duration": 4640,
+    "offset": 240120,
+    "lang": "es"
+  },
+  {
+    "text": "Esa energía es básicamente el trabajo",
+    "duration": 5240,
+    "offset": 242079,
+    "lang": "es"
+  },
+  {
+    "text": "almacenado. Cuando levantas la caja en",
+    "duration": 5080,
+    "offset": 244760,
+    "lang": "es"
+  },
+  {
+    "text": "contra de la gravedad, ese trabajo no",
+    "duration": 5081,
+    "offset": 247319,
+    "lang": "es"
+  },
+  {
+    "text": "desaparece, se almacena como energía",
+    "duration": 4520,
+    "offset": 249840,
+    "lang": "es"
+  },
+  {
+    "text": "potencial gravitatoria.",
+    "duration": 4880,
+    "offset": 252400,
+    "lang": "es"
+  },
+  {
+    "text": "Y si la suelto, esa energía potencial se",
+    "duration": 5399,
+    "offset": 254360,
+    "lang": "es"
+  },
+  {
+    "text": "convierte de nuevo en energía cinética",
+    "duration": 6160,
+    "offset": 257280,
+    "lang": "es"
+  },
+  {
+    "text": "mientras cae. Todo encaja. Entonces, ¿la",
+    "duration": 6241,
+    "offset": 259759,
+    "lang": "es"
+  },
+  {
+    "text": "gravedad es conservativa? ¿Qué otros",
+    "duration": 4120,
+    "offset": 263440,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplos hay?",
+    "duration": 3960,
+    "offset": 266000,
+    "lang": "es"
+  },
+  {
+    "text": "La fuerza elástica de un resorte ideal y",
+    "duration": 4479,
+    "offset": 267560,
+    "lang": "es"
+  },
+  {
+    "text": "la fuerza electrostática entre cargas",
+    "duration": 4799,
+    "offset": 269960,
+    "lang": "es"
+  },
+  {
+    "text": "eléctricas también son conservativas.",
+    "duration": 5521,
+    "offset": 272039,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, pero si en la vida real muevo una",
+    "duration": 5201,
+    "offset": 274759,
+    "lang": "es"
+  },
+  {
+    "text": "caja pesada, siento que sí pierdo",
+    "duration": 4760,
+    "offset": 277560,
+    "lang": "es"
+  },
+  {
+    "text": "energía, especialmente si tomo un camino",
+    "duration": 5120,
+    "offset": 279960,
+    "lang": "es"
+  },
+  {
+    "text": "más largo. ¿Qué pasa ahí? Lo que sientes",
+    "duration": 4319,
+    "offset": 282320,
+    "lang": "es"
+  },
+  {
+    "text": "es el efecto de una fuerza no",
+    "duration": 4000,
+    "offset": 285080,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa, el rozamiento. A",
+    "duration": 4481,
+    "offset": 286639,
+    "lang": "es"
+  },
+  {
+    "text": "diferencia de la gravedad, el trabajo",
+    "duration": 4480,
+    "offset": 289080,
+    "lang": "es"
+  },
+  {
+    "text": "que realizas contra el rozamiento sí",
+    "duration": 5079,
+    "offset": 291120,
+    "lang": "es"
+  },
+  {
+    "text": "depende del camino. Un camino más largo",
+    "duration": 5199,
+    "offset": 293560,
+    "lang": "es"
+  },
+  {
+    "text": "significa más distancia de rozamiento y",
+    "duration": 5481,
+    "offset": 296199,
+    "lang": "es"
+  },
+  {
+    "text": "por tanto más trabajo realizado.",
+    "duration": 5801,
+    "offset": 298759,
+    "lang": "es"
+  },
+  {
+    "text": "Entiendo la diferencia, pero ¿por qué es",
+    "duration": 5600,
+    "offset": 301680,
+    "lang": "es"
+  },
+  {
+    "text": "tan importante distinguir entre fuerzas",
+    "duration": 6560,
+    "offset": 304560,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas y no conservativas? porque",
+    "duration": 6280,
+    "offset": 307280,
+    "lang": "es"
+  },
+  {
+    "text": "nos lleva a uno de los principios más",
+    "duration": 4840,
+    "offset": 311120,
+    "lang": "es"
+  },
+  {
+    "text": "poderosos de la física, la ley de",
+    "duration": 5160,
+    "offset": 313560,
+    "lang": "es"
+  },
+  {
+    "text": "conservación de la energía mecánica. El",
+    "duration": 5640,
+    "offset": 315960,
+    "lang": "es"
+  },
+  {
+    "text": "gran premio de la explicación. Exacto.",
+    "duration": 5400,
+    "offset": 318720,
+    "lang": "es"
+  },
+  {
+    "text": "Esta ley dice que si en un sistema solo",
+    "duration": 5200,
+    "offset": 321600,
+    "lang": "es"
+  },
+  {
+    "text": "actúan fuerzas conservativas, la energía",
+    "duration": 5160,
+    "offset": 324120,
+    "lang": "es"
+  },
+  {
+    "text": "mecánica total, que es la suma de la",
+    "duration": 5440,
+    "offset": 326800,
+    "lang": "es"
+  },
+  {
+    "text": "kinética más la potencial, se mantiene",
+    "duration": 5080,
+    "offset": 329280,
+    "lang": "es"
+  },
+  {
+    "text": "absolutamente constante.",
+    "duration": 4799,
+    "offset": 332240,
+    "lang": "es"
+  },
+  {
+    "text": "O sea, la energía puede transformarse de",
+    "duration": 5679,
+    "offset": 334360,
+    "lang": "es"
+  },
+  {
+    "text": "potencial a quinética y viceversa, pero",
+    "duration": 6081,
+    "offset": 337039,
+    "lang": "es"
+  },
+  {
+    "text": "la cantidad total nunca cambia. Como una",
+    "duration": 5880,
+    "offset": 340039,
+    "lang": "es"
+  },
+  {
+    "text": "montaña rusa ideal sin fricción.",
+    "duration": 5600,
+    "offset": 343120,
+    "lang": "es"
+  },
+  {
+    "text": "Es la analogía perfecta. En la cima casi",
+    "duration": 5041,
+    "offset": 345919,
+    "lang": "es"
+  },
+  {
+    "text": "todo es energía potencial. A medida que",
+    "duration": 4280,
+    "offset": 348720,
+    "lang": "es"
+  },
+  {
+    "text": "baja, esa energía se transforma en",
+    "duration": 4840,
+    "offset": 350960,
+    "lang": "es"
+  },
+  {
+    "text": "kinética y el carro gana velocidad. Al",
+    "duration": 4759,
+    "offset": 353000,
+    "lang": "es"
+  },
+  {
+    "text": "subir la siguiente cuesta, la energía",
+    "duration": 3720,
+    "offset": 355800,
+    "lang": "es"
+  },
+  {
+    "text": "cinética vuelve a convertirse en",
+    "duration": 5000,
+    "offset": 357759,
+    "lang": "es"
+  },
+  {
+    "text": "potencial. La energía total es la misma",
+    "duration": 5320,
+    "offset": 359520,
+    "lang": "es"
+  },
+  {
+    "text": "en cada punto del recorrido.",
+    "duration": 3761,
+    "offset": 362759,
+    "lang": "es"
+  },
+  {
+    "text": "Es una herramienta increíblemente",
+    "duration": 3919,
+    "offset": 364840,
+    "lang": "es"
+  },
+  {
+    "text": "poderosa para analizar el mundo. Nos",
+    "duration": 3959,
+    "offset": 366520,
+    "lang": "es"
+  },
+  {
+    "text": "permite entender el movimiento de los",
+    "duration": 3681,
+    "offset": 368759,
+    "lang": "es"
+  },
+  {
+    "text": "planetas, el funcionamiento de un",
+    "duration": 4521,
+    "offset": 370479,
+    "lang": "es"
+  },
+  {
+    "text": "péndulo o el bote de una pelota.",
+    "duration": 4920,
+    "offset": 372440,
+    "lang": "es"
+  },
+  {
+    "text": "Así es. Para resumir, las fuerzas",
+    "duration": 4520,
+    "offset": 375000,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas como la gravedad guardan",
+    "duration": 4839,
+    "offset": 377360,
+    "lang": "es"
+  },
+  {
+    "text": "la energía como energía potencial y no",
+    "duration": 5519,
+    "offset": 379520,
+    "lang": "es"
+  },
+  {
+    "text": "dependen de la trayectoria. Las fuerzas",
+    "duration": 5681,
+    "offset": 382199,
+    "lang": "es"
+  },
+  {
+    "text": "no conservativas como el rozamiento, la",
+    "duration": 6000,
+    "offset": 385039,
+    "lang": "es"
+  },
+  {
+    "text": "disipan y sí dependen del camino. Y",
+    "duration": 5200,
+    "offset": 387880,
+    "lang": "es"
+  },
+  {
+    "text": "gracias a las primeras tenemos el",
+    "duration": 4321,
+    "offset": 391039,
+    "lang": "es"
+  },
+  {
+    "text": "hermoso principio de la conservación de",
+    "duration": 3480,
+    "offset": 393080,
+    "lang": "es"
+  },
+  {
+    "text": "la energía.",
+    "duration": 3760,
+    "offset": 395360,
+    "lang": "es"
+  },
+  {
+    "text": "Fascinante. Una idea que una vez que la",
+    "duration": 5440,
+    "offset": 396560,
+    "lang": "es"
+  },
+  {
+    "text": "entendés, la ves en todas partes.",
+    "duration": 5799,
+    "offset": 399120,
+    "lang": "es"
+  },
+  {
+    "text": "Gracias Ana por aclararlo también.",
+    "duration": 5039,
+    "offset": 402000,
+    "lang": "es"
+  },
+  {
+    "text": "Un placer, David. Y gracias a todos",
+    "duration": 4361,
+    "offset": 404919,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes por acompañarnos en Física en tu",
+    "duration": 4600,
+    "offset": 407039,
+    "lang": "es"
+  },
+  {
+    "text": "vida.",
+    "duration": 2359,
+    "offset": 409280,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "text": "les había hablado en mi último vídeo de",
+    "duration": 6260,
+    "offset": 1030,
+    "lang": "es"
+  },
+  {
+    "text": "diferentes webs que servían para",
+    "duration": 7081,
+    "offset": 4149,
+    "lang": "es"
+  },
+  {
+    "text": "aprender a desarrollar con hongos en",
+    "duration": 5379,
+    "offset": 7290,
+    "lang": "es"
+  },
+  {
+    "text": "este sentido hay dos cosas que son muy",
+    "duration": 5120,
+    "offset": 11230,
+    "lang": "es"
+  },
+  {
+    "text": "importantes primero ustedes tienen que",
+    "duration": 7561,
+    "offset": 12669,
+    "lang": "es"
+  },
+  {
+    "text": "aprender cosas básicas del lenguaje como",
+    "duration": 7270,
+    "offset": 16350,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo las estructuras de datos las",
+    "duration": 6120,
+    "offset": 20230,
+    "lang": "es"
+  },
+  {
+    "text": "variables los bucles las mismas acciones",
+    "duration": 6600,
+    "offset": 23620,
+    "lang": "es"
+  },
+  {
+    "text": "condicionales existen lenguajes que son",
+    "duration": 6060,
+    "offset": 26350,
+    "lang": "es"
+  },
+  {
+    "text": "lenguajes descriptivos lenguajes para",
+    "duration": 4880,
+    "offset": 30220,
+    "lang": "es"
+  },
+  {
+    "text": "hacer realmente programación como nou y",
+    "duration": 6899,
+    "offset": 32410,
+    "lang": "es"
+  },
+  {
+    "text": "javascript react golán que es este que",
+    "duration": 6639,
+    "offset": 35100,
+    "lang": "es"
+  },
+  {
+    "text": "estamos viendo ahora en code academy",
+    "duration": 6440,
+    "offset": 39309,
+    "lang": "es"
+  },
+  {
+    "text": "donde ustedes tienen que implementar",
+    "duration": 7050,
+    "offset": 41739,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmos tienen que implementar cosas",
+    "duration": 5790,
+    "offset": 45749,
+    "lang": "es"
+  },
+  {
+    "text": "que se repiten sistemáticamente según",
+    "duration": 5761,
+    "offset": 48789,
+    "lang": "es"
+  },
+  {
+    "text": "determinadas acciones o parámetros",
+    "duration": 6311,
+    "offset": 51539,
+    "lang": "es"
+  },
+  {
+    "text": "en cambio existen lenguajes como el css",
+    "duration": 7050,
+    "offset": 54550,
+    "lang": "es"
+  },
+  {
+    "text": "el html que en realidad lo que hacen es",
+    "duration": 7110,
+    "offset": 57850,
+    "lang": "es"
+  },
+  {
+    "text": "dar formato visual por ejemplo yo con",
+    "duration": 7680,
+    "offset": 61600,
+    "lang": "es"
+  },
+  {
+    "text": "html y css html le digo al intérprete",
+    "duration": 6900,
+    "offset": 64960,
+    "lang": "es"
+  },
+  {
+    "text": "del browser que voy a poner un botón con",
+    "duration": 5460,
+    "offset": 69280,
+    "lang": "es"
+  },
+  {
+    "text": "css le digo los colores y los tamaños de",
+    "duration": 5790,
+    "offset": 71860,
+    "lang": "es"
+  },
+  {
+    "text": "las letras el tamaño del botón el color",
+    "duration": 6960,
+    "offset": 74740,
+    "lang": "es"
+  },
+  {
+    "text": "de fondo y con javascript o con o si",
+    "duration": 6900,
+    "offset": 77650,
+    "lang": "es"
+  },
+  {
+    "text": "esto tablets con python con gola lo que",
+    "duration": 6630,
+    "offset": 81700,
+    "lang": "es"
+  },
+  {
+    "text": "yo les digo es que hacer cuando alguien",
+    "duration": 6560,
+    "offset": 84550,
+    "lang": "es"
+  },
+  {
+    "text": "presiona el botón que hacer si alguien",
+    "duration": 5940,
+    "offset": 88330,
+    "lang": "es"
+  },
+  {
+    "text": "pone el cursor sobre el botón que hacer",
+    "duration": 5289,
+    "offset": 91110,
+    "lang": "es"
+  },
+  {
+    "text": "si alguien por el cursor dos veces sobre",
+    "duration": 6450,
+    "offset": 94270,
+    "lang": "es"
+  },
+  {
+    "text": "el botón o sea todo lo que que es lo que",
+    "duration": 7080,
+    "offset": 96399,
+    "lang": "es"
+  },
+  {
+    "text": "hay que hacer lo hago con los lenguajes",
+    "duration": 4850,
+    "offset": 100720,
+    "lang": "es"
+  },
+  {
+    "text": "scripting",
+    "duration": 4680,
+    "offset": 103479,
+    "lang": "es"
+  },
+  {
+    "text": "entonces no solamente es importante",
+    "duration": 4869,
+    "offset": 105570,
+    "lang": "es"
+  },
+  {
+    "text": "aprender el lenguaje y sus estructuras",
+    "duration": 4320,
+    "offset": 108159,
+    "lang": "es"
+  },
+  {
+    "text": "de control",
+    "duration": 4201,
+    "offset": 110439,
+    "lang": "es"
+  },
+  {
+    "text": "es la definición de variables sus",
+    "duration": 4441,
+    "offset": 112479,
+    "lang": "es"
+  },
+  {
+    "text": "estructuras de datos sino que también",
+    "duration": 3930,
+    "offset": 114640,
+    "lang": "es"
+  },
+  {
+    "text": "hay otra parte importante que es",
+    "duration": 4680,
+    "offset": 116920,
+    "lang": "es"
+  },
+  {
+    "text": "aprender algoritmos para comenzar un",
+    "duration": 5280,
+    "offset": 118570,
+    "lang": "es"
+  },
+  {
+    "text": "poco a aprender algoritmos y para",
+    "duration": 5400,
+    "offset": 121600,
+    "lang": "es"
+  },
+  {
+    "text": "comenzar un poco aprender cómo aprender",
+    "duration": 6570,
+    "offset": 123850,
+    "lang": "es"
+  },
+  {
+    "text": "la sintaxis la forma en la tenda que se",
+    "duration": 5940,
+    "offset": 127000,
+    "lang": "es"
+  },
+  {
+    "text": "puede escribir el lenguaje code academy",
+    "duration": 4980,
+    "offset": 130420,
+    "lang": "es"
+  },
+  {
+    "text": "es muy buen lugar como ya les había",
+    "duration": 4290,
+    "offset": 132940,
+    "lang": "es"
+  },
+  {
+    "text": "dicho este que estoy haciendo por",
+    "duration": 3930,
+    "offset": 135400,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo es un curso gratis y los que",
+    "duration": 4259,
+    "offset": 137230,
+    "lang": "es"
+  },
+  {
+    "text": "dicen proveen qué países trae pro for",
+    "duration": 4080,
+    "offset": 139330,
+    "lang": "es"
+  },
+  {
+    "text": "free los que dicen protect y den que",
+    "duration": 5851,
+    "offset": 141489,
+    "lang": "es"
+  },
+  {
+    "text": "ingreses una tarjeta de crédito bien",
+    "duration": 6000,
+    "offset": 143410,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver un pequeño ejemplo por acá",
+    "duration": 4080,
+    "offset": 147340,
+    "lang": "es"
+  },
+  {
+    "text": "acá lo que me está pidiendo es que en la",
+    "duration": 6750,
+    "offset": 149410,
+    "lang": "es"
+  },
+  {
+    "text": "terminal escriba esto y después presione",
+    "duration": 8599,
+    "offset": 151420,
+    "lang": "es"
+  },
+  {
+    "text": "enter entonces vamos a escribir",
+    "duration": 3859,
+    "offset": 156160,
+    "lang": "es"
+  },
+  {
+    "text": "bill",
+    "duration": 6820,
+    "offset": 160490,
+    "lang": "es"
+  },
+  {
+    "text": "punto wow y presionamos en inter",
+    "duration": 6940,
+    "offset": 163040,
+    "lang": "es"
+  },
+  {
+    "text": "bien fíjense como a medida que vamos",
+    "duration": 4440,
+    "offset": 167310,
+    "lang": "es"
+  },
+  {
+    "text": "cumpliendo las pautas que nos va",
+    "duration": 5280,
+    "offset": 169980,
+    "lang": "es"
+  },
+  {
+    "text": "pidiendo no va habilitando nuevas cosas",
+    "duration": 6270,
+    "offset": 171750,
+    "lang": "es"
+  },
+  {
+    "text": "para hacer bien ahora lo que dice es que",
+    "duration": 6089,
+    "offset": 175260,
+    "lang": "es"
+  },
+  {
+    "text": "escriben es que vamos punto barra name y",
+    "duration": 6329,
+    "offset": 178020,
+    "lang": "es"
+  },
+  {
+    "text": "expresión además está fíjense que acá",
+    "duration": 7131,
+    "offset": 181349,
+    "lang": "es"
+  },
+  {
+    "text": "hicimos eso y nos aparece",
+    "duration": 6621,
+    "offset": 184349,
+    "lang": "es"
+  },
+  {
+    "text": "esto estaba acá para imprimir que es",
+    "duration": 5130,
+    "offset": 188480,
+    "lang": "es"
+  },
+  {
+    "text": "hello word y fíjense que el botón next",
+    "duration": 5099,
+    "offset": 190970,
+    "lang": "es"
+  },
+  {
+    "text": "se ilumina porque una vez que ya",
+    "duration": 4590,
+    "offset": 193610,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros cumplimos con esta primera",
+    "duration": 5581,
+    "offset": 196069,
+    "lang": "es"
+  },
+  {
+    "text": "parte y nos da la posibilidad de pasar a",
+    "duration": 5310,
+    "offset": 198200,
+    "lang": "es"
+  },
+  {
+    "text": "la etapa siguiente o al nivel siguiente",
+    "duration": 5130,
+    "offset": 201650,
+    "lang": "es"
+  },
+  {
+    "text": "a donde vamos a seguir aprendiendo qué",
+    "duration": 6390,
+    "offset": 203510,
+    "lang": "es"
+  },
+  {
+    "text": "hacer con nuestro lenguaje además de",
+    "duration": 7289,
+    "offset": 206780,
+    "lang": "es"
+  },
+  {
+    "text": "code academic tenemos otros recursos que",
+    "duration": 6929,
+    "offset": 209900,
+    "lang": "es"
+  },
+  {
+    "text": "no son tan gratuitos en realidad",
+    "duration": 5131,
+    "offset": 214069,
+    "lang": "es"
+  },
+  {
+    "text": "solamente tienen algunas pequeñas partes",
+    "duration": 5341,
+    "offset": 216829,
+    "lang": "es"
+  },
+  {
+    "text": "que son gratuitas que nos preparan para",
+    "duration": 5039,
+    "offset": 219200,
+    "lang": "es"
+  },
+  {
+    "text": "dos cosas primero nos enseñan a",
+    "duration": 5159,
+    "offset": 222170,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollar algoritmos por ejemplo",
+    "duration": 6951,
+    "offset": 224239,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmos para ordenar algoritmos para",
+    "duration": 6981,
+    "offset": 227329,
+    "lang": "es"
+  },
+  {
+    "text": "para este poner de mayor a menor",
+    "duration": 5590,
+    "offset": 231190,
+    "lang": "es"
+  },
+  {
+    "text": "distintos tipos de algoritmos también",
+    "duration": 4299,
+    "offset": 234310,
+    "lang": "es"
+  },
+  {
+    "text": "para conectarse en red distintos",
+    "duration": 3970,
+    "offset": 236780,
+    "lang": "es"
+  },
+  {
+    "text": "protocolos",
+    "duration": 6611,
+    "offset": 238609,
+    "lang": "es"
+  },
+  {
+    "text": "y aparte de eso nos explican algunos de",
+    "duration": 8340,
+    "offset": 240750,
+    "lang": "es"
+  },
+  {
+    "text": "los desafíos o de los problemas más",
+    "duration": 6450,
+    "offset": 245220,
+    "lang": "es"
+  },
+  {
+    "text": "comunes que toman cuando hacen las",
+    "duration": 4470,
+    "offset": 249090,
+    "lang": "es"
+  },
+  {
+    "text": "entrevistas distintas empresas de",
+    "duration": 4409,
+    "offset": 251670,
+    "lang": "es"
+  },
+  {
+    "text": "software por ejemplo microsoft google",
+    "duration": 4679,
+    "offset": 253560,
+    "lang": "es"
+  },
+  {
+    "text": "facebook",
+    "duration": 6400,
+    "offset": 256079,
+    "lang": "es"
+  },
+  {
+    "text": "uno de ellos es educativo muy bueno",
+    "duration": 8271,
+    "offset": 258239,
+    "lang": "es"
+  },
+  {
+    "text": "se parece mucho a code academy pero como",
+    "duration": 6401,
+    "offset": 262479,
+    "lang": "es"
+  },
+  {
+    "text": "ven las que tienen el candadito son las",
+    "duration": 7110,
+    "offset": 266510,
+    "lang": "es"
+  },
+  {
+    "text": "que no son free y hay que pagar 9",
+    "duration": 6810,
+    "offset": 268880,
+    "lang": "es"
+  },
+  {
+    "text": "dólares pero bueno para el país nuestro",
+    "duration": 4380,
+    "offset": 273620,
+    "lang": "es"
+  },
+  {
+    "text": "para argentina 9 dólares es bastante",
+    "duration": 5970,
+    "offset": 275690,
+    "lang": "es"
+  },
+  {
+    "text": "dinero check out a donde hay que pagar",
+    "duration": 7320,
+    "offset": 278000,
+    "lang": "es"
+  },
+  {
+    "text": "82 dólares para ver los problemas y algo",
+    "duration": 6210,
+    "offset": 281660,
+    "lang": "es"
+  },
+  {
+    "text": "experto que se puede ver en algún caso",
+    "duration": 6960,
+    "offset": 285320,
+    "lang": "es"
+  },
+  {
+    "text": "gratis y después para la mayor parte hay",
+    "duration": 8700,
+    "offset": 287870,
+    "lang": "es"
+  },
+  {
+    "text": "que pagar pero fíjense que acá están los",
+    "duration": 6150,
+    "offset": 292280,
+    "lang": "es"
+  },
+  {
+    "text": "algoritmos por ejemplo búsqueda en",
+    "duration": 4710,
+    "offset": 296570,
+    "lang": "es"
+  },
+  {
+    "text": "profundidad el mínimo tiempo de espera",
+    "duration": 6510,
+    "offset": 298430,
+    "lang": "es"
+  },
+  {
+    "text": "el número n de una serie de fibonacci el",
+    "duration": 6600,
+    "offset": 301280,
+    "lang": "es"
+  },
+  {
+    "text": "producto de la suma búsqueda binaria ve",
+    "duration": 6990,
+    "offset": 304940,
+    "lang": "es"
+  },
+  {
+    "text": "están en distintos niveles y aparte de",
+    "duration": 7170,
+    "offset": 307880,
+    "lang": "es"
+  },
+  {
+    "text": "eso tiene también código de entrevistas",
+    "duration": 5160,
+    "offset": 311930,
+    "lang": "es"
+  },
+  {
+    "text": "de código que toman en las entrevistas",
+    "duration": 3960,
+    "offset": 315050,
+    "lang": "es"
+  },
+  {
+    "text": "como les mencionaba alguna de las",
+    "duration": 4530,
+    "offset": 317090,
+    "lang": "es"
+  },
+  {
+    "text": "empresas más famosas estos no son gratis",
+    "duration": 6060,
+    "offset": 319010,
+    "lang": "es"
+  },
+  {
+    "text": "pero bien una vez que ustedes hacen los",
+    "duration": 7019,
+    "offset": 321620,
+    "lang": "es"
+  },
+  {
+    "text": "cursos de code academy practican",
+    "duration": 5909,
+    "offset": 325070,
+    "lang": "es"
+  },
+  {
+    "text": "tener una experta es como para poder",
+    "duration": 4560,
+    "offset": 328639,
+    "lang": "es"
+  },
+  {
+    "text": "largarse hacer entrevistas tranquilos",
+    "duration": 5970,
+    "offset": 330979,
+    "lang": "es"
+  },
+  {
+    "text": "alguna empresa de software es importante",
+    "duration": 6020,
+    "offset": 333199,
+    "lang": "es"
+  },
+  {
+    "text": "qué",
+    "duration": 2270,
+    "offset": 336949,
+    "lang": "es"
+  },
+  {
+    "text": "tal vez hagan tal exámenes en algunos de",
+    "duration": 7859,
+    "offset": 339740,
+    "lang": "es"
+  },
+  {
+    "text": "estas webs recuerden algo expert",
+    "duration": 8241,
+    "offset": 343789,
+    "lang": "es"
+  },
+  {
+    "text": "checkout y educativo",
+    "duration": 4431,
+    "offset": 347599,
+    "lang": "es"
+  }
+]

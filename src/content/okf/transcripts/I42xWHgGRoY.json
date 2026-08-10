@@ -1,0 +1,1838 @@
+[
+  {
+    "text": "Acá vemos funcionando el prototipo. Es",
+    "duration": 6240,
+    "offset": 2200,
+    "lang": "es"
+  },
+  {
+    "text": "un prototipo full stack. Eh, el frontend",
+    "duration": 5719,
+    "offset": 4880,
+    "lang": "es"
+  },
+  {
+    "text": "está hecho en Nickest, el backend está",
+    "duration": 4239,
+    "offset": 8440,
+    "lang": "es"
+  },
+  {
+    "text": "hecho en Python, tiene un orquestador",
+    "duration": 5361,
+    "offset": 10599,
+    "lang": "es"
+  },
+  {
+    "text": "con un framework denominado BAI y",
+    "duration": 6440,
+    "offset": 12679,
+    "lang": "es"
+  },
+  {
+    "text": "después tiene tres agentes. Dos agentes",
+    "duration": 5479,
+    "offset": 15960,
+    "lang": "es"
+  },
+  {
+    "text": "no hacen nada,",
+    "duration": 5240,
+    "offset": 19119,
+    "lang": "es"
+  },
+  {
+    "text": "tienen el framework CRUI y ADK. Y hay",
+    "duration": 6321,
+    "offset": 21439,
+    "lang": "es"
+  },
+  {
+    "text": "otra agente ADK",
+    "duration": 5561,
+    "offset": 24359,
+    "lang": "es"
+  },
+  {
+    "text": "tutor socrático de física. ¿Cuál es la",
+    "duration": 4040,
+    "offset": 27760,
+    "lang": "es"
+  },
+  {
+    "text": "idea de poner estos agentes que no hacen",
+    "duration": 5639,
+    "offset": 29920,
+    "lang": "es"
+  },
+  {
+    "text": "nada? Los demi agent, los dum.",
+    "duration": 5960,
+    "offset": 31800,
+    "lang": "es"
+  },
+  {
+    "text": "La la idea del demi agent simplemente es",
+    "duration": 5840,
+    "offset": 35559,
+    "lang": "es"
+  },
+  {
+    "text": "mostrarle al usuario que los el",
+    "duration": 6000,
+    "offset": 37760,
+    "lang": "es"
+  },
+  {
+    "text": "orquestador en función del mensaje del",
+    "duration": 4601,
+    "offset": 41399,
+    "lang": "es"
+  },
+  {
+    "text": "usuario puede discriminar a qué agente",
+    "duration": 6080,
+    "offset": 43760,
+    "lang": "es"
+  },
+  {
+    "text": "enviar el mensaje. Y como vamos a ver,",
+    "duration": 6879,
+    "offset": 46000,
+    "lang": "es"
+  },
+  {
+    "text": "este es el frontend. En el frontend",
+    "duration": 6640,
+    "offset": 49840,
+    "lang": "es"
+  },
+  {
+    "text": "podemos ver que tenemos tres agentes.",
+    "duration": 6881,
+    "offset": 52879,
+    "lang": "es"
+  },
+  {
+    "text": "Estos agentes tienen una URL que hoy es",
+    "duration": 5559,
+    "offset": 56480,
+    "lang": "es"
+  },
+  {
+    "text": "la de mi máquina, pero esa URL podría",
+    "duration": 5439,
+    "offset": 59760,
+    "lang": "es"
+  },
+  {
+    "text": "ser una URL pública y estos agentes",
+    "duration": 5720,
+    "offset": 62039,
+    "lang": "es"
+  },
+  {
+    "text": "estar geográficamente distribuidos. Lo",
+    "duration": 4201,
+    "offset": 65199,
+    "lang": "es"
+  },
+  {
+    "text": "mismo el orquestador, lo mismo el",
+    "duration": 4241,
+    "offset": 67759,
+    "lang": "es"
+  },
+  {
+    "text": "frontend. ¿Qué ventaja tendría yo con",
+    "duration": 5000,
+    "offset": 69400,
+    "lang": "es"
+  },
+  {
+    "text": "eso? Bien, la ventaja enorme que tendría",
+    "duration": 4720,
+    "offset": 72000,
+    "lang": "es"
+  },
+  {
+    "text": "con eso es que podría estar toda la",
+    "duration": 4359,
+    "offset": 74400,
+    "lang": "es"
+  },
+  {
+    "text": "capacidad de procesamiento distribuida y",
+    "duration": 3719,
+    "offset": 76720,
+    "lang": "es"
+  },
+  {
+    "text": "arraría un montón de dinero en el",
+    "duration": 3481,
+    "offset": 78759,
+    "lang": "es"
+  },
+  {
+    "text": "deployment.",
+    "duration": 4281,
+    "offset": 80439,
+    "lang": "es"
+  },
+  {
+    "text": "Y además todo estaría manejado a través",
+    "duration": 4519,
+    "offset": 82240,
+    "lang": "es"
+  },
+  {
+    "text": "del protocolo agent to agent, que es un",
+    "duration": 4280,
+    "offset": 84720,
+    "lang": "es"
+  },
+  {
+    "text": "protocolo que permite comunicación entre",
+    "duration": 5521,
+    "offset": 86759,
+    "lang": "es"
+  },
+  {
+    "text": "agentes y no tendría que haber ningún",
+    "duration": 5479,
+    "offset": 89000,
+    "lang": "es"
+  },
+  {
+    "text": "tipo de intervención ni nada para",
+    "duration": 5640,
+    "offset": 92280,
+    "lang": "es"
+  },
+  {
+    "text": "seleccionar a quién dirigir el mensaje.",
+    "duration": 6280,
+    "offset": 94479,
+    "lang": "es"
+  },
+  {
+    "text": "Acá, por ejemplo, tenemos un agente",
+    "duration": 5960,
+    "offset": 97920,
+    "lang": "es"
+  },
+  {
+    "text": "generador de imágenes. Si le digo, \"¿Me",
+    "duration": 10640,
+    "offset": 100759,
+    "lang": "es"
+  },
+  {
+    "text": "podés generar la imagen de un astro?",
+    "duration": 10519,
+    "offset": 103880,
+    "lang": "es"
+  },
+  {
+    "text": "Uta",
+    "duration": 3000,
+    "offset": 111399,
+    "lang": "es"
+  },
+  {
+    "text": "en bicicleta",
+    "duration": 3680,
+    "offset": 114520,
+    "lang": "es"
+  },
+  {
+    "text": "no va a generar nada, pero lo que va a",
+    "duration": 3839,
+    "offset": 120600,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es le va a mandar el mensaje.",
+    "duration": 5360,
+    "offset": 122640,
+    "lang": "es"
+  },
+  {
+    "text": "¿Ven? Ahí le mandó el mensaje a la gente",
+    "duration": 6841,
+    "offset": 124439,
+    "lang": "es"
+  },
+  {
+    "text": "e generador de imágenes.",
+    "duration": 5560,
+    "offset": 128000,
+    "lang": "es"
+  },
+  {
+    "text": "Si",
+    "duration": 7920,
+    "offset": 131280,
+    "lang": "es"
+  },
+  {
+    "text": "yo acá subo una imagen y le digo, \"¿Me",
+    "duration": 11520,
+    "offset": 133560,
+    "lang": "es"
+  },
+  {
+    "text": "podés explicar el tipo de tejido de esta",
+    "duration": 8240,
+    "offset": 139200,
+    "lang": "es"
+  },
+  {
+    "text": "imagen?\"",
+    "duration": 2360,
+    "offset": 145080,
+    "lang": "es"
+  },
+  {
+    "text": "Lo que va a hacer esto es mandárselo.",
+    "duration": 6801,
+    "offset": 148879,
+    "lang": "es"
+  },
+  {
+    "text": "Acá vemos cómo está trabajando. Se lo va",
+    "duration": 4761,
+    "offset": 153319,
+    "lang": "es"
+  },
+  {
+    "text": "a mandar al agente médico. ¿Ven que acá",
+    "duration": 5360,
+    "offset": 155680,
+    "lang": "es"
+  },
+  {
+    "text": "dice información médica? Se lo mandó al",
+    "duration": 4960,
+    "offset": 158080,
+    "lang": "es"
+  },
+  {
+    "text": "agente médico, que es alguien que busca",
+    "duration": 4720,
+    "offset": 161040,
+    "lang": "es"
+  },
+  {
+    "text": "la imagen en internet",
+    "duration": 5240,
+    "offset": 163040,
+    "lang": "es"
+  },
+  {
+    "text": "y simplemente para ver que esto se lo",
+    "duration": 4680,
+    "offset": 165760,
+    "lang": "es"
+  },
+  {
+    "text": "mandó al agente médico. Y ahora sí, ¿qué",
+    "duration": 4200,
+    "offset": 168280,
+    "lang": "es"
+  },
+  {
+    "text": "pasa si yo",
+    "duration": 6320,
+    "offset": 170440,
+    "lang": "es"
+  },
+  {
+    "text": "voy a buscar imágenes?",
+    "duration": 4280,
+    "offset": 172480,
+    "lang": "es"
+  },
+  {
+    "text": "que sean de problemas físicos. Vamos a",
+    "duration": 7199,
+    "offset": 177120,
+    "lang": "es"
+  },
+  {
+    "text": "buscar esta imagen",
+    "duration": 5480,
+    "offset": 181280,
+    "lang": "es"
+  },
+  {
+    "text": "que es de un problema físico y le vamos",
+    "duration": 4761,
+    "offset": 184319,
+    "lang": "es"
+  },
+  {
+    "text": "a decir",
+    "duration": 4280,
+    "offset": 186760,
+    "lang": "es"
+  },
+  {
+    "text": "en la polea",
+    "duration": 4000,
+    "offset": 189080,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 5400,
+    "offset": 191040,
+    "lang": "es"
+  },
+  {
+    "text": "masa m1",
+    "duration": 6360,
+    "offset": 193080,
+    "lang": "es"
+  },
+  {
+    "text": "tiene",
+    "duration": 3000,
+    "offset": 196440,
+    "lang": "es"
+  },
+  {
+    "text": "un",
+    "duration": 8081,
+    "offset": 199599,
+    "lang": "es"
+  },
+  {
+    "text": "valor igual a 2 m2.",
+    "duration": 8560,
+    "offset": 201120,
+    "lang": "es"
+  },
+  {
+    "text": "La",
+    "duration": 5320,
+    "offset": 207680,
+    "lang": "es"
+  },
+  {
+    "text": "soga es",
+    "duration": 7520,
+    "offset": 209680,
+    "lang": "es"
+  },
+  {
+    "text": "sin masa e inextensible",
+    "duration": 9319,
+    "offset": 213000,
+    "lang": "es"
+  },
+  {
+    "text": "y la polea no tiene masa.",
+    "duration": 9000,
+    "offset": 217200,
+    "lang": "es"
+  },
+  {
+    "text": "Y le vamos a decir",
+    "duration": 3881,
+    "offset": 222319,
+    "lang": "es"
+  },
+  {
+    "text": "cuánto vale la aceleración",
+    "duration": 5479,
+    "offset": 227760,
+    "lang": "es"
+  },
+  {
+    "text": "de M1.",
+    "duration": 8521,
+    "offset": 233519,
+    "lang": "es"
+  },
+  {
+    "text": "Y le vamos a preguntar si se conserva",
+    "duration": 6521,
+    "offset": 237239,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 3279,
+    "offset": 242040,
+    "lang": "es"
+  },
+  {
+    "text": "energía",
+    "duration": 4559,
+    "offset": 243760,
+    "lang": "es"
+  },
+  {
+    "text": "cinética.",
+    "duration": 3000,
+    "offset": 245319,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, fíjense que ahora dice, \"Bueno, ya",
+    "duration": 5159,
+    "offset": 252200,
+    "lang": "es"
+  },
+  {
+    "text": "el agente orquestador",
+    "duration": 4079,
+    "offset": 255120,
+    "lang": "es"
+  },
+  {
+    "text": "tiene también corriendo un sistema, es",
+    "duration": 4641,
+    "offset": 257359,
+    "lang": "es"
+  },
+  {
+    "text": "un modelo Lama 4. Ese modelo Lama 4 lo",
+    "duration": 5481,
+    "offset": 259199,
+    "lang": "es"
+  },
+  {
+    "text": "que hace es identifica que estoy",
+    "duration": 4919,
+    "offset": 262000,
+    "lang": "es"
+  },
+  {
+    "text": "hablando de un problema de física y me",
+    "duration": 5359,
+    "offset": 264680,
+    "lang": "es"
+  },
+  {
+    "text": "va a empezar a hacer preguntas.",
+    "duration": 5201,
+    "offset": 266919,
+    "lang": "es"
+  },
+  {
+    "text": "tiene tres preguntas que van subiendo de",
+    "duration": 4401,
+    "offset": 270039,
+    "lang": "es"
+  },
+  {
+    "text": "nivel, pero esas tres preguntas que van",
+    "duration": 4680,
+    "offset": 272120,
+    "lang": "es"
+  },
+  {
+    "text": "subiendo de nivel",
+    "duration": 5880,
+    "offset": 274440,
+    "lang": "es"
+  },
+  {
+    "text": "las va a hacer con el contenido de",
+    "duration": 5720,
+    "offset": 276800,
+    "lang": "es"
+  },
+  {
+    "text": "física uno, con todo el contenido que yo",
+    "duration": 4200,
+    "offset": 280320,
+    "lang": "es"
+  },
+  {
+    "text": "le puse y va a razonar y va a explicar",
+    "duration": 3720,
+    "offset": 282520,
+    "lang": "es"
+  },
+  {
+    "text": "con el contenido de física uno.",
+    "duration": 3720,
+    "offset": 284520,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, fíjense, acá dice, \"Da la",
+    "duration": 4000,
+    "offset": 286240,
+    "lang": "es"
+  },
+  {
+    "text": "configuración del sistema, las poleas m1",
+    "duration": 4120,
+    "offset": 288240,
+    "lang": "es"
+  },
+  {
+    "text": "m2 y considerando que las o es sensible",
+    "duration": 4720,
+    "offset": 290240,
+    "lang": "es"
+  },
+  {
+    "text": "sin masa y la polea no tiene masa, ¿qué",
+    "duration": 5640,
+    "offset": 292360,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas crees que actúan sobre cada masa",
+    "duration": 5239,
+    "offset": 294960,
+    "lang": "es"
+  },
+  {
+    "text": "y cómo se relacionan entre sí? Piensan",
+    "duration": 4479,
+    "offset": 298000,
+    "lang": "es"
+  },
+  {
+    "text": "los conceptos fundamentales de de",
+    "duration": 4361,
+    "offset": 300199,
+    "lang": "es"
+  },
+  {
+    "text": "dinámica y las leyes de Newton antes de",
+    "duration": 6720,
+    "offset": 302479,
+    "lang": "es"
+  },
+  {
+    "text": "responder. Bien, entonces eh sobre cada",
+    "duration": 6680,
+    "offset": 304560,
+    "lang": "es"
+  },
+  {
+    "text": "masa",
+    "duration": 4201,
+    "offset": 309199,
+    "lang": "es"
+  },
+  {
+    "text": "actúa",
+    "duration": 4519,
+    "offset": 311240,
+    "lang": "es"
+  },
+  {
+    "text": "la tensión",
+    "duration": 5799,
+    "offset": 313400,
+    "lang": "es"
+  },
+  {
+    "text": "y el peso.",
+    "duration": 6440,
+    "offset": 315759,
+    "lang": "es"
+  },
+  {
+    "text": "Eh,",
+    "duration": 3000,
+    "offset": 319199,
+    "lang": "es"
+  },
+  {
+    "text": "como y acá le voy a poner como la polea",
+    "duration": 8959,
+    "offset": 322520,
+    "lang": "es"
+  },
+  {
+    "text": "no tiene masa, las tensiones",
+    "duration": 6480,
+    "offset": 326800,
+    "lang": "es"
+  },
+  {
+    "text": "son",
+    "duration": 5521,
+    "offset": 331479,
+    "lang": "es"
+  },
+  {
+    "text": "las mismas",
+    "duration": 7840,
+    "offset": 333280,
+    "lang": "es"
+  },
+  {
+    "text": "en ambos bloques.",
+    "duration": 4120,
+    "offset": 337000,
+    "lang": "es"
+  },
+  {
+    "text": "Dice, \"Dado que la masa m1 tiene un",
+    "duration": 3839,
+    "offset": 342080,
+    "lang": "es"
+  },
+  {
+    "text": "valor igual a 2 m2 y considerando que",
+    "duration": 4321,
+    "offset": 343759,
+    "lang": "es"
+  },
+  {
+    "text": "las fuerzas actúan sobre cada masa, peso",
+    "duration": 3761,
+    "offset": 345919,
+    "lang": "es"
+  },
+  {
+    "text": "y tensión, ¿cómo se relacionan las",
+    "duration": 4520,
+    "offset": 348080,
+    "lang": "es"
+  },
+  {
+    "text": "aceleraciones m1 y m2? Si el sistema ahí",
+    "duration": 4760,
+    "offset": 349680,
+    "lang": "es"
+  },
+  {
+    "text": "me dice, bueno, ¿qué dice la segunda ley",
+    "duration": 3599,
+    "offset": 352600,
+    "lang": "es"
+  },
+  {
+    "text": "de Newton sobre la relación entre fuerza",
+    "duration": 3479,
+    "offset": 354440,
+    "lang": "es"
+  },
+  {
+    "text": "nete y aceleración en cada masa? Piens",
+    "duration": 3881,
+    "offset": 356199,
+    "lang": "es"
+  },
+  {
+    "text": "en cómo las masas y las fuerzas actúan",
+    "duration": 3601,
+    "offset": 357919,
+    "lang": "es"
+  },
+  {
+    "text": "sobre ellas influyen en las",
+    "duration": 3959,
+    "offset": 360080,
+    "lang": "es"
+  },
+  {
+    "text": "aceleraciones. O sea, el sistema está",
+    "duration": 4840,
+    "offset": 361520,
+    "lang": "es"
+  },
+  {
+    "text": "pensado en modo socrático para que yo",
+    "duration": 4481,
+    "offset": 364039,
+    "lang": "es"
+  },
+  {
+    "text": "empiece a buscar, bueno, ahora que ya le",
+    "duration": 3559,
+    "offset": 366360,
+    "lang": "es"
+  },
+  {
+    "text": "dije las masas, digo, bueno, como la",
+    "duration": 4799,
+    "offset": 368520,
+    "lang": "es"
+  },
+  {
+    "text": "soga es inextensible,",
+    "duration": 3400,
+    "offset": 369919,
+    "lang": "es"
+  },
+  {
+    "text": "como [resoplido] la soga es",
+    "duration": 6600,
+    "offset": 373680,
+    "lang": "es"
+  },
+  {
+    "text": "inextensible,",
+    "duration": 3000,
+    "offset": 377280,
+    "lang": "es"
+  },
+  {
+    "text": "ambas aceleraciones",
+    "duration": 5799,
+    "offset": 380520,
+    "lang": "es"
+  },
+  {
+    "text": "son iguales.",
+    "duration": 4160,
+    "offset": 384360,
+    "lang": "es"
+  },
+  {
+    "text": "¿Por qué?",
+    "duration": 5201,
+    "offset": 386319,
+    "lang": "es"
+  },
+  {
+    "text": "en",
+    "duration": 3000,
+    "offset": 388520,
+    "lang": "es"
+  },
+  {
+    "text": "espacios iguales.",
+    "duration": 3680,
+    "offset": 392120,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, dice, \"Sabiendo que uno es 2 M2 y",
+    "duration": 3640,
+    "offset": 397240,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando, no me dice ni que está bien",
+    "duration": 3081,
+    "offset": 399319,
+    "lang": "es"
+  },
+  {
+    "text": "ni que está mal. Me va haciendo",
+    "duration": 3840,
+    "offset": 400880,
+    "lang": "es"
+  },
+  {
+    "text": "preguntas para que yo recapacite y haga",
+    "duration": 4079,
+    "offset": 402400,
+    "lang": "es"
+  },
+  {
+    "text": "cosas que me van a obligar a hurgar",
+    "duration": 4039,
+    "offset": 404720,
+    "lang": "es"
+  },
+  {
+    "text": "sobre los conceptos.\" Dice, \"Utilizando",
+    "duration": 4000,
+    "offset": 406479,
+    "lang": "es"
+  },
+  {
+    "text": "la segunda ley de Newton, para cada",
+    "duration": 3041,
+    "offset": 408759,
+    "lang": "es"
+  },
+  {
+    "text": "masa, ¿cómo puedes relacionar las",
+    "duration": 3440,
+    "offset": 410479,
+    "lang": "es"
+  },
+  {
+    "text": "aceleraciones y las masas de los bloques",
+    "duration": 4399,
+    "offset": 411800,
+    "lang": "es"
+  },
+  {
+    "text": "para encontrar la aceleración de m1?\"",
+    "duration": 3960,
+    "offset": 413919,
+    "lang": "es"
+  },
+  {
+    "text": "Piensa en los diagramas de cuerpo libre",
+    "duration": 3081,
+    "offset": 416199,
+    "lang": "es"
+  },
+  {
+    "text": "y en cómo se reaccionan las fuerzas y",
+    "duration": 3880,
+    "offset": 417879,
+    "lang": "es"
+  },
+  {
+    "text": "las aceleraciones.",
+    "duration": 5960,
+    "offset": 419280,
+    "lang": "es"
+  },
+  {
+    "text": "Acá habría que hacer el el",
+    "duration": 5440,
+    "offset": 421759,
+    "lang": "es"
+  },
+  {
+    "text": "diagrama de cuerpo libre, pero yo lo que",
+    "duration": 6320,
+    "offset": 425240,
+    "lang": "es"
+  },
+  {
+    "text": "puedo poner es, por ejemplo, que",
+    "duration": 7801,
+    "offset": 427199,
+    "lang": "es"
+  },
+  {
+    "text": "t men",
+    "duration": 5639,
+    "offset": 431560,
+    "lang": "es"
+  },
+  {
+    "text": "m1",
+    "duration": 6280,
+    "offset": 435000,
+    "lang": "es"
+  },
+  {
+    "text": "g es igual a masa por masa por",
+    "duration": 5881,
+    "offset": 437199,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración",
+    "duration": 3680,
+    "offset": 441280,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 5799,
+    "offset": 443080,
+    "lang": "es"
+  },
+  {
+    "text": "t - m2g",
+    "duration": 8720,
+    "offset": 444960,
+    "lang": "es"
+  },
+  {
+    "text": "es igual a menos acá - m1",
+    "duration": 8481,
+    "offset": 448879,
+    "lang": "es"
+  },
+  {
+    "text": "- m1 es ig a -",
+    "duration": 7919,
+    "offset": 453680,
+    "lang": "es"
+  },
+  {
+    "text": "m2 por aceleración.",
+    "duration": 4239,
+    "offset": 457360,
+    "lang": "es"
+  },
+  {
+    "text": "Y ahí que ya me hizo las tres preguntas,",
+    "duration": 4120,
+    "offset": 461720,
+    "lang": "es"
+  },
+  {
+    "text": "me hizo recapacitar y demás, ya",
+    "duration": 5280,
+    "offset": 463800,
+    "lang": "es"
+  },
+  {
+    "text": "finalmente me va a dar la respuesta",
+    "duration": 8600,
+    "offset": 465840,
+    "lang": "es"
+  },
+  {
+    "text": "del problema. Acá bien es e",
+    "duration": 5360,
+    "offset": 469080,
+    "lang": "es"
+  },
+  {
+    "text": "a veces tiene un back que hay que",
+    "duration": 3399,
+    "offset": 476520,
+    "lang": "es"
+  },
+  {
+    "text": "arreglar, pero acá después, bueno, puso",
+    "duration": 5280,
+    "offset": 477919,
+    "lang": "es"
+  },
+  {
+    "text": "bien todo las ecuaciones.",
+    "duration": 7601,
+    "offset": 479919,
+    "lang": "es"
+  },
+  {
+    "text": "Esto simplemente porque este",
+    "duration": 6601,
+    "offset": 483199,
+    "lang": "es"
+  },
+  {
+    "text": "escribió en un formato que es látex que",
+    "duration": 4720,
+    "offset": 487520,
+    "lang": "es"
+  },
+  {
+    "text": "no supo interpretar, pero igual acá se",
+    "duration": 7000,
+    "offset": 489800,
+    "lang": "es"
+  },
+  {
+    "text": "ve t m1 = m1a m1. Bien. y me va a decir,",
+    "duration": 6919,
+    "offset": 492240,
+    "lang": "es"
+  },
+  {
+    "text": "dice, \"Analanalizando tu proceso de",
+    "duration": 5119,
+    "offset": 496800,
+    "lang": "es"
+  },
+  {
+    "text": "pensamiento y generando explicación",
+    "duration": 4241,
+    "offset": 499159,
+    "lang": "es"
+  },
+  {
+    "text": "completa basada en tus respuestas,",
+    "duration": 2840,
+    "offset": 501919,
+    "lang": "es"
+  },
+  {
+    "text": "reflexionando tu, tu proceso de",
+    "duration": 2639,
+    "offset": 503400,
+    "lang": "es"
+  },
+  {
+    "text": "pensamiento ha sido excelente. Has",
+    "duration": 2840,
+    "offset": 504759,
+    "lang": "es"
+  },
+  {
+    "text": "identificado correctamente las fuerzas",
+    "duration": 4201,
+    "offset": 506039,
+    "lang": "es"
+  },
+  {
+    "text": "que actúan sobre cada masa. Reconocido",
+    "duration": 4521,
+    "offset": 507599,
+    "lang": "es"
+  },
+  {
+    "text": "que las tensiones en ambos lados de las",
+    "duration": 3719,
+    "offset": 510240,
+    "lang": "es"
+  },
+  {
+    "text": "polean son iguales debido a que la polea",
+    "duration": 3799,
+    "offset": 512120,
+    "lang": "es"
+  },
+  {
+    "text": "no tiene masa y comprendido que las",
+    "duration": 3801,
+    "offset": 513959,
+    "lang": "es"
+  },
+  {
+    "text": "aceleraciones de ambas masas son iguales",
+    "duration": 4600,
+    "offset": 515919,
+    "lang": "es"
+  },
+  {
+    "text": "porque la soga es inextensible. Además,",
+    "duration": 4199,
+    "offset": 517760,
+    "lang": "es"
+  },
+  {
+    "text": "has planteado correctamente las",
+    "duration": 3080,
+    "offset": 520519,
+    "lang": "es"
+  },
+  {
+    "text": "ecuaciones de movimiento para ambas",
+    "duration": 3880,
+    "offset": 521959,
+    "lang": "es"
+  },
+  {
+    "text": "masas. Contexto del tema. Este problema",
+    "duration": 3841,
+    "offset": 523599,
+    "lang": "es"
+  },
+  {
+    "text": "se enmarca dentro del tema de dinámica",
+    "duration": 3680,
+    "offset": 525839,
+    "lang": "es"
+  },
+  {
+    "text": "de partículas y sistemas,",
+    "duration": 3519,
+    "offset": 527440,
+    "lang": "es"
+  },
+  {
+    "text": "específicamente en el movimiento de",
+    "duration": 3440,
+    "offset": 529519,
+    "lang": "es"
+  },
+  {
+    "text": "partículas unidas por cuerdas y poleas.",
+    "duration": 4201,
+    "offset": 530959,
+    "lang": "es"
+  },
+  {
+    "text": "Perfecto. La conservación de la energía.",
+    "duration": 5161,
+    "offset": 532959,
+    "lang": "es"
+  },
+  {
+    "text": "Nos concentremos en encontrar la",
+    "duration": 6480,
+    "offset": 535160,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración de la masa e m1 y analizar",
+    "duration": 5360,
+    "offset": 538120,
+    "lang": "es"
+  },
+  {
+    "text": "si se conserva la energía cinética del",
+    "duration": 3280,
+    "offset": 541640,
+    "lang": "es"
+  },
+  {
+    "text": "sistema. Explicación teórica.",
+    "duration": 4280,
+    "offset": 543480,
+    "lang": "es"
+  },
+  {
+    "text": "Consideremos un sistema de dos masas m1",
+    "duration": 5159,
+    "offset": 544920,
+    "lang": "es"
+  },
+  {
+    "text": "y m2 conectadas por una sog inextensible",
+    "duration": 4840,
+    "offset": 547760,
+    "lang": "es"
+  },
+  {
+    "text": "y sin masa que pasa por una polea sin",
+    "duration": 5521,
+    "offset": 550079,
+    "lang": "es"
+  },
+  {
+    "text": "masa. Sobre cada masa actúa la tensión T",
+    "duration": 6200,
+    "offset": 552600,
+    "lang": "es"
+  },
+  {
+    "text": "en la soga y el peso MG. Análisis",
+    "duration": 4600,
+    "offset": 555600,
+    "lang": "es"
+  },
+  {
+    "text": "detallado. Dado que la soga es",
+    "duration": 3960,
+    "offset": 558800,
+    "lang": "es"
+  },
+  {
+    "text": "inexensible, la aceleraciones de m1 y m2",
+    "duration": 5280,
+    "offset": 560200,
+    "lang": "es"
+  },
+  {
+    "text": "son iguales en magnitud, pero puestas en",
+    "duration": 4960,
+    "offset": 562760,
+    "lang": "es"
+  },
+  {
+    "text": "dirección. ¿Correcto? Denotemos la",
+    "duration": 4599,
+    "offset": 565480,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración m1 como a y la aceleración",
+    "duration": 5280,
+    "offset": 567720,
+    "lang": "es"
+  },
+  {
+    "text": "m2 como - a. ¿Correcto? Ecuaciones y",
+    "duration": 4880,
+    "offset": 570079,
+    "lang": "es"
+  },
+  {
+    "text": "cálculos. M1 = m2. Bueno, acá donde",
+    "duration": 5640,
+    "offset": 573000,
+    "lang": "es"
+  },
+  {
+    "text": "salió mal, pero se ve. T - m1 = m1a. T -",
+    "duration": 5681,
+    "offset": 574959,
+    "lang": "es"
+  },
+  {
+    "text": "m2 m2a.",
+    "duration": 4520,
+    "offset": 578640,
+    "lang": "es"
+  },
+  {
+    "text": "Se nos dice que m1 = 2 m2. Sustituimos",
+    "duration": 4360,
+    "offset": 580640,
+    "lang": "es"
+  },
+  {
+    "text": "m1 en la primera ecuación. Acá lo que",
+    "duration": 3880,
+    "offset": 583160,
+    "lang": "es"
+  },
+  {
+    "text": "hizo fue reemplazar m1 por su igualdad,",
+    "duration": 3959,
+    "offset": 585000,
+    "lang": "es"
+  },
+  {
+    "text": "2m2",
+    "duration": 4440,
+    "offset": 587040,
+    "lang": "es"
+  },
+  {
+    "text": "y va despejando.",
+    "duration": 5361,
+    "offset": 588959,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá lo que hace es obtiene finalmente",
+    "duration": 6640,
+    "offset": 591480,
+    "lang": "es"
+  },
+  {
+    "text": "el valor de la aceleración en función de",
+    "duration": 6560,
+    "offset": 594320,
+    "lang": "es"
+  },
+  {
+    "text": "la gravedad a partir de saber que las",
+    "duration": 4320,
+    "offset": 598120,
+    "lang": "es"
+  },
+  {
+    "text": "aceleraciones son iguales, que las",
+    "duration": 3320,
+    "offset": 600880,
+    "lang": "es"
+  },
+  {
+    "text": "tensiones son iguales y la relación",
+    "duration": 4280,
+    "offset": 602440,
+    "lang": "es"
+  },
+  {
+    "text": "entre masas.",
+    "duration": 6120,
+    "offset": 604200,
+    "lang": "es"
+  },
+  {
+    "text": "Esto se puede llevar, o sea, acá de de",
+    "duration": 5559,
+    "offset": 606720,
+    "lang": "es"
+  },
+  {
+    "text": "simplemente que como está generando",
+    "duration": 3440,
+    "offset": 610320,
+    "lang": "es"
+  },
+  {
+    "text": "salen bien todas las fórmulas, pero",
+    "duration": 4120,
+    "offset": 612279,
+    "lang": "es"
+  },
+  {
+    "text": "estas no. Particularmente por esta",
+    "duration": 5280,
+    "offset": 613760,
+    "lang": "es"
+  },
+  {
+    "text": "fórmula de tensión, por la manera en la",
+    "duration": 4680,
+    "offset": 616399,
+    "lang": "es"
+  },
+  {
+    "text": "que está generando el látex. Eso después",
+    "duration": 4280,
+    "offset": 619040,
+    "lang": "es"
+  },
+  {
+    "text": "simplemente es cargar en el frontend un",
+    "duration": 4801,
+    "offset": 621079,
+    "lang": "es"
+  },
+  {
+    "text": "nuevo intérprete de látex. Y acá me",
+    "duration": 4480,
+    "offset": 623320,
+    "lang": "es"
+  },
+  {
+    "text": "explica la energía. Dice, \"El signo",
+    "duration": 4440,
+    "offset": 625880,
+    "lang": "es"
+  },
+  {
+    "text": "indica que lación de m1 es hacia abajo.\"",
+    "duration": 4279,
+    "offset": 627800,
+    "lang": "es"
+  },
+  {
+    "text": "¿Correcto? Porque es más grande y m1",
+    "duration": 3400,
+    "offset": 630320,
+    "lang": "es"
+  },
+  {
+    "text": "baja.",
+    "duration": 3000,
+    "offset": 632079,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 2840,
+    "offset": 633720,
+    "lang": "es"
+  },
+  {
+    "text": "prácticos. Para evaluar si se conserva",
+    "duration": 2921,
+    "offset": 635079,
+    "lang": "es"
+  },
+  {
+    "text": "la energía cinéctrica, consideremos la",
+    "duration": 3200,
+    "offset": 636560,
+    "lang": "es"
+  },
+  {
+    "text": "energía cinética total del sistema. Es",
+    "duration": 3839,
+    "offset": 638000,
+    "lang": "es"
+  },
+  {
+    "text": "cierto, es la sumatoria de cada una de",
+    "duration": 3960,
+    "offset": 639760,
+    "lang": "es"
+  },
+  {
+    "text": "las dos partículas.",
+    "duration": 4361,
+    "offset": 641839,
+    "lang": "es"
+  },
+  {
+    "text": "Dado que B1 = B2 = B, porque la SOA es",
+    "duration": 4919,
+    "offset": 643720,
+    "lang": "es"
+  },
+  {
+    "text": "inextensible, esto es correcto. Acá saca",
+    "duration": 5040,
+    "offset": 646200,
+    "lang": "es"
+  },
+  {
+    "text": "cómo es la energía cinética y acá saca",
+    "duration": 4320,
+    "offset": 648639,
+    "lang": "es"
+  },
+  {
+    "text": "la energía cinética del sistema. En",
+    "duration": 4000,
+    "offset": 651240,
+    "lang": "es"
+  },
+  {
+    "text": "resumen, conclusión, la aceleración es G",
+    "duration": 4680,
+    "offset": 652959,
+    "lang": "es"
+  },
+  {
+    "text": "sobre 3 hacia abajo. Para determinar si",
+    "duration": 3800,
+    "offset": 655240,
+    "lang": "es"
+  },
+  {
+    "text": "conserva energía cinética, debemos",
+    "duration": 2640,
+    "offset": 657639,
+    "lang": "es"
+  },
+  {
+    "text": "considerar la variación de energía",
+    "duration": 3039,
+    "offset": 659040,
+    "lang": "es"
+  },
+  {
+    "text": "mecánica. En este sistema la energía",
+    "duration": 3841,
+    "offset": 660279,
+    "lang": "es"
+  },
+  {
+    "text": "mecánica se conserva si no hay fuerza",
+    "duration": 4361,
+    "offset": 662079,
+    "lang": "es"
+  },
+  {
+    "text": "disipativa. Sin embargo, la presencia de",
+    "duration": 3680,
+    "offset": 664120,
+    "lang": "es"
+  },
+  {
+    "text": "gravedad, aceleración de las mas indica",
+    "duration": 3120,
+    "offset": 666440,
+    "lang": "es"
+  },
+  {
+    "text": "que energía potencial se convierte en",
+    "duration": 4159,
+    "offset": 667800,
+    "lang": "es"
+  },
+  {
+    "text": "energía cinética. La energía cinética no",
+    "duration": 3920,
+    "offset": 669560,
+    "lang": "es"
+  },
+  {
+    "text": "se conserva sola porque el sistema no",
+    "duration": 3320,
+    "offset": 671959,
+    "lang": "es"
+  },
+  {
+    "text": "está aislado. La gravedad realiza",
+    "duration": 3240,
+    "offset": 673480,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo sobre el sistema. La respuesta",
+    "duration": 4800,
+    "offset": 675279,
+    "lang": "es"
+  },
+  {
+    "text": "final es bien. Entonces, lo que dice acá",
+    "duration": 6320,
+    "offset": 676720,
+    "lang": "es"
+  },
+  {
+    "text": "es que en realidad",
+    "duration": 6200,
+    "offset": 680079,
+    "lang": "es"
+  },
+  {
+    "text": "no se conserva la sí se conserva la",
+    "duration": 5560,
+    "offset": 683040,
+    "lang": "es"
+  },
+  {
+    "text": "energía, pero lo que dice es que toda la",
+    "duration": 4601,
+    "offset": 686279,
+    "lang": "es"
+  },
+  {
+    "text": "energía mecánica, toda la energía",
+    "duration": 3679,
+    "offset": 688600,
+    "lang": "es"
+  },
+  {
+    "text": "cinética se transforma en energía",
+    "duration": 5399,
+    "offset": 690880,
+    "lang": "es"
+  },
+  {
+    "text": "potencial gravitatoria. ¿Es correcto?",
+    "duration": 7201,
+    "offset": 692279,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué es lo que sucede? ¿Es correcto lo",
+    "duration": 5321,
+    "offset": 696279,
+    "lang": "es"
+  },
+  {
+    "text": "que dijo la parte de la energía? Le",
+    "duration": 6479,
+    "offset": 699480,
+    "lang": "es"
+  },
+  {
+    "text": "faltó hablar del trabajo de las eh",
+    "duration": 6280,
+    "offset": 701600,
+    "lang": "es"
+  },
+  {
+    "text": "tensiones para explicar que, bueno, como",
+    "duration": 4361,
+    "offset": 705959,
+    "lang": "es"
+  },
+  {
+    "text": "ese trabajo se anula, por eso es que se",
+    "duration": 4399,
+    "offset": 707880,
+    "lang": "es"
+  },
+  {
+    "text": "conserva la energía o se convierte",
+    "duration": 3680,
+    "offset": 710320,
+    "lang": "es"
+  },
+  {
+    "text": "energía potencial gravitatoria y energía",
+    "duration": 5161,
+    "offset": 712279,
+    "lang": "es"
+  },
+  {
+    "text": "cinética. Ahora, ¿qué se puede hacer con",
+    "duration": 5880,
+    "offset": 714000,
+    "lang": "es"
+  },
+  {
+    "text": "eso? Si yo descubro que este tutor",
+    "duration": 5880,
+    "offset": 717440,
+    "lang": "es"
+  },
+  {
+    "text": "socrático no está explicando exactamente",
+    "duration": 7440,
+    "offset": 719880,
+    "lang": "es"
+  },
+  {
+    "text": "como yo quisiera, bien, para eso es que",
+    "duration": 8680,
+    "offset": 723320,
+    "lang": "es"
+  },
+  {
+    "text": "tiene el optimizador de prompts",
+    "duration": 6720,
+    "offset": 727320,
+    "lang": "es"
+  },
+  {
+    "text": "utiliza algoritmos genéticos que se",
+    "duration": 4560,
+    "offset": 732000,
+    "lang": "es"
+  },
+  {
+    "text": "llaman genetic pareto,",
+    "duration": 5400,
+    "offset": 734040,
+    "lang": "es"
+  },
+  {
+    "text": "un framework que se llama dispite,",
+    "duration": 6360,
+    "offset": 736560,
+    "lang": "es"
+  },
+  {
+    "text": "funciona con dispa,",
+    "duration": 6880,
+    "offset": 739440,
+    "lang": "es"
+  },
+  {
+    "text": "y yo lo que puedo hacer entonces es",
+    "duration": 5640,
+    "offset": 742920,
+    "lang": "es"
+  },
+  {
+    "text": "poner estos training examples. O sea, si",
+    "duration": 6199,
+    "offset": 746320,
+    "lang": "es"
+  },
+  {
+    "text": "a mí no me gustó como lo explicó, no me",
+    "duration": 5680,
+    "offset": 748560,
+    "lang": "es"
+  },
+  {
+    "text": "gustó como está funcionando el tutor",
+    "duration": 4680,
+    "offset": 752519,
+    "lang": "es"
+  },
+  {
+    "text": "socrático, utilizando",
+    "duration": 8800,
+    "offset": 754240,
+    "lang": "es"
+  },
+  {
+    "text": "e este dispa, lo que puedo hacer es",
+    "duration": 10601,
+    "offset": 757199,
+    "lang": "es"
+  },
+  {
+    "text": "poner cómo hubiese explicado yo esto,",
+    "duration": 8320,
+    "offset": 763040,
+    "lang": "es"
+  },
+  {
+    "text": "generar una reconversión de prompts y de",
+    "duration": 5960,
+    "offset": 767800,
+    "lang": "es"
+  },
+  {
+    "text": "esa manera clonar mi manera de explicar.",
+    "duration": 4800,
+    "offset": 771360,
+    "lang": "es"
+  },
+  {
+    "text": "este todavía le falta o lo que hay que",
+    "duration": 4400,
+    "offset": 773760,
+    "lang": "es"
+  },
+  {
+    "text": "hacer es",
+    "duration": 4720,
+    "offset": 776160,
+    "lang": "es"
+  },
+  {
+    "text": "problemas, problemas problemas analizar",
+    "duration": 5760,
+    "offset": 778160,
+    "lang": "es"
+  },
+  {
+    "text": "justamente por",
+    "duration": 5759,
+    "offset": 780880,
+    "lang": "es"
+  },
+  {
+    "text": "cómo es posible analizarlo.",
+    "duration": 5080,
+    "offset": 783920,
+    "lang": "es"
+  },
+  {
+    "text": "En un segundo víde, hay todo un sistema",
+    "duration": 4601,
+    "offset": 786639,
+    "lang": "es"
+  },
+  {
+    "text": "de análisis y ese sistema de análisis",
+    "duration": 4560,
+    "offset": 789000,
+    "lang": "es"
+  },
+  {
+    "text": "cuando yo veo que no contesta como a mí",
+    "duration": 4159,
+    "offset": 791240,
+    "lang": "es"
+  },
+  {
+    "text": "me gusta, por ejemplo, acá no contestó",
+    "duration": 3480,
+    "offset": 793560,
+    "lang": "es"
+  },
+  {
+    "text": "como a mí me gusta porque faltó hablar",
+    "duration": 4240,
+    "offset": 795399,
+    "lang": "es"
+  },
+  {
+    "text": "del trabajo de las tensiones, yo puedo",
+    "duration": 5840,
+    "offset": 797040,
+    "lang": "es"
+  },
+  {
+    "text": "utilizar el optimizador dispaipa y",
+    "duration": 6961,
+    "offset": 799639,
+    "lang": "es"
+  },
+  {
+    "text": "empezar de esa manera a clonar la forma",
+    "duration": 6280,
+    "offset": 802880,
+    "lang": "es"
+  },
+  {
+    "text": "en la que yo explicaría. En un segundo",
+    "duration": 5080,
+    "offset": 806600,
+    "lang": "es"
+  },
+  {
+    "text": "video voy a mostrar cómo a su vez tiene",
+    "duration": 5160,
+    "offset": 809160,
+    "lang": "es"
+  },
+  {
+    "text": "un sistema de telemetría que capta lo",
+    "duration": 4480,
+    "offset": 811680,
+    "lang": "es"
+  },
+  {
+    "text": "que hace el alumno para que el docente",
+    "duration": 4400,
+    "offset": 814320,
+    "lang": "es"
+  },
+  {
+    "text": "pueda después hacer correr las",
+    "duration": 5479,
+    "offset": 816160,
+    "lang": "es"
+  },
+  {
+    "text": "optimizaciones. Yeah.",
+    "duration": 2919,
+    "offset": 818720,
+    "lang": "es"
+  }
+]

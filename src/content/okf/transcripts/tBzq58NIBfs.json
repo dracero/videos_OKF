@@ -1,0 +1,548 @@
+[
+  {
+    "text": "El grado de automatización que se logra",
+    "duration": 5160,
+    "offset": 34160,
+    "lang": "es"
+  },
+  {
+    "text": "con el MCP Server es total. Vamos a ver.",
+    "duration": 6520,
+    "offset": 36120,
+    "lang": "es"
+  },
+  {
+    "text": "En principio acá tenemos un MCP",
+    "duration": 6640,
+    "offset": 39320,
+    "lang": "es"
+  },
+  {
+    "text": "Server. ¿Qué va a ser este? Utilizamos",
+    "duration": 7040,
+    "offset": 42640,
+    "lang": "es"
+  },
+  {
+    "text": "el e el paquete importado de Fast ACP,",
+    "duration": 6439,
+    "offset": 45960,
+    "lang": "es"
+  },
+  {
+    "text": "el MCP Server. Este MSP Server ya tiene",
+    "duration": 4640,
+    "offset": 49680,
+    "lang": "es"
+  },
+  {
+    "text": "absolutamente todo lo necesario para",
+    "duration": 4441,
+    "offset": 52399,
+    "lang": "es"
+  },
+  {
+    "text": "poder establecer la comunicación.",
+    "duration": 4280,
+    "offset": 54320,
+    "lang": "es"
+  },
+  {
+    "text": "Y qué es lo que vamos a hacer acá con el",
+    "duration": 4879,
+    "offset": 56840,
+    "lang": "es"
+  },
+  {
+    "text": "decorator mp tool? Lo que vamos a hacer",
+    "duration": 6519,
+    "offset": 58600,
+    "lang": "es"
+  },
+  {
+    "text": "es vamos a utilizar una API. Este es un",
+    "duration": 8481,
+    "offset": 61719,
+    "lang": "es"
+  },
+  {
+    "text": "endpo de una API Rest de una web que",
+    "duration": 8040,
+    "offset": 65119,
+    "lang": "es"
+  },
+  {
+    "text": "es esta web de acá. Es un endpoint de",
+    "duration": 6720,
+    "offset": 70200,
+    "lang": "es"
+  },
+  {
+    "text": "una APIR de esa web que nos da el clima.",
+    "duration": 6320,
+    "offset": 73159,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que este normalmente sería la",
+    "duration": 5559,
+    "offset": 76920,
+    "lang": "es"
+  },
+  {
+    "text": "forma de utilizar la API, la forma de",
+    "duration": 4841,
+    "offset": 79479,
+    "lang": "es"
+  },
+  {
+    "text": "utilizar la API que requeriría un",
+    "duration": 5761,
+    "offset": 82479,
+    "lang": "es"
+  },
+  {
+    "text": "sistema, alguien que se entrene y demás.",
+    "duration": 4880,
+    "offset": 84320,
+    "lang": "es"
+  },
+  {
+    "text": "Como",
+    "duration": 4400,
+    "offset": 88240,
+    "lang": "es"
+  },
+  {
+    "text": "middleware, como MCP client, vamos a",
+    "duration": 6080,
+    "offset": 89200,
+    "lang": "es"
+  },
+  {
+    "text": "usar Fast Appi. Acá lo que hacemos es",
+    "duration": 4680,
+    "offset": 92640,
+    "lang": "es"
+  },
+  {
+    "text": "Fast Appi, le estamos pasando como",
+    "duration": 5470,
+    "offset": 95280,
+    "lang": "es"
+  },
+  {
+    "text": "parámetro de ese Fax API un",
+    "duration": 4720,
+    "offset": 97320,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 4570,
+    "offset": 100750,
+    "lang": "es"
+  },
+  {
+    "text": "e el nombre de un país. Acá vamos a",
+    "duration": 5439,
+    "offset": 102040,
+    "lang": "es"
+  },
+  {
+    "text": "poner, lo vamos a hacer para la ciudad",
+    "duration": 3560,
+    "offset": 105320,
+    "lang": "es"
+  },
+  {
+    "text": "de Buenos",
+    "duration": 6320,
+    "offset": 107479,
+    "lang": "es"
+  },
+  {
+    "text": "Aires, pero este va a ser el MCP client.",
+    "duration": 7320,
+    "offset": 108880,
+    "lang": "es"
+  },
+  {
+    "text": "Este MCP client va a estar escuchando en",
+    "duration": 6201,
+    "offset": 113799,
+    "lang": "es"
+  },
+  {
+    "text": "el puerto 8000 y a este MCP client se va",
+    "duration": 7599,
+    "offset": 116200,
+    "lang": "es"
+  },
+  {
+    "text": "a conectar el el LLM y este MSP client",
+    "duration": 8520,
+    "offset": 120000,
+    "lang": "es"
+  },
+  {
+    "text": "es que el es el que va a llamar al eh al",
+    "duration": 9321,
+    "offset": 123799,
+    "lang": "es"
+  },
+  {
+    "text": "MCP Server para que eh todo funcione. Y",
+    "duration": 6960,
+    "offset": 128520,
+    "lang": "es"
+  },
+  {
+    "text": "acá tenemos el",
+    "duration": 5399,
+    "offset": 133120,
+    "lang": "es"
+  },
+  {
+    "text": "eh el Google Gemini.",
+    "duration": 6240,
+    "offset": 135480,
+    "lang": "es"
+  },
+  {
+    "text": "Acá simplemente lo que hacemos es",
+    "duration": 8360,
+    "offset": 138519,
+    "lang": "es"
+  },
+  {
+    "text": "e conectar ese Google a través de ST",
+    "duration": 8720,
+    "offset": 141720,
+    "lang": "es"
+  },
+  {
+    "text": "server a el puerto en el cual está",
+    "duration": 7321,
+    "offset": 146879,
+    "lang": "es"
+  },
+  {
+    "text": "escuchando e Fast Appi. Lo importante",
+    "duration": 5799,
+    "offset": 150440,
+    "lang": "es"
+  },
+  {
+    "text": "para que Fast AppI intercambie mensajes",
+    "duration": 6520,
+    "offset": 154200,
+    "lang": "es"
+  },
+  {
+    "text": "de MCP es poner ese barra",
+    "duration": 4481,
+    "offset": 156239,
+    "lang": "es"
+  },
+  {
+    "text": "mcp acá tiene el MCP mount. lo que le",
+    "duration": 4800,
+    "offset": 161840,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a decir ahí al Fast AppI, que lo",
+    "duration": 3359,
+    "offset": 164800,
+    "lang": "es"
+  },
+  {
+    "text": "que va a hacer, va a",
+    "duration": 4440,
+    "offset": 166640,
+    "lang": "es"
+  },
+  {
+    "text": "intercambiar mensajes de",
+    "duration": 5601,
+    "offset": 168159,
+    "lang": "es"
+  },
+  {
+    "text": "MCP. Y fíjense que",
+    "duration": 7799,
+    "offset": 171080,
+    "lang": "es"
+  },
+  {
+    "text": "acá lo que voy a hacer es a e conectar",
+    "duration": 6759,
+    "offset": 173760,
+    "lang": "es"
+  },
+  {
+    "text": "esta",
+    "duration": 4321,
+    "offset": 178879,
+    "lang": "es"
+  },
+  {
+    "text": "función y le voy a pedir acá en este",
+    "duration": 5640,
+    "offset": 180519,
+    "lang": "es"
+  },
+  {
+    "text": "texto le voy a pedir por el clima en",
+    "duration": 5480,
+    "offset": 183200,
+    "lang": "es"
+  },
+  {
+    "text": "Buenos Aires, Argentina. O sea, acá lo",
+    "duration": 8921,
+    "offset": 186159,
+    "lang": "es"
+  },
+  {
+    "text": "que hago es conectarme al MCP client.",
+    "duration": 9559,
+    "offset": 188680,
+    "lang": "es"
+  },
+  {
+    "text": "SMCP client utilizando Gemini 2.0 Flash.",
+    "duration": 6200,
+    "offset": 195080,
+    "lang": "es"
+  },
+  {
+    "text": "Smp client que es el",
+    "duration": 6720,
+    "offset": 198239,
+    "lang": "es"
+  },
+  {
+    "text": "fastar a este MCP server que es el que",
+    "duration": 6640,
+    "offset": 201280,
+    "lang": "es"
+  },
+  {
+    "text": "está exponiendo la API. ¿Cómo lo va a",
+    "duration": 7041,
+    "offset": 204959,
+    "lang": "es"
+  },
+  {
+    "text": "contactar? Bien, porque tiene un package",
+    "duration": 8560,
+    "offset": 207920,
+    "lang": "es"
+  },
+  {
+    "text": "para hacer MCP client este el",
+    "duration": 8480,
+    "offset": 212000,
+    "lang": "es"
+  },
+  {
+    "text": "fasti. Entonces acá puse a funcionar el",
+    "duration": 6560,
+    "offset": 216480,
+    "lang": "es"
+  },
+  {
+    "text": "mcp server. Después",
+    "duration": 7880,
+    "offset": 220480,
+    "lang": "es"
+  },
+  {
+    "text": "tengo este que es el eh el fast que va a",
+    "duration": 6759,
+    "offset": 223040,
+    "lang": "es"
+  },
+  {
+    "text": "aceptar los",
+    "duration": 4200,
+    "offset": 228360,
+    "lang": "es"
+  },
+  {
+    "text": "mensajes barra mcp, mensajes especiales",
+    "duration": 5720,
+    "offset": 229799,
+    "lang": "es"
+  },
+  {
+    "text": "con el package especial de MCP. Y acá",
+    "duration": 5800,
+    "offset": 232560,
+    "lang": "es"
+  },
+  {
+    "text": "tengo corriendo",
+    "duration": 5601,
+    "offset": 235519,
+    "lang": "es"
+  },
+  {
+    "text": "el",
+    "duration": 9040,
+    "offset": 238360,
+    "lang": "es"
+  },
+  {
+    "text": "e el LLM que es el Yemini. Entonces acá",
+    "duration": 8640,
+    "offset": 241120,
+    "lang": "es"
+  },
+  {
+    "text": "escribo el mensaje. Fíjense que acá ya",
+    "duration": 4720,
+    "offset": 247400,
+    "lang": "es"
+  },
+  {
+    "text": "lo aceptó.",
+    "duration": 5479,
+    "offset": 249760,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá, ¿qué es lo que pasa? Este host",
+    "duration": 6839,
+    "offset": 252120,
+    "lang": "es"
+  },
+  {
+    "text": "que es el el",
+    "duration": 3720,
+    "offset": 255239,
+    "lang": "es"
+  },
+  {
+    "text": "Llp client. Y este MCP client le habla a",
+    "duration": 5560,
+    "offset": 260000,
+    "lang": "es"
+  },
+  {
+    "text": "este otro que es el MSP Server, que en",
+    "duration": 4521,
+    "offset": 263199,
+    "lang": "es"
+  },
+  {
+    "text": "definitiva el MSP Server los que tiene",
+    "duration": 5440,
+    "offset": 265560,
+    "lang": "es"
+  },
+  {
+    "text": "son los endi del sistema que yo quiero",
+    "duration": 5240,
+    "offset": 267720,
+    "lang": "es"
+  },
+  {
+    "text": "contactar. En cambio de tener que hacer",
+    "duration": 4280,
+    "offset": 271000,
+    "lang": "es"
+  },
+  {
+    "text": "todo un sistema que requiere que una",
+    "duration": 4920,
+    "offset": 272960,
+    "lang": "es"
+  },
+  {
+    "text": "persona se entrene y demás, directamente",
+    "duration": 5680,
+    "offset": 275280,
+    "lang": "es"
+  },
+  {
+    "text": "con lenguaje natural, yo pido por la e",
+    "duration": 6000,
+    "offset": 277880,
+    "lang": "es"
+  },
+  {
+    "text": "temperatura. Y fíjense que",
+    "duration": 9560,
+    "offset": 280960,
+    "lang": "es"
+  },
+  {
+    "text": "e acá me está dando el eh el clima en",
+    "duration": 6640,
+    "offset": 283880,
+    "lang": "es"
+  },
+  {
+    "text": "Argentina. Vamos a ver. Acá le dijimos",
+    "duration": 4600,
+    "offset": 291800,
+    "lang": "es"
+  },
+  {
+    "text": "en Buenos Aires,",
+    "duration": 5960,
+    "offset": 294440,
+    "lang": "es"
+  },
+  {
+    "text": "Argentina. Bien.",
+    "duration": 4000,
+    "offset": 296400,
+    "lang": "es"
+  },
+  {
+    "text": "Perfecto. Y ahí nos responde",
+    "duration": 7400,
+    "offset": 304880,
+    "lang": "es"
+  },
+  {
+    "text": "por el clima que hay en Buenos Aires,",
+    "duration": 7241,
+    "offset": 307639,
+    "lang": "es"
+  },
+  {
+    "text": "Argentina. Fíjense como en realidad todo",
+    "duration": 4960,
+    "offset": 312280,
+    "lang": "es"
+  },
+  {
+    "text": "lo que yo normalmente utilizaba a través",
+    "duration": 4720,
+    "offset": 314880,
+    "lang": "es"
+  },
+  {
+    "text": "de una API, ahora lo puedo usar lo puedo",
+    "duration": 5880,
+    "offset": 317240,
+    "lang": "es"
+  },
+  {
+    "text": "usar directamente a través de los MCP,",
+    "duration": 7520,
+    "offset": 319600,
+    "lang": "es"
+  },
+  {
+    "text": "solo con lenguaje natural.",
+    "duration": 4000,
+    "offset": 323120,
+    "lang": "es"
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "text": "Uh, okay. So, I just contact you because",
+    "duration": 9041,
+    "offset": 12639,
+    "lang": "en"
+  },
+  {
+    "text": "I need you to help me to um prepare an",
+    "duration": 7440,
+    "offset": 16480,
+    "lang": "en"
+  },
+  {
+    "text": "dissertation. Uh, how do you say",
+    "duration": 6280,
+    "offset": 21680,
+    "lang": "en"
+  },
+  {
+    "text": "dissertation in English?",
+    "duration": 4040,
+    "offset": 23920,
+    "lang": "en"
+  },
+  {
+    "text": "in English.",
+    "duration": 3160,
+    "offset": 37200,
+    "lang": "en"
+  },
+  {
+    "text": ">> I need you to help to English, please.",
+    "duration": 6561,
+    "offset": 40879,
+    "lang": "en"
+  },
+  {
+    "text": "Um, answer all the question in English.",
+    "duration": 6600,
+    "offset": 44320,
+    "lang": "en"
+  },
+  {
+    "text": "Can you do that?",
+    "duration": 3480,
+    "offset": 47440,
+    "lang": "en"
+  },
+  {
+    "text": "Yes, of course. I can definitely help",
+    "duration": 5279,
+    "offset": 55920,
+    "lang": "en"
+  },
+  {
+    "text": "you with that. What's the topic of your",
+    "duration": 3520,
+    "offset": 58640,
+    "lang": "en"
+  },
+  {
+    "text": "dissertation?",
+    "duration": 3360,
+    "offset": 61199,
+    "lang": "en"
+  },
+  {
+    "text": ">> Uh, please with American accent. Are you",
+    "duration": 5959,
+    "offset": 62160,
+    "lang": "en"
+  },
+  {
+    "text": "able to do that?",
+    "duration": 3560,
+    "offset": 64559,
+    "lang": "en"
+  },
+  {
+    "text": ">> Sure thing. Tell me about your",
+    "duration": 4081,
+    "offset": 68479,
+    "lang": "en"
+  },
+  {
+    "text": "dissertation topic so we can get",
+    "duration": 2480,
+    "offset": 70720,
+    "lang": "en"
+  },
+  {
+    "text": "started.",
+    "duration": 4160,
+    "offset": 72560,
+    "lang": "en"
+  },
+  {
+    "text": ">> Okay. I must talk about",
+    "duration": 6959,
+    "offset": 73200,
+    "lang": "en"
+  },
+  {
+    "text": "particular project in where I um working",
+    "duration": 6560,
+    "offset": 76720,
+    "lang": "en"
+  },
+  {
+    "text": "is an IoT internet of theme projects. It",
+    "duration": 4801,
+    "offset": 80159,
+    "lang": "en"
+  },
+  {
+    "text": "is divided in three parts. The first",
+    "duration": 4800,
+    "offset": 83280,
+    "lang": "en"
+  },
+  {
+    "text": "part is with ASP32",
+    "duration": 7280,
+    "offset": 84960,
+    "lang": "en"
+  },
+  {
+    "text": "that uh ASP32 is used to me to measure",
+    "duration": 7039,
+    "offset": 88080,
+    "lang": "en"
+  },
+  {
+    "text": "um weight and height",
+    "duration": 6400,
+    "offset": 92240,
+    "lang": "en"
+  },
+  {
+    "text": "for children's between four and 17. Is",
+    "duration": 6841,
+    "offset": 95119,
+    "lang": "en"
+  },
+  {
+    "text": "that the",
+    "duration": 3320,
+    "offset": 98640,
+    "lang": "en"
+  },
+  {
+    "text": "Yes, that sounds right. You're talking",
+    "duration": 5920,
+    "offset": 124640,
+    "lang": "en"
+  },
+  {
+    "text": "about an IoT project with three parts.",
+    "duration": 6720,
+    "offset": 127200,
+    "lang": "en"
+  },
+  {
+    "text": "And the first part uses an ESP32 to",
+    "duration": 5440,
+    "offset": 130560,
+    "lang": "en"
+  },
+  {
+    "text": "measure weight and height in children",
+    "duration": 5360,
+    "offset": 133920,
+    "lang": "en"
+  },
+  {
+    "text": "between four and 17 years old. What are",
+    "duration": 4879,
+    "offset": 136000,
+    "lang": "en"
+  },
+  {
+    "text": "the other parts of the project?",
+    "duration": 4000,
+    "offset": 139280,
+    "lang": "en"
+  },
+  {
+    "text": ">> Uh okay, the other part of the project",
+    "duration": 5921,
+    "offset": 140879,
+    "lang": "en"
+  },
+  {
+    "text": "is an app um which you have in your cell",
+    "duration": 7360,
+    "offset": 143280,
+    "lang": "en"
+  },
+  {
+    "text": "phone. The ESP32 using Wi-Fi",
+    "duration": 7040,
+    "offset": 146800,
+    "lang": "en"
+  },
+  {
+    "text": "uh connect to the",
+    "duration": 6160,
+    "offset": 150640,
+    "lang": "en"
+  },
+  {
+    "text": "cell phone. you receive the weight and",
+    "duration": 5759,
+    "offset": 153840,
+    "lang": "en"
+  },
+  {
+    "text": "height in the cell phone and you can add",
+    "duration": 6719,
+    "offset": 156800,
+    "lang": "en"
+  },
+  {
+    "text": "some metadata like DNA number or ID",
+    "duration": 7601,
+    "offset": 159599,
+    "lang": "en"
+  },
+  {
+    "text": "number uh age and location and some",
+    "duration": 5681,
+    "offset": 163519,
+    "lang": "en"
+  },
+  {
+    "text": "other metadata that they're really",
+    "duration": 5280,
+    "offset": 167200,
+    "lang": "en"
+  },
+  {
+    "text": "useful. So you press a button in the app",
+    "duration": 8080,
+    "offset": 169200,
+    "lang": "en"
+  },
+  {
+    "text": "and the third part activate and that um",
+    "duration": 8240,
+    "offset": 172480,
+    "lang": "en"
+  },
+  {
+    "text": "all the data collected in the app and",
+    "duration": 7120,
+    "offset": 177280,
+    "lang": "en"
+  },
+  {
+    "text": "using the HP32 with all the meta data",
+    "duration": 8560,
+    "offset": 180720,
+    "lang": "en"
+  },
+  {
+    "text": "sent to the cloud using um Atlas uh",
+    "duration": 7919,
+    "offset": 184400,
+    "lang": "en"
+  },
+  {
+    "text": "MongoDB Atlas. Okay, do you understand",
+    "duration": 6080,
+    "offset": 189280,
+    "lang": "en"
+  },
+  {
+    "text": "what I say? That's the that the was the",
+    "duration": 5681,
+    "offset": 192319,
+    "lang": "en"
+  },
+  {
+    "text": "right way to express. And what about my",
+    "duration": 5599,
+    "offset": 195360,
+    "lang": "en"
+  },
+  {
+    "text": "pronunciation?",
+    "duration": 2959,
+    "offset": 198000,
+    "lang": "en"
+  },
+  {
+    "text": "Uh, do you hear what I said?",
+    "duration": 4920,
+    "offset": 253360,
+    "lang": "en"
+  },
+  {
+    "text": "I see. So the second part is a mobile",
+    "duration": 5440,
+    "offset": 268240,
+    "lang": "en"
+  },
+  {
+    "text": "app where you receive the weight and",
+    "duration": 4879,
+    "offset": 271600,
+    "lang": "en"
+  },
+  {
+    "text": "height data from the ESP32",
+    "duration": 5519,
+    "offset": 273680,
+    "lang": "en"
+  },
+  {
+    "text": "and add additional metadata. And the",
+    "duration": 5280,
+    "offset": 276479,
+    "lang": "en"
+  },
+  {
+    "text": "third part is sending all that data",
+    "duration": 5681,
+    "offset": 279199,
+    "lang": "en"
+  },
+  {
+    "text": "including the metadata to MongoDB Atlas",
+    "duration": 6000,
+    "offset": 281759,
+    "lang": "en"
+  },
+  {
+    "text": "via Wi-Fi. Is that correct? your",
+    "duration": 4879,
+    "offset": 284880,
+    "lang": "en"
+  },
+  {
+    "text": "pronunciation.",
+    "duration": 5641,
+    "offset": 287759,
+    "lang": "en"
+  },
+  {
+    "text": ">> Okay, please proceed.",
+    "duration": 3641,
+    "offset": 289759,
+    "lang": "en"
+  },
+  {
+    "text": ">> Understood. You want me to focus on the",
+    "duration": 5519,
+    "offset": 295680,
+    "lang": "en"
+  },
+  {
+    "text": "pronunciation aspect as well. I'll do my",
+    "duration": 5200,
+    "offset": 298400,
+    "lang": "en"
+  },
+  {
+    "text": "best to provide clear and accurate",
+    "duration": 5041,
+    "offset": 301199,
+    "lang": "en"
+  },
+  {
+    "text": "American English pronunciation. What",
+    "duration": 4400,
+    "offset": 303600,
+    "lang": "en"
+  },
+  {
+    "text": "else can I help you with regarding your",
+    "duration": 2720,
+    "offset": 306240,
+    "lang": "en"
+  },
+  {
+    "text": "dissertation?",
+    "duration": 3039,
+    "offset": 308000,
+    "lang": "en"
+  },
+  {
+    "text": ">> Oh, no. Uh, nothing else. Thank you.",
+    "duration": 4560,
+    "offset": 308960,
+    "lang": "en"
+  },
+  {
+    "text": "Thank you very much. Um, thank you very",
+    "duration": 5041,
+    "offset": 311039,
+    "lang": "en"
+  },
+  {
+    "text": "much for your",
+    "duration": 2560,
+    "offset": 313520,
+    "lang": "en"
+  }
+]

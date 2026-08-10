@@ -19,6 +19,19 @@ const lastSyncObj = await getLastSync();
 const lastSync = lastSyncObj?.timestamp || null;
 
 const tagsList = Array.isArray(video.tags) ? video.tags : [];
+
+// Extract start time parameter 't' (in seconds) and rewrite iframe src inside bodyHtml
+const t = Astro.url.searchParams.get('t');
+let bodyHtml = video.bodyHtml;
+if (t) {
+  const startSeconds = parseInt(t, 10);
+  if (!isNaN(startSeconds)) {
+    bodyHtml = bodyHtml.replace(
+      /src="https:\/\/www\.youtube\.com\/embed\/([^"?]+)"/g,
+      `src="https://www.youtube.com/embed/$1?start=${startSeconds}&autoplay=1"`
+    );
+  }
+}
 ---
 
 <Layout title={video.title} lastSync={lastSync}>
@@ -38,7 +51,7 @@ const tagsList = Array.isArray(video.tags) ? video.tags : [];
     <div class="main-column">
       <!-- Video Details & Body (rendered directly from the OKF Markdown document) -->
       <div class="video-body-card">
-        <article class="markdown-content" set:html={video.bodyHtml}></article>
+        <article class="markdown-content" set:html={bodyHtml}></article>
       </div>
       
       <!-- Video Tags -->

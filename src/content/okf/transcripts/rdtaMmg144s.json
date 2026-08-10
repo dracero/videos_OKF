@@ -1,0 +1,1034 @@
+[
+  {
+    "text": "Tenemos acá una interfaz web que es el",
+    "duration": 5080,
+    "offset": 1640,
+    "lang": "es"
+  },
+  {
+    "text": "frontend que va a interfacear con cada",
+    "duration": 4999,
+    "offset": 4680,
+    "lang": "es"
+  },
+  {
+    "text": "uno de nuestros agentes. Acá tenemos",
+    "duration": 5760,
+    "offset": 6720,
+    "lang": "es"
+  },
+  {
+    "text": "todos los agentes. Cada uno funciona en",
+    "duration": 5481,
+    "offset": 9679,
+    "lang": "es"
+  },
+  {
+    "text": "forma autónoma y separada.",
+    "duration": 5840,
+    "offset": 12480,
+    "lang": "es"
+  },
+  {
+    "text": "Cada uno de estos agentes, este es el",
+    "duration": 4959,
+    "offset": 15160,
+    "lang": "es"
+  },
+  {
+    "text": "agente orquestador, este es un agente",
+    "duration": 3640,
+    "offset": 18320,
+    "lang": "es"
+  },
+  {
+    "text": "médico, este es un generador de imágenes",
+    "duration": 4041,
+    "offset": 20119,
+    "lang": "es"
+  },
+  {
+    "text": "y este es un agente multimodal, o sea,",
+    "duration": 3920,
+    "offset": 21960,
+    "lang": "es"
+  },
+  {
+    "text": "que puede ver imágenes y responder",
+    "duration": 4199,
+    "offset": 24160,
+    "lang": "es"
+  },
+  {
+    "text": "problemas de física.",
+    "duration": 4239,
+    "offset": 25880,
+    "lang": "es"
+  },
+  {
+    "text": "Este agente orquestador es el que se va",
+    "duration": 4561,
+    "offset": 28359,
+    "lang": "es"
+  },
+  {
+    "text": "a comunicar con el frontend y cada uno",
+    "duration": 5321,
+    "offset": 30119,
+    "lang": "es"
+  },
+  {
+    "text": "de estos grupos, porque son sistemas",
+    "duration": 4520,
+    "offset": 32920,
+    "lang": "es"
+  },
+  {
+    "text": "multiagentes, cada uno de estos grupos",
+    "duration": 4160,
+    "offset": 35440,
+    "lang": "es"
+  },
+  {
+    "text": "de agentes",
+    "duration": 5639,
+    "offset": 37440,
+    "lang": "es"
+  },
+  {
+    "text": "lo que eh van a hacer es conectarse a",
+    "duration": 5880,
+    "offset": 39600,
+    "lang": "es"
+  },
+  {
+    "text": "través del orquestador. El orquestador",
+    "duration": 4241,
+    "offset": 43079,
+    "lang": "es"
+  },
+  {
+    "text": "va a discriminar de qué se trata lo que",
+    "duration": 3559,
+    "offset": 45480,
+    "lang": "es"
+  },
+  {
+    "text": "yo estoy haciendo y eso se lo va a",
+    "duration": 3440,
+    "offset": 47320,
+    "lang": "es"
+  },
+  {
+    "text": "mandar a la gente. Primero vamos a",
+    "duration": 4721,
+    "offset": 49039,
+    "lang": "es"
+  },
+  {
+    "text": "registrarlos.",
+    "duration": 3000,
+    "offset": 50760,
+    "lang": "es"
+  },
+  {
+    "text": "Acá registramos el agente de física",
+    "duration": 3760,
+    "offset": 56000,
+    "lang": "es"
+  },
+  {
+    "text": "multimodal.",
+    "duration": 4040,
+    "offset": 58120,
+    "lang": "es"
+  },
+  {
+    "text": "Cada agente se presenta en el protocolo",
+    "duration": 4759,
+    "offset": 59760,
+    "lang": "es"
+  },
+  {
+    "text": "con algo, algo que se llama Aen card,",
+    "duration": 4560,
+    "offset": 62160,
+    "lang": "es"
+  },
+  {
+    "text": "que le dice al orquestador qué es lo que",
+    "duration": 3600,
+    "offset": 64519,
+    "lang": "es"
+  },
+  {
+    "text": "puede hacer y el orquestador se lo",
+    "duration": 4160,
+    "offset": 66720,
+    "lang": "es"
+  },
+  {
+    "text": "transmite al frontend.",
+    "duration": 4640,
+    "offset": 68119,
+    "lang": "es"
+  },
+  {
+    "text": "Esto podría ser cualquier dirección IP,",
+    "duration": 4879,
+    "offset": 70880,
+    "lang": "es"
+  },
+  {
+    "text": "¿no? No, no necesariamente tiene que ser",
+    "duration": 4481,
+    "offset": 72759,
+    "lang": "es"
+  },
+  {
+    "text": "un local host. Yo porque lo estoy",
+    "duration": 3040,
+    "offset": 75759,
+    "lang": "es"
+  },
+  {
+    "text": "probando en mi máquina. Este es el",
+    "duration": 5040,
+    "offset": 77240,
+    "lang": "es"
+  },
+  {
+    "text": "asistente médico.",
+    "duration": 3481,
+    "offset": 78799,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí me confundí. Es local",
+    "duration": 6960,
+    "offset": 87680,
+    "lang": "es"
+  },
+  {
+    "text": "host 2.101.",
+    "duration": 3561,
+    "offset": 91079,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá está el generador de imágenes.",
+    "duration": 4481,
+    "offset": 95759,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora vamos a generar una nueva",
+    "duration": 4720,
+    "offset": 97640,
+    "lang": "es"
+  },
+  {
+    "text": "conversación.",
+    "duration": 5000,
+    "offset": 100240,
+    "lang": "es"
+  },
+  {
+    "text": "Y ahora vamos, elegimos esa nueva",
+    "duration": 4560,
+    "offset": 102360,
+    "lang": "es"
+  },
+  {
+    "text": "conversación",
+    "duration": 4800,
+    "offset": 105240,
+    "lang": "es"
+  },
+  {
+    "text": "y vamos al chat",
+    "duration": 5680,
+    "offset": 106920,
+    "lang": "es"
+  },
+  {
+    "text": "y le vamos a decir",
+    "duration": 5800,
+    "offset": 110040,
+    "lang": "es"
+  },
+  {
+    "text": "al e",
+    "duration": 5760,
+    "offset": 112600,
+    "lang": "es"
+  },
+  {
+    "text": "le vamos a decir, por ejemplo, tomamos",
+    "duration": 4959,
+    "offset": 115840,
+    "lang": "es"
+  },
+  {
+    "text": "esta imagen",
+    "duration": 7600,
+    "offset": 118360,
+    "lang": "es"
+  },
+  {
+    "text": "y le vamos a decir que me",
+    "duration": 8920,
+    "offset": 120799,
+    "lang": "es"
+  },
+  {
+    "text": "podés explicar",
+    "duration": 3759,
+    "offset": 125960,
+    "lang": "es"
+  },
+  {
+    "text": "el fen fenómeno de la imagen.",
+    "duration": 8200,
+    "offset": 130200,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí les pedimos que nos explique ese",
+    "duration": 4679,
+    "offset": 135920,
+    "lang": "es"
+  },
+  {
+    "text": "fenómeno, bien, que es una onda viajera.",
+    "duration": 4760,
+    "offset": 138400,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá vamos a ver",
+    "duration": 5920,
+    "offset": 140599,
+    "lang": "es"
+  },
+  {
+    "text": "ya el agente orquestador",
+    "duration": 6320,
+    "offset": 143160,
+    "lang": "es"
+  },
+  {
+    "text": "descubre que se trata de algo relativo a",
+    "duration": 5720,
+    "offset": 146519,
+    "lang": "es"
+  },
+  {
+    "text": "física y se lo manda al agente de física",
+    "duration": 4640,
+    "offset": 149480,
+    "lang": "es"
+  },
+  {
+    "text": "multimodal. Y el agente de física",
+    "duration": 4841,
+    "offset": 152239,
+    "lang": "es"
+  },
+  {
+    "text": "multimodal, fíjense que recibe el texto",
+    "duration": 5960,
+    "offset": 154120,
+    "lang": "es"
+  },
+  {
+    "text": "y la imagen. Todo esto se hace",
+    "duration": 5320,
+    "offset": 157080,
+    "lang": "es"
+  },
+  {
+    "text": "comunicándose a través de protocolos de",
+    "duration": 5799,
+    "offset": 160080,
+    "lang": "es"
+  },
+  {
+    "text": "internet. ¿Qué significa? Significa que",
+    "duration": 5320,
+    "offset": 162400,
+    "lang": "es"
+  },
+  {
+    "text": "esto puede estar geográficamente",
+    "duration": 3761,
+    "offset": 165879,
+    "lang": "es"
+  },
+  {
+    "text": "distribuido y la máquina donde está el",
+    "duration": 4480,
+    "offset": 167720,
+    "lang": "es"
+  },
+  {
+    "text": "orquestador no necesariamente tiene que",
+    "duration": 8239,
+    "offset": 169640,
+    "lang": "es"
+  },
+  {
+    "text": "ser la misma máquina a donde está el e",
+    "duration": 7880,
+    "offset": 172200,
+    "lang": "es"
+  },
+  {
+    "text": "el frontend. Y obviamente el frontén va",
+    "duration": 4521,
+    "offset": 177879,
+    "lang": "es"
+  },
+  {
+    "text": "a estar en cada uno de los usuarios,",
+    "duration": 4159,
+    "offset": 180080,
+    "lang": "es"
+  },
+  {
+    "text": "pero el agente este de física puede",
+    "duration": 3399,
+    "offset": 182400,
+    "lang": "es"
+  },
+  {
+    "text": "estar en la Facultad de Ingeniería, por",
+    "duration": 3360,
+    "offset": 184239,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo. Ahí está respondiendo. Los",
+    "duration": 3321,
+    "offset": 185799,
+    "lang": "es"
+  },
+  {
+    "text": "errores que se ven es porque yo tengo",
+    "duration": 4761,
+    "offset": 187599,
+    "lang": "es"
+  },
+  {
+    "text": "una placa Nvidia 1070 y ya la",
+    "duration": 5880,
+    "offset": 189120,
+    "lang": "es"
+  },
+  {
+    "text": "arquitectura eh de Nvidia no da para",
+    "duration": 6320,
+    "offset": 192360,
+    "lang": "es"
+  },
+  {
+    "text": "eso. Ahí lo hizo eh exitosamente",
+    "duration": 6239,
+    "offset": 195000,
+    "lang": "es"
+  },
+  {
+    "text": "y en cualquier momento v acá llegó la",
+    "duration": 4400,
+    "offset": 198680,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta. Fíjense que dice, \"El gráfico",
+    "duration": 3360,
+    "offset": 201239,
+    "lang": "es"
+  },
+  {
+    "text": "que proporcionaste ilustra el movimiento",
+    "duration": 3760,
+    "offset": 203080,
+    "lang": "es"
+  },
+  {
+    "text": "armónico simple. Es un concepto",
+    "duration": 3840,
+    "offset": 204599,
+    "lang": "es"
+  },
+  {
+    "text": "fundamental de física. Este fenómeno",
+    "duration": 2800,
+    "offset": 206840,
+    "lang": "es"
+  },
+  {
+    "text": "describe un tipo de movimiento",
+    "duration": 2800,
+    "offset": 208439,
+    "lang": "es"
+  },
+  {
+    "text": "oscilatorio periódico donde una",
+    "duration": 3319,
+    "offset": 209640,
+    "lang": "es"
+  },
+  {
+    "text": "partícula se mueve a un lado alrededor",
+    "duration": 3521,
+    "offset": 211239,
+    "lang": "es"
+  },
+  {
+    "text": "de una posición de equilibrio. Es tal",
+    "duration": 4480,
+    "offset": 212959,
+    "lang": "es"
+  },
+  {
+    "text": "cual lo que está acá demostrando es y",
+    "duration": 5240,
+    "offset": 214760,
+    "lang": "es"
+  },
+  {
+    "text": "acá explica todo, explicación teórica",
+    "duration": 5841,
+    "offset": 217439,
+    "lang": "es"
+  },
+  {
+    "text": "todo con las fórmulas y demás del más.",
+    "duration": 5560,
+    "offset": 220000,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué pasa si yo le pongo una imagen? Por",
+    "duration": 4879,
+    "offset": 223280,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo, voy a ir a buscar",
+    "duration": 5560,
+    "offset": 225560,
+    "lang": "es"
+  },
+  {
+    "text": "eh en descargas",
+    "duration": 5640,
+    "offset": 228159,
+    "lang": "es"
+  },
+  {
+    "text": "voy a buscar esta imagen que es una",
+    "duration": 7479,
+    "offset": 231120,
+    "lang": "es"
+  },
+  {
+    "text": "anatomía patológica y le digo que me das",
+    "duration": 7520,
+    "offset": 233799,
+    "lang": "es"
+  },
+  {
+    "text": "un",
+    "duration": 4761,
+    "offset": 238599,
+    "lang": "es"
+  },
+  {
+    "text": "diagnóstico",
+    "duration": 4161,
+    "offset": 241319,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 4680,
+    "offset": 243360,
+    "lang": "es"
+  },
+  {
+    "text": "esa imagen. Le pedí que me diera un",
+    "duration": 6720,
+    "offset": 245480,
+    "lang": "es"
+  },
+  {
+    "text": "diagnóstico de esa imagen. Fíjense que",
+    "duration": 6199,
+    "offset": 248040,
+    "lang": "es"
+  },
+  {
+    "text": "ahora se activó",
+    "duration": 4559,
+    "offset": 252200,
+    "lang": "es"
+  },
+  {
+    "text": "el agente que procesa consultas médicas.",
+    "duration": 6720,
+    "offset": 254239,
+    "lang": "es"
+  },
+  {
+    "text": "Y si vamos a ver el orquestador,",
+    "duration": 5761,
+    "offset": 256759,
+    "lang": "es"
+  },
+  {
+    "text": "eh,",
+    "duration": 5081,
+    "offset": 260959,
+    "lang": "es"
+  },
+  {
+    "text": "acá, fíjense, el mensaje llegó acá.",
+    "duration": 7640,
+    "offset": 262520,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, y acá se da cuenta que tiene que ir",
+    "duration": 7120,
+    "offset": 266040,
+    "lang": "es"
+  },
+  {
+    "text": "al e archivo de imagen detectado. Bien,",
+    "duration": 5240,
+    "offset": 270160,
+    "lang": "es"
+  },
+  {
+    "text": "se da cuenta que tiene que llamar al al",
+    "duration": 5200,
+    "offset": 273160,
+    "lang": "es"
+  },
+  {
+    "text": "asistente médico y acá está trabajando",
+    "duration": 5799,
+    "offset": 275400,
+    "lang": "es"
+  },
+  {
+    "text": "el asistente médico. El asistente médico",
+    "duration": 4839,
+    "offset": 278360,
+    "lang": "es"
+  },
+  {
+    "text": "no solamente hace toda la clasificación",
+    "duration": 4361,
+    "offset": 281199,
+    "lang": "es"
+  },
+  {
+    "text": "de la imagen, sino que también va,",
+    "duration": 4121,
+    "offset": 283199,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que acá dice, va a buscar a",
+    "duration": 3280,
+    "offset": 285560,
+    "lang": "es"
+  },
+  {
+    "text": "internet, tiene un sistema que se llama",
+    "duration": 5719,
+    "offset": 287320,
+    "lang": "es"
+  },
+  {
+    "text": "Tavil, va a buscar a a internet para",
+    "duration": 9079,
+    "offset": 288840,
+    "lang": "es"
+  },
+  {
+    "text": "completar todo el diagnóstico y ahora",
+    "duration": 6801,
+    "offset": 293039,
+    "lang": "es"
+  },
+  {
+    "text": "dice que ya lo terminó y en cualquier",
+    "duration": 4441,
+    "offset": 297919,
+    "lang": "es"
+  },
+  {
+    "text": "momento también va a llegar acá y acá",
+    "duration": 5000,
+    "offset": 299840,
+    "lang": "es"
+  },
+  {
+    "text": "llega bien",
+    "duration": 4240,
+    "offset": 302360,
+    "lang": "es"
+  },
+  {
+    "text": "como asistente médico. Fíjense que",
+    "duration": 3440,
+    "offset": 304840,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros no tuvimos que decirle nada,",
+    "duration": 3640,
+    "offset": 306600,
+    "lang": "es"
+  },
+  {
+    "text": "simplemente lo detecta. Dice, \"Como",
+    "duration": 3919,
+    "offset": 308280,
+    "lang": "es"
+  },
+  {
+    "text": "asistente médico he revisado la imagen",
+    "duration": 4519,
+    "offset": 310240,
+    "lang": "es"
+  },
+  {
+    "text": "proporcionada, es crucial entender que",
+    "duration": 4121,
+    "offset": 312199,
+    "lang": "es"
+  },
+  {
+    "text": "no puedo dar un diagnóstico médico",
+    "duration": 3641,
+    "offset": 314759,
+    "lang": "es"
+  },
+  {
+    "text": "definitivo basándome únicamente en una",
+    "duration": 4520,
+    "offset": 316320,
+    "lang": "es"
+  },
+  {
+    "text": "imagen y sin el contexto clínico",
+    "duration": 3639,
+    "offset": 318400,
+    "lang": "es"
+  },
+  {
+    "text": "completo del paciente.\" Descripción",
+    "duration": 3720,
+    "offset": 320840,
+    "lang": "es"
+  },
+  {
+    "text": "general y la imagen muestra una, fíjense",
+    "duration": 4801,
+    "offset": 322039,
+    "lang": "es"
+  },
+  {
+    "text": "que esto lo descubre todo solamente con",
+    "duration": 5000,
+    "offset": 324560,
+    "lang": "es"
+  },
+  {
+    "text": "su promistopatología con característar y",
+    "duration": 4400,
+    "offset": 326840,
+    "lang": "es"
+  },
+  {
+    "text": "arquitectura con alto grado de atipia.",
+    "duration": 3040,
+    "offset": 329560,
+    "lang": "es"
+  },
+  {
+    "text": "Sugiero una proliferación celular. lo",
+    "duration": 3160,
+    "offset": 331240,
+    "lang": "es"
+  },
+  {
+    "text": "saqué de un lugar donde había este",
+    "duration": 5080,
+    "offset": 332600,
+    "lang": "es"
+  },
+  {
+    "text": "cánceres de pulmón y ese y esas cosas.",
+    "duration": 5359,
+    "offset": 334400,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, acá está todo el diagnóstico.",
+    "duration": 4760,
+    "offset": 337680,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora yo a propósito puse un agente que",
+    "duration": 4280,
+    "offset": 339759,
+    "lang": "es"
+  },
+  {
+    "text": "no funcionaba, que es el que genera",
+    "duration": 5960,
+    "offset": 342440,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes y le voy a decir,",
+    "duration": 4361,
+    "offset": 344039,
+    "lang": "es"
+  },
+  {
+    "text": "¿me podés hacer la imagen de un mono",
+    "duration": 8159,
+    "offset": 348880,
+    "lang": "es"
+  },
+  {
+    "text": "astronauta",
+    "duration": 6519,
+    "offset": 354240,
+    "lang": "es"
+  },
+  {
+    "text": "andando en bicicleta? Fíjense como el",
+    "duration": 6401,
+    "offset": 357039,
+    "lang": "es"
+  },
+  {
+    "text": "sistema es totalmente independiente, que",
+    "duration": 5401,
+    "offset": 360759,
+    "lang": "es"
+  },
+  {
+    "text": "yo le pregunto esto",
+    "duration": 4159,
+    "offset": 363440,
+    "lang": "es"
+  },
+  {
+    "text": "y se lo estoy preguntando a una gente",
+    "duration": 4120,
+    "offset": 366160,
+    "lang": "es"
+  },
+  {
+    "text": "que no funciona",
+    "duration": 5040,
+    "offset": 367599,
+    "lang": "es"
+  },
+  {
+    "text": "y todo lo otro no tuvo problemas.",
+    "duration": 6840,
+    "offset": 370280,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces ahí se va a dar cuenta",
+    "duration": 7960,
+    "offset": 372639,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene que ir al al agente generador",
+    "duration": 5960,
+    "offset": 377120,
+    "lang": "es"
+  },
+  {
+    "text": "de imágenes. Este agente generador de",
+    "duration": 4401,
+    "offset": 380599,
+    "lang": "es"
+  },
+  {
+    "text": "imágenes yo a propósito lo hice para que",
+    "duration": 4640,
+    "offset": 383080,
+    "lang": "es"
+  },
+  {
+    "text": "no funcione. Y fíjense que acá dice, \"Lo",
+    "duration": 5080,
+    "offset": 385000,
+    "lang": "es"
+  },
+  {
+    "text": "siento, no pude generar la imagen del",
+    "duration": 4160,
+    "offset": 387720,
+    "lang": "es"
+  },
+  {
+    "text": "mono astronauta andando en bicicleta.",
+    "duration": 3040,
+    "offset": 390080,
+    "lang": "es"
+  },
+  {
+    "text": "Parece que hubo un problema con el",
+    "duration": 2560,
+    "offset": 391880,
+    "lang": "es"
+  },
+  {
+    "text": "servicio de generación de imagen. Está",
+    "duration": 4199,
+    "offset": 393120,
+    "lang": "es"
+  },
+  {
+    "text": "hecho a propósito. Pero ven cómo es todo",
+    "duration": 4800,
+    "offset": 394440,
+    "lang": "es"
+  },
+  {
+    "text": "independiente, cómo se puede armar esto",
+    "duration": 5041,
+    "offset": 397319,
+    "lang": "es"
+  },
+  {
+    "text": "como si fuesen ladrillitos.",
+    "duration": 5200,
+    "offset": 399240,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá sigue, si yo quiero seguir",
+    "duration": 4320,
+    "offset": 402360,
+    "lang": "es"
+  },
+  {
+    "text": "haciendo consultas,",
+    "duration": 4840,
+    "offset": 404440,
+    "lang": "es"
+  },
+  {
+    "text": "puedo seguir haciendo consultas sin",
+    "duration": 5359,
+    "offset": 406680,
+    "lang": "es"
+  },
+  {
+    "text": "ningún tipo de problemas y él se va a",
+    "duration": 5560,
+    "offset": 409280,
+    "lang": "es"
+  },
+  {
+    "text": "dar cuenta. Le puedo pedir acá, bueno,",
+    "duration": 4840,
+    "offset": 412039,
+    "lang": "es"
+  },
+  {
+    "text": "yo sé que el otro lo rompí a propósito",
+    "duration": 4840,
+    "offset": 414840,
+    "lang": "es"
+  },
+  {
+    "text": "para que se vieran, pero le puedo pedir",
+    "duration": 4320,
+    "offset": 416879,
+    "lang": "es"
+  },
+  {
+    "text": "otra",
+    "duration": 4560,
+    "offset": 419680,
+    "lang": "es"
+  },
+  {
+    "text": "imagen médica. Puedo ir a a captura de",
+    "duration": 5560,
+    "offset": 421199,
+    "lang": "es"
+  },
+  {
+    "text": "pantalla,",
+    "duration": 4440,
+    "offset": 424240,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo. Le puedo subir esto. ¿Me",
+    "duration": 6401,
+    "offset": 426759,
+    "lang": "es"
+  },
+  {
+    "text": "explicas? ¿Me",
+    "duration": 4480,
+    "offset": 428680,
+    "lang": "es"
+  },
+  {
+    "text": "explicas qué es eso?",
+    "duration": 5880,
+    "offset": 434599,
+    "lang": "es"
+  },
+  {
+    "text": "Y ahí",
+    "duration": 4359,
+    "offset": 438240,
+    "lang": "es"
+  },
+  {
+    "text": "el agente orquestador",
+    "duration": 4521,
+    "offset": 440479,
+    "lang": "es"
+  },
+  {
+    "text": "lo que hizo fue se lo mandó nuevamente a",
+    "duration": 4961,
+    "offset": 442599,
+    "lang": "es"
+  },
+  {
+    "text": "este que como habíamos visto, es el",
+    "duration": 7120,
+    "offset": 445000,
+    "lang": "es"
+  },
+  {
+    "text": "agente de física.",
+    "duration": 4560,
+    "offset": 447560,
+    "lang": "es"
+  }
+]

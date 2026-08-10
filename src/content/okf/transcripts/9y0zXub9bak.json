@@ -1,0 +1,356 @@
+[
+  {
+    "text": "Bueno hoy usamos los artifacts de quen y",
+    "duration": 8001,
+    "offset": 1199,
+    "lang": "es"
+  },
+  {
+    "text": "le pedimos que nos hiciera sobre un",
+    "duration": 4880,
+    "offset": 6759,
+    "lang": "es"
+  },
+  {
+    "text": "fondo azul oscuro dos botones grises con",
+    "duration": 5160,
+    "offset": 9200,
+    "lang": "es"
+  },
+  {
+    "text": "puntas redondeadas y letras negras que",
+    "duration": 5321,
+    "offset": 11639,
+    "lang": "es"
+  },
+  {
+    "text": "digan incrementar y incrementar un Label",
+    "duration": 4919,
+    "offset": 14360,
+    "lang": "es"
+  },
+  {
+    "text": "en medio arriba de los dos botones que",
+    "duration": 4040,
+    "offset": 16960,
+    "lang": "es"
+  },
+  {
+    "text": "tienen que estar en medio de la pantalla",
+    "duration": 3121,
+    "offset": 19279,
+    "lang": "es"
+  },
+  {
+    "text": "pero incrementar a la izquierda y",
+    "duration": 3800,
+    "offset": 21000,
+    "lang": "es"
+  },
+  {
+    "text": "decrementar a la derecha y en el lbel",
+    "duration": 3920,
+    "offset": 22400,
+    "lang": "es"
+  },
+  {
+    "text": "empieza en cero pero es incrementa o",
+    "duration": 3960,
+    "offset": 24800,
+    "lang": "es"
+  },
+  {
+    "text": "decrementa según los botones que se el",
+    "duration": 5320,
+    "offset": 26320,
+    "lang": "es"
+  },
+  {
+    "text": "botón que se presione",
+    "duration": 5720,
+    "offset": 28760,
+    "lang": "es"
+  },
+  {
+    "text": "le pusimos ese prompt nos hizo el código",
+    "duration": 6640,
+    "offset": 31640,
+    "lang": "es"
+  },
+  {
+    "text": "con artifact y a la derecha podemos ver",
+    "duration": 6239,
+    "offset": 34480,
+    "lang": "es"
+  },
+  {
+    "text": "que lo que nosotros pedimos funciona y",
+    "duration": 6320,
+    "offset": 38280,
+    "lang": "es"
+  },
+  {
+    "text": "acá tenemos todo el código ahora qué",
+    "duration": 8160,
+    "offset": 40719,
+    "lang": "es"
+  },
+  {
+    "text": "hicimos copiamos el código y fuimos a la",
+    "duration": 7920,
+    "offset": 44600,
+    "lang": "es"
+  },
+  {
+    "text": "página bt",
+    "duration": 3641,
+    "offset": 48879,
+    "lang": "es"
+  },
+  {
+    "text": "New y a acá vamos a ir vamos a mostrar",
+    "duration": 7440,
+    "offset": 57320,
+    "lang": "es"
+  },
+  {
+    "text": "porque los tenemos acá en",
+    "duration": 7161,
+    "offset": 62239,
+    "lang": "es"
+  },
+  {
+    "text": "la página B New lo que hicimos en el",
+    "duration": 7800,
+    "offset": 64760,
+    "lang": "es"
+  },
+  {
+    "text": "prompt fue pegar el código el código que",
+    "duration": 5560,
+    "offset": 69400,
+    "lang": "es"
+  },
+  {
+    "text": "nos había dado que estaba en ccs",
+    "duration": 4400,
+    "offset": 72560,
+    "lang": "es"
+  },
+  {
+    "text": "javascript",
+    "duration": 5040,
+    "offset": 74960,
+    "lang": "es"
+  },
+  {
+    "text": "eh le pusimos Necesito que tomes este",
+    "duration": 5320,
+    "offset": 76960,
+    "lang": "es"
+  },
+  {
+    "text": "código y lo conviertas en componentes",
+    "duration": 4560,
+    "offset": 80000,
+    "lang": "es"
+  },
+  {
+    "text": "react en un entorno",
+    "duration": 6159,
+    "offset": 82280,
+    "lang": "es"
+  },
+  {
+    "text": "next un componente para cada botón y uno",
+    "duration": 6080,
+    "offset": 84560,
+    "lang": "es"
+  },
+  {
+    "text": "para el Label en archivo separados y que",
+    "duration": 4000,
+    "offset": 88439,
+    "lang": "es"
+  },
+  {
+    "text": "el botón se actualice mediante el uso de",
+    "duration": 5839,
+    "offset": 90640,
+    "lang": "es"
+  },
+  {
+    "text": "redux Entonces nos creó todo después",
+    "duration": 7040,
+    "offset": 92439,
+    "lang": "es"
+  },
+  {
+    "text": "seguimos haciendo prom Team le pedimos",
+    "duration": 6441,
+    "offset": 96479,
+    "lang": "es"
+  },
+  {
+    "text": "que creara router para hacer un menú que",
+    "duration": 5600,
+    "offset": 99479,
+    "lang": "es"
+  },
+  {
+    "text": "permita guardar y leer y después le",
+    "duration": 5199,
+    "offset": 102920,
+    "lang": "es"
+  },
+  {
+    "text": "dijimos que en eso de guardar y leer eh",
+    "duration": 6121,
+    "offset": 105079,
+    "lang": "es"
+  },
+  {
+    "text": "pusiera la posibilidad de guardarlo en",
+    "duration": 5201,
+    "offset": 108119,
+    "lang": "es"
+  },
+  {
+    "text": "una base de datos mongodb como todos",
+    "duration": 5279,
+    "offset": 111200,
+    "lang": "es"
+  },
+  {
+    "text": "saben nex es un",
+    "duration": 7799,
+    "offset": 113320,
+    "lang": "es"
+  },
+  {
+    "text": "eh framework full stack Así que utilizó",
+    "duration": 6881,
+    "offset": 116479,
+    "lang": "es"
+  },
+  {
+    "text": "esa ese server Side rendering que dan",
+    "duration": 4881,
+    "offset": 121119,
+    "lang": "es"
+  },
+  {
+    "text": "los framework full stack y acá también",
+    "duration": 3959,
+    "offset": 123360,
+    "lang": "es"
+  },
+  {
+    "text": "nos creó en",
+    "duration": 3440,
+    "offset": 126000,
+    "lang": "es"
+  },
+  {
+    "text": "Api",
+    "duration": 6081,
+    "offset": 127319,
+    "lang": "es"
+  },
+  {
+    "text": "el los métodos para poder leer y",
+    "duration": 7320,
+    "offset": 129440,
+    "lang": "es"
+  },
+  {
+    "text": "escribir y nos creó las funciones para",
+    "duration": 6680,
+    "offset": 133400,
+    "lang": "es"
+  },
+  {
+    "text": "poder leer y escribir y el menú y todo",
+    "duration": 5800,
+    "offset": 136760,
+    "lang": "es"
+  },
+  {
+    "text": "lo que vimos en B lo pudimos",
+    "duration": 5280,
+    "offset": 140080,
+    "lang": "es"
+  },
+  {
+    "text": "exportar stackblitz lo podemos probar en",
+    "duration": 5080,
+    "offset": 142560,
+    "lang": "es"
+  },
+  {
+    "text": "stackbit Si queremos hacer el deployment",
+    "duration": 4599,
+    "offset": 145360,
+    "lang": "es"
+  },
+  {
+    "text": "o bajarlo a una máquina local y usarlo",
+    "duration": 5319,
+    "offset": 147640,
+    "lang": "es"
+  },
+  {
+    "text": "pero a lo que voy que usamos router",
+    "duration": 6920,
+    "offset": 149959,
+    "lang": "es"
+  },
+  {
+    "text": "redux usamos el backend de con el server",
+    "duration": 7161,
+    "offset": 152959,
+    "lang": "es"
+  },
+  {
+    "text": "rendering de nexts usamos mongus y todo",
+    "duration": 6561,
+    "offset": 156879,
+    "lang": "es"
+  },
+  {
+    "text": "eso lo hicimos en algo menos de una hora",
+    "duration": 6640,
+    "offset": 160120,
+    "lang": "es"
+  },
+  {
+    "text": "porque fue creando absolutamente todo",
+    "duration": 7040,
+    "offset": 163440,
+    "lang": "es"
+  },
+  {
+    "text": "los artifacts de quen y la página de bt",
+    "duration": 6720,
+    "offset": 166760,
+    "lang": "es"
+  },
+  {
+    "text": "como todos saben tanto quen como bolt",
+    "duration": 5119,
+    "offset": 170480,
+    "lang": "es"
+  },
+  {
+    "text": "son recursos que se pueden utilizar",
+    "duration": 5800,
+    "offset": 173480,
+    "lang": "es"
+  },
+  {
+    "text": "totalmente gratis",
+    "duration": 3681,
+    "offset": 175599,
+    "lang": "es"
+  }
+]

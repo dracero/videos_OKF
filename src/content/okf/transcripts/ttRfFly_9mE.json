@@ -1,0 +1,308 @@
+[
+  {
+    "text": "Bueno, vamos a mostrar cómo funciona el",
+    "duration": 5481,
+    "offset": 599,
+    "lang": "es"
+  },
+  {
+    "text": "MCP Server de Visual Studio Code.",
+    "duration": 6001,
+    "offset": 3399,
+    "lang": "es"
+  },
+  {
+    "text": "Tenemos configuradas dos features. Uno",
+    "duration": 6760,
+    "offset": 6080,
+    "lang": "es"
+  },
+  {
+    "text": "es la posibilidad de conectarse a la web",
+    "duration": 6080,
+    "offset": 9400,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando Playwright y otra es la",
+    "duration": 5680,
+    "offset": 12840,
+    "lang": "es"
+  },
+  {
+    "text": "posibilidad de conectarse a Moodle y a",
+    "duration": 5200,
+    "offset": 15480,
+    "lang": "es"
+  },
+  {
+    "text": "partir de un nombre de usuario darnos",
+    "duration": 4720,
+    "offset": 18520,
+    "lang": "es"
+  },
+  {
+    "text": "los cursos que en los que está inscrpto",
+    "duration": 5759,
+    "offset": 20680,
+    "lang": "es"
+  },
+  {
+    "text": "ese usuario. Vamos a empezar. Por",
+    "duration": 9240,
+    "offset": 23240,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo, ¿me podés dar el clima para hoy",
+    "duration": 10401,
+    "offset": 26439,
+    "lang": "es"
+  },
+  {
+    "text": "en Buenos Aires desde la",
+    "duration": 6680,
+    "offset": 32480,
+    "lang": "es"
+  },
+  {
+    "text": "página",
+    "duration": 7800,
+    "offset": 36840,
+    "lang": "es"
+  },
+  {
+    "text": "de We Channel y el",
+    "duration": 9960,
+    "offset": 39160,
+    "lang": "es"
+  },
+  {
+    "text": "pronóstico para mañana? Entonces ahí le",
+    "duration": 6439,
+    "offset": 44640,
+    "lang": "es"
+  },
+  {
+    "text": "indicamos que se conecte a la página de",
+    "duration": 3959,
+    "offset": 49120,
+    "lang": "es"
+  },
+  {
+    "text": "Weather Channel y que me dé el clima",
+    "duration": 4160,
+    "offset": 51079,
+    "lang": "es"
+  },
+  {
+    "text": "para hoy y el pronóstico para mañana.",
+    "duration": 3800,
+    "offset": 53079,
+    "lang": "es"
+  },
+  {
+    "text": "Nos dice que va a conectarse a esta",
+    "duration": 5441,
+    "offset": 55239,
+    "lang": "es"
+  },
+  {
+    "text": "página, ahí usa el MCP",
+    "duration": 6840,
+    "offset": 56879,
+    "lang": "es"
+  },
+  {
+    "text": "Server y en un rato nos va a dar.",
+    "duration": 4720,
+    "offset": 60680,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que todo lo maneja directamente",
+    "duration": 4201,
+    "offset": 63719,
+    "lang": "es"
+  },
+  {
+    "text": "el LLM. Ahora, desde el mismo",
+    "duration": 5800,
+    "offset": 65400,
+    "lang": "es"
+  },
+  {
+    "text": "LLM puedo utilizar otra API distinta.",
+    "duration": 6120,
+    "offset": 67920,
+    "lang": "es"
+  },
+  {
+    "text": "¿Ven que es lo que está pasando ho? un",
+    "duration": 4720,
+    "offset": 71200,
+    "lang": "es"
+  },
+  {
+    "text": "clima totalmente lluvioso. Le voy a",
+    "duration": 4280,
+    "offset": 74040,
+    "lang": "es"
+  },
+  {
+    "text": "decir,",
+    "duration": 5400,
+    "offset": 75920,
+    "lang": "es"
+  },
+  {
+    "text": "podés",
+    "duration": 3000,
+    "offset": 78320,
+    "lang": "es"
+  },
+  {
+    "text": "decirme los cursos de Moodle en los que",
+    "duration": 9521,
+    "offset": 81799,
+    "lang": "es"
+  },
+  {
+    "text": "está",
+    "duration": 3000,
+    "offset": 88320,
+    "lang": "es"
+  },
+  {
+    "text": "inscrptocero@fi.ar. Entonces, ahora,",
+    "duration": 3881,
+    "offset": 96079,
+    "lang": "es"
+  },
+  {
+    "text": "¿qué es lo que pasa para dar en los",
+    "duration": 3759,
+    "offset": 98320,
+    "lang": "es"
+  },
+  {
+    "text": "cursos con un usuario? Primero tiene que",
+    "duration": 4080,
+    "offset": 99960,
+    "lang": "es"
+  },
+  {
+    "text": "buscar el user ID.",
+    "duration": 4161,
+    "offset": 102079,
+    "lang": "es"
+  },
+  {
+    "text": "Acá tenemos dos tools que el mismo Llm",
+    "duration": 4560,
+    "offset": 104040,
+    "lang": "es"
+  },
+  {
+    "text": "sabe cómo tiene que articularlos a",
+    "duration": 5080,
+    "offset": 106240,
+    "lang": "es"
+  },
+  {
+    "text": "partir de lo que devuelve el",
+    "duration": 7479,
+    "offset": 108600,
+    "lang": "es"
+  },
+  {
+    "text": "e el servidor. Acá ya busca el user ID,",
+    "duration": 7719,
+    "offset": 111320,
+    "lang": "es"
+  },
+  {
+    "text": "ahí ya lo encuentra y con ese user ID",
+    "duration": 5040,
+    "offset": 116079,
+    "lang": "es"
+  },
+  {
+    "text": "que es el 58 va a",
+    "duration": 5281,
+    "offset": 119039,
+    "lang": "es"
+  },
+  {
+    "text": "ejecutar el get cursis y acá aparecen",
+    "duration": 6081,
+    "offset": 121119,
+    "lang": "es"
+  },
+  {
+    "text": "todos los cursos en los que está.",
+    "duration": 4919,
+    "offset": 124320,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, o sea, en realidad cualquier",
+    "duration": 3920,
+    "offset": 127200,
+    "lang": "es"
+  },
+  {
+    "text": "sistema, en cambio de tener que andar",
+    "duration": 3521,
+    "offset": 129239,
+    "lang": "es"
+  },
+  {
+    "text": "cambiando de un sistema a otro,",
+    "duration": 3240,
+    "offset": 131120,
+    "lang": "es"
+  },
+  {
+    "text": "logueándose, deslogueándose,",
+    "duration": 6759,
+    "offset": 132760,
+    "lang": "es"
+  },
+  {
+    "text": "directamente tenemos un e un agente como",
+    "duration": 8239,
+    "offset": 134360,
+    "lang": "es"
+  },
+  {
+    "text": "Visual Studio o que es por ahí no es tan",
+    "duration": 5000,
+    "offset": 139519,
+    "lang": "es"
+  },
+  {
+    "text": "óptimo por ahí un agente como Cloud",
+    "duration": 4441,
+    "offset": 142599,
+    "lang": "es"
+  },
+  {
+    "text": "Desktop y Cloud Desktop puede manejar",
+    "duration": 5961,
+    "offset": 144519,
+    "lang": "es"
+  },
+  {
+    "text": "todos los sistemas directamente desde el",
+    "duration": 7160,
+    "offset": 147040,
+    "lang": "es"
+  },
+  {
+    "text": "LLM. M.",
+    "duration": 3720,
+    "offset": 150480,
+    "lang": "es"
+  }
+]

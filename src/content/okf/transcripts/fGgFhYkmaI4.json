@@ -1,0 +1,1292 @@
+[
+  {
+    "text": "Bienvenidos a esta nueva explicación.",
+    "duration": 3399,
+    "offset": 40,
+    "lang": "es"
+  },
+  {
+    "text": "Hoy vamos a ir directamente al grano con",
+    "duration": 3560,
+    "offset": 1880,
+    "lang": "es"
+  },
+  {
+    "text": "un tema absolutamente fascinante. El",
+    "duration": 3561,
+    "offset": 3439,
+    "lang": "es"
+  },
+  {
+    "text": "aprendizaje automático de última",
+    "duration": 3760,
+    "offset": 5440,
+    "lang": "es"
+  },
+  {
+    "text": "generación ejecutándose de forma local",
+    "duration": 4440,
+    "offset": 7000,
+    "lang": "es"
+  },
+  {
+    "text": "directamente dentro del navegador web. Y",
+    "duration": 4040,
+    "offset": 9200,
+    "lang": "es"
+  },
+  {
+    "text": "atención porque vamos a sumergirnos en",
+    "duration": 3720,
+    "offset": 11440,
+    "lang": "es"
+  },
+  {
+    "text": "una explicación detallada y exhaustiva",
+    "duration": 4080,
+    "offset": 13240,
+    "lang": "es"
+  },
+  {
+    "text": "de redes transformers y cómo todo esto",
+    "duration": 4080,
+    "offset": 15160,
+    "lang": "es"
+  },
+  {
+    "text": "es posible utilizando únicamente una API",
+    "duration": 3760,
+    "offset": 17320,
+    "lang": "es"
+  },
+  {
+    "text": "de JavaScript de alto nivel. Es",
+    "duration": 3600,
+    "offset": 19240,
+    "lang": "es"
+  },
+  {
+    "text": "literalmente la magia de IA en el",
+    "duration": 4039,
+    "offset": 21080,
+    "lang": "es"
+  },
+  {
+    "text": "navegador. Bueno, para arrancar,",
+    "duration": 4400,
+    "offset": 22840,
+    "lang": "es"
+  },
+  {
+    "text": "pongamos una pregunta enorme sobre la",
+    "duration": 4080,
+    "offset": 25119,
+    "lang": "es"
+  },
+  {
+    "text": "mesa. ¿Cómo se logra exactamente",
+    "duration": 4039,
+    "offset": 27240,
+    "lang": "es"
+  },
+  {
+    "text": "ejecutar desde modelos pequeñitos de",
+    "duration": 3801,
+    "offset": 29199,
+    "lang": "es"
+  },
+  {
+    "text": "menos de 1000 millones de parámetros",
+    "duration": 3440,
+    "offset": 31279,
+    "lang": "es"
+  },
+  {
+    "text": "hasta auténticos gigantes de mezcla de",
+    "duration": 4520,
+    "offset": 33000,
+    "lang": "es"
+  },
+  {
+    "text": "expertos como GPToc 20B sin tocar un",
+    "duration": 4881,
+    "offset": 34719,
+    "lang": "es"
+  },
+  {
+    "text": "solo servidor externo? Vamos, que todo",
+    "duration": 4359,
+    "offset": 37520,
+    "lang": "es"
+  },
+  {
+    "text": "ocurre ahí mismo en la máquina local. Es",
+    "duration": 4400,
+    "offset": 39600,
+    "lang": "es"
+  },
+  {
+    "text": "un salto tecnológico asombroso que está",
+    "duration": 3801,
+    "offset": 41879,
+    "lang": "es"
+  },
+  {
+    "text": "cambiando las reglas del juego en el",
+    "duration": 3879,
+    "offset": 44000,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollo web. Y para desgranar todo",
+    "duration": 4359,
+    "offset": 45680,
+    "lang": "es"
+  },
+  {
+    "text": "esto, seguiremos una hoja de ruta muy",
+    "duration": 4601,
+    "offset": 47879,
+    "lang": "es"
+  },
+  {
+    "text": "clara. Empezaremos viendo qué hace esta",
+    "duration": 4761,
+    "offset": 50039,
+    "lang": "es"
+  },
+  {
+    "text": "IA directamente en JavaScript. Pasaremos",
+    "duration": 3960,
+    "offset": 52480,
+    "lang": "es"
+  },
+  {
+    "text": "por los fundamentos del aprendizaje",
+    "duration": 3719,
+    "offset": 54800,
+    "lang": "es"
+  },
+  {
+    "text": "automático, cómo se empaquetan estos",
+    "duration": 4400,
+    "offset": 56440,
+    "lang": "es"
+  },
+  {
+    "text": "modelos para la web, el papel exacto que",
+    "duration": 4641,
+    "offset": 58519,
+    "lang": "es"
+  },
+  {
+    "text": "juega transformers.js, la API de",
+    "duration": 4560,
+    "offset": 60840,
+    "lang": "es"
+  },
+  {
+    "text": "pipeline y para rematar echaremos un",
+    "duration": 4160,
+    "offset": 63160,
+    "lang": "es"
+  },
+  {
+    "text": "vistazo exhaustivo a las entrañas del",
+    "duration": 4399,
+    "offset": 65400,
+    "lang": "es"
+  },
+  {
+    "text": "bucle de ejecución. Así que punto número",
+    "duration": 4320,
+    "offset": 67320,
+    "lang": "es"
+  },
+  {
+    "text": "uno, inteligencia artificial",
+    "duration": 4401,
+    "offset": 69799,
+    "lang": "es"
+  },
+  {
+    "text": "directamente en JavaScript. Para empezar",
+    "duration": 4479,
+    "offset": 71640,
+    "lang": "es"
+  },
+  {
+    "text": "a dimensionar esto, fijémonos en lo que",
+    "duration": 3559,
+    "offset": 74200,
+    "lang": "es"
+  },
+  {
+    "text": "esta tecnología permite hacer desde el",
+    "duration": 4000,
+    "offset": 76119,
+    "lang": "es"
+  },
+  {
+    "text": "minuto cero. Estamos hablando de cosas",
+    "duration": 4521,
+    "offset": 77759,
+    "lang": "es"
+  },
+  {
+    "text": "superpotentes, generación de texto con",
+    "duration": 3721,
+    "offset": 80119,
+    "lang": "es"
+  },
+  {
+    "text": "grandes modelos de lenguaje en el propio",
+    "duration": 3960,
+    "offset": 82280,
+    "lang": "es"
+  },
+  {
+    "text": "navegador, reconocimiento automático de",
+    "duration": 4520,
+    "offset": 83840,
+    "lang": "es"
+  },
+  {
+    "text": "voz para sacar transcripciones de audios",
+    "duration": 3960,
+    "offset": 86240,
+    "lang": "es"
+  },
+  {
+    "text": "o incluso visión artificial para quitar",
+    "duration": 4280,
+    "offset": 88360,
+    "lang": "es"
+  },
+  {
+    "text": "fondos de imágenes al instante. Y lo más",
+    "duration": 4440,
+    "offset": 90200,
+    "lang": "es"
+  },
+  {
+    "text": "loco es que esto representa solo tres de",
+    "duration": 4119,
+    "offset": 92640,
+    "lang": "es"
+  },
+  {
+    "text": "las 27 tareas diferentes que soporta",
+    "duration": 4360,
+    "offset": 94640,
+    "lang": "es"
+  },
+  {
+    "text": "exactamente la misma librería. Es como",
+    "duration": 4040,
+    "offset": 96759,
+    "lang": "es"
+  },
+  {
+    "text": "tener una navaja suiza de la creatividad",
+    "duration": 4640,
+    "offset": 99000,
+    "lang": "es"
+  },
+  {
+    "text": "digital. Pasemos al punto dos. una",
+    "duration": 4521,
+    "offset": 100799,
+    "lang": "es"
+  },
+  {
+    "text": "explicación de los fundamentos del",
+    "duration": 4200,
+    "offset": 103640,
+    "lang": "es"
+  },
+  {
+    "text": "aprendizaje automático. Si queremos esa",
+    "duration": 4479,
+    "offset": 105320,
+    "lang": "es"
+  },
+  {
+    "text": "explicación detallada y exhaustiva de",
+    "duration": 3800,
+    "offset": 107840,
+    "lang": "es"
+  },
+  {
+    "text": "redes Transformers, primero tenemos que",
+    "duration": 3640,
+    "offset": 109799,
+    "lang": "es"
+  },
+  {
+    "text": "quitarle el envoltorio al misterio y",
+    "duration": 4000,
+    "offset": 111640,
+    "lang": "es"
+  },
+  {
+    "text": "mirar las piezas matemáticas básicas. El",
+    "duration": 4600,
+    "offset": 113439,
+    "lang": "es"
+  },
+  {
+    "text": "concepto estrella aquí es el tensor.",
+    "duration": 3720,
+    "offset": 115640,
+    "lang": "es"
+  },
+  {
+    "text": "Suena un poco intimidante, pero en",
+    "duration": 3000,
+    "offset": 118039,
+    "lang": "es"
+  },
+  {
+    "text": "realidad un tensor no es más que una",
+    "duration": 3280,
+    "offset": 119360,
+    "lang": "es"
+  },
+  {
+    "text": "colección de números organizados por su",
+    "duration": 3201,
+    "offset": 121039,
+    "lang": "es"
+  },
+  {
+    "text": "forma. Puede ser un simple escalar de",
+    "duration": 3280,
+    "offset": 122640,
+    "lang": "es"
+  },
+  {
+    "text": "cero dimensiones, un vector de una",
+    "duration": 3280,
+    "offset": 124240,
+    "lang": "es"
+  },
+  {
+    "text": "dimensión o una matriz de dos",
+    "duration": 3440,
+    "offset": 125920,
+    "lang": "es"
+  },
+  {
+    "text": "dimensiones. Las redes neuronales en el",
+    "duration": 3079,
+    "offset": 127520,
+    "lang": "es"
+  },
+  {
+    "text": "fondo hacen algo muy simple",
+    "duration": 3200,
+    "offset": 129360,
+    "lang": "es"
+  },
+  {
+    "text": "conceptuualmente. Tragan un tensor de",
+    "duration": 3961,
+    "offset": 130599,
+    "lang": "es"
+  },
+  {
+    "text": "entrada y escupen un tensor de salida.",
+    "duration": 4000,
+    "offset": 132560,
+    "lang": "es"
+  },
+  {
+    "text": "Todo esto combinando inputs, aplicando",
+    "duration": 4360,
+    "offset": 134560,
+    "lang": "es"
+  },
+  {
+    "text": "pesos, sumando sesgos y usando funciones",
+    "duration": 4000,
+    "offset": 136560,
+    "lang": "es"
+  },
+  {
+    "text": "de activación a través de millones de",
+    "duration": 3880,
+    "offset": 138920,
+    "lang": "es"
+  },
+  {
+    "text": "conexiones. Pura matemática funcionando",
+    "duration": 4640,
+    "offset": 140560,
+    "lang": "es"
+  },
+  {
+    "text": "a toda máquina. Entonces, para que esa",
+    "duration": 4760,
+    "offset": 142800,
+    "lang": "es"
+  },
+  {
+    "text": "matemática masiva cobre vida, siempre se",
+    "duration": 4480,
+    "offset": 145200,
+    "lang": "es"
+  },
+  {
+    "text": "necesitan tres cosas. Uno, la",
+    "duration": 4039,
+    "offset": 147560,
+    "lang": "es"
+  },
+  {
+    "text": "arquitectura, que es básicamente el",
+    "duration": 4559,
+    "offset": 149680,
+    "lang": "es"
+  },
+  {
+    "text": "plano del modelo y sus capas. Dos, los",
+    "duration": 4441,
+    "offset": 151599,
+    "lang": "es"
+  },
+  {
+    "text": "pesos entrenados, que son los números",
+    "duration": 3961,
+    "offset": 154239,
+    "lang": "es"
+  },
+  {
+    "text": "reales que dan valor a las conexiones. Y",
+    "duration": 4360,
+    "offset": 156040,
+    "lang": "es"
+  },
+  {
+    "text": "tres, un entorno de ejecución, el motor",
+    "duration": 4360,
+    "offset": 158200,
+    "lang": "es"
+  },
+  {
+    "text": "que de verdad hace crujir los números en",
+    "duration": 4479,
+    "offset": 160400,
+    "lang": "es"
+  },
+  {
+    "text": "la práctica. Sin estos tres pilares, no",
+    "duration": 4679,
+    "offset": 162560,
+    "lang": "es"
+  },
+  {
+    "text": "hay red neuronal que valga. Punto número",
+    "duration": 5440,
+    "offset": 164879,
+    "lang": "es"
+  },
+  {
+    "text": "tres, empaquetando modelos para la web.",
+    "duration": 5241,
+    "offset": 167239,
+    "lang": "es"
+  },
+  {
+    "text": "Teniendo claros esos tres pilares, el",
+    "duration": 4640,
+    "offset": 170319,
+    "lang": "es"
+  },
+  {
+    "text": "gran reto es cómo metemos esto en",
+    "duration": 4880,
+    "offset": 172480,
+    "lang": "es"
+  },
+  {
+    "text": "entornos de hardware superdintos y de",
+    "duration": 4560,
+    "offset": 174959,
+    "lang": "es"
+  },
+  {
+    "text": "forma eficiente. Aquí es donde entra el",
+    "duration": 5680,
+    "offset": 177360,
+    "lang": "es"
+  },
+  {
+    "text": "rescate ONNX o el Open Neural Network",
+    "duration": 5961,
+    "offset": 179519,
+    "lang": "es"
+  },
+  {
+    "text": "Exchange. Es un formato brillante que",
+    "duration": 4000,
+    "offset": 183040,
+    "lang": "es"
+  },
+  {
+    "text": "guarda el gráfico de cálculo y los",
+    "duration": 3920,
+    "offset": 185480,
+    "lang": "es"
+  },
+  {
+    "text": "pesos, pero lo separa completamente del",
+    "duration": 3919,
+    "offset": 187040,
+    "lang": "es"
+  },
+  {
+    "text": "motor que lo va a ejecutar. Es un",
+    "duration": 3320,
+    "offset": 189400,
+    "lang": "es"
+  },
+  {
+    "text": "triunfo absoluto para el navegador",
+    "duration": 4081,
+    "offset": 190959,
+    "lang": "es"
+  },
+  {
+    "text": "porque ONX dice que hay que calcular y",
+    "duration": 4120,
+    "offset": 192720,
+    "lang": "es"
+  },
+  {
+    "text": "deja que el motor decida cómo hacerlo",
+    "duration": 4479,
+    "offset": 195040,
+    "lang": "es"
+  },
+  {
+    "text": "más rápido, ya sea tirando de web GPU o",
+    "duration": 5399,
+    "offset": 196840,
+    "lang": "es"
+  },
+  {
+    "text": "web Assembly. Pero claro, en la web hay",
+    "duration": 4561,
+    "offset": 199519,
+    "lang": "es"
+  },
+  {
+    "text": "que hacer malabares con los recursos,",
+    "duration": 3280,
+    "offset": 202239,
+    "lang": "es"
+  },
+  {
+    "text": "por eso entra en juego una técnica",
+    "duration": 3560,
+    "offset": 204080,
+    "lang": "es"
+  },
+  {
+    "text": "espectacular llamada cuantización.",
+    "duration": 4241,
+    "offset": 205519,
+    "lang": "es"
+  },
+  {
+    "text": "Básicamente consiste en comprimir los",
+    "duration": 4599,
+    "offset": 207640,
+    "lang": "es"
+  },
+  {
+    "text": "valores de altísima precisión de 32 bits",
+    "duration": 5520,
+    "offset": 209760,
+    "lang": "es"
+  },
+  {
+    "text": "a solo 4 bits. Al hacer esto, el uso de",
+    "duration": 5080,
+    "offset": 212239,
+    "lang": "es"
+  },
+  {
+    "text": "memoria cae en picado y la velocidad de",
+    "duration": 4159,
+    "offset": 215280,
+    "lang": "es"
+  },
+  {
+    "text": "ejecución se dispara. Y aunque parezca",
+    "duration": 3881,
+    "offset": 217319,
+    "lang": "es"
+  },
+  {
+    "text": "mentira, esa pequeña pérdida de",
+    "duration": 3761,
+    "offset": 219439,
+    "lang": "es"
+  },
+  {
+    "text": "precisión a cambio casi ni se nota en el",
+    "duration": 4080,
+    "offset": 221200,
+    "lang": "es"
+  },
+  {
+    "text": "mundo real. Es un intercambio que vale",
+    "duration": 4679,
+    "offset": 223200,
+    "lang": "es"
+  },
+  {
+    "text": "totalmente la pena. Vamos con el punto",
+    "duration": 4599,
+    "offset": 225280,
+    "lang": "es"
+  },
+  {
+    "text": "cuatro. ¿Qué hace realmente",
+    "duration": 4241,
+    "offset": 227879,
+    "lang": "es"
+  },
+  {
+    "text": "Transformers.",
+    "duration": 4200,
+    "offset": 229879,
+    "lang": "es"
+  },
+  {
+    "text": "Sionex pone el formato. ¿Cuál es el",
+    "duration": 3959,
+    "offset": 232120,
+    "lang": "es"
+  },
+  {
+    "text": "papel de Transformers.js?",
+    "duration": 3520,
+    "offset": 234079,
+    "lang": "es"
+  },
+  {
+    "text": "Pues actúa como el director de orquesta",
+    "duration": 3601,
+    "offset": 236079,
+    "lang": "es"
+  },
+  {
+    "text": "definitivo en la sombra, manejando tres",
+    "duration": 4480,
+    "offset": 237599,
+    "lang": "es"
+  },
+  {
+    "text": "cosas clave. Primero, la caché. Descarga",
+    "duration": 4119,
+    "offset": 239680,
+    "lang": "es"
+  },
+  {
+    "text": "inteligentemente los archivos enormes de",
+    "duration": 3360,
+    "offset": 242079,
+    "lang": "es"
+  },
+  {
+    "text": "los modelos para que nunca se bajen dos",
+    "duration": 4080,
+    "offset": 243799,
+    "lang": "es"
+  },
+  {
+    "text": "veces. Segundo, el preprocesamiento.",
+    "duration": 4281,
+    "offset": 245439,
+    "lang": "es"
+  },
+  {
+    "text": "Coge datos supercudos como un audio o",
+    "duration": 3321,
+    "offset": 247879,
+    "lang": "es"
+  },
+  {
+    "text": "una imagen y los convierte en los",
+    "duration": 3640,
+    "offset": 249720,
+    "lang": "es"
+  },
+  {
+    "text": "tensores exactos que la red necesita. Y",
+    "duration": 4200,
+    "offset": 251200,
+    "lang": "es"
+  },
+  {
+    "text": "tercero, el postprocesamiento. Coge los",
+    "duration": 3559,
+    "offset": 253360,
+    "lang": "es"
+  },
+  {
+    "text": "tensores matemáticos que escupe el",
+    "duration": 3160,
+    "offset": 255400,
+    "lang": "es"
+  },
+  {
+    "text": "modelo y los vuelve a convertir en algo",
+    "duration": 3280,
+    "offset": 256919,
+    "lang": "es"
+  },
+  {
+    "text": "útil, como un texto legible o las",
+    "duration": 3079,
+    "offset": 258560,
+    "lang": "es"
+  },
+  {
+    "text": "coordenadas de una caja en una foto.",
+    "duration": 3280,
+    "offset": 260199,
+    "lang": "es"
+  },
+  {
+    "text": "Literalmente hace todo el trabajo pesado",
+    "duration": 4441,
+    "offset": 261639,
+    "lang": "es"
+  },
+  {
+    "text": "de traducción. Llegamos al punto cinco,",
+    "duration": 5361,
+    "offset": 263479,
+    "lang": "es"
+  },
+  {
+    "text": "la API de pipeline explicada. Todo ese",
+    "duration": 5480,
+    "offset": 266080,
+    "lang": "es"
+  },
+  {
+    "text": "jaleo de tensores y matemáticas se",
+    "duration": 4840,
+    "offset": 268840,
+    "lang": "es"
+  },
+  {
+    "text": "esconde maravillosamente detrás de algo",
+    "duration": 4919,
+    "offset": 271560,
+    "lang": "es"
+  },
+  {
+    "text": "llamado la API de Pipeline. Para no",
+    "duration": 4720,
+    "offset": 273680,
+    "lang": "es"
+  },
+  {
+    "text": "perdernos en la complejidad, hay que",
+    "duration": 4121,
+    "offset": 276479,
+    "lang": "es"
+  },
+  {
+    "text": "pensar que una tarea es en esencia un",
+    "duration": 4680,
+    "offset": 278400,
+    "lang": "es"
+  },
+  {
+    "text": "contrato. Esta API es como una gran",
+    "duration": 4560,
+    "offset": 280600,
+    "lang": "es"
+  },
+  {
+    "text": "fábrica síncrona que estandariza las",
+    "duration": 4280,
+    "offset": 283080,
+    "lang": "es"
+  },
+  {
+    "text": "reglas. Si se proporciona este tipo de",
+    "duration": 3879,
+    "offset": 285160,
+    "lang": "es"
+  },
+  {
+    "text": "entrada, se devuelve este tipo de",
+    "duration": 5040,
+    "offset": 287360,
+    "lang": "es"
+  },
+  {
+    "text": "salida. Así de simple y unificado. Y el",
+    "duration": 4880,
+    "offset": 289039,
+    "lang": "es"
+  },
+  {
+    "text": "catálogo de tareas que cubre este",
+    "duration": 4200,
+    "offset": 292400,
+    "lang": "es"
+  },
+  {
+    "text": "contrato es gigantesco. Basta con",
+    "duration": 4241,
+    "offset": 293919,
+    "lang": "es"
+  },
+  {
+    "text": "pasarle un identificador directo en el",
+    "duration": 3680,
+    "offset": 296600,
+    "lang": "es"
+  },
+  {
+    "text": "código como sumarization para resumir",
+    "duration": 4200,
+    "offset": 298160,
+    "lang": "es"
+  },
+  {
+    "text": "textos o object detection para visión",
+    "duration": 4600,
+    "offset": 300280,
+    "lang": "es"
+  },
+  {
+    "text": "artificial y el sistema activa todo",
+    "duration": 4839,
+    "offset": 302360,
+    "lang": "es"
+  },
+  {
+    "text": "automáticamente. Es increíble cómo",
+    "duration": 4120,
+    "offset": 304880,
+    "lang": "es"
+  },
+  {
+    "text": "simplifica el acceso a capacidades tan",
+    "duration": 3840,
+    "offset": 307199,
+    "lang": "es"
+  },
+  {
+    "text": "complejas sin tener que configurar casi",
+    "duration": 4600,
+    "offset": 309000,
+    "lang": "es"
+  },
+  {
+    "text": "nada desde cero. Eso sí, al inicializar",
+    "duration": 4561,
+    "offset": 311039,
+    "lang": "es"
+  },
+  {
+    "text": "esta factoría o pipeline, hay unos",
+    "duration": 3640,
+    "offset": 313600,
+    "lang": "es"
+  },
+  {
+    "text": "ajustes clave que dan un control",
+    "duration": 3840,
+    "offset": 315600,
+    "lang": "es"
+  },
+  {
+    "text": "milimétrico. Por ejemplo, el Progress",
+    "duration": 4040,
+    "offset": 317240,
+    "lang": "es"
+  },
+  {
+    "text": "Calback es fantástico para mostrarle",
+    "duration": 3120,
+    "offset": 319440,
+    "lang": "es"
+  },
+  {
+    "text": "barras de carga a la interfaz de",
+    "duration": 3320,
+    "offset": 321280,
+    "lang": "es"
+  },
+  {
+    "text": "usuario. El parámetro device permite",
+    "duration": 4000,
+    "offset": 322560,
+    "lang": "es"
+  },
+  {
+    "text": "seleccionar el motor de hardware, siendo",
+    "duration": 3960,
+    "offset": 324600,
+    "lang": "es"
+  },
+  {
+    "text": "web GPU la opción más recomendada y",
+    "duration": 4320,
+    "offset": 326560,
+    "lang": "es"
+  },
+  {
+    "text": "veloz. Y el Dype sirve para controlar",
+    "duration": 3919,
+    "offset": 328560,
+    "lang": "es"
+  },
+  {
+    "text": "esa magia de la cuantización de la que",
+    "duration": 3640,
+    "offset": 330880,
+    "lang": "es"
+  },
+  {
+    "text": "hablábamos antes, seleccionando formatos",
+    "duration": 4201,
+    "offset": 332479,
+    "lang": "es"
+  },
+  {
+    "text": "como Q4 para exprimir al máximo el",
+    "duration": 4720,
+    "offset": 334520,
+    "lang": "es"
+  },
+  {
+    "text": "rendimiento. Y por último, el punto",
+    "duration": 5000,
+    "offset": 336680,
+    "lang": "es"
+  },
+  {
+    "text": "seis. Adentrémonos en el bucle de",
+    "duration": 5040,
+    "offset": 339240,
+    "lang": "es"
+  },
+  {
+    "text": "ejecución. Para coronar esta explicación",
+    "duration": 4639,
+    "offset": 341680,
+    "lang": "es"
+  },
+  {
+    "text": "hay que ver qué pasa realmente ahí",
+    "duration": 4039,
+    "offset": 344280,
+    "lang": "es"
+  },
+  {
+    "text": "dentro. Una vez que la red empieza a",
+    "duration": 4241,
+    "offset": 346319,
+    "lang": "es"
+  },
+  {
+    "text": "trabajar en una tarea de generación de",
+    "duration": 4801,
+    "offset": 348319,
+    "lang": "es"
+  },
+  {
+    "text": "texto hay un bucle super intrincado.",
+    "duration": 4800,
+    "offset": 350560,
+    "lang": "es"
+  },
+  {
+    "text": "Primero, el tokenizador prepara el texto",
+    "duration": 4359,
+    "offset": 353120,
+    "lang": "es"
+  },
+  {
+    "text": "de entrada. Esos fragmentos se",
+    "duration": 3839,
+    "offset": 355360,
+    "lang": "es"
+  },
+  {
+    "text": "convierten en números y luego en",
+    "duration": 4280,
+    "offset": 357479,
+    "lang": "es"
+  },
+  {
+    "text": "tensores. El modelo entonces entra en",
+    "duration": 4241,
+    "offset": 359199,
+    "lang": "es"
+  },
+  {
+    "text": "acción haciendo sus inferencias",
+    "duration": 4000,
+    "offset": 361759,
+    "lang": "es"
+  },
+  {
+    "text": "matemáticas a través de múltiples capas",
+    "duration": 4159,
+    "offset": 363440,
+    "lang": "es"
+  },
+  {
+    "text": "para puntuar qué palabra debería ir",
+    "duration": 4280,
+    "offset": 365759,
+    "lang": "es"
+  },
+  {
+    "text": "después. Un decodificador elige una",
+    "duration": 5000,
+    "offset": 367599,
+    "lang": "es"
+  },
+  {
+    "text": "opción, la añade a la secuencia y vuelta",
+    "duration": 4880,
+    "offset": 370039,
+    "lang": "es"
+  },
+  {
+    "text": "a empezar. Es un ciclo continuo",
+    "duration": 4361,
+    "offset": 372599,
+    "lang": "es"
+  },
+  {
+    "text": "hipnótico que solo se rompe cuando el",
+    "duration": 3840,
+    "offset": 374919,
+    "lang": "es"
+  },
+  {
+    "text": "modelo decide soltar un token especial",
+    "duration": 4679,
+    "offset": 376960,
+    "lang": "es"
+  },
+  {
+    "text": "de parada. Ahora bien, si comparamos ese",
+    "duration": 5201,
+    "offset": 378759,
+    "lang": "es"
+  },
+  {
+    "text": "bucle casi obsesivo de generar texto",
+    "duration": 4400,
+    "offset": 381639,
+    "lang": "es"
+  },
+  {
+    "text": "palabra por palabra con algo como la",
+    "duration": 3880,
+    "offset": 383960,
+    "lang": "es"
+  },
+  {
+    "text": "estimación de profundidad en visión",
+    "duration": 4681,
+    "offset": 386039,
+    "lang": "es"
+  },
+  {
+    "text": "artificial, el contraste es brutal. Las",
+    "duration": 4440,
+    "offset": 387840,
+    "lang": "es"
+  },
+  {
+    "text": "tareas de visión, por lo general, solo",
+    "duration": 4000,
+    "offset": 390720,
+    "lang": "es"
+  },
+  {
+    "text": "necesitan una pasada. Es decir, la",
+    "duration": 4400,
+    "offset": 392280,
+    "lang": "es"
+  },
+  {
+    "text": "imagen entra, cruza la red neuronal de",
+    "duration": 4000,
+    "offset": 394720,
+    "lang": "es"
+  },
+  {
+    "text": "un tirón y, boom, devuelve el mapa de",
+    "duration": 4600,
+    "offset": 396680,
+    "lang": "es"
+  },
+  {
+    "text": "profundidad al instante. Son dos mundos,",
+    "duration": 4720,
+    "offset": 398720,
+    "lang": "es"
+  },
+  {
+    "text": "dos lógicas de ejecución completamente",
+    "duration": 4639,
+    "offset": 401280,
+    "lang": "es"
+  },
+  {
+    "text": "distintas. Y a pesar de que bajo el capó",
+    "duration": 4440,
+    "offset": 403440,
+    "lang": "es"
+  },
+  {
+    "text": "los caminos son tan dispares, hay un",
+    "duration": 4280,
+    "offset": 405919,
+    "lang": "es"
+  },
+  {
+    "text": "número que lo dice todo. 200.",
+    "duration": 4879,
+    "offset": 407880,
+    "lang": "es"
+  },
+  {
+    "text": "Transformers. Abstrae absolutamente",
+    "duration": 4161,
+    "offset": 410199,
+    "lang": "es"
+  },
+  {
+    "text": "todos los detalles técnicos para la",
+    "duration": 3761,
+    "offset": 412759,
+    "lang": "es"
+  },
+  {
+    "text": "friolera de 200 arquitecturas de modelos",
+    "duration": 4239,
+    "offset": 414360,
+    "lang": "es"
+  },
+  {
+    "text": "distintas. Esconder esa inmensa cantidad",
+    "duration": 3720,
+    "offset": 416520,
+    "lang": "es"
+  },
+  {
+    "text": "de complejidad matemática detrás de una",
+    "duration": 3761,
+    "offset": 418599,
+    "lang": "es"
+  },
+  {
+    "text": "superficie tan limpia y accesible es",
+    "duration": 4639,
+    "offset": 420240,
+    "lang": "es"
+  },
+  {
+    "text": "sencillamente una genialidad. Así que",
+    "duration": 4480,
+    "offset": 422360,
+    "lang": "es"
+  },
+  {
+    "text": "para cerrar esta explicación de hoy,",
+    "duration": 3760,
+    "offset": 424879,
+    "lang": "es"
+  },
+  {
+    "text": "dejemos una gran idea flotando en el",
+    "duration": 3799,
+    "offset": 426840,
+    "lang": "es"
+  },
+  {
+    "text": "aire. La barrera de entrada para la",
+    "duration": 3481,
+    "offset": 428639,
+    "lang": "es"
+  },
+  {
+    "text": "inteligencia artificial local se ha",
+    "duration": 3840,
+    "offset": 430639,
+    "lang": "es"
+  },
+  {
+    "text": "pulverizado por completo. Si llamara una",
+    "duration": 4359,
+    "offset": 432120,
+    "lang": "es"
+  },
+  {
+    "text": "simple función asíntrona de JavaScript",
+    "duration": 3521,
+    "offset": 434479,
+    "lang": "es"
+  },
+  {
+    "text": "es todo lo que hace falta hoy en día",
+    "duration": 3241,
+    "offset": 436479,
+    "lang": "es"
+  },
+  {
+    "text": "para integrar aprendizaje automático",
+    "duration": 3479,
+    "offset": 438000,
+    "lang": "es"
+  },
+  {
+    "text": "superpotente en la web. ¿Qué tipo de",
+    "duration": 3479,
+    "offset": 439720,
+    "lang": "es"
+  },
+  {
+    "text": "aplicaciones alucinantes nos esperan en",
+    "duration": 4000,
+    "offset": 441479,
+    "lang": "es"
+  },
+  {
+    "text": "la próxima generación? El conocimiento y",
+    "duration": 4280,
+    "offset": 443199,
+    "lang": "es"
+  },
+  {
+    "text": "las herramientas ya están sobre la mesa.",
+    "duration": 5641,
+    "offset": 445479,
+    "lang": "es"
+  },
+  {
+    "text": "Nos vemos en la próxima.",
+    "duration": 3641,
+    "offset": 447479,
+    "lang": "es"
+  }
+]

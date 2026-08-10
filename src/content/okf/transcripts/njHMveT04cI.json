@@ -1,0 +1,410 @@
+[
+  {
+    "text": "Bueno, acá estamos viendo cómo funciona.",
+    "duration": 5560,
+    "offset": 520,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a estas de acá. Yo sé que son",
+    "duration": 6320,
+    "offset": 3560,
+    "lang": "es"
+  },
+  {
+    "text": "cáncer de piel porque ya lo vi antes.",
+    "duration": 7160,
+    "offset": 6080,
+    "lang": "es"
+  },
+  {
+    "text": "Copio la ruta, pego acá,",
+    "duration": 6640,
+    "offset": 9880,
+    "lang": "es"
+  },
+  {
+    "text": "ahí baja la imagen,",
+    "duration": 6280,
+    "offset": 13240,
+    "lang": "es"
+  },
+  {
+    "text": "detecta que es",
+    "duration": 5480,
+    "offset": 16520,
+    "lang": "es"
+  },
+  {
+    "text": "en la imagen, detecta que se trata de",
+    "duration": 3759,
+    "offset": 19520,
+    "lang": "es"
+  },
+  {
+    "text": "piel.",
+    "duration": 5960,
+    "offset": 22000,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces va a eh",
+    "duration": 4681,
+    "offset": 23279,
+    "lang": "es"
+  },
+  {
+    "text": "las eh hacer las clasificaciones",
+    "duration": 5840,
+    "offset": 29960,
+    "lang": "es"
+  },
+  {
+    "text": "y acá dicen, bueno, que es una",
+    "duration": 4680,
+    "offset": 33680,
+    "lang": "es"
+  },
+  {
+    "text": "dermatoscopía, clasificación",
+    "duration": 7800,
+    "offset": 35800,
+    "lang": "es"
+  },
+  {
+    "text": "melanoma. Vamos a ver este de acá.",
+    "duration": 5240,
+    "offset": 38360,
+    "lang": "es"
+  },
+  {
+    "text": "Otra imagen.",
+    "duration": 6399,
+    "offset": 45800,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí la va a analizar.",
+    "duration": 5401,
+    "offset": 49039,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí.",
+    "duration": 2241,
+    "offset": 52199,
+    "lang": "es"
+  },
+  {
+    "text": "Acá dice",
+    "duration": 6239,
+    "offset": 56320,
+    "lang": "es"
+  },
+  {
+    "text": "detectada tipo piel y acá fue ¿Qué es lo",
+    "duration": 6920,
+    "offset": 59160,
+    "lang": "es"
+  },
+  {
+    "text": "que pasa? Yemini detecta que es una",
+    "duration": 5681,
+    "offset": 62559,
+    "lang": "es"
+  },
+  {
+    "text": "imagen de piel y entonces va a la",
+    "duration": 4079,
+    "offset": 66080,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta especializada y la",
+    "duration": 3720,
+    "offset": 68240,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta especializada dicen que es",
+    "duration": 6241,
+    "offset": 70159,
+    "lang": "es"
+  },
+  {
+    "text": "un melanoma con probabilidad 97,2%",
+    "duration": 7320,
+    "offset": 71960,
+    "lang": "es"
+  },
+  {
+    "text": "y estos son los diagnósticos",
+    "duration": 5000,
+    "offset": 76400,
+    "lang": "es"
+  },
+  {
+    "text": "diferenciales y las recomendaciones.",
+    "duration": 4280,
+    "offset": 79280,
+    "lang": "es"
+  },
+  {
+    "text": "Evaluar su opinión médica, biopsia. A",
+    "duration": 5280,
+    "offset": 81400,
+    "lang": "es"
+  },
+  {
+    "text": "ver, este de acá.",
+    "duration": 6320,
+    "offset": 83560,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, voy a agarrar una radiografía de",
+    "duration": 6520,
+    "offset": 86680,
+    "lang": "es"
+  },
+  {
+    "text": "pulmón normal.",
+    "duration": 6400,
+    "offset": 89880,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces ahora le pego la radiografía.",
+    "duration": 4640,
+    "offset": 93200,
+    "lang": "es"
+  },
+  {
+    "text": "No,",
+    "duration": 5680,
+    "offset": 96280,
+    "lang": "es"
+  },
+  {
+    "text": "no le puse copiar ruta.",
+    "duration": 4120,
+    "offset": 97840,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí me dio lo mismo que antes. Bien,",
+    "duration": 4281,
+    "offset": 102399,
+    "lang": "es"
+  },
+  {
+    "text": "ahora sí le voy a pegar la radiografía",
+    "duration": 6161,
+    "offset": 104159,
+    "lang": "es"
+  },
+  {
+    "text": "de pulmón. Ahí aparece la radiografía de",
+    "duration": 6920,
+    "offset": 106680,
+    "lang": "es"
+  },
+  {
+    "text": "pulmón. Acá dice que detecta que es una",
+    "duration": 5640,
+    "offset": 110320,
+    "lang": "es"
+  },
+  {
+    "text": "radiografía de tórax y va a llamar al",
+    "duration": 5280,
+    "offset": 113600,
+    "lang": "es"
+  },
+  {
+    "text": "modelo especializado para tórax.",
+    "duration": 4880,
+    "offset": 115960,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí va a tardar un rato porque ese",
+    "duration": 3839,
+    "offset": 118880,
+    "lang": "es"
+  },
+  {
+    "text": "modelo especializado justamente es el",
+    "duration": 4080,
+    "offset": 120840,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene que entrenar sí o sí un",
+    "duration": 4281,
+    "offset": 122719,
+    "lang": "es"
+  },
+  {
+    "text": "médico. Bien, ahí va a llamar al modelo",
+    "duration": 5600,
+    "offset": 124920,
+    "lang": "es"
+  },
+  {
+    "text": "especializado para tórax.",
+    "duration": 7400,
+    "offset": 127000,
+    "lang": "es"
+  },
+  {
+    "text": "Este, esto está bueno. Habría que hacer",
+    "duration": 7880,
+    "offset": 130520,
+    "lang": "es"
+  },
+  {
+    "text": "después en el frontend algo que este",
+    "duration": 5800,
+    "offset": 134400,
+    "lang": "es"
+  },
+  {
+    "text": "pase esta espera, ¿no? Porque lo que",
+    "duration": 3720,
+    "offset": 138400,
+    "lang": "es"
+  },
+  {
+    "text": "está yendo es a Haging Face a cargar.",
+    "duration": 5800,
+    "offset": 140200,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí dice que lo cargó exitosamente y acá",
+    "duration": 6080,
+    "offset": 142120,
+    "lang": "es"
+  },
+  {
+    "text": "dice bien informe médico final. Dice,",
+    "duration": 3519,
+    "offset": 146000,
+    "lang": "es"
+  },
+  {
+    "text": "\"Anális especializado normal,",
+    "duration": 4000,
+    "offset": 148200,
+    "lang": "es"
+  },
+  {
+    "text": "probabilidad 96,1% de que esto sea una",
+    "duration": 6080,
+    "offset": 149519,
+    "lang": "es"
+  },
+  {
+    "text": "radiografía normal y da algunos algunas",
+    "duration": 6039,
+    "offset": 152200,
+    "lang": "es"
+  },
+  {
+    "text": "recomendaciones bien de cosas de médico.",
+    "duration": 3961,
+    "offset": 155599,
+    "lang": "es"
+  },
+  {
+    "text": "Esto después lo tiene que ver bien un",
+    "duration": 3080,
+    "offset": 158239,
+    "lang": "es"
+  },
+  {
+    "text": "médico. Acá le voy a poner uno que tiene",
+    "duration": 4720,
+    "offset": 159560,
+    "lang": "es"
+  },
+  {
+    "text": "neumonía.",
+    "duration": 6881,
+    "offset": 161319,
+    "lang": "es"
+  },
+  {
+    "text": "Copio la ruta de acceso.",
+    "duration": 3920,
+    "offset": 164280,
+    "lang": "es"
+  },
+  {
+    "text": "No tengo idea yo si tiene o no tiene,",
+    "duration": 4840,
+    "offset": 169560,
+    "lang": "es"
+  },
+  {
+    "text": "pero bien. Y ahí fue la herramienta",
+    "duration": 4239,
+    "offset": 171920,
+    "lang": "es"
+  },
+  {
+    "text": "Tórax. Ahora más rápido porque ya lo",
+    "duration": 6240,
+    "offset": 174400,
+    "lang": "es"
+  },
+  {
+    "text": "tiene. Y fíjense que acá dice 99,5%",
+    "duration": 7201,
+    "offset": 176159,
+    "lang": "es"
+  },
+  {
+    "text": "probabilidad de neumonía. Y acá da las",
+    "duration": 6959,
+    "offset": 180640,
+    "lang": "es"
+  },
+  {
+    "text": "probabilidades normal 5% y 99,5",
+    "duration": 6280,
+    "offset": 183360,
+    "lang": "es"
+  },
+  {
+    "text": "0,5%",
+    "duration": 5161,
+    "offset": 187599,
+    "lang": "es"
+  },
+  {
+    "text": "normal y 99,5% de que sea neumonía. Y",
+    "duration": 5280,
+    "offset": 189640,
+    "lang": "es"
+  },
+  {
+    "text": "efectivamente a donde lo bajé decía que",
+    "duration": 4039,
+    "offset": 192760,
+    "lang": "es"
+  },
+  {
+    "text": "era neumonía. No tengo manera de saber",
+    "duration": 4480,
+    "offset": 194920,
+    "lang": "es"
+  },
+  {
+    "text": "si es cierto.",
+    "duration": 2601,
+    "offset": 196799,
+    "lang": "es"
+  }
+]

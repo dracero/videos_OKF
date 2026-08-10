@@ -1,0 +1,1532 @@
+[
+  {
+    "text": "Primero vamos a ver cómo funciona",
+    "duration": 5200,
+    "offset": 1040,
+    "lang": "es"
+  },
+  {
+    "text": "nuestra aplicación. ¿De qué aplicación",
+    "duration": 5760,
+    "offset": 3879,
+    "lang": "es"
+  },
+  {
+    "text": "estamos hablando? Estamos hablando de un",
+    "duration": 5880,
+    "offset": 6240,
+    "lang": "es"
+  },
+  {
+    "text": "chatbot multiagéntico.",
+    "duration": 3801,
+    "offset": 9639,
+    "lang": "es"
+  },
+  {
+    "text": "¿Cómo está compuesto este chatbot",
+    "duration": 3280,
+    "offset": 12120,
+    "lang": "es"
+  },
+  {
+    "text": "multiagéntico? En principio tiene un",
+    "duration": 5160,
+    "offset": 13440,
+    "lang": "es"
+  },
+  {
+    "text": "orquestador. Ese orquestador",
+    "duration": 5400,
+    "offset": 15400,
+    "lang": "es"
+  },
+  {
+    "text": "recibe la consulta utilizando el",
+    "duration": 5160,
+    "offset": 18600,
+    "lang": "es"
+  },
+  {
+    "text": "protocolo A2A. En función de esa",
+    "duration": 6840,
+    "offset": 20800,
+    "lang": "es"
+  },
+  {
+    "text": "consulta se comunica con alguno de los",
+    "duration": 5400,
+    "offset": 23760,
+    "lang": "es"
+  },
+  {
+    "text": "agentes",
+    "duration": 5240,
+    "offset": 27640,
+    "lang": "es"
+  },
+  {
+    "text": "y el sistema multiagente lo que hace es",
+    "duration": 5239,
+    "offset": 29160,
+    "lang": "es"
+  },
+  {
+    "text": "hace",
+    "duration": 4999,
+    "offset": 32880,
+    "lang": "es"
+  },
+  {
+    "text": "ragéntico para poder hacer la",
+    "duration": 6680,
+    "offset": 34399,
+    "lang": "es"
+  },
+  {
+    "text": "recuperación de contenido y darle la",
+    "duration": 5881,
+    "offset": 37879,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta a la consulta que hace el",
+    "duration": 5201,
+    "offset": 41079,
+    "lang": "es"
+  },
+  {
+    "text": "usuario. Lo primero que estamos viendo,",
+    "duration": 5959,
+    "offset": 43760,
+    "lang": "es"
+  },
+  {
+    "text": "¿qué es? El usuario le dice, en este",
+    "duration": 5720,
+    "offset": 46280,
+    "lang": "es"
+  },
+  {
+    "text": "caso el estudiante si le puede explicar",
+    "duration": 4721,
+    "offset": 49719,
+    "lang": "es"
+  },
+  {
+    "text": "la ecuación de Bernoul. le dice que",
+    "duration": 4680,
+    "offset": 52000,
+    "lang": "es"
+  },
+  {
+    "text": "quiere una explicación detallada y si es",
+    "duration": 5200,
+    "offset": 54440,
+    "lang": "es"
+  },
+  {
+    "text": "posible haciendo mención a los conceptos",
+    "duration": 6160,
+    "offset": 56680,
+    "lang": "es"
+  },
+  {
+    "text": "matemáticos porque ecuación cuadrática",
+    "duration": 5879,
+    "offset": 59640,
+    "lang": "es"
+  },
+  {
+    "text": "me cuesta mucho. O sea, acá no solamente",
+    "duration": 7160,
+    "offset": 62840,
+    "lang": "es"
+  },
+  {
+    "text": "le está pidiendo que le eh explique un",
+    "duration": 8600,
+    "offset": 65519,
+    "lang": "es"
+  },
+  {
+    "text": "tema particular de física, sino que le",
+    "duration": 5759,
+    "offset": 70000,
+    "lang": "es"
+  },
+  {
+    "text": "dice que le cuesta mucho ecuación",
+    "duration": 4401,
+    "offset": 74119,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrática. ¿Qué es lo que va a hacer",
+    "duration": 4921,
+    "offset": 75759,
+    "lang": "es"
+  },
+  {
+    "text": "entonces? El orquestador recibe el",
+    "duration": 4440,
+    "offset": 78520,
+    "lang": "es"
+  },
+  {
+    "text": "query. A partir del que el orquestador",
+    "duration": 4640,
+    "offset": 80680,
+    "lang": "es"
+  },
+  {
+    "text": "recibe el query sabe que tiene que",
+    "duration": 4199,
+    "offset": 82960,
+    "lang": "es"
+  },
+  {
+    "text": "contactar al sistema multiagente",
+    "duration": 5360,
+    "offset": 85320,
+    "lang": "es"
+  },
+  {
+    "text": "especializado en física. Como lo sabe",
+    "duration": 8121,
+    "offset": 87159,
+    "lang": "es"
+  },
+  {
+    "text": "bien, porque cuando eh en el protocolo",
+    "duration": 7680,
+    "offset": 90680,
+    "lang": "es"
+  },
+  {
+    "text": "A2A se presentan los agentes, tienen",
+    "duration": 5119,
+    "offset": 95280,
+    "lang": "es"
+  },
+  {
+    "text": "algo que es el Asient Card y ese Agensi",
+    "duration": 4119,
+    "offset": 98360,
+    "lang": "es"
+  },
+  {
+    "text": "Card le dice al orquestador, que también",
+    "duration": 5201,
+    "offset": 100399,
+    "lang": "es"
+  },
+  {
+    "text": "habla a 2A, ¿qué es lo que pueden hacer",
+    "duration": 5041,
+    "offset": 102479,
+    "lang": "es"
+  },
+  {
+    "text": "acá? Fíjense que tenemos el generador de",
+    "duration": 4000,
+    "offset": 105600,
+    "lang": "es"
+  },
+  {
+    "text": "imagen, el agente médico y el tutor",
+    "duration": 5440,
+    "offset": 107520,
+    "lang": "es"
+  },
+  {
+    "text": "socrático multimodal de física. Volvamos",
+    "duration": 6040,
+    "offset": 109600,
+    "lang": "es"
+  },
+  {
+    "text": "entonces a",
+    "duration": 4960,
+    "offset": 112960,
+    "lang": "es"
+  },
+  {
+    "text": "nuestra conversación.",
+    "duration": 3880,
+    "offset": 115640,
+    "lang": "es"
+  },
+  {
+    "text": "Bien,",
+    "duration": 5920,
+    "offset": 117920,
+    "lang": "es"
+  },
+  {
+    "text": "se seleccionó correctamente el agente y",
+    "duration": 8160,
+    "offset": 119520,
+    "lang": "es"
+  },
+  {
+    "text": "eh acá está en modo alumno. Después voy",
+    "duration": 6279,
+    "offset": 123840,
+    "lang": "es"
+  },
+  {
+    "text": "a explicar bien qué es esto. Dice que el",
+    "duration": 5559,
+    "offset": 127680,
+    "lang": "es"
+  },
+  {
+    "text": "alumno se llama Diego.",
+    "duration": 5241,
+    "offset": 130119,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, y es importante para lo que viene",
+    "duration": 5921,
+    "offset": 133239,
+    "lang": "es"
+  },
+  {
+    "text": "después. Ya van a ver. Entonces, acá eh",
+    "duration": 5480,
+    "offset": 135360,
+    "lang": "es"
+  },
+  {
+    "text": "le da la respuesta. Bueno, le dice,",
+    "duration": 3280,
+    "offset": 139160,
+    "lang": "es"
+  },
+  {
+    "text": "\"Bueno, primero quiero tranquilizarte.",
+    "duration": 3039,
+    "offset": 140840,
+    "lang": "es"
+  },
+  {
+    "text": "La ecuación de Bronol en su forma más",
+    "duration": 3400,
+    "offset": 142440,
+    "lang": "es"
+  },
+  {
+    "text": "común no es una ecuación cuadrática en",
+    "duration": 3241,
+    "offset": 143879,
+    "lang": "es"
+  },
+  {
+    "text": "el sentido que tengas que usar la",
+    "duration": 3880,
+    "offset": 145840,
+    "lang": "es"
+  },
+  {
+    "text": "fórmula de resolvente. O sea, empieza a",
+    "duration": 4520,
+    "offset": 147120,
+    "lang": "es"
+  },
+  {
+    "text": "explicar al alumno teniendo en cuenta la",
+    "duration": 4480,
+    "offset": 149720,
+    "lang": "es"
+  },
+  {
+    "text": "falencia que él declaró.",
+    "duration": 7239,
+    "offset": 151640,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, explica acá toda la eh todo el",
+    "duration": 6920,
+    "offset": 154200,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollo de la ecuación de Bernou Lee,",
+    "duration": 6561,
+    "offset": 158879,
+    "lang": "es"
+  },
+  {
+    "text": "que es cada una de las cosas y siempre",
+    "duration": 7520,
+    "offset": 161120,
+    "lang": "es"
+  },
+  {
+    "text": "está haciendo hincapié o explicándole",
+    "duration": 6560,
+    "offset": 165440,
+    "lang": "es"
+  },
+  {
+    "text": "claramente la parte mechando, digamos,",
+    "duration": 5599,
+    "offset": 168640,
+    "lang": "es"
+  },
+  {
+    "text": "la parte de ecuación cuadrática, porque",
+    "duration": 5120,
+    "offset": 172000,
+    "lang": "es"
+  },
+  {
+    "text": "el alumno explícitamente le dijo que no",
+    "duration": 6000,
+    "offset": 174239,
+    "lang": "es"
+  },
+  {
+    "text": "sabe eh lo que es. Entonces acá le hace",
+    "duration": 6280,
+    "offset": 177120,
+    "lang": "es"
+  },
+  {
+    "text": "esta explicación de ecuación cuadrática",
+    "duration": 5640,
+    "offset": 180239,
+    "lang": "es"
+  },
+  {
+    "text": "donde final termina y le dice la",
+    "duration": 5640,
+    "offset": 183400,
+    "lang": "es"
+  },
+  {
+    "text": "conclusión, le da la ecuación de que",
+    "duration": 4720,
+    "offset": 185879,
+    "lang": "es"
+  },
+  {
+    "text": "está perfecta la explicación está muy",
+    "duration": 3720,
+    "offset": 189040,
+    "lang": "es"
+  },
+  {
+    "text": "bien y lo hizo teniendo en cuenta esa",
+    "duration": 4601,
+    "offset": 190599,
+    "lang": "es"
+  },
+  {
+    "text": "falencia del alumno. Ahora, en la",
+    "duration": 4559,
+    "offset": 192760,
+    "lang": "es"
+  },
+  {
+    "text": "próxima le digo si me puede explicar",
+    "duration": 3920,
+    "offset": 195200,
+    "lang": "es"
+  },
+  {
+    "text": "cuál es la diferencia entre una célula",
+    "duration": 4241,
+    "offset": 197319,
+    "lang": "es"
+  },
+  {
+    "text": "deoli y una espermatogonia y mostrarme",
+    "duration": 5839,
+    "offset": 199120,
+    "lang": "es"
+  },
+  {
+    "text": "una imagen de una célula deoli. Entonces",
+    "duration": 5720,
+    "offset": 201560,
+    "lang": "es"
+  },
+  {
+    "text": "ahí ya sabe que no tiene que ir al",
+    "duration": 4161,
+    "offset": 204959,
+    "lang": "es"
+  },
+  {
+    "text": "agente físico, sino que tiene que ir al",
+    "duration": 3720,
+    "offset": 207280,
+    "lang": "es"
+  },
+  {
+    "text": "agente médico.",
+    "duration": 4199,
+    "offset": 209120,
+    "lang": "es"
+  },
+  {
+    "text": "Lo deriva al agente médico. Fíjense que",
+    "duration": 4680,
+    "offset": 211000,
+    "lang": "es"
+  },
+  {
+    "text": "acá dicen recepcionando consulta médica",
+    "duration": 6120,
+    "offset": 213319,
+    "lang": "es"
+  },
+  {
+    "text": "y en este de acá dice recepcionando",
+    "duration": 6520,
+    "offset": 215680,
+    "lang": "es"
+  },
+  {
+    "text": "consulta, generando respuesta.",
+    "duration": 5201,
+    "offset": 219439,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, acá no dice consulta médica",
+    "duration": 4480,
+    "offset": 222200,
+    "lang": "es"
+  },
+  {
+    "text": "porque acá se da cuenta que es otro",
+    "duration": 4679,
+    "offset": 224640,
+    "lang": "es"
+  },
+  {
+    "text": "agente al que tiene que ir. inclusive lo",
+    "duration": 5520,
+    "offset": 226680,
+    "lang": "es"
+  },
+  {
+    "text": "describe con otro icono. El orquestador",
+    "duration": 4441,
+    "offset": 229319,
+    "lang": "es"
+  },
+  {
+    "text": "inicialmente",
+    "duration": 6879,
+    "offset": 232200,
+    "lang": "es"
+  },
+  {
+    "text": "es un framework que se llama BAI, que",
+    "duration": 7720,
+    "offset": 233760,
+    "lang": "es"
+  },
+  {
+    "text": "trabaja con un LLM, que en nuestro caso",
+    "duration": 5440,
+    "offset": 239079,
+    "lang": "es"
+  },
+  {
+    "text": "es Gemini 2.5 Flash, que todos sabemos",
+    "duration": 7280,
+    "offset": 241480,
+    "lang": "es"
+  },
+  {
+    "text": "que se corta en octubre, pero",
+    "duration": 5920,
+    "offset": 244519,
+    "lang": "es"
+  },
+  {
+    "text": "el orquestador",
+    "duration": 4160,
+    "offset": 248760,
+    "lang": "es"
+  },
+  {
+    "text": "analiza el querer del usuario y a partir",
+    "duration": 4481,
+    "offset": 250439,
+    "lang": "es"
+  },
+  {
+    "text": "de eso sabe a qué sistema multiagente",
+    "duration": 4360,
+    "offset": 252920,
+    "lang": "es"
+  },
+  {
+    "text": "derivarlo. Bien, este sistema",
+    "duration": 7039,
+    "offset": 254920,
+    "lang": "es"
+  },
+  {
+    "text": "multiagente ahora responde basándose en",
+    "duration": 7080,
+    "offset": 257280,
+    "lang": "es"
+  },
+  {
+    "text": "todo el contenido que tiene de",
+    "duration": 4121,
+    "offset": 261959,
+    "lang": "es"
+  },
+  {
+    "text": "istopatología.",
+    "duration": 4200,
+    "offset": 264360,
+    "lang": "es"
+  },
+  {
+    "text": "Acá muestra la imagen de la célula deoli",
+    "duration": 4600,
+    "offset": 266080,
+    "lang": "es"
+  },
+  {
+    "text": "y como el usuario le había dicho que no",
+    "duration": 6560,
+    "offset": 268560,
+    "lang": "es"
+  },
+  {
+    "text": "conocía la diferencia acá, este explica",
+    "duration": 6680,
+    "offset": 270680,
+    "lang": "es"
+  },
+  {
+    "text": "la diferencia entre célula de Sértoli y",
+    "duration": 4480,
+    "offset": 275120,
+    "lang": "es"
+  },
+  {
+    "text": "espermatoonia.",
+    "duration": 4960,
+    "offset": 277360,
+    "lang": "es"
+  },
+  {
+    "text": "Le da la para que el usuario conozca.",
+    "duration": 7360,
+    "offset": 279600,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora, ¿para qué es que yo definí el",
+    "duration": 6840,
+    "offset": 282320,
+    "lang": "es"
+  },
+  {
+    "text": "para qué es que necesitaba indicarle al",
+    "duration": 3600,
+    "offset": 286960,
+    "lang": "es"
+  },
+  {
+    "text": "sistema que era un estudiante y que se",
+    "duration": 4240,
+    "offset": 289160,
+    "lang": "es"
+  },
+  {
+    "text": "llamaba Diego? Bien, bueno, hago clic en",
+    "duration": 5720,
+    "offset": 290560,
+    "lang": "es"
+  },
+  {
+    "text": "este botón que es la memoria NAMS. En",
+    "duration": 6560,
+    "offset": 293400,
+    "lang": "es"
+  },
+  {
+    "text": "principio, todo lo que yo interactúo,",
+    "duration": 7199,
+    "offset": 296280,
+    "lang": "es"
+  },
+  {
+    "text": "como tengo desarrollado la memoria NAS,",
+    "duration": 5920,
+    "offset": 299960,
+    "lang": "es"
+  },
+  {
+    "text": "todo eso, la memoria de corto plazo, la",
+    "duration": 4081,
+    "offset": 303479,
+    "lang": "es"
+  },
+  {
+    "text": "de largo plazo y la memoria de",
+    "duration": 5920,
+    "offset": 305880,
+    "lang": "es"
+  },
+  {
+    "text": "razonamiento se guarda en este sistema",
+    "duration": 6280,
+    "offset": 307560,
+    "lang": "es"
+  },
+  {
+    "text": "que es una base de datos de grafos",
+    "duration": 5560,
+    "offset": 311800,
+    "lang": "es"
+  },
+  {
+    "text": "Neofore. O sea, todo eso va a este",
+    "duration": 7639,
+    "offset": 313840,
+    "lang": "es"
+  },
+  {
+    "text": "sistemita, todo se guarda acá. Y después",
+    "duration": 6839,
+    "offset": 317360,
+    "lang": "es"
+  },
+  {
+    "text": "está",
+    "duration": 5280,
+    "offset": 321479,
+    "lang": "es"
+  },
+  {
+    "text": "otro sistema que es la aplicación del",
+    "duration": 5681,
+    "offset": 324199,
+    "lang": "es"
+  },
+  {
+    "text": "modelo NS propiamente dicho, New Forent",
+    "duration": 6201,
+    "offset": 326759,
+    "lang": "es"
+  },
+  {
+    "text": "Memory System, que es el que empieza a",
+    "duration": 6200,
+    "offset": 329880,
+    "lang": "es"
+  },
+  {
+    "text": "elaborar o el que empieza a este tomar",
+    "duration": 6200,
+    "offset": 332960,
+    "lang": "es"
+  },
+  {
+    "text": "conclusiones. Acá lo que voy a ver en la",
+    "duration": 7000,
+    "offset": 336080,
+    "lang": "es"
+  },
+  {
+    "text": "parte de observaciones es la memoria de",
+    "duration": 6200,
+    "offset": 339160,
+    "lang": "es"
+  },
+  {
+    "text": "largo plazo. La memoria de corto plazo,",
+    "duration": 4320,
+    "offset": 343080,
+    "lang": "es"
+  },
+  {
+    "text": "si bien se guarda en New Forse, se van",
+    "duration": 4679,
+    "offset": 345360,
+    "lang": "es"
+  },
+  {
+    "text": "banece o se borra cuando yo termino la",
+    "duration": 5440,
+    "offset": 347400,
+    "lang": "es"
+  },
+  {
+    "text": "sesión. Cuando yo me voy, cierro la",
+    "duration": 5121,
+    "offset": 350039,
+    "lang": "es"
+  },
+  {
+    "text": "sesión, esa memoria de corto plazo se",
+    "duration": 6040,
+    "offset": 352840,
+    "lang": "es"
+  },
+  {
+    "text": "va, pero permanece dentro de la base de",
+    "duration": 5800,
+    "offset": 355160,
+    "lang": "es"
+  },
+  {
+    "text": "datos la memoria de largo plazo y la",
+    "duration": 4759,
+    "offset": 358880,
+    "lang": "es"
+  },
+  {
+    "text": "memoria de razonamiento. Y fíjense acá,",
+    "duration": 5600,
+    "offset": 360960,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo, esta memoria de largo plazo",
+    "duration": 7201,
+    "offset": 363639,
+    "lang": "es"
+  },
+  {
+    "text": "lo que hace es tiene mensajes con",
+    "duration": 8919,
+    "offset": 366560,
+    "lang": "es"
+  },
+  {
+    "text": "observaciones o reflexiones que el LLM",
+    "duration": 8520,
+    "offset": 370840,
+    "lang": "es"
+  },
+  {
+    "text": "realiza sobre la actuación del usuario.",
+    "duration": 7361,
+    "offset": 375479,
+    "lang": "es"
+  },
+  {
+    "text": "O sea, que ya de por si nativamente el",
+    "duration": 6279,
+    "offset": 379360,
+    "lang": "es"
+  },
+  {
+    "text": "hecho de utilizar memoria NAS hace que",
+    "duration": 4600,
+    "offset": 382840,
+    "lang": "es"
+  },
+  {
+    "text": "se guarden en esta memoria de largo",
+    "duration": 4761,
+    "offset": 385639,
+    "lang": "es"
+  },
+  {
+    "text": "plazo observaciones y deducciones que",
+    "duration": 4920,
+    "offset": 387440,
+    "lang": "es"
+  },
+  {
+    "text": "después le van a servir al sistema para",
+    "duration": 6239,
+    "offset": 390400,
+    "lang": "es"
+  },
+  {
+    "text": "interactuar con un usuario particular.",
+    "duration": 4279,
+    "offset": 392360,
+    "lang": "es"
+  },
+  {
+    "text": "Bien,",
+    "duration": 4601,
+    "offset": 397199,
+    "lang": "es"
+  },
+  {
+    "text": "ahora, ¿qué pasa si yo aprieto esto",
+    "duration": 4520,
+    "offset": 399440,
+    "lang": "es"
+  },
+  {
+    "text": "memorians, ahí me trae lo del agente",
+    "duration": 4959,
+    "offset": 401800,
+    "lang": "es"
+  },
+  {
+    "text": "socrático multimodal?",
+    "duration": 6079,
+    "offset": 403960,
+    "lang": "es"
+  },
+  {
+    "text": "Por un lado se ven las preferencias e e",
+    "duration": 6241,
+    "offset": 406759,
+    "lang": "es"
+  },
+  {
+    "text": "insight del alumno y habla del usuario",
+    "duration": 5961,
+    "offset": 410039,
+    "lang": "es"
+  },
+  {
+    "text": "Diego. Dice que",
+    "duration": 5599,
+    "offset": 413000,
+    "lang": "es"
+  },
+  {
+    "text": "eh prefiere explicaciones con el método",
+    "duration": 5800,
+    "offset": 416000,
+    "lang": "es"
+  },
+  {
+    "text": "socrático, que prefiere respuestas en",
+    "duration": 6761,
+    "offset": 418599,
+    "lang": "es"
+  },
+  {
+    "text": "directo, o sea, que que tengan un",
+    "duration": 7720,
+    "offset": 421800,
+    "lang": "es"
+  },
+  {
+    "text": "contenido que sea este que no seas con",
+    "duration": 6320,
+    "offset": 425360,
+    "lang": "es"
+  },
+  {
+    "text": "un contenido que que no tiene el sistema",
+    "duration": 4720,
+    "offset": 429520,
+    "lang": "es"
+  },
+  {
+    "text": "con contenido propio. y el alumno tiene",
+    "duration": 4440,
+    "offset": 431680,
+    "lang": "es"
+  },
+  {
+    "text": "dificultades con ecuaciones cuadráticas.",
+    "duration": 5280,
+    "offset": 434240,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que acá ya guarda en esta",
+    "duration": 5359,
+    "offset": 436120,
+    "lang": "es"
+  },
+  {
+    "text": "memoria de largo plazo un conocimiento",
+    "duration": 4119,
+    "offset": 439520,
+    "lang": "es"
+  },
+  {
+    "text": "del alumno. Dice, porque el alumno acá",
+    "duration": 3601,
+    "offset": 441479,
+    "lang": "es"
+  },
+  {
+    "text": "se lo dijo, pero después vamos a ver qué",
+    "duration": 4240,
+    "offset": 443639,
+    "lang": "es"
+  },
+  {
+    "text": "pasa. Y del otro lado, lo que tengo, las",
+    "duration": 5320,
+    "offset": 445080,
+    "lang": "es"
+  },
+  {
+    "text": "falencias del sistema.",
+    "duration": 5521,
+    "offset": 447879,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que acá hay muchas, muchas",
+    "duration": 5639,
+    "offset": 450400,
+    "lang": "es"
+  },
+  {
+    "text": "explicaciones.",
+    "duration": 4680,
+    "offset": 453400,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué son esas falencias del sistema? Yo",
+    "duration": 4081,
+    "offset": 456039,
+    "lang": "es"
+  },
+  {
+    "text": "en cambio entrar en modo alumno, puedo",
+    "duration": 6040,
+    "offset": 458080,
+    "lang": "es"
+  },
+  {
+    "text": "entrar en modo profesor y entrando en",
+    "duration": 7039,
+    "offset": 460120,
+    "lang": "es"
+  },
+  {
+    "text": "modo profesor yo puedo corregir a la",
+    "duration": 5000,
+    "offset": 464120,
+    "lang": "es"
+  },
+  {
+    "text": "gente, a ese agente que ustedes veían,",
+    "duration": 3320,
+    "offset": 467159,
+    "lang": "es"
+  },
+  {
+    "text": "tutor socrático y demás, lo puedo",
+    "duration": 5400,
+    "offset": 469120,
+    "lang": "es"
+  },
+  {
+    "text": "corregir y le puedo escribir conceptos,",
+    "duration": 8761,
+    "offset": 470479,
+    "lang": "es"
+  },
+  {
+    "text": "le puedo escribir este",
+    "duration": 4720,
+    "offset": 474520,
+    "lang": "es"
+  },
+  {
+    "text": "digo, bueno, yo por ejemplo había un",
+    "duration": 3839,
+    "offset": 479800,
+    "lang": "es"
+  },
+  {
+    "text": "concepto que era eh fuerza de rozamiento",
+    "duration": 4000,
+    "offset": 481039,
+    "lang": "es"
+  },
+  {
+    "text": "en un cuerpo rígido y esa fuerza de",
+    "duration": 3881,
+    "offset": 483639,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento en un cuerpo rígido estaba",
+    "duration": 5521,
+    "offset": 485039,
+    "lang": "es"
+  },
+  {
+    "text": "mal calculado, por ejemplo, o vi que",
+    "duration": 4799,
+    "offset": 487520,
+    "lang": "es"
+  },
+  {
+    "text": "había células de cértoli, pero que había",
+    "duration": 3280,
+    "offset": 490560,
+    "lang": "es"
+  },
+  {
+    "text": "otras células. Entonces, le puedo decir,",
+    "duration": 3320,
+    "offset": 492319,
+    "lang": "es"
+  },
+  {
+    "text": "\"Bueno, en este tejido de célula deoli",
+    "duration": 6759,
+    "offset": 493840,
+    "lang": "es"
+  },
+  {
+    "text": "aparte tenés otras células. Eso que yo e",
+    "duration": 6601,
+    "offset": 495639,
+    "lang": "es"
+  },
+  {
+    "text": "registro",
+    "duration": 5641,
+    "offset": 500599,
+    "lang": "es"
+  },
+  {
+    "text": "queda ya guardado dentro de la memoria",
+    "duration": 8399,
+    "offset": 502240,
+    "lang": "es"
+  },
+  {
+    "text": "y eso es lo que después ese es contenido",
+    "duration": 7560,
+    "offset": 506240,
+    "lang": "es"
+  },
+  {
+    "text": "que va a buscar cuando se realiza un",
+    "duration": 5400,
+    "offset": 510639,
+    "lang": "es"
+  },
+  {
+    "text": "querer de usuario para tener aparte del",
+    "duration": 5000,
+    "offset": 513800,
+    "lang": "es"
+  },
+  {
+    "text": "contenido recuperado. Va a ir a buscar",
+    "duration": 4480,
+    "offset": 516039,
+    "lang": "es"
+  },
+  {
+    "text": "primero todo el conocimiento que tiene",
+    "duration": 3599,
+    "offset": 518800,
+    "lang": "es"
+  },
+  {
+    "text": "del usuario, después todo el",
+    "duration": 3200,
+    "offset": 520519,
+    "lang": "es"
+  },
+  {
+    "text": "conocimiento que tiene de las",
+    "duration": 3081,
+    "offset": 522399,
+    "lang": "es"
+  },
+  {
+    "text": "correcciones que yo le hice y en función",
+    "duration": 3841,
+    "offset": 523719,
+    "lang": "es"
+  },
+  {
+    "text": "de eso me va a dar la respuesta. Así es",
+    "duration": 4400,
+    "offset": 525480,
+    "lang": "es"
+  },
+  {
+    "text": "como interactúa la memoria NAS. En",
+    "duration": 4880,
+    "offset": 527560,
+    "lang": "es"
+  },
+  {
+    "text": "cambio de acá esto, el modo profesor va",
+    "duration": 4600,
+    "offset": 529880,
+    "lang": "es"
+  },
+  {
+    "text": "a interactuar solo el profesor y acá",
+    "duration": 4040,
+    "offset": 532440,
+    "lang": "es"
+  },
+  {
+    "text": "tengo el modo alumno que interactúa",
+    "duration": 4960,
+    "offset": 534480,
+    "lang": "es"
+  },
+  {
+    "text": "sobre el alumno y acá en este caso está",
+    "duration": 5200,
+    "offset": 536480,
+    "lang": "es"
+  },
+  {
+    "text": "mano y demás, todavía no está hecho como",
+    "duration": 5120,
+    "offset": 539440,
+    "lang": "es"
+  },
+  {
+    "text": "un sistema, sino que es un prototipo.",
+    "duration": 5240,
+    "offset": 541680,
+    "lang": "es"
+  },
+  {
+    "text": "Pero la idea, justamente, fíjense esta",
+    "duration": 4760,
+    "offset": 544560,
+    "lang": "es"
+  },
+  {
+    "text": "memoria NAS,",
+    "duration": 6720,
+    "offset": 546920,
+    "lang": "es"
+  },
+  {
+    "text": "si yo ahora lo paso al agente médico, no",
+    "duration": 6040,
+    "offset": 549320,
+    "lang": "es"
+  },
+  {
+    "text": "hay falencia, obviamente porque yo no",
+    "duration": 3600,
+    "offset": 553640,
+    "lang": "es"
+  },
+  {
+    "text": "pude registrar nada porque no sé cómo",
+    "duration": 4640,
+    "offset": 555360,
+    "lang": "es"
+  },
+  {
+    "text": "corregirlo, pero acá dice, bueno, este",
+    "duration": 4520,
+    "offset": 557240,
+    "lang": "es"
+  },
+  {
+    "text": "es un alumno que prefiere respuestas en",
+    "duration": 2959,
+    "offset": 560000,
+    "lang": "es"
+  },
+  {
+    "text": "directo, o sea, con contenido",
+    "duration": 2880,
+    "offset": 561760,
+    "lang": "es"
+  },
+  {
+    "text": "verificado. Y el alumno dice, no",
+    "duration": 3281,
+    "offset": 562959,
+    "lang": "es"
+  },
+  {
+    "text": "comprende la diferencia entre la célula",
+    "duration": 4920,
+    "offset": 564640,
+    "lang": "es"
+  },
+  {
+    "text": "de Certoli y la espermatogonia.",
+    "duration": 5520,
+    "offset": 566240,
+    "lang": "es"
+  },
+  {
+    "text": "Este inside de alumno no es que yo le",
+    "duration": 4440,
+    "offset": 569560,
+    "lang": "es"
+  },
+  {
+    "text": "dije, mirá que yo no entiendo. Yo le",
+    "duration": 4480,
+    "offset": 571760,
+    "lang": "es"
+  },
+  {
+    "text": "dije que si me la podía explicar y solo",
+    "duration": 4720,
+    "offset": 574000,
+    "lang": "es"
+  },
+  {
+    "text": "como el sistema tiene un LLM, lo guarda",
+    "duration": 4760,
+    "offset": 576240,
+    "lang": "es"
+  },
+  {
+    "text": "ya en su memoria de largo plazo,",
+    "duration": 6119,
+    "offset": 578720,
+    "lang": "es"
+  },
+  {
+    "text": "sabiendo que eh cuando venga este",
+    "duration": 6040,
+    "offset": 581000,
+    "lang": "es"
+  },
+  {
+    "text": "estudiante tiene un problema para",
+    "duration": 4680,
+    "offset": 584839,
+    "lang": "es"
+  },
+  {
+    "text": "diferenciar eso y tal vez uno después",
+    "duration": 4479,
+    "offset": 587040,
+    "lang": "es"
+  },
+  {
+    "text": "puede ir haciendo un seguimiento, ver",
+    "duration": 4081,
+    "offset": 589519,
+    "lang": "es"
+  },
+  {
+    "text": "cómo evolucionó",
+    "duration": 7401,
+    "offset": 591519,
+    "lang": "es"
+  },
+  {
+    "text": "e el estudiante con e con esos",
+    "duration": 7960,
+    "offset": 593600,
+    "lang": "es"
+  },
+  {
+    "text": "conceptos. Acá se puede hacer o también",
+    "duration": 4359,
+    "offset": 598920,
+    "lang": "es"
+  },
+  {
+    "text": "después se podría hacer una programación",
+    "duration": 3640,
+    "offset": 601560,
+    "lang": "es"
+  },
+  {
+    "text": "de ese seguimiento para ver en",
+    "duration": 5281,
+    "offset": 603279,
+    "lang": "es"
+  },
+  {
+    "text": "particular la evolución del estudiante.",
+    "duration": 5680,
+    "offset": 605200,
+    "lang": "es"
+  },
+  {
+    "text": "Si bien las falencias están asociadas a",
+    "duration": 6519,
+    "offset": 608560,
+    "lang": "es"
+  },
+  {
+    "text": "la gente y los insights de eh",
+    "duration": 6399,
+    "offset": 610880,
+    "lang": "es"
+  },
+  {
+    "text": "conocimiento de algún tema y demás están",
+    "duration": 5681,
+    "offset": 615079,
+    "lang": "es"
+  },
+  {
+    "text": "asociados al alumno, lo que sucede es",
+    "duration": 8441,
+    "offset": 617279,
+    "lang": "es"
+  },
+  {
+    "text": "que cuando uno interactúa con el agente,",
+    "duration": 7079,
+    "offset": 620760,
+    "lang": "es"
+  },
+  {
+    "text": "el agente trae todo el contenido de",
+    "duration": 5160,
+    "offset": 625720,
+    "lang": "es"
+  },
+  {
+    "text": "conocimiento. hay una búsqueda semántica",
+    "duration": 5281,
+    "offset": 627839,
+    "lang": "es"
+  },
+  {
+    "text": "que es sobre lo que tenemos que trabajar",
+    "duration": 6320,
+    "offset": 630880,
+    "lang": "es"
+  },
+  {
+    "text": "y corregir. Cuando el alumno dice que",
+    "duration": 6680,
+    "offset": 633120,
+    "lang": "es"
+  },
+  {
+    "text": "quiere que le expliquen, por ejemplo,",
+    "duration": 4879,
+    "offset": 637200,
+    "lang": "es"
+  },
+  {
+    "text": "energía cinética, como la energía",
+    "duration": 4240,
+    "offset": 639800,
+    "lang": "es"
+  },
+  {
+    "text": "cinética tiene una ecuación cuadrática,",
+    "duration": 4281,
+    "offset": 642079,
+    "lang": "es"
+  },
+  {
+    "text": "ahí debiera explicarle o debiera traer",
+    "duration": 5560,
+    "offset": 644040,
+    "lang": "es"
+  },
+  {
+    "text": "contenido que revela que no conoce la",
+    "duration": 5279,
+    "offset": 646360,
+    "lang": "es"
+  },
+  {
+    "text": "parte de ecuación cuadrática. Ahora, si",
+    "duration": 4479,
+    "offset": 649600,
+    "lang": "es"
+  },
+  {
+    "text": "el alumno quiere que le expliquen ondas",
+    "duration": 4721,
+    "offset": 651639,
+    "lang": "es"
+  },
+  {
+    "text": "estacionarias, no tiene por qué",
+    "duration": 4521,
+    "offset": 654079,
+    "lang": "es"
+  },
+  {
+    "text": "recuperar el contenido de ecuación",
+    "duration": 4080,
+    "offset": 656360,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrática. Hoy lo que hace es guarda",
+    "duration": 4120,
+    "offset": 658600,
+    "lang": "es"
+  },
+  {
+    "text": "los insights y guarda las falencias de",
+    "duration": 6040,
+    "offset": 660440,
+    "lang": "es"
+  },
+  {
+    "text": "la gente en la base de datos y recupera",
+    "duration": 5760,
+    "offset": 662720,
+    "lang": "es"
+  },
+  {
+    "text": "todo. Recupera todo para los alumnos,",
+    "duration": 5200,
+    "offset": 666480,
+    "lang": "es"
+  },
+  {
+    "text": "recupera todo para y eso lentifica mucho",
+    "duration": 6320,
+    "offset": 668480,
+    "lang": "es"
+  },
+  {
+    "text": "el proceso de respuesta. Lo que hay que",
+    "duration": 6360,
+    "offset": 671680,
+    "lang": "es"
+  },
+  {
+    "text": "mejorar que es que el query hacia el",
+    "duration": 6440,
+    "offset": 674800,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de falencias o insight sea un",
+    "duration": 5440,
+    "offset": 678040,
+    "lang": "es"
+  },
+  {
+    "text": "query más asertivo o que haga una",
+    "duration": 4920,
+    "offset": 681240,
+    "lang": "es"
+  },
+  {
+    "text": "búsqueda semántica o algo mejor. Eso es",
+    "duration": 6919,
+    "offset": 683480,
+    "lang": "es"
+  },
+  {
+    "text": "lo que restaría mejorar.",
+    "duration": 4239,
+    "offset": 686160,
+    "lang": "es"
+  }
+]

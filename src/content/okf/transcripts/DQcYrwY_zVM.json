@@ -1,0 +1,626 @@
+[
+  {
+    "text": "cómo hacemos para generar un frontend",
+    "duration": 5160,
+    "offset": 719,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando volt primero Tenemos que",
+    "duration": 4880,
+    "offset": 3480,
+    "lang": "es"
+  },
+  {
+    "text": "tener nuestro Flow de unflow que es el",
+    "duration": 4921,
+    "offset": 5879,
+    "lang": "es"
+  },
+  {
+    "text": "que ya habíamos visto que utilizamos",
+    "duration": 3920,
+    "offset": 8360,
+    "lang": "es"
+  },
+  {
+    "text": "para las",
+    "duration": 4799,
+    "offset": 10800,
+    "lang": "es"
+  },
+  {
+    "text": "consultas de leyes tenemos acá las URL",
+    "duration": 5360,
+    "offset": 12280,
+    "lang": "es"
+  },
+  {
+    "text": "de ley de riesgo de trabajo y ley de",
+    "duration": 3161,
+    "offset": 15599,
+    "lang": "es"
+  },
+  {
+    "text": "contrato de",
+    "duration": 4960,
+    "offset": 17640,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo vamos a donde dice Api buscamos",
+    "duration": 6519,
+    "offset": 18760,
+    "lang": "es"
+  },
+  {
+    "text": "python Api",
+    "duration": 6240,
+    "offset": 22600,
+    "lang": "es"
+  },
+  {
+    "text": "copiamos ese código con ese código que",
+    "duration": 5240,
+    "offset": 25279,
+    "lang": "es"
+  },
+  {
+    "text": "copiamos vamos",
+    "duration": 4040,
+    "offset": 28840,
+    "lang": "es"
+  },
+  {
+    "text": "y le",
+    "duration": 2361,
+    "offset": 30519,
+    "lang": "es"
+  },
+  {
+    "text": "pedimos una vez que hacemos eso le",
+    "duration": 6719,
+    "offset": 47160,
+    "lang": "es"
+  },
+  {
+    "text": "podemos pedir que",
+    "duration": 2959,
+    "offset": 50920,
+    "lang": "es"
+  },
+  {
+    "text": "sea lo que le pedimos ahí Es que para es",
+    "duration": 7640,
+    "offset": 55320,
+    "lang": "es"
+  },
+  {
+    "text": "frontend crear un backend Y le dijimos",
+    "duration": 4240,
+    "offset": 60320,
+    "lang": "es"
+  },
+  {
+    "text": "que lo haga en",
+    "duration": 4839,
+    "offset": 62960,
+    "lang": "es"
+  },
+  {
+    "text": "Astro fíjense",
+    "duration": 7960,
+    "offset": 64560,
+    "lang": "es"
+  },
+  {
+    "text": "que acá es donde yo ya lo tengo",
+    "duration": 4721,
+    "offset": 67799,
+    "lang": "es"
+  },
+  {
+    "text": "creado qué fue lo que hizo como Este es",
+    "duration": 8520,
+    "offset": 73720,
+    "lang": "es"
+  },
+  {
+    "text": "un G pero está potenciado por agentes lo",
+    "duration": 8640,
+    "offset": 76960,
+    "lang": "es"
+  },
+  {
+    "text": "que van haciendo los agentes es crear",
+    "duration": 5760,
+    "offset": 82240,
+    "lang": "es"
+  },
+  {
+    "text": "todos los archivos necesarios todo el",
+    "duration": 5040,
+    "offset": 85600,
+    "lang": "es"
+  },
+  {
+    "text": "proyecto todos los archivos necesarios",
+    "duration": 7520,
+    "offset": 88000,
+    "lang": "es"
+  },
+  {
+    "text": "todo lo creó de simplemente hacer un",
+    "duration": 8640,
+    "offset": 90640,
+    "lang": "es"
+  },
+  {
+    "text": "copy paste de ese frontend y fíjense que",
+    "duration": 7919,
+    "offset": 95520,
+    "lang": "es"
+  },
+  {
+    "text": "acá ya está listo podemos o",
+    "duration": 6879,
+    "offset": 99280,
+    "lang": "es"
+  },
+  {
+    "text": "e exportarlo a",
+    "duration": 6401,
+    "offset": 103439,
+    "lang": "es"
+  },
+  {
+    "text": "stackblitz hacer un deploy en una",
+    "duration": 6320,
+    "offset": 106159,
+    "lang": "es"
+  },
+  {
+    "text": "plataforma para deployment o podemos",
+    "duration": 5360,
+    "offset": 109840,
+    "lang": "es"
+  },
+  {
+    "text": "hacer un Download que fue lo que yo hice",
+    "duration": 8481,
+    "offset": 112479,
+    "lang": "es"
+  },
+  {
+    "text": "y levantarlo directamente nuestro propio",
+    "duration": 9080,
+    "offset": 115200,
+    "lang": "es"
+  },
+  {
+    "text": "en nuestra propia computadora acá yo lo",
+    "duration": 5839,
+    "offset": 120960,
+    "lang": "es"
+  },
+  {
+    "text": "que hice",
+    "duration": 2519,
+    "offset": 124280,
+    "lang": "es"
+  },
+  {
+    "text": "fue el Download y lo ejecuto",
+    "duration": 6160,
+    "offset": 126880,
+    "lang": "es"
+  },
+  {
+    "text": "directamente en mi propia computadora",
+    "duration": 5040,
+    "offset": 130520,
+    "lang": "es"
+  },
+  {
+    "text": "todos estos archivos que ven",
+    "duration": 6960,
+    "offset": 133040,
+    "lang": "es"
+  },
+  {
+    "text": "acá Todos estos archivos e inclusive la",
+    "duration": 7520,
+    "offset": 135560,
+    "lang": "es"
+  },
+  {
+    "text": "parte de la forma y demás los archivos",
+    "duration": 5840,
+    "offset": 140000,
+    "lang": "es"
+  },
+  {
+    "text": "de configuración el Packy Jason todo fue",
+    "duration": 6879,
+    "offset": 143080,
+    "lang": "es"
+  },
+  {
+    "text": "realizado con Jenny y con e",
+    "duration": 7560,
+    "offset": 145840,
+    "lang": "es"
+  },
+  {
+    "text": "agentes que se ocuparon de hacer que",
+    "duration": 5801,
+    "offset": 149959,
+    "lang": "es"
+  },
+  {
+    "text": "todo el workspace quede funcionando",
+    "duration": 5559,
+    "offset": 153400,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense si",
+    "duration": 3199,
+    "offset": 155760,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros vamos ahora y le decimos por",
+    "duration": 4519,
+    "offset": 159080,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo",
+    "duration": 6199,
+    "offset": 162120,
+    "lang": "es"
+  },
+  {
+    "text": "eh acá le hacemos una pregunta cuántos",
+    "duration": 7401,
+    "offset": 163599,
+    "lang": "es"
+  },
+  {
+    "text": "días de",
+    "duration": 6200,
+    "offset": 168319,
+    "lang": "es"
+  },
+  {
+    "text": "vacaciones le",
+    "duration": 3519,
+    "offset": 171000,
+    "lang": "es"
+  },
+  {
+    "text": "corresponden a un empleado que trabaja",
+    "duration": 6840,
+    "offset": 174640,
+    "lang": "es"
+  },
+  {
+    "text": "en en la",
+    "duration": 5400,
+    "offset": 179080,
+    "lang": "es"
+  },
+  {
+    "text": "empresa",
+    "duration": 3000,
+    "offset": 181480,
+    "lang": "es"
+  },
+  {
+    "text": "hace 5",
+    "duration": 4961,
+    "offset": 184799,
+    "lang": "es"
+  },
+  {
+    "text": "días",
+    "duration": 7280,
+    "offset": 187879,
+    "lang": "es"
+  },
+  {
+    "text": "Bien ahí le hicimos esa pregunta fíjense",
+    "duration": 9759,
+    "offset": 189760,
+    "lang": "es"
+  },
+  {
+    "text": "que esto es un una interface hecha en",
+    "duration": 9281,
+    "offset": 195159,
+    "lang": "es"
+  },
+  {
+    "text": "Astro de lanflow pero que se conecta a",
+    "duration": 8161,
+    "offset": 199519,
+    "lang": "es"
+  },
+  {
+    "text": "el se conecta al bacen que lanflow nos",
+    "duration": 5960,
+    "offset": 204440,
+    "lang": "es"
+  },
+  {
+    "text": "da e",
+    "duration": 5040,
+    "offset": 207680,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que nosotros construimos el Flow",
+    "duration": 3199,
+    "offset": 210400,
+    "lang": "es"
+  },
+  {
+    "text": "O sea",
+    "duration": 3920,
+    "offset": 212720,
+    "lang": "es"
+  },
+  {
+    "text": "que fíjense que esta",
+    "duration": 5041,
+    "offset": 213599,
+    "lang": "es"
+  },
+  {
+    "text": "esta esta",
+    "duration": 6760,
+    "offset": 216640,
+    "lang": "es"
+  },
+  {
+    "text": "interface no necesita que",
+    "duration": 7560,
+    "offset": 218640,
+    "lang": "es"
+  },
+  {
+    "text": "este no necesita que nosotros hagamos",
+    "duration": 4720,
+    "offset": 223400,
+    "lang": "es"
+  },
+  {
+    "text": "más nada ya tenemos lista la aplicación",
+    "duration": 3920,
+    "offset": 226200,
+    "lang": "es"
+  },
+  {
+    "text": "full stack sin ningún tipo de problema",
+    "duration": 4000,
+    "offset": 228120,
+    "lang": "es"
+  },
+  {
+    "text": "bien y ahí nos",
+    "duration": 4440,
+    "offset": 230120,
+    "lang": "es"
+  },
+  {
+    "text": "contesta experto abogado en legislación",
+    "duration": 3959,
+    "offset": 232120,
+    "lang": "es"
+  },
+  {
+    "text": "laboral Argentina te deo indicar que la",
+    "duration": 2920,
+    "offset": 234560,
+    "lang": "es"
+  },
+  {
+    "text": "información es insuficiente para",
+    "duration": 2481,
+    "offset": 236079,
+    "lang": "es"
+  },
+  {
+    "text": "determinar la cantidad de días de",
+    "duration": 3000,
+    "offset": 237480,
+    "lang": "es"
+  },
+  {
+    "text": "vacaciones que responden adado que lleva",
+    "duration": 5160,
+    "offset": 238560,
+    "lang": "es"
+  },
+  {
+    "text": "trabajando 5 días la ley de contrato de",
+    "duration": 5839,
+    "offset": 240480,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo en su título c y acá nos dice",
+    "duration": 4599,
+    "offset": 243720,
+    "lang": "es"
+  },
+  {
+    "text": "todo bien detallado regula las",
+    "duration": 4000,
+    "offset": 246319,
+    "lang": "es"
+  },
+  {
+    "text": "vacaciones sin embargo el artículo 150",
+    "duration": 3321,
+    "offset": 248319,
+    "lang": "es"
+  },
+  {
+    "text": "Establece que los dí de vacaciones en",
+    "duration": 4640,
+    "offset": 250319,
+    "lang": "es"
+  },
+  {
+    "text": "función de la antigüedad en el empleo no",
+    "duration": 5200,
+    "offset": 251640,
+    "lang": "es"
+  },
+  {
+    "text": "en función de los días trabajados en un",
+    "duration": 3921,
+    "offset": 254959,
+    "lang": "es"
+  },
+  {
+    "text": "periodo corto los plazos allí",
+    "duration": 3720,
+    "offset": 256840,
+    "lang": "es"
+  },
+  {
+    "text": "mencionados son 14 días corrido",
+    "duration": 3440,
+    "offset": 258880,
+    "lang": "es"
+  },
+  {
+    "text": "antigüedad de empleo no mayor a 5 años",
+    "duration": 3720,
+    "offset": 260560,
+    "lang": "es"
+  },
+  {
+    "text": "21 días",
+    "duration": 4640,
+    "offset": 262320,
+    "lang": "es"
+  },
+  {
+    "text": "Bien acá lo que dice bien la ley de",
+    "duration": 5440,
+    "offset": 264280,
+    "lang": "es"
+  },
+  {
+    "text": "contrato 551 que para tener derecho",
+    "duration": 4000,
+    "offset": 266960,
+    "lang": "es"
+  },
+  {
+    "text": "vacaciones anuales el trabajador debe",
+    "duration": 2919,
+    "offset": 269720,
+    "lang": "es"
+  },
+  {
+    "text": "haber prestado servicio durante al menos",
+    "duration": 3440,
+    "offset": 270960,
+    "lang": "es"
+  },
+  {
+    "text": "la mitad de los días hábiles del año",
+    "duration": 3481,
+    "offset": 272639,
+    "lang": "es"
+  },
+  {
+    "text": "calendario bien o sea acá nos da un",
+    "duration": 3400,
+    "offset": 274400,
+    "lang": "es"
+  },
+  {
+    "text": "detalle de por qué esa persona que",
+    "duration": 3760,
+    "offset": 276120,
+    "lang": "es"
+  },
+  {
+    "text": "trabajó 5 días no le",
+    "duration": 6280,
+    "offset": 277800,
+    "lang": "es"
+  },
+  {
+    "text": "corresponden vacaciones pero fíjense que",
+    "duration": 7879,
+    "offset": 279880,
+    "lang": "es"
+  },
+  {
+    "text": "esto es un frontend que podríamos darle",
+    "duration": 5480,
+    "offset": 284080,
+    "lang": "es"
+  },
+  {
+    "text": "a un montón de gente a través de un",
+    "duration": 4481,
+    "offset": 287759,
+    "lang": "es"
+  },
+  {
+    "text": "backend que está en un lugar que",
+    "duration": 5280,
+    "offset": 289560,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros podemos manejar y que nosotros",
+    "duration": 4519,
+    "offset": 292240,
+    "lang": "es"
+  },
+  {
+    "text": "podemos ir aumentando en función de la",
+    "duration": 3760,
+    "offset": 294840,
+    "lang": "es"
+  },
+  {
+    "text": "cantidad de cosas que se quieran ir",
+    "duration": 4801,
+    "offset": 296759,
+    "lang": "es"
+  },
+  {
+    "text": "cambiando o alterando pero como vieron",
+    "duration": 5120,
+    "offset": 298600,
+    "lang": "es"
+  },
+  {
+    "text": "todo lo hicimos con b todo se hizo con",
+    "duration": 5120,
+    "offset": 301560,
+    "lang": "es"
+  },
+  {
+    "text": "Jen y agentes y todo se hizo en 10",
+    "duration": 5960,
+    "offset": 303720,
+    "lang": "es"
+  },
+  {
+    "text": "minutos",
+    "duration": 3000,
+    "offset": 306680,
+    "lang": "es"
+  }
+]

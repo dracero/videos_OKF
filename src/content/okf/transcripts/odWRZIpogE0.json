@@ -1,0 +1,680 @@
+[
+  {
+    "text": "Vamos a mostrar cómo obtener eh el la",
+    "duration": 8120,
+    "offset": 1160,
+    "lang": "es"
+  },
+  {
+    "text": "documentación de OpenI y a partir de esa",
+    "duration": 7999,
+    "offset": 5680,
+    "lang": "es"
+  },
+  {
+    "text": "documentación de OpenI eh conectar a un",
+    "duration": 9360,
+    "offset": 9280,
+    "lang": "es"
+  },
+  {
+    "text": "servidor e MCP sin tener que programar",
+    "duration": 8041,
+    "offset": 13679,
+    "lang": "es"
+  },
+  {
+    "text": "todos los ends dentro del MSP Server. O",
+    "duration": 5120,
+    "offset": 18640,
+    "lang": "es"
+  },
+  {
+    "text": "sea, vamos a ver como con los agentes",
+    "duration": 6080,
+    "offset": 21720,
+    "lang": "es"
+  },
+  {
+    "text": "ADK hacemos un MCP Server, pero",
+    "duration": 5759,
+    "offset": 23760,
+    "lang": "es"
+  },
+  {
+    "text": "directamente con la documentación de",
+    "duration": 3600,
+    "offset": 27800,
+    "lang": "es"
+  },
+  {
+    "text": "OpenI, sin tener que programar",
+    "duration": 4521,
+    "offset": 29519,
+    "lang": "es"
+  },
+  {
+    "text": "absolutamente ningún endpoint. Vamos a",
+    "duration": 5440,
+    "offset": 31400,
+    "lang": "es"
+  },
+  {
+    "text": "mostrar acá tenemos",
+    "duration": 6999,
+    "offset": 34040,
+    "lang": "es"
+  },
+  {
+    "text": "un un simple crude que se dedica a todo",
+    "duration": 7360,
+    "offset": 36840,
+    "lang": "es"
+  },
+  {
+    "text": "lo que es eh usuarios, todos todo el",
+    "duration": 5761,
+    "offset": 41039,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo de usuarios. Normalmente yo para",
+    "duration": 6480,
+    "offset": 44200,
+    "lang": "es"
+  },
+  {
+    "text": "manejar esto debería ser un frontend y",
+    "duration": 6200,
+    "offset": 46800,
+    "lang": "es"
+  },
+  {
+    "text": "habría que aprender cómo usar ese",
+    "duration": 5600,
+    "offset": 50680,
+    "lang": "es"
+  },
+  {
+    "text": "frontend. ¿Qué es lo que podemos hacer",
+    "duration": 6680,
+    "offset": 53000,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros para evitarnos eso? Primero",
+    "duration": 8159,
+    "offset": 56280,
+    "lang": "es"
+  },
+  {
+    "text": "vamos aquí, escribimos Open App Jason y",
+    "duration": 7520,
+    "offset": 59680,
+    "lang": "es"
+  },
+  {
+    "text": "ahí en Open App Jason obtenemos la",
+    "duration": 4881,
+    "offset": 64439,
+    "lang": "es"
+  },
+  {
+    "text": "documentación de Open Appi. Esta",
+    "duration": 4239,
+    "offset": 67200,
+    "lang": "es"
+  },
+  {
+    "text": "documentación de Open Appi la vamos a",
+    "duration": 3799,
+    "offset": 69320,
+    "lang": "es"
+  },
+  {
+    "text": "copiar",
+    "duration": 8401,
+    "offset": 71439,
+    "lang": "es"
+  },
+  {
+    "text": "y una vez que la copiamos vamos a ir a",
+    "duration": 11241,
+    "offset": 73119,
+    "lang": "es"
+  },
+  {
+    "text": "el eh vamos a ir a nuestro eh grupo de",
+    "duration": 9000,
+    "offset": 79840,
+    "lang": "es"
+  },
+  {
+    "text": "agentes ADK. Y acá la vamos a pegar.",
+    "duration": 6759,
+    "offset": 84360,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que",
+    "duration": 3880,
+    "offset": 88840,
+    "lang": "es"
+  },
+  {
+    "text": "acá lo que hago es pego esa",
+    "duration": 3761,
+    "offset": 91119,
+    "lang": "es"
+  },
+  {
+    "text": "documentación de Openi. Lo único que va",
+    "duration": 4480,
+    "offset": 92720,
+    "lang": "es"
+  },
+  {
+    "text": "a ser necesario, que no hace la",
+    "duration": 5279,
+    "offset": 94880,
+    "lang": "es"
+  },
+  {
+    "text": "documentación esa es definir e la URL",
+    "duration": 5239,
+    "offset": 97200,
+    "lang": "es"
+  },
+  {
+    "text": "del servidor. Si tuviésemos",
+    "duration": 5041,
+    "offset": 100159,
+    "lang": "es"
+  },
+  {
+    "text": "autenticación y demás, hay que eso",
+    "duration": 5320,
+    "offset": 102439,
+    "lang": "es"
+  },
+  {
+    "text": "definirlo aparte porque no lo define la",
+    "duration": 4320,
+    "offset": 105200,
+    "lang": "es"
+  },
+  {
+    "text": "documentación de UPNPI, pero bueno, es",
+    "duration": 4161,
+    "offset": 107759,
+    "lang": "es"
+  },
+  {
+    "text": "mínimo lo que hay que hacer. Y acá",
+    "duration": 4959,
+    "offset": 109520,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos todo el crude hecho con la",
+    "duration": 4080,
+    "offset": 111920,
+    "lang": "es"
+  },
+  {
+    "text": "documentación, con lo que antes era el",
+    "duration": 4481,
+    "offset": 114479,
+    "lang": "es"
+  },
+  {
+    "text": "swager, ahora Open Appi, y se lo ponemos",
+    "duration": 6759,
+    "offset": 116000,
+    "lang": "es"
+  },
+  {
+    "text": "como stram dentro de eh",
+    "duration": 8799,
+    "offset": 118960,
+    "lang": "es"
+  },
+  {
+    "text": "nuestro agente. Y fíjense acá más abajo",
+    "duration": 9441,
+    "offset": 122759,
+    "lang": "es"
+  },
+  {
+    "text": "lo que vamos a hacer es crear e el MSP",
+    "duration": 7081,
+    "offset": 127759,
+    "lang": "es"
+  },
+  {
+    "text": "Toolset. Acá es donde creamos el toolset",
+    "duration": 5960,
+    "offset": 132200,
+    "lang": "es"
+  },
+  {
+    "text": "de OpenI y acá creamos otro MSP Toolset",
+    "duration": 6320,
+    "offset": 134840,
+    "lang": "es"
+  },
+  {
+    "text": "que es para manejar el file system.",
+    "duration": 5079,
+    "offset": 138160,
+    "lang": "es"
+  },
+  {
+    "text": "Acá creamos el root agent y en el root",
+    "duration": 5680,
+    "offset": 141160,
+    "lang": "es"
+  },
+  {
+    "text": "agent ponemos el user tool set, que es",
+    "duration": 5921,
+    "offset": 143239,
+    "lang": "es"
+  },
+  {
+    "text": "el tools set para manejar todo lo que",
+    "duration": 4960,
+    "offset": 146840,
+    "lang": "es"
+  },
+  {
+    "text": "tiene que ver con la API y acá el de el",
+    "duration": 4600,
+    "offset": 149160,
+    "lang": "es"
+  },
+  {
+    "text": "file system.",
+    "duration": 5880,
+    "offset": 151800,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a ver cómo funciona.",
+    "duration": 3920,
+    "offset": 153760,
+    "lang": "es"
+  },
+  {
+    "text": "Hacemos, vamos a mostrar de cero cómo",
+    "duration": 7559,
+    "offset": 158040,
+    "lang": "es"
+  },
+  {
+    "text": "funciona. Limpiamos acá,",
+    "duration": 4399,
+    "offset": 161200,
+    "lang": "es"
+  },
+  {
+    "text": "escribimos ADK web.",
+    "duration": 4960,
+    "offset": 165760,
+    "lang": "es"
+  },
+  {
+    "text": "Acá nos va a levantar la web que por",
+    "duration": 6360,
+    "offset": 169040,
+    "lang": "es"
+  },
+  {
+    "text": "default viene con los agentes ADK.",
+    "duration": 7640,
+    "offset": 170720,
+    "lang": "es"
+  },
+  {
+    "text": "Acá le damos seguir vínculo. Ahí ya se",
+    "duration": 4880,
+    "offset": 175400,
+    "lang": "es"
+  },
+  {
+    "text": "conectó. Bien, entonces le vamos a",
+    "duration": 4560,
+    "offset": 178360,
+    "lang": "es"
+  },
+  {
+    "text": "preguntar",
+    "duration": 5120,
+    "offset": 180280,
+    "lang": "es"
+  },
+  {
+    "text": "qué herramientas",
+    "duration": 5480,
+    "offset": 182920,
+    "lang": "es"
+  },
+  {
+    "text": "tenés.",
+    "duration": 3000,
+    "offset": 185400,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que acá en la lista de",
+    "duration": 4640,
+    "offset": 192840,
+    "lang": "es"
+  },
+  {
+    "text": "herramientas nos dice por un lado el MSP",
+    "duration": 6720,
+    "offset": 194840,
+    "lang": "es"
+  },
+  {
+    "text": "Server de eh el file system y acá todo",
+    "duration": 7039,
+    "offset": 197480,
+    "lang": "es"
+  },
+  {
+    "text": "lo que tiene que ver con usuarios.",
+    "duration": 5920,
+    "offset": 201560,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces le vamos a decir, \"¿Me podés?\"",
+    "duration": 5161,
+    "offset": 204519,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que la API que antes yo tenía",
+    "duration": 7119,
+    "offset": 207480,
+    "lang": "es"
+  },
+  {
+    "text": "que hacer consultas SQL o hacer un",
+    "duration": 6479,
+    "offset": 209680,
+    "lang": "es"
+  },
+  {
+    "text": "frontend, ahora la tengo toda",
+    "duration": 3560,
+    "offset": 214599,
+    "lang": "es"
+  },
+  {
+    "text": "directamente en un chatbot gracias al",
+    "duration": 6321,
+    "offset": 216159,
+    "lang": "es"
+  },
+  {
+    "text": "MCP Protocol. Fíjense que en realidad yo",
+    "duration": 7160,
+    "offset": 218159,
+    "lang": "es"
+  },
+  {
+    "text": "le podría poner muchos agentes con",
+    "duration": 5280,
+    "offset": 222480,
+    "lang": "es"
+  },
+  {
+    "text": "muchas APIs y podría tener un montón de",
+    "duration": 4361,
+    "offset": 225319,
+    "lang": "es"
+  },
+  {
+    "text": "cosas de la empresa conectada y manejada",
+    "duration": 5280,
+    "offset": 227760,
+    "lang": "es"
+  },
+  {
+    "text": "directamente a través de un MSP Server.",
+    "duration": 5240,
+    "offset": 229680,
+    "lang": "es"
+  },
+  {
+    "text": "Inclusive",
+    "duration": 3960,
+    "offset": 233040,
+    "lang": "es"
+  },
+  {
+    "text": "podría hacer directamente que los",
+    "duration": 4480,
+    "offset": 234920,
+    "lang": "es"
+  },
+  {
+    "text": "clientes interactúen con aquellas cosas",
+    "duration": 4200,
+    "offset": 237000,
+    "lang": "es"
+  },
+  {
+    "text": "de la empresa a donde antes tenía que",
+    "duration": 3679,
+    "offset": 239400,
+    "lang": "es"
+  },
+  {
+    "text": "poner operarios y gente que revisara",
+    "duration": 4480,
+    "offset": 241200,
+    "lang": "es"
+  },
+  {
+    "text": "cosas. Entonces acá le vamos a a ponerme",
+    "duration": 4121,
+    "offset": 243079,
+    "lang": "es"
+  },
+  {
+    "text": "podés",
+    "duration": 6479,
+    "offset": 245680,
+    "lang": "es"
+  },
+  {
+    "text": "listar los usuarios.",
+    "duration": 4959,
+    "offset": 247200,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, entonces ahí me va a dar tiene dos",
+    "duration": 6480,
+    "offset": 252200,
+    "lang": "es"
+  },
+  {
+    "text": "usuarios, Pepe y Carlos. ¿Qué le voy a",
+    "duration": 5279,
+    "offset": 255680,
+    "lang": "es"
+  },
+  {
+    "text": "decir, por favor? Fíjense, acuérdense",
+    "duration": 4320,
+    "offset": 258680,
+    "lang": "es"
+  },
+  {
+    "text": "que esto era todo SQL, buscar un",
+    "duration": 3641,
+    "offset": 260959,
+    "lang": "es"
+  },
+  {
+    "text": "sistema.",
+    "duration": 10000,
+    "offset": 263000,
+    "lang": "es"
+  },
+  {
+    "text": "Me cambias el nombre de Pepe a Diego.",
+    "duration": 8400,
+    "offset": 264600,
+    "lang": "es"
+  },
+  {
+    "text": "El mail es el mismo.",
+    "duration": 6200,
+    "offset": 273080,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces ahí le digo que me cambie el",
+    "duration": 5599,
+    "offset": 277600,
+    "lang": "es"
+  },
+  {
+    "text": "nombre de Pepe a Diego. Va a ser todo lo",
+    "duration": 6280,
+    "offset": 279280,
+    "lang": "es"
+  },
+  {
+    "text": "necesario. Y ahí me dice, a ver, le voy",
+    "duration": 6241,
+    "offset": 283199,
+    "lang": "es"
+  },
+  {
+    "text": "a decir ahora me listas",
+    "duration": 3880,
+    "offset": 285560,
+    "lang": "es"
+  },
+  {
+    "text": "los usuarios.",
+    "duration": 3440,
+    "offset": 289479,
+    "lang": "es"
+  },
+  {
+    "text": "Y ahí fíjense que ya no está más Pepe y",
+    "duration": 5000,
+    "offset": 296800,
+    "lang": "es"
+  },
+  {
+    "text": "está Diego. Y ahora le voy a decir, \"¿Me",
+    "duration": 4560,
+    "offset": 299000,
+    "lang": "es"
+  },
+  {
+    "text": "borras?\"",
+    "duration": 7399,
+    "offset": 301800,
+    "lang": "es"
+  },
+  {
+    "text": "Diego me va a tener que pedir el ID.",
+    "duration": 5639,
+    "offset": 303560,
+    "lang": "es"
+  },
+  {
+    "text": "Necesito el ID. Es uno.",
+    "duration": 5801,
+    "offset": 309639,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí el ID. ¿Vieron que decía que solo",
+    "duration": 3799,
+    "offset": 313840,
+    "lang": "es"
+  },
+  {
+    "text": "por ID puede borrar?",
+    "duration": 5280,
+    "offset": 315440,
+    "lang": "es"
+  },
+  {
+    "text": "Listo. Entonces ahora me das",
+    "duration": 6321,
+    "offset": 317639,
+    "lang": "es"
+  },
+  {
+    "text": "el listado.",
+    "duration": 3240,
+    "offset": 320720,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que ahora está solo Carlos.",
+    "duration": 7280,
+    "offset": 328400,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. Entonces, como ustedes verán,",
+    "duration": 5000,
+    "offset": 330680,
+    "lang": "es"
+  },
+  {
+    "text": "todo el CRUD o todas las cosas que yo",
+    "duration": 4640,
+    "offset": 336080,
+    "lang": "es"
+  },
+  {
+    "text": "normalmente tenía con APIs, las puedo",
+    "duration": 4399,
+    "offset": 338360,
+    "lang": "es"
+  },
+  {
+    "text": "automatizar con agentes. Puede ser a",
+    "duration": 3680,
+    "offset": 340720,
+    "lang": "es"
+  },
+  {
+    "text": "través de un chatbot o directamente",
+    "duration": 5841,
+    "offset": 342759,
+    "lang": "es"
+  },
+  {
+    "text": "agentes que hablan entre ellos y",
+    "duration": 6239,
+    "offset": 344400,
+    "lang": "es"
+  },
+  {
+    "text": "automatiza un montón de cosas dentro de",
+    "duration": 4439,
+    "offset": 348600,
+    "lang": "es"
+  },
+  {
+    "text": "la empresa.",
+    "duration": 2400,
+    "offset": 350639,
+    "lang": "es"
+  }
+]

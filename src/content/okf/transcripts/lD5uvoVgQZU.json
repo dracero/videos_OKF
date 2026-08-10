@@ -1,0 +1,260 @@
+[
+  {
+    "text": "vamos a ver ahora agentes Recuerden que",
+    "duration": 4760,
+    "offset": 880,
+    "lang": "es"
+  },
+  {
+    "text": "el agente es un ente autónomo que",
+    "duration": 5320,
+    "offset": 3760,
+    "lang": "es"
+  },
+  {
+    "text": "utiliza como herramienta para poder",
+    "duration": 8039,
+    "offset": 5640,
+    "lang": "es"
+  },
+  {
+    "text": "pensar al llm el agente junto con el llm",
+    "duration": 7160,
+    "offset": 9080,
+    "lang": "es"
+  },
+  {
+    "text": "deciden Cuál es la mejor opción de la",
+    "duration": 5520,
+    "offset": 13679,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta a utilizar y toman esa",
+    "duration": 5240,
+    "offset": 16240,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta para responder la pregunta",
+    "duration": 4361,
+    "offset": 19199,
+    "lang": "es"
+  },
+  {
+    "text": "que entra a través del prom de usuario",
+    "duration": 5000,
+    "offset": 21480,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo Este es un agente que tiene",
+    "duration": 4760,
+    "offset": 23560,
+    "lang": "es"
+  },
+  {
+    "text": "tres herramientas tres Tools una",
+    "duration": 3879,
+    "offset": 26480,
+    "lang": "es"
+  },
+  {
+    "text": "herramienta que es para cálculo matem",
+    "duration": 4160,
+    "offset": 28320,
+    "lang": "es"
+  },
+  {
+    "text": "sencillos una para cálculos matemáticos",
+    "duration": 3641,
+    "offset": 30359,
+    "lang": "es"
+  },
+  {
+    "text": "más complejos que no pueden ser",
+    "duration": 3599,
+    "offset": 32480,
+    "lang": "es"
+  },
+  {
+    "text": "resueltos simplemente con una",
+    "duration": 6200,
+    "offset": 34000,
+    "lang": "es"
+  },
+  {
+    "text": "calculadora y una herramienta para",
+    "duration": 7561,
+    "offset": 36079,
+    "lang": "es"
+  },
+  {
+    "text": "realizar búsquedas cuando lo que el prom",
+    "duration": 5600,
+    "offset": 40200,
+    "lang": "es"
+  },
+  {
+    "text": "de usuario no es una consulta matemática",
+    "duration": 5000,
+    "offset": 43640,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces vamos a",
+    "duration": 2840,
+    "offset": 45800,
+    "lang": "es"
+  },
+  {
+    "text": "preguntarle cuánto vale 2 +",
+    "duration": 8480,
+    "offset": 49160,
+    "lang": "es"
+  },
+  {
+    "text": "2 un cálculo matemático sencillo elige",
+    "duration": 6160,
+    "offset": 54160,
+    "lang": "es"
+  },
+  {
+    "text": "la calculadora después le vamos a prar",
+    "duration": 4200,
+    "offset": 57640,
+    "lang": "es"
+  },
+  {
+    "text": "por el producto escalar de estos dos",
+    "duration": 5960,
+    "offset": 60320,
+    "lang": "es"
+  },
+  {
+    "text": "vectores ya no lo puede hacer con la",
+    "duration": 8440,
+    "offset": 61840,
+    "lang": "es"
+  },
+  {
+    "text": "e calculadora Ahora tiene que ir a un",
+    "duration": 5519,
+    "offset": 66280,
+    "lang": "es"
+  },
+  {
+    "text": "elemento de",
+    "duration": 3440,
+    "offset": 70280,
+    "lang": "es"
+  },
+  {
+    "text": "eh más",
+    "duration": 4801,
+    "offset": 71799,
+    "lang": "es"
+  },
+  {
+    "text": "complejo es correcto fue un elemento más",
+    "duration": 5480,
+    "offset": 73720,
+    "lang": "es"
+  },
+  {
+    "text": "complejo y me dio el resultado correcto",
+    "duration": 5320,
+    "offset": 76600,
+    "lang": "es"
+  },
+  {
+    "text": "Y si ahora yo le pregunto qué",
+    "duration": 8520,
+    "offset": 79200,
+    "lang": "es"
+  },
+  {
+    "text": "es la enfermedad de",
+    "duration": 9199,
+    "offset": 81920,
+    "lang": "es"
+  },
+  {
+    "text": "chrom ya no puede ir a",
+    "duration": 7920,
+    "offset": 87720,
+    "lang": "es"
+  },
+  {
+    "text": "a cosas que resuelven matemática y ahí",
+    "duration": 8040,
+    "offset": 91119,
+    "lang": "es"
+  },
+  {
+    "text": "fue bien y ahí contesta y fue a buscar",
+    "duration": 5519,
+    "offset": 95640,
+    "lang": "es"
+  },
+  {
+    "text": "al elemento que tiene de búsqueda este",
+    "duration": 4121,
+    "offset": 99159,
+    "lang": "es"
+  },
+  {
+    "text": "elemento de búsqueda que Bueno yo lo",
+    "duration": 5881,
+    "offset": 101159,
+    "lang": "es"
+  },
+  {
+    "text": "hice rápidamente puede ser el rag que",
+    "duration": 7199,
+    "offset": 103280,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes hicieron o sea pueden tener un",
+    "duration": 6079,
+    "offset": 107040,
+    "lang": "es"
+  },
+  {
+    "text": "sistema que en cambio de poner un menú",
+    "duration": 4320,
+    "offset": 110479,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 4241,
+    "offset": 113119,
+    "lang": "es"
+  },
+  {
+    "text": "opciones en forma automática a partir",
+    "duration": 5280,
+    "offset": 114799,
+    "lang": "es"
+  },
+  {
+    "text": "del prom de usuario elija cuál es el",
+    "duration": 4920,
+    "offset": 117360,
+    "lang": "es"
+  },
+  {
+    "text": "mejor elemento para poder darle la",
+    "duration": 5201,
+    "offset": 120079,
+    "lang": "es"
+  },
+  {
+    "text": "respuesta",
+    "duration": 3000,
+    "offset": 122280,
+    "lang": "es"
+  }
+]

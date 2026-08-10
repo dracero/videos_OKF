@@ -1,0 +1,356 @@
+[
+  {
+    "text": "bien entonces",
+    "duration": 5520,
+    "offset": 3170,
+    "lang": "es"
+  },
+  {
+    "text": "ahora lo que hay que hacer es aguardar",
+    "duration": 6479,
+    "offset": 4870,
+    "lang": "es"
+  },
+  {
+    "text": "aquí",
+    "duration": 2659,
+    "offset": 8690,
+    "lang": "es"
+  },
+  {
+    "text": "a que finalice el entrenamiento acá se",
+    "duration": 5419,
+    "offset": 12870,
+    "lang": "es"
+  },
+  {
+    "text": "va a poner un",
+    "duration": 2809,
+    "offset": 15480,
+    "lang": "es"
+  },
+  {
+    "text": "se va a poner un punto verde cuando ya",
+    "duration": 5279,
+    "offset": 20000,
+    "lang": "es"
+  },
+  {
+    "text": "está concluido el entrenamiento y en ese",
+    "duration": 6600,
+    "offset": 22580,
+    "lang": "es"
+  },
+  {
+    "text": "caso el sistema van pues va a empezar a",
+    "duration": 9030,
+    "offset": 25279,
+    "lang": "es"
+  },
+  {
+    "text": "responder a las frases bien ahora qué es",
+    "duration": 6660,
+    "offset": 29180,
+    "lang": "es"
+  },
+  {
+    "text": "lo siguiente que yo tengo que hacer",
+    "duration": 4881,
+    "offset": 34309,
+    "lang": "es"
+  },
+  {
+    "text": "porque acá lo que cargué fue simplemente",
+    "duration": 6870,
+    "offset": 35840,
+    "lang": "es"
+  },
+  {
+    "text": "el intento lentitud el rol y el trade o",
+    "duration": 6250,
+    "offset": 39190,
+    "lang": "es"
+  },
+  {
+    "text": "sea acá le puse rodadura percusión and",
+    "duration": 5730,
+    "offset": 42710,
+    "lang": "es"
+  },
+  {
+    "text": "cost y rod sir que son las entidades a",
+    "duration": 5910,
+    "offset": 45440,
+    "lang": "es"
+  },
+  {
+    "text": "las que va a descubrir",
+    "duration": 4680,
+    "offset": 48440,
+    "lang": "es"
+  },
+  {
+    "text": "el sistema de inteligencia artificial",
+    "duration": 4139,
+    "offset": 51350,
+    "lang": "es"
+  },
+  {
+    "text": "ahora yo esas entidades las tengo que",
+    "duration": 5520,
+    "offset": 53120,
+    "lang": "es"
+  },
+  {
+    "text": "transformar en respuesta y para eso",
+    "duration": 6191,
+    "offset": 55489,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos este sistema",
+    "duration": 6160,
+    "offset": 58640,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá yo voy a agregar en el eu y",
+    "duration": 8720,
+    "offset": 61680,
+    "lang": "es"
+  },
+  {
+    "text": "acá le pongo por ejemplo el nombre de la",
+    "duration": 9790,
+    "offset": 64800,
+    "lang": "es"
+  },
+  {
+    "text": "del intent que es rodadura",
+    "duration": 4190,
+    "offset": 70400,
+    "lang": "es"
+  },
+  {
+    "text": "y acá en la parte del texto le voy a",
+    "duration": 5611,
+    "offset": 74659,
+    "lang": "es"
+  },
+  {
+    "text": "poner el texto que le puse a ese intento",
+    "duration": 5750,
+    "offset": 77569,
+    "lang": "es"
+  },
+  {
+    "text": "que es rodadura",
+    "duration": 3049,
+    "offset": 80270,
+    "lang": "es"
+  },
+  {
+    "text": "acá",
+    "duration": 2570,
+    "offset": 87360,
+    "lang": "es"
+  },
+  {
+    "text": "acá cargue el texto parece intenté es",
+    "duration": 7070,
+    "offset": 90460,
+    "lang": "es"
+  },
+  {
+    "text": "rodadura y le doy agregar",
+    "duration": 3650,
+    "offset": 93880,
+    "lang": "es"
+  },
+  {
+    "text": "la primera vez va a tardar un poco",
+    "duration": 4080,
+    "offset": 98950,
+    "lang": "es"
+  },
+  {
+    "text": "porque tiene que despertar todo ahí me",
+    "duration": 5221,
+    "offset": 100869,
+    "lang": "es"
+  },
+  {
+    "text": "dice que es constante bien perdón se",
+    "duration": 6290,
+    "offset": 103030,
+    "lang": "es"
+  },
+  {
+    "text": "abre o exitosamente ahora tengo",
+    "duration": 7030,
+    "offset": 106090,
+    "lang": "es"
+  },
+  {
+    "text": "la otra entidad que es",
+    "duration": 6710,
+    "offset": 109320,
+    "lang": "es"
+  },
+  {
+    "text": "percusión acuérdense siempre sin acento",
+    "duration": 6200,
+    "offset": 113120,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá pongo",
+    "duration": 3290,
+    "offset": 116030,
+    "lang": "es"
+  },
+  {
+    "text": "percusión y acá le pongo el texto",
+    "duration": 6140,
+    "offset": 119360,
+    "lang": "es"
+  },
+  {
+    "text": "asociado a percusión",
+    "duration": 5240,
+    "offset": 122600,
+    "lang": "es"
+  },
+  {
+    "text": "después tengo la siguiente entidad que",
+    "duration": 5509,
+    "offset": 125500,
+    "lang": "es"
+  },
+  {
+    "text": "es en const",
+    "duration": 3169,
+    "offset": 127840,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá",
+    "duration": 5739,
+    "offset": 131590,
+    "lang": "es"
+  },
+  {
+    "text": "copio esto",
+    "duration": 3260,
+    "offset": 134069,
+    "lang": "es"
+  },
+  {
+    "text": "const",
+    "duration": 2899,
+    "offset": 142260,
+    "lang": "es"
+  },
+  {
+    "text": "y lo pego",
+    "duration": 5560,
+    "offset": 145350,
+    "lang": "es"
+  },
+  {
+    "text": "y agregué antes con y acá tengo",
+    "duration": 7520,
+    "offset": 147610,
+    "lang": "es"
+  },
+  {
+    "text": "rothschild que es este texto",
+    "duration": 4220,
+    "offset": 150910,
+    "lang": "es"
+  },
+  {
+    "text": "entonces voy a gestión de lv",
+    "duration": 7260,
+    "offset": 159000,
+    "lang": "es"
+  },
+  {
+    "text": "esto es rock sir y acá le pegó este",
+    "duration": 5580,
+    "offset": 162120,
+    "lang": "es"
+  },
+  {
+    "text": "texto",
+    "duration": 3660,
+    "offset": 166260,
+    "lang": "es"
+  },
+  {
+    "text": "agregar",
+    "duration": 8600,
+    "offset": 167700,
+    "lang": "es"
+  },
+  {
+    "text": "bien volver ver en él es entonces ahora",
+    "duration": 6380,
+    "offset": 169920,
+    "lang": "es"
+  },
+  {
+    "text": "ya tengo",
+    "duration": 2930,
+    "offset": 176860,
+    "lang": "es"
+  },
+  {
+    "text": "tengo agregados esos en el ego me van a",
+    "duration": 5040,
+    "offset": 180319,
+    "lang": "es"
+  },
+  {
+    "text": "aparecer al final de todo tengo estas",
+    "duration": 3950,
+    "offset": 182569,
+    "lang": "es"
+  },
+  {
+    "text": "estructuras",
+    "duration": 3600,
+    "offset": 185359,
+    "lang": "es"
+  },
+  {
+    "text": "que es lo que sucede ahora cuando el",
+    "duration": 4511,
+    "offset": 186519,
+    "lang": "es"
+  },
+  {
+    "text": "alumno pregunte el sistema de",
+    "duration": 3840,
+    "offset": 188959,
+    "lang": "es"
+  },
+  {
+    "text": "inteligencia artificial va a entender la",
+    "duration": 3659,
+    "offset": 191030,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta la va a traducir a esta",
+    "duration": 6351,
+    "offset": 192799,
+    "lang": "es"
+  },
+  {
+    "text": "estructura y va a dar esta respuesta",
+    "duration": 4461,
+    "offset": 194689,
+    "lang": "es"
+  }
+]

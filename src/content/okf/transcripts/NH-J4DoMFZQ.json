@@ -1,0 +1,350 @@
+[
+  {
+    "text": "tenemos acá un simple ejemplo de cómo",
+    "duration": 7561,
+    "offset": 1199,
+    "lang": "es"
+  },
+  {
+    "text": "funciona un agente hecho con lanflow acá",
+    "duration": 9160,
+    "offset": 3720,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos un chat input un prompting ese",
+    "duration": 8160,
+    "offset": 8760,
+    "lang": "es"
+  },
+  {
+    "text": "prompting se lo vamos a aplicar a un",
+    "duration": 8040,
+    "offset": 12880,
+    "lang": "es"
+  },
+  {
+    "text": "modelo grock de llm ese modelo grock de",
+    "duration": 8760,
+    "offset": 16920,
+    "lang": "es"
+  },
+  {
+    "text": "llm va a ir a agente a ese agente le",
+    "duration": 10400,
+    "offset": 20920,
+    "lang": "es"
+  },
+  {
+    "text": "hemos asignado un rol que es ser un",
+    "duration": 8480,
+    "offset": 25680,
+    "lang": "es"
+  },
+  {
+    "text": "impresionante agente capaz de",
+    "duration": 5280,
+    "offset": 31320,
+    "lang": "es"
+  },
+  {
+    "text": "resolver ecuaciones matemáticas o",
+    "duration": 4719,
+    "offset": 34160,
+    "lang": "es"
+  },
+  {
+    "text": "funciones matemáticas",
+    "duration": 7160,
+    "offset": 36600,
+    "lang": "es"
+  },
+  {
+    "text": "eh le hemos dado dos Tools para ese rol",
+    "duration": 8360,
+    "offset": 38879,
+    "lang": "es"
+  },
+  {
+    "text": "que es una calculadora y python reple",
+    "duration": 7520,
+    "offset": 43760,
+    "lang": "es"
+  },
+  {
+    "text": "que es para ejecutar código de python",
+    "duration": 8081,
+    "offset": 47239,
+    "lang": "es"
+  },
+  {
+    "text": "con funciones matemáticas el global",
+    "duration": 6560,
+    "offset": 51280,
+    "lang": "es"
+  },
+  {
+    "text": "import le pusimos mat Así que va a ser",
+    "duration": 4719,
+    "offset": 55320,
+    "lang": "es"
+  },
+  {
+    "text": "código de python para ejecutar funciones",
+    "duration": 4280,
+    "offset": 57840,
+    "lang": "es"
+  },
+  {
+    "text": "matemáticas eso van a ser los Tools Este",
+    "duration": 4760,
+    "offset": 60039,
+    "lang": "es"
+  },
+  {
+    "text": "es el rol el task es resolver eso lo",
+    "duration": 5480,
+    "offset": 62120,
+    "lang": "es"
+  },
+  {
+    "text": "toma de el mismo prompting que le dimos",
+    "duration": 7081,
+    "offset": 64799,
+    "lang": "es"
+  },
+  {
+    "text": "acá al al agente y nos va a dar una",
+    "duration": 8000,
+    "offset": 67600,
+    "lang": "es"
+  },
+  {
+    "text": "salida fíjense que esto lo hicimos en",
+    "duration": 8080,
+    "offset": 71880,
+    "lang": "es"
+  },
+  {
+    "text": "grock enteramente sin necesidad de",
+    "duration": 6280,
+    "offset": 75600,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollar nada de código solo",
+    "duration": 3440,
+    "offset": 79960,
+    "lang": "es"
+  },
+  {
+    "text": "conociendo el concepto de que es el",
+    "duration": 5080,
+    "offset": 81880,
+    "lang": "es"
+  },
+  {
+    "text": "agente que son los task es un tool el",
+    "duration": 6560,
+    "offset": 83400,
+    "lang": "es"
+  },
+  {
+    "text": "input prompt y el output y ahora solo",
+    "duration": 6720,
+    "offset": 86960,
+    "lang": "es"
+  },
+  {
+    "text": "con eso lo que vamos a hacer es",
+    "duration": 5880,
+    "offset": 89960,
+    "lang": "es"
+  },
+  {
+    "text": "utilizarlo vamos a ejecutar el",
+    "duration": 4880,
+    "offset": 93680,
+    "lang": "es"
+  },
+  {
+    "text": "playground y acá le vamos a poner",
+    "duration": 6720,
+    "offset": 95840,
+    "lang": "es"
+  },
+  {
+    "text": "primero como está sobre un agente de llm",
+    "duration": 6280,
+    "offset": 98560,
+    "lang": "es"
+  },
+  {
+    "text": "podemos saludarlo y hablarle no va a",
+    "duration": 4960,
+    "offset": 102560,
+    "lang": "es"
+  },
+  {
+    "text": "contestar mal ahí dice",
+    "duration": 5720,
+    "offset": 104840,
+    "lang": "es"
+  },
+  {
+    "text": "que va a contestar cosas de ciencia y",
+    "duration": 8480,
+    "offset": 107520,
+    "lang": "es"
+  },
+  {
+    "text": "demás y le vamos a pedir que",
+    "duration": 5440,
+    "offset": 110560,
+    "lang": "es"
+  },
+  {
+    "text": "calcule y le vamos a pedir que calcule",
+    "duration": 8280,
+    "offset": 116320,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo 2 * 5",
+    "duration": 5801,
+    "offset": 118799,
+    "lang": "es"
+  },
+  {
+    "text": "men 18 di",
+    "duration": 4680,
+    "offset": 125079,
+    "lang": "es"
+  },
+  {
+    "text": "7 ahí le damos para que haga el cálculo",
+    "duration": 6039,
+    "offset": 129840,
+    "lang": "es"
+  },
+  {
+    "text": "el agente va a ver que estea un cálculo",
+    "duration": 6280,
+    "offset": 133000,
+    "lang": "es"
+  },
+  {
+    "text": "Busca los Tools y ahí nos da el",
+    "duration": 7161,
+    "offset": 135879,
+    "lang": "es"
+  },
+  {
+    "text": "resultado que lo hace a partir",
+    "duration": 7120,
+    "offset": 139280,
+    "lang": "es"
+  },
+  {
+    "text": "de los Tools que nosotros les",
+    "duration": 7199,
+    "offset": 143040,
+    "lang": "es"
+  },
+  {
+    "text": "asignamos así Este es un agente que",
+    "duration": 6800,
+    "offset": 146400,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense lo conectamos lo configuramos",
+    "duration": 7121,
+    "offset": 150239,
+    "lang": "es"
+  },
+  {
+    "text": "directamente desde eh lanflow sin nada",
+    "duration": 5119,
+    "offset": 153200,
+    "lang": "es"
+  },
+  {
+    "text": "de",
+    "duration": 3720,
+    "offset": 157360,
+    "lang": "es"
+  },
+  {
+    "text": "código para qué sirven los agentes bien",
+    "duration": 6200,
+    "offset": 158319,
+    "lang": "es"
+  },
+  {
+    "text": "los agentes son entes autónomos que a",
+    "duration": 8239,
+    "offset": 161080,
+    "lang": "es"
+  },
+  {
+    "text": "través de un un cierto juego de rols y",
+    "duration": 6561,
+    "offset": 164519,
+    "lang": "es"
+  },
+  {
+    "text": "con el uso de un",
+    "duration": 4801,
+    "offset": 169319,
+    "lang": "es"
+  },
+  {
+    "text": "llm con herramientas y a través de",
+    "duration": 5079,
+    "offset": 171080,
+    "lang": "es"
+  },
+  {
+    "text": "ciertas tareas nos pueden resolver",
+    "duration": 4600,
+    "offset": 174120,
+    "lang": "es"
+  },
+  {
+    "text": "problemas Esto es lo que se viene en",
+    "duration": 4881,
+    "offset": 176159,
+    "lang": "es"
+  },
+  {
+    "text": "2024",
+    "duration": 5360,
+    "offset": 178720,
+    "lang": "es"
+  },
+  {
+    "text": "no solo utilizar en el llm sino utilizar",
+    "duration": 5080,
+    "offset": 181040,
+    "lang": "es"
+  },
+  {
+    "text": "agentes que juegan roles y con esos",
+    "duration": 4400,
+    "offset": 184080,
+    "lang": "es"
+  },
+  {
+    "text": "roles nos solucionan distintas tareas en",
+    "duration": 5679,
+    "offset": 186120,
+    "lang": "es"
+  },
+  {
+    "text": "forma Autónoma",
+    "duration": 3319,
+    "offset": 188480,
+    "lang": "es"
+  }
+]

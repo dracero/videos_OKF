@@ -1,0 +1,488 @@
+[
+  {
+    "text": "el ejemplo que vimos es decir lo que",
+    "duration": 7710,
+    "offset": 1910,
+    "lang": "es"
+  },
+  {
+    "text": "mostraba era una arquitectura como ésta",
+    "duration": 8790,
+    "offset": 4759,
+    "lang": "es"
+  },
+  {
+    "text": "es decir una neurona con una entrada y",
+    "duration": 6659,
+    "offset": 9620,
+    "lang": "es"
+  },
+  {
+    "text": "una salida era un ejemplo muy sencillo y",
+    "duration": 4441,
+    "offset": 13549,
+    "lang": "es"
+  },
+  {
+    "text": "daba bien por qué porque en definitiva",
+    "duration": 5820,
+    "offset": 16279,
+    "lang": "es"
+  },
+  {
+    "text": "el problema es un problema lineal y es",
+    "duration": 6330,
+    "offset": 17990,
+    "lang": "es"
+  },
+  {
+    "text": "un problema fácil de modelizar vamos a",
+    "duration": 6131,
+    "offset": 22099,
+    "lang": "es"
+  },
+  {
+    "text": "ver qué pasa si nosotros aumentamos",
+    "duration": 7950,
+    "offset": 24320,
+    "lang": "es"
+  },
+  {
+    "text": "a 4 el número de neuronas",
+    "duration": 4040,
+    "offset": 28230,
+    "lang": "es"
+  },
+  {
+    "text": "5 el número de neuronas y si además",
+    "duration": 6720,
+    "offset": 32410,
+    "lang": "es"
+  },
+  {
+    "text": "ponemos una capa oculta más de 5",
+    "duration": 5720,
+    "offset": 35440,
+    "lang": "es"
+  },
+  {
+    "text": "neuronas",
+    "duration": 5090,
+    "offset": 39130,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a hacer una arquitectura como esta",
+    "duration": 7440,
+    "offset": 41160,
+    "lang": "es"
+  },
+  {
+    "text": "una entrada una salida pero dos capas",
+    "duration": 7080,
+    "offset": 44220,
+    "lang": "es"
+  },
+  {
+    "text": "ocultas de 5 neuronas cada una para ver",
+    "duration": 5250,
+    "offset": 48600,
+    "lang": "es"
+  },
+  {
+    "text": "qué pasa fíjense que esto alcanza la",
+    "duration": 5969,
+    "offset": 51300,
+    "lang": "es"
+  },
+  {
+    "text": "convergencia mucho más rápido y esto nos",
+    "duration": 8450,
+    "offset": 53850,
+    "lang": "es"
+  },
+  {
+    "text": "da valores vamos a ver qué pasa",
+    "duration": 5031,
+    "offset": 57269,
+    "lang": "es"
+  },
+  {
+    "text": "an",
+    "duration": 2660,
+    "offset": 64810,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3710,
+    "offset": 65830,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo",
+    "duration": 4740,
+    "offset": 67470,
+    "lang": "es"
+  },
+  {
+    "text": "y redes neuronales",
+    "duration": 7660,
+    "offset": 69540,
+    "lang": "es"
+  },
+  {
+    "text": "y lo que vamos a hacer acá es poner",
+    "duration": 11549,
+    "offset": 72210,
+    "lang": "es"
+  },
+  {
+    "text": "una red neuronal la entrada que son",
+    "duration": 6559,
+    "offset": 77200,
+    "lang": "es"
+  },
+  {
+    "text": "la red neuronal acá lo que le estamos",
+    "duration": 5700,
+    "offset": 86040,
+    "lang": "es"
+  },
+  {
+    "text": "diciendo es que es una única neurona de",
+    "duration": 6260,
+    "offset": 88410,
+    "lang": "es"
+  },
+  {
+    "text": "entrada se va a conectar a 5 neuronas",
+    "duration": 6450,
+    "offset": 91740,
+    "lang": "es"
+  },
+  {
+    "text": "después dos capas ocultas de 5 neuronas",
+    "duration": 6010,
+    "offset": 94670,
+    "lang": "es"
+  },
+  {
+    "text": "y finalmente esa capa oculta de 5",
+    "duration": 4920,
+    "offset": 98190,
+    "lang": "es"
+  },
+  {
+    "text": "neuronas tiene una capa de salida de una",
+    "duration": 3729,
+    "offset": 100680,
+    "lang": "es"
+  },
+  {
+    "text": "neurona",
+    "duration": 4869,
+    "offset": 103110,
+    "lang": "es"
+  },
+  {
+    "text": "y lo ejemplifica mos acá o sea lo que",
+    "duration": 6691,
+    "offset": 104409,
+    "lang": "es"
+  },
+  {
+    "text": "estamos haciendo ahí no es otra cosa que",
+    "duration": 7001,
+    "offset": 107979,
+    "lang": "es"
+  },
+  {
+    "text": "la arquitectura que vimos recién",
+    "duration": 5400,
+    "offset": 111100,
+    "lang": "es"
+  },
+  {
+    "text": "qué es",
+    "duration": 4700,
+    "offset": 114980,
+    "lang": "es"
+  },
+  {
+    "text": "esta arquitectura esa arquitectura es lo",
+    "duration": 5430,
+    "offset": 116500,
+    "lang": "es"
+  },
+  {
+    "text": "que nosotros estamos traduciendo ahí en",
+    "duration": 5400,
+    "offset": 119680,
+    "lang": "es"
+  },
+  {
+    "text": "código vamos a ver si ahora obtenemos un",
+    "duration": 5430,
+    "offset": 121930,
+    "lang": "es"
+  },
+  {
+    "text": "mejor resultado que el que habíamos",
+    "duration": 4760,
+    "offset": 125080,
+    "lang": "es"
+  },
+  {
+    "text": "obtenido antes",
+    "duration": 5349,
+    "offset": 127360,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 2869,
+    "offset": 129840,
+    "lang": "es"
+  },
+  {
+    "text": "hacer borrar nuestro algoritmo y fíjense",
+    "duration": 5520,
+    "offset": 136050,
+    "lang": "es"
+  },
+  {
+    "text": "que acá teníamos como habíamos hecho",
+    "duration": 3670,
+    "offset": 139950,
+    "lang": "es"
+  },
+  {
+    "text": "antes y él",
+    "duration": 6610,
+    "offset": 141570,
+    "lang": "es"
+  },
+  {
+    "text": "y el valor de 100 da 211 con 74 y el",
+    "duration": 10640,
+    "offset": 143620,
+    "lang": "es"
+  },
+  {
+    "text": "valor real es 212 y fíjense",
+    "duration": 6080,
+    "offset": 148180,
+    "lang": "es"
+  },
+  {
+    "text": "y lo hacemos con 52 que si te habíamos",
+    "duration": 6960,
+    "offset": 155240,
+    "lang": "es"
+  },
+  {
+    "text": "probado nosotros hay con 52 el valor",
+    "duration": 10860,
+    "offset": 157940,
+    "lang": "es"
+  },
+  {
+    "text": "real era 125 6 y da 125,45 cuando en",
+    "duration": 9690,
+    "offset": 162200,
+    "lang": "es"
+  },
+  {
+    "text": "realidad con el otro ejemplo nos había",
+    "duration": 6260,
+    "offset": 168800,
+    "lang": "es"
+  },
+  {
+    "text": "dado como 41 éste se acerca más",
+    "duration": 5300,
+    "offset": 171890,
+    "lang": "es"
+  },
+  {
+    "text": "ahora qué es lo que sucede fíjense qué",
+    "duration": 5480,
+    "offset": 175060,
+    "lang": "es"
+  },
+  {
+    "text": "pasa si yo pongo",
+    "duration": 3350,
+    "offset": 177190,
+    "lang": "es"
+  },
+  {
+    "text": "poner una capa más seleccionamos l4 y",
+    "duration": 8340,
+    "offset": 180560,
+    "lang": "es"
+  },
+  {
+    "text": "ponemos una capa más esto es aumentar",
+    "duration": 8010,
+    "offset": 184400,
+    "lang": "es"
+  },
+  {
+    "text": "una capa más en la red neuronal ponemos",
+    "duration": 5750,
+    "offset": 188900,
+    "lang": "es"
+  },
+  {
+    "text": "una capa más",
+    "duration": 6999,
+    "offset": 192410,
+    "lang": "es"
+  },
+  {
+    "text": "y entonces ahora esto sí l3 y l4 y",
+    "duration": 8309,
+    "offset": 194650,
+    "lang": "es"
+  },
+  {
+    "text": "ejecutamos con una capa más de neuronas",
+    "duration": 6940,
+    "offset": 199409,
+    "lang": "es"
+  },
+  {
+    "text": "obviamente tarda mucho más y cambien los",
+    "duration": 5811,
+    "offset": 202959,
+    "lang": "es"
+  },
+  {
+    "text": "tipos de 500 a 700",
+    "duration": 7671,
+    "offset": 206349,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense ahora qué pasa estaba 125 44",
+    "duration": 8240,
+    "offset": 208770,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a copiarlo",
+    "duration": 2990,
+    "offset": 214020,
+    "lang": "es"
+  },
+  {
+    "text": "qué pasa ahora si corremos este modelo",
+    "duration": 6270,
+    "offset": 220520,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que en realidad lo único que",
+    "duration": 5090,
+    "offset": 224030,
+    "lang": "es"
+  },
+  {
+    "text": "logramos",
+    "duration": 2330,
+    "offset": 226790,
+    "lang": "es"
+  },
+  {
+    "text": "es un poquito más esto se hace acerca",
+    "duration": 6030,
+    "offset": 229300,
+    "lang": "es"
+  },
+  {
+    "text": "más al valor real pero fíjense que hay",
+    "duration": 5970,
+    "offset": 231820,
+    "lang": "es"
+  },
+  {
+    "text": "un esfuerzo computacional muchísimo más",
+    "duration": 4790,
+    "offset": 235330,
+    "lang": "es"
+  },
+  {
+    "text": "grande y ese esfuerzo computacional",
+    "duration": 6240,
+    "offset": 237790,
+    "lang": "es"
+  },
+  {
+    "text": "muchísimo más grande en realidad ya no",
+    "duration": 7090,
+    "offset": 240120,
+    "lang": "es"
+  },
+  {
+    "text": "reviste mucha mejora en el resultado con",
+    "duration": 6500,
+    "offset": 244030,
+    "lang": "es"
+  },
+  {
+    "text": "lo cual en definitiva para este problema",
+    "duration": 6430,
+    "offset": 247210,
+    "lang": "es"
+  },
+  {
+    "text": "no hace falta",
+    "duration": 5300,
+    "offset": 250530,
+    "lang": "es"
+  },
+  {
+    "text": "e ir aumentando y aumentando porque en",
+    "duration": 4439,
+    "offset": 253640,
+    "lang": "es"
+  },
+  {
+    "text": "definitiva ya obteníamos un buen",
+    "duration": 4469,
+    "offset": 255830,
+    "lang": "es"
+  },
+  {
+    "text": "resultado con muchas menos coronas y",
+    "duration": 3740,
+    "offset": 258079,
+    "lang": "es"
+  },
+  {
+    "text": "muchas menos",
+    "duration": 4951,
+    "offset": 260299,
+    "lang": "es"
+  },
+  {
+    "text": "iteraciones bien pero el concepto es el",
+    "duration": 6250,
+    "offset": 261819,
+    "lang": "es"
+  },
+  {
+    "text": "mismo en la red neuronal que aprendió de",
+    "duration": 5360,
+    "offset": 265250,
+    "lang": "es"
+  },
+  {
+    "text": "los datos",
+    "duration": 2541,
+    "offset": 268069,
+    "lang": "es"
+  }
+]

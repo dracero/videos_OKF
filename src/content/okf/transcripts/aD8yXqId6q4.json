@@ -1,0 +1,482 @@
+[
+  {
+    "text": "probamos nuestro Gen rag lo evaluamos",
+    "duration": 8400,
+    "offset": 1560,
+    "lang": "es"
+  },
+  {
+    "text": "con ML Flow y después probamos utilizar",
+    "duration": 8161,
+    "offset": 4799,
+    "lang": "es"
+  },
+  {
+    "text": "lch exactamente la misma cantidad de",
+    "duration": 6200,
+    "offset": 9960,
+    "lang": "es"
+  },
+  {
+    "text": "tokens de de entrada de todo el",
+    "duration": 7720,
+    "offset": 12960,
+    "lang": "es"
+  },
+  {
+    "text": "contenido de física 1 y solamente gemini",
+    "duration": 8080,
+    "offset": 16160,
+    "lang": "es"
+  },
+  {
+    "text": "sin r a ver si nos explicamos más",
+    "duration": 6839,
+    "offset": 20680,
+    "lang": "es"
+  },
+  {
+    "text": "claro primero lo que hicimos fue un",
+    "duration": 7080,
+    "offset": 24240,
+    "lang": "es"
+  },
+  {
+    "text": "agentic r qu hace el r en el agentic",
+    "duration": 7321,
+    "offset": 27519,
+    "lang": "es"
+  },
+  {
+    "text": "rack tenemos todo el temario de física",
+    "duration": 7719,
+    "offset": 31320,
+    "lang": "es"
+  },
+  {
+    "text": "1 Vamos a mostrarlo lo tenemos acá",
+    "duration": 7520,
+    "offset": 34840,
+    "lang": "es"
+  },
+  {
+    "text": "arriba en este agentic rack tenemos todo",
+    "duration": 5481,
+    "offset": 39039,
+    "lang": "es"
+  },
+  {
+    "text": "el temario de física un todo este",
+    "duration": 4600,
+    "offset": 42360,
+    "lang": "es"
+  },
+  {
+    "text": "temario de física",
+    "duration": 6320,
+    "offset": 44520,
+    "lang": "es"
+  },
+  {
+    "text": "un lo vamos a usar para que una vez que",
+    "duration": 7239,
+    "offset": 46960,
+    "lang": "es"
+  },
+  {
+    "text": "el usuario entra un problema clasifique",
+    "duration": 6120,
+    "offset": 50840,
+    "lang": "es"
+  },
+  {
+    "text": "de este temario Cuáles son los temas que",
+    "duration": 6961,
+    "offset": 54199,
+    "lang": "es"
+  },
+  {
+    "text": "se van a buscar y que en una base de",
+    "duration": 7120,
+    "offset": 56960,
+    "lang": "es"
+  },
+  {
+    "text": "datos kudr que tiene todo el contenido",
+    "duration": 4920,
+    "offset": 61160,
+    "lang": "es"
+  },
+  {
+    "text": "de la materia física",
+    "duration": 5719,
+    "offset": 64080,
+    "lang": "es"
+  },
+  {
+    "text": "un y después lo que hicimos fue el mismo",
+    "duration": 7640,
+    "offset": 66080,
+    "lang": "es"
+  },
+  {
+    "text": "procedimiento pero en lugar exactamente",
+    "duration": 5680,
+    "offset": 69799,
+    "lang": "es"
+  },
+  {
+    "text": "el mismo problema el problema de una",
+    "duration": 4719,
+    "offset": 73720,
+    "lang": "es"
+  },
+  {
+    "text": "escalera que es un cuerpo rígido pero en",
+    "duration": 6481,
+    "offset": 75479,
+    "lang": "es"
+  },
+  {
+    "text": "lugar de utilizar a genti rag",
+    "duration": 6481,
+    "offset": 78439,
+    "lang": "es"
+  },
+  {
+    "text": "directamente pusimos todo el Corpus todo",
+    "duration": 6440,
+    "offset": 81960,
+    "lang": "es"
+  },
+  {
+    "text": "el contenido de física 1 para que lo lea",
+    "duration": 6120,
+    "offset": 84920,
+    "lang": "es"
+  },
+  {
+    "text": "gemini Qué es lo lo que sucede acá",
+    "duration": 4079,
+    "offset": 88400,
+    "lang": "es"
+  },
+  {
+    "text": "usamos",
+    "duration": 3200,
+    "offset": 91040,
+    "lang": "es"
+  },
+  {
+    "text": "aproximadamente",
+    "duration": 7401,
+    "offset": 92479,
+    "lang": "es"
+  },
+  {
+    "text": "unos 600000 700000 tokens de entrada y",
+    "duration": 7879,
+    "offset": 94240,
+    "lang": "es"
+  },
+  {
+    "text": "los tokens de salida fueron",
+    "duration": 4839,
+    "offset": 99880,
+    "lang": "es"
+  },
+  {
+    "text": "aproximadamente unos 600 vamos a ver la",
+    "duration": 6201,
+    "offset": 102119,
+    "lang": "es"
+  },
+  {
+    "text": "evaluación con ML Flow",
+    "duration": 3601,
+    "offset": 104719,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense este es la evaluación del llm",
+    "duration": 5960,
+    "offset": 109119,
+    "lang": "es"
+  },
+  {
+    "text": "con ML Flow acá lo único que usamos fue",
+    "duration": 7960,
+    "offset": 112680,
+    "lang": "es"
+  },
+  {
+    "text": "el lm casi 600000 700000 tokens de",
+    "duration": 9680,
+    "offset": 115079,
+    "lang": "es"
+  },
+  {
+    "text": "entrada casi 700 tokens de salida y casi",
+    "duration": 7440,
+    "offset": 120640,
+    "lang": "es"
+  },
+  {
+    "text": "9 segundos en que nos da la respuesta",
+    "duration": 7361,
+    "offset": 124759,
+    "lang": "es"
+  },
+  {
+    "text": "8,7 segundos la duración",
+    "duration": 7920,
+    "offset": 128080,
+    "lang": "es"
+  },
+  {
+    "text": "total esto es utilizando directamente el",
+    "duration": 6199,
+    "offset": 132120,
+    "lang": "es"
+  },
+  {
+    "text": "contenido puesto en gemini sin la",
+    "duration": 4440,
+    "offset": 136000,
+    "lang": "es"
+  },
+  {
+    "text": "complejidad de hacer el agentic rack",
+    "duration": 4640,
+    "offset": 138319,
+    "lang": "es"
+  },
+  {
+    "text": "Recuerden que nuestra agentic rag vamos",
+    "duration": 7079,
+    "offset": 140440,
+    "lang": "es"
+  },
+  {
+    "text": "a verlo acá en la clasificación de ML",
+    "duration": 8280,
+    "offset": 142959,
+    "lang": "es"
+  },
+  {
+    "text": "Flow Qué hace nuestro agentic r en",
+    "duration": 6121,
+    "offset": 147519,
+    "lang": "es"
+  },
+  {
+    "text": "principio nuestro agentic rack lo que",
+    "duration": 5801,
+    "offset": 151239,
+    "lang": "es"
+  },
+  {
+    "text": "hace es",
+    "duration": 6120,
+    "offset": 153640,
+    "lang": "es"
+  },
+  {
+    "text": "clasifica el problema es exactamente el",
+    "duration": 5360,
+    "offset": 157040,
+    "lang": "es"
+  },
+  {
+    "text": "mismo problema de la escalera clasifica",
+    "duration": 6320,
+    "offset": 159760,
+    "lang": "es"
+  },
+  {
+    "text": "Cuáles son los temas que se debe con los",
+    "duration": 6040,
+    "offset": 162400,
+    "lang": "es"
+  },
+  {
+    "text": "que debe entrar a la base de datos",
+    "duration": 6480,
+    "offset": 166080,
+    "lang": "es"
+  },
+  {
+    "text": "vectorial fíjense que los tokens de",
+    "duration": 6680,
+    "offset": 168440,
+    "lang": "es"
+  },
+  {
+    "text": "salida en el caso anterior eran casi 700",
+    "duration": 5560,
+    "offset": 172560,
+    "lang": "es"
+  },
+  {
+    "text": "acá tenemos 17 tokens de salida que son",
+    "duration": 5680,
+    "offset": 175120,
+    "lang": "es"
+  },
+  {
+    "text": "simplemente los temas subtemas y",
+    "duration": 7880,
+    "offset": 178120,
+    "lang": "es"
+  },
+  {
+    "text": "keywords que descubre el gemini al leer",
+    "duration": 7400,
+    "offset": 180800,
+    "lang": "es"
+  },
+  {
+    "text": "el conjunto de agentes utilizando gemin",
+    "duration": 3959,
+    "offset": 186000,
+    "lang": "es"
+  },
+  {
+    "text": "al leer el problema de la",
+    "duration": 5119,
+    "offset": 188200,
+    "lang": "es"
+  },
+  {
+    "text": "escalera fíjense que el tiempo total es",
+    "duration": 6121,
+    "offset": 189959,
+    "lang": "es"
+  },
+  {
+    "text": "un poco más grande 9,8 segundos un",
+    "duration": 5560,
+    "offset": 193319,
+    "lang": "es"
+  },
+  {
+    "text": "segundo más pero vean lo barato que sale",
+    "duration": 4799,
+    "offset": 196080,
+    "lang": "es"
+  },
+  {
+    "text": "en relación a los tokens",
+    "duration": 7161,
+    "offset": 198879,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense los tokens de salida",
+    "duration": 5161,
+    "offset": 200879,
+    "lang": "es"
+  },
+  {
+    "text": "671 pero esos tokens de de salida",
+    "duration": 7000,
+    "offset": 207159,
+    "lang": "es"
+  },
+  {
+    "text": "los no tienen si lo sumamos con los",
+    "duration": 5560,
+    "offset": 211200,
+    "lang": "es"
+  },
+  {
+    "text": "tokens de entrada es prácticamente",
+    "duration": 4800,
+    "offset": 214159,
+    "lang": "es"
+  },
+  {
+    "text": "insignificante respecto de todo lo que",
+    "duration": 6839,
+    "offset": 216760,
+    "lang": "es"
+  },
+  {
+    "text": "nos gastamos con el sin hacer el rag",
+    "duration": 6881,
+    "offset": 218959,
+    "lang": "es"
+  },
+  {
+    "text": "ageno y lo otro que es muy importante",
+    "duration": 6081,
+    "offset": 223599,
+    "lang": "es"
+  },
+  {
+    "text": "del rag ageno es que estos tokens de",
+    "duration": 5800,
+    "offset": 225840,
+    "lang": "es"
+  },
+  {
+    "text": "salida como son exactamente el tema del",
+    "duration": 5399,
+    "offset": 229680,
+    "lang": "es"
+  },
+  {
+    "text": "que está hablando el problema tienen un",
+    "duration": 5840,
+    "offset": 231640,
+    "lang": "es"
+  },
+  {
+    "text": "coeficiente de similitud muy grande",
+    "duration": 4080,
+    "offset": 235079,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que el promedio coeficiente de",
+    "duration": 4959,
+    "offset": 237480,
+    "lang": "es"
+  },
+  {
+    "text": "similitud Es",
+    "duration": 6121,
+    "offset": 239159,
+    "lang": "es"
+  },
+  {
+    "text": "085 realmente esto nos habla esta",
+    "duration": 5321,
+    "offset": 242439,
+    "lang": "es"
+  },
+  {
+    "text": "evaluación nos deja las claras la",
+    "duration": 6120,
+    "offset": 245280,
+    "lang": "es"
+  },
+  {
+    "text": "ventaja del rag agentic frente a",
+    "duration": 6399,
+    "offset": 247760,
+    "lang": "es"
+  },
+  {
+    "text": "utilizar directamente el large context",
+    "duration": 5759,
+    "offset": 251400,
+    "lang": "es"
+  },
+  {
+    "text": "model",
+    "duration": 3000,
+    "offset": 254159,
+    "lang": "es"
+  }
+]

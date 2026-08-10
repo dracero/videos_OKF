@@ -1,0 +1,1802 @@
+[
+  {
+    "text": "la metodología haya el scrum la podemos",
+    "duration": 5189,
+    "offset": 2070,
+    "lang": "es"
+  },
+  {
+    "text": "resumir",
+    "duration": 6600,
+    "offset": 5220,
+    "lang": "es"
+  },
+  {
+    "text": "en la existencia de cuatro roles y a su",
+    "duration": 8430,
+    "offset": 7259,
+    "lang": "es"
+  },
+  {
+    "text": "vez cuatro ceremonias o reuniones el",
+    "duration": 8490,
+    "offset": 11820,
+    "lang": "es"
+  },
+  {
+    "text": "primer rol son los stakeholders",
+    "duration": 7590,
+    "offset": 15689,
+    "lang": "es"
+  },
+  {
+    "text": "qué hacen los stakeholders quiénes son",
+    "duration": 5969,
+    "offset": 20310,
+    "lang": "es"
+  },
+  {
+    "text": "los stakeholders los stakeholders o el",
+    "duration": 5340,
+    "offset": 23279,
+    "lang": "es"
+  },
+  {
+    "text": "grupo para el cual está dirigido el",
+    "duration": 4531,
+    "offset": 26279,
+    "lang": "es"
+  },
+  {
+    "text": "producto que queremos crear o el",
+    "duration": 5301,
+    "offset": 28619,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollo que queremos hacer",
+    "duration": 6470,
+    "offset": 30810,
+    "lang": "es"
+  },
+  {
+    "text": "en el caso por ejemplo de física 1 para",
+    "duration": 5099,
+    "offset": 33920,
+    "lang": "es"
+  },
+  {
+    "text": "el caso del chat bot los stakeholders",
+    "duration": 6500,
+    "offset": 37280,
+    "lang": "es"
+  },
+  {
+    "text": "son los alumnos los alumnos son los que",
+    "duration": 7890,
+    "offset": 39019,
+    "lang": "es"
+  },
+  {
+    "text": "en definitiva van a hacer usuarios del",
+    "duration": 6279,
+    "offset": 43780,
+    "lang": "es"
+  },
+  {
+    "text": "chat board y son los que directa o",
+    "duration": 5640,
+    "offset": 46909,
+    "lang": "es"
+  },
+  {
+    "text": "indirectamente van a hacer las",
+    "duration": 3831,
+    "offset": 50059,
+    "lang": "es"
+  },
+  {
+    "text": "especificaciones",
+    "duration": 5220,
+    "offset": 52549,
+    "lang": "es"
+  },
+  {
+    "text": "para que nosotros podamos empezar con la",
+    "duration": 8370,
+    "offset": 53890,
+    "lang": "es"
+  },
+  {
+    "text": "tarea del desarrollo por ejemplo ahora",
+    "duration": 7460,
+    "offset": 57769,
+    "lang": "es"
+  },
+  {
+    "text": "que donde queda plasmado donde se puede",
+    "duration": 6749,
+    "offset": 62260,
+    "lang": "es"
+  },
+  {
+    "text": "seguir las especificaciones que hacen",
+    "duration": 6711,
+    "offset": 65229,
+    "lang": "es"
+  },
+  {
+    "text": "los stakeholders",
+    "duration": 4911,
+    "offset": 69009,
+    "lang": "es"
+  },
+  {
+    "text": "para eso nosotros vamos a usar un",
+    "duration": 4990,
+    "offset": 71940,
+    "lang": "es"
+  },
+  {
+    "text": "sistema que es el sistema jira",
+    "duration": 6280,
+    "offset": 73920,
+    "lang": "es"
+  },
+  {
+    "text": "entonces los stakeholders hacen",
+    "duration": 7460,
+    "offset": 76930,
+    "lang": "es"
+  },
+  {
+    "text": "requerimientos con nosotros",
+    "duration": 4190,
+    "offset": 80200,
+    "lang": "es"
+  },
+  {
+    "text": "conectamos requerimientos y esos",
+    "duration": 4800,
+    "offset": 84560,
+    "lang": "es"
+  },
+  {
+    "text": "requerimientos van a una parte que se",
+    "duration": 6451,
+    "offset": 87259,
+    "lang": "es"
+  },
+  {
+    "text": "llamaba cloud como historias de usuario",
+    "duration": 7049,
+    "offset": 89360,
+    "lang": "es"
+  },
+  {
+    "text": "acá vemos algunas historias de usuario",
+    "duration": 4970,
+    "offset": 93710,
+    "lang": "es"
+  },
+  {
+    "text": "que",
+    "duration": 2271,
+    "offset": 96409,
+    "lang": "es"
+  },
+  {
+    "text": "fueron descritas a partir de relevar",
+    "duration": 5970,
+    "offset": 100130,
+    "lang": "es"
+  },
+  {
+    "text": "requerimientos de stakeholders",
+    "duration": 4890,
+    "offset": 102799,
+    "lang": "es"
+  },
+  {
+    "text": "quién es el que releva a los",
+    "duration": 3800,
+    "offset": 106100,
+    "lang": "es"
+  },
+  {
+    "text": "requerimientos de los stakeholders",
+    "duration": 6421,
+    "offset": 107689,
+    "lang": "es"
+  },
+  {
+    "text": "bien ahí vamos a ver otro rol que es el",
+    "duration": 8829,
+    "offset": 109900,
+    "lang": "es"
+  },
+  {
+    "text": "producto 1 y el producto aunar es el que",
+    "duration": 6509,
+    "offset": 114110,
+    "lang": "es"
+  },
+  {
+    "text": "va a ser el relevamiento de los",
+    "duration": 5011,
+    "offset": 118729,
+    "lang": "es"
+  },
+  {
+    "text": "requerimientos de los stakeholders y en",
+    "duration": 4920,
+    "offset": 120619,
+    "lang": "es"
+  },
+  {
+    "text": "el sistema va a plasmar esos",
+    "duration": 3659,
+    "offset": 123740,
+    "lang": "es"
+  },
+  {
+    "text": "requerimientos en forma de historia de",
+    "duration": 4341,
+    "offset": 125539,
+    "lang": "es"
+  },
+  {
+    "text": "usuario",
+    "duration": 2481,
+    "offset": 127399,
+    "lang": "es"
+  },
+  {
+    "text": "aparte el producto va a ser el encargado",
+    "duration": 6930,
+    "offset": 130289,
+    "lang": "es"
+  },
+  {
+    "text": "de priorizar las tareas que van a",
+    "duration": 7140,
+    "offset": 132959,
+    "lang": "es"
+  },
+  {
+    "text": "realizarse y también va a ser el",
+    "duration": 4890,
+    "offset": 137219,
+    "lang": "es"
+  },
+  {
+    "text": "encargado de discutir o de ajustar los",
+    "duration": 4500,
+    "offset": 140099,
+    "lang": "es"
+  },
+  {
+    "text": "tiempos en los cuales deben realizarse",
+    "duration": 5100,
+    "offset": 142109,
+    "lang": "es"
+  },
+  {
+    "text": "esas tareas para en el futuro poder",
+    "duration": 4801,
+    "offset": 144599,
+    "lang": "es"
+  },
+  {
+    "text": "hacer presentaciones a los stakeholders",
+    "duration": 5431,
+    "offset": 147209,
+    "lang": "es"
+  },
+  {
+    "text": "poder poner por ejemplo versiones beta",
+    "duration": 5240,
+    "offset": 149400,
+    "lang": "es"
+  },
+  {
+    "text": "versiones salas a versiones de prueba",
+    "duration": 4510,
+    "offset": 152640,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 4519,
+    "offset": 154640,
+    "lang": "es"
+  },
+  {
+    "text": "con tienes que va a hablar el producto",
+    "duration": 5190,
+    "offset": 157150,
+    "lang": "es"
+  },
+  {
+    "text": "hacia abajo en la cadena de la",
+    "duration": 5160,
+    "offset": 159159,
+    "lang": "es"
+  },
+  {
+    "text": "metodología es crown va a hablar con el",
+    "duration": 3890,
+    "offset": 162340,
+    "lang": "es"
+  },
+  {
+    "text": "scout más caro",
+    "duration": 4941,
+    "offset": 164319,
+    "lang": "es"
+  },
+  {
+    "text": "el estrado master es el que se va a",
+    "duration": 9210,
+    "offset": 166230,
+    "lang": "es"
+  },
+  {
+    "text": "encargar de recibir las priorizaciones y",
+    "duration": 8789,
+    "offset": 169260,
+    "lang": "es"
+  },
+  {
+    "text": "las historias del producto uner que en",
+    "duration": 5379,
+    "offset": 175440,
+    "lang": "es"
+  },
+  {
+    "text": "el caso del sistema gira",
+    "duration": 5401,
+    "offset": 178049,
+    "lang": "es"
+  },
+  {
+    "text": "lava",
+    "duration": 5491,
+    "offset": 180819,
+    "lang": "es"
+  },
+  {
+    "text": "las cuales en el backlog",
+    "duration": 6039,
+    "offset": 183450,
+    "lang": "es"
+  },
+  {
+    "text": "como aparece acá las valer mil backlog y",
+    "duration": 5610,
+    "offset": 186310,
+    "lang": "es"
+  },
+  {
+    "text": "lo que va a ser después este straw",
+    "duration": 4981,
+    "offset": 189489,
+    "lang": "es"
+  },
+  {
+    "text": "máster",
+    "duration": 5460,
+    "offset": 191920,
+    "lang": "es"
+  },
+  {
+    "text": "es se va a poner en contacto con el",
+    "duration": 5760,
+    "offset": 194470,
+    "lang": "es"
+  },
+  {
+    "text": "developer team que son los que van a",
+    "duration": 5490,
+    "offset": 197380,
+    "lang": "es"
+  },
+  {
+    "text": "llevar adelante el desarrollo",
+    "duration": 4910,
+    "offset": 200230,
+    "lang": "es"
+  },
+  {
+    "text": "el estrado master lo que va a ser es",
+    "duration": 6720,
+    "offset": 202870,
+    "lang": "es"
+  },
+  {
+    "text": "base va a ayudar a liberar a veces el",
+    "duration": 6190,
+    "offset": 205140,
+    "lang": "es"
+  },
+  {
+    "text": "esclavo master lo hace pero en la",
+    "duration": 4050,
+    "offset": 209590,
+    "lang": "es"
+  },
+  {
+    "text": "metodología es crown en realidad no",
+    "duration": 7019,
+    "offset": 211330,
+    "lang": "es"
+  },
+  {
+    "text": "existen los jefes y generalmente lo que",
+    "duration": 7860,
+    "offset": 213640,
+    "lang": "es"
+  },
+  {
+    "text": "se espera es que el nivel o perfil tenga",
+    "duration": 4491,
+    "offset": 218349,
+    "lang": "es"
+  },
+  {
+    "text": "acceso",
+    "duration": 4190,
+    "offset": 221500,
+    "lang": "es"
+  },
+  {
+    "text": "al balón y una vez que el dinero para",
+    "duration": 5369,
+    "offset": 222840,
+    "lang": "es"
+  },
+  {
+    "text": "team tiene acceso al backlog con la",
+    "duration": 5640,
+    "offset": 225690,
+    "lang": "es"
+  },
+  {
+    "text": "ayuda del extremo master toma alguna de",
+    "duration": 8441,
+    "offset": 228209,
+    "lang": "es"
+  },
+  {
+    "text": "las tareas que hay en el blog y",
+    "duration": 8829,
+    "offset": 231330,
+    "lang": "es"
+  },
+  {
+    "text": "las asigna se compromete a realizarlas",
+    "duration": 5960,
+    "offset": 236650,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 4941,
+    "offset": 240159,
+    "lang": "es"
+  },
+  {
+    "text": "los stakeholders son los que hacen los",
+    "duration": 3810,
+    "offset": 242610,
+    "lang": "es"
+  },
+  {
+    "text": "requerimientos de usuarios que se",
+    "duration": 3150,
+    "offset": 245100,
+    "lang": "es"
+  },
+  {
+    "text": "transforman en historias de usuario que",
+    "duration": 3770,
+    "offset": 246420,
+    "lang": "es"
+  },
+  {
+    "text": "se van a escribir en el barrio",
+    "duration": 3890,
+    "offset": 248250,
+    "lang": "es"
+  },
+  {
+    "text": "esas historias de usuarios y esos",
+    "duration": 3930,
+    "offset": 250190,
+    "lang": "es"
+  },
+  {
+    "text": "requerimientos van a ser escritos por el",
+    "duration": 4620,
+    "offset": 252140,
+    "lang": "es"
+  },
+  {
+    "text": "productor quien a su vez va a priorizar",
+    "duration": 5880,
+    "offset": 254120,
+    "lang": "es"
+  },
+  {
+    "text": "al straw master cuáles son las cosas que",
+    "duration": 5940,
+    "offset": 256760,
+    "lang": "es"
+  },
+  {
+    "text": "deberían realizarse primero para poder",
+    "duration": 5430,
+    "offset": 260000,
+    "lang": "es"
+  },
+  {
+    "text": "ir haciendo entregas parciales es straw",
+    "duration": 6990,
+    "offset": 262700,
+    "lang": "es"
+  },
+  {
+    "text": "master va a hablar con el developer team",
+    "duration": 7230,
+    "offset": 265430,
+    "lang": "es"
+  },
+  {
+    "text": "para que el developer team elija cuáles",
+    "duration": 4980,
+    "offset": 269690,
+    "lang": "es"
+  },
+  {
+    "text": "son las tareas que quiere dentro de las",
+    "duration": 4830,
+    "offset": 272660,
+    "lang": "es"
+  },
+  {
+    "text": "que están priorizadas y comience con el",
+    "duration": 5430,
+    "offset": 274670,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollo comience a hacer algunas de",
+    "duration": 4770,
+    "offset": 277490,
+    "lang": "es"
+  },
+  {
+    "text": "esas tareas en realidad el extra un",
+    "duration": 5370,
+    "offset": 280100,
+    "lang": "es"
+  },
+  {
+    "text": "máster lo que hace es transforma las",
+    "duration": 7110,
+    "offset": 282260,
+    "lang": "es"
+  },
+  {
+    "text": "historias de usuario en tareas que van a",
+    "duration": 8550,
+    "offset": 285470,
+    "lang": "es"
+  },
+  {
+    "text": "tener una las tareas van a tener una",
+    "duration": 6080,
+    "offset": 289370,
+    "lang": "es"
+  },
+  {
+    "text": "fecha de vencimiento",
+    "duration": 5370,
+    "offset": 294020,
+    "lang": "es"
+  },
+  {
+    "text": "y se las asigna con el consenso con el",
+    "duration": 6370,
+    "offset": 295450,
+    "lang": "es"
+  },
+  {
+    "text": "acuerdo de ellos por supuesto a alguien",
+    "duration": 4170,
+    "offset": 299390,
+    "lang": "es"
+  },
+  {
+    "text": "del nivel o partido",
+    "duration": 5120,
+    "offset": 301820,
+    "lang": "es"
+  },
+  {
+    "text": "estas tareas entonces",
+    "duration": 3380,
+    "offset": 303560,
+    "lang": "es"
+  },
+  {
+    "text": "consensuadas con el scroll master y",
+    "duration": 6450,
+    "offset": 307230,
+    "lang": "es"
+  },
+  {
+    "text": "tomadas por el nivel o perfil",
+    "duration": 7779,
+    "offset": 310390,
+    "lang": "es"
+  },
+  {
+    "text": "este proceso de tomar las tareas",
+    "duration": 7380,
+    "offset": 313680,
+    "lang": "es"
+  },
+  {
+    "text": "y pasarlas",
+    "duration": 4750,
+    "offset": 318169,
+    "lang": "es"
+  },
+  {
+    "text": "tomar las historias de usuarios por",
+    "duration": 4079,
+    "offset": 321060,
+    "lang": "es"
+  },
+  {
+    "text": "partirlas en tareas",
+    "duration": 4830,
+    "offset": 322919,
+    "lang": "es"
+  },
+  {
+    "text": "ponerle una fecha de vencimiento asignar",
+    "duration": 6530,
+    "offset": 325139,
+    "lang": "es"
+  },
+  {
+    "text": "un responsable se conoce como sprint",
+    "duration": 7890,
+    "offset": 327749,
+    "lang": "es"
+  },
+  {
+    "text": "planning es la primer ceremonia que",
+    "duration": 6391,
+    "offset": 331669,
+    "lang": "es"
+  },
+  {
+    "text": "tiene él",
+    "duration": 5000,
+    "offset": 335639,
+    "lang": "es"
+  },
+  {
+    "text": "la metodología es la primer ceremonia la",
+    "duration": 5130,
+    "offset": 338060,
+    "lang": "es"
+  },
+  {
+    "text": "primera reunión es decir se hace una",
+    "duration": 5011,
+    "offset": 340639,
+    "lang": "es"
+  },
+  {
+    "text": "reunión dentro de esa reunión el straw",
+    "duration": 6260,
+    "offset": 343190,
+    "lang": "es"
+  },
+  {
+    "text": "master le comenta al developer team",
+    "duration": 6510,
+    "offset": 345650,
+    "lang": "es"
+  },
+  {
+    "text": "cuáles son las directivas que vienen a",
+    "duration": 5110,
+    "offset": 349450,
+    "lang": "es"
+  },
+  {
+    "text": "partir del producto una vez que escuchó",
+    "duration": 5140,
+    "offset": 352160,
+    "lang": "es"
+  },
+  {
+    "text": "los requerimientos de",
+    "duration": 5150,
+    "offset": 354560,
+    "lang": "es"
+  },
+  {
+    "text": "en los stakeholders",
+    "duration": 5680,
+    "offset": 357300,
+    "lang": "es"
+  },
+  {
+    "text": "acuerdan cuáles son las tareas que van a",
+    "duration": 4800,
+    "offset": 359710,
+    "lang": "es"
+  },
+  {
+    "text": "empezar en función de lo que es",
+    "duration": 4760,
+    "offset": 362980,
+    "lang": "es"
+  },
+  {
+    "text": "priorizar el producto uner",
+    "duration": 7340,
+    "offset": 364510,
+    "lang": "es"
+  },
+  {
+    "text": "querían un sprint",
+    "duration": 4110,
+    "offset": 367740,
+    "lang": "es"
+  },
+  {
+    "text": "inicia el sprint como estoy haciendo",
+    "duration": 6390,
+    "offset": 372220,
+    "lang": "es"
+  },
+  {
+    "text": "ahora acá se inicia el sprint se le pone",
+    "duration": 6930,
+    "offset": 375010,
+    "lang": "es"
+  },
+  {
+    "text": "un nombre por ejemplo acá le vamos a",
+    "duration": 6230,
+    "offset": 378610,
+    "lang": "es"
+  },
+  {
+    "text": "poner un nombre",
+    "duration": 2900,
+    "offset": 381940,
+    "lang": "es"
+  },
+  {
+    "text": "cursos",
+    "duration": 2660,
+    "offset": 386150,
+    "lang": "es"
+  },
+  {
+    "text": "en educación",
+    "duration": 3840,
+    "offset": 392500,
+    "lang": "es"
+  },
+  {
+    "text": "la duración esto según lo que hablamos",
+    "duration": 4980,
+    "offset": 398200,
+    "lang": "es"
+  },
+  {
+    "text": "con el nivel o karting va a durar",
+    "duration": 4430,
+    "offset": 401320,
+    "lang": "es"
+  },
+  {
+    "text": "aproximadamente",
+    "duration": 2570,
+    "offset": 403180,
+    "lang": "es"
+  },
+  {
+    "text": "y lo vamos a poner personalizado y",
+    "duration": 6980,
+    "offset": 405870,
+    "lang": "es"
+  },
+  {
+    "text": "empieza hoy 19 de julio y va a terminar",
+    "duration": 8250,
+    "offset": 408660,
+    "lang": "es"
+  },
+  {
+    "text": "aproximadamente el 19 de agosto bien y",
+    "duration": 7440,
+    "offset": 412850,
+    "lang": "es"
+  },
+  {
+    "text": "el objetivo del sprint es",
+    "duration": 3380,
+    "offset": 416910,
+    "lang": "es"
+  },
+  {
+    "text": "un saludo",
+    "duration": 3650,
+    "offset": 422670,
+    "lang": "es"
+  },
+  {
+    "text": "en la educación",
+    "duration": 4100,
+    "offset": 426760,
+    "lang": "es"
+  },
+  {
+    "text": "y acá le damos iniciar ahí inicia el",
+    "duration": 7290,
+    "offset": 440280,
+    "lang": "es"
+  },
+  {
+    "text": "sprint acá las tareas pasaron del",
+    "duration": 7740,
+    "offset": 443460,
+    "lang": "es"
+  },
+  {
+    "text": "backlog a un sprint sprint está iniciado",
+    "duration": 6690,
+    "offset": 447570,
+    "lang": "es"
+  },
+  {
+    "text": "y en el tablero podemos ver las",
+    "duration": 5640,
+    "offset": 451200,
+    "lang": "es"
+  },
+  {
+    "text": "historias de usuarios la tarea que",
+    "duration": 4650,
+    "offset": 454260,
+    "lang": "es"
+  },
+  {
+    "text": "todavía no está en curso y esta tarea",
+    "duration": 4140,
+    "offset": 456840,
+    "lang": "es"
+  },
+  {
+    "text": "que es la que estoy haciendo ahora que",
+    "duration": 5520,
+    "offset": 458910,
+    "lang": "es"
+  },
+  {
+    "text": "es la que está en curso y está asignada",
+    "duration": 8680,
+    "offset": 460980,
+    "lang": "es"
+  },
+  {
+    "text": "acá vamos a diego rasgos o sea qué",
+    "duration": 9930,
+    "offset": 464430,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros recapitulando tenemos",
+    "duration": 7819,
+    "offset": 469660,
+    "lang": "es"
+  },
+  {
+    "text": "a los stakeholders que son los clientes",
+    "duration": 4890,
+    "offset": 474360,
+    "lang": "es"
+  },
+  {
+    "text": "para los cuales estamos haciendo el",
+    "duration": 3090,
+    "offset": 477479,
+    "lang": "es"
+  },
+  {
+    "text": "desarrollo",
+    "duration": 3770,
+    "offset": 479250,
+    "lang": "es"
+  },
+  {
+    "text": "esos stakeholders lo que hacen es",
+    "duration": 4711,
+    "offset": 480569,
+    "lang": "es"
+  },
+  {
+    "text": "contarle expresarles sus requerimientos",
+    "duration": 4560,
+    "offset": 483020,
+    "lang": "es"
+  },
+  {
+    "text": "o a veces directamente",
+    "duration": 5460,
+    "offset": 485280,
+    "lang": "es"
+  },
+  {
+    "text": "ser son descubiertos en sus",
+    "duration": 5470,
+    "offset": 487580,
+    "lang": "es"
+  },
+  {
+    "text": "requerimientos por el producto o el",
+    "duration": 4859,
+    "offset": 490740,
+    "lang": "es"
+  },
+  {
+    "text": "producto es en el que en este sistema en",
+    "duration": 5160,
+    "offset": 493050,
+    "lang": "es"
+  },
+  {
+    "text": "el backlog acá abajo escribe las",
+    "duration": 5701,
+    "offset": 495599,
+    "lang": "es"
+  },
+  {
+    "text": "historias de usuario y habla con el",
+    "duration": 4880,
+    "offset": 498210,
+    "lang": "es"
+  },
+  {
+    "text": "scrum master",
+    "duration": 3600,
+    "offset": 501300,
+    "lang": "es"
+  },
+  {
+    "text": "explicándole qué es lo que quiere hacer",
+    "duration": 3819,
+    "offset": 503090,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que se quiere priorizar qué",
+    "duration": 3870,
+    "offset": 504900,
+    "lang": "es"
+  },
+  {
+    "text": "tareas son las que deben salir primero",
+    "duration": 4560,
+    "offset": 506909,
+    "lang": "es"
+  },
+  {
+    "text": "qué tareas están encadenadas la función",
+    "duration": 4680,
+    "offset": 508770,
+    "lang": "es"
+  },
+  {
+    "text": "del producto ver es estar en contacto",
+    "duration": 4351,
+    "offset": 511469,
+    "lang": "es"
+  },
+  {
+    "text": "con el stakeholder o con los",
+    "duration": 4740,
+    "offset": 513450,
+    "lang": "es"
+  },
+  {
+    "text": "stakeholders para hacer todo lo",
+    "duration": 4620,
+    "offset": 515820,
+    "lang": "es"
+  },
+  {
+    "text": "necesario en cuanto a los requerimientos",
+    "duration": 5250,
+    "offset": 518190,
+    "lang": "es"
+  },
+  {
+    "text": "del sistema y estar en contacto con el",
+    "duration": 4889,
+    "offset": 520440,
+    "lang": "es"
+  },
+  {
+    "text": "esclavo master para establecer",
+    "duration": 5649,
+    "offset": 523440,
+    "lang": "es"
+  },
+  {
+    "text": "prioridades y establecer necesidades de",
+    "duration": 7180,
+    "offset": 525329,
+    "lang": "es"
+  },
+  {
+    "text": "inicio fin de tareas el scrum master es",
+    "duration": 6631,
+    "offset": 529089,
+    "lang": "es"
+  },
+  {
+    "text": "el que después en una ceremonia que se",
+    "duration": 6531,
+    "offset": 532509,
+    "lang": "es"
+  },
+  {
+    "text": "llama sprint planning",
+    "duration": 6830,
+    "offset": 535720,
+    "lang": "es"
+  },
+  {
+    "text": "transforma todo el báculo en esas",
+    "duration": 6870,
+    "offset": 539040,
+    "lang": "es"
+  },
+  {
+    "text": "historias de usuario en tareas y esas",
+    "duration": 5760,
+    "offset": 542550,
+    "lang": "es"
+  },
+  {
+    "text": "historia de usuario transformadas en",
+    "duration": 4170,
+    "offset": 545910,
+    "lang": "es"
+  },
+  {
+    "text": "tareas",
+    "duration": 6120,
+    "offset": 548310,
+    "lang": "es"
+  },
+  {
+    "text": "se les asigna un responsable una fecha",
+    "duration": 7560,
+    "offset": 550080,
+    "lang": "es"
+  },
+  {
+    "text": "de vencimiento y se las pone en curso o",
+    "duration": 6120,
+    "offset": 554430,
+    "lang": "es"
+  },
+  {
+    "text": "se las deja en tareas por hacer porque",
+    "duration": 4680,
+    "offset": 557640,
+    "lang": "es"
+  },
+  {
+    "text": "se está esperando que se termine alguna",
+    "duration": 3650,
+    "offset": 560550,
+    "lang": "es"
+  },
+  {
+    "text": "otra tarea",
+    "duration": 4850,
+    "offset": 562320,
+    "lang": "es"
+  },
+  {
+    "text": "pero el que está en contacto con el",
+    "duration": 5340,
+    "offset": 564200,
+    "lang": "es"
+  },
+  {
+    "text": "nivel o karting transmitiéndole las",
+    "duration": 4980,
+    "offset": 567170,
+    "lang": "es"
+  },
+  {
+    "text": "prioridades del esperado master del",
+    "duration": 6060,
+    "offset": 569540,
+    "lang": "es"
+  },
+  {
+    "text": "productor es el scrum astro el scrum",
+    "duration": 5010,
+    "offset": 572150,
+    "lang": "es"
+  },
+  {
+    "text": "master es el que también escucha el",
+    "duration": 4550,
+    "offset": 575600,
+    "lang": "es"
+  },
+  {
+    "text": "developer team e intenta dar soporte",
+    "duration": 5210,
+    "offset": 577160,
+    "lang": "es"
+  },
+  {
+    "text": "satisfacer sus necesidades",
+    "duration": 4780,
+    "offset": 580150,
+    "lang": "es"
+  },
+  {
+    "text": "ayudarlos a conseguir todo lo que sea",
+    "duration": 5110,
+    "offset": 582370,
+    "lang": "es"
+  },
+  {
+    "text": "necesario para que la tarea se pueda",
+    "duration": 4680,
+    "offset": 584930,
+    "lang": "es"
+  },
+  {
+    "text": "cumplir en el tiempo que estipuló el es",
+    "duration": 5270,
+    "offset": 587480,
+    "lang": "es"
+  },
+  {
+    "text": "traumática lo fundamental que es la",
+    "duration": 6680,
+    "offset": 589610,
+    "lang": "es"
+  },
+  {
+    "text": "metodología es grau no tiene jefes o sea",
+    "duration": 6220,
+    "offset": 592750,
+    "lang": "es"
+  },
+  {
+    "text": "se necesita que haya consenso respecto",
+    "duration": 4450,
+    "offset": 596290,
+    "lang": "es"
+  },
+  {
+    "text": "de las tareas que se van a realizar de",
+    "duration": 3270,
+    "offset": 598970,
+    "lang": "es"
+  },
+  {
+    "text": "quien las ha realizado y de cuánto",
+    "duration": 3690,
+    "offset": 600740,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo se va a tardar",
+    "duration": 5700,
+    "offset": 602240,
+    "lang": "es"
+  },
+  {
+    "text": "y eso priorizado eso en función de la",
+    "duration": 5280,
+    "offset": 604430,
+    "lang": "es"
+  },
+  {
+    "text": "priorización y las necesidades que",
+    "duration": 4470,
+    "offset": 607940,
+    "lang": "es"
+  },
+  {
+    "text": "transmitió el productor el nivel o",
+    "duration": 6600,
+    "offset": 609710,
+    "lang": "es"
+  },
+  {
+    "text": "perfil lleva adelante el desarrollo y en",
+    "duration": 6810,
+    "offset": 612410,
+    "lang": "es"
+  },
+  {
+    "text": "el momento que termina puede la tarea en",
+    "duration": 4770,
+    "offset": 616310,
+    "lang": "es"
+  },
+  {
+    "text": "cambio de dejarla en curso la puede",
+    "duration": 5059,
+    "offset": 619220,
+    "lang": "es"
+  },
+  {
+    "text": "poner como finalizada",
+    "duration": 5239,
+    "offset": 621080,
+    "lang": "es"
+  },
+  {
+    "text": "lo que puede hacer también el dinero por",
+    "duration": 3521,
+    "offset": 624279,
+    "lang": "es"
+  },
+  {
+    "text": "ti es",
+    "duration": 4571,
+    "offset": 626319,
+    "lang": "es"
+  },
+  {
+    "text": "si quiere tomar alguna tarea para seguir",
+    "duration": 7610,
+    "offset": 627800,
+    "lang": "es"
+  },
+  {
+    "text": "adelante desarrollando otras cosas",
+    "duration": 4520,
+    "offset": 630890,
+    "lang": "es"
+  },
+  {
+    "text": "cada el yo les había dicho que nuestra",
+    "duration": 7901,
+    "offset": 636329,
+    "lang": "es"
+  },
+  {
+    "text": "un máster tiene cuatro ceremonias",
+    "duration": 6461,
+    "offset": 639989,
+    "lang": "es"
+  },
+  {
+    "text": "primero tenemos el spring planning que",
+    "duration": 3930,
+    "offset": 644230,
+    "lang": "es"
+  },
+  {
+    "text": "es el spirit planning tedesco en la que",
+    "duration": 5580,
+    "offset": 646450,
+    "lang": "es"
+  },
+  {
+    "text": "se dispara todo pero el extra un máster",
+    "duration": 7110,
+    "offset": 648160,
+    "lang": "es"
+  },
+  {
+    "text": "se reúne con el libero partido todos los",
+    "duration": 4970,
+    "offset": 652030,
+    "lang": "es"
+  },
+  {
+    "text": "días",
+    "duration": 4130,
+    "offset": 655270,
+    "lang": "es"
+  },
+  {
+    "text": "realizando una ceremonia una reunión que",
+    "duration": 5460,
+    "offset": 657000,
+    "lang": "es"
+  },
+  {
+    "text": "se llama la de todos los días vivir a",
+    "duration": 5610,
+    "offset": 659400,
+    "lang": "es"
+  },
+  {
+    "text": "reunirse mezcla un máster con el líbero",
+    "duration": 3410,
+    "offset": 662460,
+    "lang": "es"
+  },
+  {
+    "text": "martín",
+    "duration": 5610,
+    "offset": 665010,
+    "lang": "es"
+  },
+  {
+    "text": "para poder ver qué necesita para",
+    "duration": 6820,
+    "offset": 665870,
+    "lang": "es"
+  },
+  {
+    "text": "transmitirle las priorizaciones que hizo",
+    "duration": 4770,
+    "offset": 670620,
+    "lang": "es"
+  },
+  {
+    "text": "el productor y esa ceremonia se llama de",
+    "duration": 3470,
+    "offset": 672690,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 3080,
+    "offset": 675390,
+    "lang": "es"
+  },
+  {
+    "text": "finalmente cuando el nivel o partir",
+    "duration": 4660,
+    "offset": 676160,
+    "lang": "es"
+  },
+  {
+    "text": "termina una cierta cantidad de tareas",
+    "duration": 4300,
+    "offset": 678470,
+    "lang": "es"
+  },
+  {
+    "text": "que hace que el producto ya pueda tener",
+    "duration": 4380,
+    "offset": 680820,
+    "lang": "es"
+  },
+  {
+    "text": "una entrega se realiza otra ceremonia",
+    "duration": 5700,
+    "offset": 682770,
+    "lang": "es"
+  },
+  {
+    "text": "más que se denomina sprint o sea yo",
+    "duration": 5580,
+    "offset": 685200,
+    "lang": "es"
+  },
+  {
+    "text": "cumple una serie de tareas y ahora un",
+    "duration": 5040,
+    "offset": 688470,
+    "lang": "es"
+  },
+  {
+    "text": "review en ese río se revisa lo que se",
+    "duration": 5130,
+    "offset": 690780,
+    "lang": "es"
+  },
+  {
+    "text": "hizo se comprueba que tengo los",
+    "duration": 4020,
+    "offset": 693510,
+    "lang": "es"
+  },
+  {
+    "text": "requerimientos que pedía el producto",
+    "duration": 3480,
+    "offset": 695910,
+    "lang": "es"
+  },
+  {
+    "text": "aunarse no puede invitar al producto",
+    "duration": 5910,
+    "offset": 697530,
+    "lang": "es"
+  },
+  {
+    "text": "poner en esa review y aparte lo que se",
+    "duration": 6150,
+    "offset": 699390,
+    "lang": "es"
+  },
+  {
+    "text": "hace se determina a ver si hay que",
+    "duration": 3790,
+    "offset": 703440,
+    "lang": "es"
+  },
+  {
+    "text": "cambiar",
+    "duration": 4000,
+    "offset": 705540,
+    "lang": "es"
+  },
+  {
+    "text": "realizar algunas modificaciones para",
+    "duration": 7049,
+    "offset": 707230,
+    "lang": "es"
+  },
+  {
+    "text": "seguir adelante bien finalmente",
+    "duration": 7440,
+    "offset": 709540,
+    "lang": "es"
+  },
+  {
+    "text": "cuando se termina todas las tareas y se",
+    "duration": 5160,
+    "offset": 714279,
+    "lang": "es"
+  },
+  {
+    "text": "cierra el sprint porque ya todas las",
+    "duration": 4169,
+    "offset": 716980,
+    "lang": "es"
+  },
+  {
+    "text": "tareas que estaban dentro de ese sprint",
+    "duration": 5281,
+    "offset": 719439,
+    "lang": "es"
+  },
+  {
+    "text": "ya las terminamos entonces lo que se",
+    "duration": 7081,
+    "offset": 721149,
+    "lang": "es"
+  },
+  {
+    "text": "hace es una",
+    "duration": 5730,
+    "offset": 724720,
+    "lang": "es"
+  },
+  {
+    "text": "una reunión una ceremonia que se llama",
+    "duration": 5229,
+    "offset": 728230,
+    "lang": "es"
+  },
+  {
+    "text": "la retrospectiva o la retro",
+    "duration": 6129,
+    "offset": 730450,
+    "lang": "es"
+  },
+  {
+    "text": "entonces cuando yo cierro el sprint una",
+    "duration": 6870,
+    "offset": 733459,
+    "lang": "es"
+  },
+  {
+    "text": "vez que termine todas las tareas y este",
+    "duration": 7021,
+    "offset": 736579,
+    "lang": "es"
+  },
+  {
+    "text": "sprint que está en este sprint que ya",
+    "duration": 6540,
+    "offset": 740329,
+    "lang": "es"
+  },
+  {
+    "text": "que está en curso lo pongo completado",
+    "duration": 7109,
+    "offset": 743600,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que termine todo eso entonces",
+    "duration": 5731,
+    "offset": 746869,
+    "lang": "es"
+  },
+  {
+    "text": "ahí hago",
+    "duration": 4610,
+    "offset": 750709,
+    "lang": "es"
+  },
+  {
+    "text": "una ceremonia más que es la",
+    "duration": 6210,
+    "offset": 752600,
+    "lang": "es"
+  },
+  {
+    "text": "retrospectiva bien entonces cuáles son",
+    "duration": 6731,
+    "offset": 755319,
+    "lang": "es"
+  },
+  {
+    "text": "los cuatro roles recapitulando que tiene",
+    "duration": 6209,
+    "offset": 758810,
+    "lang": "es"
+  },
+  {
+    "text": "él la metodología es crown los",
+    "duration": 6060,
+    "offset": 762050,
+    "lang": "es"
+  },
+  {
+    "text": "stakeholders el productor el escalón",
+    "duration": 5671,
+    "offset": 765019,
+    "lang": "es"
+  },
+  {
+    "text": "master y el developer team",
+    "duration": 5610,
+    "offset": 768110,
+    "lang": "es"
+  },
+  {
+    "text": "qué es cuáles son las cuatro ceremonias",
+    "duration": 5340,
+    "offset": 770690,
+    "lang": "es"
+  },
+  {
+    "text": "que tiene la metodología es crown la",
+    "duration": 4890,
+    "offset": 773720,
+    "lang": "es"
+  },
+  {
+    "text": "primera es el spring planning que es",
+    "duration": 6540,
+    "offset": 776030,
+    "lang": "es"
+  },
+  {
+    "text": "cuando pasamos las historias de usuario",
+    "duration": 5850,
+    "offset": 778610,
+    "lang": "es"
+  },
+  {
+    "text": "junto con el estrado master in developer",
+    "duration": 5550,
+    "offset": 782570,
+    "lang": "es"
+  },
+  {
+    "text": "team a un sprint le ponemos fechas",
+    "duration": 6950,
+    "offset": 784460,
+    "lang": "es"
+  },
+  {
+    "text": "asignamos responsables",
+    "duration": 7009,
+    "offset": 788120,
+    "lang": "es"
+  },
+  {
+    "text": "y elegimos cual tarea vamos a comenzar",
+    "duration": 7150,
+    "offset": 791410,
+    "lang": "es"
+  },
+  {
+    "text": "en función de la priorización que hizo",
+    "duration": 6481,
+    "offset": 795129,
+    "lang": "es"
+  },
+  {
+    "text": "el producto aún",
+    "duration": 3050,
+    "offset": 798560,
+    "lang": "es"
+  },
+  {
+    "text": "una vez que tenemos hecha de spring",
+    "duration": 5430,
+    "offset": 801630,
+    "lang": "es"
+  },
+  {
+    "text": "planning y que están tareas en curso",
+    "duration": 4390,
+    "offset": 804660,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos",
+    "duration": 5290,
+    "offset": 807060,
+    "lang": "es"
+  },
+  {
+    "text": "baby que es la reunión diaria donde",
+    "duration": 5340,
+    "offset": 809050,
+    "lang": "es"
+  },
+  {
+    "text": "descaro master con el developer team se",
+    "duration": 4830,
+    "offset": 812350,
+    "lang": "es"
+  },
+  {
+    "text": "reúnen en una reunión que dura 5 o 10",
+    "duration": 4920,
+    "offset": 814390,
+    "lang": "es"
+  },
+  {
+    "text": "minutos para ver si hay algo que le",
+    "duration": 4170,
+    "offset": 817180,
+    "lang": "es"
+  },
+  {
+    "text": "impide seguir adelante con las tareas",
+    "duration": 3170,
+    "offset": 819310,
+    "lang": "es"
+  },
+  {
+    "text": "que",
+    "duration": 4100,
+    "offset": 821350,
+    "lang": "es"
+  },
+  {
+    "text": "pidió que priorizó el",
+    "duration": 6310,
+    "offset": 822480,
+    "lang": "es"
+  },
+  {
+    "text": "productor nerd y también si es necesario",
+    "duration": 5530,
+    "offset": 825450,
+    "lang": "es"
+  },
+  {
+    "text": "hacer todos los arreglos porque a lo",
+    "duration": 4530,
+    "offset": 828790,
+    "lang": "es"
+  },
+  {
+    "text": "mejor hay partes de nivel operativo que",
+    "duration": 4919,
+    "offset": 830980,
+    "lang": "es"
+  },
+  {
+    "text": "no conoce algunas cosas entonces si usan",
+    "duration": 6509,
+    "offset": 833320,
+    "lang": "es"
+  },
+  {
+    "text": "diversas técnicas como el programa la",
+    "duration": 7051,
+    "offset": 835899,
+    "lang": "es"
+  },
+  {
+    "text": "verdad y para poder hacer que se",
+    "duration": 6661,
+    "offset": 839829,
+    "lang": "es"
+  },
+  {
+    "text": "comprenda se entienda que es lo que lo",
+    "duration": 5910,
+    "offset": 842950,
+    "lang": "es"
+  },
+  {
+    "text": "que está haciendo falta o que qué",
+    "duration": 3779,
+    "offset": 846490,
+    "lang": "es"
+  },
+  {
+    "text": "conocimientos hacen falta para llevar",
+    "duration": 4530,
+    "offset": 848860,
+    "lang": "es"
+  },
+  {
+    "text": "adelante la carrera cuando se cierra una",
+    "duration": 5371,
+    "offset": 850269,
+    "lang": "es"
+  },
+  {
+    "text": "tarea tenemos la tercer ceremonia que se",
+    "duration": 4530,
+    "offset": 853390,
+    "lang": "es"
+  },
+  {
+    "text": "les pidió y finalmente cuando se",
+    "duration": 4110,
+    "offset": 855640,
+    "lang": "es"
+  },
+  {
+    "text": "completa el sprint",
+    "duration": 3870,
+    "offset": 857920,
+    "lang": "es"
+  },
+  {
+    "text": "tenemos la retrospectiva del sprint",
+    "duration": 4680,
+    "offset": 859750,
+    "lang": "es"
+  },
+  {
+    "text": "retrógado me analizamos todo lo que se",
+    "duration": 4830,
+    "offset": 861790,
+    "lang": "es"
+  },
+  {
+    "text": "hizo y nos ponemos de acuerdo en cosas",
+    "duration": 6140,
+    "offset": 864430,
+    "lang": "es"
+  },
+  {
+    "text": "que son necesarias para el futuro",
+    "duration": 3950,
+    "offset": 866620,
+    "lang": "es"
+  }
+]

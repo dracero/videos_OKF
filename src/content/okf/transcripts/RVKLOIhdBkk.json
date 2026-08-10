@@ -1,0 +1,518 @@
+[
+  {
+    "text": "Bueno hoy utilizamos",
+    "duration": 5401,
+    "offset": 1839,
+    "lang": "es"
+  },
+  {
+    "text": "bolt que es un rag",
+    "duration": 5039,
+    "offset": 4600,
+    "lang": "es"
+  },
+  {
+    "text": "agentic para crear una",
+    "duration": 7160,
+    "offset": 7240,
+    "lang": "es"
+  },
+  {
+    "text": "aplicación full stack en Astro con el",
+    "duration": 9761,
+    "offset": 9639,
+    "lang": "es"
+  },
+  {
+    "text": "lenguaje typescript react o sea con",
+    "duration": 5000,
+    "offset": 14400,
+    "lang": "es"
+  },
+  {
+    "text": "tsx y le pedimos además que nos genere",
+    "duration": 9600,
+    "offset": 20560,
+    "lang": "es"
+  },
+  {
+    "text": "el toda la documentación",
+    "duration": 5440,
+    "offset": 26840,
+    "lang": "es"
+  },
+  {
+    "text": "con swager",
+    "duration": 6120,
+    "offset": 30160,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces bolt nos generó a partir de",
+    "duration": 6000,
+    "offset": 32280,
+    "lang": "es"
+  },
+  {
+    "text": "este promt que ven",
+    "duration": 6160,
+    "offset": 36280,
+    "lang": "es"
+  },
+  {
+    "text": "acá el archivo que se ve a la derecha no",
+    "duration": 7400,
+    "offset": 38280,
+    "lang": "es"
+  },
+  {
+    "text": "generó toda la documentación en",
+    "duration": 7439,
+    "offset": 42440,
+    "lang": "es"
+  },
+  {
+    "text": "swager y lo único que hubo que cambiar",
+    "duration": 8440,
+    "offset": 45680,
+    "lang": "es"
+  },
+  {
+    "text": "fueron dos cosas primero el swager no lo",
+    "duration": 6281,
+    "offset": 49879,
+    "lang": "es"
+  },
+  {
+    "text": "había registrado en",
+    "duration": 5880,
+    "offset": 54120,
+    "lang": "es"
+  },
+  {
+    "text": "Astro qué hicimos le pedimos aen que nos",
+    "duration": 6120,
+    "offset": 56160,
+    "lang": "es"
+  },
+  {
+    "text": "yude y lo resolvió y lo registró en",
+    "duration": 6520,
+    "offset": 60000,
+    "lang": "es"
+  },
+  {
+    "text": "Astro dooc y después usaba la forma",
+    "duration": 6920,
+    "offset": 62280,
+    "lang": "es"
+  },
+  {
+    "text": "antigua la forma vieja de pasar Eh",
+    "duration": 5360,
+    "offset": 66520,
+    "lang": "es"
+  },
+  {
+    "text": "States y props que es a través de pasaje",
+    "duration": 5880,
+    "offset": 69200,
+    "lang": "es"
+  },
+  {
+    "text": "de States y props Y eso traía problemas",
+    "duration": 6559,
+    "offset": 71880,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces qué le pedimos le pedimos a",
+    "duration": 6800,
+    "offset": 75080,
+    "lang": "es"
+  },
+  {
+    "text": "quen que cambiara y que en cambio de",
+    "duration": 7720,
+    "offset": 78439,
+    "lang": "es"
+  },
+  {
+    "text": "usar State y props Us",
+    "duration": 10480,
+    "offset": 81880,
+    "lang": "es"
+  },
+  {
+    "text": "em el Store así que el mismo en el nos",
+    "duration": 8640,
+    "offset": 86159,
+    "lang": "es"
+  },
+  {
+    "text": "dijo quen que en la carpeta source",
+    "duration": 4880,
+    "offset": 92360,
+    "lang": "es"
+  },
+  {
+    "text": "teníamos que instalar teníamos que crear",
+    "duration": 4401,
+    "offset": 94799,
+    "lang": "es"
+  },
+  {
+    "text": "el store en",
+    "duration": 5000,
+    "offset": 97240,
+    "lang": "es"
+  },
+  {
+    "text": "test previamente instalando el este el",
+    "duration": 7480,
+    "offset": 99200,
+    "lang": "es"
+  },
+  {
+    "text": "package sustan y después nos dio todos",
+    "duration": 6760,
+    "offset": 102240,
+    "lang": "es"
+  },
+  {
+    "text": "estos códigos que teníamos que modificar",
+    "duration": 4719,
+    "offset": 106680,
+    "lang": "es"
+  },
+  {
+    "text": "cuánto tardamos en hacer esto",
+    "duration": 4560,
+    "offset": 109000,
+    "lang": "es"
+  },
+  {
+    "text": "aproximadamente todo este sistema que es",
+    "duration": 5320,
+    "offset": 111399,
+    "lang": "es"
+  },
+  {
+    "text": "un crud completo con conexión a db",
+    "duration": 4960,
+    "offset": 113560,
+    "lang": "es"
+  },
+  {
+    "text": "a través de Atlas para eso le",
+    "duration": 3961,
+    "offset": 116719,
+    "lang": "es"
+  },
+  {
+    "text": "pasamos el Uri",
+    "duration": 4080,
+    "offset": 118520,
+    "lang": "es"
+  },
+  {
+    "text": "tardamos",
+    "duration": 6399,
+    "offset": 120680,
+    "lang": "es"
+  },
+  {
+    "text": "aproximadamente 2 horas en 2 horas lo",
+    "duration": 7240,
+    "offset": 122600,
+    "lang": "es"
+  },
+  {
+    "text": "teníamos listo un desarrollo full stack",
+    "duration": 4240,
+    "offset": 127079,
+    "lang": "es"
+  },
+  {
+    "text": "hecho en",
+    "duration": 4280,
+    "offset": 129840,
+    "lang": "es"
+  },
+  {
+    "text": "typescript lo bajamos Ya lo tenemos en",
+    "duration": 5961,
+    "offset": 131319,
+    "lang": "es"
+  },
+  {
+    "text": "nuestro repositorio listo para hacer el",
+    "duration": 7040,
+    "offset": 134120,
+    "lang": "es"
+  },
+  {
+    "text": "el deployment Pero bueno vamos a ver Acá",
+    "duration": 5840,
+    "offset": 137280,
+    "lang": "es"
+  },
+  {
+    "text": "está funcionando nuestra máquina local",
+    "duration": 8719,
+    "offset": 141160,
+    "lang": "es"
+  },
+  {
+    "text": "ven local 432 acá tenemos los Doc ae",
+    "duration": 10839,
+    "offset": 143120,
+    "lang": "es"
+  },
+  {
+    "text": "documentación de la Api hecha en",
+    "duration": 7481,
+    "offset": 149879,
+    "lang": "es"
+  },
+  {
+    "text": "swager y acá tenemos el menú a donde",
+    "duration": 5721,
+    "offset": 153959,
+    "lang": "es"
+  },
+  {
+    "text": "podemos crear un usuario vamos a crear",
+    "duration": 5720,
+    "offset": 157360,
+    "lang": "es"
+  },
+  {
+    "text": "un usuario le vamos a poner",
+    "duration": 3400,
+    "offset": 159680,
+    "lang": "es"
+  },
+  {
+    "text": "eh",
+    "duration": 3840,
+    "offset": 163200,
+    "lang": "es"
+  },
+  {
+    "text": "Juan",
+    "duration": 7600,
+    "offset": 165200,
+    "lang": "es"
+  },
+  {
+    "text": "eh Pérez y el email",
+    "duration": 5760,
+    "offset": 167040,
+    "lang": "es"
+  },
+  {
+    "text": "J Perez",
+    "duration": 6401,
+    "offset": 173599,
+    "lang": "es"
+  },
+  {
+    "text": "21 @f",
+    "duration": 4000,
+    "offset": 176000,
+    "lang": "es"
+  },
+  {
+    "text": "uba.ar creamos el usuario ahí ya está",
+    "duration": 7961,
+    "offset": 183319,
+    "lang": "es"
+  },
+  {
+    "text": "creado vamos a ver el usuario le ponemos",
+    "duration": 7080,
+    "offset": 186040,
+    "lang": "es"
+  },
+  {
+    "text": "J",
+    "duration": 3640,
+    "offset": 191280,
+    "lang": "es"
+  },
+  {
+    "text": "Pérez",
+    "duration": 3399,
+    "offset": 193120,
+    "lang": "es"
+  },
+  {
+    "text": "21",
+    "duration": 3280,
+    "offset": 194920,
+    "lang": "es"
+  },
+  {
+    "text": "@",
+    "duration": 4640,
+    "offset": 196519,
+    "lang": "es"
+  },
+  {
+    "text": "fi.uba.ar",
+    "duration": 5920,
+    "offset": 198200,
+    "lang": "es"
+  },
+  {
+    "text": "lo buscamos y acá aparece es el que",
+    "duration": 5720,
+    "offset": 201159,
+    "lang": "es"
+  },
+  {
+    "text": "creamos recién lo podemos ir a",
+    "duration": 6640,
+    "offset": 204120,
+    "lang": "es"
+  },
+  {
+    "text": "modificar entonces acá le ponemos",
+    "duration": 8761,
+    "offset": 206879,
+    "lang": "es"
+  },
+  {
+    "text": "jz2 @f lo buscamos y le vamos a poner",
+    "duration": 7039,
+    "offset": 210760,
+    "lang": "es"
+  },
+  {
+    "text": "Juan",
+    "duration": 5239,
+    "offset": 215640,
+    "lang": "es"
+  },
+  {
+    "text": "Ignacio vamos a copiar este acá le",
+    "duration": 6201,
+    "offset": 217799,
+    "lang": "es"
+  },
+  {
+    "text": "ponemos Juan Ignacio Pérez acá nos dice",
+    "duration": 6560,
+    "offset": 220879,
+    "lang": "es"
+  },
+  {
+    "text": "que el usuario actualizado vamos a ver",
+    "duration": 6680,
+    "offset": 224000,
+    "lang": "es"
+  },
+  {
+    "text": "pegamos acá y acá aparece Juan Ignacio",
+    "duration": 5681,
+    "offset": 227439,
+    "lang": "es"
+  },
+  {
+    "text": "Pérez y si queremos lo podemos ir a",
+    "duration": 4600,
+    "offset": 230680,
+    "lang": "es"
+  },
+  {
+    "text": "buscar lo buscamos por",
+    "duration": 5479,
+    "offset": 233120,
+    "lang": "es"
+  },
+  {
+    "text": "mail nos dice todo esto que están viendo",
+    "duration": 5599,
+    "offset": 235280,
+    "lang": "es"
+  },
+  {
+    "text": "lo hizo",
+    "duration": 4801,
+    "offset": 238599,
+    "lang": "es"
+  },
+  {
+    "text": "bt Qué es lo mejor de todo si uno tiene",
+    "duration": 5241,
+    "offset": 240879,
+    "lang": "es"
+  },
+  {
+    "text": "el Hardware adecuado este rtico lo puede",
+    "duration": 5360,
+    "offset": 243400,
+    "lang": "es"
+  },
+  {
+    "text": "bajar directamente a su propia máquina",
+    "duration": 6039,
+    "offset": 246120,
+    "lang": "es"
+  },
+  {
+    "text": "delete user y ahí ya no existe más y si",
+    "duration": 6039,
+    "offset": 248760,
+    "lang": "es"
+  },
+  {
+    "text": "ahora lo vamos a",
+    "duration": 6441,
+    "offset": 252159,
+    "lang": "es"
+  },
+  {
+    "text": "buscar no está bien y si vamos a buscar",
+    "duration": 7680,
+    "offset": 254799,
+    "lang": "es"
+  },
+  {
+    "text": "de racero que este si",
+    "duration": 3879,
+    "offset": 258600,
+    "lang": "es"
+  },
+  {
+    "text": "está esperen que lo voy a crear",
+    "duration": 5041,
+    "offset": 263759,
+    "lang": "es"
+  },
+  {
+    "text": "eh Entonces ahora sí lo vamos a",
+    "duration": 6960,
+    "offset": 269880,
+    "lang": "es"
+  },
+  {
+    "text": "buscar y ahí está",
+    "duration": 7280,
+    "offset": 274199,
+    "lang": "es"
+  },
+  {
+    "text": "eh Diego racero",
+    "duration": 4639,
+    "offset": 276840,
+    "lang": "es"
+  },
+  {
+    "text": "bien buenísimo",
+    "duration": 4000,
+    "offset": 283880,
+    "lang": "es"
+  }
+]

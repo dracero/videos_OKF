@@ -1,0 +1,3902 @@
+[
+  {
+    "text": "bien bueno vamos a empezar con la",
+    "duration": 4759,
+    "offset": 0,
+    "lang": "es"
+  },
+  {
+    "text": "resolución del problema",
+    "duration": 5580,
+    "offset": 2700,
+    "lang": "es"
+  },
+  {
+    "text": "en realidad qué es lo que sucede como el",
+    "duration": 6101,
+    "offset": 4759,
+    "lang": "es"
+  },
+  {
+    "text": "problema había dos problemas uno hablaba",
+    "duration": 8029,
+    "offset": 8280,
+    "lang": "es"
+  },
+  {
+    "text": "de una esfera y otro hablaba de",
+    "duration": 5449,
+    "offset": 10860,
+    "lang": "es"
+  },
+  {
+    "text": "de un cilindro entonces yo lo voy a",
+    "duration": 6870,
+    "offset": 16930,
+    "lang": "es"
+  },
+  {
+    "text": "resolver en forma genérica sin meterme",
+    "duration": 5610,
+    "offset": 20590,
+    "lang": "es"
+  },
+  {
+    "text": "exactamente en el detalle de si era la",
+    "duration": 4460,
+    "offset": 23800,
+    "lang": "es"
+  },
+  {
+    "text": "esfera ahora en el cilindro",
+    "duration": 4130,
+    "offset": 26200,
+    "lang": "es"
+  },
+  {
+    "text": "después bueno cada uno según lo que",
+    "duration": 4650,
+    "offset": 28260,
+    "lang": "es"
+  },
+  {
+    "text": "tendré lo que tenía reemplazará por los",
+    "duration": 4660,
+    "offset": 30330,
+    "lang": "es"
+  },
+  {
+    "text": "valores que correspondan",
+    "duration": 4510,
+    "offset": 32910,
+    "lang": "es"
+  },
+  {
+    "text": "bien entonces que decía decir el",
+    "duration": 5550,
+    "offset": 34990,
+    "lang": "es"
+  },
+  {
+    "text": "problema decía que teníamos",
+    "duration": 7620,
+    "offset": 37420,
+    "lang": "es"
+  },
+  {
+    "text": "un cuerpo rígido homogéneo de radio 0 75",
+    "duration": 5430,
+    "offset": 40540,
+    "lang": "es"
+  },
+  {
+    "text": "metros",
+    "duration": 4050,
+    "offset": 45040,
+    "lang": "es"
+  },
+  {
+    "text": "de radio de rimas a n que estaba en",
+    "duration": 6300,
+    "offset": 45970,
+    "lang": "es"
+  },
+  {
+    "text": "reposo sobre una superficie horizontal y",
+    "duration": 5100,
+    "offset": 49090,
+    "lang": "es"
+  },
+  {
+    "text": "que en un instante determinado se le",
+    "duration": 5250,
+    "offset": 52270,
+    "lang": "es"
+  },
+  {
+    "text": "aplica mediante una soga en todo momento",
+    "duration": 6900,
+    "offset": 54190,
+    "lang": "es"
+  },
+  {
+    "text": "una fuerza horizontal efe",
+    "duration": 6180,
+    "offset": 57520,
+    "lang": "es"
+  },
+  {
+    "text": "en la posición y con el sentido ubicado",
+    "duration": 5790,
+    "offset": 61090,
+    "lang": "es"
+  },
+  {
+    "text": "y gráfico o sea es hacia la derecha y a",
+    "duration": 6420,
+    "offset": 63700,
+    "lang": "es"
+  },
+  {
+    "text": "una distancia ere sobre dos respecto del",
+    "duration": 5620,
+    "offset": 66880,
+    "lang": "es"
+  },
+  {
+    "text": "piso bien",
+    "duration": 5210,
+    "offset": 70120,
+    "lang": "es"
+  },
+  {
+    "text": "entonces lo que hice suponiendo que el",
+    "duration": 5140,
+    "offset": 72500,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido no desliz es decir cólera",
+    "duration": 5460,
+    "offset": 75330,
+    "lang": "es"
+  },
+  {
+    "text": "sin utilizar sobre la superficie y",
+    "duration": 4800,
+    "offset": 77640,
+    "lang": "es"
+  },
+  {
+    "text": "usando buenos datos el central más",
+    "duration": 4740,
+    "offset": 80790,
+    "lang": "es"
+  },
+  {
+    "text": "edemas dice bien indicar explícitamente",
+    "duration": 5520,
+    "offset": 82440,
+    "lang": "es"
+  },
+  {
+    "text": "el sistema de referencia y el sistema de",
+    "duration": 4260,
+    "offset": 85530,
+    "lang": "es"
+  },
+  {
+    "text": "coordenadas elegido para resolver el",
+    "duration": 4500,
+    "offset": 87960,
+    "lang": "es"
+  },
+  {
+    "text": "problema dinámico realiza en el diagrama",
+    "duration": 4770,
+    "offset": 89790,
+    "lang": "es"
+  },
+  {
+    "text": "de cuerpo libre válido para ese sistema",
+    "duration": 5010,
+    "offset": 92460,
+    "lang": "es"
+  },
+  {
+    "text": "de referencia y determinar la",
+    "duration": 4470,
+    "offset": 94560,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración del centro de masa del",
+    "duration": 3720,
+    "offset": 97470,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido la aceleración angular y",
+    "duration": 5100,
+    "offset": 99030,
+    "lang": "es"
+  },
+  {
+    "text": "las fuerzas arrasadas",
+    "duration": 6599,
+    "offset": 101190,
+    "lang": "es"
+  },
+  {
+    "text": "bien entonces vamos con la primera parte",
+    "duration": 5790,
+    "offset": 104130,
+    "lang": "es"
+  },
+  {
+    "text": "la primer parte de lo que nos dice es",
+    "duration": 5731,
+    "offset": 107789,
+    "lang": "es"
+  },
+  {
+    "text": "que elijamos un sistema de referencia",
+    "duration": 6570,
+    "offset": 109920,
+    "lang": "es"
+  },
+  {
+    "text": "así que vamos a elegir un sistema de",
+    "duration": 5560,
+    "offset": 113520,
+    "lang": "es"
+  },
+  {
+    "text": "referencia yo",
+    "duration": 5530,
+    "offset": 116490,
+    "lang": "es"
+  },
+  {
+    "text": "voy a elegir tal vez el más sencillo de",
+    "duration": 5210,
+    "offset": 119080,
+    "lang": "es"
+  },
+  {
+    "text": "todos",
+    "duration": 2270,
+    "offset": 122020,
+    "lang": "es"
+  },
+  {
+    "text": "elijo un sistema de referencia a dónde",
+    "duration": 7170,
+    "offset": 125950,
+    "lang": "es"
+  },
+  {
+    "text": "acá",
+    "duration": 2540,
+    "offset": 130580,
+    "lang": "es"
+  },
+  {
+    "text": "mientras momentos heridos porque justo",
+    "duration": 6630,
+    "offset": 133950,
+    "lang": "es"
+  },
+  {
+    "text": "hay dos nada más están yang e ignacio",
+    "duration": 5610,
+    "offset": 137700,
+    "lang": "es"
+  },
+  {
+    "text": "que los corregidos",
+    "duration": 6010,
+    "offset": 140580,
+    "lang": "es"
+  },
+  {
+    "text": "está bastante bien",
+    "duration": 7340,
+    "offset": 143310,
+    "lang": "es"
+  },
+  {
+    "text": "a ver un segundo",
+    "duration": 8340,
+    "offset": 146590,
+    "lang": "es"
+  },
+  {
+    "text": "ryan de puntos y los dos puntos",
+    "duration": 4280,
+    "offset": 150650,
+    "lang": "es"
+  },
+  {
+    "text": "a 12 ya no te puedo decir tanto diego",
+    "duration": 6470,
+    "offset": 155200,
+    "lang": "es"
+  },
+  {
+    "text": "gómez",
+    "duration": 5970,
+    "offset": 159730,
+    "lang": "es"
+  },
+  {
+    "text": "qué cosas nos dijeron si estaban",
+    "duration": 6810,
+    "offset": 161670,
+    "lang": "es"
+  },
+  {
+    "text": "aprobados o no",
+    "duration": 2780,
+    "offset": 165700,
+    "lang": "es"
+  },
+  {
+    "text": "sí bueno si ya dotarlos a publicar en",
+    "duration": 5030,
+    "offset": 168810,
+    "lang": "es"
+  },
+  {
+    "text": "menos de 24 horas",
+    "duration": 7611,
+    "offset": 171569,
+    "lang": "es"
+  },
+  {
+    "text": "si jean bueno si están los aprobados",
+    "duration": 8890,
+    "offset": 173840,
+    "lang": "es"
+  },
+  {
+    "text": "vamos dejemos que discutamos con el",
+    "duration": 5770,
+    "offset": 179180,
+    "lang": "es"
+  },
+  {
+    "text": "grupo las notas pero también aprobados",
+    "duration": 5970,
+    "offset": 182730,
+    "lang": "es"
+  },
+  {
+    "text": "pero justamente se editen dos tanto",
+    "duration": 6660,
+    "offset": 184950,
+    "lang": "es"
+  },
+  {
+    "text": "ignacio como ya no hicieron bien con lo",
+    "duration": 6240,
+    "offset": 188700,
+    "lang": "es"
+  },
+  {
+    "text": "cual digo poder como",
+    "duration": 5490,
+    "offset": 191610,
+    "lang": "es"
+  },
+  {
+    "text": "a avanzar más rápido porque me parece",
+    "duration": 4760,
+    "offset": 194940,
+    "lang": "es"
+  },
+  {
+    "text": "voy a buscar",
+    "duration": 2600,
+    "offset": 197100,
+    "lang": "es"
+  },
+  {
+    "text": "a listo listo",
+    "duration": 5539,
+    "offset": 200150,
+    "lang": "es"
+  },
+  {
+    "text": "espérame es el que ya es el que tenía un",
+    "duration": 7369,
+    "offset": 201760,
+    "lang": "es"
+  },
+  {
+    "text": "poco peor el ítem",
+    "duration": 3440,
+    "offset": 205689,
+    "lang": "es"
+  },
+  {
+    "text": "yo como para hacerlo un poco más",
+    "duration": 5350,
+    "offset": 210250,
+    "lang": "es"
+  },
+  {
+    "text": "dinámico ya que somos nosotros 4",
+    "duration": 5890,
+    "offset": 212140,
+    "lang": "es"
+  },
+  {
+    "text": "y yo como lo estamos grabando para que",
+    "duration": 5670,
+    "offset": 215600,
+    "lang": "es"
+  },
+  {
+    "text": "le quede bien entonces buena razón yo no",
+    "duration": 6240,
+    "offset": 218030,
+    "lang": "es"
+  },
+  {
+    "text": "dije nada me guste este sistema de",
+    "duration": 4880,
+    "offset": 221270,
+    "lang": "es"
+  },
+  {
+    "text": "referencia",
+    "duration": 3829,
+    "offset": 224270,
+    "lang": "es"
+  },
+  {
+    "text": "el sistema de referencia ha valido",
+    "duration": 3869,
+    "offset": 226150,
+    "lang": "es"
+  },
+  {
+    "text": "tendría el zeta positivo para allá",
+    "duration": 6541,
+    "offset": 228099,
+    "lang": "es"
+  },
+  {
+    "text": "porque si yo hago girar x hacia ahí esto",
+    "duration": 6591,
+    "offset": 230019,
+    "lang": "es"
+  },
+  {
+    "text": "gira en sentido",
+    "duration": 5159,
+    "offset": 234640,
+    "lang": "es"
+  },
+  {
+    "text": "antihorario o sea gira hacia la",
+    "duration": 5230,
+    "offset": 236610,
+    "lang": "es"
+  },
+  {
+    "text": "izquierda si gira hacia la izquierda en",
+    "duration": 5061,
+    "offset": 239799,
+    "lang": "es"
+  },
+  {
+    "text": "el sentido positivo es saliente",
+    "duration": 6970,
+    "offset": 241840,
+    "lang": "es"
+  },
+  {
+    "text": "así que este es el sentido positivo",
+    "duration": 8090,
+    "offset": 244860,
+    "lang": "es"
+  },
+  {
+    "text": "de el giro bien entonces ahora como me",
+    "duration": 6210,
+    "offset": 248810,
+    "lang": "es"
+  },
+  {
+    "text": "dice que ruedas sin deslizar yo sé que",
+    "duration": 6030,
+    "offset": 252950,
+    "lang": "es"
+  },
+  {
+    "text": "este punto de acá es el sí",
+    "duration": 6130,
+    "offset": 255020,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 5589,
+    "offset": 258980,
+    "lang": "es"
+  },
+  {
+    "text": "y acá tengo el centro de más",
+    "duration": 6419,
+    "offset": 261150,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 3000,
+    "offset": 264569,
+    "lang": "es"
+  },
+  {
+    "text": "ahora que ya tengo el sistema de",
+    "duration": 3480,
+    "offset": 267580,
+    "lang": "es"
+  },
+  {
+    "text": "referencia elegido ya sé cuál es mi",
+    "duration": 4680,
+    "offset": 269080,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de referencia válido",
+    "duration": 4410,
+    "offset": 271060,
+    "lang": "es"
+  },
+  {
+    "text": "tengo que empezar a plantear las",
+    "duration": 3540,
+    "offset": 273760,
+    "lang": "es"
+  },
+  {
+    "text": "situaciones entonces según este sistema",
+    "duration": 4500,
+    "offset": 275470,
+    "lang": "es"
+  },
+  {
+    "text": "de referencia a lo que me faltaba es que",
+    "duration": 6229,
+    "offset": 277300,
+    "lang": "es"
+  },
+  {
+    "text": "ubico la fuerza de rozamiento",
+    "duration": 6579,
+    "offset": 279970,
+    "lang": "es"
+  },
+  {
+    "text": "me voy a poner",
+    "duration": 3020,
+    "offset": 283529,
+    "lang": "es"
+  },
+  {
+    "text": "no no me hizo como yo quería",
+    "duration": 3950,
+    "offset": 288840,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3860,
+    "offset": 301490,
+    "lang": "es"
+  },
+  {
+    "text": "yo quería",
+    "duration": 5240,
+    "offset": 313510,
+    "lang": "es"
+  },
+  {
+    "text": "estar ahí",
+    "duration": 3930,
+    "offset": 314820,
+    "lang": "es"
+  },
+  {
+    "text": "la fuerza de rozamiento",
+    "duration": 6080,
+    "offset": 319520,
+    "lang": "es"
+  },
+  {
+    "text": "no sé si se va a notar la voy a ponerlo",
+    "duration": 6301,
+    "offset": 322919,
+    "lang": "es"
+  },
+  {
+    "text": "de otro color para que se note",
+    "duration": 3620,
+    "offset": 325600,
+    "lang": "es"
+  },
+  {
+    "text": "y entonces la fuerza de rozamiento la",
+    "duration": 7250,
+    "offset": 331700,
+    "lang": "es"
+  },
+  {
+    "text": "ubicó en este punto para aquel lado",
+    "duration": 4700,
+    "offset": 334250,
+    "lang": "es"
+  },
+  {
+    "text": "y quedó bien",
+    "duration": 2540,
+    "offset": 339870,
+    "lang": "es"
+  },
+  {
+    "text": "bueno no se quiere quedar derecha pero",
+    "duration": 4060,
+    "offset": 344420,
+    "lang": "es"
+  },
+  {
+    "text": "no es inclinada sino que",
+    "duration": 6700,
+    "offset": 346130,
+    "lang": "es"
+  },
+  {
+    "text": "tiene que ser justa y derecha no se coge",
+    "duration": 9120,
+    "offset": 348480,
+    "lang": "es"
+  },
+  {
+    "text": "a ver si le puedo dar una bola",
+    "duration": 7859,
+    "offset": 352830,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 3089,
+    "offset": 357600,
+    "lang": "es"
+  },
+  {
+    "text": "tiene que ser bien ahí",
+    "duration": 5500,
+    "offset": 362719,
+    "lang": "es"
+  },
+  {
+    "text": "estoy bien derecha bien entonces ahí",
+    "duration": 4710,
+    "offset": 365330,
+    "lang": "es"
+  },
+  {
+    "text": "abajo tengo",
+    "duration": 5111,
+    "offset": 368219,
+    "lang": "es"
+  },
+  {
+    "text": "la fuerza de rozamiento",
+    "duration": 4900,
+    "offset": 370040,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a poner",
+    "duration": 4930,
+    "offset": 373330,
+    "lang": "es"
+  },
+  {
+    "text": "a cada color negro",
+    "duration": 3320,
+    "offset": 374940,
+    "lang": "es"
+  },
+  {
+    "text": "bien entonces",
+    "duration": 5400,
+    "offset": 381580,
+    "lang": "es"
+  },
+  {
+    "text": "manda",
+    "duration": 4240,
+    "offset": 384580,
+    "lang": "es"
+  },
+  {
+    "text": "signos",
+    "duration": 4620,
+    "offset": 386980,
+    "lang": "es"
+  },
+  {
+    "text": "para esto",
+    "duration": 2780,
+    "offset": 388820,
+    "lang": "es"
+  },
+  {
+    "text": "esta para que el lado uy",
+    "duration": 6470,
+    "offset": 392550,
+    "lang": "es"
+  },
+  {
+    "text": "esta máquina tiene algún problema con el",
+    "duration": 7340,
+    "offset": 396169,
+    "lang": "es"
+  },
+  {
+    "text": "driver no sé por qué está bueno",
+    "duration": 4489,
+    "offset": 399020,
+    "lang": "es"
+  },
+  {
+    "text": "el calor no ayuda a la rf",
+    "duration": 5870,
+    "offset": 403680,
+    "lang": "es"
+  },
+  {
+    "text": "entonces aquí tenemos la fuerza de",
+    "duration": 4890,
+    "offset": 415920,
+    "lang": "es"
+  },
+  {
+    "text": "atracción entonces ahora vamos a",
+    "duration": 4670,
+    "offset": 418920,
+    "lang": "es"
+  },
+  {
+    "text": "plantear las ecuaciones",
+    "duration": 2780,
+    "offset": 420810,
+    "lang": "es"
+  },
+  {
+    "text": "la sumatoria de las fuerzas en x me",
+    "duration": 5340,
+    "offset": 424220,
+    "lang": "es"
+  },
+  {
+    "text": "queda que la fuerza f que va en sentido",
+    "duration": 4830,
+    "offset": 426560,
+    "lang": "es"
+  },
+  {
+    "text": "positivo bien en el sentido de además",
+    "duration": 7160,
+    "offset": 429560,
+    "lang": "es"
+  },
+  {
+    "text": "versos y menos la fuerza de rozamiento",
+    "duration": 10010,
+    "offset": 431390,
+    "lang": "es"
+  },
+  {
+    "text": "es igual a la masa por la aceleración de",
+    "duration": 7740,
+    "offset": 436720,
+    "lang": "es"
+  },
+  {
+    "text": "un centro de masa bien",
+    "duration": 8160,
+    "offset": 441400,
+    "lang": "es"
+  },
+  {
+    "text": "bueno y ahora está la parte en donde hay",
+    "duration": 7829,
+    "offset": 444460,
+    "lang": "es"
+  },
+  {
+    "text": "que elegir entre si quiere hacer la",
+    "duration": 4440,
+    "offset": 449560,
+    "lang": "es"
+  },
+  {
+    "text": "parte vectorial o si quiere hacer la",
+    "duration": 4261,
+    "offset": 452289,
+    "lang": "es"
+  },
+  {
+    "text": "parte este o lo quiero hacer a través de",
+    "duration": 6590,
+    "offset": 454000,
+    "lang": "es"
+  },
+  {
+    "text": "un triángulo de velocidades y ustedes",
+    "duration": 4040,
+    "offset": 456550,
+    "lang": "es"
+  },
+  {
+    "text": "esto lo quieren hacer vectorial mente",
+    "duration": 6470,
+    "offset": 461210,
+    "lang": "es"
+  },
+  {
+    "text": "supongamos que te vamos a decir como",
+    "duration": 5000,
+    "offset": 465340,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa perdón",
+    "duration": 5070,
+    "offset": 467680,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a decir como centro del momento y",
+    "duration": 4980,
+    "offset": 470340,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a plantear la ecuación de torque",
+    "duration": 6419,
+    "offset": 472750,
+    "lang": "es"
+  },
+  {
+    "text": "respecto del sí bien entonces que nos va",
+    "duration": 5650,
+    "offset": 475320,
+    "lang": "es"
+  },
+  {
+    "text": "a quedar si no vamos a decir como centro",
+    "duration": 4791,
+    "offset": 479169,
+    "lang": "es"
+  },
+  {
+    "text": "del momento yo tengo",
+    "duration": 7970,
+    "offset": 480970,
+    "lang": "es"
+  },
+  {
+    "text": "el decir que sale de acá y va hasta este",
+    "duration": 7280,
+    "offset": 483960,
+    "lang": "es"
+  },
+  {
+    "text": "punto bien",
+    "duration": 5150,
+    "offset": 488940,
+    "lang": "es"
+  },
+  {
+    "text": "y van en el sentido de él más versos",
+    "duration": 6299,
+    "offset": 491240,
+    "lang": "es"
+  },
+  {
+    "text": "jota y eso va en el sentido del más",
+    "duration": 6180,
+    "offset": 494090,
+    "lang": "es"
+  },
+  {
+    "text": "verso y entonces yo qué puedo decir acá",
+    "duration": 4961,
+    "offset": 497539,
+    "lang": "es"
+  },
+  {
+    "text": "y la fuerza efe",
+    "duration": 6270,
+    "offset": 500270,
+    "lang": "es"
+  },
+  {
+    "text": "en el sentido del verso",
+    "duration": 4040,
+    "offset": 502500,
+    "lang": "es"
+  },
+  {
+    "text": "producto vectorial el radio",
+    "duration": 7250,
+    "offset": 507169,
+    "lang": "es"
+  },
+  {
+    "text": "de red sobre 2",
+    "duration": 6049,
+    "offset": 511910,
+    "lang": "es"
+  },
+  {
+    "text": "producto en el sentido del más verso j",
+    "duration": 6500,
+    "offset": 514419,
+    "lang": "es"
+  },
+  {
+    "text": "es igual a el momento de inercia",
+    "duration": 6291,
+    "offset": 517959,
+    "lang": "es"
+  },
+  {
+    "text": "respecto a decir",
+    "duration": 6211,
+    "offset": 520919,
+    "lang": "es"
+  },
+  {
+    "text": "por la manilla cada gama le ponemos el",
+    "duration": 4920,
+    "offset": 524250,
+    "lang": "es"
+  },
+  {
+    "text": "sombrerito de vector porque esto hace un",
+    "duration": 4149,
+    "offset": 527130,
+    "lang": "es"
+  },
+  {
+    "text": "vector bien",
+    "duration": 5380,
+    "offset": 529170,
+    "lang": "es"
+  },
+  {
+    "text": "y entonces más personas por más grosor j",
+    "duration": 5430,
+    "offset": 531279,
+    "lang": "es"
+  },
+  {
+    "text": "me va a quedar menos persona entonces no",
+    "duration": 6509,
+    "offset": 534550,
+    "lang": "es"
+  },
+  {
+    "text": "va a quedar que esto tenía que estar así",
+    "duration": 7931,
+    "offset": 536709,
+    "lang": "es"
+  },
+  {
+    "text": "me va a quedar que efe por",
+    "duration": 6331,
+    "offset": 541059,
+    "lang": "es"
+  },
+  {
+    "text": "r sobre 2",
+    "duration": 5170,
+    "offset": 544640,
+    "lang": "es"
+  },
+  {
+    "text": "- verso",
+    "duration": 4710,
+    "offset": 547390,
+    "lang": "es"
+  },
+  {
+    "text": "es igual",
+    "duration": 4800,
+    "offset": 549810,
+    "lang": "es"
+  },
+  {
+    "text": "y respecto a sí",
+    "duration": 5150,
+    "offset": 552100,
+    "lang": "es"
+  },
+  {
+    "text": "por gama bien",
+    "duration": 5160,
+    "offset": 554610,
+    "lang": "es"
+  },
+  {
+    "text": "ahora aquí lo que me está diciendo esto",
+    "duration": 5340,
+    "offset": 557250,
+    "lang": "es"
+  },
+  {
+    "text": "a donde yo no le puse signo y a través",
+    "duration": 6510,
+    "offset": 559770,
+    "lang": "es"
+  },
+  {
+    "text": "de analizar el producto vectorial en el",
+    "duration": 6000,
+    "offset": 562590,
+    "lang": "es"
+  },
+  {
+    "text": "menos persona me está diciendo que en",
+    "duration": 4590,
+    "offset": 566280,
+    "lang": "es"
+  },
+  {
+    "text": "realidad gamma",
+    "duration": 6730,
+    "offset": 568590,
+    "lang": "es"
+  },
+  {
+    "text": "es un vector que va para que el lado",
+    "duration": 7320,
+    "offset": 570870,
+    "lang": "es"
+  },
+  {
+    "text": "y que la aceleración gamma",
+    "duration": 6500,
+    "offset": 575320,
+    "lang": "es"
+  },
+  {
+    "text": "está así sea que esté está mirando para",
+    "duration": 7190,
+    "offset": 578190,
+    "lang": "es"
+  },
+  {
+    "text": "allá hacia la derecha bien",
+    "duration": 3560,
+    "offset": 581820,
+    "lang": "es"
+  },
+  {
+    "text": "esto está girando hacia la derecha y",
+    "duration": 6271,
+    "offset": 585889,
+    "lang": "es"
+  },
+  {
+    "text": "entonces la aceleración del centro de",
+    "duration": 5010,
+    "offset": 589309,
+    "lang": "es"
+  },
+  {
+    "text": "masa la aceleración del centro de masa",
+    "duration": 4019,
+    "offset": 592160,
+    "lang": "es"
+  },
+  {
+    "text": "va a ser un vector que va a ir para la",
+    "duration": 5180,
+    "offset": 594319,
+    "lang": "es"
+  },
+  {
+    "text": "derecha bien",
+    "duration": 3320,
+    "offset": 596179,
+    "lang": "es"
+  },
+  {
+    "text": "ahora",
+    "duration": 4680,
+    "offset": 599520,
+    "lang": "es"
+  },
+  {
+    "text": "necesito una relación entre gum y la",
+    "duration": 6030,
+    "offset": 601440,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración del centro de masa acá ya sé",
+    "duration": 5340,
+    "offset": 604200,
+    "lang": "es"
+  },
+  {
+    "text": "que gamma y sí que está en el menos ver",
+    "duration": 6270,
+    "offset": 607470,
+    "lang": "es"
+  },
+  {
+    "text": "sort k en realidad esto la fuerza el",
+    "duration": 6630,
+    "offset": 609540,
+    "lang": "es"
+  },
+  {
+    "text": "radio vector está en el más ver son j",
+    "duration": 6300,
+    "offset": 613740,
+    "lang": "es"
+  },
+  {
+    "text": "eso es así por el sistema de referencia",
+    "duration": 7020,
+    "offset": 616170,
+    "lang": "es"
+  },
+  {
+    "text": "y como es que se pone la posición de los",
+    "duration": 5610,
+    "offset": 620040,
+    "lang": "es"
+  },
+  {
+    "text": "rectores y la f por dato está en el",
+    "duration": 4320,
+    "offset": 623190,
+    "lang": "es"
+  },
+  {
+    "text": "sentido del más persona entonces ya sé",
+    "duration": 3930,
+    "offset": 625650,
+    "lang": "es"
+  },
+  {
+    "text": "que vamos a estar el sentido del menos",
+    "duration": 5940,
+    "offset": 627510,
+    "lang": "es"
+  },
+  {
+    "text": "bears orca y ahora que puedo decir puedo",
+    "duration": 6540,
+    "offset": 629580,
+    "lang": "es"
+  },
+  {
+    "text": "decir que la",
+    "duration": 5860,
+    "offset": 633450,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración del centro de masa es igual",
+    "duration": 7350,
+    "offset": 636120,
+    "lang": "es"
+  },
+  {
+    "text": "a la aceleración del psir",
+    "duration": 6370,
+    "offset": 639310,
+    "lang": "es"
+  },
+  {
+    "text": "más",
+    "duration": 2720,
+    "offset": 643470,
+    "lang": "es"
+  },
+  {
+    "text": "e",
+    "duration": 3150,
+    "offset": 645680,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 6089,
+    "offset": 646190,
+    "lang": "es"
+  },
+  {
+    "text": "la esta aceleración",
+    "duration": 5939,
+    "offset": 648830,
+    "lang": "es"
+  },
+  {
+    "text": "acá como era que disciplina vectorial si",
+    "duration": 5801,
+    "offset": 652279,
+    "lang": "es"
+  },
+  {
+    "text": "me puse todo lo que recibe",
+    "duration": 6161,
+    "offset": 654769,
+    "lang": "es"
+  },
+  {
+    "text": "más bueno acá acá es donde en realidad",
+    "duration": 4680,
+    "offset": 658080,
+    "lang": "es"
+  },
+  {
+    "text": "habría que haber hecho bien los pasos",
+    "duration": 4449,
+    "offset": 660930,
+    "lang": "es"
+  },
+  {
+    "text": "pero acá me quedaría más",
+    "duration": 6110,
+    "offset": 662760,
+    "lang": "es"
+  },
+  {
+    "text": "llama vector",
+    "duration": 5961,
+    "offset": 665379,
+    "lang": "es"
+  },
+  {
+    "text": "r",
+    "duration": 7270,
+    "offset": 668870,
+    "lang": "es"
+  },
+  {
+    "text": "si el centro de masa más con el al",
+    "duration": 9010,
+    "offset": 671340,
+    "lang": "es"
+  },
+  {
+    "text": "vector con el vector",
+    "duration": 9060,
+    "offset": 676140,
+    "lang": "es"
+  },
+  {
+    "text": "r si centro de más",
+    "duration": 4850,
+    "offset": 680350,
+    "lang": "es"
+  },
+  {
+    "text": "está esta ecuación vectorial",
+    "duration": 6990,
+    "offset": 686520,
+    "lang": "es"
+  },
+  {
+    "text": "bueno fue la que más costó no sé en tu",
+    "duration": 4721,
+    "offset": 690769,
+    "lang": "es"
+  },
+  {
+    "text": "caso laura cuando lo registre que viste",
+    "duration": 3819,
+    "offset": 693510,
+    "lang": "es"
+  },
+  {
+    "text": "pero qué es lo que pasa",
+    "duration": 3730,
+    "offset": 695490,
+    "lang": "es"
+  },
+  {
+    "text": "había muchos que ponían que esta",
+    "duration": 3360,
+    "offset": 697329,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración del psir",
+    "duration": 3050,
+    "offset": 699220,
+    "lang": "es"
+  },
+  {
+    "text": "valía cero",
+    "duration": 3621,
+    "offset": 700689,
+    "lang": "es"
+  },
+  {
+    "text": "había muchos que ponían que este",
+    "duration": 5250,
+    "offset": 702270,
+    "lang": "es"
+  },
+  {
+    "text": "producto vectorial valía cero",
+    "duration": 6240,
+    "offset": 704310,
+    "lang": "es"
+  },
+  {
+    "text": "había muchos que no ponían esto y ponían",
+    "duration": 5060,
+    "offset": 707520,
+    "lang": "es"
+  },
+  {
+    "text": "que el centro de mancha tenía",
+    "duration": 6690,
+    "offset": 710550,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración normal y había algunos que",
+    "duration": 7020,
+    "offset": 712580,
+    "lang": "es"
+  },
+  {
+    "text": "no ponían esto y ponían que tenía",
+    "duration": 5310,
+    "offset": 717240,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración normal decir y aceleración",
+    "duration": 5100,
+    "offset": 719600,
+    "lang": "es"
+  },
+  {
+    "text": "tangencial el centro de masa en realidad",
+    "duration": 4110,
+    "offset": 722550,
+    "lang": "es"
+  },
+  {
+    "text": "que es lo correcto",
+    "duration": 4500,
+    "offset": 724700,
+    "lang": "es"
+  },
+  {
+    "text": "este valor de acá",
+    "duration": 5480,
+    "offset": 726660,
+    "lang": "es"
+  },
+  {
+    "text": "lo correcto sería haber indicado que",
+    "duration": 6079,
+    "offset": 729200,
+    "lang": "es"
+  },
+  {
+    "text": "este este valor de acá",
+    "duration": 7189,
+    "offset": 732140,
+    "lang": "es"
+  },
+  {
+    "text": "este valor de acá está en el menos verso",
+    "duration": 7980,
+    "offset": 735279,
+    "lang": "es"
+  },
+  {
+    "text": "y este valor de acá es exactamente lo",
+    "duration": 5820,
+    "offset": 739329,
+    "lang": "es"
+  },
+  {
+    "text": "mismo el módulo pero está en el más",
+    "duration": 4731,
+    "offset": 743259,
+    "lang": "es"
+  },
+  {
+    "text": "versión j",
+    "duration": 2841,
+    "offset": 745149,
+    "lang": "es"
+  },
+  {
+    "text": "entonces este y este",
+    "duration": 6580,
+    "offset": 748110,
+    "lang": "es"
+  },
+  {
+    "text": "se anulan pero no es que la aceleración",
+    "duration": 5610,
+    "offset": 751810,
+    "lang": "es"
+  },
+  {
+    "text": "del psir vale cero ni que este término",
+    "duration": 5930,
+    "offset": 754690,
+    "lang": "es"
+  },
+  {
+    "text": "vale cero no no o sea el tema es que",
+    "duration": 6810,
+    "offset": 757420,
+    "lang": "es"
+  },
+  {
+    "text": "éstos están el más grosor jota y estos",
+    "duration": 7860,
+    "offset": 760620,
+    "lang": "es"
+  },
+  {
+    "text": "están en menos versos j entonces como",
+    "duration": 7560,
+    "offset": 764230,
+    "lang": "es"
+  },
+  {
+    "text": "son iguales pero de sentido contrario se",
+    "duration": 4660,
+    "offset": 768480,
+    "lang": "es"
+  },
+  {
+    "text": "anulan",
+    "duration": 4739,
+    "offset": 771790,
+    "lang": "es"
+  },
+  {
+    "text": "y acá me va a quedar que este producto",
+    "duration": 6240,
+    "offset": 773140,
+    "lang": "es"
+  },
+  {
+    "text": "vectorial está acá voy a sacar sabiendo",
+    "duration": 5551,
+    "offset": 776529,
+    "lang": "es"
+  },
+  {
+    "text": "que gamma está en el menorca me va a",
+    "duration": 4210,
+    "offset": 779380,
+    "lang": "es"
+  },
+  {
+    "text": "quedar que",
+    "duration": 5970,
+    "offset": 782080,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración del centro de masa",
+    "duration": 4460,
+    "offset": 783590,
+    "lang": "es"
+  },
+  {
+    "text": "de ahí",
+    "duration": 2900,
+    "offset": 792610,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 3000,
+    "offset": 798339,
+    "lang": "es"
+  },
+  {
+    "text": "no observa",
+    "duration": 2989,
+    "offset": 802100,
+    "lang": "es"
+  },
+  {
+    "text": "con la moral rayo dice",
+    "duration": 4490,
+    "offset": 813570,
+    "lang": "es"
+  },
+  {
+    "text": "y ahora volvemos",
+    "duration": 2840,
+    "offset": 819870,
+    "lang": "es"
+  },
+  {
+    "text": "volvemos al valor del 100% y",
+    "duration": 4909,
+    "offset": 826120,
+    "lang": "es"
+  },
+  {
+    "text": "sólo elegir el lápiz bien entonces acá",
+    "duration": 7159,
+    "offset": 831160,
+    "lang": "es"
+  },
+  {
+    "text": "que me queda me queda que",
+    "duration": 3170,
+    "offset": 835149,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración del centro de masa",
+    "duration": 4490,
+    "offset": 838680,
+    "lang": "es"
+  },
+  {
+    "text": "es igual",
+    "duration": 2930,
+    "offset": 843450,
+    "lang": "es"
+  },
+  {
+    "text": "gamma",
+    "duration": 2750,
+    "offset": 847980,
+    "lang": "es"
+  },
+  {
+    "text": "por r sobre 2",
+    "duration": 5950,
+    "offset": 851180,
+    "lang": "es"
+  },
+  {
+    "text": "y si lo quiero vectorial esto va a estar",
+    "duration": 4560,
+    "offset": 854790,
+    "lang": "es"
+  },
+  {
+    "text": "en el sentido del más ver solís bien",
+    "duration": 4800,
+    "offset": 857130,
+    "lang": "es"
+  },
+  {
+    "text": "acuérdese que este está en el menos",
+    "duration": 4860,
+    "offset": 859350,
+    "lang": "es"
+  },
+  {
+    "text": "versos y esté en el más versión corta",
+    "duration": 6510,
+    "offset": 861930,
+    "lang": "es"
+  },
+  {
+    "text": "bien bien entonces acá ya tengo el valor",
+    "duration": 7400,
+    "offset": 864210,
+    "lang": "es"
+  },
+  {
+    "text": "de la aceleración del centro de masa y",
+    "duration": 5400,
+    "offset": 868440,
+    "lang": "es"
+  },
+  {
+    "text": "tengo la relación entre la aceleración",
+    "duration": 5290,
+    "offset": 871610,
+    "lang": "es"
+  },
+  {
+    "text": "del centro de masa de gamma entonces a",
+    "duration": 4860,
+    "offset": 873840,
+    "lang": "es"
+  },
+  {
+    "text": "partir de eso ya puedo empezar a",
+    "duration": 4850,
+    "offset": 876900,
+    "lang": "es"
+  },
+  {
+    "text": "resolver como acá gamma lo puedo sacar",
+    "duration": 5340,
+    "offset": 878700,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que acá él lo único que no",
+    "duration": 5440,
+    "offset": 881750,
+    "lang": "es"
+  },
+  {
+    "text": "conozco jamás porque r sobre 2 y esperen",
+    "duration": 6180,
+    "offset": 884040,
+    "lang": "es"
+  },
+  {
+    "text": "datos y decir lo puedo calcular por",
+    "duration": 5610,
+    "offset": 887190,
+    "lang": "es"
+  },
+  {
+    "text": "steiner así que acá lo único que me",
+    "duration": 5460,
+    "offset": 890220,
+    "lang": "es"
+  },
+  {
+    "text": "faltaría es gamma entonces con este",
+    "duration": 4890,
+    "offset": 892800,
+    "lang": "es"
+  },
+  {
+    "text": "valor de gamma ya puedo después calcular",
+    "duration": 3780,
+    "offset": 895680,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración del centro de masa y",
+    "duration": 4590,
+    "offset": 897690,
+    "lang": "es"
+  },
+  {
+    "text": "después con ese valor de aceleración del",
+    "duration": 6230,
+    "offset": 899460,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa puedo ir",
+    "duration": 3410,
+    "offset": 902280,
+    "lang": "es"
+  },
+  {
+    "text": "y la ecuación de más arriba",
+    "duration": 4370,
+    "offset": 905850,
+    "lang": "es"
+  },
+  {
+    "text": "fuera de mí",
+    "duration": 2570,
+    "offset": 912150,
+    "lang": "es"
+  },
+  {
+    "text": "con ese el valor del centro de masa voy",
+    "duration": 4141,
+    "offset": 916769,
+    "lang": "es"
+  },
+  {
+    "text": "a la ecuación de más arriba y de acá",
+    "duration": 4921,
+    "offset": 918989,
+    "lang": "es"
+  },
+  {
+    "text": "despejó la fuerza de rozamiento entonces",
+    "duration": 7230,
+    "offset": 920910,
+    "lang": "es"
+  },
+  {
+    "text": "con estas ecuaciones ya tengo la fuerza",
+    "duration": 6840,
+    "offset": 923910,
+    "lang": "es"
+  },
+  {
+    "text": "de rozamiento tengo el valor de gamma y",
+    "duration": 4260,
+    "offset": 928140,
+    "lang": "es"
+  },
+  {
+    "text": "el valor de la aceleración del centro",
+    "duration": 3740,
+    "offset": 930750,
+    "lang": "es"
+  },
+  {
+    "text": "demás",
+    "duration": 6020,
+    "offset": 932400,
+    "lang": "es"
+  },
+  {
+    "text": "entonces ya con esto había resuelta el",
+    "duration": 6150,
+    "offset": 934490,
+    "lang": "es"
+  },
+  {
+    "text": "punto",
+    "duration": 5010,
+    "offset": 938420,
+    "lang": "es"
+  },
+  {
+    "text": "para el que no lo hace vectorial también",
+    "duration": 4470,
+    "offset": 940640,
+    "lang": "es"
+  },
+  {
+    "text": "es válido",
+    "duration": 2690,
+    "offset": 943430,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 4530,
+    "offset": 945110,
+    "lang": "es"
+  },
+  {
+    "text": "dibujarlo usando el triángulo de",
+    "duration": 6550,
+    "offset": 946120,
+    "lang": "es"
+  },
+  {
+    "text": "velocidades yo por ahí a lo mejor lo veo",
+    "duration": 6030,
+    "offset": 949640,
+    "lang": "es"
+  },
+  {
+    "text": "más en el caso de el triángulo de",
+    "duration": 6810,
+    "offset": 952670,
+    "lang": "es"
+  },
+  {
+    "text": "velocidades yo tengo que esto es un",
+    "duration": 5609,
+    "offset": 955670,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento de roto de traslación",
+    "duration": 3870,
+    "offset": 959480,
+    "lang": "es"
+  },
+  {
+    "text": "entonces si es un movimiento de rota",
+    "duration": 4921,
+    "offset": 961279,
+    "lang": "es"
+  },
+  {
+    "text": "traslación quiere decir que es la suma",
+    "duration": 6040,
+    "offset": 963350,
+    "lang": "es"
+  },
+  {
+    "text": "de un movimiento de la rotación",
+    "duration": 6430,
+    "offset": 966200,
+    "lang": "es"
+  },
+  {
+    "text": "más un movimiento de traslación que ha",
+    "duration": 6890,
+    "offset": 969390,
+    "lang": "es"
+  },
+  {
+    "text": "tenido un movimiento de rotación",
+    "duration": 3650,
+    "offset": 972630,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 6510,
+    "offset": 978980,
+    "lang": "es"
+  },
+  {
+    "text": "este para el resultado",
+    "duration": 4580,
+    "offset": 980910,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 3000,
+    "offset": 987339,
+    "lang": "es"
+  },
+  {
+    "text": "acá voy a tener las sumas de un",
+    "duration": 4020,
+    "offset": 993630,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento de rotación más un movimiento",
+    "duration": 3660,
+    "offset": 995640,
+    "lang": "es"
+  },
+  {
+    "text": "de traslación el movimiento de rotación",
+    "duration": 4950,
+    "offset": 997650,
+    "lang": "es"
+  },
+  {
+    "text": "pura si yo supongo que esto está girando",
+    "duration": 5580,
+    "offset": 999300,
+    "lang": "es"
+  },
+  {
+    "text": "con una velocidad o mexicalli en",
+    "duration": 4490,
+    "offset": 1002600,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración gamma hacia la derecha",
+    "duration": 6000,
+    "offset": 1004880,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá voy a tener una velocidad",
+    "duration": 5530,
+    "offset": 1007090,
+    "lang": "es"
+  },
+  {
+    "text": "sí",
+    "duration": 4020,
+    "offset": 1010880,
+    "lang": "es"
+  },
+  {
+    "text": "voy a tener la velocidad en sentido",
+    "duration": 4400,
+    "offset": 1012620,
+    "lang": "es"
+  },
+  {
+    "text": "contrario",
+    "duration": 4520,
+    "offset": 1014900,
+    "lang": "es"
+  },
+  {
+    "text": "bien y voy a tener todos los sectores de",
+    "duration": 3780,
+    "offset": 1017020,
+    "lang": "es"
+  },
+  {
+    "text": "este",
+    "duration": 5470,
+    "offset": 1019420,
+    "lang": "es"
+  },
+  {
+    "text": "ahora en el caso de la traslación pura",
+    "duration": 6940,
+    "offset": 1020800,
+    "lang": "es"
+  },
+  {
+    "text": "voy a tener velocidades todas las",
+    "duration": 5069,
+    "offset": 1024890,
+    "lang": "es"
+  },
+  {
+    "text": "parejas para todos los puntos porque es",
+    "duration": 6420,
+    "offset": 1027740,
+    "lang": "es"
+  },
+  {
+    "text": "traslación bien ahora es lo que sucede",
+    "duration": 6171,
+    "offset": 1029959,
+    "lang": "es"
+  },
+  {
+    "text": "si yo sumo",
+    "duration": 4620,
+    "offset": 1034160,
+    "lang": "es"
+  },
+  {
+    "text": "este movimiento de rotación más este",
+    "duration": 4230,
+    "offset": 1036130,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento de traslación",
+    "duration": 3840,
+    "offset": 1038780,
+    "lang": "es"
+  },
+  {
+    "text": "me va a quedar un triángulo de",
+    "duration": 5700,
+    "offset": 1040360,
+    "lang": "es"
+  },
+  {
+    "text": "velocidades de esta forma",
+    "duration": 3440,
+    "offset": 1042620,
+    "lang": "es"
+  },
+  {
+    "text": "y porque me quedé en el triángulo de",
+    "duration": 4680,
+    "offset": 1046430,
+    "lang": "es"
+  },
+  {
+    "text": "velocidades de esta forma y cuánto vale",
+    "duration": 5690,
+    "offset": 1048080,
+    "lang": "es"
+  },
+  {
+    "text": "cada cosa",
+    "duration": 2660,
+    "offset": 1051110,
+    "lang": "es"
+  },
+  {
+    "text": "si esto está girando a una velocidad o",
+    "duration": 6630,
+    "offset": 1054060,
+    "lang": "es"
+  },
+  {
+    "text": "miga para que yo acá tenga decir si este",
+    "duration": 7050,
+    "offset": 1056370,
+    "lang": "es"
+  },
+  {
+    "text": "vector es menos obliga por r este vector",
+    "duration": 6320,
+    "offset": 1060690,
+    "lang": "es"
+  },
+  {
+    "text": "tiene que ser omega por r",
+    "duration": 5650,
+    "offset": 1063420,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 5190,
+    "offset": 1067010,
+    "lang": "es"
+  },
+  {
+    "text": "entonces si esté acá vale 0 quiere decir",
+    "duration": 5500,
+    "offset": 1069070,
+    "lang": "es"
+  },
+  {
+    "text": "que acá en el centro de masa en una",
+    "duration": 4760,
+    "offset": 1072200,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad",
+    "duration": 2390,
+    "offset": 1074570,
+    "lang": "es"
+  },
+  {
+    "text": "entonces cuando yo sumo estos vectores",
+    "duration": 5430,
+    "offset": 1078600,
+    "lang": "es"
+  },
+  {
+    "text": "de rotación pura más estos vectores de",
+    "duration": 5791,
+    "offset": 1081419,
+    "lang": "es"
+  },
+  {
+    "text": "traslación pura sabiendo que valen acá",
+    "duration": 6389,
+    "offset": 1084030,
+    "lang": "es"
+  },
+  {
+    "text": "más y por el menos obliga por ere y se",
+    "duration": 4890,
+    "offset": 1087210,
+    "lang": "es"
+  },
+  {
+    "text": "van achicando a medida que llegan al",
+    "duration": 3601,
+    "offset": 1090419,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa y que éstos valen todos",
+    "duration": 5640,
+    "offset": 1092100,
+    "lang": "es"
+  },
+  {
+    "text": "obliga por ere me queda acá es ir a",
+    "duration": 5640,
+    "offset": 1094020,
+    "lang": "es"
+  },
+  {
+    "text": "donde tengo pelo se dictan tenía cero",
+    "duration": 4890,
+    "offset": 1097740,
+    "lang": "es"
+  },
+  {
+    "text": "acá el centro de masa a donde tengo",
+    "duration": 5160,
+    "offset": 1099660,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad omega por el rey y acá me",
+    "duration": 4710,
+    "offset": 1102630,
+    "lang": "es"
+  },
+  {
+    "text": "queda nos obliga por r que es el extremo",
+    "duration": 5219,
+    "offset": 1104820,
+    "lang": "es"
+  },
+  {
+    "text": "más alejado del centro de masa y en",
+    "duration": 5250,
+    "offset": 1107340,
+    "lang": "es"
+  },
+  {
+    "text": "realidad a una distancia de cualquiera",
+    "duration": 5101,
+    "offset": 1110039,
+    "lang": "es"
+  },
+  {
+    "text": "ya lo que puedo decir es que la",
+    "duration": 4890,
+    "offset": 1112590,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad tangencial de ese punto d es",
+    "duration": 5930,
+    "offset": 1115140,
+    "lang": "es"
+  },
+  {
+    "text": "igual a omega x",
+    "duration": 6850,
+    "offset": 1117480,
+    "lang": "es"
+  },
+  {
+    "text": "r sí",
+    "duration": 3260,
+    "offset": 1121070,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 5519,
+    "offset": 1126010,
+    "lang": "es"
+  },
+  {
+    "text": "o sea el movimiento derrotó traslación",
+    "duration": 6180,
+    "offset": 1128080,
+    "lang": "es"
+  },
+  {
+    "text": "es como si estuviese haciendo en ese",
+    "duration": 6931,
+    "offset": 1131529,
+    "lang": "es"
+  },
+  {
+    "text": "instante una rotación pura alrededor del",
+    "duration": 5730,
+    "offset": 1134260,
+    "lang": "es"
+  },
+  {
+    "text": "sí",
+    "duration": 4250,
+    "offset": 1138460,
+    "lang": "es"
+  },
+  {
+    "text": "entonces",
+    "duration": 5569,
+    "offset": 1139990,
+    "lang": "es"
+  },
+  {
+    "text": "de acá veo que el psir tiene una",
+    "duration": 6940,
+    "offset": 1142710,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración normal que vale",
+    "duration": 6101,
+    "offset": 1145559,
+    "lang": "es"
+  },
+  {
+    "text": "con mega cuadrado por el re si no",
+    "duration": 4020,
+    "offset": 1149650,
+    "lang": "es"
+  },
+  {
+    "text": "tuviese esa aceleración normal acá no",
+    "duration": 4519,
+    "offset": 1151660,
+    "lang": "es"
+  },
+  {
+    "text": "debería el movimiento de rotación",
+    "duration": 6290,
+    "offset": 1153670,
+    "lang": "es"
+  },
+  {
+    "text": "bien y después la aceleración tangencial",
+    "duration": 7620,
+    "offset": 1156179,
+    "lang": "es"
+  },
+  {
+    "text": "va a ser igual que la velocidad de cada",
+    "duration": 7020,
+    "offset": 1159960,
+    "lang": "es"
+  },
+  {
+    "text": "punto la suma de gamma por la distancia",
+    "duration": 4980,
+    "offset": 1163799,
+    "lang": "es"
+  },
+  {
+    "text": "que le separa decir que es el punto de",
+    "duration": 4740,
+    "offset": 1166980,
+    "lang": "es"
+  },
+  {
+    "text": "respecto del cuadro esta es otra manera",
+    "duration": 6961,
+    "offset": 1168779,
+    "lang": "es"
+  },
+  {
+    "text": "de expresar lo por ahí depende cada uno",
+    "duration": 6569,
+    "offset": 1171720,
+    "lang": "es"
+  },
+  {
+    "text": "lo hace como más éste se siente más",
+    "duration": 5140,
+    "offset": 1175740,
+    "lang": "es"
+  },
+  {
+    "text": "cómodo con mejor le sale",
+    "duration": 5101,
+    "offset": 1178289,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 2510,
+    "offset": 1180880,
+    "lang": "es"
+  },
+  {
+    "text": "y si yo tenía que resolverlo desde esté",
+    "duration": 7680,
+    "offset": 1183760,
+    "lang": "es"
+  },
+  {
+    "text": "utilizando esto en realidad acá",
+    "duration": 6370,
+    "offset": 1187590,
+    "lang": "es"
+  },
+  {
+    "text": "la relación podría escribir directamente",
+    "duration": 5500,
+    "offset": 1191440,
+    "lang": "es"
+  },
+  {
+    "text": "no vectorial la",
+    "duration": 7120,
+    "offset": 1193960,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración del centro de masa",
+    "duration": 4140,
+    "offset": 1196940,
+    "lang": "es"
+  },
+  {
+    "text": "en este caso podría poner que la",
+    "duration": 5340,
+    "offset": 1203100,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración del centro de masa era igual",
+    "duration": 6050,
+    "offset": 1205410,
+    "lang": "es"
+  },
+  {
+    "text": "a rama por r",
+    "duration": 4850,
+    "offset": 1208440,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 4980,
+    "offset": 1211460,
+    "lang": "es"
+  },
+  {
+    "text": "y acá podía aplicar otra vez la famosa",
+    "duration": 5490,
+    "offset": 1213290,
+    "lang": "es"
+  },
+  {
+    "text": "regla del sacacorchos no sé si ustedes",
+    "duration": 4680,
+    "offset": 1216440,
+    "lang": "es"
+  },
+  {
+    "text": "saben la regla del sacacorchos que dice",
+    "duration": 4410,
+    "offset": 1218780,
+    "lang": "es"
+  },
+  {
+    "text": "la regla del sanador",
+    "duration": 5700,
+    "offset": 1221120,
+    "lang": "es"
+  },
+  {
+    "text": "si yo me vuelvo para la izquierda",
+    "duration": 6240,
+    "offset": 1223190,
+    "lang": "es"
+  },
+  {
+    "text": "entonces yo desplazo x hacia y si me",
+    "duration": 4310,
+    "offset": 1226820,
+    "lang": "es"
+  },
+  {
+    "text": "muevo para vestirla",
+    "duration": 5790,
+    "offset": 1229430,
+    "lang": "es"
+  },
+  {
+    "text": "entonces el vector resultante va a ser",
+    "duration": 7360,
+    "offset": 1231130,
+    "lang": "es"
+  },
+  {
+    "text": "saliente si me muevo para la derecha el",
+    "duration": 5690,
+    "offset": 1235220,
+    "lang": "es"
+  },
+  {
+    "text": "vector resultante va a ser entrante",
+    "duration": 5750,
+    "offset": 1238490,
+    "lang": "es"
+  },
+  {
+    "text": "entonces cuando yo tenía",
+    "duration": 8410,
+    "offset": 1240910,
+    "lang": "es"
+  },
+  {
+    "text": "planteado acá el vector éste efe",
+    "duration": 7030,
+    "offset": 1244240,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que si yo decía que el centro",
+    "duration": 4859,
+    "offset": 1249320,
+    "lang": "es"
+  },
+  {
+    "text": "del momento era el circo",
+    "duration": 5970,
+    "offset": 1251270,
+    "lang": "es"
+  },
+  {
+    "text": "y yo mismo vi a decir de efe hacia el",
+    "duration": 6541,
+    "offset": 1254179,
+    "lang": "es"
+  },
+  {
+    "text": "sur este giro que realizaba era un giro",
+    "duration": 5759,
+    "offset": 1257240,
+    "lang": "es"
+  },
+  {
+    "text": "hacia la derecha si era un giro hacia la",
+    "duration": 5730,
+    "offset": 1260720,
+    "lang": "es"
+  },
+  {
+    "text": "derecha quiere decir el torpe resultante",
+    "duration": 6241,
+    "offset": 1262999,
+    "lang": "es"
+  },
+  {
+    "text": "era un torque que tenía sentido entrante",
+    "duration": 6320,
+    "offset": 1266450,
+    "lang": "es"
+  },
+  {
+    "text": "y se tenía sentido entrante era negativo",
+    "duration": 7330,
+    "offset": 1269240,
+    "lang": "es"
+  },
+  {
+    "text": "bien porque era contrario a",
+    "duration": 5320,
+    "offset": 1272770,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 6250,
+    "offset": 1276570,
+    "lang": "es"
+  },
+  {
+    "text": "y ese signo negativo era contrario",
+    "duration": 8240,
+    "offset": 1278090,
+    "lang": "es"
+  },
+  {
+    "text": "al sentido positivo que me daban en el",
+    "duration": 5010,
+    "offset": 1282820,
+    "lang": "es"
+  },
+  {
+    "text": "sistema de referencia de yo había",
+    "duration": 2360,
+    "offset": 1286330,
+    "lang": "es"
+  },
+  {
+    "text": "elegido",
+    "duration": 3780,
+    "offset": 1287830,
+    "lang": "es"
+  },
+  {
+    "text": "ahora qué es lo que pasó el 111 que",
+    "duration": 7180,
+    "offset": 1288690,
+    "lang": "es"
+  },
+  {
+    "text": "ferrari a la el torque era efe - eje",
+    "duration": 6240,
+    "offset": 1291610,
+    "lang": "es"
+  },
+  {
+    "text": "ponerle sobre 2",
+    "duration": 4169,
+    "offset": 1295870,
+    "lang": "es"
+  },
+  {
+    "text": "porque pongo directamente un producto",
+    "duration": 4020,
+    "offset": 1297850,
+    "lang": "es"
+  },
+  {
+    "text": "escalar y porque yo sé que los vectores",
+    "duration": 3721,
+    "offset": 1300039,
+    "lang": "es"
+  },
+  {
+    "text": "son ortogonales y los lectores son",
+    "duration": 4559,
+    "offset": 1301870,
+    "lang": "es"
+  },
+  {
+    "text": "ortogonales siempre es el producto de",
+    "duration": 4470,
+    "offset": 1303760,
+    "lang": "es"
+  },
+  {
+    "text": "los módulos el producto vectorial en",
+    "duration": 3181,
+    "offset": 1306429,
+    "lang": "es"
+  },
+  {
+    "text": "módulos y ahora el producto de los",
+    "duration": 3540,
+    "offset": 1308230,
+    "lang": "es"
+  },
+  {
+    "text": "módulos y una dirección por supuesto la",
+    "duration": 4280,
+    "offset": 1309610,
+    "lang": "es"
+  },
+  {
+    "text": "que yo había sacado con el menos persona",
+    "duration": 6090,
+    "offset": 1311770,
+    "lang": "es"
+  },
+  {
+    "text": "ahora si yo asumía no como antes que no",
+    "duration": 6100,
+    "offset": 1313890,
+    "lang": "es"
+  },
+  {
+    "text": "había subido nada pero ahora asumía que",
+    "duration": 3960,
+    "offset": 1317860,
+    "lang": "es"
+  },
+  {
+    "text": "estaba acelerando se hacia la derecha",
+    "duration": 5189,
+    "offset": 1319990,
+    "lang": "es"
+  },
+  {
+    "text": "entonces de este lama también era",
+    "duration": 5620,
+    "offset": 1321820,
+    "lang": "es"
+  },
+  {
+    "text": "negativo",
+    "duration": 4571,
+    "offset": 1325179,
+    "lang": "es"
+  },
+  {
+    "text": "entonces se iba negativo o negativo y",
+    "duration": 4349,
+    "offset": 1327440,
+    "lang": "es"
+  },
+  {
+    "text": "esto me quedaba positivo y cuando yo",
+    "duration": 5129,
+    "offset": 1329750,
+    "lang": "es"
+  },
+  {
+    "text": "esfuerzo los signos si los resultados me",
+    "duration": 4831,
+    "offset": 1331789,
+    "lang": "es"
+  },
+  {
+    "text": "van dando positivos quiere decir que",
+    "duration": 3871,
+    "offset": 1334879,
+    "lang": "es"
+  },
+  {
+    "text": "está bien o sea ya casa acabe le ama y",
+    "duration": 6269,
+    "offset": 1336620,
+    "lang": "es"
+  },
+  {
+    "text": "después de acá y de esta relación ya",
+    "duration": 6570,
+    "offset": 1338750,
+    "lang": "es"
+  },
+  {
+    "text": "tenía todo para hallar las incógnitas y",
+    "duration": 4231,
+    "offset": 1342889,
+    "lang": "es"
+  },
+  {
+    "text": "después bueno por supuesto igual que en",
+    "duration": 3719,
+    "offset": 1345320,
+    "lang": "es"
+  },
+  {
+    "text": "el caso anterior la fuerza de rozamiento",
+    "duration": 5279,
+    "offset": 1347120,
+    "lang": "es"
+  },
+  {
+    "text": "- la fuerza f es igual a la masa por la",
+    "duration": 5880,
+    "offset": 1349039,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración del centro de masa que como",
+    "duration": 4591,
+    "offset": 1352399,
+    "lang": "es"
+  },
+  {
+    "text": "yo había supuesto que en la aceleración",
+    "duration": 4441,
+    "offset": 1354919,
+    "lang": "es"
+  },
+  {
+    "text": "del centro de masa era para allá este",
+    "duration": 5039,
+    "offset": 1356990,
+    "lang": "es"
+  },
+  {
+    "text": "método lo supongo también ahora positivo",
+    "duration": 5390,
+    "offset": 1359360,
+    "lang": "es"
+  },
+  {
+    "text": "me daba todo positivo",
+    "duration": 5331,
+    "offset": 1362029,
+    "lang": "es"
+  },
+  {
+    "text": "y así salía este es el otro el otro",
+    "duration": 4860,
+    "offset": 1364750,
+    "lang": "es"
+  },
+  {
+    "text": "enfoque o lo hago desde el punto de",
+    "duration": 6390,
+    "offset": 1367360,
+    "lang": "es"
+  },
+  {
+    "text": "vista vectorial o lo hago utilizando el",
+    "duration": 6420,
+    "offset": 1369610,
+    "lang": "es"
+  },
+  {
+    "text": "triángulo de velocidades dibujo este",
+    "duration": 3870,
+    "offset": 1373750,
+    "lang": "es"
+  },
+  {
+    "text": "justificó a partir de un triángulo de",
+    "duration": 4380,
+    "offset": 1376030,
+    "lang": "es"
+  },
+  {
+    "text": "velocidades las aceleraciones y las",
+    "duration": 5970,
+    "offset": 1377620,
+    "lang": "es"
+  },
+  {
+    "text": "velocidades y en cualquiera de las dos",
+    "duration": 7410,
+    "offset": 1380410,
+    "lang": "es"
+  },
+  {
+    "text": "está bien que ustedes usan las que con",
+    "duration": 5610,
+    "offset": 1383590,
+    "lang": "es"
+  },
+  {
+    "text": "la que más practicaron con las",
+    "duration": 2880,
+    "offset": 1387820,
+    "lang": "es"
+  },
+  {
+    "text": "pendientes más cómodo con la que mejor",
+    "duration": 4130,
+    "offset": 1389200,
+    "lang": "es"
+  },
+  {
+    "text": "le sale bien",
+    "duration": 7550,
+    "offset": 1390700,
+    "lang": "es"
+  },
+  {
+    "text": "ahora el punto b decía que",
+    "duration": 8640,
+    "offset": 1393330,
+    "lang": "es"
+  },
+  {
+    "text": "empleando consideraciones energéticas a",
+    "duration": 6080,
+    "offset": 1398250,
+    "lang": "es"
+  },
+  {
+    "text": "partir del trabajo de las fuerzas",
+    "duration": 4980,
+    "offset": 1401970,
+    "lang": "es"
+  },
+  {
+    "text": "hallar la energía mecánica del cuerpo",
+    "duration": 4270,
+    "offset": 1404330,
+    "lang": "es"
+  },
+  {
+    "text": "rígido la velocidad angular y la",
+    "duration": 3240,
+    "offset": 1406950,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad del centro de masa cuando el",
+    "duration": 3240,
+    "offset": 1408600,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo rígido",
+    "duration": 4350,
+    "offset": 1410190,
+    "lang": "es"
+  },
+  {
+    "text": "haya dado dos vueltas completas bueno a",
+    "duration": 4610,
+    "offset": 1411840,
+    "lang": "es"
+  },
+  {
+    "text": "caer a dos vueltas a una vuelta",
+    "duration": 5120,
+    "offset": 1414540,
+    "lang": "es"
+  },
+  {
+    "text": "dependiendo de",
+    "duration": 3210,
+    "offset": 1416450,
+    "lang": "es"
+  },
+  {
+    "text": "cuál era el problema que les había",
+    "duration": 6390,
+    "offset": 1419900,
+    "lang": "es"
+  },
+  {
+    "text": "tocado si era la esfera si bien entonces",
+    "duration": 7020,
+    "offset": 1421670,
+    "lang": "es"
+  },
+  {
+    "text": "acá",
+    "duration": 7489,
+    "offset": 1426290,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a volver a dibujar este esto",
+    "duration": 7839,
+    "offset": 1428690,
+    "lang": "es"
+  },
+  {
+    "text": "para ver",
+    "duration": 2750,
+    "offset": 1433779,
+    "lang": "es"
+  },
+  {
+    "text": "en esto también en esto se construyeron",
+    "duration": 4620,
+    "offset": 1436559,
+    "lang": "es"
+  },
+  {
+    "text": "casi todos los que corregí se",
+    "duration": 4110,
+    "offset": 1438960,
+    "lang": "es"
+  },
+  {
+    "text": "confundieron",
+    "duration": 4730,
+    "offset": 1441179,
+    "lang": "es"
+  },
+  {
+    "text": "pero bueno",
+    "duration": 2839,
+    "offset": 1443070,
+    "lang": "es"
+  },
+  {
+    "text": "ahora sí",
+    "duration": 2840,
+    "offset": 1448690,
+    "lang": "es"
+  },
+  {
+    "text": "y entonces yo tenía acá la fuerza",
+    "duration": 5300,
+    "offset": 1455230,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a dibujarlo a través por los",
+    "duration": 4069,
+    "offset": 1462470,
+    "lang": "es"
+  },
+  {
+    "text": "libros",
+    "duration": 2419,
+    "offset": 1464120,
+    "lang": "es"
+  },
+  {
+    "text": "bien acá tengo puesta la forsythe y lo",
+    "duration": 5790,
+    "offset": 1467900,
+    "lang": "es"
+  },
+  {
+    "text": "que me dice es que el cuerpo",
+    "duration": 6030,
+    "offset": 1470690,
+    "lang": "es"
+  },
+  {
+    "text": "recorrió una distancia de equipo delta",
+    "duration": 6979,
+    "offset": 1473690,
+    "lang": "es"
+  },
+  {
+    "text": "pongámosle una distancia d",
+    "duration": 6939,
+    "offset": 1476720,
+    "lang": "es"
+  },
+  {
+    "text": "del recorrido",
+    "duration": 2990,
+    "offset": 1480669,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá tengo la fuerza f y lo que",
+    "duration": 5970,
+    "offset": 1483720,
+    "lang": "es"
+  },
+  {
+    "text": "me dice es que si el cuerpo recorrió una",
+    "duration": 6059,
+    "offset": 1486750,
+    "lang": "es"
+  },
+  {
+    "text": "distancia de lo que me está diciendo es",
+    "duration": 5430,
+    "offset": 1489690,
+    "lang": "es"
+  },
+  {
+    "text": "que el por el que recorrió una distancia",
+    "duration": 7941,
+    "offset": 1492809,
+    "lang": "es"
+  },
+  {
+    "text": "de es el centro de masa bien",
+    "duration": 5630,
+    "offset": 1495120,
+    "lang": "es"
+  },
+  {
+    "text": "ahora",
+    "duration": 2720,
+    "offset": 1502540,
+    "lang": "es"
+  },
+  {
+    "text": "qué es lo que puedo decir acá la energía",
+    "duration": 5369,
+    "offset": 1505440,
+    "lang": "es"
+  },
+  {
+    "text": "esté como este cuerpo está siempre al",
+    "duration": 5241,
+    "offset": 1507629,
+    "lang": "es"
+  },
+  {
+    "text": "mismo nivel no hay energía potencial",
+    "duration": 4110,
+    "offset": 1510809,
+    "lang": "es"
+  },
+  {
+    "text": "gravitatoria lo único que voy a tener",
+    "duration": 5799,
+    "offset": 1512870,
+    "lang": "es"
+  },
+  {
+    "text": "esa energía cinética y la variación de",
+    "duration": 6600,
+    "offset": 1514919,
+    "lang": "es"
+  },
+  {
+    "text": "energía cinética va a ser igual al",
+    "duration": 8041,
+    "offset": 1518669,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo de las fuerzas no conservativa",
+    "duration": 7061,
+    "offset": 1521519,
+    "lang": "es"
+  },
+  {
+    "text": "ahora",
+    "duration": 4689,
+    "offset": 1526710,
+    "lang": "es"
+  },
+  {
+    "text": "si yo considero solamente el centro",
+    "duration": 6510,
+    "offset": 1528580,
+    "lang": "es"
+  },
+  {
+    "text": "instantáneo de perdón de rotación como",
+    "duration": 5781,
+    "offset": 1531399,
+    "lang": "es"
+  },
+  {
+    "text": "este",
+    "duration": 3920,
+    "offset": 1535090,
+    "lang": "es"
+  },
+  {
+    "text": "el momento de dinero hacia el respecto",
+    "duration": 4170,
+    "offset": 1537180,
+    "lang": "es"
+  },
+  {
+    "text": "haciéndoles notario de rotación",
+    "duration": 3990,
+    "offset": 1539010,
+    "lang": "es"
+  },
+  {
+    "text": "yo puedo considerar que sólo va a tener",
+    "duration": 4919,
+    "offset": 1541350,
+    "lang": "es"
+  },
+  {
+    "text": "energía cinética de rotación",
+    "duration": 5279,
+    "offset": 1543000,
+    "lang": "es"
+  },
+  {
+    "text": "y cuánto vale el trabajo de esta fuerza",
+    "duration": 6261,
+    "offset": 1546269,
+    "lang": "es"
+  },
+  {
+    "text": "bien ahí es donde se confundían todos",
+    "duration": 7391,
+    "offset": 1548279,
+    "lang": "es"
+  },
+  {
+    "text": "si el centro de masa",
+    "duration": 7249,
+    "offset": 1552530,
+    "lang": "es"
+  },
+  {
+    "text": "recorre una distancia de",
+    "duration": 7049,
+    "offset": 1555670,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a decir una estancia x del centro",
+    "duration": 4740,
+    "offset": 1559779,
+    "lang": "es"
+  },
+  {
+    "text": "de masaje",
+    "duration": 3630,
+    "offset": 1562719,
+    "lang": "es"
+  },
+  {
+    "text": "esa distancia que es el centro de masa",
+    "duration": 5961,
+    "offset": 1564519,
+    "lang": "es"
+  },
+  {
+    "text": "la puede escribir como ángulo",
+    "duration": 8131,
+    "offset": 1566349,
+    "lang": "es"
+  },
+  {
+    "text": "por el radio bien por el radio",
+    "duration": 5760,
+    "offset": 1570480,
+    "lang": "es"
+  },
+  {
+    "text": "el el único",
+    "duration": 3949,
+    "offset": 1574480,
+    "lang": "es"
+  },
+  {
+    "text": "el radio que si estoy en el centro de",
+    "duration": 6330,
+    "offset": 1576240,
+    "lang": "es"
+  },
+  {
+    "text": "masa el radio barrido es el largo",
+    "duration": 8501,
+    "offset": 1578429,
+    "lang": "es"
+  },
+  {
+    "text": "barrido que corresponde al radio bien",
+    "duration": 6940,
+    "offset": 1582570,
+    "lang": "es"
+  },
+  {
+    "text": "ahora si yo estoy vamos a llamarle a",
+    "duration": 5570,
+    "offset": 1586930,
+    "lang": "es"
+  },
+  {
+    "text": "este punto p",
+    "duration": 2990,
+    "offset": 1589510,
+    "lang": "es"
+  },
+  {
+    "text": "si yo hablo de la distancia de ese punto",
+    "duration": 4810,
+    "offset": 1592950,
+    "lang": "es"
+  },
+  {
+    "text": "a p",
+    "duration": 5411,
+    "offset": 1595799,
+    "lang": "es"
+  },
+  {
+    "text": "siempre la distancia recorrida es arco",
+    "duration": 6210,
+    "offset": 1597760,
+    "lang": "es"
+  },
+  {
+    "text": "por radio la distancia recorrida es de",
+    "duration": 7170,
+    "offset": 1601210,
+    "lang": "es"
+  },
+  {
+    "text": "trata por r sobre dos porque el radio",
+    "duration": 7290,
+    "offset": 1603970,
+    "lang": "es"
+  },
+  {
+    "text": "del punto p es la mitad del radio del",
+    "duration": 6180,
+    "offset": 1608380,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masas ya el lugar a donde está",
+    "duration": 5880,
+    "offset": 1611260,
+    "lang": "es"
+  },
+  {
+    "text": "apoyando donde se está desarrollando el",
+    "duration": 6150,
+    "offset": 1614560,
+    "lang": "es"
+  },
+  {
+    "text": "cilindro bien entonces acá puedo",
+    "duration": 6570,
+    "offset": 1617140,
+    "lang": "es"
+  },
+  {
+    "text": "despejar en ambos casos",
+    "duration": 6030,
+    "offset": 1620710,
+    "lang": "es"
+  },
+  {
+    "text": "diferencial cita y si despertó en ambos",
+    "duration": 4770,
+    "offset": 1623710,
+    "lang": "es"
+  },
+  {
+    "text": "casos de diferencial pista puede",
+    "duration": 4300,
+    "offset": 1626740,
+    "lang": "es"
+  },
+  {
+    "text": "escribir que d",
+    "duration": 5320,
+    "offset": 1628480,
+    "lang": "es"
+  },
+  {
+    "text": "diferencial de centro de masa es 1 a la",
+    "duration": 7200,
+    "offset": 1631040,
+    "lang": "es"
+  },
+  {
+    "text": "2 por diferencial x el punto p o sea que",
+    "duration": 8220,
+    "offset": 1633800,
+    "lang": "es"
+  },
+  {
+    "text": "el diferencial x del punto p es igual al",
+    "duration": 9080,
+    "offset": 1638240,
+    "lang": "es"
+  },
+  {
+    "text": "diferencial x del centro de masa sobre 2",
+    "duration": 8140,
+    "offset": 1642020,
+    "lang": "es"
+  },
+  {
+    "text": "o sea que",
+    "duration": 2840,
+    "offset": 1647320,
+    "lang": "es"
+  },
+  {
+    "text": "si el centro de masa",
+    "duration": 3830,
+    "offset": 1655000,
+    "lang": "es"
+  },
+  {
+    "text": "recorrió una distancia de",
+    "duration": 8370,
+    "offset": 1660780,
+    "lang": "es"
+  },
+  {
+    "text": "nx del centro de masa es igual a de el x",
+    "duration": 9700,
+    "offset": 1664130,
+    "lang": "es"
+  },
+  {
+    "text": "del punto que es igual a d sobre 2 o sea",
+    "duration": 9720,
+    "offset": 1669150,
+    "lang": "es"
+  },
+  {
+    "text": "que el trabajo de la fuerza efe es igual",
+    "duration": 8370,
+    "offset": 1673830,
+    "lang": "es"
+  },
+  {
+    "text": "la integral en la curva se de ese",
+    "duration": 7290,
+    "offset": 1678870,
+    "lang": "es"
+  },
+  {
+    "text": "producto escalar un diferencial de red y",
+    "duration": 5850,
+    "offset": 1682200,
+    "lang": "es"
+  },
+  {
+    "text": "esto me va a quedar que va a ser en",
+    "duration": 7470,
+    "offset": 1686160,
+    "lang": "es"
+  },
+  {
+    "text": "definitiva a efe por d sobre dos bien y",
+    "duration": 9240,
+    "offset": 1688050,
+    "lang": "es"
+  },
+  {
+    "text": "esto lo igualó por ejemplo a un medio de",
+    "duration": 9350,
+    "offset": 1693630,
+    "lang": "es"
+  },
+  {
+    "text": "y respecto al psir por omega cuadrado",
+    "duration": 8050,
+    "offset": 1697290,
+    "lang": "es"
+  },
+  {
+    "text": "y de ahí tengo de",
+    "duration": 4470,
+    "offset": 1702980,
+    "lang": "es"
+  },
+  {
+    "text": "obviamente resolviendo esto tengo el",
+    "duration": 3670,
+    "offset": 1705340,
+    "lang": "es"
+  },
+  {
+    "text": "valor de la energía cinética y",
+    "duration": 5820,
+    "offset": 1707450,
+    "lang": "es"
+  },
+  {
+    "text": "despejando mega tengo el valor de él el",
+    "duration": 7370,
+    "offset": 1709010,
+    "lang": "es"
+  },
+  {
+    "text": "omega bien",
+    "duration": 3110,
+    "offset": 1713270,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 2940,
+    "offset": 1718390,
+    "lang": "es"
+  },
+  {
+    "text": "[Música]",
+    "duration": 5360,
+    "offset": 1718970,
+    "lang": "es"
+  },
+  {
+    "text": "y",
+    "duration": 3000,
+    "offset": 1721330,
+    "lang": "es"
+  },
+  {
+    "text": "esa parte en esta parte al menos los que",
+    "duration": 5280,
+    "offset": 1726950,
+    "lang": "es"
+  },
+  {
+    "text": "me tocó corregir a mí no lo hizo nadie",
+    "duration": 4521,
+    "offset": 1729919,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 3980,
+    "offset": 1732230,
+    "lang": "es"
+  },
+  {
+    "text": "no sé si no será el caso de los",
+    "duration": 3770,
+    "offset": 1734440,
+    "lang": "es"
+  },
+  {
+    "text": "presentes pero bien",
+    "duration": 5730,
+    "offset": 1736210,
+    "lang": "es"
+  },
+  {
+    "text": "entonces que era lo que pedía caer a la",
+    "duration": 5919,
+    "offset": 1738210,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad mudar la velación centro de",
+    "duration": 4179,
+    "offset": 1741940,
+    "lang": "es"
+  },
+  {
+    "text": "masa",
+    "duration": 3760,
+    "offset": 1744129,
+    "lang": "es"
+  },
+  {
+    "text": "alves y angular la diversidad de idiomas",
+    "duration": 4470,
+    "offset": 1746119,
+    "lang": "es"
+  },
+  {
+    "text": "y la energía bueno no sé anular",
+    "duration": 5640,
+    "offset": 1747889,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad el centro de masa es amiga por",
+    "duration": 4920,
+    "offset": 1750589,
+    "lang": "es"
+  },
+  {
+    "text": "r porque ruedas sin deslizarse a una vez",
+    "duration": 4410,
+    "offset": 1753529,
+    "lang": "es"
+  },
+  {
+    "text": "que tengo esto ya está ahora quiera lo",
+    "duration": 4290,
+    "offset": 1755509,
+    "lang": "es"
+  },
+  {
+    "text": "que vi que muchos habían hecho mal",
+    "duration": 4680,
+    "offset": 1757939,
+    "lang": "es"
+  },
+  {
+    "text": "aparte de haber puesto que esto era la",
+    "duration": 5510,
+    "offset": 1759799,
+    "lang": "es"
+  },
+  {
+    "text": "mitad de la distancia",
+    "duration": 2690,
+    "offset": 1762619,
+    "lang": "es"
+  },
+  {
+    "text": "e",
+    "duration": 6380,
+    "offset": 1765450,
+    "lang": "es"
+  },
+  {
+    "text": "habían dicho que el trabajo esté efe",
+    "duration": 8841,
+    "offset": 1767389,
+    "lang": "es"
+  },
+  {
+    "text": "borde sobre dos era igual",
+    "duration": 4400,
+    "offset": 1771830,
+    "lang": "es"
+  },
+  {
+    "text": "un medio de la masa por la velocidad el",
+    "duration": 4850,
+    "offset": 1776540,
+    "lang": "es"
+  },
+  {
+    "text": "centro más al cuadrado esto está mal",
+    "duration": 5040,
+    "offset": 1779510,
+    "lang": "es"
+  },
+  {
+    "text": "porque porque esto está diciendo esto",
+    "duration": 5140,
+    "offset": 1781390,
+    "lang": "es"
+  },
+  {
+    "text": "así está diciendo que sólo tiene energía",
+    "duration": 4160,
+    "offset": 1784550,
+    "lang": "es"
+  },
+  {
+    "text": "cinética de rotación",
+    "duration": 4940,
+    "offset": 1786530,
+    "lang": "es"
+  },
+  {
+    "text": "y el cuerpo también tiene energía",
+    "duration": 6180,
+    "offset": 1788710,
+    "lang": "es"
+  },
+  {
+    "text": "significa de perdón solo de traslación y",
+    "duration": 5670,
+    "offset": 1791470,
+    "lang": "es"
+  },
+  {
+    "text": "tiene también energía cinética de",
+    "duration": 5970,
+    "offset": 1794890,
+    "lang": "es"
+  },
+  {
+    "text": "rotación o sea que oponían este término",
+    "duration": 5460,
+    "offset": 1797140,
+    "lang": "es"
+  },
+  {
+    "text": "a donde se sumaba la velocidad del",
+    "duration": 4590,
+    "offset": 1800860,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa con él o medida y el",
+    "duration": 4590,
+    "offset": 1802600,
+    "lang": "es"
+  },
+  {
+    "text": "momento diversidad respecto al centro de",
+    "duration": 3660,
+    "offset": 1805450,
+    "lang": "es"
+  },
+  {
+    "text": "masa o ponía en el momento inercial",
+    "duration": 3980,
+    "offset": 1807190,
+    "lang": "es"
+  },
+  {
+    "text": "respecto al psir",
+    "duration": 5720,
+    "offset": 1809110,
+    "lang": "es"
+  },
+  {
+    "text": "y solo se quedaban con hilo amigas bien",
+    "duration": 6720,
+    "offset": 1811170,
+    "lang": "es"
+  },
+  {
+    "text": "o sea no podían poner solamente este",
+    "duration": 5040,
+    "offset": 1814830,
+    "lang": "es"
+  },
+  {
+    "text": "término porque eso está mal porque",
+    "duration": 3870,
+    "offset": 1817890,
+    "lang": "es"
+  },
+  {
+    "text": "también tiene energía cinética de",
+    "duration": 4890,
+    "offset": 1819870,
+    "lang": "es"
+  },
+  {
+    "text": "rotación ni podían poner fuerza por",
+    "duration": 4620,
+    "offset": 1821760,
+    "lang": "es"
+  },
+  {
+    "text": "distancia también está mal porque la",
+    "duration": 3900,
+    "offset": 1824760,
+    "lang": "es"
+  },
+  {
+    "text": "distancia que recorre la fuerza de no es",
+    "duration": 4500,
+    "offset": 1826380,
+    "lang": "es"
+  },
+  {
+    "text": "la misma distancia de recorría el centro",
+    "duration": 4220,
+    "offset": 1828660,
+    "lang": "es"
+  },
+  {
+    "text": "demasiado bien",
+    "duration": 8110,
+    "offset": 1830880,
+    "lang": "es"
+  },
+  {
+    "text": "bueno y ahora ya estamos casi terminando",
+    "duration": 8870,
+    "offset": 1832880,
+    "lang": "es"
+  },
+  {
+    "text": "faltaba la última parte que la última",
+    "duration": 5189,
+    "offset": 1838990,
+    "lang": "es"
+  },
+  {
+    "text": "parte me decía calcular la velocidad del",
+    "duration": 4110,
+    "offset": 1841750,
+    "lang": "es"
+  },
+  {
+    "text": "punto del cuerpo rígido donde está",
+    "duration": 5071,
+    "offset": 1844179,
+    "lang": "es"
+  },
+  {
+    "text": "aplicada la fuerza horizontal efe cuando",
+    "duration": 5130,
+    "offset": 1845860,
+    "lang": "es"
+  },
+  {
+    "text": "hayan transcurrido y un cierto tiempo",
+    "duration": 6270,
+    "offset": 1849250,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo t bien",
+    "duration": 8880,
+    "offset": 1850990,
+    "lang": "es"
+  },
+  {
+    "text": "entonces como lo hacíamos este",
+    "duration": 4350,
+    "offset": 1855520,
+    "lang": "es"
+  },
+  {
+    "text": "yo sé por qué lo había calculado en el",
+    "duration": 6090,
+    "offset": 1862179,
+    "lang": "es"
+  },
+  {
+    "text": "punto a que esa fuerza se daba una",
+    "duration": 7350,
+    "offset": 1864730,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración gamma era constante y",
+    "duration": 6000,
+    "offset": 1868269,
+    "lang": "es"
+  },
+  {
+    "text": "también sé que partía del reposo pero",
+    "duration": 4140,
+    "offset": 1872080,
+    "lang": "es"
+  },
+  {
+    "text": "bien si lo hubiese sabido que partía del",
+    "duration": 5061,
+    "offset": 1874269,
+    "lang": "es"
+  },
+  {
+    "text": "reposo igual podía escribir que",
+    "duration": 5990,
+    "offset": 1876220,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración de perdón la velocidad",
+    "duration": 7250,
+    "offset": 1879330,
+    "lang": "es"
+  },
+  {
+    "text": "obliga es igual a obliga 0 +",
+    "duration": 7490,
+    "offset": 1882210,
+    "lang": "es"
+  },
+  {
+    "text": "por ti bien",
+    "duration": 5819,
+    "offset": 1886580,
+    "lang": "es"
+  },
+  {
+    "text": "y éste te era igual al tiempo que me",
+    "duration": 5459,
+    "offset": 1889700,
+    "lang": "es"
+  },
+  {
+    "text": "daban 234 segundos importa y una vez que",
+    "duration": 5581,
+    "offset": 1892399,
+    "lang": "es"
+  },
+  {
+    "text": "tenía esta velocidad amiga yo sé que la",
+    "duration": 5031,
+    "offset": 1895159,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad del punto",
+    "duration": 5829,
+    "offset": 1897980,
+    "lang": "es"
+  },
+  {
+    "text": "otra vez a este gráfico",
+    "duration": 3619,
+    "offset": 1900190,
+    "lang": "es"
+  },
+  {
+    "text": "acá tenía la fuerza f esta fuerza f",
+    "duration": 6771,
+    "offset": 1904429,
+    "lang": "es"
+  },
+  {
+    "text": "estaba a una distancia",
+    "duration": 7220,
+    "offset": 1908179,
+    "lang": "es"
+  },
+  {
+    "text": "de resolver 2 entonces esta distancia",
+    "duration": 8040,
+    "offset": 1911200,
+    "lang": "es"
+  },
+  {
+    "text": "acá también varía y resolvé 2",
+    "duration": 6511,
+    "offset": 1915399,
+    "lang": "es"
+  },
+  {
+    "text": "como yo considero que está haciendo una",
+    "duration": 5760,
+    "offset": 1919240,
+    "lang": "es"
+  },
+  {
+    "text": "rotación pura alrededor de decir esta",
+    "duration": 6210,
+    "offset": 1921910,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad acá va a ser igual la",
+    "duration": 5400,
+    "offset": 1925000,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad del punto p",
+    "duration": 5850,
+    "offset": 1928120,
+    "lang": "es"
+  },
+  {
+    "text": "en ese instante t igual te quedaba es",
+    "duration": 6170,
+    "offset": 1930400,
+    "lang": "es"
+  },
+  {
+    "text": "igual a",
+    "duration": 7160,
+    "offset": 1933970,
+    "lang": "es"
+  },
+  {
+    "text": "omega por terry sobre 2 y este era el",
+    "duration": 7060,
+    "offset": 1936570,
+    "lang": "es"
+  },
+  {
+    "text": "resultado",
+    "duration": 5740,
+    "offset": 1941130,
+    "lang": "es"
+  },
+  {
+    "text": "a dónde se llama era el gama del mundo",
+    "duration": 5870,
+    "offset": 1943630,
+    "lang": "es"
+  },
+  {
+    "text": "bien",
+    "duration": 2630,
+    "offset": 1946870,
+    "lang": "es"
+  },
+  {
+    "text": "bien y es el resultado y así termina el",
+    "duration": 6021,
+    "offset": 1951049,
+    "lang": "es"
+  },
+  {
+    "text": "parcial",
+    "duration": 2480,
+    "offset": 1954590,
+    "lang": "es"
+  },
+  {
+    "text": "no sé si deberías agregar algo",
+    "duration": 4610,
+    "offset": 1959130,
+    "lang": "es"
+  },
+  {
+    "text": "no",
+    "duration": 5150,
+    "offset": 1962580,
+    "lang": "es"
+  },
+  {
+    "text": "es una cosa",
+    "duration": 3990,
+    "offset": 1963740,
+    "lang": "es"
+  },
+  {
+    "text": "los vínculos que muchos se equivocaron",
+    "duration": 4200,
+    "offset": 1969420,
+    "lang": "es"
+  },
+  {
+    "text": "con el tema siguiendo las",
+    "duration": 2840,
+    "offset": 1972150,
+    "lang": "es"
+  },
+  {
+    "text": "justificaciones",
+    "duration": 4920,
+    "offset": 1973620,
+    "lang": "es"
+  },
+  {
+    "text": "y una de las cosas que me pasó es que",
+    "duration": 5560,
+    "offset": 1974990,
+    "lang": "es"
+  },
+  {
+    "text": "interpretaron más la fuerza de",
+    "duration": 3720,
+    "offset": 1978540,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento con capas que les daban",
+    "duration": 2450,
+    "offset": 1980550,
+    "lang": "es"
+  },
+  {
+    "text": "negativo",
+    "duration": 4950,
+    "offset": 1982260,
+    "lang": "es"
+  },
+  {
+    "text": "perdón les daba positivo y la escribían",
+    "duration": 5130,
+    "offset": 1983000,
+    "lang": "es"
+  },
+  {
+    "text": "mal",
+    "duration": 4760,
+    "offset": 1987210,
+    "lang": "es"
+  },
+  {
+    "text": "cuando según el sistema",
+    "duration": 3840,
+    "offset": 1988130,
+    "lang": "es"
+  }
+]

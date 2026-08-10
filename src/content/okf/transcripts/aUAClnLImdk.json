@@ -1,0 +1,968 @@
+[
+  {
+    "text": "Hola, hoy nos metemos en un tema que,",
+    "duration": 4719,
+    "offset": 80,
+    "lang": "es"
+  },
+  {
+    "text": "bueno, suena complicado, pero es",
+    "duration": 4959,
+    "offset": 2800,
+    "lang": "es"
+  },
+  {
+    "text": "superútil. Los sistemas de partículas.",
+    "duration": 6920,
+    "offset": 4799,
+    "lang": "es"
+  },
+  {
+    "text": "Imaginen e no sé, los planetas girando o",
+    "duration": 6441,
+    "offset": 7759,
+    "lang": "es"
+  },
+  {
+    "text": "las moléculas en un gas, muchas cosas",
+    "duration": 4640,
+    "offset": 11719,
+    "lang": "es"
+  },
+  {
+    "text": "interactuando. Tenemos aquí unos apuntes",
+    "duration": 4640,
+    "offset": 14200,
+    "lang": "es"
+  },
+  {
+    "text": "de física que la verdad lo explican",
+    "duration": 5641,
+    "offset": 16359,
+    "lang": "es"
+  },
+  {
+    "text": "bastante bien. Nuestra idea es sacar lo",
+    "duration": 5439,
+    "offset": 18840,
+    "lang": "es"
+  },
+  {
+    "text": "esencial, ¿no? Entender cómo se comporta",
+    "duration": 3119,
+    "offset": 22000,
+    "lang": "es"
+  },
+  {
+    "text": "el grupo.",
+    "duration": 3641,
+    "offset": 24279,
+    "lang": "es"
+  },
+  {
+    "text": "Exacto. La idea es pasar de describir",
+    "duration": 5160,
+    "offset": 25119,
+    "lang": "es"
+  },
+  {
+    "text": "una sola partícula, que ya sabemos a",
+    "duration": 4359,
+    "offset": 27920,
+    "lang": "es"
+  },
+  {
+    "text": "entender la dinámica de un montón de",
+    "duration": 3921,
+    "offset": 30279,
+    "lang": "es"
+  },
+  {
+    "text": "ellas juntas. Y vamos a ver que hay",
+    "duration": 3841,
+    "offset": 32279,
+    "lang": "es"
+  },
+  {
+    "text": "herramientas como el centro de masa que",
+    "duration": 3879,
+    "offset": 34200,
+    "lang": "es"
+  },
+  {
+    "text": "nos facilitan muchísimo la vida.",
+    "duration": 4119,
+    "offset": 36120,
+    "lang": "es"
+  },
+  {
+    "text": "Eso suena bien, eso de facilitar. A ver,",
+    "duration": 4721,
+    "offset": 38079,
+    "lang": "es"
+  },
+  {
+    "text": "empecemos por lo básico. Un sistema de",
+    "duration": 4721,
+    "offset": 40239,
+    "lang": "es"
+  },
+  {
+    "text": "partículas, pues es eso, ¿no? Una",
+    "duration": 4919,
+    "offset": 42800,
+    "lang": "es"
+  },
+  {
+    "text": "colección de masas. Y has mencionado el",
+    "duration": 5160,
+    "offset": 44960,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa, el CM, que es",
+    "duration": 4320,
+    "offset": 47719,
+    "lang": "es"
+  },
+  {
+    "text": "exactamente una especie promedio.",
+    "duration": 5400,
+    "offset": 50120,
+    "lang": "es"
+  },
+  {
+    "text": "Ajá. Sí. Es como la posición promedio de",
+    "duration": 5680,
+    "offset": 52039,
+    "lang": "es"
+  },
+  {
+    "text": "todas las partículas, pero ojo,",
+    "duration": 5039,
+    "offset": 55520,
+    "lang": "es"
+  },
+  {
+    "text": "ponderada por la masa. Las más masivas",
+    "duration": 4640,
+    "offset": 57719,
+    "lang": "es"
+  },
+  {
+    "text": "tiran más de ese promedio, por así",
+    "duration": 4761,
+    "offset": 60559,
+    "lang": "es"
+  },
+  {
+    "text": "decirlo. Y lo potente, lo realmente",
+    "duration": 5481,
+    "offset": 62359,
+    "lang": "es"
+  },
+  {
+    "text": "útil, es que el sistema se mueve como",
+    "duration": 5000,
+    "offset": 65320,
+    "lang": "es"
+  },
+  {
+    "text": "conjunto como si toda su masa estuviera",
+    "duration": 5560,
+    "offset": 67840,
+    "lang": "es"
+  },
+  {
+    "text": "concentrada en ese punto, en el CM, y",
+    "duration": 5080,
+    "offset": 70320,
+    "lang": "es"
+  },
+  {
+    "text": "como si todas las fuerzas externas",
+    "duration": 4520,
+    "offset": 73400,
+    "lang": "es"
+  },
+  {
+    "text": "actuarán solo ahí. Es una simplificación",
+    "duration": 3280,
+    "offset": 75400,
+    "lang": "es"
+  },
+  {
+    "text": "brutal.",
+    "duration": 3680,
+    "offset": 77920,
+    "lang": "es"
+  },
+  {
+    "text": "Vale. Vale. Fuerzas externas, las que",
+    "duration": 5160,
+    "offset": 78680,
+    "lang": "es"
+  },
+  {
+    "text": "vienen de fuera del sistema y las",
+    "duration": 4040,
+    "offset": 81600,
+    "lang": "es"
+  },
+  {
+    "text": "internas, las que se hacen las",
+    "duration": 3800,
+    "offset": 83840,
+    "lang": "es"
+  },
+  {
+    "text": "partículas entre ellas. ¿Qué pasa con",
+    "duration": 2560,
+    "offset": 85640,
+    "lang": "es"
+  },
+  {
+    "text": "esas?",
+    "duration": 3760,
+    "offset": 87640,
+    "lang": "es"
+  },
+  {
+    "text": "Ajá. Ahí está la magia. Bueno, la física",
+    "duration": 5040,
+    "offset": 88200,
+    "lang": "es"
+  },
+  {
+    "text": "por la tercera ley de Newton, la de",
+    "duration": 4039,
+    "offset": 91400,
+    "lang": "es"
+  },
+  {
+    "text": "acción reacción, cada fuerza interna",
+    "duration": 4480,
+    "offset": 93240,
+    "lang": "es"
+  },
+  {
+    "text": "tiene su opuesta dentro del sistema. Así",
+    "duration": 5281,
+    "offset": 95439,
+    "lang": "es"
+  },
+  {
+    "text": "que si las sumas todas, puf, desaparecen",
+    "duration": 4000,
+    "offset": 97720,
+    "lang": "es"
+  },
+  {
+    "text": "del cómputo global.",
+    "duration": 2600,
+    "offset": 100720,
+    "lang": "es"
+  },
+  {
+    "text": "O sea, que para ver cómo se mueve el",
+    "duration": 3480,
+    "offset": 101720,
+    "lang": "es"
+  },
+  {
+    "text": "conjunto, solo miro las fuerzas de",
+    "duration": 2280,
+    "offset": 103320,
+    "lang": "es"
+  },
+  {
+    "text": "fuera.",
+    "duration": 2239,
+    "offset": 105200,
+    "lang": "es"
+  },
+  {
+    "text": "Para ver cómo se acelera el centro de",
+    "duration": 4559,
+    "offset": 105600,
+    "lang": "es"
+  },
+  {
+    "text": "masa, sí, la fuerza neta sobre el",
+    "duration": 5161,
+    "offset": 107439,
+    "lang": "es"
+  },
+  {
+    "text": "sistema es solo la suma vectorial de las",
+    "duration": 5481,
+    "offset": 110159,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas externas y esa suma es igual a",
+    "duration": 5000,
+    "offset": 112600,
+    "lang": "es"
+  },
+  {
+    "text": "la masa total por la aceleración del",
+    "duration": 3280,
+    "offset": 115640,
+    "lang": "es"
+  },
+  {
+    "text": "centro de masa.",
+    "duration": 3240,
+    "offset": 117600,
+    "lang": "es"
+  },
+  {
+    "text": "Es la segunda ley de Newton, pero para",
+    "duration": 3119,
+    "offset": 118920,
+    "lang": "es"
+  },
+  {
+    "text": "todo el sistema.",
+    "duration": 4000,
+    "offset": 120840,
+    "lang": "es"
+  },
+  {
+    "text": "Qué bueno. Simplifica un montón. Y la",
+    "duration": 4720,
+    "offset": 122039,
+    "lang": "es"
+  },
+  {
+    "text": "cantidad de movimiento, el momento",
+    "duration": 2879,
+    "offset": 124840,
+    "lang": "es"
+  },
+  {
+    "text": "lineal P,",
+    "duration": 3241,
+    "offset": 126759,
+    "lang": "es"
+  },
+  {
+    "text": "pues muy directo también. El momento",
+    "duration": 4641,
+    "offset": 127719,
+    "lang": "es"
+  },
+  {
+    "text": "lineal total del sistema es la masa",
+    "duration": 4200,
+    "offset": 130000,
+    "lang": "es"
+  },
+  {
+    "text": "total por la velocidad del centro de",
+    "duration": 5400,
+    "offset": 132360,
+    "lang": "es"
+  },
+  {
+    "text": "masa. P = MVCM.",
+    "duration": 6160,
+    "offset": 134200,
+    "lang": "es"
+  },
+  {
+    "text": "Y claro, si la fuerza externa neta es la",
+    "duration": 4199,
+    "offset": 137760,
+    "lang": "es"
+  },
+  {
+    "text": "que cambia el movimiento,",
+    "duration": 4159,
+    "offset": 140360,
+    "lang": "es"
+  },
+  {
+    "text": "exacto. La derivada temporal de ese",
+    "duration": 4481,
+    "offset": 141959,
+    "lang": "es"
+  },
+  {
+    "text": "momento lineal total es igual a la",
+    "duration": 4561,
+    "offset": 144519,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza externa neta, lo que nos lleva a",
+    "duration": 5280,
+    "offset": 146440,
+    "lang": "es"
+  },
+  {
+    "text": "algo superimportante. Si la fuerza",
+    "duration": 4480,
+    "offset": 149080,
+    "lang": "es"
+  },
+  {
+    "text": "externa neta es cero,",
+    "duration": 2960,
+    "offset": 151720,
+    "lang": "es"
+  },
+  {
+    "text": "se conserva.",
+    "duration": 3600,
+    "offset": 153560,
+    "lang": "es"
+  },
+  {
+    "text": "Eso es la cantidad de movimiento total",
+    "duration": 4960,
+    "offset": 154680,
+    "lang": "es"
+  },
+  {
+    "text": "del sistema no cambia. Piensa en una",
+    "duration": 4600,
+    "offset": 157160,
+    "lang": "es"
+  },
+  {
+    "text": "explosión en medio del espacio. Las",
+    "duration": 4920,
+    "offset": 159640,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas son internas. El centro de masa",
+    "duration": 4479,
+    "offset": 161760,
+    "lang": "es"
+  },
+  {
+    "text": "sigue su camino como si nada.",
+    "duration": 4319,
+    "offset": 164560,
+    "lang": "es"
+  },
+  {
+    "text": "Fascinante. Vale, eso es para el",
+    "duration": 5080,
+    "offset": 166239,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento de traslación, digamos. Pero,",
+    "duration": 5121,
+    "offset": 168879,
+    "lang": "es"
+  },
+  {
+    "text": "¿y si el sistema rota, si gira? Ahí",
+    "duration": 4521,
+    "offset": 171319,
+    "lang": "es"
+  },
+  {
+    "text": "entra el momento angular L, ¿verdad?",
+    "duration": 4760,
+    "offset": 174000,
+    "lang": "es"
+  },
+  {
+    "text": "Efectivamente, el momento angular total",
+    "duration": 5640,
+    "offset": 175840,
+    "lang": "es"
+  },
+  {
+    "text": "respecto a un punto fijo O, por ejemplo,",
+    "duration": 4720,
+    "offset": 178760,
+    "lang": "es"
+  },
+  {
+    "text": "es la suma de los momentos angulares de",
+    "duration": 4479,
+    "offset": 181480,
+    "lang": "es"
+  },
+  {
+    "text": "cada partícula respecto a ese punto.",
+    "duration": 4880,
+    "offset": 183480,
+    "lang": "es"
+  },
+  {
+    "text": "Pero, y esto es muy interesante, podemos",
+    "duration": 4601,
+    "offset": 185959,
+    "lang": "es"
+  },
+  {
+    "text": "separarlo en dos partes que tienen mucho",
+    "duration": 3080,
+    "offset": 188360,
+    "lang": "es"
+  },
+  {
+    "text": "sentido físico.",
+    "duration": 2160,
+    "offset": 190560,
+    "lang": "es"
+  },
+  {
+    "text": "A ver, cuéntame eso.",
+    "duration": 3400,
+    "offset": 191440,
+    "lang": "es"
+  },
+  {
+    "text": "Pues mira, el momento angular total",
+    "duration": 5120,
+    "offset": 192720,
+    "lang": "es"
+  },
+  {
+    "text": "respecto a O lo podemos ver como la suma",
+    "duration": 5319,
+    "offset": 194840,
+    "lang": "es"
+  },
+  {
+    "text": "de dos cosas. Primero, el momento",
+    "duration": 5200,
+    "offset": 197840,
+    "lang": "es"
+  },
+  {
+    "text": "angular orbital. Es como si toda la masa",
+    "duration": 5041,
+    "offset": 200159,
+    "lang": "es"
+  },
+  {
+    "text": "estuviera en el CM y este orbitara",
+    "duration": 4839,
+    "offset": 203040,
+    "lang": "es"
+  },
+  {
+    "text": "alrededor de O. Y segundo, el momento",
+    "duration": 5480,
+    "offset": 205200,
+    "lang": "es"
+  },
+  {
+    "text": "angular intrínseco o de spin, que es el",
+    "duration": 4601,
+    "offset": 207879,
+    "lang": "es"
+  },
+  {
+    "text": "momento angular del sistema girando",
+    "duration": 3800,
+    "offset": 210680,
+    "lang": "es"
+  },
+  {
+    "text": "alrededor de su propio centro de masa.",
+    "duration": 4080,
+    "offset": 212480,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, claro. Como la Tierra alrededor del",
+    "duration": 4479,
+    "offset": 214480,
+    "lang": "es"
+  },
+  {
+    "text": "Sol y la Tierra girando sobre sí misma.",
+    "duration": 5319,
+    "offset": 216560,
+    "lang": "es"
+  },
+  {
+    "text": "Exactamente. Es esa idea. Movimiento del",
+    "duration": 5321,
+    "offset": 218959,
+    "lang": "es"
+  },
+  {
+    "text": "conjunto alrededor de un punto más el",
+    "duration": 4640,
+    "offset": 221879,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento interno de giro alrededor del",
+    "duration": 5840,
+    "offset": 224280,
+    "lang": "es"
+  },
+  {
+    "text": "CM. Y de nuevo, la analogía funciona. La",
+    "duration": 5401,
+    "offset": 226519,
+    "lang": "es"
+  },
+  {
+    "text": "variación del momento angular total",
+    "duration": 4240,
+    "offset": 230120,
+    "lang": "es"
+  },
+  {
+    "text": "respecto a O depende solo del momento",
+    "duration": 4399,
+    "offset": 231920,
+    "lang": "es"
+  },
+  {
+    "text": "neto de las fuerzas externas respecto a",
+    "duration": 4400,
+    "offset": 234360,
+    "lang": "es"
+  },
+  {
+    "text": "O. Si las fuerzas internas son centrales",
+    "duration": 4480,
+    "offset": 236319,
+    "lang": "es"
+  },
+  {
+    "text": "como la gravedad, sus momentos también",
+    "duration": 3440,
+    "offset": 238760,
+    "lang": "es"
+  },
+  {
+    "text": "se anulan por pares.",
+    "duration": 3401,
+    "offset": 240799,
+    "lang": "es"
+  },
+  {
+    "text": "Con lo cual, si el momento externo neto",
+    "duration": 5039,
+    "offset": 242200,
+    "lang": "es"
+  },
+  {
+    "text": "es cero, el momento angular total se",
+    "duration": 5280,
+    "offset": 244200,
+    "lang": "es"
+  },
+  {
+    "text": "conserva, como la patinadora que cierra",
+    "duration": 2961,
+    "offset": 247239,
+    "lang": "es"
+  },
+  {
+    "text": "los grzos.",
+    "duration": 3160,
+    "offset": 249480,
+    "lang": "es"
+  },
+  {
+    "text": "Justo. Conservación del momento angular.",
+    "duration": 6120,
+    "offset": 250200,
+    "lang": "es"
+  },
+  {
+    "text": "Vale, muy claro. Nos queda la energía.",
+    "duration": 6760,
+    "offset": 252640,
+    "lang": "es"
+  },
+  {
+    "text": "La potencial gravitatoria parece fácil",
+    "duration": 4639,
+    "offset": 256320,
+    "lang": "es"
+  },
+  {
+    "text": "con el truco del CM, ¿no?",
+    "duration": 3600,
+    "offset": 259400,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, esa es bastante directa. Si estamos",
+    "duration": 3761,
+    "offset": 260959,
+    "lang": "es"
+  },
+  {
+    "text": "cerca de la superficie terrestre, por",
+    "duration": 3680,
+    "offset": 263000,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo, es como si toda la masa M",
+    "duration": 3759,
+    "offset": 264720,
+    "lang": "es"
+  },
+  {
+    "text": "estuviera a la altura H del centro de",
+    "duration": 5239,
+    "offset": 266680,
+    "lang": "es"
+  },
+  {
+    "text": "masa. EP es ig a MGHCM.",
+    "duration": 5081,
+    "offset": 268479,
+    "lang": "es"
+  },
+  {
+    "text": "Pero me da que la cinética no va a ser",
+    "duration": 2481,
+    "offset": 271919,
+    "lang": "es"
+  },
+  {
+    "text": "tan sencilla.",
+    "duration": 3440,
+    "offset": 273560,
+    "lang": "es"
+  },
+  {
+    "text": "G. Bien pensado. La energía cinética",
+    "duration": 5600,
+    "offset": 274400,
+    "lang": "es"
+  },
+  {
+    "text": "total EK no es solo 1/io de la masa",
+    "duration": 6120,
+    "offset": 277000,
+    "lang": "es"
+  },
+  {
+    "text": "total por la velocidad del cm²ado.",
+    "duration": 5120,
+    "offset": 280000,
+    "lang": "es"
+  },
+  {
+    "text": "Eso sería solo la energía de traslación",
+    "duration": 3280,
+    "offset": 283120,
+    "lang": "es"
+  },
+  {
+    "text": "del bloque entero.",
+    "duration": 2440,
+    "offset": 285120,
+    "lang": "es"
+  },
+  {
+    "text": "Falta algo.",
+    "duration": 3760,
+    "offset": 286400,
+    "lang": "es"
+  },
+  {
+    "text": "Falta la energía cinética interna. Es la",
+    "duration": 4240,
+    "offset": 287560,
+    "lang": "es"
+  },
+  {
+    "text": "energía debida al movimiento de las",
+    "duration": 4319,
+    "offset": 290160,
+    "lang": "es"
+  },
+  {
+    "text": "partículas relativo al centro de masa.",
+    "duration": 4440,
+    "offset": 291800,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí entra la rotación interna, las",
+    "duration": 4160,
+    "offset": 294479,
+    "lang": "es"
+  },
+  {
+    "text": "vibraciones, todo ese movimiento dentro",
+    "duration": 5840,
+    "offset": 296240,
+    "lang": "es"
+  },
+  {
+    "text": "del sistema. Así que EK total igual a EK",
+    "duration": 7000,
+    "offset": 298639,
+    "lang": "es"
+  },
+  {
+    "text": "del CM + EK interna. ¿Entendido?",
+    "duration": 5760,
+    "offset": 302080,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, resumiendo un poco, el centro",
+    "duration": 4481,
+    "offset": 305639,
+    "lang": "es"
+  },
+  {
+    "text": "de masa es clave para ver el movimiento",
+    "duration": 4919,
+    "offset": 307840,
+    "lang": "es"
+  },
+  {
+    "text": "global como un todo. Solo las fuerzas y",
+    "duration": 4320,
+    "offset": 310120,
+    "lang": "es"
+  },
+  {
+    "text": "momentos externos cambian el momento",
+    "duration": 4521,
+    "offset": 312759,
+    "lang": "es"
+  },
+  {
+    "text": "lineal y angular totales y la energía se",
+    "duration": 5240,
+    "offset": 314440,
+    "lang": "es"
+  },
+  {
+    "text": "divide, la del movimiento DCM y la del",
+    "duration": 4280,
+    "offset": 317280,
+    "lang": "es"
+  },
+  {
+    "text": "movimiento interno relativo a él.",
+    "duration": 5680,
+    "offset": 319680,
+    "lang": "es"
+  },
+  {
+    "text": "Lo es clavado. Esa es la visión general.",
+    "duration": 6440,
+    "offset": 321560,
+    "lang": "es"
+  },
+  {
+    "text": "Y bueno, para terminar una cosilla para",
+    "duration": 4600,
+    "offset": 325360,
+    "lang": "es"
+  },
+  {
+    "text": "darle vueltas. Hemos dicho que las",
+    "duration": 3960,
+    "offset": 328000,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas internas no cambian el momento",
+    "duration": 4640,
+    "offset": 329960,
+    "lang": "es"
+  },
+  {
+    "text": "total, ¿vale? Pero piensa en un choque",
+    "duration": 4880,
+    "offset": 331960,
+    "lang": "es"
+  },
+  {
+    "text": "inelástico, uno donde las cosas se pegan",
+    "duration": 5080,
+    "offset": 334600,
+    "lang": "es"
+  },
+  {
+    "text": "o se deforman. Ahí las fuerzas internas",
+    "duration": 4919,
+    "offset": 336840,
+    "lang": "es"
+  },
+  {
+    "text": "hacen trabajo, convierten energía",
+    "duration": 4880,
+    "offset": 339680,
+    "lang": "es"
+  },
+  {
+    "text": "cinética en calor, en sonido, cambian la",
+    "duration": 4121,
+    "offset": 341759,
+    "lang": "es"
+  },
+  {
+    "text": "energía interna.",
+    "duration": 2520,
+    "offset": 344560,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, claro.",
+    "duration": 2720,
+    "offset": 345880,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, ¿cómo encaja esa",
+    "duration": 3800,
+    "offset": 347080,
+    "lang": "es"
+  },
+  {
+    "text": "transformación de energía interna, esa",
+    "duration": 4840,
+    "offset": 348600,
+    "lang": "es"
+  },
+  {
+    "text": "pérdida de energía cinética visible en",
+    "duration": 5080,
+    "offset": 350880,
+    "lang": "es"
+  },
+  {
+    "text": "toda esta descripción? Ahí las fuerzas",
+    "duration": 4360,
+    "offset": 353440,
+    "lang": "es"
+  },
+  {
+    "text": "internas juegan un papel distinto en la",
+    "duration": 4679,
+    "offset": 355960,
+    "lang": "es"
+  },
+  {
+    "text": "energía. Pero bueno, eso ya es material",
+    "duration": 5480,
+    "offset": 357800,
+    "lang": "es"
+  },
+  {
+    "text": "para otra charla.",
+    "duration": 2641,
+    "offset": 360639,
+    "lang": "es"
+  }
+]
