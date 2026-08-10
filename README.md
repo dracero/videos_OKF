@@ -2,16 +2,17 @@
 
 Esta plataforma es un sistema interactivo diseñado para extraer, almacenar, estructurar y consultar semánticamente los canales y videos de YouTube de **Diego Racero** (`dracero@fi.uba.ar`). 
 
-Combina la especificación abierta **Open Knowledge Format (OKF)** para estructurar el catálogo como un grafo de conocimiento portátil, y un motor de **Búsqueda Semántica RAG (Retrieval-Augmented Generation)** gratuito y 100% local que procesa tanto los metadatos como el contenido hablado (transcripciones de audio).
+Combina la especificación abierta **Open Knowledge Format (OKF)** de Google Cloud para estructurar el catálogo como un grafo de conocimiento portátil, y un motor de **Búsqueda Semántica RAG (Retrieval-Augmented Generation)** gratuito y 100% local que procesa tanto los metadatos como el contenido hablado (transcripciones de audio). 
+
+Además, incorpora un **Asistente Virtual Multi-Agente** basado en **LangGraph.js** y **Gemini 2.5 Flash** para responder de forma exacta en lenguaje natural citando fuentes del grafo de conocimiento.
 
 ---
 
 ## 🏗️ Arquitectura del Sistema
 
-El sistema opera en dos fases desacopladas: **Ingesta e Indexación** (sincronización y vectorización en lote) y **Búsqueda e Interacción** (búsqueda semántica unificada en tiempo real y deep linking temporal).
+El sistema opera en tres fases principales: **Ingesta e Indexación** (sincronización y vectorización), **Búsqueda Semántica Unificada** (búsqueda vectorial híbrida local) y **Asistencia Conversacional** (flujo de agentes del chatbot).
 
 ### 1. Grafo de Ingesta, Enriquecimiento e Indexación Semántica
-
 Este diagrama detalla cómo se extrae la información de YouTube, se estructuran los documentos bajo el formato OKF, se genera el resumen enriquecido a partir de audio/subtítulos, y se indexan los vectores de catálogo y chunks:
 
 ```mermaid
@@ -42,8 +43,7 @@ flowchart TD
     end
 ```
 
-### 2. Flujo de Consulta Semántica Unificada y Deep Linking
-
+### 2. Flujo de Consulta Semántica Unificada
 Este diagrama describe la interacción del usuario al realizar una consulta semántica, cómo el motor fusiona y deduplica los vectores de catálogo y de transcripción, y cómo se realiza la reproducción automática desde el segundo exacto:
 
 ```mermaid
@@ -64,6 +64,26 @@ flowchart TD
     API -->|"7. Render Intercalado"| FE
     FE -->|"8. Clic en: 'Ir al minuto 00:03'"| Link["Navigates to /videos/:id?t=3"]
     Link -->|"9. SSR: Inyecta start=3&autoplay=1"| Embed["YouTube Iframe Player"]
+```
+
+### 3. Flujo Conversacional Multi-Agente (LangGraph)
+Este diagrama ilustra cómo LangGraph coordina la comunicación del Chatbot en el backend, incluyendo la validación crítica de Gemini y el bucle recursivo de re-búsqueda vectorial en caso de que la información recuperada sea insuficiente:
+
+```mermaid
+flowchart TD
+    Start([1. Consulta del Usuario]) --> StateInit[Inicializar Estado del Grafo]
+    
+    StateInit --> AgentSearcher["🔍 AGENTE BUSCADOR (Query Generator & Retriever)"]
+    AgentSearcher -->|"Consulta Vectorial Local"| LocalDB[(embeddings_chunks.json)]
+    LocalDB -->|"Retorna Chunks + Metadata OKF"| AgentSearcher
+    
+    AgentSearcher --> AgentSelector["🎯 AGENTE SELECCIONADOR (Reranker & Filterer)"]
+    
+    AgentSelector --> Decision{"¿La información es suficiente?"}
+    Decision -->|"No / Intentar otra búsqueda"| AgentSearcher
+    Decision -->|"Sí"| AgentResponder["💬 AGENTE RESPONDEDOR (Synthesizer & Citator)"]
+    
+    AgentResponder --> Output([Respuesta Final con Citado Temporal / Enlaces ?t=X])
 ```
 
 ---
@@ -157,6 +177,19 @@ Esto fuerza a la API del reproductor de YouTube a iniciar la reproducción de fo
 
 ---
 
+## 💬 Asistente RAG Multi-Agente (LangGraph + Gemini 2.5 Flash)
+
+La plataforma integra un **asistente conversacional de tipo Chat** accesible desde la interfaz web. Este módulo está diseñado para responder consultas del usuario en lenguaje natural basándose en el contenido de los videos y está estructurado como un grafo de estado asíncrono utilizando **LangGraph.js** y **Gemini 2.5 Flash** (SDK `@google/genai`).
+
+### Estructura y Nodos del Grafo (`src/lib/agent-graph.js`)
+1.  **Estado Compartido (`ChatState`):** Un objeto de anotación de LangGraph que mantiene la pregunta original, la query optimizada de búsqueda, los fragmentos recuperados localmente, los fragmentos seleccionados como relevantes por el LLM, el contador de intentos de búsqueda y la respuesta en texto.
+2.  **Agente Buscador (`searcherNode`):** Invoca de forma asíncrona la búsqueda semántica unificada local sobre los archivos OKF y guarda los chunks resultantes en el estado.
+3.  **Agente Seleccionador (`selectorNode`):** Evalúa críticamente los fragmentos devueltos mediante Gemini 2.5 Flash. Devuelve una estructura JSON limpia con los IDs de los fragmentos que son realmente relevantes.
+    *   *Query Expansion (Bucle de re-búsqueda):* Si el selector determina que la información es insuficiente y no se ha superado el límite de 2 intentos, solicita a Gemini generar un término de búsqueda alternativo (ej. transformar *"cómo conectar cámara a home assistant"* en *"Integrar cámara Home Assistant"*), actualiza el estado y regresa recursivamente al nodo buscador.
+4.  **Agente Respondedor (`responderNode`):** Toma la información seleccionada y genera una respuesta amigable en Markdown. Si la información no se encuentra en las transcripciones, responde de forma directa y honesta evitando alucinaciones. Inyecta citas formateadas vinculadas al segundo exacto (ej. `[⏱ Ir al minuto 11:06](/videos/fu6Mw97RVSc?t=666)`).
+
+---
+
 ## 🛠️ Comandos de Desarrollo
 
 Todos los comandos se corren desde la raíz del proyecto en la terminal:
@@ -168,5 +201,6 @@ Todos los comandos se corren desde la raíz del proyecto en la terminal:
 | `npx astro dev logs` | Visualiza los logs en tiempo real del servidor en segundo plano |
 | `npx astro dev stop` | Detiene el servidor en segundo plano |
 | `node -e "import('./src/lib/sync.js').then(m => m.syncCatalog({ force: true }))"` | Fuerza la sincronización de videos, descarga de transcripciones y regeneración de vectores de embeddings |
+| `node tests/test-agents.js` | Ejecuta una prueba local en la terminal del flujo de agentes de LangGraph y Gemini |
 | `npm run build` | Compila el sitio Astro para producción utilizando el adaptador de Node.js |
 | `npx playwright test` | Ejecuta la suite de pruebas E2E integradas para validar la funcionalidad |
