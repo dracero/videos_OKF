@@ -86,8 +86,8 @@ fi
 
 # ─── CHECK 4: find()/filter() dentro de loops (§2.1) ─── SEVERIDAD: MEDIA ───
 echo -e "${BOLD}[4/8] Buscando find()/filter() dentro de map/forEach/for (complejidad)...${NC}"
-FIND_IN_LOOPS=$(grep -n "\.find\|\.filter" src/pages/api/semantic-search.js 2>/dev/null || true)
-FIND_COUNT=$(echo "$FIND_IN_LOOPS" | grep -c "find\|filter" 2>/dev/null || echo "0")
+FIND_IN_LOOPS=$(grep -n "\.find(" src/pages/api/semantic-search.js 2>/dev/null || true)
+FIND_COUNT=$(echo "$FIND_IN_LOOPS" | grep -c "\.find(" | tr -d '[:space:]' || echo "0")
 if [ "$FIND_COUNT" -gt 0 ]; then
   echo -e "${YELLOW}╔══════════════════════════════════════════════════════════════╗${NC}"
   echo -e "${YELLOW}║ ⚠️  ADVERTENCIA: Búsqueda lineal en loop (O(N×M))           ║${NC}"

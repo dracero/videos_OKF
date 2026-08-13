@@ -198,11 +198,46 @@ ${snippet.description || 'No description provided.'}
 
           const formattedDuration = parseDuration(duration);
 
-          // Build OKF Frontmatter
+          // Fetch and save video transcript as a sidecar JSON file first
+          let transcriptSummary = '';
+          try {
+            console.log(`Fetching transcript for video ${videoId} (${title.substring(0, 30)})...`);
+            const transcript = await YoutubeTranscript.fetchTranscript(videoId);
+            await fs.writeFile(
+              path.join(OKF_DIR, 'transcripts', `${videoId}.json`),
+              JSON.stringify(transcript, null, 2),
+              'utf-8'
+            );
+
+            // Generate transcript_summary from first ~200 words
+            if (transcript.length > 0) {
+              let words = 0;
+              const summaryParts = [];
+              for (const seg of transcript) {
+                const text = seg.text.trim();
+                if (!text) continue;
+                summaryParts.push(text);
+                words += text.split(/\s+/).length;
+                if (words >= 200) break;
+              }
+              transcriptSummary = summaryParts.join(' ').replace(/"/g, '\\"').replace(/\n/g, ' ');
+            }
+          } catch (err) {
+            // Save empty transcript if not found/disabled to prevent errors and cache status
+            console.warn(`No transcript found for video ${videoId}. Saving empty transcript.`);
+            await fs.writeFile(
+              path.join(OKF_DIR, 'transcripts', `${videoId}.json`),
+              JSON.stringify([], null, 2),
+              'utf-8'
+            );
+          }
+
+          // Build OKF Frontmatter once with transcript_summary if available (Builder Pattern AGENTS.md §1.3)
+          const summaryField = transcriptSummary ? `\ntranscript_summary: "${transcriptSummary}"` : '';
           const videoFrontmatter = `---
 type: YouTube Video
 title: "${title.replace(/"/g, '\\"').replace(/\n/g, ' ')}"
-description: "${description.split('\n')[0].substring(0, 150).replace(/"/g, '\\"')}"
+description: "${description.split('\n')[0].substring(0, 150).replace(/"/g, '\\"')}"${summaryField}
 resource: "https://www.youtube.com/watch?v=${videoId}"
 tags: [${tags.slice(0, 10).map(t => `"${t.replace(/"/g, '\\"')}"`).join(', ')}]
 generated: { by: "process:sync-youtube", at: "${new Date().toISOString()}" }
@@ -248,92 +283,7 @@ ${description || 'Sin descripción.'}
 `;
 
           await fs.writeFile(path.join(OKF_DIR, 'videos', `${videoId}.md`), videoFrontmatter, 'utf-8');
-
-          // Fetch and save video transcript as a sidecar JSON file
-          let transcriptSummary = '';
-          try {
-            console.log(`Fetching transcript for video ${videoId} (${title.substring(0, 30)})...`);
-            const transcript = await YoutubeTranscript.fetchTranscript(videoId);
-            await fs.writeFile(
-              path.join(OKF_DIR, 'transcripts', `${videoId}.json`),
-              JSON.stringify(transcript, null, 2),
-              'utf-8'
-            );
-
-            // Generate transcript_summary from first ~200 words
-            if (transcript.length > 0) {
-              let words = 0;
-              const summaryParts = [];
-              for (const seg of transcript) {
-                const text = seg.text.trim();
-                if (!text) continue;
-                summaryParts.push(text);
-                words += text.split(/\s+/).length;
-                if (words >= 200) break;
-              }
-              transcriptSummary = summaryParts.join(' ').replace(/"/g, '\\"').replace(/\n/g, ' ');
-            }
-          } catch (err) {
-            // Save empty transcript if not found/disabled to prevent errors and cache status
-            console.warn(`No transcript found for video ${videoId}. Saving empty transcript.`);
-            await fs.writeFile(
-              path.join(OKF_DIR, 'transcripts', `${videoId}.json`),
-              JSON.stringify([], null, 2),
-              'utf-8'
-            );
-          }
-
-          // Rewrite video file with transcript_summary included in frontmatter
-          const videoFrontmatterWithSummary = `---
-type: YouTube Video
-title: "${title.replace(/"/g, '\\"').replace(/\n/g, ' ')}"
-description: "${description.split('\n')[0].substring(0, 150).replace(/"/g, '\\"')}"
-transcript_summary: "${transcriptSummary}"
-resource: "https://www.youtube.com/watch?v=${videoId}"
-tags: [${tags.slice(0, 10).map(t => `"${t.replace(/"/g, '\\"')}"`).join(', ')}]
-generated: { by: "process:sync-youtube", at: "${new Date().toISOString()}" }
-verified: machine-confirmed
-status: current
-channel_id: "${channelId}"
-published_at: "${publishedAt}"
-view_count: ${viewCount}
-like_count: ${likeCount}
-comment_count: ${commentCount}
-duration: "${formattedDuration}"
-thumbnail: "${thumbnail || ''}"
-sources:
-  - id: youtube-api
-    resource: "https://developers.google.com/youtube/v3"
-    title: "YouTube Data API v3"
-    last_modified: "${new Date().toISOString().split('T')[0]}"
-  - id: channel-concept
-    resource: "src/content/okf/channels/${channelId}.md"
-    title: "Channel: ${channel.title}"
----
-
-# ${title}
-
-<div class="video-embed-container">
-  <iframe 
-    src="https://www.youtube.com/embed/${videoId}" 
-    title="${title.replace(/"/g, '&quot;')}"
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>
-
-## Detalles
-- **Canal:** [${channel.title}](../channels/${channelId}.md)
-- **Publicado el:** ${new Date(publishedAt).toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' })}
-- **Duración:** ${formattedDuration}
-- **Vistas:** ${parseInt(viewCount).toLocaleString('es-ES')} | **Likes:** ${parseInt(likeCount).toLocaleString('es-ES')}
-
-## Descripción
-${description || 'Sin descripción.'}
-`;
-
-          await fs.writeFile(path.join(OKF_DIR, 'videos', `${videoId}.md`), videoFrontmatterWithSummary, 'utf-8');
+          totalVideosSynced++;
 
           totalVideosSynced++;
         }

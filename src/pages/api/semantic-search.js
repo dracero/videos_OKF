@@ -24,18 +24,21 @@ export async function GET({ request }) {
       // New default: searches both catalog AND transcripts, returns a fused ranked list
       const unifiedResults = await unifiedSemanticSearch(query);
 
-      // Enrich catalog results with full OKF metadata
+      // Enrich catalog results with full OKF metadata using Map indexed lookups (AGENTS.md §2.1 - O(R+V))
       const channels = await getChannels();
       const videos = await getVideos();
+
+      const channelsMap = new Map(channels.map(c => [c.id, c]));
+      const videosMap = new Map(videos.map(v => [v.id, v]));
 
       results = unifiedResults.map(match => {
         if (match.type === 'segment') {
           // Transcript segment — already has full concept info from chunk data
           return match;
         } else if (match.type === 'video') {
-          const video = videos.find(v => v.id === match.id);
+          const video = videosMap.get(match.id);
           if (!video) return null;
-          const channel = channels.find(c => c.id === video.channel_id);
+          const channel = channelsMap.get(video.channel_id);
 
           return {
             type: 'video',
@@ -56,7 +59,7 @@ export async function GET({ request }) {
             }
           };
         } else if (match.type === 'channel') {
-          const channel = channels.find(c => c.id === match.id);
+          const channel = channelsMap.get(match.id);
           if (!channel) return null;
 
           return {
@@ -88,11 +91,14 @@ export async function GET({ request }) {
       const channels = await getChannels();
       const videos = await getVideos();
 
+      const channelsMap = new Map(channels.map(c => [c.id, c]));
+      const videosMap = new Map(videos.map(v => [v.id, v]));
+
       results = searchResults.map(match => {
         if (match.type === 'video') {
-          const video = videos.find(v => v.id === match.id);
+          const video = videosMap.get(match.id);
           if (!video) return null;
-          const channel = channels.find(c => c.id === video.channel_id);
+          const channel = channelsMap.get(video.channel_id);
 
           return {
             type: 'video',
@@ -112,7 +118,7 @@ export async function GET({ request }) {
             }
           };
         } else if (match.type === 'channel') {
-          const channel = channels.find(c => c.id === match.id);
+          const channel = channelsMap.get(match.id);
           if (!channel) return null;
 
           return {

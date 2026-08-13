@@ -11,16 +11,24 @@ const OKF_DIR = path.resolve('./src/content/okf');
 const EMBEDDINGS_FILE = path.join(OKF_DIR, 'embeddings.json');
 const EMBEDDINGS_CHUNKS_FILE = path.join(OKF_DIR, 'embeddings_chunks.json');
 
-let extractor = null;
+let extractorPromise = null;
 
-// Initialize the feature extraction pipeline singleton
-async function getExtractor() {
-  if (!extractor) {
+// Initialize the feature extraction pipeline singleton (Promise-based to prevent race condition AGENTS.md §1.4)
+function getExtractor() {
+  if (!extractorPromise) {
     console.log('Loading Xenova/all-MiniLM-L6-v2 local model...');
-    extractor = await pipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2');
-    console.log('Local model loaded successfully.');
+    extractorPromise = pipeline('feature-extraction', 'Xenova/all-MiniLM-L6-v2').then((model) => {
+      console.log('Local model loaded successfully.');
+      return model;
+    });
   }
-  return extractor;
+  return extractorPromise;
+}
+
+// Helper: Centralized NFD text normalization for search (AGENTS.md §1.7)
+export function normalizeText(text) {
+  if (!text) return '';
+  return text.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
 }
 
 // Generate embedding for a single text string
@@ -281,7 +289,7 @@ export async function semanticSearchChunks(queryText, limit = 12) {
   }
 
   // Normalize query for keyword matching
-  const cleanQuery = queryText.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
+  const cleanQuery = normalizeText(queryText);
   const queryWords = cleanQuery.split(/\s+/).filter(w => w.length > 2);
 
   // 3. Compute similarities and apply keyword boost
@@ -291,7 +299,7 @@ export async function semanticSearchChunks(queryText, limit = 12) {
     // Calculate keyword match boost
     let boost = 0;
     if (queryWords.length > 0) {
-      const cleanText = item.text.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+      const cleanText = normalizeText(item.text);
       
       // Exact match gives highest boost
       if (cleanText.includes(cleanQuery)) {
@@ -355,7 +363,7 @@ export async function unifiedSemanticSearch(queryText, limit = 15) {
   }
 
   // Normalize query for keyword matching
-  const cleanQuery = queryText.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
+  const cleanQuery = normalizeText(queryText);
   const queryWords = cleanQuery.split(/\s+/).filter(w => w.length > 2);
 
   // 2. Load both embedding indexes (Fallback)
@@ -385,7 +393,7 @@ export async function unifiedSemanticSearch(queryText, limit = 15) {
     // Apply keyword boost to catalog titles
     let boost = 0;
     if (queryWords.length > 0) {
-      const cleanTitle = item.title.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+      const cleanTitle = normalizeText(item.title);
       if (cleanTitle.includes(cleanQuery)) {
         boost += 0.3;
       } else {
@@ -412,7 +420,7 @@ export async function unifiedSemanticSearch(queryText, limit = 15) {
 
     let boost = 0;
     if (queryWords.length > 0) {
-      const cleanText = item.text.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+      const cleanText = normalizeText(item.text);
       if (cleanText.includes(cleanQuery)) {
         boost += 0.35;
       } else {
