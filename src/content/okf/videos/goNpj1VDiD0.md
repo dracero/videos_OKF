@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "A ver, imaginemos por un momento qué pasaría si una inteligencia artificial pudiera aprender de sus propios errores, pero no a base de prueba y error a lo loco, sino reflexionando sobre ellos, casi como lo haría una persona. Bueno, pues vamos a meternos de lleno en esta idea porque es bastante revolucionaria. Esta es la pregunta del millón, ¿no? Cuando nos enfrentamos a tareas que son realmente difíciles, como por ejemplo razonar en varios pasos o generar código complejo, el método que se usa para entrenar a la IA lo es, bueno, literalmente todo. Y aquí está el kit de la cuestión. El enfoque de toda la vida se ha centrado en el resultado. Un simple, lo has hecho bien o lo has hecho mal. Pero, ¿y si hubiera otra manera, una que busca algo mucho más profundo, que la IA entienda el proceso? Para entender por qué lo nuevo es tan importante, primero hay que echar un vistazo al problema del método actual, un método que, seamos sinceros, a menudo se parece más a usar un martillo para todo que un visturí de cirujano. El estándar de la industria, el que se ha usado durante años, se llama aprendizaje"
 resource: "https://www.youtube.com/watch?v=goNpj1VDiD0"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:09.784Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:33.948Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"

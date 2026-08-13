@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "bueno acá tenemos un video este video está hablado en dos idiomas está hablado en italiano y en ruso y acá tenemos el proyecto SIM con una demostración en la página de hagin Face y lo que vamos a hacer es ponerlo en español vamos a elegir eh ha un browser Tab Star streaming le ponemos que haga el streame de esta ventana de browser y ahí lo vamos a empezar a compartir no le voy a bajar tanto la voz para que escuches los dos idiomas ahora la nominación oficial del or comité del premio Bravo se llama visión al futuro el ganador es la canteado a de kst como representante del país socio del [Aplausos] premio es eso entregar el premio en esta nominación nos invitamos a la escena la cantante [Aplausos] [Música] el mejor exclusivo [Música]"
 resource: "https://www.youtube.com/watch?v=keB0IR4DMok"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:42.522Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:23.121Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"

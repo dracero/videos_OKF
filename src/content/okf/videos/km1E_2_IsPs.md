@@ -5,7 +5,7 @@ description: "This was intend to demonstrate how to login to moodle with externa
 transcript_summary: "vamos a ver cómo hacer para el gobierno desde una web externa a moodle estando bloqueados como administrador vamos a site administration dentro de site administration buscamos plugins dentro de plugins buscamos authentication y hacemos clic en manich authentication acá dentro de maniche authentication vamos a buscar un cuadro que dice alto alternar el nivel y acá tenemos que hacer el paste de la página con la que vamos a hacer el login en este caso bueno yo tengo una página armada en glitch pero acá en donde ponemos la url de la página para el login o alternativo de esta manera cuando alguien quiere hacer login la plataforma vamos a sacar cuando yo quiere hacer login en la plataforma me va a mandar a esa página alternativa que yo había puesto en el apartado anterior"
 resource: "https://www.youtube.com/watch?v=km1E_2_IsPs"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:34:15.406Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:04.571Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCx1KkYmHhghhGFgA7VP2aWQ.md"
     title: "Channel: Diego Racero"

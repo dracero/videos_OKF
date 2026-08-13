@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "nuevamente para que puedas aprender un poco más acerca de javascript y todas las posibilidades que él tiene te recomendamos que uses w3 school recordad siempre a la hora de tener que realizar un diseño web lo importante es saber qué tipo de formatos yo quiero para interactuar con el usuario qué forma le voy a dar que justamente eso es lo que me da la css y luego utilizando todas estas funciones de javascript lo que yo voy a poder hacer es ver cómo es que se hace cómo es que se programa esa interacción tenemos montones de cosas bucles loops y tenemos indicaciones condicionales tenemos también la posibilidad de utilizar los o modificar los elementos de la pantalla a través de esto que vimos que es el standard o la verdad que el standard on que es justamente lo que nos permite modificar los elementos de pantalla tiene mucha generación de código y es tan sencillo de comprender para mejorar eso es que existen nuevas tecnologías como ria y gateway pero primero tenemos que aprender a desarrollar bien javascript después ya vamos a poder introducirnos una vez que hayamos comprendido cómo programar html css y javascript y hayamos comprendido la infraestructura"
 resource: "https://www.youtube.com/watch?v=hQJYnf5ZGZY"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:57.108Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:49:55.802Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCDs8wbm1jczac3UNYIAVxZg.md"
     title: "Channel: Diego Racero"

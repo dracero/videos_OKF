@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "¿Cómo hacer para poder acceder a los apuntes de la página de cátedra? Hacen clic en su foto, van a donde dice perfil, acá dentro del perfil van a donde dice editar perfil. Acá van hasta abajo de todo, donde dice opcional, a donde dice institución, acá escriben Fuba y hacen clic en actualizar información personal y con eso ya los va a dejar bajar eh todos los apuntes."
 resource: "https://www.youtube.com/watch?v=cOHKx-go4ZE"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:05.028Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:28.244Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"

@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "y escribir código en html lo mejor que podemos hacer es empezar a practicarlo programando y para empezar a ver bueno qué cosas practicar la mejor página que hay es w3c y ahí vamos a buscar el curso de html tiene un montón de cosas que nosotros podemos practicar entonces acá es donde empezamos a ver todas las cosas que nosotros podemos practicar y todas las cosas que podemos ir haciendo para ir viendo cómo armar una página nosotros lo que tenemos que tener siempre idea es de la forma que queremos que tenga la página los botones los cuadros de texto los reyes gustos los dos los drop down list después el cómo armarla la verdad que no es algo complicado porque podemos verlo a través de estas páginas que nos dan un montón un montón de opciones para que nosotros podemos podamos aprender a programar si así todos nosotros queremos hacer algo de práctica llevar a la práctica y ver cómo se va modificando toda medida que cambiamos ciertas partes del código podemos ir a code que es el que yo les había pasado en el curso cuando recién empezamos acá es donde podemos por un lado crear nuestro"
 resource: "https://www.youtube.com/watch?v=OkpYuAge4po"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:57.304Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:49:56.194Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCDs8wbm1jczac3UNYIAVxZg.md"
     title: "Channel: Diego Racero"

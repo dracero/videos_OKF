@@ -5,7 +5,7 @@ description: "Esta es la transmisión de prueba para ver cómo funciona la trans
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=7BMUhWkbfIg"
 tags: ["Laboratorio de Física I", "#hangoutsonair", "Hangouts On Air", "#hoa"]
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:34:21.423Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:12.129Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCx1KkYmHhghhGFgA7VP2aWQ.md"
     title: "Channel: Diego Racero"

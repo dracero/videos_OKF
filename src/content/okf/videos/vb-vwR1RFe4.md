@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Cuando empezamos a preparar este análisis, la premisa fue muy clara. Necesito que armes un resumen de vídeo superceto sobre las mejores prácticas para la revisión de código con inteligencia artificial. Y vaya si hace falta. A ver, hoy en día la IA escupe código a una velocidad que parece de ciencia ficción, pero claro, esto nos lleva de cabeza un problema gigante. Los equipos de ingeniería están pidiendo a gritos marcos de trabajo fiables para revisar toda esa avalancha de código. En este repaso vamos a ver una estrategia muy clara para evitar que nuestros repositorios se conviertan literalmente en un caos automatizado. Venga, repasemos rápidamente la agenda. Tenemos seis puntos. Primero, el contexto general. Luego pasaremos a las tres prácticas clave, que son la revisión independiente, la revisión previa al pull request y el contexto detallado. Después veremos cómo aplicar todo esto con Google Antigravity 2.0 y cerraremos hablando del inmenso valor del contexto. Vamos con el primer punto, el contexto general y el gran reto de la revisión con IA. Para entender el problema de fondo, imaginemos por un momento una aplicación de pagos. Necesitamos añadir un nuevo estado llamado en revisión o under bajo review. Un agente de Lía"
 resource: "https://www.youtube.com/watch?v=vb-vwR1RFe4"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:01.313Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:23.623Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"

@@ -5,7 +5,7 @@ description: "Usando Wit.ai"
 transcript_summary: "vamos a construir un chat bot utilizando un sistema de nlb natural language understanding qué es lo que hace este sistema de nl y que necesita para funcionar el sistema d nv lo que va a hacer es transformar el lenguaje común coloquial como el lenguaje en el que hemos expresado este problema en datos estructurados para que nos van a servir esos datos estructurados nos van a servir porque después a partir de esos datos estructurados vamos a poder establecer bifurcaciones condicionales que van a ir guiando al alumno hacia o lo van a ir orientando hacia la solución del problema que quede claro en el chat bot no le va a dar al alumno cuál es la solución del problema lo que vamos a hacer con el chat bot es ir guiando lo para que él pueda encontrar la solución del problema entonces lo primero que nosotros tenemos que hacer es definir algo que se llama la intención o el intento el intento es la idea principal la idea central o el tema fundamental del cual habla la frase por ejemplo si nosotros leemos este problema dice que nos encontramos en la antigua sucia en suiza donde guillermo"
 resource: "https://www.youtube.com/watch?v=ObGyiUBVqac"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:41.512Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:52:23.211Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"

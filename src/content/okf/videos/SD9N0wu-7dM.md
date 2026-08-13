@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "bueno acá estamos viendo el típico tablero gira Estas son las incidencias las tareas e historias que están en sprints asignados y esto que está en el backlog es lo que no está en Sprint esto que no está en Sprint porque todavía no tiene una fecha definida de inicio de fin y lo más importante si uno hace clic en la tarea no tiene está por hacer y no tiene persona asignada responsable Estas son las que les traume Master debería contactarse con el equipo para ver por qué no la están haciendo Qué problema tienen porque obviamente al no hacerlas eso complica la finalización del Sprint"
 resource: "https://www.youtube.com/watch?v=SD9N0wu-7dM"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:28.519Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:52:03.520Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"

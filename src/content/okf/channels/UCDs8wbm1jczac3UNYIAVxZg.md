@@ -4,7 +4,7 @@ title: "Diego Racero"
 description: "Diego Racero YouTube Channel"
 resource: "https://www.youtube.com/channel/UCDs8wbm1jczac3UNYIAVxZg"
 tags: [youtube, channel, education]
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:23.040Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:49:39.557Z" }
 verified: machine-confirmed
 status: current
 custom_url: "@diegoracero1263"
@@ -16,7 +16,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
 ---
 
 # Diego Racero

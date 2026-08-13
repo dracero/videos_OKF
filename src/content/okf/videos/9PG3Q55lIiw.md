@@ -5,7 +5,7 @@ description: "Panptic vision in real time using meta's detectron2"
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=9PG3Q55lIiw"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:53.909Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:36.334Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"

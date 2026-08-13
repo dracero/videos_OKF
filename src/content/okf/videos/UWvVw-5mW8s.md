@@ -5,12 +5,12 @@ description: "En este video muestro cómo usar el sistema de proctoring Autoproc
 transcript_summary: "bueno y vamos a ver como loguearnos al auto productor lo primero que tenemos que hacer es ir a este lugar auto productor punto cero y acá hacemos clic en login elegí lo vi arme con google bueno para mí es más sencillo uno se puede lograr en forma manual o también se puede dar de alta con una cuenta de microsoft la pongo sol y password de google y lo siguiente que va a hacer es mandarme para que confirme que soy yo y confirme que soy yo bueno ingrese bien entonces ahora una vez que ingresé que voy a esta pantalla de inicio al home desde el home lo que yo voy a hacer es crear un nuevo examen desde acá entonces vamos a crear un nuevo acá me pregunta si va a ser un examen de google uno de microsoft o otro acá yo le voy a poner que va a ser otro el título le vamos a hacer la url acá en el foro url y le vamos a poner esta dirección esta url esta url no es otra cosa que la url de el cuestionario del examen que van a tener que hacer los alumnos"
 resource: "https://www.youtube.com/watch?v=UWvVw-5mW8s"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:34:13.982Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:02.874Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"
 published_at: "2021-04-03T23:43:19Z"
-view_count: 308
+view_count: 309
 like_count: 0
 comment_count: 0
 duration: "13:06"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCx1KkYmHhghhGFgA7VP2aWQ.md"
     title: "Channel: Diego Racero"
@@ -41,7 +41,7 @@ sources:
 - **Canal:** [Diego Racero](../channels/UCx1KkYmHhghhGFgA7VP2aWQ.md)
 - **Publicado el:** 3 de abril de 2021
 - **Duración:** 13:06
-- **Vistas:** 308 | **Likes:** 0
+- **Vistas:** 309 | **Likes:** 0
 
 ## Descripción
 En este video muestro cómo usar el sistema de proctoring Autoproctor para monitorear un examen de Moodle

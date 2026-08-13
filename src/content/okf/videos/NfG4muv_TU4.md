@@ -5,7 +5,7 @@ description: "Those are my skills description."
 transcript_summary: "configure whom in other words campaign and Facebook leads are the thing that I will lady must doing some Co unseen actions to get the site in the first place of any searches and investigating the customer behavior with Pixlr analytics is one of my strengths"
 resource: "https://www.youtube.com/watch?v=NfG4muv_TU4"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:52.193Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:49:45.049Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCDs8wbm1jczac3UNYIAVxZg.md"
     title: "Channel: Diego Racero"

@@ -5,7 +5,7 @@ description: " "
 transcript_summary: "this is six minute English from bbclearningenglish.com hello I'm Alice and I'm Steven and this is 6 Minute English this week we're talking about sleep walking have you ever walked in your sleep stepen I don't think so but I've been known to tell stories in my sleep oh fascinating well this is a new development by scientists in the United States that shows that sleep walking is genetic it's passed on from parents to child they've been looking at the genes of four generations of a family who have a lot of Sleep Walkers but before we find out more I have a question for you Steven what do the letters r e m stand for and it's not just the name of an American pop group RM that's something to do with sleep it is does it stand for a rapid eye movement B random eye movement or C relative eye movement I'm going to guess a rapid eye movement okay well as usual I won't tell you the answer now we'll find out at the end of the program so let's hear more about what it's like to be a Sleep Walker here's Margaret brand a woman who often spends"
 resource: "https://www.youtube.com/watch?v=SqmfG0B-2MU"
 tags: ["Película", "0003"]
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:34:25.227Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:17.052Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCx1KkYmHhghhGFgA7VP2aWQ.md"
     title: "Channel: Diego Racero"

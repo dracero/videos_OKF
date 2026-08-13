@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Bueno estamos viendo acá cómo trabaja nuestro webcrawler acá hicimos un webcrawler con crow for Ai que tiene la función de hacer un cowling de toda la página de donde está la documentación del programa Astro y guardarlo en un archivo de texto vamos a mostrar después para qué usamos este archivo de texto pero este archivo de texto es la manera de crear un desarrollador senior a través de un web scrap"
 resource: "https://www.youtube.com/watch?v=CImCnqJ_Flk"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:30.407Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:02.337Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"

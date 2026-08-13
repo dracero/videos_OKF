@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "ah ah bien bueno Ahí está grabando Bueno entonces vamos a ver acá nos dice que tenemos un sólido rígido que se encuentra en rotación instantánea alrededor de un eje que pasa por el punto 1-1 y lleva la dirección del vector e 2i - 2j men k de tal forma que la velocidad del punto B es b - 4i - 6j - c K bien o sea después vamos a intentar este ucir todo esto en principio lo primero que tenemos que intentar ver es ver qué es lo que nos están pidiendo Entonces primero vamos a interpretar qué es lo que nos piden vamos a dibujar primero un sistema de coordenadas bien porque este cuerpo rígido está ubicado en el espacio y en ese sistema de coordenadas ten un cuerpo rígido bien hasta ahí todo bien entonces lo siguiente que nos dice es que se encuentra en rotación instantánea a lo largo de un eje que pasa por el punto a Entonces se encuentra en rotación instantánea a lo largo de un eje que pasa por el punto a el cuerpo este entonces tiene una rotación pura y no hay forma de saberlo Me parece hay que hac"
 resource: "https://www.youtube.com/watch?v=FaJ5IhQa65E"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:47.361Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:52:30.172Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"

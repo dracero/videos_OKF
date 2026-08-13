@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "la grabación si en algún momento aparecen nombres de estudiantes y demás porque la vez pasada había grabado un montón de notas y nombres de estudiantes y resulta que no se puede entonces después hubo como sarla y estuvimos como un mes editando para que no aparecieran los nombres Así que si ahora tienen que aparecer nombres la grabación la pongo en pausa bien Bueno vamos a empezar a ver este rápidamente las opciones que tenemos nosotros cuando creamos un cuestionario en este moodle en general para evaluar lo ideal es hacer usar cuestionarios Aunque depende también de las características de la materia hay algunas materias que usan tareas la Cuál es la principal diferencia entre la tarea y el cuestionario desde el punto de vista de la nota sucede que el cuestionario es un elemento de calificación automática el cuestionario no Uno no puede elegir la escala con la que califica cuando yo estoy trabajando con una tarea yo puedo en la tarea poner eh notas que yo mismo creo como este aprobado no aprobado satisfactorio no satisfactorio etcétera En cambio en el caso de los cuestionarios solamente me permite poner notas numéricas Por qué Porque el cuestionario lo que hace es califica en"
 resource: "https://www.youtube.com/watch?v=D8HATcLrUYw"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:32:47.075Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:52:29.396Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"

@@ -5,7 +5,7 @@ description: "Grabado con mi teléfono móvil Android. - Captured Live on Ustrea
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=Y0e7wK9mAHI"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:34:20.162Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:10.819Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCx1KkYmHhghhGFgA7VP2aWQ.md"
     title: "Channel: Diego Racero"

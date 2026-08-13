@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Bueno, ahí Antigravity en aproximadamente unos 5 o 6 minutos terminó de hacer todo el sistema y acá vemos, levantamos el servidor y ya vemos el sistema funcionando. Acá vemos cómo está leyendo la temperatura. Fíjense, vamos a cambiar el valor de temperatura. Ahora lo vamos a poner en 25 gr. y la humedad la bajamos a 61,5. Y fíjense como acá ya muestra el cambio. Y acá tenemos la serie temporal que nos va mostrando a los distintos time stamps cómo fue variando la presión y la temperatura desde que comenzamos las mediciones. Yes."
 resource: "https://www.youtube.com/watch?v=YD39doeAK84"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:07.588Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:31.107Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"

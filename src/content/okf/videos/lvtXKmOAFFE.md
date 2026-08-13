@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "El video que vamos a ver tiene la intención en esta primera parte de mostrar cómo funciona el orquestador con el framework BAI y cómo funcionan los agentes. Dos de ellos son damis, que son agentes que no hacen nada, pero están en un distinto framework de agentes y van a servir para demostrar como el orquestador interpreta la intención del usuario y en función de la forma en la que se presenta el agente a través del agent card direcciona para que se realicen las distintas acciones según el agente que sea necesario. Vamos a ver en principio el código. Vemos acá, lo primero que levanta es el orquestador BI. Después van levantando los agentes, primero el agente de física, después el creador de imágenes y por último el agente médico. Y finalmente esto que está aquí es el frontend. Levanta ya el frontend para que podamos empezar a trabajar. Y acá vemos ya está el frontend levantado. Vamos a ver ahora entonces le podemos decir qué cosas podés hacer. Bien, acá nos dice todo lo que puede hacer en función de lo que tiene. Una de las cosas que tiene el frontend es que podemos ver los agentes. Fíjense acá"
 resource: "https://www.youtube.com/watch?v=lvtXKmOAFFE"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-10T18:33:02.977Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:25.679Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +19,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-10"
+    last_modified: "2026-08-13"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
