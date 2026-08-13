@@ -5,7 +5,7 @@ description: "Esta es la transmisión de prueba para ver cómo funciona la trans
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=7BMUhWkbfIg"
 tags: ["Laboratorio de Física I", "#hangoutsonair", "Hangouts On Air", "#hoa"]
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:12.129Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:21.155Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

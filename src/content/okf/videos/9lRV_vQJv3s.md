@@ -5,7 +5,7 @@ description: "Esto es para la transmisión"
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=9lRV_vQJv3s"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:42.225Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:50.172Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

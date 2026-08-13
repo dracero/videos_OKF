@@ -5,7 +5,7 @@ description: " "
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=IkJDRwpvso8"
 tags: ["cursoh2"]
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:17.874Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:27.084Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

@@ -3,6 +3,7 @@ import path from 'path';
 import dotenv from 'dotenv';
 import { YoutubeTranscript } from 'youtube-transcript';
 import { generateCatalogEmbeddings } from './semantic-search.js';
+import { seedNeo4jFromOKF } from './neo4j.js';
 
 dotenv.config();
 
@@ -373,11 +374,12 @@ Sincronizado exitosamente desde la API de YouTube el ${new Date().toLocaleString
   // 4. Save last sync status
   await fs.writeFile(LAST_SYNC_FILE, JSON.stringify({ timestamp: new Date().toISOString() }, null, 2), 'utf-8');
 
-  // 5. Generate embeddings for search
+  // 5. Generate embeddings and seed Neo4j Graph
   try {
     await generateCatalogEmbeddings();
+    await seedNeo4jFromOKF();
   } catch (err) {
-    console.error('Failed to generate semantic embeddings during sync:', err);
+    console.error('Failed to generate semantic embeddings or seed Neo4j graph during sync:', err);
   }
 
   console.log(`Sync complete. Synced ${Object.keys(channelsInfo).length} channels and ${totalVideosSynced} videos.`);

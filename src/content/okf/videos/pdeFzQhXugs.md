@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "bien ahora qué está terminado el entrenamiento está bastante avanzado vamos a ver si empezamos a poner frases por ejemplo si el cuerpo rígido ruedas sin deslizar y el rozamiento está presente sola en la mitad de la pista que pasa entonces si uno cuerpo rígido [Música] sin deslizar qué sucede si el rosa viéndose hace 0 [Música] bien acá dice que no entiende la pregunta porque es parte de lo que hay que entrenar pero si nosotros seguimos qué pasa qué pasa con un cuerpo rígido que ruedas sin deslizar en la pista tiene mitad rozamiento mitad no para ver las ciencias en un movimiento de atracción sobre el cuerpo activo una fuerza en su centro de producción entonces puede rodar sin utilizar con un rozamiento nulo ven ahí contesta fíjense que hay frases que ya entiende que son sinónimos que tienen el texto libre y las palabras clave sobre la cual la entrenamos que no es textual como lo pusimos porque textual era este qué pasa con esta redacción y de sucre sobre la cual se mueve ven esta es la frase textual que nosotros pusimos al principio a medida que vamos completando el entrenamiento puede responder a otras frases que no"
 resource: "https://www.youtube.com/watch?v=pdeFzQhXugs"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:52:09.348Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:07.049Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

@@ -5,7 +5,7 @@ description: "El proceso de aprender a programar no tiene necesariamente que ser
 transcript_summary: "les había hablado en mi último vídeo de diferentes webs que servían para aprender a desarrollar con hongos en este sentido hay dos cosas que son muy importantes primero ustedes tienen que aprender cosas básicas del lenguaje como por ejemplo las estructuras de datos las variables los bucles las mismas acciones condicionales existen lenguajes que son lenguajes descriptivos lenguajes para hacer realmente programación como nou y javascript react golán que es este que estamos viendo ahora en code academy donde ustedes tienen que implementar algoritmos tienen que implementar cosas que se repiten sistemáticamente según determinadas acciones o parámetros en cambio existen lenguajes como el css el html que en realidad lo que hacen es dar formato visual por ejemplo yo con html y css html le digo al intérprete del browser que voy a poner un botón con css le digo los colores y los tamaños de las letras el tamaño del botón el color de fondo y con javascript o con o si esto tablets con python con gola lo que yo les digo es que hacer cuando alguien presiona el botón que hacer si alguien pone el cursor sobre el botón que hacer si alguien por el cursor dos veces sobre"
 resource: "https://www.youtube.com/watch?v=y1S4fh5gSO8"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:03.676Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:12.498Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

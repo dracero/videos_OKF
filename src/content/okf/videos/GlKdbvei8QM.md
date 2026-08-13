@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Vamos a mostrar un sistema llamado MSP Host, que eh sirve como MSP client y utiliza como host un LLM. En este caso nosotros vamos a usar Olama Quin 2.5, pero puede también utilizar si nosotros quisiéramos eh Gemini 2.0. Acá vamos a hacer uno es sencillo. ¿Qué particularidad y qué tiene de bueno que cualquier MSP server que nosotros querramos conectar de los que están en GitHub publicados, que cada vez son más y más, lo podemos conectar utilizando MSP Host con la misma configuración que conectaríamos en Antropic Desktop, Cloud Desktop, perdón, el de Antropic. Bien, entonces ahí empezamos. carga todos los MCP servers. Fíjense una cosa, acá podemos buscar cosas en internet a través de Dagdag Go. Podemos hacer una consulta a una base de datos SQL, podemos hacer una consulta a una base de datos new for o podemos crear algo en nuestro file system. Por ejemplo, si le decimos podés crear el directorio barra TMP/prueba. Fíjense que es Quen 2.5, que es el LLM interactuando. Ahí ya lo creó el el directorio a través del LLM con el MCP Server puede interactuar con nuestra computadora y crearnos un directorio. Y ahora si le decimos podés"
 resource: "https://www.youtube.com/watch?v=GlKdbvei8QM"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:57.234Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:13.390Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

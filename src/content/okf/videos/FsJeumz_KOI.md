@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "el consentimiento no no se dejaba y consintieron todos bien buenos e perfecto bien bueno acá acá hemos regresado a expresar la posición y la aceleración del objeto en función del tiempo en coordenadas cartesianas y acá dice igual segundo es calcular la avería y la situación del objeto en coordenadas intrínsecas y determinar si el objeto está aumentando o disminuyendo su rapidez bien antes que nada todo el mundo sabe qué rapidez intentemos si hablar bien estoy leyendo el chat no pueden hablar lo ideal sería que hable en el ideal sería tener prendida la cámara para ver que nadie hizo como mi hijo que te pone la clase se pone a jugar a la monash pero voy este hasta bien bien si es correcto las cantidades se refiera al pueblo de la velocidad viviente eso es lo primero que hay que hacer es usted lo primero que tienen que ver es que entienden todos los términos porque uno jamás podría hallar la rapidez y la rapidez no sabe lo que es pero bien es el módulo de la velocidad entonces qué es lo que pasa acá nos dan la velocidad la velocidad vectorial entonces vamos a ver acá"
 resource: "https://www.youtube.com/watch?v=FsJeumz_KOI"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:52:30.886Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:34.586Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

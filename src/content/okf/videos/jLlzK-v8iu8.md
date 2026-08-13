@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Bueno entonces ahora con este código vamos a bajar ultralytics definimos la variable home acá vamos a bajar el modelo que entrenamos recién Esta es la versión dos ven que acá dice versión dos ahí bajamos el modelo a este directorio le tenemos que poner datasets porque es el nombre que necesita después el Script de ultralytics para poder entrenarlo y dentro de datasets vamos a Data Data yam y acá borramos todo esto y dejamos solamente train images y valid images como directorios lo grabamos esto ya está ya lo bajamos y ahora vamos a ir al proceso de entrenamiento primero bajamos el modelo y creamos el archivo para hacer el transfer learning de los pesos y acá si tenemos todo bien va a empezar a entrenar el modelo que nosotros le indicamos en Data yam bien Ahora va a empezar a a entrenarlo va a tardar un rato pero bueno cuando termine va a estar el el modelo hecho con tuning fíjense que acá creo un directorio rans después les voy a mostrar como dentro de ese directorio rans tengo los pesos del modelo entrenado"
 resource: "https://www.youtube.com/watch?v=jLlzK-v8iu8"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:25.680Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:34.932Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

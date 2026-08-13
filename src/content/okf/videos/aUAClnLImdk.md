@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Hola, hoy nos metemos en un tema que, bueno, suena complicado, pero es superútil. Los sistemas de partículas. Imaginen e no sé, los planetas girando o las moléculas en un gas, muchas cosas interactuando. Tenemos aquí unos apuntes de física que la verdad lo explican bastante bien. Nuestra idea es sacar lo esencial, ¿no? Entender cómo se comporta el grupo. Exacto. La idea es pasar de describir una sola partícula, que ya sabemos a entender la dinámica de un montón de ellas juntas. Y vamos a ver que hay herramientas como el centro de masa que nos facilitan muchísimo la vida. Eso suena bien, eso de facilitar. A ver, empecemos por lo básico. Un sistema de partículas, pues es eso, ¿no? Una colección de masas. Y has mencionado el centro de masa, el CM, que es exactamente una especie promedio. Ajá. Sí. Es como la posición promedio de todas las partículas, pero ojo, ponderada por la masa. Las más masivas tiran más de ese promedio, por así decirlo. Y lo potente, lo realmente útil, es que el sistema se mueve como conjunto como si toda su masa estuviera concentrada en ese punto, en el CM, y como si todas las fuerzas externas"
 resource: "https://www.youtube.com/watch?v=aUAClnLImdk"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:41.877Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:04.301Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

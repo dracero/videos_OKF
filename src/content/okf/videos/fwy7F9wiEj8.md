@@ -5,7 +5,7 @@ description: "Detectando con yoloNAS"
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=fwy7F9wiEj8"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:30.509Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:39.933Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

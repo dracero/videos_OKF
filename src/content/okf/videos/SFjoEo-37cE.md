@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "bueno eso por un lado o sea igual esto ya va a ser estamos hablando de cosas para el año que viene para este año porque estamos al primero de diciembre el próximo miércoles es feriado es 8 de diciembre de la inmaculada concepción y el otro ya es 15 de diciembre ya estamos prácticamente sobre el final de cuatrimestre en enero nos apagamos así que volvemos en febrero y en febrero vamos a volver viendo esto de gracia igual ahora les quiero dar algo de codo y les quiero mostrar y después lo otro que yo en lo que también estuve trabajando y que vamos a hacer después es trabajar en autorización acceso y login para eso lo que vamos a hacer es vamos a autorizar solamente aquellas personas que tengan mail de gmail de firma vamos a usar una estrategia de autenticación que se usa con un malware que ya para word y express el front end va a estar en riad lo que vamos a ver vamos a hablar de todo lo que falta autenticación que no vimos nunca ahí sí open atendí keys john 2 como setear de google para usar el open auto indicación 2 de google"
 resource: "https://www.youtube.com/watch?v=SFjoEo-37cE"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:41.278Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:49.589Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

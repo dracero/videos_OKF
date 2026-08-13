@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "una vez que instalamos el servidor de la vamos a tener a nuestra disposición la consola del google cloud platform dentro de la consola de google cloud platform vamos a computer inc acá aparece el computing o la máquina virtual que se creó para poder soportar con su sistema operativo nuestro servidor hacemos clic en el nombre de la máquina una vez que entramos a la máquina buscamos el network interface card el nick y hacemos clic sobre el negro vamos a donde dice direcciones ip externas nuestra máquina va a tener una dirección ip externa que va a decir dinámica que es esta dirección ip externa una ip pública para que nos encuentren desde fuera y vamos a elegir ip estática"
 resource: "https://www.youtube.com/watch?v=5pn1bIVLP2A"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:49:53.849Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:12:01.314Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"

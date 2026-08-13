@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Bueno, ustedes lo que van a tener es un plan de trabajo. Ese plan de trabajo lo que va a tener son cómo se dividen los grupos y los distintos sprints y adelante en cada uno de los sprints el enfoque principal y el hito de formación. Entonces, la primera, en el primerito de formación, lo que vamos a tener que saber es agentes y el y lo básico de MCP. Para eso ustedes van a tener que buscar contenido de estos cursos, pero lo que yo les recomiendo es vayan a Notebook LM. En este notebook LM yo les dejé absolutamente todo el contenido. Pidan que les hagan, por ejemplo, un video. Pidan que les haga, por ejemplo, ya acá hay ya presentaciones y videos de las cosas que ustedes tienen que hacer. Y una vez que vean ese video, júntense en grupo y empiecen a hacer preguntas, describir situaciones, contar lo que tienen que hacer para que a través de e notebook LM puedan asimilar todo el concepto y con eso puedan realizar la especificación correcta para después ir a Antigravity. Recuerden que si bien Antigravity va a generar código, ustedes necesitan manejar bien el concepto para poder"
 resource: "https://www.youtube.com/watch?v=c-MVyOpfsa4"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:31.319Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:54.719Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "vamos a volver entonces a mostrar cómo entrar agua y ahí ponemos ahí en el buscador de google allí nos aparece vite y ahí hacemos clic una vez que hagamos nos va a pedir que nos dimos de alta con facebook habíamos dicho"
 resource: "https://www.youtube.com/watch?v=AhXnmitk2CU"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:46.084Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:54.153Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "fíjense que acá no responde a esta pregunta porque porque la api todavía está trabajando y está en proceso de entrenamiento porque yo le puse frases nuevas fíjense que si yo le pongo esa frase textual ven que acá la acá reconoce el texto libre reconoce el intento el entity el trade lo que sucede que como yo [Música] yo todavía lo tengo en proceso de entrenamiento la api no contesta pero bueno ni bien esto funcione va a contestar y va a contestar si yo acá por ejemplo le saco los signos igual va a contestar ni el acento ni el signo sea eso ya está está todo solucionado dentro de él el sistema va en contestar fíjense con el mismo rol con las mismas el mismo texto libre las palabras claves lo que sucede es que acá todavía no contesta por qué me dice no entiendo tu pregunta porque los valores que está trayendo todavía no son [Música] no son correctos acaben por ejemplo tiene índice cero no son correctos porque está en proceso de entrenamiento pero ahora vamos a ver cuando termine el proceso de entrenamiento va a responder [Música]"
 resource: "https://www.youtube.com/watch?v=M-CskBvac0c"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:52:09.120Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:06.854Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

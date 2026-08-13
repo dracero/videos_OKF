@@ -5,7 +5,7 @@ description: "Clase de sistemas no inerciales Física I, FIUBA."
 transcript_summary: "0 volvamos al punto del dolor como perdón respecto a que la velocidad blanda de la pelota respecto de tierra qué velocidad angular tiene en el momento que la suelta y velocidad angular tiene al respecto de tierra la pelota pero antes cuando el chico la tenía en la mano qué velocidad angular respecto de tierra tenía la pelota pero no la tenía en la mano pero estaba girando con él la del sistema tenía la del sistema cuando la tira que es lo que provoca que se detenga esa velocidad angular y ya no tenga más velocidad mular la pelota es difícil de ver por eso se lo estoy preguntando pero no hay nada así como ustedes me dicen no en el sentido del eje x no actúa ninguna fuerza y entonces la velocidad en x es constante tampoco actúa ninguna ningún torque que haga que se detenga la velocidad angular de la pelota con lo cual si la pelota respecto de tierra tenía una velocidad angular o mega cuando el chico la suelta de la mano tiene la misma velocidad gular o mega y gracias a eso es que se produce el efecto coriolis bien les queda claro eso es muy importante"
 resource: "https://www.youtube.com/watch?v=vc67-yjiS9U"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:52:27.724Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:31.964Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

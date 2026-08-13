@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "bueno para poder empezar con el h5 pe para poder empezar para o para ejemplificar cómo se usa lo que voy a hacer es un ejemplo con un vídeo que voy a tomar de youtube no hace falta bajarlo ni nada lo que sí hay que tener en cuenta que el vídeo que voy a usar tiene que ser un vídeo que no tenga licencia igual se van a dar cuenta porque si ustedes quieren hacer un vídeo de youtube que está protegido cuando lo vayan a usar en el h5 pe no se va a reproducir les va a parecer algo todo negro bien entonces primero vamos a entrar a youtube están viendo ahí mi compu now perdón es si estás grabando no salió no no no el tema es que no estoy grabando con con mi tele estoy grabando con o bs pero no vemos tu pantalla ahí tendría que aparecer listo perfecto bien acá veo que ya estuvieron trabajando y aparecen algunas de las cosas que han creado ustedes bien primero voy a buscar un vídeo yo voy a hacer un ejemplo de física puede ser cualquier vídeo o inclusive si es un vídeo que produjeron ustedes lo pueden subir y"
 resource: "https://www.youtube.com/watch?v=imhiOEFdzYk"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:52:08.463Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:06.241Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Sporting y ahí estoy grabando después esto lo subo a YouTube bien Bueno entonces cómo se llaman los términos de la potencia ahí en rojo el ro es la densidad Si estamos en el caso de una barra El roe es la densidad del material que forma la barra pero si estamos en el caso de una cuerda en realidad no hace falta tener error directamente ustedes en la cuerda van a tener la densidad lineal de masa y eso es equivalente a ro por la sección transversal Igualmente eso lo tienen que haber visto cuando hicieron el problema obligatorio de El problema obligatorio de ondas a donde hacían ro por la sección transversal Y eso le daba el mooc bien si ustedes tienen Mu la fórmula de la potencia no hace falta conocer la sección transversal de la cuerda tiene mucha tiene la sección transversal por la densidad bien y después a es la amplitud máxima y Omega es la pulsación 2π por frecuencia en el oscilador clásico que es este que estamos viendo ahora la energía o la potencia van a depender de la frecuencia y de la amplitud después van a ver si hacen física 3 el oscilador cuántico a"
 resource: "https://www.youtube.com/watch?v=OPlVo1JXJrk"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:52:05.637Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:03.267Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

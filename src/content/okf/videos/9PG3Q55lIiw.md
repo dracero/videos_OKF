@@ -5,7 +5,7 @@ description: "Panptic vision in real time using meta's detectron2"
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=9PG3Q55lIiw"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:36.334Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:45.655Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

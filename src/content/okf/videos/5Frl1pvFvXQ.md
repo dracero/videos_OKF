@@ -5,7 +5,7 @@ description: "Una breve introducción a la metodología SCRUM."
 transcript_summary: "la metodología haya el scrum la podemos resumir en la existencia de cuatro roles y a su vez cuatro ceremonias o reuniones el primer rol son los stakeholders qué hacen los stakeholders quiénes son los stakeholders los stakeholders o el grupo para el cual está dirigido el producto que queremos crear o el desarrollo que queremos hacer en el caso por ejemplo de física 1 para el caso del chat bot los stakeholders son los alumnos los alumnos son los que en definitiva van a hacer usuarios del chat board y son los que directa o indirectamente van a hacer las especificaciones para que nosotros podamos empezar con la tarea del desarrollo por ejemplo ahora que donde queda plasmado donde se puede seguir las especificaciones que hacen los stakeholders para eso nosotros vamos a usar un sistema que es el sistema jira entonces los stakeholders hacen requerimientos con nosotros conectamos requerimientos y esos requerimientos van a una parte que se llamaba cloud como historias de usuario acá vemos algunas historias de usuario que fueron descritas a partir de relevar requerimientos de stakeholders quién es el que releva a los requerimientos de los stakeholders bien ahí vamos a ver otro rol que es el"
 resource: "https://www.youtube.com/watch?v=5Frl1pvFvXQ"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:52:07.326Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:04.889Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

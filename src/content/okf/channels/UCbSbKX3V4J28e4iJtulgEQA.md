@@ -4,7 +4,7 @@ title: "DiegoTestDireco"
 description: "Diego Racero YouTube Channel"
 resource: "https://www.youtube.com/channel/UCbSbKX3V4J28e4iJtulgEQA"
 tags: [youtube, channel, education]
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:49:39.569Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:07:25.905Z" }
 verified: machine-confirmed
 status: current
 custom_url: "@diegotestdireco3494"

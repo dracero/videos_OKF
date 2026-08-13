@@ -5,7 +5,7 @@ description: "Grabado con mi teléfono móvil Android. - Captured Live on Ustrea
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=Y0e7wK9mAHI"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:10.819Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:19.989Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

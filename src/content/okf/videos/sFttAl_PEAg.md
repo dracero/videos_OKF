@@ -5,7 +5,7 @@ description: "Cómo hacemos un buen video educativo."
 transcript_summary: "eh Ah no no no era la es es la de las curvas de Lisa bueno era la de las curvas de Lisa Bueno entonces la experiencia esta hacer es demostrar las curvas de lis tenemos acá para poder ah el osciloscopio para poder ver el ejemplo de curva de lis faltan voy a buscar me faltan las puntas y el tema que tampoco lo tenemos enchufado así que bueno el tema es que qué hacemos Porque si yo hablo allá se va a ver Esto entonces que cómo es acá lo habíamos puesto entonces lo que vamos a hacer es conectar las puntas tanto en la parte del eje I como del eje x para que podamos visualizar las curvas en el formato de dos dimensiones qué es lo que tuvimos que hacer lo que tuvimos que hacer fue bajar un poco la luz porque sucede que si no la pantalla del osciloscopio no se ve lo que vamos a tener que hacer [Música] es no estábamos [Música] nosotros bueno correctamente la base de tiempo tanto en el eje y bien como en el eje x bien si no está el seteo correcto lo que va a pasar Es que cuando nosotros quis"
 resource: "https://www.youtube.com/watch?v=sFttAl_PEAg"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:52:00.927Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:09:58.963Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "no las pilas es mucho más barato no a ver espera eh"
 resource: "https://www.youtube.com/watch?v=SJFsJEE8vFc"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:11.821Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:24.368Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "esto es buenísimo bueno a ver pasó a presentar pantalla sí para que yo voy a hacer una cosa no tengo permiso para compartir pantalla y para no ser capaz que a ver qué raro más que soy yo otra vez alí solís de listo para que para no distraer salvo mi gozo y mateo bueno bueno bienvenidas la idea es mostrarles cómo va a funcionar esta herramienta para poder cargarle las respuestas al chat bot acá prepare un pequeño diagrama la idea es que el chat con lo que va a hacer es tomar estas preguntas de alumnos vemos haga la misma pregunta hecha varias veces diferentes formas se la va a enviar al chat del chat lo que va a hacer es detectar la intención de esto el intento se le dice en un formato así estandarizado y entonces es para estos formatos estandarizados lo que queremos es la respuesta esta herramienta lo que permite es esta parte de acá como convertir esto en esto estas respuestas pueden ser varias y pueden tener varios formatos no puede ser un texto puede ser un link pues una imagen ahora lo vamos a éste no bueno nada eso esta es la herramienta vamos a ver que"
 resource: "https://www.youtube.com/watch?v=3QjTb_Nn4qY"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:52:23.413Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:15.602Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

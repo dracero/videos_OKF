@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Tenemos nosotros el simulador que toma valores de presión de humedad y temperatura con un SP32 y se conecta un broker público Hind usando MQTT. Lo que vamos a desarrollar ahora es tomamos este código, se lo pegamos a Antigravity y le decimos que queremos que nos desarrolle una app en Astro JS para que muestre la serie temporal de la lectura de los datos y también en una tarjeta cuáles son los datos de humedad y temperatura que está leyendo. Y ahí está creando todo para poder realizar la conexión. Primero va a crear el cliente de MQTT, se va a suscribir al mismo tópico que está el emitiendo el sensor y después va a armar todo con Tailwind para que se vea en una serie serie en una serie temporal y en la tarjeta con los valores. Una vez que esté terminado, lo voy a subir para que lo vean. M."
 resource: "https://www.youtube.com/watch?v=2GG9Vgr76ZY"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:30.887Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:54.291Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

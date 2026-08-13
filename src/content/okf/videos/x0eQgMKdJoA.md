@@ -5,7 +5,7 @@ description: "Yolonas1"
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=x0eQgMKdJoA"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:32.284Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:42.004Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

@@ -5,7 +5,7 @@ description: "Te dejo un video para que veas cómo podés hostear gratis en Hero
 transcript_summary: "el tener una página web cómo hacer para tener una página web rápidamente sin tener que estar desarrollando muchos códigos y poder publicarla esto que yo les voy a explicar es más que nada si ustedes lo que quieren hacer es ponerse a practicar cómo desarrollar código html y cómo desarrollarse ss javascript como desarrollar cómo empezar a aprender a desarrollar web al tener código ya hecho y adaptarlo o como se dice en la jerga cas tomillar lo ustedes pueden ir mucho más rápido que empezando desde cero ahora bien si ustedes lo que quieren es porque tienen un negocio tener una página web al aire yo les recomiendo sitios como 8b o sitios como weeks no les recomiendo para nada que se pongan a desarrollar código porque eso es algo si ustedes están aprendiendo que les va a llevar mucho tiempo lo que yo le voy a explicar ahora es si ustedes quieren ponerse a practicar para aprender a desarrollar el código como hacer vamos a esta página html5 punto net acá tienen un montón de temple o modelos que se pueden bajar para que después ustedes puedan adaptar cambiar o castrense si hacemos clic acá en free dando va a"
 resource: "https://www.youtube.com/watch?v=19sCr-sJezk"
 tags: ["HTML", "JS", "JQery", "Heroku", "Github", "free hosting"]
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:03.394Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:12.331Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

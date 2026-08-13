@@ -5,7 +5,7 @@ description: "How to issue a credential with Aries and VON-Network part two."
 transcript_summary: "bien entonces una vez que yo ejecuto este y que Bob hace un zen Pro pousal Alice va a procesar ese envío de propuesta y yo tengo que usar este método que es illo credencial 2.0 Records Y en este método lo que voy a ver son todas las credenciales que le pidieron a Bob y acá en particular las credenciales Perdón que le pidieron a Alice y acá en particular tengo que identificar el Creedence ID este valor de acá credex ID Este es el credex id que tiene que usar Alice para comunicarse con Bob entonces tomo este Creed ex ID y voy a un Send o sea Bob le hace un sem prosal le llega a Alice que se lee que le están pidiendo esas credenciales con este valor de este nombre y edad que son las credenciales que Ali tienen su esquema yo hago un get para fijarme Cuál es el create next ID y ese create next ID lo tengo que pegar acá en este método cuando hago zen acá hizo el Send offer y ese Creedence ID le mandó a Bob un Send over entonces una vez que manda elsfer Bob tiene que hacer un Send request"
 resource: "https://www.youtube.com/watch?v=YB6se2cggYs"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:52:06.799Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:04.410Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

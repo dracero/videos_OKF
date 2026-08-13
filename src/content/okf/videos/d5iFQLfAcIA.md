@@ -5,7 +5,7 @@ description: "Snake"
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=d5iFQLfAcIA"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:28.029Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:37.237Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

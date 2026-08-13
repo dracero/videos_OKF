@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "vamos a subir un archivo moodle en este móvil que creamos de prueba y vamos a ver inmediatamente qué pasa con la carpeta model data entonces primero veamos acá la carpeta model data tiene al inicio sin haber cargado ningún archivo un tamaño de 15 3 megas bien acá pueden verlo y un tamaño del disco de 18 8 megas perfecto vamos ahora a cargar un archivo vamos a activar edición y añadir una nueva actividad los recursos vamos a poner un archivo le vamos a poner pruebas buscamos un archivo que ya tenemos en [Música] nuestra máquina acá tenemos este archivo fíjense vamos a ver pesa 10 9 megas entonces subimos el archivo -este subimos el archivo y le damos guardar cambios y regresar al curso ahora que ya tenemos subido el archivo vamos a la carpeta mulata fijamos nos fijamos en propiedades y fíjense que aumentó antes pesaba 15 5 y 18 el disco y ahora pesa 26 -cinco de tamaño y 30 como un megane disco o sea prácticamente ha duplicado su tamaño con el archivo que subimos que recuerden pesaba 10 megas bien vamos a ver qué pasa si borramos este archivo nosotros hicimos bueno ya no lo"
 resource: "https://www.youtube.com/watch?v=mPCvwPJzo2k"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:52:18.868Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:11.276Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

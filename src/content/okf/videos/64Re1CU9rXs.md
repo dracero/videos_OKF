@@ -5,7 +5,7 @@ description: "d ervtr"
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=64Re1CU9rXs"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:08.058Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:16.767Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

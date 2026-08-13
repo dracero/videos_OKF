@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "para exportar el archivo entonces lo que tenemos que hacer es vamos a verlo acá mejor vamos a abajo a la izquierda al botón que dice export hacemos clic en el botón export que tiene nuestro pen y acá ponemos export zip"
 resource: "https://www.youtube.com/watch?v=FRBUgr9zVPw"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:49:53.573Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:12:01.026Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"

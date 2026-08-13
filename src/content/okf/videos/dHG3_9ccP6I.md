@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Bueno una vez que estás acá en la página de code Academy a donde dice login elegís loguearte con Google y elegís el mail de fiuba una vez que entraste acá al mail de fiuba hacés click Perdón al mail de vez que entraste AC Academy con el mail de fuba ha donde dice catálogo y elegís python y acá donde dice filtros acá tenés paid And Free Ahí pones free y acá tenés learn python 2 free cse Bueno Este es el que dicen progress porque yo lo había empezado pero este curso libre Getting started with python python for programmers learn intermate python object oriented programming Machine learning intro to Data visualization p que este pch es para es un package de meta Google para hacer redes neuronales Big Data con bueno apach Spark matemática discreta todo con python Language model p for Data Science una vez que bueno acá flask que es para construir apis con servidores en realidad conviene más pero ar Eh bueno probabilidad todos estos son cursos de python y son todos gratis eh Y está muy bueno Mira te voy a mostrar este que yo estoy en progreso eh ahí le pongo reasumir el curso te"
 resource: "https://www.youtube.com/watch?v=dHG3_9ccP6I"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:24.076Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:33.500Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

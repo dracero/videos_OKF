@@ -5,7 +5,7 @@ description: "Pose estimation in real time using metás detectron2"
 transcript_summary: "Bueno vamos a ver cómo puede detectar las distintas posiciones fíjense la posición de los ojos la distancia a la nariz miren si voy acortando la distancia a la nariz como sabe que ahí bajé la cabeza muy útil en todo lo que es seguridad industrial para hacer la detección de poses fíjense en tiempo real con una Webcam una geforce 1070 Obviamente con una placa con una placa mejor y más nueva lo va a ser más rápido y por supuesto también va a servir ahí detecta atrás tengo otra persona fíjense que es En definitiva mi reflejo que lo está detectando como otra persona más que está sentada y también detecta la pose y sirve para controlar ideal para todo lo que es seguridad industrial o para todo lo que tiene que ver por ejemplo por seguridad de boliche para ver que alguien no esté peleando etcétera"
 resource: "https://www.youtube.com/watch?v=nmtoCO4GRJM"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:36.581Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:45.883Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

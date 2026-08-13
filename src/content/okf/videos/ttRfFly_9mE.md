@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Bueno, vamos a mostrar cómo funciona el MCP Server de Visual Studio Code. Tenemos configuradas dos features. Uno es la posibilidad de conectarse a la web utilizando Playwright y otra es la posibilidad de conectarse a Moodle y a partir de un nombre de usuario darnos los cursos que en los que está inscrpto ese usuario. Vamos a empezar. Por ejemplo, ¿me podés dar el clima para hoy en Buenos Aires desde la página de We Channel y el pronóstico para mañana? Entonces ahí le indicamos que se conecte a la página de Weather Channel y que me dé el clima para hoy y el pronóstico para mañana. Nos dice que va a conectarse a esta página, ahí usa el MCP Server y en un rato nos va a dar. Fíjense que todo lo maneja directamente el LLM. Ahora, desde el mismo LLM puedo utilizar otra API distinta. ¿Ven que es lo que está pasando ho? un clima totalmente lluvioso. Le voy a decir, podés decirme los cursos de Moodle en los que está inscrptocero@fi.ar. Entonces, ahora, ¿qué es lo que pasa para dar en los cursos con un usuario? Primero tiene que buscar el user ID. Acá tenemos dos tools que el mismo Llm"
 resource: "https://www.youtube.com/watch?v=ttRfFly_9mE"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:52.625Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:10.685Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

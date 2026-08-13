@@ -5,7 +5,7 @@ description: "Yolov8 Distance Detection"
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=K0P6WZEnQiI"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:01.825Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:11.191Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

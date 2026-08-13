@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "bueno para poder traer un mapa de un día y horario específico una vez que abriste el wise and file en forma guay archivo y acabamos la sele elegís por ejemplo de él del 24 al 25 si queremos traer un mapa que diga por ejemplo 350 y hacemos clic en este icono que tiene las dos flechas y acabamos el 24 24 las 23 5 hacemos clic en ok acá ya va a traer el mapa del 24 a 23 50 entonces hacemos clic en el que viene y ahí éste va trayendo del mapa que como sabemos esto es algo que va a tardar un rato [Música] no verdad bueno ahí está trayendo una vez que tienes el mapa podéis ir a tools y en tours haces demandé de action haciendo clic en demande de action lo que va a hacer es te va a pasar el tráfico medido al tráfico simulado y después si lo que quieres hacer es incrementar los porcentajes de tráfico tools perdón inicia la jcas y dentro de iniciar la jcas modify de man traffic y acá escribís el porcentaje que queréis modificar"
 resource: "https://www.youtube.com/watch?v=RIcq9Ipe2Eo"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:03.907Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:12.755Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

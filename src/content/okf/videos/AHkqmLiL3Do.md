@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "hasta ahora habíamos visto cómo utilizar el aprendizaje por refuerzo en ambientes que estaban especialmente preparados para probar los algoritmos de aprendizaje por refuerzo como el ambiente gymnasium de Open Ai ahora qué es lo que sucede realmente a nosotros no nos resulta útil utilizarlo en ese ambiente que está encapsulado y que no puede utilizarse o reutilizarse en ningún tipo de aplicación útil que es simplemente para ver cómo funciona un algoritmo a nosotros lo que nos interesa es poder utilizar los algoritmos de aprendizaje por refuerzo en un ambiente custom es decir en un ambiente personalizado Y eso es lo que vamos a hacer en este en este caso utilizando un juego que nos bajamos de la página de epig Game un juego sencillo que se llama space invaders este juego tengo una cierta una cierta cantidad de alienígenas y esos alienígenas Invasores los tengo que ir matando con disparos que hago con la barra espaciadora y movimientos de la nave hacia la izquierda y hacia la derecha lo que yo voy a hacer es tomar la biblioteca de stable basel 3 Por qué tomo la biblioteca porque implementar directamente los algoritmos de aprendizaje por refuerzos Es realmente"
 resource: "https://www.youtube.com/watch?v=AHkqmLiL3Do"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:20.531Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:32.015Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

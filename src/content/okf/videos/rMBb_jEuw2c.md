@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "¿Qué tal, Lucas? Bueno, mira, te muestro cómo hacer para abrirlo. Haces clic donde dice estructura de CEC. Como vos estás como editor, te va a dejar, ¿ves? Si yo acá pongo compartir, eh, vos estás como editor, entonces te va a dejar abrir con este drogo. Entonces ahí lo abrís. Una vez que abre, no se le está chiquitito, pero ¿qué es lo que se puede hacer? apretas la tecla control y la ruedita del mouse que es el scroll y ahí eh empieza a agrandarse. Acá, por ejemplo, vi que hay que cambiar algo porque eh hablaba de Martín Rivero y acá por el momento quedó vacante. Entonces ahí lo achico. Eh, acá veo dónde estaba. Entonces vamos a ubicarlo acá. control y el scroll lo agrando y este acá lo borramos y eh acá le doy guardar y ya queda guardado. Bien, entonces acordate la tecla control y el scroll. Para abajo se achica y para arriba se agranda. Y lo único malo que tiene que tenés que moverte con eh con esto para poder verlo, porque no es como el eh el miró que podés agarrar la manito para arrastrar."
 resource: "https://www.youtube.com/watch?v=rMBb_jEuw2c"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:28.656Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:52.562Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

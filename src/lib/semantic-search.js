@@ -2,6 +2,7 @@ import fs from 'fs/promises';
 import path from 'path';
 import { pipeline, env } from '@xenova/transformers';
 import matter from 'gray-matter';
+import { graphRAGSearch } from './neo4j.js';
 
 // Set cache directory to /tmp for Vercel / Serverless write permission compatibility
 env.cacheDir = '/tmp/transformers-cache';
@@ -183,9 +184,10 @@ export async function generateTranscriptEmbeddings() {
 
         // Chunk condition: ~150 words or end of array
         if (wordCount >= 150 || i === segments.length - 1) {
-          // Enrich chunk text with OKF context (video title + channel)
+          // Enrich chunk text with OKF context (video title + transcript summary + channel)
           const channelTitle = channelsInfo[videoMetadata.channel_id] || 'Diego Racero';
-          const enrichedText = `Video: "${videoMetadata.title}". Canal: "${channelTitle}". Contenido: ${currentText}`;
+          const summary = (videoMetadata.transcript_summary || videoMetadata.description || '').substring(0, 150);
+          const enrichedText = `Video: "${videoMetadata.title}". Canal: "${channelTitle}". Resumen: "${summary}". Contenido: ${currentText}`;
           const vector = await getEmbedding(enrichedText);
 
           chunksEmbeddings.push({
@@ -334,18 +336,29 @@ export async function semanticSearchChunks(queryText, limit = 12) {
     .slice(0, limit);
 }
 
-// Unified Fusion Search: combines catalog + transcript results
+// Unified Fusion Search: combines catalog + transcript results (with Neo4j GraphRAG optimization)
 export async function unifiedSemanticSearch(queryText, limit = 15) {
   if (!queryText || queryText.trim() === '') return [];
 
   // 1. Get query vector once
   const queryVector = await getEmbedding(queryText);
 
+  // Attempt Neo4j GraphRAG Vector Search O(log N) first if local Neo4j instance is reachable
+  try {
+    const graphResults = await graphRAGSearch(queryVector, limit);
+    if (graphResults && graphResults.length > 0) {
+      console.log(`[UnifiedSearch] GraphRAG (Neo4j) returned ${graphResults.length} high-precision nodes.`);
+      return graphResults;
+    }
+  } catch (err) {
+    console.warn('[UnifiedSearch] Neo4j GraphRAG unavailable, falling back to local JSON index:', err.message);
+  }
+
   // Normalize query for keyword matching
   const cleanQuery = queryText.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
   const queryWords = cleanQuery.split(/\s+/).filter(w => w.length > 2);
 
-  // 2. Load both embedding indexes
+  // 2. Load both embedding indexes (Fallback)
   let catalogEmbeddings = [];
   let chunksEmbeddings = [];
 

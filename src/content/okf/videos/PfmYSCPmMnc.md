@@ -5,7 +5,7 @@ description: "Fisica"
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=PfmYSCPmMnc"
 tags: ["Physics"]
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:19.198Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:28.065Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"

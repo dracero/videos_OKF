@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Para poder estudiar todo lo que nosotros necesitamos, yo les voy a dejar un notebook LM a donde ustedes van a poder consultar todo lo que necesitan saber. Lo que vamos a ver cada vez que nos encontremos es el grado de avance que han tenido ustedes con ciertas cosas que nosotros le vamos a pedir que vayan revisando. ¿Cuál es la ventaja de usar Notebook LM? Miren, por ejemplo, yo tengo acá este video que explica Asian skills. Este video de Asian Skills está en inglés. Ahora, ¿qué puedo hacer? Puedo copiar la URL de video, voy a donde dice añadir fuentes, voy a donde dice sitios web, pego la fuente y la inserto. Yo ya la tengo insertada. Una vez que la inserto, el sistema lo que va a hacer es va a usar su capacidad de razonamiento y todo el contenido que está dentro de ese video para explicar el tema, además de todo lo que tiene en su corpus de entrenamiento. Entonces, en cambio de tener que leer, es como si tenga si tienen un tutor que les va a ir contestando. Nosotros vamos a ver cuando nos encontremos qué preguntas son las que tienen que hacer en función de los"
 resource: "https://www.youtube.com/watch?v=p5vSRQbGPD8"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:31.768Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:55.087Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

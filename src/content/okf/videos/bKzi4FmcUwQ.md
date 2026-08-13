@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "A2 Wii. A2U WI es un lenguaje declarativo de Google que sirve para que los agentes envíen mensajes al frontend. Es un lenguaje declarativo de Jason que utiliza su Vesco Pilot kit, es decir, a GUI, para poder transformar ese lenguaje de Jason en un frontend, en la parte nativa del frontend que estoy usando. Por ahora soporta solamente JavaScript, pero va a soportar Angular, React y, finalmente todos los lenguajes de frontend que conocemos basados en NS. Lo importante es que este lenguaje declarativo cambia en función de lo que uno le dice a la gente. Vamos entonces a entrar acá. Le podemos decir, qué sé yo, que haga un saludo. Ahí generó un saludo. Lo podemos personalizar. Hola, ¿qué tal? Pero también le podemos decir hace un botón con fondo naranja que diga hola. Y ahí le estamos pidiendo que nos haga un botón con fondo naranja que diga hola. Ahí, fíjense que cree el le enviamos un mensaje a la gente, el agente genera ese lenguaje declarativo de Jason, lo transforma al lenguaje del frontend a través de GUI. Y acá lo estamos viendo. Fíjense que acá le hacemos clic y aparece un alert. E le vamos a poner acá cambiar"
 resource: "https://www.youtube.com/watch?v=bKzi4FmcUwQ"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:32.445Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:55.269Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

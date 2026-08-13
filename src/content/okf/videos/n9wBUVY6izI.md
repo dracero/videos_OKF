@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "bueno entonces entramos a aouate y ahí volvemos a entrar utilizando facebook y una vez que entramos utilizando facebook vamos a ir donde dice maya y vamos a elegir la app que trabajamos recién la que grabamos recién vamos a hacer clic ahí y ya tenemos la en la parte de understanding es donde nosotros vamos a poner las frases que se llama new trans para poder entrenar a nuestra aplicación intense acuérdense que son el primer juego de datos estructurados en donde nosotros le decimos a la aplicación de qué se trata lo que está de qué se trata el texto s el estamos después de los dos elementos más que son tres científicos la sentí tease son elementos pre armados que sirven para mejorar la comprensión del texto que lo estamos ingresando son sant datos estructurados pre armados aunque también nosotros podemos definirlos en función de aquellos datos estructurados pre armados que sean necesarios para nuestra para nuestra aplicación o para y los tres también son datos pre armados fíjense que acá podemos poner bit sin trades y acá está por ejemplo [Música] acá tenemos un trade que dice on off que dice que [Música] lo que hace es"
 resource: "https://www.youtube.com/watch?v=n9wBUVY6izI"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:46.308Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:54.332Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

@@ -5,7 +5,7 @@ description: "sdgwvet"
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=ZYGPMeeCXG4"
 tags: ["xf dth tr"]
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:49:43.762Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:56.276Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"

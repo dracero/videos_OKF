@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "[Música] Bienvenido. Gracias por participar."
 resource: "https://www.youtube.com/watch?v=3XqejUi2R4U"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:39.314Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:02.715Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

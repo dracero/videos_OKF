@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "bueno les voy a mostrar un poco cómo ver este informe acá arriba lo primero acá ya está seleccionado que es el google analytics que saca los datos directamente de la página del instituto este es el rango de fechas acá es donde ustedes quieren ver por ejemplo yo quiero ver ahora el rendimiento del mes y en faltan tres días voy a ponerle iniciar el 1 de agosto finalizar el 28 de agosto que es hoy y hago clic en aplicar entonces acá me está pasando todos los datos entre el 1 y el 28 de agosto o sea en estos 29 28 días de agosto 191 usuarios nuevos 237 sesiones mil 305 páginas vistas qué quiere decir que estos 191 usuarios navegaron por las páginas del instituto un total de 1.305 páginas ya que fueron volvieron estuvieron averiguando y realmente navegaron y estuvieron mucho tiempo y el porcentaje de rebote es decir aquellas personas que llegaron a la página y se fueron sin navegar es de 12 2 % o sea que hay un 88 por ciento de estos 191 usuarios que navegaron está cómo fue fíjense que acá se ve la evolución mensual hubo un pico qué fue"
 resource: "https://www.youtube.com/watch?v=J4G5EFSNuTA"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:42.498Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:50.371Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

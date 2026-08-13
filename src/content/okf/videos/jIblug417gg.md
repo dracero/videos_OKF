@@ -5,7 +5,7 @@ description: "Video de RL"
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=jIblug417gg"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:52:01.676Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:09:59.871Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"

@@ -5,7 +5,7 @@ description: ""
 transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=7PhcEGxTKVg"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:50:33.419Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:57.309Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"

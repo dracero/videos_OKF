@@ -5,7 +5,7 @@ description: ""
 transcript_summary: "Bueno ya logramos hacer que se genere el código completo como lo hicimos para que pueda generar el código completo Qué problema teníamos la ventana de contexto de gemini era una ventana de contexto que no es suficientemente grande para soportar toda la respuesta Entonces modificamos el código para que lo divida en cuatro fases entonces generamos distintos chunks en cada una de esas fases Y tenemos el completo full stack completo pero generado en distintas en cuatro fases en cada una de esas cuatro fases se va dividiendo los chuns y nos va dando el código primero nos da el frontend después nos da el el backend y después lo que hace es toda la parte de bopping o sea user interface acá ven tenemos las tres fases y lo que también para que pueda hacer el bootstrapping es pusimos la página de bootstrap en en el scrapping y cuando hacemos el scrapping y el cowling para obtener los datos necesarios para después Buscar nuestro para que funcione nuestra Gen rag lo que hacemos Es también ahora guardar la página de bootstrap bien Así que ya tenemos nuestro generador de código funcionando full functionality"
 resource: "https://www.youtube.com/watch?v=NU03Fz3pKn4"
 tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T20:51:05.217Z" }
+generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:20.043Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
