@@ -4,8 +4,12 @@ title: "video2"
 description: ""
 transcript_summary: "o que está abierto abierto que vamos a ver en los extremos mientras mientras Exacto si en los dos extremos hay vientos inevitablemente que va a aparecer en alguna parte del medio exactamente vamos a tener un nodo en el medio está bien Y entonces acá Cuántas longitudes de onda tenemos en la longitud del tubo media longitud perfecto hasta acá me siguen sobre cuatro Sí perdón dije dije una cosa y escribí otra vez yo Esto sí sé que empieza con él sobre dos y el otro l sobre cuatro pero no no lo veo bien bien no sé blanda sobre dos y Landa sobre cuatro eso claro Perdón perdón digo Ah todo esto es una L y lo corto a la mitad no no porque a ver vos sabes como decíamos recién lo que vas a tener en ambos extremos si el tubo está abierto tienes que tener un vientre si el tubo está cerrado tienes que tener un nodo eso está claro Bueno entonces con esta vibrando en el modo fundamental lo que tenés que pensar es que es lo mínimo que podés llegar a tener digamos se entienden yo Pilar Me parece que ya sé cuál es la"
 resource: "https://www.youtube.com/watch?v=ex-srqBPgk0"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:03.553Z" }
+category: "physics_and_math"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 0.51
+tags: ["physics_and_math"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:16:57.148Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** physics_and_math (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.5 / 3.0
 - **Publicado el:** 25 de noviembre de 2022
 - **Duración:** 01:41:16
 - **Vistas:** 3 | **Likes:** 0

@@ -4,8 +4,12 @@ title: "poseYvelocidad"
 description: ""
 transcript_summary: "no las pilas es mucho más barato no a ver espera eh"
 resource: "https://www.youtube.com/watch?v=SJFsJEE8vFc"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:24.368Z" }
+category: "physics_and_math"
+category_confidence: 0.52
+has_code_demo: false
+difficulty_score: 0.04
+tags: ["physics_and_math"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:21:42.617Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** physics_and_math (confianza: 52%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.0 / 3.0
 - **Publicado el:** 2 de diciembre de 2024
 - **Duración:** 00:23
 - **Vistas:** 1 | **Likes:** 0

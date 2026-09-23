@@ -4,8 +4,12 @@ title: "parte4"
 description: ""
 transcript_summary: "una vez que el archivo subió hacemos clic en el botón restore para comenzar con la restauración del curso recuerden que como es un archivo de casi un giga va a tardar mucho en el poder porque es un archivo de casi un giga porque está lleno de las imágenes que nos van dejando los alumnos bien ya tenemos el archivo qué bajo fíjense que lo que tenemos son los usuarios estaban escritos en el plus en el curso y recursos y este a siemens que son las tareas porque en definitiva el parcial que nosotros vamos a recuperar es una tarea y acá dice que lo único que tiene es el primer parcial los restaurants se restauran la tarea en este curso o los restaurants dentro de un curso existente que no es esté acá yo voy a elegir restaurarlo el en este curso pongo continuar lo que quiero incluir le pongo que si es todo lo que tiene que la quería el esquema si voy y si quiero mantener el nombre o lo quiero sobreescribir si quiero mantener el orden y lo quiero sobre vivir el momento en que inicia es sobreescribir configuration si quiero importar esto con los datos de usuarios"
 resource: "https://www.youtube.com/watch?v=2hCa98mF7sw"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:30.755Z" }
+category: "education_moodle"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 0.4
+tags: ["education_moodle"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:17:58.898Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** education_moodle (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.4 / 3.0
 - **Publicado el:** 15 de junio de 2021
 - **Duración:** 06:46
 - **Vistas:** 0 | **Likes:** 0

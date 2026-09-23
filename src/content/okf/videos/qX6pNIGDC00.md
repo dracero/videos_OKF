@@ -2,10 +2,13 @@
 type: YouTube Video
 title: "CEAD"
 description: " "
-transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=qX6pNIGDC00"
-tags: ["CEAD"]
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:25.649Z" }
+category: "general_institutional"
+category_confidence: 0.89
+has_code_demo: false
+difficulty_score: 0.07
+tags: ["general_institutional", "CEAD"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:18:31.435Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"
@@ -19,7 +22,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCx1KkYmHhghhGFgA7VP2aWQ.md"
     title: "Channel: Diego Racero"
@@ -39,6 +42,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCx1KkYmHhghhGFgA7VP2aWQ.md)
+- **Categoría:** general_institutional (confianza: 89%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.1 / 3.0
 - **Publicado el:** 9 de julio de 2011
 - **Duración:** 02:02
 - **Vistas:** 7 | **Likes:** 0

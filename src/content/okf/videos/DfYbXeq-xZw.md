@@ -4,8 +4,12 @@ title: "2025 07 12 21 22 10"
 description: ""
 transcript_summary: "Bueno, lo que vamos a mostrar ahora es cómo eh podemos generar un RMI con todos los detalles de un software que estamos haciendo directamente utilizando el agente de eh el modo agente de Visual Studio Code. Entonces, ¿qué le voy a decir? Le voy a decir que me podés armar un RMI pun MD dentro del directorio A2A. A2 A multient que explique cómo armar el punto, cómo iniciar los agentes ¿Cómo iniciar el orquestador y que se usa por línea de comandos? Porque tiene el decorator click. Ahí le dije que me cree un RITMI dentro de este directorio. Ahí empieza a pensar y a trabajar. Vamos a ver cómo lo hace. Ahí ya creó el RMI y ahora le va a poner todo el contenido que nosotros le le pedimos, le dijimos que pusiera. Fíjense como no tenemos que hacer nada más que pedirle que lo haga. Fíjense, ahí lo está creando. Ahí pone cómo se tiene que crear el punto y acá está poniendo cómo instalar las dependencias y cómo iniciar cada uno de los servidores. O sea, ya está listo todo en el RID y acá dice lo que creó, cómo crear el archivo. Y qué debe conectar, cómo instalar las"
 resource: "https://www.youtube.com/watch?v=DfYbXeq-xZw"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:07.908Z" }
+category: "rag_and_agents"
+category_confidence: 0.92
+has_code_demo: true
+difficulty_score: 1.06
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:20:41.399Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** rag_and_agents (confianza: 92%)
+- **Código en vivo:** Sí
+- **Nivel técnico:** 1.1 / 3.0
 - **Publicado el:** 12 de julio de 2025
 - **Duración:** 06:18
 - **Vistas:** 8 | **Likes:** 2

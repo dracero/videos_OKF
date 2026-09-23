@@ -4,8 +4,12 @@ title: "Video3"
 description: ""
 transcript_summary: "ahora que la base de datos ya está creada lo tenemos en la nueva versión podemos ir al playground de la nueva versión y acá le pregunto nuevamente Si hay que saber francés para presentarse a la doble diplomatura bien acá me tira un valor Entonces qué es lo que pasa ahora que está el chatbot eh funcionando ahora que ya tengo todo funcionando esto Igualmente no me sirve porque esto es una un Api de bacen Entonces qué es lo que voy a hacer voy hacer clic acá voy a buscar el python Api voy a copiar esa Api voy a una página que se llama volt volt voy a esta página volt New y acá le pregunto eh le escribo build we app for dis backen y le digo que me arme una we for y digo que react me voy a logar nos pide que nos Lemos Yo ya me di de alta con el mail de la fiu no perdón con github ahí me logó y ahí va a empezar a construir todo archivo por archivo va a ir creando las web Apps con todo lo necesario para que este funcione ya van a ver Ahí va"
 resource: "https://www.youtube.com/watch?v=2GqM45fZ0NI"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:22.660Z" }
+category: "software_web_dev"
+category_confidence: 0.84
+has_code_demo: false
+difficulty_score: 1.06
+tags: ["software_web_dev"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:21:39.806Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** software_web_dev (confianza: 84%)
+- **Código en vivo:** No
+- **Nivel técnico:** 1.1 / 3.0
 - **Publicado el:** 13 de diciembre de 2024
 - **Duración:** 05:16
 - **Vistas:** 2 | **Likes:** 1

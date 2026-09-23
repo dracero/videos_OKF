@@ -4,8 +4,12 @@ title: "Jul 15 2018 9 26 PM"
 description: ""
 transcript_summary: "nuevamente para que puedas aprender un poco más acerca de javascript y todas las posibilidades que él tiene te recomendamos que uses w3 school recordad siempre a la hora de tener que realizar un diseño web lo importante es saber qué tipo de formatos yo quiero para interactuar con el usuario qué forma le voy a dar que justamente eso es lo que me da la css y luego utilizando todas estas funciones de javascript lo que yo voy a poder hacer es ver cómo es que se hace cómo es que se programa esa interacción tenemos montones de cosas bucles loops y tenemos indicaciones condicionales tenemos también la posibilidad de utilizar los o modificar los elementos de la pantalla a través de esto que vimos que es el standard o la verdad que el standard on que es justamente lo que nos permite modificar los elementos de pantalla tiene mucha generación de código y es tan sencillo de comprender para mejorar eso es que existen nuevas tecnologías como ria y gateway pero primero tenemos que aprender a desarrollar bien javascript después ya vamos a poder introducirnos una vez que hayamos comprendido cómo programar html css y javascript y hayamos comprendido la infraestructura"
 resource: "https://www.youtube.com/watch?v=hQJYnf5ZGZY"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:12:03.009Z" }
+category: "software_web_dev"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 0.56
+tags: ["software_web_dev"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:22:12.454Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCDs8wbm1jczac3UNYIAVxZg.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCDs8wbm1jczac3UNYIAVxZg.md)
+- **Categoría:** software_web_dev (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.6 / 3.0
 - **Publicado el:** 15 de julio de 2018
 - **Duración:** 01:44
 - **Vistas:** 2 | **Likes:** 0

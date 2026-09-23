@@ -4,8 +4,12 @@ title: "Jul 18 2018 10 29 AM"
 description: ""
 transcript_summary: "lo primero que tenemos que hacer para poder el servidor en el google cloud es ir a vietnam y puntocom acá tienen la dirección https namic.com bloguear nos vamos a lograr nos entrando con google la primera vez hay que registrarse y entrar directamente y una vez que estamos bloqueados buscamos el servidor en el cual vamos a crear nuestro porque esta aplicación que es el servidor lahm bien entonces vamos al catálogo de apps y ahí está en el catálogo de os buscamos linux apache mysql php ese plan acá encuentra el servidor de lahm le ponemos que es single taller o sea que lo vamos a tener solamente nosotros en un único lugar acá volvemos a escribir para que le quede claro enseguida y acá una vez que lo encontró hacemos clic sobre el nombre del servidor y nos va a decir en que lo lanzamos elegimos lanzarlo acá sobre google cloud una vez que le damos clic nos pide que le pongamos la zona y ya directamente lo va a instalar"
 resource: "https://www.youtube.com/watch?v=sFoD-AUZHNs"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:12:01.892Z" }
+category: "software_web_dev"
+category_confidence: 0.99
+has_code_demo: false
+difficulty_score: 0.33
+tags: ["software_web_dev"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:22:10.881Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCDs8wbm1jczac3UNYIAVxZg.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCDs8wbm1jczac3UNYIAVxZg.md)
+- **Categoría:** software_web_dev (confianza: 99%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.3 / 3.0
 - **Publicado el:** 18 de julio de 2018
 - **Duración:** 01:45
 - **Vistas:** 0 | **Likes:** 0

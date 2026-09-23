@@ -4,8 +4,12 @@ title: "RAG multimodal"
 description: ""
 transcript_summary: "vamos a ver el rag en acción Tengo este documento que es un documento que habla acerca de el tratamiento quirúrgico de la enfermedad de cron y tiene toda una serie de imágenes de distintas recepciones quirúrgicas lo que yo voy a hacer es voy a hacer con consultas sobre este voy a hacer consultas sobre este documento y como estoy utilizando gemini también voy a poner imágenes para que me cuente cosas de las imágenes de acuerdo a lo visto con rag lo que va a hacer es va a ir a buscar Dentro de este documento para responder después vamos a explicar los bloques en forma detallada pero entonces acá le pregunto Cuáles son las alternativas quirúrgicas para [Música] la medad de chom ahí ahí ya llegó la pregunta está procesándolos que yo les mostré recién que es el que yo ingest y que puse en el en el vector Store y acá nos responde en función de lo que de lo que ve en el documento eh Si yo le pregunto cuáles son los diagnósticos diferenciales y acá dice el texto menciona apendicitis aguda como ven que hace referencia al texto como diagnóstico falando que su confusión con"
 resource: "https://www.youtube.com/watch?v=pGyiHDwmpkE"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:26.250Z" }
+category: "rag_and_agents"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 0.66
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:22:04.441Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** rag_and_agents (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.7 / 3.0
 - **Publicado el:** 17 de noviembre de 2024
 - **Duración:** 04:29
 - **Vistas:** 6 | **Likes:** 0

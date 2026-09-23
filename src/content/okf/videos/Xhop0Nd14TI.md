@@ -4,8 +4,12 @@ title: "video_1_agentes_profundos"
 description: ""
 transcript_summary: "Vamos a ver cómo funcionan agentes de búsqueda profunda. Acá ya tengo el chat GPT y le puse investiga fondo, que es en definitiva, activar agentes de búsqueda profunda. ¿Y qué le voy a decir? Quiero ir de Buenos Aires a Europa y necesito que busques la combinación más barata para el mes de Le vamos a poner el mes de abril del 2026. Y ahí le damos que empiece a buscar, me empieza a decir, porque en general los agentes de búsqueda profunda esto, ¿de qué aeropuerto quiere salir? Aeroparque, tenés alguna ciudad europeo destino en mente o está abierta cualquier ciudad con vuelos baratos. tener fechas específicas y entonces hay que incluir solo también opciones con Entonces acá está incluío salir del lugar más barato, llegar al lugar más barato, incluyendo endo todas las combinaciones necesarias. [carraspeo] Entonces, e acá le puse todas las combinaciones necesarias. Quiero salir del lugar más barato y llegar al lugar eh más barato y después dame combinaciones para recorrer Portugal. España, Francia, Alemania, Holanda y el Reino Unido. Ahí empieza la investigación. dice, \"Buscaré la combinación más barata para viajar de Buenos Aires a Europa en abril de 2026, sin importar el aeropuerto"
 resource: "https://www.youtube.com/watch?v=Xhop0Nd14TI"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:08.214Z" }
+category: "rag_and_agents"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 0.03
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:18:04.230Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCx1KkYmHhghhGFgA7VP2aWQ.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCx1KkYmHhghhGFgA7VP2aWQ.md)
+- **Categoría:** rag_and_agents (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.0 / 3.0
 - **Publicado el:** 25 de enero de 2026
 - **Duración:** 07:07
 - **Vistas:** 14 | **Likes:** 0

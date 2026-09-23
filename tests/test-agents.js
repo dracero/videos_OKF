@@ -1,7 +1,7 @@
 import { runAgentGraph } from '../src/lib/agent-graph.js';
 
 async function test() {
-  const query = 'cómo configurar una cámara en home assistant';
+  const query = 'videos que hablen de home assistant y sensores o camaras';
   console.log(`=== Iniciando Prueba de Agentes LangGraph ===`);
   console.log(`Pregunta: "${query}"\n`);
   

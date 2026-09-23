@@ -4,8 +4,12 @@ title: "RAG_Agentico_En_Accion"
 description: ""
 transcript_summary: "Ahora que ya tenemos armado nuestro sistema de rag agéntico, ahora que ya tenemos los metadatos, ya tenemos todos nuestros archivos convertidos en chan y guardados en la base de datos Kudran, lo que tenemos que hacer es usarlo. Y una de las cosas que es importante tener en cuenta es que el ragéntico con sistemas que tienen resoning como Sheminite 2.5 5 Flash o Pro no es un sistema que únicamente nos va a devolver o nos va a explicar contenido. También es un sistema que puede razonar y lo más importante, resolver ejercicios. Si estamos en el caso de una empresa y queremos, por ejemplo, que nos resuelva un convenio colectivo de trabajo o que nos resuelva una licitación, también podrá hacerlo. Lo que importante es tener prompting de los agentes y el contenido adecuado. Pero ahora vamos a ver cómo resuelve un problema de física. Entonces, le vamos a dar este problema y le vamos a decir, podés resolver este problema usando trabajo y energía. Entonces, le vamos a dar el problema y ahí le pedimos que lo empiece a trabajar y ahí empiezan a trabajar nuestros agentes. Fíjense que acá ya está. Ya, fíjense que eh dice, \"Voy a hacer trabajo y energía,"
 resource: "https://www.youtube.com/watch?v=20ovgHEmoew"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:04.082Z" }
+category: "rag_and_agents"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 1.21
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:20:20.202Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** rag_and_agents (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 1.2 / 3.0
 - **Publicado el:** 10 de agosto de 2025
 - **Duración:** 04:51
 - **Vistas:** 6 | **Likes:** 0

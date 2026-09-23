@@ -4,8 +4,12 @@ title: "tool_for_agent"
 description: ""
 transcript_summary: "bien acá tenemos un agente a este agente le adicionamos dos Tools una que es para hacer cuentas sencillas cálculos sencillos y otra que es para hacer cálculos más complejos tenemos un una entrada de chat que va a ser la que PR y a la salida de El prom tenemos el text input para el agente y el Language model que Us elente Recuerden que el Language model es el que va a estar dirigiendo las acciones del agente para que seleccione el tool correspondiente lo que vamos a hacer ahora utilizando la parte experimental y Beta de flow es vamos a agregar que sirva para hacer búsquedas en Wikipedia entonces acá tenemos las búsquedas en Wikipedia y lo que vamos a hacer es la salida de esta herramienta vamos a incorporar a el to de agente Entonces ya tenemos un agente que tiene un que es y a su vez tiene tres Tools vamos ahora a ir el playground Y entonces en el playground le podemos hacer una pregunta Cuánto es 2 4 por 5 es una pregunta va usar para eso los Tools que resuelven operaciones Matemáticas perfecto salió muy bien y ahora le podemos preguntar por ejemplo"
 resource: "https://www.youtube.com/watch?v=mAA6CPvGvlg"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:28.286Z" }
+category: "rag_and_agents"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 0.89
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:22:25.156Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** rag_and_agents (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.9 / 3.0
 - **Publicado el:** 14 de octubre de 2024
 - **Duración:** 02:35
 - **Vistas:** 0 | **Likes:** 0

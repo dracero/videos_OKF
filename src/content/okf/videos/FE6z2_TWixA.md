@@ -4,8 +4,12 @@ title: "miro_wireframing"
 description: ""
 transcript_summary: "Cómo creamos un proyecto de wireframing en miro bien primero desde la web de miro una vez que nos dimos de alta con nuestro email hacemos clic en New y una vez que entramos al Board cuando nos dice qué templates Qué modelo queremos usar acá vamos a poner wireframing [Música] bien y acá nos aparecen los distintos tipos de wireframing que tienen nosotros ahora vamos a empezar con Website Wi framing hacemos clic en use template y acá ya tenemos un modelo armado acá podemos aumentar si hacemos dos veces clic nos aparece el icono de mano y podemos viendo mejor bien acá podemos aumentar o achicar los zoom con el icono de manos vamos buscando y acá ya tenemos todo lo necesario para empezar a trabajar en nuestras páginas fíjense que lo que yo estoy viendo que es estoy viendo cómo va a ser la página y toda la página entera que el la persona que entre usuario va a ver haciendo scroll bien entonces con esto ya podemos empezar a hacer nuestro diseño a partir de los requerimientos de las cosas que nosotros tenemos pensadas podemos empezar a hacer el diseño y todos estos elementos son sobre los que después"
 resource: "https://www.youtube.com/watch?v=FE6z2_TWixA"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:32.873Z" }
+category: "software_web_dev"
+category_confidence: 0.97
+has_code_demo: false
+difficulty_score: 1
+tags: ["software_web_dev"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:22:49.821Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** software_web_dev (confianza: 97%)
+- **Código en vivo:** No
+- **Nivel técnico:** 1.0 / 3.0
 - **Publicado el:** 28 de junio de 2024
 - **Duración:** 01:55
 - **Vistas:** 2 | **Likes:** 0

@@ -4,8 +4,12 @@ title: "Deep_Reserarch_Agents"
 description: ""
 transcript_summary: "Terminamos de generar una aplicación Full Stack que busca eventos que pueden haber generado tráfico de internet en Argentina. Lo que hicimos fue primero crear un Deep Research Agent con cuatro agentes que trabajan en paralelo utilizando Langraf. Ese Deep Research Agent utiliza un real time searcher que es stabilir para hacer la búsqueda en internet. Ahora, el plan de Deep Research y el Real Time Searcher no bastan para que este agente funcione correctamente tiene que tener definidas las reglas del negocio. ¿Cómo se definen las reglas del negocio en un agente? Se definen a través de la ontología. Para eso creamos lo que estamos viendo ahora, que es este archivo Yaml. Y este archivo Yaml tiene las reglas del negocio de las eh de los proveedores de CDN, de PIR y de todas los e proveedores que generan tráfico internacional en Argentina. Además de todo eso, como son agentes y son estocásticos, hicimos la supervisión con Langsmith. Bien, vamos a verlo funcionar. Acá ya tenemos la aplicación Full Stack. Yo le voy a poner un día que sé que hubo tráfico y cosas importantes, que fue el uno fue el 15 de febrero del 2000 26 y le vamos a poner que"
 resource: "https://www.youtube.com/watch?v=d7zibLgJrVQ"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:53.870Z" }
+category: "rag_and_agents"
+category_confidence: 1
+has_code_demo: true
+difficulty_score: 1.91
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:19:34.008Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** rag_and_agents (confianza: 100%)
+- **Código en vivo:** Sí
+- **Nivel técnico:** 1.9 / 3.0
 - **Publicado el:** 28 de febrero de 2026
 - **Duración:** 08:33
 - **Vistas:** 7 | **Likes:** 0

@@ -4,8 +4,12 @@ title: "video_5_chatbot"
 description: ""
 transcript_summary: "bien entonces acá el intento rodadura acá vamos a elegir la frase de texto libre roto tras acción del grupo regio está en la pidió tiene mitad rosa miente y mitad no de la relación entonces acá le ponemos percusión el rol era angular constante y el trade era rothschild y le damos 30 en validez bien así es como vamos buscando todos los sinónimos posibles y la red se va entrenando para que pueda responder a todas las variantes de la frase que se están refiriendo a lo mismo en realidad no es que tiene que ser textual exactamente textual la frase bien no tiene que ser exactamente textual la frase pero en cambio de superficie puede usar pista puede usar un montón de palabras claves o variantes sobre la que es necesario entrenarlo bien si acá ponemos si el cuerpo rígido ruedas sin deslizar una vista qué tiene parte rozamiento y parte no qué movimiento y confunde un poco qué movimiento realiza bien fíjense que acá ya tiene parte realmente y parte no acá el intent rodadura se está entrenando todavía por eso acá es el interés rodadura el trade acá cuerpo rígido de ruedas interesante tiene parte de rozamiento y parte no"
 resource: "https://www.youtube.com/watch?v=Y0FyZfXpoak"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:07.272Z" }
+category: "nlp_transformers"
+category_confidence: 0.66
+has_code_demo: false
+difficulty_score: 0.86
+tags: ["nlp_transformers"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:17:03.805Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** nlp_transformers (confianza: 66%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.9 / 3.0
 - **Publicado el:** 9 de junio de 2022
 - **Duración:** 02:44
 - **Vistas:** 18 | **Likes:** 0

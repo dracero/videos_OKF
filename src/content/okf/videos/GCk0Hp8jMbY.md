@@ -4,8 +4,12 @@ title: "imageToText"
 description: ""
 transcript_summary: "bueno Y para hacer el ejemplo de image to text vamos a ir directamente a los ejemplos que tiene la misma página de hacking Face acá encontramos el modelo que queremos usar y acá está la parte donde nos dice Cómo podemos hacer para correr el packline fíjense una cosa siempre el packline vamos a copiarlo y a pegarlo en nuestro colap Ahí vamos a pegarlo en nuestro colap entonces Ahí está acá lo tenemos en colap ahora lo que vamos a hacer es por un lado tenemos que instalar Transformers por otro lado pegamos el código y acá le vamos a poner la imagen que tenemos nosotros que es Randall punto j pg bien fíjense que siempre el packline tiene algo que le indica Qué tipo de modelo es lo que vamos a usar y acá el nombre del modelo tal cual figura en el Hub de jagging Face entonces acá vamos a correr una vez que ya instalamos la red Transformer Acá empieza a correr baja el modelo la máquina local lo ejecuta y acá Este generate text dice que es un jugador de fútbol pegándole a una pelota de fútbol y la imagen aguarden me que les voy a mostrar que"
 resource: "https://www.youtube.com/watch?v=GCk0Hp8jMbY"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:02.110Z" }
+category: "computer_vision"
+category_confidence: 0.51
+has_code_demo: true
+difficulty_score: 0.98
+tags: ["computer_vision"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:16:53.395Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** computer_vision (confianza: 51%)
+- **Código en vivo:** Sí
+- **Nivel técnico:** 1.0 / 3.0
 - **Publicado el:** 6 de abril de 2023
 - **Duración:** 02:24
 - **Vistas:** 1 | **Likes:** 0

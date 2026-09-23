@@ -4,8 +4,12 @@ title: "vibe_coding_1"
 description: ""
 transcript_summary: "Bueno, vamos a mostrar un ejemplo de by coding utilizando la página de Bolt New que utiliza, bueno, como todos saben, chip de Grock. Lo primero que vamos a hacer, ¿qué es? Primero teníamos un protocolo A2A, un orquestador de A2A que funcionaba con @ click con línea de comandos. Lo que hicimos utilizando eh Cloud fue convertir ese A2A de línea de comandos a una API de Ben. Acá lo que tenemos es la API de Ben. Entonces, copiamos el código de este orquestador de API de Baken. ¿Por qué el código del orquestador de API de Baken? Porque este código tiene todos los endints de API necesarios para poder interactuar con el front. Entonces, ¿qué hacemos? Vamos a la página de Bol New, a donde nos tenemos que dar de alta. Acá nos dimos de alta con GitHub, acuérdense, 100% by coding y le decimos si me podés hacer un frontend en Astro para este backend. Y aquí laamos tiene que ser una interfaz de chatbot con los botones para crear sesión, ver historia y un infterf de chat con los botones para crear sesión. Eh, ver historia y nada más para crear sesión y ver historia con el"
 resource: "https://www.youtube.com/watch?v=zCROFoHe7uo"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:06.571Z" }
+category: "software_web_dev"
+category_confidence: 0.98
+has_code_demo: false
+difficulty_score: 1.21
+tags: ["software_web_dev"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:20:38.700Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** software_web_dev (confianza: 98%)
+- **Código en vivo:** No
+- **Nivel técnico:** 1.2 / 3.0
 - **Publicado el:** 13 de julio de 2025
 - **Duración:** 03:22
 - **Vistas:** 4 | **Likes:** 0

@@ -4,8 +4,12 @@ title: "2026 03 22 18 25 34"
 description: ""
 transcript_summary: "¿Cómo hacer para poder acceder a los apuntes de la página de cátedra? Hacen clic en su foto, van a donde dice perfil, acá dentro del perfil van a donde dice editar perfil. Acá van hasta abajo de todo, donde dice opcional, a donde dice institución, acá escriben Fuba y hacen clic en actualizar información personal y con eso ya los va a dejar bajar eh todos los apuntes."
 resource: "https://www.youtube.com/watch?v=cOHKx-go4ZE"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:52.139Z" }
+category: "education_moodle"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 1
+tags: ["education_moodle"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:19:09.204Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** education_moodle (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 1.0 / 3.0
 - **Publicado el:** 22 de marzo de 2026
 - **Duración:** 00:35
 - **Vistas:** 19 | **Likes:** 0

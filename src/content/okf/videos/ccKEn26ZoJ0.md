@@ -4,8 +4,12 @@ title: "MOOC"
 description: ""
 transcript_summary: "vamos a ver cómo hacemos para agregar un recurso Recuerden que recurso es el nombre de aquellos elementos del aula virtual que no pueden ser calificados vamos primero a activar edición Buscamos un icono que diga agregar un recurso o actividad y hacemos clic en él no se preocupen si el recurso no se agrega exactamente donde lo necesitan después vamos a poder moverlo una vez dentro de agregar un recurso o actividad vemos que aparecen todos juntos podemos hacer clic en las pestañas para tener una vista separada de recursos y actividades una vez dentro de la ventana para agregar recursos tenemos que comenzar a completar los datos obligatorios y a configurar el comportamiento deseado en este caso por ejemplo elijo un nombre para el archivo y lo configuro para que abra en una ventana emergente finalmente agrego el archivo un documento Word en este caso y hago clic en guardar cambios y regresar al curso"
 resource: "https://www.youtube.com/watch?v=ccKEn26ZoJ0"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:00.876Z" }
+category: "education_moodle"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 0.01
+tags: ["education_moodle"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:16:50.133Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** education_moodle (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.0 / 3.0
 - **Publicado el:** 27 de junio de 2023
 - **Duración:** 00:57
 - **Vistas:** 7 | **Likes:** 0

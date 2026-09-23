@@ -4,8 +4,12 @@ title: "detecction_caida"
 description: ""
 transcript_summary: "Ahí estamos ahí vemos que está controlando perfecto las articulaciones me muevo sin problema caída detectada Ahí está caída detectada ahí caída detectada bien bueno entonces qué es esto ahí pierde las rodillas Este es un sistema para controlar que la persona esté siempre en posición erguida cualquier movimiento que haga que se pierda la posesión herria aparece la detección de la caída ahí como no ve las rodillas dice caída detectada"
 resource: "https://www.youtube.com/watch?v=6t5LNmqPMY8"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:14.399Z" }
+category: "computer_vision"
+category_confidence: 0.99
+has_code_demo: false
+difficulty_score: 0.18
+tags: ["computer_vision"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:21:20.417Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** computer_vision (confianza: 99%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.2 / 3.0
 - **Publicado el:** 2 de marzo de 2025
 - **Duración:** 00:45
 - **Vistas:** 6 | **Likes:** 0

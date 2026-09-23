@@ -2,10 +2,13 @@
 type: YouTube Video
 title: "2023 10 28 20 28 52"
 description: "Trayectoria"
-transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=RPhXIlXasxA"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:09.664Z" }
+category: "physics_and_math"
+category_confidence: 0.54
+has_code_demo: false
+difficulty_score: 0.07
+tags: ["physics_and_math"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:18:07.370Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"
@@ -19,7 +22,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCx1KkYmHhghhGFgA7VP2aWQ.md"
     title: "Channel: Diego Racero"
@@ -39,6 +42,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCx1KkYmHhghhGFgA7VP2aWQ.md)
+- **Categoría:** physics_and_math (confianza: 54%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.1 / 3.0
 - **Publicado el:** 28 de octubre de 2023
 - **Duración:** 00:26
 - **Vistas:** 16 | **Likes:** 0

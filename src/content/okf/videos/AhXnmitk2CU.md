@@ -4,8 +4,12 @@ title: "entrenando1"
 description: ""
 transcript_summary: "vamos a volver entonces a mostrar cómo entrar agua y ahí ponemos ahí en el buscador de google allí nos aparece vite y ahí hacemos clic una vez que hagamos nos va a pedir que nos dimos de alta con facebook habíamos dicho"
 resource: "https://www.youtube.com/watch?v=AhXnmitk2CU"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:54.153Z" }
+category: "software_web_dev"
+category_confidence: 0.8
+has_code_demo: false
+difficulty_score: 0.03
+tags: ["software_web_dev"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:26:14.808Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** software_web_dev (confianza: 80%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.0 / 3.0
 - **Publicado el:** 1 de mayo de 2021
 - **Duración:** 00:38
 - **Vistas:** 22 | **Likes:** 0

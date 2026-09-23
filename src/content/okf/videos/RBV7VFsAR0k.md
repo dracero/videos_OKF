@@ -2,10 +2,13 @@
 type: YouTube Video
 title: "Prueba con la cuenta de la fiuba"
 description: "Esto es una prueba."
-transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=RBV7VFsAR0k"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:14.826Z" }
+category: "general_institutional"
+category_confidence: 0.77
+has_code_demo: false
+difficulty_score: 1
+tags: ["general_institutional"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:17:19.018Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +22,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +42,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** general_institutional (confianza: 77%)
+- **Código en vivo:** No
+- **Nivel técnico:** 1.0 / 3.0
 - **Publicado el:** 19 de septiembre de 2021
 - **Duración:** 10:35
 - **Vistas:** 4 | **Likes:** 0

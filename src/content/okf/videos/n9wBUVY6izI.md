@@ -4,8 +4,12 @@ title: "entrenando2"
 description: ""
 transcript_summary: "bueno entonces entramos a aouate y ahí volvemos a entrar utilizando facebook y una vez que entramos utilizando facebook vamos a ir donde dice maya y vamos a elegir la app que trabajamos recién la que grabamos recién vamos a hacer clic ahí y ya tenemos la en la parte de understanding es donde nosotros vamos a poner las frases que se llama new trans para poder entrenar a nuestra aplicación intense acuérdense que son el primer juego de datos estructurados en donde nosotros le decimos a la aplicación de qué se trata lo que está de qué se trata el texto s el estamos después de los dos elementos más que son tres científicos la sentí tease son elementos pre armados que sirven para mejorar la comprensión del texto que lo estamos ingresando son sant datos estructurados pre armados aunque también nosotros podemos definirlos en función de aquellos datos estructurados pre armados que sean necesarios para nuestra para nuestra aplicación o para y los tres también son datos pre armados fíjense que acá podemos poner bit sin trades y acá está por ejemplo [Música] acá tenemos un trade que dice on off que dice que [Música] lo que hace es"
 resource: "https://www.youtube.com/watch?v=n9wBUVY6izI"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:54.332Z" }
+category: "nlp_transformers"
+category_confidence: 0.91
+has_code_demo: false
+difficulty_score: 0.69
+tags: ["nlp_transformers"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:26:15.285Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** nlp_transformers (confianza: 91%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.7 / 3.0
 - **Publicado el:** 1 de mayo de 2021
 - **Duración:** 08:30
 - **Vistas:** 24 | **Likes:** 0

@@ -4,8 +4,12 @@ title: "MCP_OpenAPI"
 description: ""
 transcript_summary: "Vamos a mostrar cómo obtener eh el la documentación de OpenI y a partir de esa documentación de OpenI eh conectar a un servidor e MCP sin tener que programar todos los ends dentro del MSP Server. O sea, vamos a ver como con los agentes ADK hacemos un MCP Server, pero directamente con la documentación de OpenI, sin tener que programar absolutamente ningún endpoint. Vamos a mostrar acá tenemos un un simple crude que se dedica a todo lo que es eh usuarios, todos todo el trabajo de usuarios. Normalmente yo para manejar esto debería ser un frontend y habría que aprender cómo usar ese frontend. ¿Qué es lo que podemos hacer nosotros para evitarnos eso? Primero vamos aquí, escribimos Open App Jason y ahí en Open App Jason obtenemos la documentación de Open Appi. Esta documentación de Open Appi la vamos a copiar y una vez que la copiamos vamos a ir a el eh vamos a ir a nuestro eh grupo de agentes ADK. Y acá la vamos a pegar. Fíjense que acá lo que hago es pego esa documentación de Openi. Lo único que va a ser necesario, que no hace la documentación esa es definir e la URL"
 resource: "https://www.youtube.com/watch?v=odWRZIpogE0"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:03.271Z" }
+category: "rag_and_agents"
+category_confidence: 0.99
+has_code_demo: false
+difficulty_score: 1.02
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:20:07.632Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** rag_and_agents (confianza: 99%)
+- **Código en vivo:** No
+- **Nivel técnico:** 1.0 / 3.0
 - **Publicado el:** 14 de agosto de 2025
 - **Duración:** 05:52
 - **Vistas:** 15 | **Likes:** 0

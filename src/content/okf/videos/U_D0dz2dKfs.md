@@ -4,8 +4,12 @@ title: "2024 01 25 14 51 26"
 description: "Jira Video 1"
 transcript_summary: "Bueno les dejo este video porque debido a que tengo que hacer un estudio médico este jueves primero y el viernes dos no voy a poder estar pero ya el lunes este el lunes 5 voy a estar allá por la facultad eh Por qué hicimos esto del sistema shira bien Vamos a hacer sprints de TR semanas a donde vamos a tener asignadas distintas tareas Cómo se asignan esas tareas vamos al backlog acá tenemos el primer Sprint de tres semanas que inicia el 8 de febrero y termina el 29 de febrero por ejemplo eh yo tengo una tarea esta tarea que es el taller exploratorio de hing Face esta tarea la sacamos del backlog que sería como el banco de suplentes a donde están las tareas que estamos por hacer y e la ponemos dentro del Sprint igual el Sprint todavía no inició inicia recién el 8 Yo sé que esta tarea ya la tenían bastante adelantada Gonzalo y Maxi entonces hago clic acá y voy a entrar a la tarea eh el responsable de la tarea acá podemos Buscar a Gonzalo y como Informador de la tarea podemos poner a Maxi entonces acá ya tienen la tarea"
 resource: "https://www.youtube.com/watch?v=U_D0dz2dKfs"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:35.842Z" }
+category: "general_institutional"
+category_confidence: 0.63
+has_code_demo: false
+difficulty_score: 0.21
+tags: ["general_institutional"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:23:45.365Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** general_institutional (confianza: 63%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.2 / 3.0
 - **Publicado el:** 25 de enero de 2024
 - **Duración:** 06:46
 - **Vistas:** 8 | **Likes:** 0

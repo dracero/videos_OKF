@@ -4,8 +4,12 @@ title: "UBATIC_Plataforma_test"
 description: ""
 transcript_summary: "Vamos a mostrar cómo funciona el sistema de chatbot que estamos desarrollando para el proyecto Ubatic. Primero iniciamos sesión con la cuenta de Google de Fuba. Una vez que estamos dentro del sistema, podemos ir a crear un curso. Acá tengo creado el curso de física de los sistemas de partículas, pero puedo crear tantos cursos como yo quiera. Una vez que creé el curso, dentro del curso, puedo ir a documentos, subo los documentos y una vez que subo los proceso y ya queda listo para hacer distintos ejercicios. ¿Qué es lo que va a hacer? tiene en el en la parte frontal el asistente un orquestador y ese orquestador en función de la pregunta que yo le haga me va a responder, pero como es un sistema de rabéntico solamente solamente va a responder de el contenido que él eh tenga. Vamos a ver el ejemplo de un ejercicio sencillo de física. va por ahí, no tan sencillo. Y vamos a ver cómo razona el sistema. Eh, vamos a buscar algún ejercicio recuperatorio. Bien, entonces acá le voy a poner un ejercicio que es un ejercicio de un parcial que tomamos nosotros. Se lo puedo pegar, le doy enviar y ahí"
 resource: "https://www.youtube.com/watch?v=snP0Qjlvaew"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:09:32.309Z" }
+category: "rag_and_agents"
+category_confidence: 0.96
+has_code_demo: false
+difficulty_score: 0.2
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:16:42.869Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** rag_and_agents (confianza: 96%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.2 / 3.0
 - **Publicado el:** 1 de julio de 2026
 - **Duración:** 07:22
 - **Vistas:** 5 | **Likes:** 0

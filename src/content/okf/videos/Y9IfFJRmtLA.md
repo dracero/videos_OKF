@@ -4,8 +4,12 @@ title: "2024 01 04 15 19 17"
 description: "Creando Atlas video 1"
 transcript_summary: "vamos a ver cómo crear un usuario de Atlas vamos a poner en el buscador Atlas acá nos manda Atlas database empiece gratis regístrese con Google me voy a registrar con Google acepto los términos de privacidad admite"
 resource: "https://www.youtube.com/watch?v=Y9IfFJRmtLA"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:37.696Z" }
+category: "software_web_dev"
+category_confidence: 0.88
+has_code_demo: false
+difficulty_score: 0.01
+tags: ["software_web_dev"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:24:24.201Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** software_web_dev (confianza: 88%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.0 / 3.0
 - **Publicado el:** 4 de enero de 2024
 - **Duración:** 00:42
 - **Vistas:** 3 | **Likes:** 0

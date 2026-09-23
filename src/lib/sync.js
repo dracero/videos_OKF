@@ -4,6 +4,7 @@ import dotenv from 'dotenv';
 import { YoutubeTranscript } from 'youtube-transcript';
 import { generateCatalogEmbeddings } from './semantic-search.js';
 import { seedNeo4jFromOKF } from './neo4j.js';
+import { classifyVideoMetadata } from './typesafe.js';
 
 dotenv.config();
 
@@ -232,14 +233,39 @@ ${snippet.description || 'No description provided.'}
             );
           }
 
+          // Classify video content with TypeSafe AI (Jev)
+          let category = 'general_tech';
+          let categoryConfidence = 0.0;
+          let hasCodeDemo = false;
+          let difficultyScore = 1.0;
+
+          try {
+            const classification = await classifyVideoMetadata({
+              title,
+              description,
+              transcriptSummary
+            });
+            category = classification.category || 'general_tech';
+            categoryConfidence = classification.categoryConfidence || 0.0;
+            hasCodeDemo = Boolean(classification.hasCode);
+            difficultyScore = classification.difficultyScore || 1.0;
+          } catch (clsErr) {
+            console.warn(`[Sync] Classification skipped for video ${videoId}:`, clsErr.message);
+          }
+
           // Build OKF Frontmatter once with transcript_summary if available (Builder Pattern AGENTS.md §1.3)
           const summaryField = transcriptSummary ? `\ntranscript_summary: "${transcriptSummary}"` : '';
+          const combinedTags = [...new Set([category, ...tags.slice(0, 9)])];
           const videoFrontmatter = `---
 type: YouTube Video
 title: "${title.replace(/"/g, '\\"').replace(/\n/g, ' ')}"
 description: "${description.split('\n')[0].substring(0, 150).replace(/"/g, '\\"')}"${summaryField}
 resource: "https://www.youtube.com/watch?v=${videoId}"
-tags: [${tags.slice(0, 10).map(t => `"${t.replace(/"/g, '\\"')}"`).join(', ')}]
+category: "${category}"
+category_confidence: ${categoryConfidence}
+has_code_demo: ${hasCodeDemo}
+difficulty_score: ${difficultyScore}
+tags: [${combinedTags.map(t => `"${t.replace(/"/g, '\\"')}"`).join(', ')}]
 generated: { by: "process:sync-youtube", at: "${new Date().toISOString()}" }
 verified: machine-confirmed
 status: current
@@ -274,6 +300,9 @@ sources:
 
 ## Detalles
 - **Canal:** [${channel.title}](../channels/${channelId}.md)
+- **Categoría:** ${category} (confianza: ${(categoryConfidence * 100).toFixed(0)}%)
+- **Código en vivo:** ${hasCodeDemo ? 'Sí' : 'No'}
+- **Nivel técnico:** ${difficultyScore.toFixed(1)} / 3.0
 - **Publicado el:** ${new Date(publishedAt).toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' })}
 - **Duración:** ${formattedDuration}
 - **Vistas:** ${parseInt(viewCount).toLocaleString('es-ES')} | **Likes:** ${parseInt(likeCount).toLocaleString('es-ES')}
@@ -283,8 +312,6 @@ ${description || 'Sin descripción.'}
 `;
 
           await fs.writeFile(path.join(OKF_DIR, 'videos', `${videoId}.md`), videoFrontmatter, 'utf-8');
-          totalVideosSynced++;
-
           totalVideosSynced++;
         }
       }

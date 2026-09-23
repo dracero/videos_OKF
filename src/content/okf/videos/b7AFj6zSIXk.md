@@ -4,8 +4,12 @@ title: "comenzadoConLaApp"
 description: ""
 transcript_summary: "una vez que ingresamos con nuestra cuenta de facebook por usuario y password de facebook lo siguiente que tenemos que hacer para poder comenzar a trabajar con wifi es crear una aplicación nos vamos la pantalla de inicio y allí desde la pantalla de inicio vamos a ir a miami es que ingresamos por eso una vez que ingresamos vamos a ir a maya en principio si ustedes nunca crearon una aplicación no van a tener nada entonces lo primero que vamos a hacer es ir al botón que está arriba a la izquierda y ahí vamos a elegir crear una nueva vamos a break y solamente pueden contener letras minúsculas las apps tep y solamente anders cord entonces le ponemos anders borg y ahí fue perfecto como se trata de una aplicación de natural language processing es importante el diccionario cuando ustedes definen el idioma que va a ser el procesamiento del lenguaje lo que están definiendo es un diccionario que va a utilizar después el sistema de inteligencia artificial para poder procesarlo bien entonces pongan toma es como esta y fue principalmente escrita para el idioma inglés y el idioma en el que mejor funciona es el inglés como también los"
 resource: "https://www.youtube.com/watch?v=b7AFj6zSIXk"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:53.755Z" }
+category: "nlp_transformers"
+category_confidence: 0.87
+has_code_demo: false
+difficulty_score: 0.25
+tags: ["nlp_transformers"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:26:13.764Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** nlp_transformers (confianza: 87%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.3 / 3.0
 - **Publicado el:** 1 de mayo de 2021
 - **Duración:** 07:12
 - **Vistas:** 37 | **Likes:** 0

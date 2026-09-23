@@ -4,8 +4,12 @@ title: "Instructivo página de asignatura 2"
 description: "Video realizado para ayudar a los docentes a armar una página desde cero."
 transcript_summary: "[Música] Bienvenidos en este vídeo veremos el paso a paso para configurar el diseño de una página de asignatura en pantalla Están viendo la versión antigua de la página de cátedra lo que veremos ahora es Cómo organizar y diseñar esta página en el nuevo diseño de mosaicos [Música] lo primero que tenemos que hacer es organizar el aula para ello deberá activar la edición en la esquina superior derecha y revisar cada uno de los recursos que tiene dentro de su página el nuevo formato está determinado por un grupo de mosaicos fijos y son los que se muestran a continuación si su página de asignatura no cuenta con alguno de los temas o categorías que está viendo en este momento en pantalla no se preocupe podrá modificarlos eliminarlos o reemplazarlos según necesite su asignatura todos los recursos dentro de su página de asignatura deberán estar clasificados dentro de estos grupos de mosaicos veamos a continuación Cómo se van a organizar esos recursos en este caso podemos ver que tenemos el tema 1 llamado novedades y el tema 2 que no ha sido nombrado si hago clic en el lápiz lo colocarle a este tema el nombre de planificación que corresponde con uno"
 resource: "https://www.youtube.com/watch?v=Dko8ea1lD0o"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:00.067Z" }
+category: "education_moodle"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 0.01
+tags: ["education_moodle"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:16:48.058Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** education_moodle (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.0 / 3.0
 - **Publicado el:** 17 de julio de 2023
 - **Duración:** 08:21
 - **Vistas:** 32 | **Likes:** 1

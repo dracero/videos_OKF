@@ -4,8 +4,12 @@ title: "clideo editor cinematica rigido"
 description: ""
 transcript_summary: "[Música] Hola a todos y bienvenidos a Físicamente Posible, el podcast donde desmitificamos las leyes que gobiernan nuestro universo. Soy Ana y como siempre me acompaña el inquisitivo Carlos. Hola Ana y hola a todos nuestros oyentes. Listo para que mi cerebro haga un poco de ejercicio. Hoy tenemos un tema que suena película de ciencia ficción, la cinemática del cuerpo rígido. ¿Qué es eso exactamente? Hablaremos de robots indestructibles casi, Carlos, pero no exactamente. En física, un cuerpo rígido es un modelo ideal. Imagina un objeto donde la distancia entre dos de sus puntos, cualquiera, no cambia sin importar cómo se mueva o qué fuerzas actúen sobre él. Pensemos en una peonza girando o una rueda en movimiento. En la realidad todos los cuerpos se deforman un poco, pero para muchos casos prácticos esta idealización funciona perfectamente. ¿Entendido? Entonces no es que sean indestructibles, sino que no se deforman. ¿Y qué es eso de la condición de rigidez? Suena un requisito muy estricto. Es la clave de todo este asunto. La condición de rigidez nos dice algo fundamental sobre las velocidades de los puntos de ese cuerpo rígido. Imagina que tienes dos puntos A y B en nuestro cuerpo rígido. La condición de rigidez"
 resource: "https://www.youtube.com/watch?v=QxYTNj47CZQ"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:03.860Z" }
+category: "physics_and_math"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 0.04
+tags: ["physics_and_math"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:20:19.715Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** physics_and_math (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.0 / 3.0
 - **Publicado el:** 11 de agosto de 2025
 - **Duración:** 07:55
 - **Vistas:** 2 | **Likes:** 0

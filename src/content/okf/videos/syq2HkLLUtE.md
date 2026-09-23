@@ -2,10 +2,13 @@
 type: YouTube Video
 title: "pose-yolo"
 description: ""
-transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=syq2HkLLUtE"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:24.159Z" }
+category: "computer_vision"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 0.2
+tags: ["computer_vision"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:21:42.112Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +22,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +42,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** computer_vision (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.2 / 3.0
 - **Publicado el:** 6 de diciembre de 2024
 - **Duración:** 00:38
 - **Vistas:** 6 | **Likes:** 0

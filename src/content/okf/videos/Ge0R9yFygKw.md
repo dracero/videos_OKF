@@ -4,8 +4,12 @@ title: "vibe_coding_2"
 description: ""
 transcript_summary: "Bien, acá terminó de trabajar como nosotros habíamos pedido que cree eh un frontend en astro. Fíjense que acá están todos los archivos necesarios para poder hacer ese ese frontend en astro. Acá tenemos index astro, el layout para las distintas. Y acá tenemos el chat interface, todo hecho en e en lenguaje astro. Y este chat interface lo que después vamos a tener que hacer nosotros es customizarlo para las direcciones de nuestros APN points y para que se conecte a lo que nosotros necesitamos. Bien, pero fíjense acá es a donde tenemos, por ejemplo, crear create new session. Y lo que va a hacer es va acá tiene definido un APUR URL. Nosotros lo que tenemos que hacer es poner en esta variable los valores en función de los eh de las direcciones que nosotros tenemos para nuestra e para nuestra experiencia. Bien, y acá tenemos el preview. Acá en el preview tenemos la interfaz de chatbot que creó acá para escribir el mensaje y enviar. Y acá nos dice bien que no se pudo conectar a local host 8000, lo que es claro porque esto lo tenemos en eh en internet, pero nosotros si queremos e lo"
 resource: "https://www.youtube.com/watch?v=Ge0R9yFygKw"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:06.767Z" }
+category: "software_web_dev"
+category_confidence: 1
+has_code_demo: true
+difficulty_score: 1
+tags: ["software_web_dev"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:20:39.369Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** software_web_dev (confianza: 100%)
+- **Código en vivo:** Sí
+- **Nivel técnico:** 1.0 / 3.0
 - **Publicado el:** 13 de julio de 2025
 - **Duración:** 02:16
 - **Vistas:** 1 | **Likes:** 0

@@ -4,8 +4,12 @@ title: "2024 12 07 21 56 22"
 description: ""
 transcript_summary: "utilizamos aut Shin y el algoritmo reflection incluido dentro del framework autoin para realizar el análisis minucioso y exhaustivo de la resolución de la creación de una carrera después de haber identificado los actores haber identificado las responsabilidades haber establecido los roles al final de todo nos da un análisis de este documento basado en las resoluciones existentes en la universidad de Buenos Aires el análisis con autoin nos es muy útil Porque no solo sirve para descubrir algún tipo de Gap legal sino que también nos sirve para descubrir aquellas aquellas cosas que no se ajustan a la normativa vigente"
 resource: "https://www.youtube.com/watch?v=ELD6oJ4CI40"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:23.118Z" }
+category: "rag_and_agents"
+category_confidence: 0.96
+has_code_demo: false
+difficulty_score: 1.06
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:21:40.825Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** rag_and_agents (confianza: 96%)
+- **Código en vivo:** No
+- **Nivel técnico:** 1.1 / 3.0
 - **Publicado el:** 7 de diciembre de 2024
 - **Duración:** 00:58
 - **Vistas:** 1 | **Likes:** 0

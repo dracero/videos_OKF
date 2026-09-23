@@ -4,8 +4,12 @@ title: "2023 12 30 17 01 33"
 description: ""
 transcript_summary: "tenemos un juego de tatetí que el juego de tatetí en lugar de hacerlo manejándolo nosotros o que jueguen distintos jugadores lo que hacemos Es crear Llamar a la biblioteca de gymnasium y en la biblioteca de gymnasium vamos a utilizar las clases que nos da la misma biblioteca el init el self render muy importante para que dibuje después el tablero después tenemos Step reset y render y lo que vamos a hacer después es utilizar stable p 3 y vamos a probar los distintos algoritmos de refor learning para ver cuál funciona mejor a la hora de ganarle el tatti a a un jugador aleatorio vamos a empezar entonces con Deep cer Network vamos a ver cómo funciona limpiamos lo que teníamos de antes Ahí ejecutamos vamos a ver que este Deep Network es relativamente rápido y ahí bueno logró eh logró ganar la partida vamos a ver si podemos repetir ahí perdió ahí volví a perder a ver ahora si usamos actor critic critic si bien puede llegar a tener mayor precisión también es posible que pierda porque toma cambios que son muy bruscos acá ganó vamos a ver nuevamente Qué sucede acá no logró ganar casi como que tuvo un"
 resource: "https://www.youtube.com/watch?v=3do8yA4ipUc"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:38.165Z" }
+category: "rag_and_agents"
+category_confidence: 0.35
+has_code_demo: true
+difficulty_score: 1.05
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:24:39.081Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** rag_and_agents (confianza: 35%)
+- **Código en vivo:** Sí
+- **Nivel técnico:** 1.1 / 3.0
 - **Publicado el:** 30 de diciembre de 2023
 - **Duración:** 06:18
 - **Vistas:** 1 | **Likes:** 0

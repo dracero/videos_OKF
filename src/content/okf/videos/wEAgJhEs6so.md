@@ -2,10 +2,13 @@
 type: YouTube Video
 title: "Insertando web est ticas en Moodle"
 description: ""
-transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=wEAgJhEs6so"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:12:00.014Z" }
+category: "education_moodle"
+category_confidence: 0.99
+has_code_demo: false
+difficulty_score: 0.24
+tags: ["education_moodle"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:22:06.645Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"
@@ -19,7 +22,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCDs8wbm1jczac3UNYIAVxZg.md"
     title: "Channel: Diego Racero"
@@ -39,6 +42,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCDs8wbm1jczac3UNYIAVxZg.md)
+- **Categoría:** education_moodle (confianza: 99%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.2 / 3.0
 - **Publicado el:** 15 de enero de 2019
 - **Duración:** 02:26
 - **Vistas:** 4 | **Likes:** 0

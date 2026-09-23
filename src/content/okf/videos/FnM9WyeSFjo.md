@@ -4,8 +4,12 @@ title: "2025 05 23 23 32 22"
 description: ""
 transcript_summary: "Physics Fundamentals. Episode title, The Doppler Effect: Why Sirens Change Pitch. Speakers Ben and Alex. Speaker one, enthusiastic, good at breaking down concepts. Speaker two, inquisitive, provides practical examples and reinforces Intro music, upbeat and curious, fades out. Sound effect, ambulance or police siren approaching and passing, demonstrating Doppler shift, high pitch approaching, lower pitch receding. Wow, speaker 1, you hear that? That classic sound of a siren changing pitch as it rushes past. I sure do, Speaker 1. And that listeners is a perfect realworld demonstration of what we're diving into today. The Doppler effect. Exactly. Welcome to Physics Fundamentals. I'm speaker 1. And I'm speaker 2. So speaker 1, let's break it down. We're using some great notes here from a physia text, specifically the section on mechanicas from Uba Fuba. Page 37 kicks off the Doppler effect for sound. What? Real"
 resource: "https://www.youtube.com/watch?v=FnM9WyeSFjo"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:09.572Z" }
+category: "physics_and_math"
+category_confidence: 0.99
+has_code_demo: false
+difficulty_score: 0.01
+tags: ["physics_and_math"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:20:45.300Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** physics_and_math (confianza: 99%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.0 / 3.0
 - **Publicado el:** 23 de mayo de 2025
 - **Duración:** 01:46
 - **Vistas:** 8 | **Likes:** 0

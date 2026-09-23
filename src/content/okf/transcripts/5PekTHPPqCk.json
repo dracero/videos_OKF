@@ -1,0 +1,6584 @@
+[
+  {
+    "text": "Hola, hola, hola. A ver, hable alguno de",
+    "duration": 6920,
+    "offset": 760,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes a ver si sale el sonido remoto.",
+    "duration": 6160,
+    "offset": 3399,
+    "lang": "es"
+  },
+  {
+    "text": "Hola, hola.",
+    "duration": 4600,
+    "offset": 7680,
+    "lang": "es"
+  },
+  {
+    "text": "Perfecto. Sí, sí, sí. Sale. Bueno, ahí",
+    "duration": 6401,
+    "offset": 9559,
+    "lang": "es"
+  },
+  {
+    "text": "estoy grabando. Después lo subo a eh",
+    "duration": 5120,
+    "offset": 12280,
+    "lang": "es"
+  },
+  {
+    "text": "profe, tengo una consulta.",
+    "duration": 2560,
+    "offset": 15960,
+    "lang": "es"
+  },
+  {
+    "text": "Sí.",
+    "duration": 2600,
+    "offset": 17400,
+    "lang": "es"
+  },
+  {
+    "text": "Viste, este es un ejemplo de fuerza no",
+    "duration": 3519,
+    "offset": 18520,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa en el cual la trayectoria",
+    "duration": 4359,
+    "offset": 20000,
+    "lang": "es"
+  },
+  {
+    "text": "importa. Sí. Pero en estos dos ejemplos",
+    "duration": 4080,
+    "offset": 22039,
+    "lang": "es"
+  },
+  {
+    "text": "que pusiste, la única diferencia es que",
+    "duration": 3361,
+    "offset": 24359,
+    "lang": "es"
+  },
+  {
+    "text": "en una el bloque sube y la otra el",
+    "duration": 2761,
+    "offset": 26119,
+    "lang": "es"
+  },
+  {
+    "text": "bloque baja,",
+    "duration": 2799,
+    "offset": 27720,
+    "lang": "es"
+  },
+  {
+    "text": "pero lo que recorren es lo mismo, o sea,",
+    "duration": 2760,
+    "offset": 28880,
+    "lang": "es"
+  },
+  {
+    "text": "la trayectoria es la misma.",
+    "duration": 3560,
+    "offset": 30519,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, sí, sí. Es la misma trayectoria H.",
+    "duration": 2880,
+    "offset": 31640,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, sí.",
+    "duration": 2521,
+    "offset": 34079,
+    "lang": "es"
+  },
+  {
+    "text": "Y la integral no se podría hacer en el",
+    "duration": 5000,
+    "offset": 34520,
+    "lang": "es"
+  },
+  {
+    "text": "segundo caso, en vez de 0 a h de h a",
+    "duration": 4200,
+    "offset": 36600,
+    "lang": "es"
+  },
+  {
+    "text": "cer.",
+    "duration": 4519,
+    "offset": 39520,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, sí, se puede hacer de h [carraspeo]",
+    "duration": 7599,
+    "offset": 40800,
+    "lang": "es"
+  },
+  {
+    "text": "a cer, pero igual va a quedar negativo.",
+    "duration": 5761,
+    "offset": 44039,
+    "lang": "es"
+  },
+  {
+    "text": "Pero por eso la trayectoria es la misma,",
+    "duration": 1921,
+    "offset": 48399,
+    "lang": "es"
+  },
+  {
+    "text": "¿o no?",
+    "duration": 3079,
+    "offset": 49800,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, sí, la trayectoria es la misma. Lo",
+    "duration": 5840,
+    "offset": 50320,
+    "lang": "es"
+  },
+  {
+    "text": "que sucede, ¿qué es lo que pasa?",
+    "duration": 6761,
+    "offset": 52879,
+    "lang": "es"
+  },
+  {
+    "text": "La trayectoria es la misma, pero lo que",
+    "duration": 6399,
+    "offset": 56160,
+    "lang": "es"
+  },
+  {
+    "text": "yo estoy haciendo es la trayectoria en",
+    "duration": 6120,
+    "offset": 59640,
+    "lang": "es"
+  },
+  {
+    "text": "un camino cerrado. O sea, si ustedes se",
+    "duration": 5481,
+    "offset": 62559,
+    "lang": "es"
+  },
+  {
+    "text": "fijan,",
+    "duration": 4200,
+    "offset": 65760,
+    "lang": "es"
+  },
+  {
+    "text": "yo lo que les estoy mostrando es la",
+    "duration": 5600,
+    "offset": 68040,
+    "lang": "es"
+  },
+  {
+    "text": "trayectoria en un camino que es cerrado,",
+    "duration": 5640,
+    "offset": 69960,
+    "lang": "es"
+  },
+  {
+    "text": "o sea, es el camino de ida y el camino",
+    "duration": 4799,
+    "offset": 73640,
+    "lang": "es"
+  },
+  {
+    "text": "de vuelta.",
+    "duration": 7000,
+    "offset": 75600,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, lo que yo les digo es ahora vamos",
+    "duration": 6121,
+    "offset": 78439,
+    "lang": "es"
+  },
+  {
+    "text": "a ver cómo es que cambia. La",
+    "duration": 9559,
+    "offset": 82600,
+    "lang": "es"
+  },
+  {
+    "text": "particularidad que tiene esto es que eh",
+    "duration": 7599,
+    "offset": 84560,
+    "lang": "es"
+  },
+  {
+    "text": "la eh",
+    "duration": 5081,
+    "offset": 92439,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a ver que hay fuerzas",
+    "duration": 5120,
+    "offset": 94720,
+    "lang": "es"
+  },
+  {
+    "text": "que en este camino cerrado la sumatoria",
+    "duration": 4959,
+    "offset": 97520,
+    "lang": "es"
+  },
+  {
+    "text": "del trabajo da cero",
+    "duration": 4400,
+    "offset": 99840,
+    "lang": "es"
+  },
+  {
+    "text": "para ver la conclusión que vamos a ver",
+    "duration": 4680,
+    "offset": 102479,
+    "lang": "es"
+  },
+  {
+    "text": "después. Bien, pero en este caso la",
+    "duration": 4680,
+    "offset": 104240,
+    "lang": "es"
+  },
+  {
+    "text": "tensión, si yo hubiese puesto de 0 a h,",
+    "duration": 4361,
+    "offset": 107159,
+    "lang": "es"
+  },
+  {
+    "text": "me quedaba igual el cambio de - j +",
+    "duration": 5600,
+    "offset": 108920,
+    "lang": "es"
+  },
+  {
+    "text": "jirtiendo",
+    "duration": 3000,
+    "offset": 111520,
+    "lang": "es"
+  },
+  {
+    "text": "el sentido del eh",
+    "duration": 7280,
+    "offset": 115479,
+    "lang": "es"
+  },
+  {
+    "text": "del este del sistema de referencia,",
+    "duration": 6681,
+    "offset": 119159,
+    "lang": "es"
+  },
+  {
+    "text": "¿bien? O sea, del menos no me salvo.",
+    "duration": 3921,
+    "offset": 122759,
+    "lang": "es"
+  },
+  {
+    "text": "Okay. Okay.",
+    "duration": 3360,
+    "offset": 125840,
+    "lang": "es"
+  },
+  {
+    "text": "Es como, ¿se acuerdan cuando ustedes",
+    "duration": 5760,
+    "offset": 126680,
+    "lang": "es"
+  },
+  {
+    "text": "hacían, no sé si vos hiciste el CBC,",
+    "duration": 6399,
+    "offset": 129200,
+    "lang": "es"
+  },
+  {
+    "text": "si viste trabajo y energía en el CBC?",
+    "duration": 4000,
+    "offset": 132440,
+    "lang": "es"
+  },
+  {
+    "text": "Sí. Sí.",
+    "duration": 2360,
+    "offset": 135599,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 5320,
+    "offset": 136440,
+    "lang": "es"
+  },
+  {
+    "text": "Si vos lo que tenías que tener en",
+    "duration": 6201,
+    "offset": 137959,
+    "lang": "es"
+  },
+  {
+    "text": "consideración era",
+    "duration": 6240,
+    "offset": 141760,
+    "lang": "es"
+  },
+  {
+    "text": "la fuerza, la distancia y el coseno que",
+    "duration": 7600,
+    "offset": 144160,
+    "lang": "es"
+  },
+  {
+    "text": "había entre la fuerza y y el camino",
+    "duration": 6959,
+    "offset": 148000,
+    "lang": "es"
+  },
+  {
+    "text": "recorrido o este diferencial de camino",
+    "duration": 7440,
+    "offset": 151760,
+    "lang": "es"
+  },
+  {
+    "text": "recorrido. Bien, si esta fuerza",
+    "duration": 8481,
+    "offset": 154959,
+    "lang": "es"
+  },
+  {
+    "text": "en cambio de estar de este lado,",
+    "duration": 4240,
+    "offset": 159200,
+    "lang": "es"
+  },
+  {
+    "text": "esta fuerza vos la ponías de este lado,",
+    "duration": 6160,
+    "offset": 163640,
+    "lang": "es"
+  },
+  {
+    "text": "pero esto se movía para allá,",
+    "duration": 8800,
+    "offset": 166480,
+    "lang": "es"
+  },
+  {
+    "text": "este coseno de alfa valía -1. Bien.",
+    "duration": 5760,
+    "offset": 169800,
+    "lang": "es"
+  },
+  {
+    "text": "Sí.",
+    "duration": 3360,
+    "offset": 175280,
+    "lang": "es"
+  },
+  {
+    "text": "O sea, el movimiento para allá",
+    "duration": 5319,
+    "offset": 175560,
+    "lang": "es"
+  },
+  {
+    "text": "en cambio de ser una -1. Si quieren por",
+    "duration": 5200,
+    "offset": 178640,
+    "lang": "es"
+  },
+  {
+    "text": "ahí a lo mejor eh más fácil podemos",
+    "duration": 4681,
+    "offset": 180879,
+    "lang": "es"
+  },
+  {
+    "text": "hacer otro ejemplo con la fuerza de",
+    "duration": 5360,
+    "offset": 183840,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento. Miren,",
+    "duration": 3640,
+    "offset": 185560,
+    "lang": "es"
+  },
+  {
+    "text": "yo tengo un bloque, ¿bien?",
+    "duration": 5601,
+    "offset": 196879,
+    "lang": "es"
+  },
+  {
+    "text": "Y este bloque le aplico una fuerza F",
+    "duration": 5360,
+    "offset": 199560,
+    "lang": "es"
+  },
+  {
+    "text": "para aquel lado. Si el bloque está",
+    "duration": 4039,
+    "offset": 202480,
+    "lang": "es"
+  },
+  {
+    "text": "apoyado sobre una superficie con",
+    "duration": 3440,
+    "offset": 204920,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento, cuando ya haga el diagrama",
+    "duration": 4841,
+    "offset": 206519,
+    "lang": "es"
+  },
+  {
+    "text": "de cuerpo libre,",
+    "duration": 6439,
+    "offset": 208360,
+    "lang": "es"
+  },
+  {
+    "text": "MG, la normal, la fuerza F, ¿qué va a",
+    "duration": 5280,
+    "offset": 211360,
+    "lang": "es"
+  },
+  {
+    "text": "pasar con el rozamiento? ¿Para dónde va",
+    "duration": 4961,
+    "offset": 214799,
+    "lang": "es"
+  },
+  {
+    "text": "a ir?",
+    "duration": 3120,
+    "offset": 216640,
+    "lang": "es"
+  },
+  {
+    "text": "Si le estoy haciendo la fuerza F para",
+    "duration": 2479,
+    "offset": 220400,
+    "lang": "es"
+  },
+  {
+    "text": "aquel lado,",
+    "duration": 1959,
+    "offset": 222200,
+    "lang": "es"
+  },
+  {
+    "text": "a tu izquierda.",
+    "duration": 2560,
+    "offset": 222879,
+    "lang": "es"
+  },
+  {
+    "text": "A la izquierda",
+    "duration": 4201,
+    "offset": 224159,
+    "lang": "es"
+  },
+  {
+    "text": "ahora. Uy, tengo esto. Vamos a hacer de",
+    "duration": 4800,
+    "offset": 225439,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta que recorre esta distancia L.",
+    "duration": 3560,
+    "offset": 228360,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 4241,
+    "offset": 230239,
+    "lang": "es"
+  },
+  {
+    "text": "El rozamiento va a ir para el izquierda.",
+    "duration": 5599,
+    "offset": 231920,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. Y el diferencial de camino acá,",
+    "duration": 4479,
+    "offset": 234480,
+    "lang": "es"
+  },
+  {
+    "text": "¿para dónde va a ir? Yo lo estoy",
+    "duration": 6241,
+    "offset": 237519,
+    "lang": "es"
+  },
+  {
+    "text": "llevando de 0 a L.",
+    "duration": 4801,
+    "offset": 238959,
+    "lang": "es"
+  },
+  {
+    "text": "¿Para dónde va a ir el diferencial de",
+    "duration": 1920,
+    "offset": 248519,
+    "lang": "es"
+  },
+  {
+    "text": "camino?",
+    "duration": 3720,
+    "offset": 250120,
+    "lang": "es"
+  },
+  {
+    "text": "Para L. Hacia L. Claro, el diferencial",
+    "duration": 7161,
+    "offset": 250439,
+    "lang": "es"
+  },
+  {
+    "text": "de camino va a ir para aquel lado. Bien,",
+    "duration": 5320,
+    "offset": 253840,
+    "lang": "es"
+  },
+  {
+    "text": "estamos todos de acuerdo con eso. Esta",
+    "duration": 3919,
+    "offset": 257600,
+    "lang": "es"
+  },
+  {
+    "text": "es la fuerza de rozamiento y el",
+    "duration": 4200,
+    "offset": 259160,
+    "lang": "es"
+  },
+  {
+    "text": "diferencial de camino para aquel lado.",
+    "duration": 5321,
+    "offset": 261519,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora, ¿qué pasa",
+    "duration": 3480,
+    "offset": 263360,
+    "lang": "es"
+  },
+  {
+    "text": "si yo ahora invierto? digo, \"Bueno, el",
+    "duration": 7920,
+    "offset": 269400,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo llegó a L y ahora la fuerza en",
+    "duration": 8160,
+    "offset": 272400,
+    "lang": "es"
+  },
+  {
+    "text": "cambio de hacerle Uy, perdón, eh,",
+    "duration": 6800,
+    "offset": 277320,
+    "lang": "es"
+  },
+  {
+    "text": "aguardenme un minuto.",
+    "duration": 3560,
+    "offset": 280560,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí estoy, ahí estoy de vuelta.",
+    "duration": 7400,
+    "offset": 298639,
+    "lang": "es"
+  },
+  {
+    "text": "Perdón, eh, acá se está.",
+    "duration": 7241,
+    "offset": 301479,
+    "lang": "es"
+  },
+  {
+    "text": "Yo le hago una fuerza",
+    "duration": 4961,
+    "offset": 306039,
+    "lang": "es"
+  },
+  {
+    "text": "F para aquel lado. Bien. ¿Para dónde va",
+    "duration": 4600,
+    "offset": 308720,
+    "lang": "es"
+  },
+  {
+    "text": "a ir el rozamiento? Obviamente acá como",
+    "duration": 5440,
+    "offset": 311000,
+    "lang": "es"
+  },
+  {
+    "text": "siempre mg",
+    "duration": 5760,
+    "offset": 313320,
+    "lang": "es"
+  },
+  {
+    "text": "arriba tengo la normal N. ¿Para dónde va",
+    "duration": 5680,
+    "offset": 316440,
+    "lang": "es"
+  },
+  {
+    "text": "a ir el rozamiento?",
+    "duration": 3959,
+    "offset": 319080,
+    "lang": "es"
+  },
+  {
+    "text": "La derecha, ¿no?",
+    "duration": 2320,
+    "offset": 322120,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, ahora el rozamiento va para la",
+    "duration": 3841,
+    "offset": 323039,
+    "lang": "es"
+  },
+  {
+    "text": "derecha. Esto está yendo para aquel",
+    "duration": 4160,
+    "offset": 324440,
+    "lang": "es"
+  },
+  {
+    "text": "lado? ¿Para dónde va el diferencial de",
+    "duration": 3599,
+    "offset": 326880,
+    "lang": "es"
+  },
+  {
+    "text": "camino?",
+    "duration": 3159,
+    "offset": 328600,
+    "lang": "es"
+  },
+  {
+    "text": "Pierd",
+    "duration": 5601,
+    "offset": 330479,
+    "lang": "es"
+  },
+  {
+    "text": "el diferencial de camino va para allá.",
+    "duration": 6280,
+    "offset": 331759,
+    "lang": "es"
+  },
+  {
+    "text": "Bien,",
+    "duration": 7640,
+    "offset": 336080,
+    "lang": "es"
+  },
+  {
+    "text": "buenísimo. Ahora, este trabajo",
+    "duration": 5681,
+    "offset": 338039,
+    "lang": "es"
+  },
+  {
+    "text": "va a ser este trabajo, acuérdense, es la",
+    "duration": 4880,
+    "offset": 343759,
+    "lang": "es"
+  },
+  {
+    "text": "integral, el vamos a calcular el trabajo",
+    "duration": 4681,
+    "offset": 346319,
+    "lang": "es"
+  },
+  {
+    "text": "de la fuerza de rozamiento, perdón. Hago",
+    "duration": 8041,
+    "offset": 348639,
+    "lang": "es"
+  },
+  {
+    "text": "la integral de 0 a L de la fuerza de",
+    "duration": 8479,
+    "offset": 351000,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento producto escalar un",
+    "duration": 6680,
+    "offset": 356680,
+    "lang": "es"
+  },
+  {
+    "text": "diferencial de camino.",
+    "duration": 3881,
+    "offset": 359479,
+    "lang": "es"
+  },
+  {
+    "text": "¿Cuánto va a dar este trabajo? ¿Va a ser",
+    "duration": 5320,
+    "offset": 363840,
+    "lang": "es"
+  },
+  {
+    "text": "positivo o negativo?",
+    "duration": 3640,
+    "offset": 365520,
+    "lang": "es"
+  },
+  {
+    "text": "Negativo.",
+    "duration": 3440,
+    "offset": 371800,
+    "lang": "es"
+  },
+  {
+    "text": "Va a ser negativo porque",
+    "duration": 5359,
+    "offset": 372840,
+    "lang": "es"
+  },
+  {
+    "text": "este y este tienen signos distintos. O",
+    "duration": 6200,
+    "offset": 375240,
+    "lang": "es"
+  },
+  {
+    "text": "sea, acá me va a quedar un valor menos",
+    "duration": 5720,
+    "offset": 378199,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo de fuerza de rozamiento. Y en",
+    "duration": 4479,
+    "offset": 381440,
+    "lang": "es"
+  },
+  {
+    "text": "este caso",
+    "duration": 3881,
+    "offset": 383919,
+    "lang": "es"
+  },
+  {
+    "text": "el diferencial de camino va para allá y",
+    "duration": 3761,
+    "offset": 385919,
+    "lang": "es"
+  },
+  {
+    "text": "la fuerza de rozamiento para aquel lado.",
+    "duration": 4640,
+    "offset": 387800,
+    "lang": "es"
+  },
+  {
+    "text": "¿Va a cambiar en algo",
+    "duration": 6480,
+    "offset": 389680,
+    "lang": "es"
+  },
+  {
+    "text": "el signo del trabajo?",
+    "duration": 3720,
+    "offset": 392440,
+    "lang": "es"
+  },
+  {
+    "text": "¿Cómo va a ser? En este caso",
+    "duration": 3279,
+    "offset": 401360,
+    "lang": "es"
+  },
+  {
+    "text": "no va a ser negativo también, ¿o no? Por",
+    "duration": 4720,
+    "offset": 402560,
+    "lang": "es"
+  },
+  {
+    "text": "supuesto, también va a ser negativo.",
+    "duration": 4881,
+    "offset": 404639,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué pasa si yo sumo esto en el camino",
+    "duration": 5280,
+    "offset": 407280,
+    "lang": "es"
+  },
+  {
+    "text": "cerrado? O sea, si yo sumo los trabajos",
+    "duration": 4799,
+    "offset": 409520,
+    "lang": "es"
+  },
+  {
+    "text": "en este camino cerrado, me va a dar",
+    "duration": 4759,
+    "offset": 412560,
+    "lang": "es"
+  },
+  {
+    "text": "cero.",
+    "duration": 3000,
+    "offset": 414319,
+    "lang": "es"
+  },
+  {
+    "text": "Este es negativo y este es negativo. Es",
+    "duration": 3840,
+    "offset": 418520,
+    "lang": "es"
+  },
+  {
+    "text": "exactamente la misma fuerza de",
+    "duration": 5040,
+    "offset": 420879,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento porque es la fuerza máxima y",
+    "duration": 5800,
+    "offset": 422360,
+    "lang": "es"
+  },
+  {
+    "text": "es exactamente la misma distancia. Va a",
+    "duration": 4120,
+    "offset": 425919,
+    "lang": "es"
+  },
+  {
+    "text": "dar negativo ese",
+    "duration": 3200,
+    "offset": 428160,
+    "lang": "es"
+  },
+  {
+    "text": "no. No, no va a dar negativo.",
+    "duration": 3280,
+    "offset": 430039,
+    "lang": "es"
+  },
+  {
+    "text": "No va a dar, perdón, no va a dar cero.",
+    "duration": 4720,
+    "offset": 431360,
+    "lang": "es"
+  },
+  {
+    "text": "Va a ser un trabajo negativo. Bien,",
+    "duration": 5121,
+    "offset": 433319,
+    "lang": "es"
+  },
+  {
+    "text": "bien. Ese trabajo que en ese camino",
+    "duration": 4320,
+    "offset": 436080,
+    "lang": "es"
+  },
+  {
+    "text": "cerrado",
+    "duration": 5879,
+    "offset": 438440,
+    "lang": "es"
+  },
+  {
+    "text": "es este distinto de cero, es el trabajo",
+    "duration": 6960,
+    "offset": 440400,
+    "lang": "es"
+  },
+  {
+    "text": "de una fuerza no conservativa. O sea, la",
+    "duration": 6841,
+    "offset": 444319,
+    "lang": "es"
+  },
+  {
+    "text": "tensión, la fuerza de rozamiento,",
+    "duration": 7119,
+    "offset": 447360,
+    "lang": "es"
+  },
+  {
+    "text": "la normal, son todas fuerzas no",
+    "duration": 5360,
+    "offset": 451160,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas. ¿Por qué? Porque su",
+    "duration": 7801,
+    "offset": 454479,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo en un camino cerrado es eh",
+    "duration": 7959,
+    "offset": 456520,
+    "lang": "es"
+  },
+  {
+    "text": "su trabajo en un camino cerrado es",
+    "duration": 4680,
+    "offset": 462280,
+    "lang": "es"
+  },
+  {
+    "text": "distinto de cero. ¿Qué significa que la",
+    "duration": 6801,
+    "offset": 464479,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza sea una fuerza no conservativa?",
+    "duration": 4320,
+    "offset": 466960,
+    "lang": "es"
+  },
+  {
+    "text": "Que hasta ahora por lo que vimos es que",
+    "duration": 6840,
+    "offset": 471840,
+    "lang": "es"
+  },
+  {
+    "text": "la fuerza sea no conservativa significa",
+    "duration": 6440,
+    "offset": 475080,
+    "lang": "es"
+  },
+  {
+    "text": "que el trabajo que realiza esa fuerza va",
+    "duration": 4880,
+    "offset": 478680,
+    "lang": "es"
+  },
+  {
+    "text": "a ser dependiente de la trayectoria.",
+    "duration": 5040,
+    "offset": 481520,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 3000,
+    "offset": 483560,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, vamos a ver que vamos a volver a",
+    "duration": 6720,
+    "offset": 491280,
+    "lang": "es"
+  },
+  {
+    "text": "este ejemplo y ver qué pasa con el peso.",
+    "duration": 5720,
+    "offset": 493919,
+    "lang": "es"
+  },
+  {
+    "text": "Bien,",
+    "duration": 6000,
+    "offset": 498000,
+    "lang": "es"
+  },
+  {
+    "text": "yo soy la persona que está acá",
+    "duration": 4361,
+    "offset": 499639,
+    "lang": "es"
+  },
+  {
+    "text": "y ahora voy a llevar esto de acá hasta",
+    "duration": 4680,
+    "offset": 504639,
+    "lang": "es"
+  },
+  {
+    "text": "acá, o sea, una altura H para allá",
+    "duration": 5039,
+    "offset": 507560,
+    "lang": "es"
+  },
+  {
+    "text": "arriba. Bien. Y después vamos a hacer lo",
+    "duration": 5200,
+    "offset": 509319,
+    "lang": "es"
+  },
+  {
+    "text": "mismo,",
+    "duration": 6721,
+    "offset": 512599,
+    "lang": "es"
+  },
+  {
+    "text": "es decir, la acá este peso",
+    "duration": 7440,
+    "offset": 514519,
+    "lang": "es"
+  },
+  {
+    "text": "lo vamos a llevar",
+    "duration": 5199,
+    "offset": 519320,
+    "lang": "es"
+  },
+  {
+    "text": "una altura H, la misma altura H. Acá la",
+    "duration": 4161,
+    "offset": 521959,
+    "lang": "es"
+  },
+  {
+    "text": "llevamos para arriba y acá la llevamos",
+    "duration": 4401,
+    "offset": 524519,
+    "lang": "es"
+  },
+  {
+    "text": "para abajo. Bien, la misma distancia H,",
+    "duration": 5040,
+    "offset": 526120,
+    "lang": "es"
+  },
+  {
+    "text": "pero para abajo.",
+    "duration": 5160,
+    "offset": 528920,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 5280,
+    "offset": 531160,
+    "lang": "es"
+  },
+  {
+    "text": "Si yo hago el diagrama de cuerpo libre,",
+    "duration": 5160,
+    "offset": 534080,
+    "lang": "es"
+  },
+  {
+    "text": "acá voy a tener el peso y acá voy a",
+    "duration": 5320,
+    "offset": 536440,
+    "lang": "es"
+  },
+  {
+    "text": "tener la tensión uno. Y acá el diagrama",
+    "duration": 4640,
+    "offset": 539240,
+    "lang": "es"
+  },
+  {
+    "text": "de cuerpo libre voy a tener la tensión",
+    "duration": 6400,
+    "offset": 541760,
+    "lang": "es"
+  },
+  {
+    "text": "dos y acá voy a tener el peso. Bien,",
+    "duration": 7760,
+    "offset": 543880,
+    "lang": "es"
+  },
+  {
+    "text": "entonces este trabajo va a ser igual a",
+    "duration": 6760,
+    "offset": 548160,
+    "lang": "es"
+  },
+  {
+    "text": "la integral en la curva C de F producto",
+    "duration": 6879,
+    "offset": 551640,
+    "lang": "es"
+  },
+  {
+    "text": "escalar el diferencial de camino. Bien,",
+    "duration": 6120,
+    "offset": 554920,
+    "lang": "es"
+  },
+  {
+    "text": "en este caso, fíjense que el peso va",
+    "duration": 6161,
+    "offset": 558519,
+    "lang": "es"
+  },
+  {
+    "text": "para arriba y el diferencial, perdón, si",
+    "duration": 6120,
+    "offset": 561040,
+    "lang": "es"
+  },
+  {
+    "text": "sí, el peso va para abajo y el",
+    "duration": 4240,
+    "offset": 564680,
+    "lang": "es"
+  },
+  {
+    "text": "diferencial de camino va para arriba",
+    "duration": 4679,
+    "offset": 567160,
+    "lang": "es"
+  },
+  {
+    "text": "porque esto está subiendo bien.",
+    "duration": 6680,
+    "offset": 568920,
+    "lang": "es"
+  },
+  {
+    "text": "O sea, acá me queda la integral en la",
+    "duration": 6801,
+    "offset": 571839,
+    "lang": "es"
+  },
+  {
+    "text": "curva C de",
+    "duration": 6040,
+    "offset": 575600,
+    "lang": "es"
+  },
+  {
+    "text": "el peso versor J producto escalar",
+    "duration": 8960,
+    "offset": 578640,
+    "lang": "es"
+  },
+  {
+    "text": "diferencial de camino menos versor J.",
+    "duration": 5960,
+    "offset": 581640,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, o sea, acá voy a tener - p * h. O",
+    "duration": 10640,
+    "offset": 588040,
+    "lang": "es"
+  },
+  {
+    "text": "sea, que fíjense una cosa, el trabajo de",
+    "duration": 6599,
+    "offset": 594480,
+    "lang": "es"
+  },
+  {
+    "text": "la fuerza peso,",
+    "duration": 6080,
+    "offset": 598680,
+    "lang": "es"
+  },
+  {
+    "text": "en este caso, que yo lo voy subiendo,",
+    "duration": 7760,
+    "offset": 601079,
+    "lang": "es"
+  },
+  {
+    "text": "vale - p* h. Y si hago en este caso, voy",
+    "duration": 6560,
+    "offset": 604760,
+    "lang": "es"
+  },
+  {
+    "text": "a tener el trabajo de la integral en la",
+    "duration": 4921,
+    "offset": 608839,
+    "lang": "es"
+  },
+  {
+    "text": "curva C del peso por un diferencial de",
+    "duration": 5759,
+    "offset": 611320,
+    "lang": "es"
+  },
+  {
+    "text": "camino. Esto va a ser igual al trabajo",
+    "duration": 6759,
+    "offset": 613760,
+    "lang": "es"
+  },
+  {
+    "text": "en la curva C del peso.",
+    "duration": 6440,
+    "offset": 617079,
+    "lang": "es"
+  },
+  {
+    "text": "Eh,",
+    "duration": 3000,
+    "offset": 620519,
+    "lang": "es"
+  },
+  {
+    "text": "perdón, este es positivo. Nadie nadie me",
+    "duration": 5320,
+    "offset": 624600,
+    "lang": "es"
+  },
+  {
+    "text": "dijo nada. El peso es menos versor J eh",
+    "duration": 4320,
+    "offset": 627000,
+    "lang": "es"
+  },
+  {
+    "text": "siempre.",
+    "duration": 3680,
+    "offset": 629920,
+    "lang": "es"
+  },
+  {
+    "text": "Y este no es positivo. Ah, no, este es",
+    "duration": 4319,
+    "offset": 631320,
+    "lang": "es"
+  },
+  {
+    "text": "negativo. Este, este, este va para",
+    "duration": 3239,
+    "offset": 633600,
+    "lang": "es"
+  },
+  {
+    "text": "arriba es positivo. Y este es el",
+    "duration": 3281,
+    "offset": 635639,
+    "lang": "es"
+  },
+  {
+    "text": "negativo. Acá me queda menos. Bien.",
+    "duration": 4120,
+    "offset": 636839,
+    "lang": "es"
+  },
+  {
+    "text": "Claro. Sí, sí, sí.",
+    "duration": 5159,
+    "offset": 638920,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá, fíjense que acá está bajando.",
+    "duration": 5120,
+    "offset": 640959,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, el diferencial de camino tiene",
+    "duration": 3601,
+    "offset": 644079,
+    "lang": "es"
+  },
+  {
+    "text": "el mismo sentido. O sea, acá me va a",
+    "duration": 4641,
+    "offset": 646079,
+    "lang": "es"
+  },
+  {
+    "text": "quedar el peso versor J producto",
+    "duration": 5320,
+    "offset": 647680,
+    "lang": "es"
+  },
+  {
+    "text": "escalar, el diferencial de camino versor",
+    "duration": 5799,
+    "offset": 650720,
+    "lang": "es"
+  },
+  {
+    "text": "J. O sea, que acá me va a quedar p * H.",
+    "duration": 4880,
+    "offset": 653000,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 6201,
+    "offset": 656519,
+    "lang": "es"
+  },
+  {
+    "text": "Acá sí, si yo sumo los trabajos,",
+    "duration": 4840,
+    "offset": 657880,
+    "lang": "es"
+  },
+  {
+    "text": "fí,",
+    "duration": 1161,
+    "offset": 664959,
+    "lang": "es"
+  },
+  {
+    "text": "una consulta,",
+    "duration": 2000,
+    "offset": 665279,
+    "lang": "es"
+  },
+  {
+    "text": "¿sí?",
+    "duration": 3680,
+    "offset": 666120,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, el peso y el diferencial de camino",
+    "duration": 4961,
+    "offset": 667279,
+    "lang": "es"
+  },
+  {
+    "text": "tiene el signo negativo ahí o no.",
+    "duration": 6080,
+    "offset": 669800,
+    "lang": "es"
+  },
+  {
+    "text": "Acá sí, acá es - P * H, menos y menos.",
+    "duration": 6560,
+    "offset": 672240,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, es correcto. Y pero me queda más P *",
+    "duration": 4560,
+    "offset": 675880,
+    "lang": "es"
+  },
+  {
+    "text": "H. Bien,",
+    "duration": 4440,
+    "offset": 678800,
+    "lang": "es"
+  },
+  {
+    "text": "porque este va a ser este positivo y",
+    "duration": 4480,
+    "offset": 680440,
+    "lang": "es"
+  },
+  {
+    "text": "este acá va a ser negativo. Tienen",
+    "duration": 4760,
+    "offset": 683240,
+    "lang": "es"
+  },
+  {
+    "text": "signos distintos. O sea, cuando yo sumo",
+    "duration": 5200,
+    "offset": 684920,
+    "lang": "es"
+  },
+  {
+    "text": "el trabajo del peso, ¿a qué va a ser",
+    "duration": 5720,
+    "offset": 688000,
+    "lang": "es"
+  },
+  {
+    "text": "igual? A cero.",
+    "duration": 3600,
+    "offset": 690120,
+    "lang": "es"
+  },
+  {
+    "text": "Profe,",
+    "duration": 1720,
+    "offset": 694600,
+    "lang": "es"
+  },
+  {
+    "text": "sí,",
+    "duration": 2720,
+    "offset": 695160,
+    "lang": "es"
+  },
+  {
+    "text": "una consulta, disculpe la ignorancia.",
+    "duration": 3440,
+    "offset": 696320,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué es? ¿Cómo yo identificaría que es",
+    "duration": 4040,
+    "offset": 697880,
+    "lang": "es"
+  },
+  {
+    "text": "un camino cerrado o en el trabajo de la",
+    "duration": 3160,
+    "offset": 699760,
+    "lang": "es"
+  },
+  {
+    "text": "integral que est haciendo?",
+    "duration": 2880,
+    "offset": 701920,
+    "lang": "es"
+  },
+  {
+    "text": "Claro. ¿Qué es lo que pasa? El camino",
+    "duration": 5240,
+    "offset": 702920,
+    "lang": "es"
+  },
+  {
+    "text": "cerrado es porque el punto de inicio y",
+    "duration": 5800,
+    "offset": 704800,
+    "lang": "es"
+  },
+  {
+    "text": "el punto de fin coinciden. O sea, un",
+    "duration": 4400,
+    "offset": 708160,
+    "lang": "es"
+  },
+  {
+    "text": "camino cerrado.",
+    "duration": 3720,
+    "offset": 710600,
+    "lang": "es"
+  },
+  {
+    "text": "Cuando yo estoy hablando esa muy buena",
+    "duration": 3160,
+    "offset": 712560,
+    "lang": "es"
+  },
+  {
+    "text": "pregunta es, cuando yo estoy hablando de",
+    "duration": 3920,
+    "offset": 714320,
+    "lang": "es"
+  },
+  {
+    "text": "una integral curvilínea en un camino",
+    "duration": 4760,
+    "offset": 715720,
+    "lang": "es"
+  },
+  {
+    "text": "cerrado, significa que el punto de",
+    "duration": 5800,
+    "offset": 718240,
+    "lang": "es"
+  },
+  {
+    "text": "origen y el punto de fin coinciden.",
+    "duration": 6280,
+    "offset": 720480,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, lo que sucede es que dice, \"No,",
+    "duration": 5320,
+    "offset": 724040,
+    "lang": "es"
+  },
+  {
+    "text": "bueno, pero si yo hago una integral",
+    "duration": 6319,
+    "offset": 726760,
+    "lang": "es"
+  },
+  {
+    "text": "normal, una integral de Rman entre h y h",
+    "duration": 5520,
+    "offset": 729360,
+    "lang": "es"
+  },
+  {
+    "text": "me va a dar siempre cero. Sí, pero ojo",
+    "duration": 4320,
+    "offset": 733079,
+    "lang": "es"
+  },
+  {
+    "text": "que esta es una integral curvilínea y",
+    "duration": 6160,
+    "offset": 734880,
+    "lang": "es"
+  },
+  {
+    "text": "acá yo lo que estoy haciendo es como si",
+    "duration": 5281,
+    "offset": 737399,
+    "lang": "es"
+  },
+  {
+    "text": "este",
+    "duration": 4080,
+    "offset": 741040,
+    "lang": "es"
+  },
+  {
+    "text": "cortaran la curva esa, la pusieran",
+    "duration": 4760,
+    "offset": 742680,
+    "lang": "es"
+  },
+  {
+    "text": "alargada y sumaran la distancia de la",
+    "duration": 4240,
+    "offset": 745120,
+    "lang": "es"
+  },
+  {
+    "text": "curva. La integral curvilínea lo que",
+    "duration": 6000,
+    "offset": 747440,
+    "lang": "es"
+  },
+  {
+    "text": "hace es evalúa el producto, ese producto",
+    "duration": 5599,
+    "offset": 749360,
+    "lang": "es"
+  },
+  {
+    "text": "vectorial",
+    "duration": 3560,
+    "offset": 753440,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza por diferencial de camino, pero",
+    "duration": 4801,
+    "offset": 754959,
+    "lang": "es"
+  },
+  {
+    "text": "lo evalúa en cada tramo de la curva a lo",
+    "duration": 4560,
+    "offset": 757000,
+    "lang": "es"
+  },
+  {
+    "text": "largo de la curva.",
+    "duration": 4439,
+    "offset": 759760,
+    "lang": "es"
+  },
+  {
+    "text": "Cuando coincide el punto de salida con",
+    "duration": 5040,
+    "offset": 761560,
+    "lang": "es"
+  },
+  {
+    "text": "el punto de partida, estoy en un camino",
+    "duration": 6681,
+    "offset": 764199,
+    "lang": "es"
+  },
+  {
+    "text": "cerrado. Fíjense que el peso, la tensión",
+    "duration": 6840,
+    "offset": 766600,
+    "lang": "es"
+  },
+  {
+    "text": "o la fuerza de rozamiento en un camino",
+    "duration": 5800,
+    "offset": 770880,
+    "lang": "es"
+  },
+  {
+    "text": "cerrado, es decir, yo salía de un lugar,",
+    "duration": 5880,
+    "offset": 773440,
+    "lang": "es"
+  },
+  {
+    "text": "recorría L y volvía en ese camino",
+    "duration": 5360,
+    "offset": 776680,
+    "lang": "es"
+  },
+  {
+    "text": "cerrado, me iban a dar un valor distinto",
+    "duration": 7120,
+    "offset": 779320,
+    "lang": "es"
+  },
+  {
+    "text": "de cero, pero resulta que",
+    "duration": 7280,
+    "offset": 782040,
+    "lang": "es"
+  },
+  {
+    "text": "el peso me dio un valor igual a cer.",
+    "duration": 4399,
+    "offset": 786440,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 5560,
+    "offset": 789320,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, el peso es un tipo particular de",
+    "duration": 5721,
+    "offset": 790839,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza que ya habíamos visto que se",
+    "duration": 5480,
+    "offset": 794880,
+    "lang": "es"
+  },
+  {
+    "text": "llama fuerza conservativa. O sea, ¿cómo",
+    "duration": 6719,
+    "offset": 796560,
+    "lang": "es"
+  },
+  {
+    "text": "hago yo para ver que una fuerza es",
+    "duration": 5240,
+    "offset": 800360,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa? Tengo que demostrar que",
+    "duration": 4441,
+    "offset": 803279,
+    "lang": "es"
+  },
+  {
+    "text": "para cualquier camino cerrado, mejor",
+    "duration": 5039,
+    "offset": 805600,
+    "lang": "es"
+  },
+  {
+    "text": "dicho, para todo camino cerrado, esa",
+    "duration": 6400,
+    "offset": 807720,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza va e va a tener un trabajo que",
+    "duration": 6560,
+    "offset": 810639,
+    "lang": "es"
+  },
+  {
+    "text": "vale cero.",
+    "duration": 4800,
+    "offset": 814120,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. Y yo entiendo que ahora todos",
+    "duration": 3561,
+    "offset": 817199,
+    "lang": "es"
+  },
+  {
+    "text": "estén diciendo, \"Bueno, pero yo, ¿cómo",
+    "duration": 4599,
+    "offset": 818920,
+    "lang": "es"
+  },
+  {
+    "text": "hago si no sé integral curvilínea?\" ¿Qué",
+    "duration": 4280,
+    "offset": 820760,
+    "lang": "es"
+  },
+  {
+    "text": "es lo que sucede? ¿Por qué hablé al",
+    "duration": 4041,
+    "offset": 823519,
+    "lang": "es"
+  },
+  {
+    "text": "principio de la fuerza elástica? Las",
+    "duration": 4880,
+    "offset": 825040,
+    "lang": "es"
+  },
+  {
+    "text": "únicas fuerzas conservativas que vamos a",
+    "duration": 6120,
+    "offset": 827560,
+    "lang": "es"
+  },
+  {
+    "text": "ver en física uno son el peso y la",
+    "duration": 5599,
+    "offset": 829920,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza elástica.",
+    "duration": 4079,
+    "offset": 833680,
+    "lang": "es"
+  },
+  {
+    "text": "Todas las otras fuerzas que no son ni el",
+    "duration": 5521,
+    "offset": 835519,
+    "lang": "es"
+  },
+  {
+    "text": "peso ni la fuerza elástica son fuerzas",
+    "duration": 6361,
+    "offset": 837759,
+    "lang": "es"
+  },
+  {
+    "text": "no conservativas. Es decir, cuando a mí",
+    "duration": 5039,
+    "offset": 841040,
+    "lang": "es"
+  },
+  {
+    "text": "me dan el peso o a mí me dan una fuerza",
+    "duration": 6399,
+    "offset": 844120,
+    "lang": "es"
+  },
+  {
+    "text": "elástica, yo sé que esa fuerza va a ser",
+    "duration": 6880,
+    "offset": 846079,
+    "lang": "es"
+  },
+  {
+    "text": "una fuerza conservativa y su trabajo va",
+    "duration": 4880,
+    "offset": 850519,
+    "lang": "es"
+  },
+  {
+    "text": "a ser independiente de la trayectoria.",
+    "duration": 5680,
+    "offset": 852959,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora, si a mí me dan la tensión, la",
+    "duration": 5240,
+    "offset": 855399,
+    "lang": "es"
+  },
+  {
+    "text": "normal o cualquier otra fuerza que no",
+    "duration": 4440,
+    "offset": 858639,
+    "lang": "es"
+  },
+  {
+    "text": "sea ni el peso ni la fuerza elástica,",
+    "duration": 4081,
+    "offset": 860639,
+    "lang": "es"
+  },
+  {
+    "text": "entonces yo ya sé que esa va a ser una",
+    "duration": 4320,
+    "offset": 863079,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza no conservativa.",
+    "duration": 6880,
+    "offset": 864720,
+    "lang": "es"
+  },
+  {
+    "text": "La demostración requiere conocer eh",
+    "duration": 6201,
+    "offset": 867399,
+    "lang": "es"
+  },
+  {
+    "text": "conceptos matemáticos que se ven en el",
+    "duration": 3919,
+    "offset": 871600,
+    "lang": "es"
+  },
+  {
+    "text": "análisis dos. No sé si alguien ya cursó",
+    "duration": 4640,
+    "offset": 873600,
+    "lang": "es"
+  },
+  {
+    "text": "análisis dos y se acuerda del teorema de",
+    "duration": 5961,
+    "offset": 875519,
+    "lang": "es"
+  },
+  {
+    "text": "stocks o teorema del rotor,",
+    "duration": 4640,
+    "offset": 878240,
+    "lang": "es"
+  },
+  {
+    "text": "pero bien.",
+    "duration": 2200,
+    "offset": 881480,
+    "lang": "es"
+  },
+  {
+    "text": "Sí,",
+    "duration": 2920,
+    "offset": 882880,
+    "lang": "es"
+  },
+  {
+    "text": "lo que dice, ¿te acordas que decía que",
+    "duration": 4399,
+    "offset": 883680,
+    "lang": "es"
+  },
+  {
+    "text": "la integral",
+    "duration": 6599,
+    "offset": 885800,
+    "lang": "es"
+  },
+  {
+    "text": "del rotor de un campo vectorial era",
+    "duration": 7241,
+    "offset": 888079,
+    "lang": "es"
+  },
+  {
+    "text": "igual a la integral en un camino cerrado",
+    "duration": 5081,
+    "offset": 892399,
+    "lang": "es"
+  },
+  {
+    "text": "de ese campo vectorial? La integral",
+    "duration": 4360,
+    "offset": 895320,
+    "lang": "es"
+  },
+  {
+    "text": "curvilla en un camino cerrado de ese",
+    "duration": 3840,
+    "offset": 897480,
+    "lang": "es"
+  },
+  {
+    "text": "campo vectorial. Y entonces, ¿qué es lo",
+    "duration": 3120,
+    "offset": 899680,
+    "lang": "es"
+  },
+  {
+    "text": "que pasa? Si vos demostrás que el rotor",
+    "duration": 4079,
+    "offset": 901320,
+    "lang": "es"
+  },
+  {
+    "text": "es cero, pasa que con la fuerza",
+    "duration": 5320,
+    "offset": 902800,
+    "lang": "es"
+  },
+  {
+    "text": "elástica, con el peso, es posible",
+    "duration": 6481,
+    "offset": 905399,
+    "lang": "es"
+  },
+  {
+    "text": "demostrar que el rotor es cero.",
+    "duration": 7440,
+    "offset": 908120,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, este",
+    "duration": 5560,
+    "offset": 911880,
+    "lang": "es"
+  },
+  {
+    "text": "es fácil, digamos, demostrarlo, pero",
+    "duration": 3639,
+    "offset": 915560,
+    "lang": "es"
+  },
+  {
+    "text": "para eso tenés que saber teorema de",
+    "duration": 4639,
+    "offset": 917440,
+    "lang": "es"
+  },
+  {
+    "text": "stocks, tenés que conocer análisis 2 y",
+    "duration": 4521,
+    "offset": 919199,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros no nos vamos a meter en eso, ni",
+    "duration": 3361,
+    "offset": 922079,
+    "lang": "es"
+  },
+  {
+    "text": "le vamos a pedir integrales de línea ni",
+    "duration": 4239,
+    "offset": 923720,
+    "lang": "es"
+  },
+  {
+    "text": "nada. O sea, acá es como que ustedes",
+    "duration": 4920,
+    "offset": 925440,
+    "lang": "es"
+  },
+  {
+    "text": "tienen que saber si me dan el peso o si",
+    "duration": 5161,
+    "offset": 927959,
+    "lang": "es"
+  },
+  {
+    "text": "me dan eh la fuerza elástica. Me están",
+    "duration": 4880,
+    "offset": 930360,
+    "lang": "es"
+  },
+  {
+    "text": "hablando de una fuerza conservativa y su",
+    "duration": 3480,
+    "offset": 933120,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo es independiente de la",
+    "duration": 4760,
+    "offset": 935240,
+    "lang": "es"
+  },
+  {
+    "text": "trayectoria. Y si me dan cualquier otra",
+    "duration": 7159,
+    "offset": 936600,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza que no sea ni el peso ni el e ni",
+    "duration": 5720,
+    "offset": 940000,
+    "lang": "es"
+  },
+  {
+    "text": "la fuerza elástica,",
+    "duration": 3361,
+    "offset": 943759,
+    "lang": "es"
+  },
+  {
+    "text": "estamos hablando de una fuerza no",
+    "duration": 3280,
+    "offset": 945720,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa y el trabajo sí depende de",
+    "duration": 4639,
+    "offset": 947120,
+    "lang": "es"
+  },
+  {
+    "text": "la trayectoria. Bien, [resoplido]",
+    "duration": 5120,
+    "offset": 949000,
+    "lang": "es"
+  },
+  {
+    "text": "no vamos a ver ni cómo resolver integral",
+    "duration": 4520,
+    "offset": 951759,
+    "lang": "es"
+  },
+  {
+    "text": "curvilínea ni teorema de stocks ni nada",
+    "duration": 3639,
+    "offset": 954120,
+    "lang": "es"
+  },
+  {
+    "text": "de eso, porque eso son temas análisis",
+    "duration": 5761,
+    "offset": 956279,
+    "lang": "es"
+  },
+  {
+    "text": "dos que todavía no eh",
+    "duration": 8080,
+    "offset": 957759,
+    "lang": "es"
+  },
+  {
+    "text": "no son no es correlativo, no son",
+    "duration": 7560,
+    "offset": 962040,
+    "lang": "es"
+  },
+  {
+    "text": "necesarios en física uno. Bien. Bueno,",
+    "duration": 8161,
+    "offset": 965839,
+    "lang": "es"
+  },
+  {
+    "text": "ahora, ¿qué otra particularidad tiene",
+    "duration": 7520,
+    "offset": 969600,
+    "lang": "es"
+  },
+  {
+    "text": "la eh vamos a verla para acá? ¿Qué otra",
+    "duration": 6639,
+    "offset": 974000,
+    "lang": "es"
+  },
+  {
+    "text": "particularidad tiene la las fuerzas",
+    "duration": 6079,
+    "offset": 977120,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas?",
+    "duration": 4200,
+    "offset": 980639,
+    "lang": "es"
+  },
+  {
+    "text": "Si yo demuestro que una fuerza es",
+    "duration": 4801,
+    "offset": 983199,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa, es decir, si el trabajo en",
+    "duration": 4920,
+    "offset": 984839,
+    "lang": "es"
+  },
+  {
+    "text": "todo camino, si para cualquier camino",
+    "duration": 3480,
+    "offset": 988000,
+    "lang": "es"
+  },
+  {
+    "text": "cerrado, para todo camino cerrado, el",
+    "duration": 5200,
+    "offset": 989759,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo de esa fuerza es cero,",
+    "duration": 6000,
+    "offset": 991480,
+    "lang": "es"
+  },
+  {
+    "text": "entonces existe una función que se llama",
+    "duration": 6360,
+    "offset": 994959,
+    "lang": "es"
+  },
+  {
+    "text": "función potencial, tal que la variación",
+    "duration": 6880,
+    "offset": 997480,
+    "lang": "es"
+  },
+  {
+    "text": "de energía potencial es igual a menos el",
+    "duration": 7801,
+    "offset": 1001319,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo de eh la fuerza.",
+    "duration": 8360,
+    "offset": 1004360,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. O sea,",
+    "duration": 6719,
+    "offset": 1009120,
+    "lang": "es"
+  },
+  {
+    "text": "si la fuerza es una fuerza conservativa,",
+    "duration": 5919,
+    "offset": 1012720,
+    "lang": "es"
+  },
+  {
+    "text": "yo puedo decir que existe una energía",
+    "duration": 5800,
+    "offset": 1015839,
+    "lang": "es"
+  },
+  {
+    "text": "potencial.",
+    "duration": 3000,
+    "offset": 1018639,
+    "lang": "es"
+  },
+  {
+    "text": "¿Estamos de acuerdo? No puedo hablar de",
+    "duration": 3800,
+    "offset": 1022720,
+    "lang": "es"
+  },
+  {
+    "text": "energía potencial del rozamiento, de",
+    "duration": 5480,
+    "offset": 1024520,
+    "lang": "es"
+  },
+  {
+    "text": "energía potencial de eh la tensión. ¿Por",
+    "duration": 5039,
+    "offset": 1026520,
+    "lang": "es"
+  },
+  {
+    "text": "qué? Porque esas no son fuerzas",
+    "duration": 3439,
+    "offset": 1030000,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas.",
+    "duration": 5161,
+    "offset": 1031559,
+    "lang": "es"
+  },
+  {
+    "text": "Pero cuando yo",
+    "duration": 5721,
+    "offset": 1033439,
+    "lang": "es"
+  },
+  {
+    "text": "establezco, determino, puedo demostrar",
+    "duration": 5199,
+    "offset": 1036720,
+    "lang": "es"
+  },
+  {
+    "text": "que una fuerza es conservativa, entonces",
+    "duration": 8159,
+    "offset": 1039160,
+    "lang": "es"
+  },
+  {
+    "text": "lo que puedo decir es que existe un este",
+    "duration": 7640,
+    "offset": 1041919,
+    "lang": "es"
+  },
+  {
+    "text": "una función denominada función",
+    "duration": 6480,
+    "offset": 1047319,
+    "lang": "es"
+  },
+  {
+    "text": "potencial, tal que el trabajo",
+    "duration": 7321,
+    "offset": 1049559,
+    "lang": "es"
+  },
+  {
+    "text": "de la fuerza no conservativa es menos la",
+    "duration": 5921,
+    "offset": 1053799,
+    "lang": "es"
+  },
+  {
+    "text": "variación de energía potencial. Bien, o",
+    "duration": 5720,
+    "offset": 1056880,
+    "lang": "es"
+  },
+  {
+    "text": "sea, por ejemplo, acá",
+    "duration": 6600,
+    "offset": 1059720,
+    "lang": "es"
+  },
+  {
+    "text": "el trabajo p * h, ¿qué sería? Sería,",
+    "duration": 6319,
+    "offset": 1062600,
+    "lang": "es"
+  },
+  {
+    "text": "esperen que",
+    "duration": 4880,
+    "offset": 1066320,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que acá tengo en este caso que",
+    "duration": 7601,
+    "offset": 1068919,
+    "lang": "es"
+  },
+  {
+    "text": "el trabajo es igual a p * h. Bien.",
+    "duration": 5320,
+    "offset": 1071200,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces,",
+    "duration": 3520,
+    "offset": 1077240,
+    "lang": "es"
+  },
+  {
+    "text": "¿qué es lo que pasa? Como yo ya demostré",
+    "duration": 5801,
+    "offset": 1078799,
+    "lang": "es"
+  },
+  {
+    "text": "que el peso es un eh una fuerza",
+    "duration": 7080,
+    "offset": 1080760,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa, existe una función",
+    "duration": 6280,
+    "offset": 1084600,
+    "lang": "es"
+  },
+  {
+    "text": "potencial que llamaremos energía",
+    "duration": 6120,
+    "offset": 1087840,
+    "lang": "es"
+  },
+  {
+    "text": "potencial del peso o energía potencial",
+    "duration": 5120,
+    "offset": 1090880,
+    "lang": "es"
+  },
+  {
+    "text": "gravitatoria.",
+    "duration": 5520,
+    "offset": 1093960,
+    "lang": "es"
+  },
+  {
+    "text": "y se va a cumplir que esa energía, la",
+    "duration": 5679,
+    "offset": 1096000,
+    "lang": "es"
+  },
+  {
+    "text": "variación",
+    "duration": 4960,
+    "offset": 1099480,
+    "lang": "es"
+  },
+  {
+    "text": "de energía potencial",
+    "duration": 6321,
+    "offset": 1101679,
+    "lang": "es"
+  },
+  {
+    "text": "va a ser igual a menos el trabajo del",
+    "duration": 6479,
+    "offset": 1104440,
+    "lang": "es"
+  },
+  {
+    "text": "peso. En este caso, ¿qué significa? La",
+    "duration": 6440,
+    "offset": 1108000,
+    "lang": "es"
+  },
+  {
+    "text": "variación de energía potencial va a ser",
+    "duration": 8961,
+    "offset": 1110919,
+    "lang": "es"
+  },
+  {
+    "text": "igual a mg* h. Bien, o masa por gravedad",
+    "duration": 10040,
+    "offset": 1114440,
+    "lang": "es"
+  },
+  {
+    "text": "por altura. Bien. ¿Cuándo puedo hablar",
+    "duration": 6679,
+    "offset": 1119880,
+    "lang": "es"
+  },
+  {
+    "text": "de una función potencial o de una",
+    "duration": 4800,
+    "offset": 1124480,
+    "lang": "es"
+  },
+  {
+    "text": "función energía potencial",
+    "duration": 5401,
+    "offset": 1126559,
+    "lang": "es"
+  },
+  {
+    "text": "cuando la fuerza es una fuerza",
+    "duration": 7279,
+    "offset": 1129280,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa? Bien, fíjense que",
+    "duration": 7000,
+    "offset": 1131960,
+    "lang": "es"
+  },
+  {
+    "text": "cuando yo voy a definir energía",
+    "duration": 3921,
+    "offset": 1136559,
+    "lang": "es"
+  },
+  {
+    "text": "potencial,",
+    "duration": 4120,
+    "offset": 1138960,
+    "lang": "es"
+  },
+  {
+    "text": "tengo que definir un nivel de potencial",
+    "duration": 6679,
+    "offset": 1140480,
+    "lang": "es"
+  },
+  {
+    "text": "cero. Acá implícitamente lo que yo",
+    "duration": 6280,
+    "offset": 1143080,
+    "lang": "es"
+  },
+  {
+    "text": "estaba haciendo, que es definí, digo,",
+    "duration": 3801,
+    "offset": 1147159,
+    "lang": "es"
+  },
+  {
+    "text": "bueno,",
+    "duration": 5240,
+    "offset": 1149360,
+    "lang": "es"
+  },
+  {
+    "text": "en esperen que me confundí de",
+    "duration": 6040,
+    "offset": 1150960,
+    "lang": "es"
+  },
+  {
+    "text": "lo que hice correr y se lió. Yo lo que",
+    "duration": 5520,
+    "offset": 1154600,
+    "lang": "es"
+  },
+  {
+    "text": "hice fue definir acá mi energía",
+    "duration": 6640,
+    "offset": 1157000,
+    "lang": "es"
+  },
+  {
+    "text": "potencial igual a er.",
+    "duration": 7120,
+    "offset": 1160120,
+    "lang": "es"
+  },
+  {
+    "text": "Y en esta parte, cuando llega arriba,",
+    "duration": 8000,
+    "offset": 1163640,
+    "lang": "es"
+  },
+  {
+    "text": "refino mi energía potencial igual a mg",
+    "duration": 7720,
+    "offset": 1167240,
+    "lang": "es"
+  },
+  {
+    "text": "por h, donde h es la distancia que me",
+    "duration": 7760,
+    "offset": 1171640,
+    "lang": "es"
+  },
+  {
+    "text": "separa del cero de potencial. Bien,",
+    "duration": 6160,
+    "offset": 1174960,
+    "lang": "es"
+  },
+  {
+    "text": "esta energía potencial, que es la",
+    "duration": 4320,
+    "offset": 1179400,
+    "lang": "es"
+  },
+  {
+    "text": "energía potencial del peso, se denomina",
+    "duration": 5840,
+    "offset": 1181120,
+    "lang": "es"
+  },
+  {
+    "text": "energía potencial gravitatoria.",
+    "duration": 5720,
+    "offset": 1183720,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. Y esa energía potencial",
+    "duration": 5480,
+    "offset": 1186960,
+    "lang": "es"
+  },
+  {
+    "text": "gravitatoria,",
+    "duration": 3000,
+    "offset": 1189440,
+    "lang": "es"
+  },
+  {
+    "text": "esta energía potencial gravitatoria es",
+    "duration": 6360,
+    "offset": 1194679,
+    "lang": "es"
+  },
+  {
+    "text": "igual a mg * h. Bien, masa por gravedad",
+    "duration": 6560,
+    "offset": 1197440,
+    "lang": "es"
+  },
+  {
+    "text": "por altura. ¿Y qué es h? H es la",
+    "duration": 5161,
+    "offset": 1201039,
+    "lang": "es"
+  },
+  {
+    "text": "distancia que me separa de un nivel de",
+    "duration": 5640,
+    "offset": 1204000,
+    "lang": "es"
+  },
+  {
+    "text": "referencia que elijo yo al que llamo",
+    "duration": 7000,
+    "offset": 1206200,
+    "lang": "es"
+  },
+  {
+    "text": "cero de potencial.",
+    "duration": 3560,
+    "offset": 1209640,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 3000,
+    "offset": 1213799,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno,",
+    "duration": 4959,
+    "offset": 1217200,
+    "lang": "es"
+  },
+  {
+    "text": "em,",
+    "duration": 5839,
+    "offset": 1219720,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que yo en lugar de haber",
+    "duration": 6601,
+    "offset": 1222159,
+    "lang": "es"
+  },
+  {
+    "text": "calculado el trabajo del peso, como ya",
+    "duration": 6561,
+    "offset": 1225559,
+    "lang": "es"
+  },
+  {
+    "text": "sé que el peso es conservativo y existe",
+    "duration": 5480,
+    "offset": 1228760,
+    "lang": "es"
+  },
+  {
+    "text": "una energía potencial gravitatoria que",
+    "duration": 6000,
+    "offset": 1232120,
+    "lang": "es"
+  },
+  {
+    "text": "vale mg por h, podría haber calculado",
+    "duration": 5720,
+    "offset": 1234240,
+    "lang": "es"
+  },
+  {
+    "text": "menos la variación de energía. Digo,",
+    "duration": 3400,
+    "offset": 1238120,
+    "lang": "es"
+  },
+  {
+    "text": "bueno, el trabajo del peso es menos la",
+    "duration": 5480,
+    "offset": 1239960,
+    "lang": "es"
+  },
+  {
+    "text": "variación de energía potencial. Bien.",
+    "duration": 8039,
+    "offset": 1241520,
+    "lang": "es"
+  },
+  {
+    "text": "Y conociendo la energía potencial, eh,",
+    "duration": 6680,
+    "offset": 1245440,
+    "lang": "es"
+  },
+  {
+    "text": "puedo averiguar es el trabajo del peso.",
+    "duration": 5281,
+    "offset": 1249559,
+    "lang": "es"
+  },
+  {
+    "text": "O sea, encontrar la energía potencial",
+    "duration": 4480,
+    "offset": 1252120,
+    "lang": "es"
+  },
+  {
+    "text": "gravitatoria",
+    "duration": 4079,
+    "offset": 1254840,
+    "lang": "es"
+  },
+  {
+    "text": "desde un cero de potencial de un nivel",
+    "duration": 4840,
+    "offset": 1256600,
+    "lang": "es"
+  },
+  {
+    "text": "cero hasta una altura H es lo mismo que",
+    "duration": 5681,
+    "offset": 1258919,
+    "lang": "es"
+  },
+  {
+    "text": "calcular el menos el trabajo del peso",
+    "duration": 6760,
+    "offset": 1261440,
+    "lang": "es"
+  },
+  {
+    "text": "desde ese cer hasta esa altura H. Ahora,",
+    "duration": 5760,
+    "offset": 1264600,
+    "lang": "es"
+  },
+  {
+    "text": "una pregunta que yo les hago ahora que",
+    "duration": 5800,
+    "offset": 1268200,
+    "lang": "es"
+  },
+  {
+    "text": "definimos potencial.",
+    "duration": 3640,
+    "offset": 1270360,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué pasa? Aguárdenme.",
+    "duration": 3880,
+    "offset": 1274840,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué pasa si e",
+    "duration": 4240,
+    "offset": 1280720,
+    "lang": "es"
+  },
+  {
+    "text": "yo en cambio de tener eh",
+    "duration": 9839,
+    "offset": 1287440,
+    "lang": "es"
+  },
+  {
+    "text": "tengo así este plano inclinado,",
+    "duration": 9641,
+    "offset": 1291799,
+    "lang": "es"
+  },
+  {
+    "text": "este plano inclinado tiene altura H.",
+    "duration": 6921,
+    "offset": 1297279,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 2760,
+    "offset": 1301440,
+    "lang": "es"
+  },
+  {
+    "text": "Y yo",
+    "duration": 6120,
+    "offset": 1304320,
+    "lang": "es"
+  },
+  {
+    "text": "llevo el peso, pongo el este",
+    "duration": 5801,
+    "offset": 1306159,
+    "lang": "es"
+  },
+  {
+    "text": "la",
+    "duration": 4320,
+    "offset": 1310440,
+    "lang": "es"
+  },
+  {
+    "text": "roldana acá, me pongo así acá abajo y",
+    "duration": 4520,
+    "offset": 1311960,
+    "lang": "es"
+  },
+  {
+    "text": "arrastro el peso y lo llevo hasta acá",
+    "duration": 3600,
+    "offset": 1314760,
+    "lang": "es"
+  },
+  {
+    "text": "arriba.",
+    "duration": 4070,
+    "offset": 1316480,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, [carraspeo]",
+    "duration": 2190,
+    "offset": 1318360,
+    "lang": "es"
+  },
+  {
+    "text": "en este caso, el trabajo del peso,",
+    "duration": 5760,
+    "offset": 1320720,
+    "lang": "es"
+  },
+  {
+    "text": "¿cuánto vale o cómo cómo calcularían",
+    "duration": 4401,
+    "offset": 1323799,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes en este caso el trabajo del",
+    "duration": 3720,
+    "offset": 1326480,
+    "lang": "es"
+  },
+  {
+    "text": "peso? Estamos hablando solo el trabajo",
+    "duration": 5520,
+    "offset": 1328200,
+    "lang": "es"
+  },
+  {
+    "text": "de la fuerza peso. Eh, [carraspeo]",
+    "duration": 5160,
+    "offset": 1330200,
+    "lang": "es"
+  },
+  {
+    "text": "lo tendrías que dividir en su componente",
+    "duration": 3880,
+    "offset": 1333720,
+    "lang": "es"
+  },
+  {
+    "text": "de X y",
+    "duration": 3080,
+    "offset": 1335360,
+    "lang": "es"
+  },
+  {
+    "text": "o no.",
+    "duration": 3959,
+    "offset": 1337600,
+    "lang": "es"
+  },
+  {
+    "text": "A ver, pensemos todos. El el peso, ¿se",
+    "duration": 5239,
+    "offset": 1338440,
+    "lang": "es"
+  },
+  {
+    "text": "acuerdan que desde el punto de vista del",
+    "duration": 4961,
+    "offset": 1341559,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo existían dos tipos de fuerzas?",
+    "duration": 4281,
+    "offset": 1343679,
+    "lang": "es"
+  },
+  {
+    "text": "¿Cómo se llaman esos dos tipos de",
+    "duration": 2880,
+    "offset": 1346520,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas?",
+    "duration": 4000,
+    "offset": 1347960,
+    "lang": "es"
+  },
+  {
+    "text": "Conservativa es conservativa el peso.",
+    "duration": 4320,
+    "offset": 1349400,
+    "lang": "es"
+  },
+  {
+    "text": "Claro, conservativa y no conservativa.",
+    "duration": 3839,
+    "offset": 1351960,
+    "lang": "es"
+  },
+  {
+    "text": "El peso es una fuerza no conservativa.",
+    "duration": 4120,
+    "offset": 1353720,
+    "lang": "es"
+  },
+  {
+    "text": "¿Qué particularidad tienen las fuerzas",
+    "duration": 5281,
+    "offset": 1355799,
+    "lang": "es"
+  },
+  {
+    "text": "no conservativas?",
+    "duration": 3240,
+    "offset": 1357840,
+    "lang": "es"
+  },
+  {
+    "text": "El trabajo depende de la trayectoria.",
+    "duration": 3560,
+    "offset": 1361760,
+    "lang": "es"
+  },
+  {
+    "text": "No,",
+    "duration": 839,
+    "offset": 1364840,
+    "lang": "es"
+  },
+  {
+    "text": "no.",
+    "duration": 2359,
+    "offset": 1365320,
+    "lang": "es"
+  },
+  {
+    "text": "Ah, sí. Bueno. Ah, no.",
+    "duration": 3281,
+    "offset": 1365679,
+    "lang": "es"
+  },
+  {
+    "text": "Conservativas creo que no.",
+    "duration": 3561,
+    "offset": 1367679,
+    "lang": "es"
+  },
+  {
+    "text": "Conservativa. El trabajo no depende de",
+    "duration": 4839,
+    "offset": 1368960,
+    "lang": "es"
+  },
+  {
+    "text": "la trayectoria. Bien. En un camino",
+    "duration": 4930,
+    "offset": 1371240,
+    "lang": "es"
+  },
+  {
+    "text": "cerrado el trabajo va a ser cero.",
+    "duration": 3641,
+    "offset": 1373799,
+    "lang": "es"
+  },
+  {
+    "text": "[carraspeo] Y si la fuerza es",
+    "duration": 5310,
+    "offset": 1376170,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa, ¿qué existe?",
+    "duration": 4040,
+    "offset": 1377440,
+    "lang": "es"
+  },
+  {
+    "text": "Energía potencial.",
+    "duration": 2720,
+    "offset": 1381559,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, si la fuerza es conservativa,",
+    "duration": 3480,
+    "offset": 1382640,
+    "lang": "es"
+  },
+  {
+    "text": "existe energía potencial. Ahora,",
+    "duration": 4361,
+    "offset": 1384279,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense, acuérdense que la energía",
+    "duration": 6439,
+    "offset": 1386120,
+    "lang": "es"
+  },
+  {
+    "text": "potencial gravitatoria era igual a mg",
+    "duration": 6519,
+    "offset": 1388640,
+    "lang": "es"
+  },
+  {
+    "text": "por la altura que separaba el peso de un",
+    "duration": 5120,
+    "offset": 1392559,
+    "lang": "es"
+  },
+  {
+    "text": "cero de potencial. Si yo considero acá",
+    "duration": 4961,
+    "offset": 1395159,
+    "lang": "es"
+  },
+  {
+    "text": "mi cero de potencial, ¿no? Este es mi",
+    "duration": 4401,
+    "offset": 1397679,
+    "lang": "es"
+  },
+  {
+    "text": "nivel de referencia.",
+    "duration": 3840,
+    "offset": 1400120,
+    "lang": "es"
+  },
+  {
+    "text": "Yo elijo el que más me convenga para",
+    "duration": 4760,
+    "offset": 1402080,
+    "lang": "es"
+  },
+  {
+    "text": "calcular energía potencial.",
+    "duration": 4800,
+    "offset": 1403960,
+    "lang": "es"
+  },
+  {
+    "text": "Este es mi cero de referencia. ¿Hay",
+    "duration": 4520,
+    "offset": 1406840,
+    "lang": "es"
+  },
+  {
+    "text": "alguna diferencia en que suba vertical o",
+    "duration": 5519,
+    "offset": 1408760,
+    "lang": "es"
+  },
+  {
+    "text": "que suba así inclinado o que suba a los",
+    "duration": 5040,
+    "offset": 1411360,
+    "lang": "es"
+  },
+  {
+    "text": "tumbos, como sea?",
+    "duration": 2640,
+    "offset": 1414279,
+    "lang": "es"
+  },
+  {
+    "text": "No,",
+    "duration": 2480,
+    "offset": 1416400,
+    "lang": "es"
+  },
+  {
+    "text": "no. ¿Por qué no? ¿Por qué una fuerza",
+    "duration": 3401,
+    "offset": 1416919,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa?",
+    "duration": 3640,
+    "offset": 1418880,
+    "lang": "es"
+  },
+  {
+    "text": "Lo único que me interesa a mí es el",
+    "duration": 5200,
+    "offset": 1420320,
+    "lang": "es"
+  },
+  {
+    "text": "nivel inicial y el nivel final.",
+    "duration": 5159,
+    "offset": 1422520,
+    "lang": "es"
+  },
+  {
+    "text": "En todas las fuerzas conservativas pasa",
+    "duration": 4960,
+    "offset": 1425520,
+    "lang": "es"
+  },
+  {
+    "text": "eso. Lo único que me interesa es la",
+    "duration": 4721,
+    "offset": 1427679,
+    "lang": "es"
+  },
+  {
+    "text": "distancia que lo separa de un punto",
+    "duration": 5120,
+    "offset": 1430480,
+    "lang": "es"
+  },
+  {
+    "text": "considerado como el cero de potencial.",
+    "duration": 6159,
+    "offset": 1432400,
+    "lang": "es"
+  },
+  {
+    "text": "Y listo. O sea, el peso subido por ese",
+    "duration": 5720,
+    "offset": 1435600,
+    "lang": "es"
+  },
+  {
+    "text": "plano inclinado o subido verticalmente",
+    "duration": 4641,
+    "offset": 1438559,
+    "lang": "es"
+  },
+  {
+    "text": "es, desde el punto de vista del trabajo",
+    "duration": 5160,
+    "offset": 1441320,
+    "lang": "es"
+  },
+  {
+    "text": "mecánico, el mismo trabajo. ¿Por qué?",
+    "duration": 4880,
+    "offset": 1443200,
+    "lang": "es"
+  },
+  {
+    "text": "Porque es una fuerza conservativa. Por",
+    "duration": 3360,
+    "offset": 1446480,
+    "lang": "es"
+  },
+  {
+    "text": "supuesto que no pasa lo mismo con la",
+    "duration": 4240,
+    "offset": 1448080,
+    "lang": "es"
+  },
+  {
+    "text": "tensión, no pasa lo mismo con el",
+    "duration": 4360,
+    "offset": 1449840,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento, porque esas son fuerzas no",
+    "duration": 5000,
+    "offset": 1452320,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas y su trabajo sí depende de",
+    "duration": 6800,
+    "offset": 1454200,
+    "lang": "es"
+  },
+  {
+    "text": "la trayectoria recorrida.",
+    "duration": 5760,
+    "offset": 1457320,
+    "lang": "es"
+  },
+  {
+    "text": "Bien,",
+    "duration": 3840,
+    "offset": 1461000,
+    "lang": "es"
+  },
+  {
+    "text": "esto es importante que lo tengan en",
+    "duration": 3920,
+    "offset": 1463080,
+    "lang": "es"
+  },
+  {
+    "text": "cuenta porque una de las cosas con las",
+    "duration": 5199,
+    "offset": 1464840,
+    "lang": "es"
+  },
+  {
+    "text": "que se juega normalmente es cambiando",
+    "duration": 5799,
+    "offset": 1467000,
+    "lang": "es"
+  },
+  {
+    "text": "trayectorias de fuerzas conservativas",
+    "duration": 5880,
+    "offset": 1470039,
+    "lang": "es"
+  },
+  {
+    "text": "y a veces empiezan a intentar razonarlo",
+    "duration": 5120,
+    "offset": 1472799,
+    "lang": "es"
+  },
+  {
+    "text": "en función de la trayectoria y ustedes",
+    "duration": 4120,
+    "offset": 1475919,
+    "lang": "es"
+  },
+  {
+    "text": "cuando es una fuerza conservativa se",
+    "duration": 7321,
+    "offset": 1477919,
+    "lang": "es"
+  },
+  {
+    "text": "olvidan de e la trayectoria. Bien,",
+    "duration": 7360,
+    "offset": 1480039,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que otra particularidad que",
+    "duration": 4080,
+    "offset": 1485240,
+    "lang": "es"
+  },
+  {
+    "text": "tiene el potencial, si yo hago la",
+    "duration": 4041,
+    "offset": 1487399,
+    "lang": "es"
+  },
+  {
+    "text": "derivada del potencial respecto de la",
+    "duration": 5880,
+    "offset": 1489320,
+    "lang": "es"
+  },
+  {
+    "text": "posición, me da la fuerza. Fíjense que",
+    "duration": 6239,
+    "offset": 1491440,
+    "lang": "es"
+  },
+  {
+    "text": "si yo hago acá la derivada de la energía",
+    "duration": 5000,
+    "offset": 1495200,
+    "lang": "es"
+  },
+  {
+    "text": "potencial respecto de h, ¿a qué es igual",
+    "duration": 5521,
+    "offset": 1497679,
+    "lang": "es"
+  },
+  {
+    "text": "esto?",
+    "duration": 3000,
+    "offset": 1500200,
+    "lang": "es"
+  },
+  {
+    "text": "Esto vale,",
+    "duration": 4959,
+    "offset": 1509080,
+    "lang": "es"
+  },
+  {
+    "text": "claro. MG. Bien. Acá en realidad sería",
+    "duration": 6521,
+    "offset": 1510799,
+    "lang": "es"
+  },
+  {
+    "text": "menos mg porque el peso va hacia abajo,",
+    "duration": 6161,
+    "offset": 1514039,
+    "lang": "es"
+  },
+  {
+    "text": "la derivada es igual al peso. Bien,",
+    "duration": 6560,
+    "offset": 1517320,
+    "lang": "es"
+  },
+  {
+    "text": "entonces a la luz de esto, ¿cuánto",
+    "duration": 6479,
+    "offset": 1520200,
+    "lang": "es"
+  },
+  {
+    "text": "valdrá la energía potencial elástica?",
+    "duration": 5000,
+    "offset": 1523880,
+    "lang": "es"
+  },
+  {
+    "text": "Ustedes acuérdense que f la fuerza",
+    "duration": 8321,
+    "offset": 1526679,
+    "lang": "es"
+  },
+  {
+    "text": "elástica era k * x. Bien,",
+    "duration": 9159,
+    "offset": 1528880,
+    "lang": "es"
+  },
+  {
+    "text": "entonces la energía potencial elástica",
+    "duration": 9200,
+    "offset": 1535000,
+    "lang": "es"
+  },
+  {
+    "text": "tiene que ser igual a 1/2 de K por X².",
+    "duration": 7961,
+    "offset": 1538039,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, ¿por qué? Y porque cuando ustedes",
+    "duration": 3640,
+    "offset": 1544200,
+    "lang": "es"
+  },
+  {
+    "text": "derivan",
+    "duration": 4279,
+    "offset": 1546000,
+    "lang": "es"
+  },
+  {
+    "text": "la energía potencial respecto de x, les",
+    "duration": 6120,
+    "offset": 1547840,
+    "lang": "es"
+  },
+  {
+    "text": "va a quedar - k * x. Bien, acá estaba el",
+    "duration": 7561,
+    "offset": 1550279,
+    "lang": "es"
+  },
+  {
+    "text": "menos le va a quedar - k * x. Bien,",
+    "duration": 6760,
+    "offset": 1553960,
+    "lang": "es"
+  },
+  {
+    "text": "entonces esta es la expresión de la",
+    "duration": 5199,
+    "offset": 1557840,
+    "lang": "es"
+  },
+  {
+    "text": "energía potencial gravitatoria y esta la",
+    "duration": 3800,
+    "offset": 1560720,
+    "lang": "es"
+  },
+  {
+    "text": "expresión de la energía potencial",
+    "duration": 5401,
+    "offset": 1563039,
+    "lang": "es"
+  },
+  {
+    "text": "elástica. Bien.",
+    "duration": 7560,
+    "offset": 1564520,
+    "lang": "es"
+  },
+  {
+    "text": "Y en este caso,",
+    "duration": 3640,
+    "offset": 1568440,
+    "lang": "es"
+  },
+  {
+    "text": "en este caso que el peso es este que",
+    "duration": 7639,
+    "offset": 1574760,
+    "lang": "es"
+  },
+  {
+    "text": "tengo el el resorte, lástima que me lo",
+    "duration": 5681,
+    "offset": 1579039,
+    "lang": "es"
+  },
+  {
+    "text": "hizo. Yo quería la simulación horizontal",
+    "duration": 6361,
+    "offset": 1582399,
+    "lang": "es"
+  },
+  {
+    "text": "mis vertical, pero bueno.",
+    "duration": 4040,
+    "offset": 1584720,
+    "lang": "es"
+  },
+  {
+    "text": "En este caso digo, bueno, miren,",
+    "duration": 4120,
+    "offset": 1588880,
+    "lang": "es"
+  },
+  {
+    "text": "el resorte se aparta, el resorte está",
+    "duration": 8360,
+    "offset": 1593600,
+    "lang": "es"
+  },
+  {
+    "text": "ahí en su posición de equilibrio, bien,",
+    "duration": 9600,
+    "offset": 1596559,
+    "lang": "es"
+  },
+  {
+    "text": "y se aparta de su posición de equilibrio",
+    "duration": 7560,
+    "offset": 1601960,
+    "lang": "es"
+  },
+  {
+    "text": "1,05 m.",
+    "duration": 6400,
+    "offset": 1606159,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, ¿cómo harían ustedes con esta fuerza",
+    "duration": 7639,
+    "offset": 1609520,
+    "lang": "es"
+  },
+  {
+    "text": "que es variable para hallar la",
+    "duration": 7201,
+    "offset": 1612559,
+    "lang": "es"
+  },
+  {
+    "text": "energía potencial elástica en ese punto",
+    "duration": 6721,
+    "offset": 1617159,
+    "lang": "es"
+  },
+  {
+    "text": "1,05 m?",
+    "duration": 4120,
+    "offset": 1619760,
+    "lang": "es"
+  },
+  {
+    "text": "Con el X, con la distancia o no, tipo",
+    "duration": 5199,
+    "offset": 1624480,
+    "lang": "es"
+  },
+  {
+    "text": "dentro de la ecuación de la energía",
+    "duration": 4399,
+    "offset": 1627520,
+    "lang": "es"
+  },
+  {
+    "text": "potencial elástica.",
+    "duration": 6081,
+    "offset": 1629679,
+    "lang": "es"
+  },
+  {
+    "text": "A ver, eh, el pez, el la energía",
+    "duration": 5401,
+    "offset": 1631919,
+    "lang": "es"
+  },
+  {
+    "text": "potencial elástica es una fuerza",
+    "duration": 4720,
+    "offset": 1635760,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa o no conservativa?",
+    "duration": 4359,
+    "offset": 1637320,
+    "lang": "es"
+  },
+  {
+    "text": "Conservativa.",
+    "duration": 2559,
+    "offset": 1640480,
+    "lang": "es"
+  },
+  {
+    "text": "Y si es conservativa, ¿qué",
+    "duration": 3480,
+    "offset": 1641679,
+    "lang": "es"
+  },
+  {
+    "text": "particularidad tiene? Primero, el",
+    "duration": 5681,
+    "offset": 1643039,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo depende de la trayectoria,",
+    "duration": 4321,
+    "offset": 1645159,
+    "lang": "es"
+  },
+  {
+    "text": "¿no?",
+    "duration": 4400,
+    "offset": 1648720,
+    "lang": "es"
+  },
+  {
+    "text": "No. Y existe, ¿qué cosa? Una función",
+    "duration": 5640,
+    "offset": 1649480,
+    "lang": "es"
+  },
+  {
+    "text": "llamada función potencial o energía",
+    "duration": 4919,
+    "offset": 1653120,
+    "lang": "es"
+  },
+  {
+    "text": "potencial. ¿Y qué particularidad tiene",
+    "duration": 7039,
+    "offset": 1655120,
+    "lang": "es"
+  },
+  {
+    "text": "esa función potencial?",
+    "duration": 4120,
+    "offset": 1658039,
+    "lang": "es"
+  },
+  {
+    "text": "o qué particularidad tiene el trabajo de",
+    "duration": 3400,
+    "offset": 1662600,
+    "lang": "es"
+  },
+  {
+    "text": "esas fuerzas conservativas. ¿De qué",
+    "duration": 5961,
+    "offset": 1664399,
+    "lang": "es"
+  },
+  {
+    "text": "depende si existe la función potencial",
+    "duration": 4360,
+    "offset": 1666000,
+    "lang": "es"
+  },
+  {
+    "text": "del punto final inicial, no?",
+    "duration": 3439,
+    "offset": 1671080,
+    "lang": "es"
+  },
+  {
+    "text": "Listo, el punto final y el inicial.",
+    "duration": 4519,
+    "offset": 1672640,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, ¿ustedes qué necesitan? Si se",
+    "duration": 6601,
+    "offset": 1674519,
+    "lang": "es"
+  },
+  {
+    "text": "alejó 1,05 de la posición de equilibrio.",
+    "duration": 6961,
+    "offset": 1677159,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. Y la energía potencial elástica",
+    "duration": 7600,
+    "offset": 1681120,
+    "lang": "es"
+  },
+  {
+    "text": "vale 1/io de k * x² * delta x, ¿no? Que",
+    "duration": 7679,
+    "offset": 1684120,
+    "lang": "es"
+  },
+  {
+    "text": "la distancia precisan ustedes integrar",
+    "duration": 5240,
+    "offset": 1688720,
+    "lang": "es"
+  },
+  {
+    "text": "algo o si tienen el x final dicen,",
+    "duration": 5081,
+    "offset": 1691799,
+    "lang": "es"
+  },
+  {
+    "text": "bueno, pongo el cero en la posición de",
+    "duration": 4439,
+    "offset": 1693960,
+    "lang": "es"
+  },
+  {
+    "text": "equilibrio,",
+    "duration": 5320,
+    "offset": 1696880,
+    "lang": "es"
+  },
+  {
+    "text": "el x final vale 1,05 y el trabajo",
+    "duration": 7000,
+    "offset": 1698399,
+    "lang": "es"
+  },
+  {
+    "text": "realizado menos el trabajo realizado es",
+    "duration": 8000,
+    "offset": 1702200,
+    "lang": "es"
+  },
+  {
+    "text": "1/2 de k por s delta x². Bien. ¿Por qué?",
+    "duration": 9241,
+    "offset": 1705399,
+    "lang": "es"
+  },
+  {
+    "text": "Porque el peso como es una fuerza",
+    "duration": 5959,
+    "offset": 1710200,
+    "lang": "es"
+  },
+  {
+    "text": "eh",
+    "duration": 4440,
+    "offset": 1714640,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa, lo único que me no el",
+    "duration": 4681,
+    "offset": 1716159,
+    "lang": "es"
+  },
+  {
+    "text": "peso, perdón, la fuerza elástica, como",
+    "duration": 4319,
+    "offset": 1719080,
+    "lang": "es"
+  },
+  {
+    "text": "es una fuerza conservativa, a mí lo",
+    "duration": 5079,
+    "offset": 1720840,
+    "lang": "es"
+  },
+  {
+    "text": "único que me interesa es la posición",
+    "duration": 4481,
+    "offset": 1723399,
+    "lang": "es"
+  },
+  {
+    "text": "final",
+    "duration": 6681,
+    "offset": 1725919,
+    "lang": "es"
+  },
+  {
+    "text": "y la posición inicial.",
+    "duration": 4720,
+    "offset": 1727880,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, si digo, bueno, yo pongo acá",
+    "duration": 4559,
+    "offset": 1733000,
+    "lang": "es"
+  },
+  {
+    "text": "mi cero de potencial, salgo de esa",
+    "duration": 8120,
+    "offset": 1734919,
+    "lang": "es"
+  },
+  {
+    "text": "posición inicial y bajo hasta 1.05 m,",
+    "duration": 10041,
+    "offset": 1737559,
+    "lang": "es"
+  },
+  {
+    "text": "listo, 1/2 de k * 1.05²",
+    "duration": 7041,
+    "offset": 1743039,
+    "lang": "es"
+  },
+  {
+    "text": "y esa es la energía potencial elástica",
+    "duration": 6400,
+    "offset": 1747600,
+    "lang": "es"
+  },
+  {
+    "text": "en este punto o ese es menos el trabajo",
+    "duration": 7760,
+    "offset": 1750080,
+    "lang": "es"
+  },
+  {
+    "text": "de la fuerza elástica en este punto.",
+    "duration": 6000,
+    "offset": 1754000,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, lo único que me interesa, la",
+    "duration": 4520,
+    "offset": 1757840,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza conservativa es independiente de",
+    "duration": 4840,
+    "offset": 1760000,
+    "lang": "es"
+  },
+  {
+    "text": "la trayectoria, tiene una función",
+    "duration": 5840,
+    "offset": 1762360,
+    "lang": "es"
+  },
+  {
+    "text": "potencial y para hallar el trabajo, yo",
+    "duration": 5079,
+    "offset": 1764840,
+    "lang": "es"
+  },
+  {
+    "text": "sé que es igual a menos la variación de",
+    "duration": 3640,
+    "offset": 1768200,
+    "lang": "es"
+  },
+  {
+    "text": "esa energía potencial y lo único que me",
+    "duration": 3240,
+    "offset": 1769919,
+    "lang": "es"
+  },
+  {
+    "text": "interesa para hallar esa energía",
+    "duration": 3640,
+    "offset": 1771840,
+    "lang": "es"
+  },
+  {
+    "text": "potencial es la posición inicial y",
+    "duration": 4000,
+    "offset": 1773159,
+    "lang": "es"
+  },
+  {
+    "text": "final.",
+    "duration": 3240,
+    "offset": 1775480,
+    "lang": "es"
+  },
+  {
+    "text": "Bien,",
+    "duration": 2961,
+    "offset": 1777159,
+    "lang": "es"
+  },
+  {
+    "text": "los trabajos de las fuerzas",
+    "duration": 3480,
+    "offset": 1778720,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas son independientes de las",
+    "duration": 4559,
+    "offset": 1780120,
+    "lang": "es"
+  },
+  {
+    "text": "trayectorias.",
+    "duration": 5440,
+    "offset": 1782200,
+    "lang": "es"
+  },
+  {
+    "text": "Anótenselo bien eso porque cuando hagan",
+    "duration": 6081,
+    "offset": 1784679,
+    "lang": "es"
+  },
+  {
+    "text": "ejercicios y demás lo van a tener que",
+    "duration": 4680,
+    "offset": 1787640,
+    "lang": "es"
+  },
+  {
+    "text": "recordar o tener presente.",
+    "duration": 3159,
+    "offset": 1790760,
+    "lang": "es"
+  },
+  {
+    "text": "¿Cómo dijiste, profe? Disculpa que no te",
+    "duration": 2440,
+    "offset": 1792320,
+    "lang": "es"
+  },
+  {
+    "text": "escuché.",
+    "duration": 4441,
+    "offset": 1793919,
+    "lang": "es"
+  },
+  {
+    "text": "Que el trabajo de las fuerzas",
+    "duration": 6080,
+    "offset": 1794760,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas es independiente de la",
+    "duration": 4439,
+    "offset": 1798360,
+    "lang": "es"
+  },
+  {
+    "text": "trayectoria,",
+    "duration": 4240,
+    "offset": 1800840,
+    "lang": "es"
+  },
+  {
+    "text": "depende solo de la posición inicial y la",
+    "duration": 5360,
+    "offset": 1802799,
+    "lang": "es"
+  },
+  {
+    "text": "posición final. Y si la fuerza es",
+    "duration": 4680,
+    "offset": 1805080,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa, existe una función",
+    "duration": 5120,
+    "offset": 1808159,
+    "lang": "es"
+  },
+  {
+    "text": "potencial o función energía potencial,",
+    "duration": 5399,
+    "offset": 1809760,
+    "lang": "es"
+  },
+  {
+    "text": "tal que la variación de energía",
+    "duration": 5961,
+    "offset": 1813279,
+    "lang": "es"
+  },
+  {
+    "text": "potencial es menos el trabajo de esa",
+    "duration": 6041,
+    "offset": 1815159,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza no conserv de esa fuerza",
+    "duration": 4039,
+    "offset": 1819240,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa. Pero aparte, ¿qué es lo",
+    "duration": 4280,
+    "offset": 1821200,
+    "lang": "es"
+  },
+  {
+    "text": "que pasa?",
+    "duration": 5321,
+    "offset": 1823279,
+    "lang": "es"
+  },
+  {
+    "text": "La la derivada de la energía potencial",
+    "duration": 4919,
+    "offset": 1825480,
+    "lang": "es"
+  },
+  {
+    "text": "respecto del tiempo me da menos la",
+    "duration": 5000,
+    "offset": 1828600,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza, con lo cual yo puedo sacar",
+    "duration": 4841,
+    "offset": 1830399,
+    "lang": "es"
+  },
+  {
+    "text": "fácilmente",
+    "duration": 3679,
+    "offset": 1833600,
+    "lang": "es"
+  },
+  {
+    "text": "cuánto va a tener que ser. Yo sé que",
+    "duration": 5000,
+    "offset": 1835240,
+    "lang": "es"
+  },
+  {
+    "text": "bueno, la fuerza peso es m * h.",
+    "duration": 4201,
+    "offset": 1837279,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, como tengo que derivar",
+    "duration": 2919,
+    "offset": 1840240,
+    "lang": "es"
+  },
+  {
+    "text": "respecto de la posición, va a tener que",
+    "duration": 4520,
+    "offset": 1841480,
+    "lang": "es"
+  },
+  {
+    "text": "ser, perdón, la fuerza de peso es mg.",
+    "duration": 5120,
+    "offset": 1843159,
+    "lang": "es"
+  },
+  {
+    "text": "Como tengo que derivar respecto de la",
+    "duration": 7880,
+    "offset": 1846000,
+    "lang": "es"
+  },
+  {
+    "text": "posición voy a ser mg * h. Bien,",
+    "duration": 9360,
+    "offset": 1848279,
+    "lang": "es"
+  },
+  {
+    "text": "yo sé que la fuerza f es - k * x,",
+    "duration": 6000,
+    "offset": 1853880,
+    "lang": "es"
+  },
+  {
+    "text": "entonces la energía potencial tiene que",
+    "duration": 5961,
+    "offset": 1857639,
+    "lang": "es"
+  },
+  {
+    "text": "ser 1/2 de k * x². ¿Por qué? Y porque si",
+    "duration": 5960,
+    "offset": 1859880,
+    "lang": "es"
+  },
+  {
+    "text": "hago la derivada de la energía potencial",
+    "duration": 5280,
+    "offset": 1863600,
+    "lang": "es"
+  },
+  {
+    "text": "respecto de x, esto es menos la fuerza",
+    "duration": 4679,
+    "offset": 1865840,
+    "lang": "es"
+  },
+  {
+    "text": "elástica. Y fíjense que esto va a ser",
+    "duration": 9519,
+    "offset": 1868880,
+    "lang": "es"
+  },
+  {
+    "text": "igual a -1/2 de k por 2x y me queda - k",
+    "duration": 10000,
+    "offset": 1870519,
+    "lang": "es"
+  },
+  {
+    "text": "* x. Bien,",
+    "duration": 3601,
+    "offset": 1878399,
+    "lang": "es"
+  },
+  {
+    "text": "profe, no se ve la la pantalla.",
+    "duration": 3241,
+    "offset": 1880519,
+    "lang": "es"
+  },
+  {
+    "text": "Uh, perdón.",
+    "duration": 3679,
+    "offset": 1882000,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí va.",
+    "duration": 4919,
+    "offset": 1883760,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 3000,
+    "offset": 1885679,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, sí, siempre me olvido de cambiar la",
+    "duration": 5400,
+    "offset": 1890639,
+    "lang": "es"
+  },
+  {
+    "text": "pantalla, pero",
+    "duration": 4321,
+    "offset": 1893399,
+    "lang": "es"
+  },
+  {
+    "text": "eh",
+    "duration": 4201,
+    "offset": 1896039,
+    "lang": "es"
+  },
+  {
+    "text": "ustedes lo que saben ahora que decen,",
+    "duration": 5799,
+    "offset": 1897720,
+    "lang": "es"
+  },
+  {
+    "text": "bueno, si yo tengo que calcular acá el",
+    "duration": 5439,
+    "offset": 1900240,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo del peso, en realidad en cambio",
+    "duration": 3921,
+    "offset": 1903519,
+    "lang": "es"
+  },
+  {
+    "text": "de hacer el trabajo del peso, que tengo",
+    "duration": 3641,
+    "offset": 1905679,
+    "lang": "es"
+  },
+  {
+    "text": "que conocer cuánto vale este largo y",
+    "duration": 5119,
+    "offset": 1907440,
+    "lang": "es"
+  },
+  {
+    "text": "demás, yo sé que esta es la altura H. Yo",
+    "duration": 5280,
+    "offset": 1909320,
+    "lang": "es"
+  },
+  {
+    "text": "sé que el peso es una fuerza",
+    "duration": 5000,
+    "offset": 1912559,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa.",
+    "duration": 7520,
+    "offset": 1914600,
+    "lang": "es"
+  },
+  {
+    "text": "El peso es una fuerza conservativa.",
+    "duration": 4561,
+    "offset": 1917559,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces,",
+    "duration": 3921,
+    "offset": 1922159,
+    "lang": "es"
+  },
+  {
+    "text": "lo único que me interesa, que es la",
+    "duration": 4760,
+    "offset": 1924320,
+    "lang": "es"
+  },
+  {
+    "text": "posición inicial y la posición final. Y",
+    "duration": 7959,
+    "offset": 1926080,
+    "lang": "es"
+  },
+  {
+    "text": "yo sé, en definitiva, que el eh menos el",
+    "duration": 7839,
+    "offset": 1929080,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo del peso es igual a la variación",
+    "duration": 6161,
+    "offset": 1934039,
+    "lang": "es"
+  },
+  {
+    "text": "de energía potencial gravitatoria.",
+    "duration": 5041,
+    "offset": 1936919,
+    "lang": "es"
+  },
+  {
+    "text": "Y la variación de energía potencial",
+    "duration": 5880,
+    "offset": 1940200,
+    "lang": "es"
+  },
+  {
+    "text": "gravitatoria, que es igual, es",
+    "duration": 10439,
+    "offset": 1941960,
+    "lang": "es"
+  },
+  {
+    "text": "mg* valor final por h - mg * 0, o sea,",
+    "duration": 9719,
+    "offset": 1946080,
+    "lang": "es"
+  },
+  {
+    "text": "mg * h.",
+    "duration": 5921,
+    "offset": 1952399,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, si ustedes calculan el trabajo del",
+    "duration": 5720,
+    "offset": 1955799,
+    "lang": "es"
+  },
+  {
+    "text": "peso, les va a dar exactamente lo mismo.",
+    "duration": 5760,
+    "offset": 1958320,
+    "lang": "es"
+  },
+  {
+    "text": "Si hacen todo la trayectoria y demás,",
+    "duration": 5760,
+    "offset": 1961519,
+    "lang": "es"
+  },
+  {
+    "text": "van a encontrar que es el mismo valor",
+    "duration": 7680,
+    "offset": 1964080,
+    "lang": "es"
+  },
+  {
+    "text": "cambiado de signo, ¿no? Bien.",
+    "duration": 7760,
+    "offset": 1967279,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, acuérdense siempre esto, que",
+    "duration": 5039,
+    "offset": 1971760,
+    "lang": "es"
+  },
+  {
+    "text": "nosotros vamos a ver como fuerzas",
+    "duration": 3921,
+    "offset": 1975039,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas",
+    "duration": 9961,
+    "offset": 1976799,
+    "lang": "es"
+  },
+  {
+    "text": "el peso y la energía eh potencial el y",
+    "duration": 10800,
+    "offset": 1978960,
+    "lang": "es"
+  },
+  {
+    "text": "el peso y la fuerza elástica. Bien, o",
+    "duration": 4519,
+    "offset": 1986760,
+    "lang": "es"
+  },
+  {
+    "text": "sea, vamos a ver energía potencial",
+    "duration": 2680,
+    "offset": 1989760,
+    "lang": "es"
+  },
+  {
+    "text": "gravitatoria y energía potencial",
+    "duration": 3201,
+    "offset": 1991279,
+    "lang": "es"
+  },
+  {
+    "text": "elástica. No hay otras fuerzas",
+    "duration": 5119,
+    "offset": 1992440,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas que no sean",
+    "duration": 6919,
+    "offset": 1994480,
+    "lang": "es"
+  },
+  {
+    "text": "el este el peso y la fuerza elástica en",
+    "duration": 6080,
+    "offset": 1997559,
+    "lang": "es"
+  },
+  {
+    "text": "física uno. Todas las otras fuerzas que",
+    "duration": 6000,
+    "offset": 2001399,
+    "lang": "es"
+  },
+  {
+    "text": "no son ni el peso ni la fuerza elástica",
+    "duration": 7121,
+    "offset": 2003639,
+    "lang": "es"
+  },
+  {
+    "text": "son fuerzas no conservativas y entonces",
+    "duration": 7760,
+    "offset": 2007399,
+    "lang": "es"
+  },
+  {
+    "text": "su trabajo depende de la trayectoria.",
+    "duration": 6000,
+    "offset": 2010760,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 8961,
+    "offset": 2015159,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, vamos a ver otra cosa ahora.",
+    "duration": 7360,
+    "offset": 2016760,
+    "lang": "es"
+  },
+  {
+    "text": "Ahí el trabajo del peso quedaría",
+    "duration": 3441,
+    "offset": 2025159,
+    "lang": "es"
+  },
+  {
+    "text": "negativo, ¿no, profe? El último que",
+    "duration": 3400,
+    "offset": 2026639,
+    "lang": "es"
+  },
+  {
+    "text": "escribiste.",
+    "duration": 3199,
+    "offset": 2028600,
+    "lang": "es"
+  },
+  {
+    "text": "El tema es que acá lo que estoy acá lo",
+    "duration": 3401,
+    "offset": 2030039,
+    "lang": "es"
+  },
+  {
+    "text": "que digo es que menos el trabajo del",
+    "duration": 3240,
+    "offset": 2031799,
+    "lang": "es"
+  },
+  {
+    "text": "peso es la variación de energía",
+    "duration": 3160,
+    "offset": 2033440,
+    "lang": "es"
+  },
+  {
+    "text": "potencial. Y entonces acá lo que saqué",
+    "duration": 3961,
+    "offset": 2035039,
+    "lang": "es"
+  },
+  {
+    "text": "fue la variación de energía potencial",
+    "duration": 4319,
+    "offset": 2036600,
+    "lang": "es"
+  },
+  {
+    "text": "gravitatoria. Bien.",
+    "duration": 2480,
+    "offset": 2039000,
+    "lang": "es"
+  },
+  {
+    "text": "Sí.",
+    "duration": 3480,
+    "offset": 2040919,
+    "lang": "es"
+  },
+  {
+    "text": "Acá lo que estoy haciendo es sacando la",
+    "duration": 3760,
+    "offset": 2041480,
+    "lang": "es"
+  },
+  {
+    "text": "variación de energía potencial",
+    "duration": 2400,
+    "offset": 2044399,
+    "lang": "es"
+  },
+  {
+    "text": "gravitatoria. va a ser claro el trabajo",
+    "duration": 2919,
+    "offset": 2045240,
+    "lang": "es"
+  },
+  {
+    "text": "del peso quedaría negativo.",
+    "duration": 2080,
+    "offset": 2046799,
+    "lang": "es"
+  },
+  {
+    "text": "Claro, claro.",
+    "duration": 3361,
+    "offset": 2048159,
+    "lang": "es"
+  },
+  {
+    "text": "Es, a ver, para que",
+    "duration": 4800,
+    "offset": 2048879,
+    "lang": "es"
+  },
+  {
+    "text": "se den una idea, es lo mismo que pasaba",
+    "duration": 4879,
+    "offset": 2051520,
+    "lang": "es"
+  },
+  {
+    "text": "acá. Acá el trabajo del peso quedaba",
+    "duration": 4960,
+    "offset": 2053679,
+    "lang": "es"
+  },
+  {
+    "text": "negativo, pero la variación de energía",
+    "duration": 4041,
+    "offset": 2056399,
+    "lang": "es"
+  },
+  {
+    "text": "potencial gravitatoria era positiva.",
+    "duration": 4681,
+    "offset": 2058639,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 4560,
+    "offset": 2060440,
+    "lang": "es"
+  },
+  {
+    "text": "El trabajo del peso es menos la",
+    "duration": 3000,
+    "offset": 2063320,
+    "lang": "es"
+  },
+  {
+    "text": "variación de energía potencial",
+    "duration": 4320,
+    "offset": 2065000,
+    "lang": "es"
+  },
+  {
+    "text": "gravitatoria.",
+    "duration": 3000,
+    "offset": 2066320,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno,",
+    "duration": 3000,
+    "offset": 2071560,
+    "lang": "es"
+  },
+  {
+    "text": "eh la fuerza F ahora",
+    "duration": 7841,
+    "offset": 2075159,
+    "lang": "es"
+  },
+  {
+    "text": "ya vimos la parte de trabajo, fuerzas",
+    "duration": 6119,
+    "offset": 2078960,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas, no conservativas y",
+    "duration": 4040,
+    "offset": 2083000,
+    "lang": "es"
+  },
+  {
+    "text": "energía potencial gravitatoria y",
+    "duration": 3520,
+    "offset": 2085079,
+    "lang": "es"
+  },
+  {
+    "text": "elástica.",
+    "duration": 4400,
+    "offset": 2087040,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora vamos a ver algo más porque nos",
+    "duration": 5401,
+    "offset": 2088599,
+    "lang": "es"
+  },
+  {
+    "text": "falta todavía ver algo de energía un",
+    "duration": 5479,
+    "offset": 2091440,
+    "lang": "es"
+  },
+  {
+    "text": "poquito más. La fuerza F, ¿cómo la puedo",
+    "duration": 4960,
+    "offset": 2094000,
+    "lang": "es"
+  },
+  {
+    "text": "escribir? La sumatoria de todas las",
+    "duration": 3761,
+    "offset": 2096919,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas que actúan sobre un cuerpo,",
+    "duration": 4720,
+    "offset": 2098960,
+    "lang": "es"
+  },
+  {
+    "text": "¿cómo la puedo escribir?",
+    "duration": 6000,
+    "offset": 2100680,
+    "lang": "es"
+  },
+  {
+    "text": "Considerando",
+    "duration": 3000,
+    "offset": 2103680,
+    "lang": "es"
+  },
+  {
+    "text": "este la segunda ley de Newton.",
+    "duration": 5161,
+    "offset": 2107079,
+    "lang": "es"
+  },
+  {
+    "text": "Masa por aceleración.",
+    "duration": 5319,
+    "offset": 2110800,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, es masa por aceleración.",
+    "duration": 5599,
+    "offset": 2112240,
+    "lang": "es"
+  },
+  {
+    "text": "Hasta ahí bien la fuerza la puede",
+    "duration": 4480,
+    "offset": 2116119,
+    "lang": "es"
+  },
+  {
+    "text": "escribir como masa por aceleración.",
+    "duration": 5760,
+    "offset": 2117839,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 3000,
+    "offset": 2120599,
+    "lang": "es"
+  },
+  {
+    "text": "Y vamos a hacer una cosa. Yo puedo",
+    "duration": 6360,
+    "offset": 2123800,
+    "lang": "es"
+  },
+  {
+    "text": "decir, bueno, e",
+    "duration": 6920,
+    "offset": 2126400,
+    "lang": "es"
+  },
+  {
+    "text": "en cambio de este",
+    "duration": 4600,
+    "offset": 2130160,
+    "lang": "es"
+  },
+  {
+    "text": "ahora, bueno, yo sé que la fuerza es",
+    "duration": 3400,
+    "offset": 2133320,
+    "lang": "es"
+  },
+  {
+    "text": "masa para aceleración.",
+    "duration": 3640,
+    "offset": 2134760,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a calcular el trabajo de esa",
+    "duration": 4720,
+    "offset": 2136720,
+    "lang": "es"
+  },
+  {
+    "text": "fuerza F. El trabajo es",
+    "duration": 6439,
+    "offset": 2138400,
+    "lang": "es"
+  },
+  {
+    "text": "la integral a lo largo de una curva C de",
+    "duration": 6000,
+    "offset": 2141440,
+    "lang": "es"
+  },
+  {
+    "text": "F producto escalar un diferencial de",
+    "duration": 4841,
+    "offset": 2144839,
+    "lang": "es"
+  },
+  {
+    "text": "camino. Bien,",
+    "duration": 6200,
+    "offset": 2147440,
+    "lang": "es"
+  },
+  {
+    "text": "ahora yo lo que puedo decir es que es el",
+    "duration": 6439,
+    "offset": 2149680,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo a lo largo de una curva C de la",
+    "duration": 7240,
+    "offset": 2153640,
+    "lang": "es"
+  },
+  {
+    "text": "masa por la aceleración producto escalar",
+    "duration": 6881,
+    "offset": 2156119,
+    "lang": "es"
+  },
+  {
+    "text": "un diferencial de camino. Bien, en",
+    "duration": 5080,
+    "offset": 2160880,
+    "lang": "es"
+  },
+  {
+    "text": "definitiva es lo mismo que digo acá,",
+    "duration": 5560,
+    "offset": 2163000,
+    "lang": "es"
+  },
+  {
+    "text": "este, la sumatoria de todas las fuerzas",
+    "duration": 5840,
+    "offset": 2165960,
+    "lang": "es"
+  },
+  {
+    "text": "actúan sobre un cuerpo es masa por",
+    "duration": 5120,
+    "offset": 2168560,
+    "lang": "es"
+  },
+  {
+    "text": "aceleración. El trabajo de esa fuerza la",
+    "duration": 3799,
+    "offset": 2171800,
+    "lang": "es"
+  },
+  {
+    "text": "puede poner como masa por aceleración",
+    "duration": 4600,
+    "offset": 2173680,
+    "lang": "es"
+  },
+  {
+    "text": "por un diferencial de R. Ahora, acá,",
+    "duration": 5401,
+    "offset": 2175599,
+    "lang": "es"
+  },
+  {
+    "text": "¿qué puedo escribir? Puedo escribir que",
+    "duration": 6360,
+    "offset": 2178280,
+    "lang": "es"
+  },
+  {
+    "text": "esto es masa por",
+    "duration": 7040,
+    "offset": 2181000,
+    "lang": "es"
+  },
+  {
+    "text": "la derivada de la velocidad respecto del",
+    "duration": 6120,
+    "offset": 2184640,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo del vector velocidad producto",
+    "duration": 6880,
+    "offset": 2188040,
+    "lang": "es"
+  },
+  {
+    "text": "escalar un diferencial de camino.",
+    "duration": 6000,
+    "offset": 2190760,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, hasta ahí están de acuerdo, ¿no?",
+    "duration": 3439,
+    "offset": 2194920,
+    "lang": "es"
+  },
+  {
+    "text": "Eso se puede hacer, ¿no? Porque escribo",
+    "duration": 3240,
+    "offset": 2196760,
+    "lang": "es"
+  },
+  {
+    "text": "la aceleración como la derivada de la",
+    "duration": 4161,
+    "offset": 2198359,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad respecto del tiempo.",
+    "duration": 4280,
+    "offset": 2200000,
+    "lang": "es"
+  },
+  {
+    "text": "¿Estamos bien hasta ahí?",
+    "duration": 2640,
+    "offset": 2202520,
+    "lang": "es"
+  },
+  {
+    "text": "Sí, profe.",
+    "duration": 3360,
+    "offset": 2204280,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. Bueno, ahora, ¿qué es lo que pasa?",
+    "duration": 4760,
+    "offset": 2205160,
+    "lang": "es"
+  },
+  {
+    "text": "Como este diferencial de tiempo es un",
+    "duration": 4280,
+    "offset": 2207640,
+    "lang": "es"
+  },
+  {
+    "text": "escalar,",
+    "duration": 3880,
+    "offset": 2209920,
+    "lang": "es"
+  },
+  {
+    "text": "yo lo que puedo hacer es ponerlo de este",
+    "duration": 3960,
+    "offset": 2211920,
+    "lang": "es"
+  },
+  {
+    "text": "lado. O sea, esto acá lo puedo juntar",
+    "duration": 3480,
+    "offset": 2213800,
+    "lang": "es"
+  },
+  {
+    "text": "porque esto es un escalar y puede estar",
+    "duration": 4040,
+    "offset": 2215880,
+    "lang": "es"
+  },
+  {
+    "text": "de este lado del otro. Y puedo decir que",
+    "duration": 6600,
+    "offset": 2217280,
+    "lang": "es"
+  },
+  {
+    "text": "esto es la integral sobre la curva C",
+    "duration": 7159,
+    "offset": 2219920,
+    "lang": "es"
+  },
+  {
+    "text": "de e",
+    "duration": 7199,
+    "offset": 2223880,
+    "lang": "es"
+  },
+  {
+    "text": "masa por un diferencial de velocidad",
+    "duration": 6081,
+    "offset": 2227079,
+    "lang": "es"
+  },
+  {
+    "text": "producto escalar. ¿Qué es la derivada de",
+    "duration": 6681,
+    "offset": 2231079,
+    "lang": "es"
+  },
+  {
+    "text": "R? ¿Qué es esto? de R sobre DT.",
+    "duration": 4600,
+    "offset": 2233160,
+    "lang": "es"
+  },
+  {
+    "text": "Velocidad",
+    "duration": 4040,
+    "offset": 2237880,
+    "lang": "es"
+  },
+  {
+    "text": "es la velocidad. Bien, como acá me quedó",
+    "duration": 5520,
+    "offset": 2238839,
+    "lang": "es"
+  },
+  {
+    "text": "un diferencial de velocidad, entonces",
+    "duration": 4159,
+    "offset": 2241920,
+    "lang": "es"
+  },
+  {
+    "text": "ahora",
+    "duration": 5240,
+    "offset": 2244359,
+    "lang": "es"
+  },
+  {
+    "text": "este acá lo borro",
+    "duration": 7321,
+    "offset": 2246079,
+    "lang": "es"
+  },
+  {
+    "text": "y acá pongo velocidad inicial, velocidad",
+    "duration": 6161,
+    "offset": 2249599,
+    "lang": "es"
+  },
+  {
+    "text": "final.",
+    "duration": 6040,
+    "offset": 2253400,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora tengo que ver qué",
+    "duration": 7400,
+    "offset": 2255760,
+    "lang": "es"
+  },
+  {
+    "text": "este qué es diferencial",
+    "duration": 6200,
+    "offset": 2259440,
+    "lang": "es"
+  },
+  {
+    "text": "B* B. Bien. Entonces, ¿qué es lo que",
+    "duration": 4439,
+    "offset": 2263160,
+    "lang": "es"
+  },
+  {
+    "text": "pasa?",
+    "duration": 3640,
+    "offset": 2265640,
+    "lang": "es"
+  },
+  {
+    "text": "Eh,",
+    "duration": 4961,
+    "offset": 2267599,
+    "lang": "es"
+  },
+  {
+    "text": "yo lo que puedo decir es vamos a venir",
+    "duration": 7160,
+    "offset": 2269280,
+    "lang": "es"
+  },
+  {
+    "text": "con esto por acá abajo.",
+    "duration": 3880,
+    "offset": 2272560,
+    "lang": "es"
+  },
+  {
+    "text": "Eh,",
+    "duration": 3000,
+    "offset": 2278079,
+    "lang": "es"
+  },
+  {
+    "text": "perdón.",
+    "duration": 3920,
+    "offset": 2284040,
+    "lang": "es"
+  },
+  {
+    "text": "Aguárdenme.",
+    "duration": 3000,
+    "offset": 2284960,
+    "lang": "es"
+  },
+  {
+    "text": "Yo puedo decir que el producto escalar",
+    "duration": 5800,
+    "offset": 2290160,
+    "lang": "es"
+  },
+  {
+    "text": "entre B y B",
+    "duration": 5560,
+    "offset": 2292680,
+    "lang": "es"
+  },
+  {
+    "text": "es igual",
+    "duration": 7240,
+    "offset": 2295960,
+    "lang": "es"
+  },
+  {
+    "text": "al módulo cuadrado de B.",
+    "duration": 7359,
+    "offset": 2298240,
+    "lang": "es"
+  },
+  {
+    "text": "¿Están de acuerdo con eso? Todos",
+    "duration": 4159,
+    "offset": 2303200,
+    "lang": "es"
+  },
+  {
+    "text": "entienden que eso está bien. ¿O alguien",
+    "duration": 4801,
+    "offset": 2305599,
+    "lang": "es"
+  },
+  {
+    "text": "no le queda claro y le muestro por qué",
+    "duration": 6681,
+    "offset": 2307359,
+    "lang": "es"
+  },
+  {
+    "text": "si eso es verdad?",
+    "duration": 3640,
+    "offset": 2310400,
+    "lang": "es"
+  },
+  {
+    "text": "A mí no me queda claro, o sea, cómo",
+    "duration": 5280,
+    "offset": 2314280,
+    "lang": "es"
+  },
+  {
+    "text": "llegas a eso desde la fíjate que B,",
+    "duration": 6080,
+    "offset": 2316680,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a suponerlo, este es B1 B2, bien,",
+    "duration": 5640,
+    "offset": 2319560,
+    "lang": "es"
+  },
+  {
+    "text": "producto escalar",
+    "duration": 6640,
+    "offset": 2322760,
+    "lang": "es"
+  },
+  {
+    "text": "B1 B2, bien. Esto que va a ser igual, va",
+    "duration": 10480,
+    "offset": 2325200,
+    "lang": "es"
+  },
+  {
+    "text": "a ser igual a B1 * B1, que es B1² + B2 *",
+    "duration": 11040,
+    "offset": 2329400,
+    "lang": "es"
+  },
+  {
+    "text": "B2, que es B2². Bien,",
+    "duration": 7200,
+    "offset": 2335680,
+    "lang": "es"
+  },
+  {
+    "text": "este es el producto escalar. Bien.",
+    "duration": 6960,
+    "offset": 2340440,
+    "lang": "es"
+  },
+  {
+    "text": "1 2* 2. Ahora, fíjate que el módulo",
+    "duration": 9920,
+    "offset": 2342880,
+    "lang": "es"
+  },
+  {
+    "text": "de B es igual a la raíz cuadrada de B1²",
+    "duration": 9400,
+    "offset": 2347400,
+    "lang": "es"
+  },
+  {
+    "text": "+ B2². Bien, ¿esto qué implica? Bueno,",
+    "duration": 9680,
+    "offset": 2352800,
+    "lang": "es"
+  },
+  {
+    "text": "el módulo cuadrado de B es B1² + B2².",
+    "duration": 8840,
+    "offset": 2356800,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. O sea, que el producto escalar",
+    "duration": 5320,
+    "offset": 2362480,
+    "lang": "es"
+  },
+  {
+    "text": "entre de B por b, o sea, de un mismo",
+    "duration": 4160,
+    "offset": 2365640,
+    "lang": "es"
+  },
+  {
+    "text": "vector, es este módulo al cuadrado.",
+    "duration": 3960,
+    "offset": 2367800,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 6039,
+    "offset": 2369800,
+    "lang": "es"
+  },
+  {
+    "text": "O sea, esta igualdad vale,",
+    "duration": 4079,
+    "offset": 2371760,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a borrar. Si fuese más de un",
+    "duration": 4959,
+    "offset": 2376160,
+    "lang": "es"
+  },
+  {
+    "text": "componente,",
+    "duration": 5040,
+    "offset": 2379400,
+    "lang": "es"
+  },
+  {
+    "text": "me quedaría B1, B2, B3, pero sea BN. En",
+    "duration": 5480,
+    "offset": 2381119,
+    "lang": "es"
+  },
+  {
+    "text": "definitiva, es lo mismo, ¿no? Acá B1,",
+    "duration": 5080,
+    "offset": 2384440,
+    "lang": "es"
+  },
+  {
+    "text": "B2, porque era lo más rápido. Ahora,",
+    "duration": 5201,
+    "offset": 2386599,
+    "lang": "es"
+  },
+  {
+    "text": "¿qué es lo que pasa? Bueno, en cambio de",
+    "duration": 5599,
+    "offset": 2389520,
+    "lang": "es"
+  },
+  {
+    "text": "escribir así, este, voy a poner",
+    "duration": 6000,
+    "offset": 2391800,
+    "lang": "es"
+  },
+  {
+    "text": "directamente la rapidez al cuadrado, o",
+    "duration": 5521,
+    "offset": 2395119,
+    "lang": "es"
+  },
+  {
+    "text": "sea, sin vector, la rapidez al cuadrado.",
+    "duration": 8519,
+    "offset": 2397800,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, entonces vamos a aplicar e",
+    "duration": 5679,
+    "offset": 2400640,
+    "lang": "es"
+  },
+  {
+    "text": "derivada respecto de los dos lados, o",
+    "duration": 5840,
+    "offset": 2407200,
+    "lang": "es"
+  },
+  {
+    "text": "sea, vamos a derivar este lado y a",
+    "duration": 5041,
+    "offset": 2410359,
+    "lang": "es"
+  },
+  {
+    "text": "derivar este lado. digo, \"Bueno, voy a",
+    "duration": 5319,
+    "offset": 2413040,
+    "lang": "es"
+  },
+  {
+    "text": "hacer la derivada de B producto escalar",
+    "duration": 9320,
+    "offset": 2415400,
+    "lang": "es"
+  },
+  {
+    "text": "B y la derivada de B al cuadrado.\" Bien,",
+    "duration": 7641,
+    "offset": 2418359,
+    "lang": "es"
+  },
+  {
+    "text": "este, ¿qué me va a quedar? Me va a",
+    "duration": 2840,
+    "offset": 2424720,
+    "lang": "es"
+  },
+  {
+    "text": "quedar",
+    "duration": 5960,
+    "offset": 2426000,
+    "lang": "es"
+  },
+  {
+    "text": "un diferencial B producto escalar B más",
+    "duration": 6759,
+    "offset": 2427560,
+    "lang": "es"
+  },
+  {
+    "text": "B producto escalar un diferencial B. O",
+    "duration": 4000,
+    "offset": 2431960,
+    "lang": "es"
+  },
+  {
+    "text": "sea, la derivada del primero por el",
+    "duration": 4040,
+    "offset": 2434319,
+    "lang": "es"
+  },
+  {
+    "text": "segundo como está más el primero como",
+    "duration": 3960,
+    "offset": 2435960,
+    "lang": "es"
+  },
+  {
+    "text": "está por la derivada del segundo. Bien,",
+    "duration": 3281,
+    "offset": 2438359,
+    "lang": "es"
+  },
+  {
+    "text": "derivada de un producto. Y acá, ¿qué me",
+    "duration": 5280,
+    "offset": 2439920,
+    "lang": "es"
+  },
+  {
+    "text": "va a quedar? me va a quedar 2 * b * un",
+    "duration": 7280,
+    "offset": 2441640,
+    "lang": "es"
+  },
+  {
+    "text": "diferencial b.",
+    "duration": 3720,
+    "offset": 2445200,
+    "lang": "es"
+  },
+  {
+    "text": "Bien,",
+    "duration": 3000,
+    "offset": 2449079,
+    "lang": "es"
+  },
+  {
+    "text": "entonces acá me queda 2 por la derivada",
+    "duration": 7000,
+    "offset": 2454240,
+    "lang": "es"
+  },
+  {
+    "text": "de B producto escalar B es igual a 2 * B",
+    "duration": 6039,
+    "offset": 2457560,
+    "lang": "es"
+  },
+  {
+    "text": "por un diferencial B. Fíjense que se va",
+    "duration": 5359,
+    "offset": 2461240,
+    "lang": "es"
+  },
+  {
+    "text": "este con este. Y acá, ¿qué me queda? Me",
+    "duration": 5480,
+    "offset": 2463599,
+    "lang": "es"
+  },
+  {
+    "text": "queda que este producto",
+    "duration": 4480,
+    "offset": 2466599,
+    "lang": "es"
+  },
+  {
+    "text": "vectorial es igual a un producto",
+    "duration": 3721,
+    "offset": 2469079,
+    "lang": "es"
+  },
+  {
+    "text": "escalar.",
+    "duration": 3760,
+    "offset": 2471079,
+    "lang": "es"
+  },
+  {
+    "text": "O sea,",
+    "duration": 4480,
+    "offset": 2472800,
+    "lang": "es"
+  },
+  {
+    "text": "todo esto que implica",
+    "duration": 5480,
+    "offset": 2474839,
+    "lang": "es"
+  },
+  {
+    "text": "implica que acá tengo la derivada de B0",
+    "duration": 5039,
+    "offset": 2477280,
+    "lang": "es"
+  },
+  {
+    "text": "a BF",
+    "duration": 5321,
+    "offset": 2480319,
+    "lang": "es"
+  },
+  {
+    "text": "de la masa, como es una constante, la",
+    "duration": 6321,
+    "offset": 2482319,
+    "lang": "es"
+  },
+  {
+    "text": "puedo sacar fuera del integral.",
+    "duration": 6199,
+    "offset": 2485640,
+    "lang": "es"
+  },
+  {
+    "text": "Me queda B por un diferencial B.",
+    "duration": 5800,
+    "offset": 2488640,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 4561,
+    "offset": 2491839,
+    "lang": "es"
+  },
+  {
+    "text": "Y esto, ¿a qué va a ser igual? La",
+    "duration": 4000,
+    "offset": 2494440,
+    "lang": "es"
+  },
+  {
+    "text": "integral de x diferencial x, ¿a qué es",
+    "duration": 5040,
+    "offset": 2496400,
+    "lang": "es"
+  },
+  {
+    "text": "igual?",
+    "duration": 3000,
+    "offset": 2498440,
+    "lang": "es"
+  },
+  {
+    "text": "Esto es la masa, ¿se acuerdan? La regla",
+    "duration": 7119,
+    "offset": 2503240,
+    "lang": "es"
+  },
+  {
+    "text": "de barrow. La primitiva es 1/2 de b²ad.",
+    "duration": 7280,
+    "offset": 2506079,
+    "lang": "es"
+  },
+  {
+    "text": "Bien,",
+    "duration": 3000,
+    "offset": 2510359,
+    "lang": "es"
+  },
+  {
+    "text": "entre velocidad inicial y velocidad",
+    "duration": 7160,
+    "offset": 2513480,
+    "lang": "es"
+  },
+  {
+    "text": "final. Y entonces acá me queda 1/2",
+    "duration": 9160,
+    "offset": 2516280,
+    "lang": "es"
+  },
+  {
+    "text": "masa por la uy,",
+    "duration": 8160,
+    "offset": 2520640,
+    "lang": "es"
+  },
+  {
+    "text": "se me desconectó",
+    "duration": 3360,
+    "offset": 2525440,
+    "lang": "es"
+  },
+  {
+    "text": "1/2 de la masa por la velocidad final al",
+    "duration": 6680,
+    "offset": 2529560,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado menos regla de barro 1/2 de la",
+    "duration": 6119,
+    "offset": 2532000,
+    "lang": "es"
+  },
+  {
+    "text": "masa por la velocidad inicial al",
+    "duration": 5960,
+    "offset": 2536240,
+    "lang": "es"
+  },
+  {
+    "text": "cuadrado. Bien,",
+    "duration": 9000,
+    "offset": 2538119,
+    "lang": "es"
+  },
+  {
+    "text": "esto que ven acá, que es 1/2 la masa por",
+    "duration": 8119,
+    "offset": 2542200,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad al cuadrado,",
+    "duration": 6960,
+    "offset": 2547119,
+    "lang": "es"
+  },
+  {
+    "text": "¿de dónde partió? De eh el cálculo del",
+    "duration": 6760,
+    "offset": 2550319,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo. Ahora, ¿de qué trabajo? Y el",
+    "duration": 4921,
+    "offset": 2554079,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo de todas las fuerzas que actúan",
+    "duration": 5081,
+    "offset": 2557079,
+    "lang": "es"
+  },
+  {
+    "text": "sobre el cuerpo. Bien. O sea, ¿qué",
+    "duration": 6200,
+    "offset": 2559000,
+    "lang": "es"
+  },
+  {
+    "text": "unidades va a tener esto? y va a tener",
+    "duration": 4439,
+    "offset": 2562160,
+    "lang": "es"
+  },
+  {
+    "text": "unidades de trabajo, o sea, se va a",
+    "duration": 3840,
+    "offset": 2565200,
+    "lang": "es"
+  },
+  {
+    "text": "medir en joues. Esto tiene un nombre",
+    "duration": 7081,
+    "offset": 2566599,
+    "lang": "es"
+  },
+  {
+    "text": "particular, se llama energía cinética.",
+    "duration": 7000,
+    "offset": 2569040,
+    "lang": "es"
+  },
+  {
+    "text": "Habíamos visto la energía potencial, que",
+    "duration": 5040,
+    "offset": 2573680,
+    "lang": "es"
+  },
+  {
+    "text": "era una energía que estaba asociada a la",
+    "duration": 4720,
+    "offset": 2576040,
+    "lang": "es"
+  },
+  {
+    "text": "posición respecto de un cero de",
+    "duration": 5599,
+    "offset": 2578720,
+    "lang": "es"
+  },
+  {
+    "text": "potencial. Y acá vemos una energía que",
+    "duration": 6359,
+    "offset": 2580760,
+    "lang": "es"
+  },
+  {
+    "text": "está asociada a la velocidad y que se",
+    "duration": 5240,
+    "offset": 2584319,
+    "lang": "es"
+  },
+  {
+    "text": "llama energía cinética. Pero, ¿de dónde",
+    "duration": 4641,
+    "offset": 2587119,
+    "lang": "es"
+  },
+  {
+    "text": "partimos?",
+    "duration": 6000,
+    "offset": 2589559,
+    "lang": "es"
+  },
+  {
+    "text": "Partimos de este punto de acá. Bien. ¿Y",
+    "duration": 6319,
+    "offset": 2591760,
+    "lang": "es"
+  },
+  {
+    "text": "qué era esto de acá? Era la sumatoria de",
+    "duration": 5401,
+    "offset": 2595559,
+    "lang": "es"
+  },
+  {
+    "text": "todas las fuerzas conservativas",
+    "duration": 5240,
+    "offset": 2598079,
+    "lang": "es"
+  },
+  {
+    "text": "y no conservativas.",
+    "duration": 5840,
+    "offset": 2600960,
+    "lang": "es"
+  },
+  {
+    "text": "O sea, que la sumatoria de todas las",
+    "duration": 6961,
+    "offset": 2603319,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas conservativas o no conservativas",
+    "duration": 6799,
+    "offset": 2606800,
+    "lang": "es"
+  },
+  {
+    "text": "que actúan sobre un cuerpo es igual a la",
+    "duration": 6880,
+    "offset": 2610280,
+    "lang": "es"
+  },
+  {
+    "text": "variación de energía cinética. Eso es el",
+    "duration": 7841,
+    "offset": 2613599,
+    "lang": "es"
+  },
+  {
+    "text": "teorema de las fuerzas vivas.",
+    "duration": 4280,
+    "offset": 2617160,
+    "lang": "es"
+  },
+  {
+    "text": "teorema de las fuerzas vivas. Acuérdense",
+    "duration": 7000,
+    "offset": 2621559,
+    "lang": "es"
+  },
+  {
+    "text": "porque esto los va a salvar en muchas",
+    "duration": 6361,
+    "offset": 2626119,
+    "lang": "es"
+  },
+  {
+    "text": "ocasiones. Bien.",
+    "duration": 3921,
+    "offset": 2628559,
+    "lang": "es"
+  },
+  {
+    "text": "Y entonces ahora, ¿qué puedo decir?",
+    "duration": 6920,
+    "offset": 2634040,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, ahora que ya conozco, yo sé que la",
+    "duration": 7441,
+    "offset": 2637079,
+    "lang": "es"
+  },
+  {
+    "text": "energía mecánica,",
+    "duration": 3560,
+    "offset": 2640960,
+    "lang": "es"
+  },
+  {
+    "text": "la energía mecánica de un cuerpo es",
+    "duration": 8000,
+    "offset": 2646559,
+    "lang": "es"
+  },
+  {
+    "text": "igual a la energía potencial más la",
+    "duration": 8601,
+    "offset": 2649319,
+    "lang": "es"
+  },
+  {
+    "text": "energía cinética. Bien, cuando hablo yo",
+    "duration": 5681,
+    "offset": 2654559,
+    "lang": "es"
+  },
+  {
+    "text": "de energía mecánica,",
+    "duration": 5800,
+    "offset": 2657920,
+    "lang": "es"
+  },
+  {
+    "text": "estoy hablando de energía potencial y",
+    "duration": 6040,
+    "offset": 2660240,
+    "lang": "es"
+  },
+  {
+    "text": "energía cinética. La energía potencial",
+    "duration": 5680,
+    "offset": 2663720,
+    "lang": "es"
+  },
+  {
+    "text": "es la que está asociada a la posición y",
+    "duration": 5319,
+    "offset": 2666280,
+    "lang": "es"
+  },
+  {
+    "text": "la energía cinética está asociada a la",
+    "duration": 5000,
+    "offset": 2669400,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad. Bien, la energía potencial",
+    "duration": 4401,
+    "offset": 2671599,
+    "lang": "es"
+  },
+  {
+    "text": "aparece cuando yo tengo fuerzas",
+    "duration": 3240,
+    "offset": 2674400,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas",
+    "duration": 4200,
+    "offset": 2676000,
+    "lang": "es"
+  },
+  {
+    "text": "y la energía cinética aparece siempre",
+    "duration": 4120,
+    "offset": 2677640,
+    "lang": "es"
+  },
+  {
+    "text": "porque es la sumatoria de todas las",
+    "duration": 3480,
+    "offset": 2680200,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas, tanto conservativas como no",
+    "duration": 3720,
+    "offset": 2681760,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas.",
+    "duration": 6879,
+    "offset": 2683680,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, ahora, ¿por qué",
+    "duration": 9040,
+    "offset": 2685480,
+    "lang": "es"
+  },
+  {
+    "text": "las fuerzas conservativas se llaman",
+    "duration": 5800,
+    "offset": 2690559,
+    "lang": "es"
+  },
+  {
+    "text": "fuerzas conservativas? ¿Qué",
+    "duration": 5280,
+    "offset": 2694520,
+    "lang": "es"
+  },
+  {
+    "text": "particularidad tienen",
+    "duration": 6441,
+    "offset": 2696359,
+    "lang": "es"
+  },
+  {
+    "text": "que",
+    "duration": 3000,
+    "offset": 2699800,
+    "lang": "es"
+  },
+  {
+    "text": "cuando sobre un cuerpo actúa una fuerza",
+    "duration": 4560,
+    "offset": 2703920,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa,",
+    "duration": 4440,
+    "offset": 2706520,
+    "lang": "es"
+  },
+  {
+    "text": "la variación de la energía mecánica es",
+    "duration": 5160,
+    "offset": 2708480,
+    "lang": "es"
+  },
+  {
+    "text": "cero?",
+    "duration": 6080,
+    "offset": 2710960,
+    "lang": "es"
+  },
+  {
+    "text": "Y para que haya variación de energía",
+    "duration": 5840,
+    "offset": 2713640,
+    "lang": "es"
+  },
+  {
+    "text": "mecánica, yo necesito que haya trabajo",
+    "duration": 5480,
+    "offset": 2717040,
+    "lang": "es"
+  },
+  {
+    "text": "de fuerzas no conservativas. Es decir,",
+    "duration": 5240,
+    "offset": 2719480,
+    "lang": "es"
+  },
+  {
+    "text": "la variación",
+    "duration": 5480,
+    "offset": 2722520,
+    "lang": "es"
+  },
+  {
+    "text": "de la energía mecánica es igual al",
+    "duration": 7359,
+    "offset": 2724720,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo de las fuerzas no conservativas.",
+    "duration": 5839,
+    "offset": 2728000,
+    "lang": "es"
+  },
+  {
+    "text": "Bien,",
+    "duration": 5040,
+    "offset": 2732079,
+    "lang": "es"
+  },
+  {
+    "text": "si no actúan sobre un cuerpo fuerzas no",
+    "duration": 5280,
+    "offset": 2733839,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas,",
+    "duration": 3881,
+    "offset": 2737119,
+    "lang": "es"
+  },
+  {
+    "text": "entonces no hay variación de energía",
+    "duration": 4041,
+    "offset": 2739119,
+    "lang": "es"
+  },
+  {
+    "text": "mecánica. Por ejemplo, si yo tengo una",
+    "duration": 4280,
+    "offset": 2741000,
+    "lang": "es"
+  },
+  {
+    "text": "cosa así",
+    "duration": 3880,
+    "offset": 2743160,
+    "lang": "es"
+  },
+  {
+    "text": "y tengo un bloque que sale de esta",
+    "duration": 4079,
+    "offset": 2745280,
+    "lang": "es"
+  },
+  {
+    "text": "altura y llega a esta altura y acá no",
+    "duration": 4279,
+    "offset": 2747040,
+    "lang": "es"
+  },
+  {
+    "text": "hay rozamiento",
+    "duration": 4281,
+    "offset": 2749359,
+    "lang": "es"
+  },
+  {
+    "text": "y esto es un círculo, un semicírculo",
+    "duration": 5721,
+    "offset": 2751319,
+    "lang": "es"
+  },
+  {
+    "text": "perfecto, como no hay rozamiento, la",
+    "duration": 6640,
+    "offset": 2753640,
+    "lang": "es"
+  },
+  {
+    "text": "única fuerza que actúa es el peso. El",
+    "duration": 6480,
+    "offset": 2757040,
+    "lang": "es"
+  },
+  {
+    "text": "peso es una fuerza conservativa.",
+    "duration": 4960,
+    "offset": 2760280,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces,",
+    "duration": 3559,
+    "offset": 2763520,
+    "lang": "es"
+  },
+  {
+    "text": "¿qué va a pasar? toda la energía",
+    "duration": 4440,
+    "offset": 2765240,
+    "lang": "es"
+  },
+  {
+    "text": "potencial gravitatoria que tenía acá.",
+    "duration": 5881,
+    "offset": 2767079,
+    "lang": "es"
+  },
+  {
+    "text": "Acá, si yo considero este como mi cero",
+    "duration": 5720,
+    "offset": 2769680,
+    "lang": "es"
+  },
+  {
+    "text": "de potencial, acá se va a transformar en",
+    "duration": 4800,
+    "offset": 2772960,
+    "lang": "es"
+  },
+  {
+    "text": "energía cinética y acá va a volver a ser",
+    "duration": 5439,
+    "offset": 2775400,
+    "lang": "es"
+  },
+  {
+    "text": "energía potencial gravitatoria.",
+    "duration": 6480,
+    "offset": 2777760,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, pero si no actúan fuerzas no",
+    "duration": 6760,
+    "offset": 2780839,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas, entonces no hay variación",
+    "duration": 5800,
+    "offset": 2784240,
+    "lang": "es"
+  },
+  {
+    "text": "de energía mecánica.",
+    "duration": 4720,
+    "offset": 2787599,
+    "lang": "es"
+  },
+  {
+    "text": "Si hay variación de energía mecánica,",
+    "duration": 4640,
+    "offset": 2790040,
+    "lang": "es"
+  },
+  {
+    "text": "esa variación de energía mecánica es",
+    "duration": 4441,
+    "offset": 2792319,
+    "lang": "es"
+  },
+  {
+    "text": "igual al trabajo de las fuerzas no",
+    "duration": 5439,
+    "offset": 2794680,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas. Es decir, si acá además",
+    "duration": 7400,
+    "offset": 2796760,
+    "lang": "es"
+  },
+  {
+    "text": "del peso actúa una fuerza de rozamiento,",
+    "duration": 6200,
+    "offset": 2800119,
+    "lang": "es"
+  },
+  {
+    "text": "el trabajo que realice esa fuerza de",
+    "duration": 4240,
+    "offset": 2804160,
+    "lang": "es"
+  },
+  {
+    "text": "rozamiento va a ser trabajo de fuerzas",
+    "duration": 4321,
+    "offset": 2806319,
+    "lang": "es"
+  },
+  {
+    "text": "no conservativas y va a provocar",
+    "duration": 3959,
+    "offset": 2808400,
+    "lang": "es"
+  },
+  {
+    "text": "variación de energía mecánica. Esto,",
+    "duration": 3400,
+    "offset": 2810640,
+    "lang": "es"
+  },
+  {
+    "text": "¿qué significa? que el cuerpo va a",
+    "duration": 5321,
+    "offset": 2812359,
+    "lang": "es"
+  },
+  {
+    "text": "llegar hasta esta altura y así va a ir",
+    "duration": 4880,
+    "offset": 2814040,
+    "lang": "es"
+  },
+  {
+    "text": "descendiendo a la altura hasta que",
+    "duration": 2560,
+    "offset": 2817680,
+    "lang": "es"
+  },
+  {
+    "text": "llegue un momento que se quede acá",
+    "duration": 3120,
+    "offset": 2818920,
+    "lang": "es"
+  },
+  {
+    "text": "porque ya se quedó sin energía. ¿Por",
+    "duration": 4359,
+    "offset": 2820240,
+    "lang": "es"
+  },
+  {
+    "text": "qué? Porque el rozamiento la disipó",
+    "duration": 4480,
+    "offset": 2822040,
+    "lang": "es"
+  },
+  {
+    "text": "toda.",
+    "duration": 4760,
+    "offset": 2824599,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. Entonces, la energía mecánica es",
+    "duration": 4720,
+    "offset": 2826520,
+    "lang": "es"
+  },
+  {
+    "text": "la suma de energía potenciales más",
+    "duration": 3841,
+    "offset": 2829359,
+    "lang": "es"
+  },
+  {
+    "text": "energía cinética.",
+    "duration": 4079,
+    "offset": 2831240,
+    "lang": "es"
+  },
+  {
+    "text": "Si sobre un cuerpo actúan solo fuerzas",
+    "duration": 4399,
+    "offset": 2833200,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas, no hay variación de",
+    "duration": 5800,
+    "offset": 2835319,
+    "lang": "es"
+  },
+  {
+    "text": "energía mecánica. Y si hay variación de",
+    "duration": 6441,
+    "offset": 2837599,
+    "lang": "es"
+  },
+  {
+    "text": "energía mecánica, esa variación es igual",
+    "duration": 4641,
+    "offset": 2841119,
+    "lang": "es"
+  },
+  {
+    "text": "al trabajo de las fuerzas no",
+    "duration": 3799,
+    "offset": 2844040,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas.",
+    "duration": 4240,
+    "offset": 2845760,
+    "lang": "es"
+  },
+  {
+    "text": "Bien,",
+    "duration": 3921,
+    "offset": 2847839,
+    "lang": "es"
+  },
+  {
+    "text": "por ejemplo,",
+    "duration": 5280,
+    "offset": 2850000,
+    "lang": "es"
+  },
+  {
+    "text": "a ver, viendo todo eso, ¿no? Si volvemos",
+    "duration": 10040,
+    "offset": 2851760,
+    "lang": "es"
+  },
+  {
+    "text": "al ejemplo de el hombrecito este acá",
+    "duration": 6520,
+    "offset": 2855280,
+    "lang": "es"
+  },
+  {
+    "text": "y el bloque acá en el piso. Bien.",
+    "duration": 8680,
+    "offset": 2862480,
+    "lang": "es"
+  },
+  {
+    "text": "Y esta altura es altura H.",
+    "duration": 8640,
+    "offset": 2866160,
+    "lang": "es"
+  },
+  {
+    "text": "Si. Uy, esperen que hice lío. [risas]",
+    "duration": 7480,
+    "offset": 2871160,
+    "lang": "es"
+  },
+  {
+    "text": "Se me cayó la lapicera. Acá. Acá está.",
+    "duration": 5240,
+    "offset": 2874800,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 4120,
+    "offset": 2878640,
+    "lang": "es"
+  },
+  {
+    "text": "Si solo actúa el peso,",
+    "duration": 6680,
+    "offset": 2880040,
+    "lang": "es"
+  },
+  {
+    "text": "que es una fuerza conservativa,",
+    "duration": 3960,
+    "offset": 2882760,
+    "lang": "es"
+  },
+  {
+    "text": "el bloque puede levantarse",
+    "duration": 4600,
+    "offset": 2886800,
+    "lang": "es"
+  },
+  {
+    "text": "solo actuando el peso, ¿no? El peso",
+    "duration": 3800,
+    "offset": 2892920,
+    "lang": "es"
+  },
+  {
+    "text": "no no puede.",
+    "duration": 4361,
+    "offset": 2895359,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, ¿qué tiene que pasar",
+    "duration": 5520,
+    "offset": 2896720,
+    "lang": "es"
+  },
+  {
+    "text": "para que el peso se levante?",
+    "duration": 4720,
+    "offset": 2899720,
+    "lang": "es"
+  },
+  {
+    "text": "Tiene que haber una fuerza no",
+    "duration": 3680,
+    "offset": 2902240,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa como la tensión.",
+    "duration": 4119,
+    "offset": 2904440,
+    "lang": "es"
+  },
+  {
+    "text": "Bien. Si no actúa una fuerza no cons y",
+    "duration": 4280,
+    "offset": 2905920,
+    "lang": "es"
+  },
+  {
+    "text": "¿por qué? ¿Cuánto vale la energía",
+    "duration": 6921,
+    "offset": 2908559,
+    "lang": "es"
+  },
+  {
+    "text": "mecánica del del bloque este ahí abajo?",
+    "duration": 5960,
+    "offset": 2910200,
+    "lang": "es"
+  },
+  {
+    "text": "Cero.",
+    "duration": 1280,
+    "offset": 2915480,
+    "lang": "es"
+  },
+  {
+    "text": "Cero.",
+    "duration": 5560,
+    "offset": 2916160,
+    "lang": "es"
+  },
+  {
+    "text": "Cero. Bien. O sea, que si yo no hago",
+    "duration": 7520,
+    "offset": 2916760,
+    "lang": "es"
+  },
+  {
+    "text": "actuar una fuerza que sea no",
+    "duration": 6160,
+    "offset": 2921720,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa, no va a haber variación de",
+    "duration": 5120,
+    "offset": 2924280,
+    "lang": "es"
+  },
+  {
+    "text": "energía mecánica. Y si la energía",
+    "duration": 2840,
+    "offset": 2927880,
+    "lang": "es"
+  },
+  {
+    "text": "mecánica es cero, va a seguir siendo",
+    "duration": 3880,
+    "offset": 2929400,
+    "lang": "es"
+  },
+  {
+    "text": "cero. Bien. Si no hay variación de",
+    "duration": 5480,
+    "offset": 2930720,
+    "lang": "es"
+  },
+  {
+    "text": "energía mecánica, no hay movimiento, no",
+    "duration": 5720,
+    "offset": 2933280,
+    "lang": "es"
+  },
+  {
+    "text": "hay nada, se queda ahí. Bien.",
+    "duration": 4320,
+    "offset": 2936200,
+    "lang": "es"
+  },
+  {
+    "text": "Para que haya variación de energía",
+    "duration": 3040,
+    "offset": 2939000,
+    "lang": "es"
+  },
+  {
+    "text": "mecánica, ¿qué tiene que actuar",
+    "duration": 3559,
+    "offset": 2940520,
+    "lang": "es"
+  },
+  {
+    "text": "necesariamente?",
+    "duration": 3200,
+    "offset": 2942040,
+    "lang": "es"
+  },
+  {
+    "text": "Fuerzas no conservativas.",
+    "duration": 2720,
+    "offset": 2944079,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, para que haya variación de energía",
+    "duration": 3559,
+    "offset": 2945240,
+    "lang": "es"
+  },
+  {
+    "text": "mecánica, obligatoriamente tiene que",
+    "duration": 5560,
+    "offset": 2946799,
+    "lang": "es"
+  },
+  {
+    "text": "actuar una fuerza no conservativa. Bien,",
+    "duration": 7121,
+    "offset": 2948799,
+    "lang": "es"
+  },
+  {
+    "text": "esa fuerza no conservativa",
+    "duration": 5601,
+    "offset": 2952359,
+    "lang": "es"
+  },
+  {
+    "text": "es la tensión.",
+    "duration": 5120,
+    "offset": 2955920,
+    "lang": "es"
+  },
+  {
+    "text": "Esa tensión hace un trabajo",
+    "duration": 6080,
+    "offset": 2957960,
+    "lang": "es"
+  },
+  {
+    "text": "que lo que provoca es una variación de",
+    "duration": 5640,
+    "offset": 2961040,
+    "lang": "es"
+  },
+  {
+    "text": "energía mecánica. Bien, pero si no",
+    "duration": 4680,
+    "offset": 2964040,
+    "lang": "es"
+  },
+  {
+    "text": "actúan fuerzas no conservativas y el",
+    "duration": 3960,
+    "offset": 2966680,
+    "lang": "es"
+  },
+  {
+    "text": "cuerpo no tiene energía mecánica, no va",
+    "duration": 3399,
+    "offset": 2968720,
+    "lang": "es"
+  },
+  {
+    "text": "a tener porque la variación de energía",
+    "duration": 6040,
+    "offset": 2970640,
+    "lang": "es"
+  },
+  {
+    "text": "mecánica va a ser siempre cero. Bien.",
+    "duration": 7321,
+    "offset": 2972119,
+    "lang": "es"
+  },
+  {
+    "text": "Y acuérdense, teorema de las fuerzas",
+    "duration": 5520,
+    "offset": 2976680,
+    "lang": "es"
+  },
+  {
+    "text": "vivas. Si yo les digo [carraspeo]",
+    "duration": 5000,
+    "offset": 2979440,
+    "lang": "es"
+  },
+  {
+    "text": "que quiero sacar",
+    "duration": 4919,
+    "offset": 2982200,
+    "lang": "es"
+  },
+  {
+    "text": "el trabajo de la fuerza peso y el",
+    "duration": 4720,
+    "offset": 2984440,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo de la tensión, ¿ustedes qué",
+    "duration": 3480,
+    "offset": 2987119,
+    "lang": "es"
+  },
+  {
+    "text": "harían?",
+    "duration": 3520,
+    "offset": 2989160,
+    "lang": "es"
+  },
+  {
+    "text": "Digo, yo quiero que me calculen el",
+    "duration": 3681,
+    "offset": 2990599,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo de la fuerza peso y el trabajo",
+    "duration": 4919,
+    "offset": 2992680,
+    "lang": "es"
+  },
+  {
+    "text": "de la tensión.",
+    "duration": 3319,
+    "offset": 2994280,
+    "lang": "es"
+  },
+  {
+    "text": "La tensión es conservativa o no",
+    "duration": 4520,
+    "offset": 2997960,
+    "lang": "es"
+  },
+  {
+    "text": "conservativa?",
+    "duration": 3000,
+    "offset": 2999480,
+    "lang": "es"
+  },
+  {
+    "text": "No conservativa.",
+    "duration": 2801,
+    "offset": 3002599,
+    "lang": "es"
+  },
+  {
+    "text": "¿Y el peso?",
+    "duration": 2119,
+    "offset": 3003720,
+    "lang": "es"
+  },
+  {
+    "text": "Conservativo.",
+    "duration": 1120,
+    "offset": 3005400,
+    "lang": "es"
+  },
+  {
+    "text": "Conservativo.",
+    "duration": 4561,
+    "offset": 3005839,
+    "lang": "es"
+  },
+  {
+    "text": "Conservativo. ¿Y qué qué cosa me da",
+    "duration": 5720,
+    "offset": 3006520,
+    "lang": "es"
+  },
+  {
+    "text": "el trabajo de todas las fuerzas",
+    "duration": 5719,
+    "offset": 3010400,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas y no conservativas?",
+    "duration": 5280,
+    "offset": 3012240,
+    "lang": "es"
+  },
+  {
+    "text": "La energía mecánica,",
+    "duration": 3361,
+    "offset": 3016119,
+    "lang": "es"
+  },
+  {
+    "text": "la variación de energía cinética.",
+    "duration": 3480,
+    "offset": 3017520,
+    "lang": "es"
+  },
+  {
+    "text": "Acuérdense,",
+    "duration": 3599,
+    "offset": 3019480,
+    "lang": "es"
+  },
+  {
+    "text": "acuérdense siempre de eso. Teorema de",
+    "duration": 5599,
+    "offset": 3021000,
+    "lang": "es"
+  },
+  {
+    "text": "las fuerzas vivas.",
+    "duration": 3520,
+    "offset": 3023079,
+    "lang": "es"
+  },
+  {
+    "text": "Yo soy desprolijo en el pizarrón, pero",
+    "duration": 4320,
+    "offset": 3027400,
+    "lang": "es"
+  },
+  {
+    "text": "acá creo que es peor.",
+    "duration": 5599,
+    "offset": 3029240,
+    "lang": "es"
+  },
+  {
+    "text": "Teorema de las fuerzas vivas. Bien. El",
+    "duration": 5079,
+    "offset": 3031720,
+    "lang": "es"
+  },
+  {
+    "text": "trabajo de todas las fuerzas",
+    "duration": 4641,
+    "offset": 3034839,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas y no conservativas es",
+    "duration": 5961,
+    "offset": 3036799,
+    "lang": "es"
+  },
+  {
+    "text": "igual a la variación",
+    "duration": 6000,
+    "offset": 3039480,
+    "lang": "es"
+  },
+  {
+    "text": "de energía cinética. Bien. Teorema de",
+    "duration": 5000,
+    "offset": 3042760,
+    "lang": "es"
+  },
+  {
+    "text": "las fuerzas vivas. Entonces, si en algún",
+    "duration": 4520,
+    "offset": 3045480,
+    "lang": "es"
+  },
+  {
+    "text": "momento tienen que ver la necesidad de",
+    "duration": 4319,
+    "offset": 3047760,
+    "lang": "es"
+  },
+  {
+    "text": "calcular el trabajo de todas las fuerzas",
+    "duration": 5280,
+    "offset": 3050000,
+    "lang": "es"
+  },
+  {
+    "text": "conservativas y no conservativas, esa es",
+    "duration": 8121,
+    "offset": 3052079,
+    "lang": "es"
+  },
+  {
+    "text": "la variación de energía cinética, ¿bien?",
+    "duration": 7839,
+    "offset": 3055280,
+    "lang": "es"
+  },
+  {
+    "text": "Que es la energía vinculada a la",
+    "duration": 5840,
+    "offset": 3060200,
+    "lang": "es"
+  },
+  {
+    "text": "velocidad.",
+    "duration": 5921,
+    "offset": 3063119,
+    "lang": "es"
+  },
+  {
+    "text": "Bien.",
+    "duration": 3000,
+    "offset": 3066040,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno,",
+    "duration": 3000,
+    "offset": 3070760,
+    "lang": "es"
+  },
+  {
+    "text": "aguárdenme",
+    "duration": 5679,
+    "offset": 3075640,
+    "lang": "es"
+  },
+  {
+    "text": "Okay.",
+    "duration": 2679,
+    "offset": 3078640,
+    "lang": "es"
+  }
+]

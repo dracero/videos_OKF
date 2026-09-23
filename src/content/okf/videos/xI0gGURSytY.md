@@ -4,8 +4,12 @@ title: "copilot"
 description: ""
 transcript_summary: "vamos a pedirle a github copilot que haga un cambio le vamos a decir que busque este mensaje y que lo cambie por bienvenido sarafi entonces queremos eliminar este mensaje y reemplazarlo con el efecto gradiente y [Música] siendo bien le vamos a poner en mayúscula Bienvenidos a la fiba entonces ahí le estamos pidiendo que cambie ese mensaje y que con el efecto gradiente ponga Bienvenidos a la fiba fíjense que él como es un rag agentic él hace todo el trabajo de localizar el archivo y hacer el recoding o sea está chipando un nuevo feature de nuestro programa sin que nosotros hagamos nada y sin que tampoco hayamos entendido demasiado el código bien entonces ahí dice qué es lo que va a cambiar cosas que tiene que sacar otra que tiene que poner lo guardamos guarden acá sa ahí ya lo guardamos bien perfecto y acá aparece Bienvenidos a la fiuba"
 resource: "https://www.youtube.com/watch?v=xI0gGURSytY"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:14.794Z" }
+category: "rag_and_agents"
+category_confidence: 0.51
+has_code_demo: true
+difficulty_score: 0.6
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:21:21.449Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** rag_and_agents (confianza: 51%)
+- **Código en vivo:** Sí
+- **Nivel técnico:** 0.6 / 3.0
 - **Publicado el:** 27 de febrero de 2025
 - **Duración:** 01:41
 - **Vistas:** 1 | **Likes:** 0

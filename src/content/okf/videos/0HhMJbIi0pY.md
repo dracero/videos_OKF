@@ -4,8 +4,12 @@ title: "parte3"
 description: ""
 transcript_summary: "bien entonces una vez que termina de hacer la copia de seguridad fíjense que acá tenemos la fecha que es el día cuando se hizo el vídeo martes 15 de junio del 2 6 y fíjense que pesa tan sólo 960 amigas ahora vamos a hacer descargar y tenemos ese archivo ya descarga entonces ahora vamos a salir de acá vamos a ir a una instalación demo del local para poder hacer la restauración del archivo s en una instalación de moodle de módulo cal vamos a ir entonces a vamos a ir entonces a la máquina donde tenemos nuestra instalación local de moodle para hacer la restauración localhost vamos a lograr que este lo recuerden que esta parte localhost está en mi máquina local ya no me estoy conectando a internet la restauración entrar al curso y acá tengo que elegir rector entonces acá que el hijo rector me va a poner que suba un backup file entonces acá lo que hago es subo el backup baker y ha bajado el que empezaba casi un siglo en fíjense que prácticamente habíamos sacado todo y pesaba casi un giga y acá bueno vamos muy rápido porque estamos hablando de que acá está"
 resource: "https://www.youtube.com/watch?v=0HhMJbIi0pY"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:31.075Z" }
+category: "education_moodle"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 0.83
+tags: ["education_moodle"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:17:59.357Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** education_moodle (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.8 / 3.0
 - **Publicado el:** 15 de junio de 2021
 - **Duración:** 03:02
 - **Vistas:** 1 | **Likes:** 0

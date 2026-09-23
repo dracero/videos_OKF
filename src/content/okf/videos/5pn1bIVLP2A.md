@@ -4,8 +4,12 @@ title: "Jul 18 2018 10 42 AM"
 description: ""
 transcript_summary: "una vez que instalamos el servidor de la vamos a tener a nuestra disposición la consola del google cloud platform dentro de la consola de google cloud platform vamos a computer inc acá aparece el computing o la máquina virtual que se creó para poder soportar con su sistema operativo nuestro servidor hacemos clic en el nombre de la máquina una vez que entramos a la máquina buscamos el network interface card el nick y hacemos clic sobre el negro vamos a donde dice direcciones ip externas nuestra máquina va a tener una dirección ip externa que va a decir dinámica que es esta dirección ip externa una ip pública para que nos encuentren desde fuera y vamos a elegir ip estática"
 resource: "https://www.youtube.com/watch?v=5pn1bIVLP2A"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:12:01.314Z" }
+category: "software_web_dev"
+category_confidence: 0.98
+has_code_demo: false
+difficulty_score: 0.77
+tags: ["software_web_dev"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:22:09.631Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCDs8wbm1jczac3UNYIAVxZg.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCDs8wbm1jczac3UNYIAVxZg.md)
+- **Categoría:** software_web_dev (confianza: 98%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.8 / 3.0
 - **Publicado el:** 18 de julio de 2018
 - **Duración:** 00:55
 - **Vistas:** 0 | **Likes:** 0

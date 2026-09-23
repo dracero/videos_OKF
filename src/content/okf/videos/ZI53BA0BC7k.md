@@ -4,8 +4,12 @@ title: "Jira vide 3"
 description: ""
 transcript_summary: "lo que les comentaba recién acá tenemos taller de guiones para videos educativos ya empezó Julián con este taller de guiones pero esta tarea necesita Por ejemplo que se cree en m el curso para poner todo el material entonces acá le damos crear tarea entonces creación de curso el para taller de [Música] guion de videos ponemos simplemente la descripción acá le ponemos que está Julián Romero eh Solamente se puede asignar a una persona eh Como responsable acá responsable le vamos a poner Fernando Valladares y le damos crear y ahí creamos esta nueva incidencia ahora acá esta que todavía está en backlog vamos a ir a vincularla y no le ponemos que está bloqueada sino le ponemos que está relacionada con y acá tenemos que buscar la tarea fíjense que todas tienen un número este se llamaba scr 8 entonces acá ponemos el número o scr 8 y le damos vincular entonces de esta manera ya las tareas quedan vinculadas cuando yo voy a hacer las voy a hacer la siguiente tarea fíjense que acá me dice cuando voy a ver la tarea y dicen que hay una tarea vinculada entonces yo ya sé que tengo que ir a ver"
 resource: "https://www.youtube.com/watch?v=ZI53BA0BC7k"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:35.583Z" }
+category: "education_moodle"
+category_confidence: 0.58
+has_code_demo: false
+difficulty_score: 0.22
+tags: ["education_moodle"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:23:43.236Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** education_moodle (confianza: 58%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.2 / 3.0
 - **Publicado el:** 25 de enero de 2024
 - **Duración:** 02:55
 - **Vistas:** 4 | **Likes:** 0

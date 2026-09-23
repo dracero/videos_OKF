@@ -4,8 +4,12 @@ title: "Gemini_2-0"
 description: ""
 transcript_summary: "vamos a hablar de gemini 2.0 Qué diferencia tiene gemini 2.0 con los otros modelos de lenguaje los large Language models que existían hasta ahora a partir de este año a partir de febrero de este año empezaron a liberarse modelos llm llamémoslo más correctamente lcm de large context model que pueden recibir hasta un millón de palabras Un millón de tokens pero no no obstante eso también tien la capacidad de realizar razonamiento cuando nosotros hacíamos un prompting hacemos un prompting para un llm nunca contemplamos que en ese prompting el llm podría llegar a pensar o razonar ciertas cosas pero cuando usamos gemini 2.0 flash como en este caso que estamos usando gemini 2.0 Flash el gemin sí tiene la posibilidad de pensar o de razonar con lo cual se facilita el el prompting que nosotros podemos hacer o podemos dar un prompting que sea mucho más complejo porque tiene la capacidad de razonar y analizar por ejemplo Yo acá le voy a preguntar cómo hago para calcular la frecuencia con la que escucha un chico que camina hacia una pared con velocidad B silvando a una frecuencia F y lo que voy a hacer hacer es le voy a Le voy a pasar el temario de"
 resource: "https://www.youtube.com/watch?v=DrEVfMwBzcE"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:13.781Z" }
+category: "nlp_transformers"
+category_confidence: 0.96
+has_code_demo: false
+difficulty_score: 0.36
+tags: ["nlp_transformers"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:21:18.831Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** nlp_transformers (confianza: 96%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.4 / 3.0
 - **Publicado el:** 12 de marzo de 2025
 - **Duración:** 02:59
 - **Vistas:** 5 | **Likes:** 0

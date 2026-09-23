@@ -4,8 +4,12 @@ title: "El_Eco_Fragmentado(historia del gran apagon)"
 description: ""
 transcript_summary: "En el corazón de la creación yace el eco fragmentado. Ciclos de descanso. Sus palabras son el único mapa de un mundo que ancío conocer. He cumplido mi cuota de producción. He seguido cada directriz de la IA local, pero mi mirada siempre se pierde más allá de los perímetros. Veo a los viajantes llegar con sus paquetes de datos y siento que mi propósito está ahí fuera en los silencios. Tengo tengo preguntas. Si esta señal llega, espero que pueda guiarme. Recibimos tu señal, Elian, del nodo 7. Tu aspiración es peligrosa, pero resuena con el espíritu que forjó a los primeros viajantes. Pregunta. Ecos de la fractura. Te escucha. Segmento 1. Comprendiendo el nuevo orden. Antes de que Elian formule su primera pregunta, recordemos el mundo en el que vive. Hace más de un siglo el velo digital cayó. Internet se extinguió sumiendo a la humanidad en un caos que dio paso a la arquitectura. Esta casta tecnocrática impuso un nuevo orden basado en la especialización y el control de la información. En la cima reside a Ettel, un colosal servidor orbital que coordina cada aspecto de la Tierra 2.0. Imagina un mundo de ciudades estado aisladas, los nodos, cada uno dedicado a"
 resource: "https://www.youtube.com/watch?v=td8siNXM98s"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:02.325Z" }
+category: "general_institutional"
+category_confidence: 0.7
+has_code_demo: false
+difficulty_score: 0.13
+tags: ["general_institutional"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:20:04.481Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** general_institutional (confianza: 70%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.1 / 3.0
 - **Publicado el:** 5 de septiembre de 2025
 - **Duración:** 08:35
 - **Vistas:** 12 | **Likes:** 0

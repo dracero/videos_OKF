@@ -4,8 +4,12 @@ title: "Hyperledger Aries con VON-Network"
 description: "In this video I show you how to issue a credential with ACA-py and VON-Network- Part one"
 transcript_summary: "vamos a ver cómo poner a funcionar dos instancias de aries cloud agent una instancia va a ser el isr o sea el que genera las credenciales la otra instancia que se va a llamar voz va a ser el holder o sea la persona que pide las credenciales recuerden que la del aire es cloud edition tiene que conectarse a un láser para poder dejar sentada todas las transacciones que hacen el ligero hacer un servidor indie lo que vamos a hacer nosotros es atraer una imagen de docker que tiene justamente cuatro servidores sindey y un web server que escucha en el puerto 9000 para que vamos a traer ese servidor esos servidores indie porque en esos servidores indie nosotros vamos a tener que registrar el lead público de alice que es el isr vamos a tener que registrar ahí el lead público de alice y con ese público vamos a tener un isr que el holder al quien el holder le va a poder pedir una vez que establezca conexión que le pase credenciales bien primero vamos a levantar la instancia d font network que es el que tiene los cuatro servidores y ahí vemos que están"
 resource: "https://www.youtube.com/watch?v=SI3Aq9U4U5M"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:04.133Z" }
+category: "software_web_dev"
+category_confidence: 0.97
+has_code_demo: true
+difficulty_score: 1.24
+tags: ["software_web_dev"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:16:58.331Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** software_web_dev (confianza: 97%)
+- **Código en vivo:** Sí
+- **Nivel técnico:** 1.2 / 3.0
 - **Publicado el:** 24 de julio de 2022
 - **Duración:** 14:24
 - **Vistas:** 398 | **Likes:** 5

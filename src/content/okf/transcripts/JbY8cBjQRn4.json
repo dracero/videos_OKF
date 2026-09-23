@@ -1,0 +1,1196 @@
+[
+  {
+    "text": "Vamos a mostrar lo que nos faltaba, que",
+    "duration": 6599,
+    "offset": 1160,
+    "lang": "es"
+  },
+  {
+    "text": "es cómo hacer para tomar dispositivos",
+    "duration": 5880,
+    "offset": 4120,
+    "lang": "es"
+  },
+  {
+    "text": "en Home Assistant utilizando el",
+    "duration": 5760,
+    "offset": 7759,
+    "lang": "es"
+  },
+  {
+    "text": "protocolo MQTT.",
+    "duration": 7160,
+    "offset": 10000,
+    "lang": "es"
+  },
+  {
+    "text": "Tenemos una simulación hecha con GOW Wi",
+    "duration": 7241,
+    "offset": 13519,
+    "lang": "es"
+  },
+  {
+    "text": "a donde hay un dispositivo SP32 que está",
+    "duration": 6160,
+    "offset": 17160,
+    "lang": "es"
+  },
+  {
+    "text": "tomando valores de temperatura y humedad",
+    "duration": 5439,
+    "offset": 20760,
+    "lang": "es"
+  },
+  {
+    "text": "y que puede recibir órdenes para regar o",
+    "duration": 7840,
+    "offset": 23320,
+    "lang": "es"
+  },
+  {
+    "text": "no regar. La idea es tomar el broker",
+    "duration": 9721,
+    "offset": 26199,
+    "lang": "es"
+  },
+  {
+    "text": "MQTT Hbenq al eh conectarlo al Home",
+    "duration": 7880,
+    "offset": 31160,
+    "lang": "es"
+  },
+  {
+    "text": "Assistant y descubrir en el Home",
+    "duration": 6080,
+    "offset": 35920,
+    "lang": "es"
+  },
+  {
+    "text": "Assistant a través de ese broker la",
+    "duration": 6320,
+    "offset": 39040,
+    "lang": "es"
+  },
+  {
+    "text": "publicación que está haciendo el eh",
+    "duration": 6239,
+    "offset": 42000,
+    "lang": "es"
+  },
+  {
+    "text": "dispositivo y a su vez el dispositivo",
+    "duration": 5000,
+    "offset": 45360,
+    "lang": "es"
+  },
+  {
+    "text": "también tiene un topic al cual está",
+    "duration": 5640,
+    "offset": 48239,
+    "lang": "es"
+  },
+  {
+    "text": "suscrpto y esa suscripción la vamos a",
+    "duration": 6280,
+    "offset": 50360,
+    "lang": "es"
+  },
+  {
+    "text": "usar para mandarle mensajes de regar o",
+    "duration": 5081,
+    "offset": 53879,
+    "lang": "es"
+  },
+  {
+    "text": "no. Regar.",
+    "duration": 6680,
+    "offset": 56640,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, acá ya tenemos el dispositivo SP32",
+    "duration": 8400,
+    "offset": 58960,
+    "lang": "es"
+  },
+  {
+    "text": "corriendo. Vamos a mostrar acá el Home",
+    "duration": 7640,
+    "offset": 63320,
+    "lang": "es"
+  },
+  {
+    "text": "Assistant. el Home Assistant con eh los",
+    "duration": 6200,
+    "offset": 67360,
+    "lang": "es"
+  },
+  {
+    "text": "dispositivos que nosotros este les",
+    "duration": 6760,
+    "offset": 70960,
+    "lang": "es"
+  },
+  {
+    "text": "habíamos puesto, las cámaras, los",
+    "duration": 7160,
+    "offset": 73560,
+    "lang": "es"
+  },
+  {
+    "text": "televisores, todos los dispositivos que",
+    "duration": 6359,
+    "offset": 77720,
+    "lang": "es"
+  },
+  {
+    "text": "eh nosotros le habíamos agregado están",
+    "duration": 8359,
+    "offset": 80720,
+    "lang": "es"
+  },
+  {
+    "text": "acá para verse en el e Home Assistant.",
+    "duration": 8561,
+    "offset": 84079,
+    "lang": "es"
+  },
+  {
+    "text": "¿Cómo hacemos para agregar un e",
+    "duration": 6320,
+    "offset": 89079,
+    "lang": "es"
+  },
+  {
+    "text": "dispositivo MQTT? Acá está abriendo,",
+    "duration": 6600,
+    "offset": 92640,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que está la sala y acá nos va a",
+    "duration": 5521,
+    "offset": 95399,
+    "lang": "es"
+  },
+  {
+    "text": "mostrar,",
+    "duration": 5040,
+    "offset": 99240,
+    "lang": "es"
+  },
+  {
+    "text": "nos va a traer ahí en un rato la cámara",
+    "duration": 6280,
+    "offset": 100920,
+    "lang": "es"
+  },
+  {
+    "text": "IP, que es la cámara IP que habíamos",
+    "duration": 6560,
+    "offset": 104280,
+    "lang": "es"
+  },
+  {
+    "text": "descubierto ya en e en sesiones",
+    "duration": 6080,
+    "offset": 107200,
+    "lang": "es"
+  },
+  {
+    "text": "anteriores.",
+    "duration": 5680,
+    "offset": 110840,
+    "lang": "es"
+  },
+  {
+    "text": "Acá va a traer el valor de la cámara IP.",
+    "duration": 5040,
+    "offset": 113280,
+    "lang": "es"
+  },
+  {
+    "text": "Bueno, y podemos controlar cell",
+    "duration": 7559,
+    "offset": 116520,
+    "lang": "es"
+  },
+  {
+    "text": "detection, autofocus y eh y demás. Bien.",
+    "duration": 8880,
+    "offset": 118320,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, vamos a mostrar cómo es para tomar",
+    "duration": 5600,
+    "offset": 124079,
+    "lang": "es"
+  },
+  {
+    "text": "eh conectarse a un broker de MQTT y",
+    "duration": 4840,
+    "offset": 127200,
+    "lang": "es"
+  },
+  {
+    "text": "después a las publicaciones y",
+    "duration": 3920,
+    "offset": 129679,
+    "lang": "es"
+  },
+  {
+    "text": "suscripciones.",
+    "duration": 4199,
+    "offset": 132040,
+    "lang": "es"
+  },
+  {
+    "text": "Vamos a donde dice configuración.",
+    "duration": 4601,
+    "offset": 133599,
+    "lang": "es"
+  },
+  {
+    "text": "A donde dice configuración vamos a",
+    "duration": 5041,
+    "offset": 136239,
+    "lang": "es"
+  },
+  {
+    "text": "dispositivos y servicios. Integraciones,",
+    "duration": 6640,
+    "offset": 138200,
+    "lang": "es"
+  },
+  {
+    "text": "agregar integración.",
+    "duration": 3560,
+    "offset": 141280,
+    "lang": "es"
+  },
+  {
+    "text": "Y acá vamos a donde dice MQTT.",
+    "duration": 6959,
+    "offset": 144920,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, acá MQTT ya está agregado, pero si",
+    "duration": 5120,
+    "offset": 148640,
+    "lang": "es"
+  },
+  {
+    "text": "no acá podríamos poner agregar",
+    "duration": 4961,
+    "offset": 151879,
+    "lang": "es"
+  },
+  {
+    "text": "integración y tenemos para agregar la",
+    "duration": 6839,
+    "offset": 153760,
+    "lang": "es"
+  },
+  {
+    "text": "integración de MQTT para conectarnos al",
+    "duration": 6679,
+    "offset": 156840,
+    "lang": "es"
+  },
+  {
+    "text": "broker de MQTT. Acá ya estamos",
+    "duration": 7241,
+    "offset": 160599,
+    "lang": "es"
+  },
+  {
+    "text": "conectados a ese broker de MQTT que es",
+    "duration": 6561,
+    "offset": 163519,
+    "lang": "es"
+  },
+  {
+    "text": "Hbenq público. Por eso acá hay un montón",
+    "duration": 5759,
+    "offset": 167840,
+    "lang": "es"
+  },
+  {
+    "text": "de dispositivos que bueno, esto como es",
+    "duration": 6840,
+    "offset": 170080,
+    "lang": "es"
+  },
+  {
+    "text": "con fines didácticos es el el que",
+    "duration": 5761,
+    "offset": 173599,
+    "lang": "es"
+  },
+  {
+    "text": "público, pero con fines profesionales,",
+    "duration": 4039,
+    "offset": 176920,
+    "lang": "es"
+  },
+  {
+    "text": "por supuesto, hay que usar el que es",
+    "duration": 3959,
+    "offset": 179360,
+    "lang": "es"
+  },
+  {
+    "text": "privado y ustedes se tienen que conectar",
+    "duration": 4560,
+    "offset": 180959,
+    "lang": "es"
+  },
+  {
+    "text": "a uno particular, pero bueno, ese hay",
+    "duration": 5480,
+    "offset": 183319,
+    "lang": "es"
+  },
+  {
+    "text": "que pagarlo. Bien, entonces regresamos a",
+    "duration": 6640,
+    "offset": 185519,
+    "lang": "es"
+  },
+  {
+    "text": "configuración. Ya tenemos el MQTT.",
+    "duration": 5000,
+    "offset": 188799,
+    "lang": "es"
+  },
+  {
+    "text": "tomado. Ahora, ¿qué es lo que tenemos",
+    "duration": 3921,
+    "offset": 192159,
+    "lang": "es"
+  },
+  {
+    "text": "que hacer? En configuración tenemos que",
+    "duration": 4481,
+    "offset": 193799,
+    "lang": "es"
+  },
+  {
+    "text": "ir a aplicaciones.",
+    "duration": 4000,
+    "offset": 196080,
+    "lang": "es"
+  },
+  {
+    "text": "En aplicaciones vamos a instalar",
+    "duration": 4080,
+    "offset": 198280,
+    "lang": "es"
+  },
+  {
+    "text": "aplicación y ahí vamos a buscar File",
+    "duration": 5079,
+    "offset": 200080,
+    "lang": "es"
+  },
+  {
+    "text": "Editor. File Editor. Acá yo ya lo tengo",
+    "duration": 5879,
+    "offset": 202360,
+    "lang": "es"
+  },
+  {
+    "text": "instalado, pero ustedes lo van a tener",
+    "duration": 4720,
+    "offset": 205159,
+    "lang": "es"
+  },
+  {
+    "text": "que instalar. ¿Qué pasa? Una vez que lo",
+    "duration": 3640,
+    "offset": 208239,
+    "lang": "es"
+  },
+  {
+    "text": "instalan,",
+    "duration": 3601,
+    "offset": 209879,
+    "lang": "es"
+  },
+  {
+    "text": "eh",
+    "duration": 5080,
+    "offset": 211879,
+    "lang": "es"
+  },
+  {
+    "text": "le ponen todos estos switch en eh",
+    "duration": 5959,
+    "offset": 213480,
+    "lang": "es"
+  },
+  {
+    "text": "encendidos, o sea, iniciar en el",
+    "duration": 4441,
+    "offset": 216959,
+    "lang": "es"
+  },
+  {
+    "text": "arranque, vigilancia, actualización",
+    "duration": 3681,
+    "offset": 219439,
+    "lang": "es"
+  },
+  {
+    "text": "automática y mostrar en el panel",
+    "duration": 4720,
+    "offset": 221400,
+    "lang": "es"
+  },
+  {
+    "text": "lateral. Por eso aparece acá el file",
+    "duration": 5600,
+    "offset": 223120,
+    "lang": "es"
+  },
+  {
+    "text": "editor en el panel lateral. Vamos",
+    "duration": 5880,
+    "offset": 226120,
+    "lang": "es"
+  },
+  {
+    "text": "entonces a la vista general.",
+    "duration": 5359,
+    "offset": 228720,
+    "lang": "es"
+  },
+  {
+    "text": "Acá en la vista general hacemos clic en",
+    "duration": 5360,
+    "offset": 232000,
+    "lang": "es"
+  },
+  {
+    "text": "el File Editor.",
+    "duration": 6360,
+    "offset": 234079,
+    "lang": "es"
+  },
+  {
+    "text": "En el file editor buscamos un archivo",
+    "duration": 8280,
+    "offset": 237360,
+    "lang": "es"
+  },
+  {
+    "text": "que se llama configur configuration y",
+    "duration": 8041,
+    "offset": 240439,
+    "lang": "es"
+  },
+  {
+    "text": "en este archivo, en función de esta",
+    "duration": 4959,
+    "offset": 245640,
+    "lang": "es"
+  },
+  {
+    "text": "configuración que tenemos, tenemos que",
+    "duration": 4720,
+    "offset": 248480,
+    "lang": "es"
+  },
+  {
+    "text": "poner este código que está acá debajo de",
+    "duration": 5561,
+    "offset": 250599,
+    "lang": "es"
+  },
+  {
+    "text": "MQTT. ¿Cómo hice yo para tener este",
+    "duration": 6520,
+    "offset": 253200,
+    "lang": "es"
+  },
+  {
+    "text": "código? Yaml. Bien, fui a Cloud Code y",
+    "duration": 7440,
+    "offset": 256160,
+    "lang": "es"
+  },
+  {
+    "text": "le dije a Cloud Code que me hiciera",
+    "duration": 8759,
+    "offset": 259720,
+    "lang": "es"
+  },
+  {
+    "text": "el código Yam para tomar e a un",
+    "duration": 7159,
+    "offset": 263600,
+    "lang": "es"
+  },
+  {
+    "text": "dispositivo que se conecta al broker de",
+    "duration": 4280,
+    "offset": 268479,
+    "lang": "es"
+  },
+  {
+    "text": "HQ.",
+    "duration": 4481,
+    "offset": 270759,
+    "lang": "es"
+  },
+  {
+    "text": "Es importante decir a qué broker se",
+    "duration": 4921,
+    "offset": 272759,
+    "lang": "es"
+  },
+  {
+    "text": "conecta porque",
+    "duration": 5480,
+    "offset": 275240,
+    "lang": "es"
+  },
+  {
+    "text": "ahí eh van a estar las definiciones",
+    "duration": 5200,
+    "offset": 277680,
+    "lang": "es"
+  },
+  {
+    "text": "correctas de el archivo de",
+    "duration": 3680,
+    "offset": 280720,
+    "lang": "es"
+  },
+  {
+    "text": "configuración.",
+    "duration": 4800,
+    "offset": 282880,
+    "lang": "es"
+  },
+  {
+    "text": "Una vez que hicieron eso, le eh acá,",
+    "duration": 4600,
+    "offset": 284400,
+    "lang": "es"
+  },
+  {
+    "text": "bueno, yo no cambié nada, pero si",
+    "duration": 3120,
+    "offset": 287680,
+    "lang": "es"
+  },
+  {
+    "text": "hubiesen cambiado algo, fíjense que les",
+    "duration": 3639,
+    "offset": 289000,
+    "lang": "es"
+  },
+  {
+    "text": "aparece un disco, un icono de un disco",
+    "duration": 5839,
+    "offset": 290800,
+    "lang": "es"
+  },
+  {
+    "text": "para grabar. Lo graban, vuelven a eh",
+    "duration": 6601,
+    "offset": 292639,
+    "lang": "es"
+  },
+  {
+    "text": "configuración, van a donde dice",
+    "duration": 4361,
+    "offset": 296639,
+    "lang": "es"
+  },
+  {
+    "text": "herramientas.",
+    "duration": 3760,
+    "offset": 299240,
+    "lang": "es"
+  },
+  {
+    "text": "Acá en herramientas",
+    "duration": 4440,
+    "offset": 301000,
+    "lang": "es"
+  },
+  {
+    "text": "pueden tener seleccionado distintas",
+    "duration": 4320,
+    "offset": 303000,
+    "lang": "es"
+  },
+  {
+    "text": "cosas. Van acá al que está más a la",
+    "duration": 4880,
+    "offset": 305440,
+    "lang": "es"
+  },
+  {
+    "text": "izquierda que dice Yaml y acá hacen un",
+    "duration": 6560,
+    "offset": 307320,
+    "lang": "es"
+  },
+  {
+    "text": "reinicio. Le dan reiniciar, reiniciar.",
+    "duration": 6560,
+    "offset": 310320,
+    "lang": "es"
+  },
+  {
+    "text": "Home, asistan, reiniciar. Ahí, fíjense",
+    "duration": 7200,
+    "offset": 313880,
+    "lang": "es"
+  },
+  {
+    "text": "que eh va a empezar, ¿ven? Va a empezar",
+    "duration": 7520,
+    "offset": 316880,
+    "lang": "es"
+  },
+  {
+    "text": "a a reiniciarse. ¿Por qué es importante",
+    "duration": 6480,
+    "offset": 321080,
+    "lang": "es"
+  },
+  {
+    "text": "hacer el reinicio? Porque ustedes con",
+    "duration": 7400,
+    "offset": 324400,
+    "lang": "es"
+  },
+  {
+    "text": "ese reinicio lo que eh consiguen es que",
+    "duration": 7320,
+    "offset": 327560,
+    "lang": "es"
+  },
+  {
+    "text": "el servidor de Home Assistant tome la",
+    "duration": 5239,
+    "offset": 331800,
+    "lang": "es"
+  },
+  {
+    "text": "configuración que ustedes terminan de",
+    "duration": 4439,
+    "offset": 334880,
+    "lang": "es"
+  },
+  {
+    "text": "hacer.",
+    "duration": 4561,
+    "offset": 337039,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, entonces ahí volvemos a",
+    "duration": 4201,
+    "offset": 339319,
+    "lang": "es"
+  },
+  {
+    "text": "configuración,",
+    "duration": 4960,
+    "offset": 341600,
+    "lang": "es"
+  },
+  {
+    "text": "vamos a dispositivos y servicios, acá",
+    "duration": 6519,
+    "offset": 343520,
+    "lang": "es"
+  },
+  {
+    "text": "ponen entidades y acá yo escribí riego,",
+    "duration": 5759,
+    "offset": 346560,
+    "lang": "es"
+  },
+  {
+    "text": "que es el nombre de la entidad que había",
+    "duration": 5361,
+    "offset": 350039,
+    "lang": "es"
+  },
+  {
+    "text": "puesto. Va a tardar un rato en aparecer.",
+    "duration": 6720,
+    "offset": 352319,
+    "lang": "es"
+  },
+  {
+    "text": "Acá pongo riego. Fíjense que acá aparece",
+    "duration": 5760,
+    "offset": 355400,
+    "lang": "es"
+  },
+  {
+    "text": "control de riego.",
+    "duration": 5481,
+    "offset": 359039,
+    "lang": "es"
+  },
+  {
+    "text": "Eh, acá me dice, bueno, que está el",
+    "duration": 5840,
+    "offset": 361160,
+    "lang": "es"
+  },
+  {
+    "text": "riego activo y me da que está activo",
+    "duration": 3720,
+    "offset": 364520,
+    "lang": "es"
+  },
+  {
+    "text": "porque está conectado y lo está",
+    "duration": 3560,
+    "offset": 367000,
+    "lang": "es"
+  },
+  {
+    "text": "mostrando. Y acá puedo ver, por ejemplo,",
+    "duration": 4720,
+    "offset": 368240,
+    "lang": "es"
+  },
+  {
+    "text": "la humedad de riego.",
+    "duration": 5919,
+    "offset": 370560,
+    "lang": "es"
+  },
+  {
+    "text": "Acá me dicen que la humedad de riego eh",
+    "duration": 9480,
+    "offset": 372960,
+    "lang": "es"
+  },
+  {
+    "text": "subió al 78%. Si yo me voy a fijar acá,",
+    "duration": 9321,
+    "offset": 376479,
+    "lang": "es"
+  },
+  {
+    "text": "lo que está publicando es 78% de",
+    "duration": 6599,
+    "offset": 382440,
+    "lang": "es"
+  },
+  {
+    "text": "humedad. Imagínense este dispositivo",
+    "duration": 5040,
+    "offset": 385800,
+    "lang": "es"
+  },
+  {
+    "text": "está en un campo, en una ciudad",
+    "duration": 3481,
+    "offset": 389039,
+    "lang": "es"
+  },
+  {
+    "text": "agropecuaria,",
+    "duration": 4440,
+    "offset": 390840,
+    "lang": "es"
+  },
+  {
+    "text": "está transmitiendo por Wi-Fi a una red",
+    "duration": 6079,
+    "offset": 392520,
+    "lang": "es"
+  },
+  {
+    "text": "que después se conecta a este broker",
+    "duration": 7919,
+    "offset": 395280,
+    "lang": "es"
+  },
+  {
+    "text": "MQTT, tal vez por Starling, no sé. Y",
+    "duration": 7121,
+    "offset": 398599,
+    "lang": "es"
+  },
+  {
+    "text": "este Home Assistant está leyendo esa",
+    "duration": 4840,
+    "offset": 403199,
+    "lang": "es"
+  },
+  {
+    "text": "publicación, suscripto a esa publicación",
+    "duration": 5800,
+    "offset": 405720,
+    "lang": "es"
+  },
+  {
+    "text": "en el broker de MQTT y leyendo los",
+    "duration": 8321,
+    "offset": 408039,
+    "lang": "es"
+  },
+  {
+    "text": "datos. Y acá veo que está leyendo e los",
+    "duration": 7359,
+    "offset": 411520,
+    "lang": "es"
+  },
+  {
+    "text": "valores con el horario y demás, la serie",
+    "duration": 4320,
+    "offset": 416360,
+    "lang": "es"
+  },
+  {
+    "text": "temporal de los valores de temperatura.",
+    "duration": 5000,
+    "offset": 418879,
+    "lang": "es"
+  },
+  {
+    "text": "Fíjense que acá dice 36 38 segundos, o",
+    "duration": 6120,
+    "offset": 420680,
+    "lang": "es"
+  },
+  {
+    "text": "sea, permanentemente. Bien, acá tengo el",
+    "duration": 4720,
+    "offset": 423879,
+    "lang": "es"
+  },
+  {
+    "text": "de humedad, perdón. Acá tengo la",
+    "duration": 7160,
+    "offset": 426800,
+    "lang": "es"
+  },
+  {
+    "text": "temperatura. Estaba en 36, ahora está en",
+    "duration": 9961,
+    "offset": 428599,
+    "lang": "es"
+  },
+  {
+    "text": "31,1 gr. Fíjense que acá dice, vamos a",
+    "duration": 6400,
+    "offset": 433960,
+    "lang": "es"
+  },
+  {
+    "text": "ver",
+    "duration": 4840,
+    "offset": 438560,
+    "lang": "es"
+  },
+  {
+    "text": "que dice efectivamente 31,1 gr. Vamos a",
+    "duration": 4800,
+    "offset": 440360,
+    "lang": "es"
+  },
+  {
+    "text": "ver qué pasa si yo lo cambio. Por",
+    "duration": 6440,
+    "offset": 443400,
+    "lang": "es"
+  },
+  {
+    "text": "ejemplo, vamos a bajar la humedad al 22%",
+    "duration": 9479,
+    "offset": 445160,
+    "lang": "es"
+  },
+  {
+    "text": "y la temperatura a 17,8º.",
+    "duration": 7560,
+    "offset": 449840,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora",
+    "duration": 5641,
+    "offset": 454639,
+    "lang": "es"
+  },
+  {
+    "text": "vamos acá vemos la humedad. Fíjense que",
+    "duration": 5880,
+    "offset": 457400,
+    "lang": "es"
+  },
+  {
+    "text": "acá la humedad bajó",
+    "duration": 7440,
+    "offset": 460280,
+    "lang": "es"
+  },
+  {
+    "text": "70 22% que es lo que nos está diciendo",
+    "duration": 9359,
+    "offset": 463280,
+    "lang": "es"
+  },
+  {
+    "text": "acá. Humedad 22% y vamos a ver la",
+    "duration": 9159,
+    "offset": 467720,
+    "lang": "es"
+  },
+  {
+    "text": "temperatura y la temperatura 17,8º.",
+    "duration": 6761,
+    "offset": 472639,
+    "lang": "es"
+  },
+  {
+    "text": "Y fíjense que efectivamente es lo que",
+    "duration": 6121,
+    "offset": 476879,
+    "lang": "es"
+  },
+  {
+    "text": "dice acá, 17,8º.",
+    "duration": 3600,
+    "offset": 479400,
+    "lang": "es"
+  },
+  {
+    "text": "Bien, acá tengo el control de riego.",
+    "duration": 6920,
+    "offset": 483080,
+    "lang": "es"
+  },
+  {
+    "text": "Hago clic, ahí le di regar. Entonces,",
+    "duration": 6680,
+    "offset": 486120,
+    "lang": "es"
+  },
+  {
+    "text": "fíjense que acá se ve el comando que",
+    "duration": 5080,
+    "offset": 490000,
+    "lang": "es"
+  },
+  {
+    "text": "recibió Regar. Fíjense que desde el home",
+    "duration": 5280,
+    "offset": 492800,
+    "lang": "es"
+  },
+  {
+    "text": "system yo analizo todo una serie de",
+    "duration": 5559,
+    "offset": 495080,
+    "lang": "es"
+  },
+  {
+    "text": "variables. Puedo ver un montón de cosas,",
+    "duration": 5320,
+    "offset": 498080,
+    "lang": "es"
+  },
+  {
+    "text": "pero acá analizo un montón de variables",
+    "duration": 6120,
+    "offset": 500639,
+    "lang": "es"
+  },
+  {
+    "text": "y le mandé regar y ahí empezó a regar.",
+    "duration": 5199,
+    "offset": 503400,
+    "lang": "es"
+  },
+  {
+    "text": "Si en un determinado momento lo quiero",
+    "duration": 5041,
+    "offset": 506759,
+    "lang": "es"
+  },
+  {
+    "text": "detener, acá aparece no regar y ahí lo",
+    "duration": 6041,
+    "offset": 508599,
+    "lang": "es"
+  },
+  {
+    "text": "detuve. O sea, fíjense que este",
+    "duration": 5200,
+    "offset": 511800,
+    "lang": "es"
+  },
+  {
+    "text": "dispositivo es un dispositivo que está a",
+    "duration": 4279,
+    "offset": 514640,
+    "lang": "es"
+  },
+  {
+    "text": "miles de kilómetros de distancia. Tal",
+    "duration": 4959,
+    "offset": 517000,
+    "lang": "es"
+  },
+  {
+    "text": "vez está publicando al broker de MQTT y",
+    "duration": 6480,
+    "offset": 518919,
+    "lang": "es"
+  },
+  {
+    "text": "suscripto también a un tópico del broker",
+    "duration": 6121,
+    "offset": 521959,
+    "lang": "es"
+  },
+  {
+    "text": "MQTT. Y yo tengo por otro lado todo el",
+    "duration": 7081,
+    "offset": 525399,
+    "lang": "es"
+  },
+  {
+    "text": "control acá en el home asistan. No",
+    "duration": 7560,
+    "offset": 528080,
+    "lang": "es"
+  },
+  {
+    "text": "solamente veo los televisores, el",
+    "duration": 6440,
+    "offset": 532480,
+    "lang": "es"
+  },
+  {
+    "text": "router, las cámaras y todos los",
+    "duration": 5120,
+    "offset": 535640,
+    "lang": "es"
+  },
+  {
+    "text": "dispositivos, sino que también es",
+    "duration": 3960,
+    "offset": 538920,
+    "lang": "es"
+  },
+  {
+    "text": "importantísimo puedo ver todo lo que",
+    "duration": 3240,
+    "offset": 540760,
+    "lang": "es"
+  },
+  {
+    "text": "está haciendo a través de estos",
+    "duration": 4480,
+    "offset": 542880,
+    "lang": "es"
+  },
+  {
+    "text": "dispositivos IoT en un broker de MQTT.",
+    "duration": 5760,
+    "offset": 544000,
+    "lang": "es"
+  },
+  {
+    "text": "Esto es importante, es importantísimo",
+    "duration": 6560,
+    "offset": 547360,
+    "lang": "es"
+  },
+  {
+    "text": "porque acá tengo control total de todo",
+    "duration": 7600,
+    "offset": 549760,
+    "lang": "es"
+  },
+  {
+    "text": "lo que tiene que ver con dispositivos,",
+    "duration": 7520,
+    "offset": 553920,
+    "lang": "es"
+  },
+  {
+    "text": "inclusive actualizaciones OTA cualquier",
+    "duration": 5880,
+    "offset": 557360,
+    "lang": "es"
+  },
+  {
+    "text": "otro tipo de actualización y demás",
+    "duration": 4399,
+    "offset": 561440,
+    "lang": "es"
+  },
+  {
+    "text": "cosas, yo las puedo controlar. Fíjese",
+    "duration": 5800,
+    "offset": 563240,
+    "lang": "es"
+  },
+  {
+    "text": "que acá está tomando dispositivos. Me",
+    "duration": 5881,
+    "offset": 565839,
+    "lang": "es"
+  },
+  {
+    "text": "dice que tengo cinco luces encendidas,",
+    "duration": 4840,
+    "offset": 569040,
+    "lang": "es"
+  },
+  {
+    "text": "este, que tengo un reproductor este",
+    "duration": 7080,
+    "offset": 571720,
+    "lang": "es"
+  },
+  {
+    "text": "multimedia, o sea, em",
+    "duration": 8320,
+    "offset": 573880,
+    "lang": "es"
+  },
+  {
+    "text": "la verdad que es muy muy completo y muy",
+    "duration": 7400,
+    "offset": 578800,
+    "lang": "es"
+  },
+  {
+    "text": "bueno todo lo que podemos hacer e con el",
+    "duration": 6560,
+    "offset": 582200,
+    "lang": "es"
+  },
+  {
+    "text": "Home Assistant.",
+    "duration": 4800,
+    "offset": 586200,
+    "lang": "es"
+  },
+  {
+    "text": "Amén.",
+    "duration": 2240,
+    "offset": 588760,
+    "lang": "es"
+  }
+]

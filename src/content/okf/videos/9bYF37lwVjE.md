@@ -4,8 +4,12 @@ title: "clideo editor dinamica rigido"
 description: ""
 transcript_summary: "Buenas, buenas a todos los oyentes de Física en Fiuba, el podcast donde intentamos que las ecuaciones no nos ganen por goleada. Soy Sofía y como cada semana estoy lista para bombardear a preguntas al profe Armando. ¿Cómo está, profe? Hola, Sofía. Hola a todos. Con el mate listo y preparado para otro desafío. Hoy nos metemos con un tema que es el pan de cada día en ingeniería, la dinámica del cuerpo rígido. ¡Uf! Tema denso si los hay. Leí la punta del cac cátedra y la verdad me surgieron más dudas que certezas. Para empezar siempre hablamos de puntos materiales y de repente pum, cuerpo rígido. ¿Cuál es la gran diferencia? Es una excelente pregunta para arrancar, Sofía. La diferencia es fundamental. Hasta ahora, con un punto material nos importaba dónde aplicábamos una fuerza, daba lo mismo. El punto se movía y listo, pero un cuerpo rígido, un objeto real como una rueda, una viga o tu celular tiene dimensiones. No es lo mismo empujarlo desde el centro que desde un borde. Claro, si empujo una puerta desde el picaporte, gira. Si la empujo justo donde están las bisagras, no pasa nada. Exactamente. Ahí está la clave. El"
 resource: "https://www.youtube.com/watch?v=9bYF37lwVjE"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:03.641Z" }
+category: "physics_and_math"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 0.37
+tags: ["physics_and_math"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:20:19.157Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** physics_and_math (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.4 / 3.0
 - **Publicado el:** 11 de agosto de 2025
 - **Duración:** 09:26
 - **Vistas:** 5 | **Likes:** 0

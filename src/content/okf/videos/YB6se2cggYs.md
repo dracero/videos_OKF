@@ -4,8 +4,12 @@ title: "Hyperledger Aries"
 description: "How to issue a credential with Aries and VON-Network part two."
 transcript_summary: "bien entonces una vez que yo ejecuto este y que Bob hace un zen Pro pousal Alice va a procesar ese envío de propuesta y yo tengo que usar este método que es illo credencial 2.0 Records Y en este método lo que voy a ver son todas las credenciales que le pidieron a Bob y acá en particular las credenciales Perdón que le pidieron a Alice y acá en particular tengo que identificar el Creedence ID este valor de acá credex ID Este es el credex id que tiene que usar Alice para comunicarse con Bob entonces tomo este Creed ex ID y voy a un Send o sea Bob le hace un sem prosal le llega a Alice que se lee que le están pidiendo esas credenciales con este valor de este nombre y edad que son las credenciales que Ali tienen su esquema yo hago un get para fijarme Cuál es el create next ID y ese create next ID lo tengo que pegar acá en este método cuando hago zen acá hizo el Send offer y ese Creedence ID le mandó a Bob un Send over entonces una vez que manda elsfer Bob tiene que hacer un Send request"
 resource: "https://www.youtube.com/watch?v=YB6se2cggYs"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:04.410Z" }
+category: "software_web_dev"
+category_confidence: 0.99
+has_code_demo: true
+difficulty_score: 1.15
+tags: ["software_web_dev"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:16:58.819Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** software_web_dev (confianza: 99%)
+- **Código en vivo:** Sí
+- **Nivel técnico:** 1.1 / 3.0
 - **Publicado el:** 24 de julio de 2022
 - **Duración:** 06:39
 - **Vistas:** 128 | **Likes:** 1

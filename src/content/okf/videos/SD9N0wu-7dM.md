@@ -4,8 +4,12 @@ title: "2023 05 16 16 46 14"
 description: ""
 transcript_summary: "bueno acá estamos viendo el típico tablero gira Estas son las incidencias las tareas e historias que están en sprints asignados y esto que está en el backlog es lo que no está en Sprint esto que no está en Sprint porque todavía no tiene una fecha definida de inicio de fin y lo más importante si uno hace clic en la tarea no tiene está por hacer y no tiene persona asignada responsable Estas son las que les traume Master debería contactarse con el equipo para ver por qué no la están haciendo Qué problema tienen porque obviamente al no hacerlas eso complica la finalización del Sprint"
 resource: "https://www.youtube.com/watch?v=SD9N0wu-7dM"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:01.505Z" }
+category: "software_web_dev"
+category_confidence: 0.55
+has_code_demo: false
+difficulty_score: 0.24
+tags: ["software_web_dev"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:16:51.821Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** software_web_dev (confianza: 55%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.2 / 3.0
 - **Publicado el:** 16 de mayo de 2023
 - **Duración:** 00:52
 - **Vistas:** 2 | **Likes:** 0

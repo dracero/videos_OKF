@@ -4,8 +4,12 @@ title: "2026 01 02 21 46 33"
 description: ""
 transcript_summary: "A2 Wii. A2U WI es un lenguaje declarativo de Google que sirve para que los agentes envíen mensajes al frontend. Es un lenguaje declarativo de Jason que utiliza su Vesco Pilot kit, es decir, a GUI, para poder transformar ese lenguaje de Jason en un frontend, en la parte nativa del frontend que estoy usando. Por ahora soporta solamente JavaScript, pero va a soportar Angular, React y, finalmente todos los lenguajes de frontend que conocemos basados en NS. Lo importante es que este lenguaje declarativo cambia en función de lo que uno le dice a la gente. Vamos entonces a entrar acá. Le podemos decir, qué sé yo, que haga un saludo. Ahí generó un saludo. Lo podemos personalizar. Hola, ¿qué tal? Pero también le podemos decir hace un botón con fondo naranja que diga hola. Y ahí le estamos pidiendo que nos haga un botón con fondo naranja que diga hola. Ahí, fíjense que cree el le enviamos un mensaje a la gente, el agente genera ese lenguaje declarativo de Jason, lo transforma al lenguaje del frontend a través de GUI. Y acá lo estamos viendo. Fíjense que acá le hacemos clic y aparece un alert. E le vamos a poner acá cambiar"
 resource: "https://www.youtube.com/watch?v=bKzi4FmcUwQ"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:55.269Z" }
+category: "software_web_dev"
+category_confidence: 0.53
+has_code_demo: false
+difficulty_score: 0.8
+tags: ["software_web_dev"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:19:51.831Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** software_web_dev (confianza: 53%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.8 / 3.0
 - **Publicado el:** 2 de enero de 2026
 - **Duración:** 01:53
 - **Vistas:** 7 | **Likes:** 1

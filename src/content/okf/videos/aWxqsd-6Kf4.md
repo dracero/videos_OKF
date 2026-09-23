@@ -4,13 +4,17 @@ title: "grapRAG"
 description: ""
 transcript_summary: "qué tenemos acá acá tenemos un grafo que está armado es un una forma estructurada con una topología de nodos y vértices Armada a partir de un texto no estructurado Cuál es el texto no estructurado que nosotros elegimos es este de la doble diplomatura con Francia todo este texto que se ve acá que explica todas las frequently as question que los alumnos hacen cuando quieren aplicar para la doble diplomatura con Francia fue convertido con algoritmos de neo4j en un grafo Qué importancia tiene que se haya puesto en un grafo bien primero que hay una estructura jerárquica dentro de cada uno de los nodos cuando se hace la búsqueda en cambio de ser una búsqueda puramente en base de acto se hace primero la búsqueda a través de los nodos como Busca el camino más corto o el mejor camino un algoritmo de red bien igualmente se busca la mejor respuesta a través del texto en los nodos pero después cada uno de esos textos tienen beddings con los cual con los cuales se pueden hacer búsquedas vectoriales como la que habíamos visto antes Para qué sirve todo esto esto sirve porque yo lo que puedo hacer es"
 resource: "https://www.youtube.com/watch?v=aWxqsd-6Kf4"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:30.773Z" }
+category: "rag_and_agents"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 1.22
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:22:35.159Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
 published_at: "2024-09-22T00:46:33Z"
-view_count: 34
+view_count: 35
 like_count: 0
 comment_count: 0
 duration: "06:32"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,9 +43,12 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** rag_and_agents (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 1.2 / 3.0
 - **Publicado el:** 21 de septiembre de 2024
 - **Duración:** 06:32
-- **Vistas:** 34 | **Likes:** 0
+- **Vistas:** 35 | **Likes:** 0
 
 ## Descripción
 Sin descripción.

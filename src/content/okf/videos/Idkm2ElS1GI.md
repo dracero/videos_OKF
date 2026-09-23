@@ -4,8 +4,12 @@ title: "Asistente Experto en Física"
 description: ""
 transcript_summary: "Buenas, hoy nos metemos de lleno a desarmar, pieza por pieza, cómo funciona un asistente de inteligencia artificial, que a diferencia de otros no sabe un poquito de todo, sino que es un verdadero bocho en un solo tema, la física. A ver, la pregunta del millón es, ¿cómo hace una para ser tan capa en un solo tema? O sea, ¿cómo resona para no mandarse cualquiera y darnos la posta? Bueno, les adelanto que no es magia, eh, hay todo un proceso atrás muy bien pensado que ahora vamos a recorrer juntos. Primero, lo primero, no estamos hablando de una IA de las comunes de esas que buscan en todo internet. No, no, esto es otra cosa. Es un especialista, una mente totalmente enfocada y entrenada para un solo laburo. Veamos bien de qué se trata. Miren, este asistente de física tiene una regla de oro, una sola. solo puede usar la información que le dieron de comer. Su universo de conocimiento son, por decir algo, los manuales y apuntes de una materia de la FACU. Nada de Wikipedia, nada de foros, nada de redes sociales, solo fuentes recontrachequeadas. Y entonces, ¿cómo se arma esa base de conocimiento? Bueno, imaginen que"
 resource: "https://www.youtube.com/watch?v=Idkm2ElS1GI"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:00.789Z" }
+category: "rag_and_agents"
+category_confidence: 0.87
+has_code_demo: false
+difficulty_score: 0.19
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:20:02.250Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** rag_and_agents (confianza: 87%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.2 / 3.0
 - **Publicado el:** 25 de septiembre de 2025
 - **Duración:** 06:59
 - **Vistas:** 30 | **Likes:** 1

@@ -4,8 +4,12 @@ title: "video3"
 description: "Usando Wit.ai, video3"
 transcript_summary: "bueno y ahora que ya empezamos con el entrenamiento de nuestro sistema de lv de nuestra red neuronal lo que yo quiero es mostrárselos en acción volvamos al problema hagamos de cuenta que un alumno lo ve y dice bueno que me piden hallar la distancia horizontal y la altura máxima de un móvil que parte con una velocidad inicial y un ángulo de inclinación entonces acá ponemos tengo que hallar tengo que hacer la distancia y la distancia horizontal y la dura máxima de un cuerpo que parte con una velocidad inicial que tiene un ángulo d nació fíjense como el sistema de texto o sea el sistema de lv que ya está entrenado por eso acá dice training complete está entrenado para este problema detecto la variante que no tiene nada que ver con la que habíamos escrito originalmente fíjense que aparece así está hablando de una velocidad inicial con un ángulo de inclinación definitivamente el intento es cinemática fíjense qué dice hay un 88 por ciento de probabilidad de que esté hablando de dentro del indec cinemática de un tiro oblicuo y estoy 100% seguro que son coordenadas cartesianas falta obviamente que lo entreguemos falta que ustedes me pasen más problemas"
 resource: "https://www.youtube.com/watch?v=I17oa2ABaU4"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:15.007Z" }
+category: "nlp_transformers"
+category_confidence: 0.65
+has_code_demo: false
+difficulty_score: 0.98
+tags: ["nlp_transformers"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:17:19.577Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** nlp_transformers (confianza: 65%)
+- **Código en vivo:** No
+- **Nivel técnico:** 1.0 / 3.0
 - **Publicado el:** 17 de septiembre de 2021
 - **Duración:** 02:47
 - **Vistas:** 16 | **Likes:** 0

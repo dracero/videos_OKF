@@ -2,10 +2,13 @@
 type: YouTube Video
 title: "2023 11 20 15 34 03"
 description: "Detectando con yoloNAS"
-transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=fwy7F9wiEj8"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:39.933Z" }
+category: "computer_vision"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 0.54
+tags: ["computer_vision"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:25:37.511Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +22,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +42,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** computer_vision (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.5 / 3.0
 - **Publicado el:** 20 de noviembre de 2023
 - **Duración:** 00:19
 - **Vistas:** 8 | **Likes:** 0

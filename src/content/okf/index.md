@@ -2,16 +2,16 @@
 type: Root Index
 title: "Diego Racero YouTube Catalog"
 description: "Catálogo completo de canales y videos de Diego Racero en YouTube, estructurado bajo el formato OKF."
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:12:06.509Z" }
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:26:30.169Z" }
 verified: machine-confirmed
 status: current
 total_channels: 4
-total_videos: 386
+total_videos: 391
 sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
 ---
 
 # Catálogo de YouTube de Diego Racero (dracero@fi.uba.ar)
@@ -19,10 +19,10 @@ sources:
 Bienvenido al catálogo de contenido educativo y tecnológico de **Diego Racero** en YouTube, estructurado bajo el estándar abierto **Open Knowledge Format (OKF)**.
 
 ## Canales Incluidos
-- [Diego Racero](./channels/UCx1KkYmHhghhGFgA7VP2aWQ.md) (@diegoracero) - 36 videos
-- [Diego Racero](./channels/UCmyMY4FLYPYoO1IZhZPqc3w.md) (@diegoracero6447) - 96 videos
 - [Diego Racero](./channels/UCDs8wbm1jczac3UNYIAVxZg.md) (@diegoracero1263) - 15 videos
-- [DiegoTestDireco](./channels/UCbSbKX3V4J28e4iJtulgEQA.md) (@diegotestdireco3494) - 229 videos
+- [Diego Racero](./channels/UCmyMY4FLYPYoO1IZhZPqc3w.md) (@diegoracero6447) - 96 videos
+- [Diego Racero](./channels/UCx1KkYmHhghhGFgA7VP2aWQ.md) (@diegoracero) - 36 videos
+- [DiegoTestDireco](./channels/UCbSbKX3V4J28e4iJtulgEQA.md) (@diegotestdireco3494) - 234 videos
 
 ## Última Actualización
-Sincronizado exitosamente desde la API de YouTube el 13/8/2026, 19:12:06.
+Sincronizado exitosamente desde la API de YouTube el 23/9/2026, 20:26:30.

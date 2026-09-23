@@ -4,8 +4,12 @@ title: "RAG_Multimodal"
 description: ""
 transcript_summary: "vamos a ver un ejemplo de rack multimodal con gemini Por qué rack multimodal Porque en cambio de poner en el promt un texto vamos a hacer de PR vamos a usar como prom una imagen por qué Porque gemini es un lmm es un large multimodal model esto que te voy a mostrar Ya lo tenemos funcionando y ya están trabajando los chicos becarios en hacer una ap de backend ahí capturé la imagen ahora esa imagen que capturé voy a venir a mi código y la voy a subir desde e el disco acá voy a ir a copiar en la ruta de acceso y eh en el prompt lo que le voy a poner es la ruta de esa imagen Y le voy a decir que describa la imagen en español eh en forma lo más detallada posible y con ecuaciones entonces acá hago correr esto acá ejecuté todo un proceso más complejo que va a buscar al vector Store y demás Pero bueno eso simplemente qué hice en cambio de ingresar un texto lo que ingreso es una imagen y le pido que describa esa imagen con el mayor detalle posible y acá voy a usar gemina 1.5"
 resource: "https://www.youtube.com/watch?v=C58aCRc3Th0"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:25.878Z" }
+category: "rag_and_agents"
+category_confidence: 1
+has_code_demo: true
+difficulty_score: 0.97
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:21:58.520Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** rag_and_agents (confianza: 100%)
+- **Código en vivo:** Sí
+- **Nivel técnico:** 1.0 / 3.0
 - **Publicado el:** 21 de noviembre de 2024
 - **Duración:** 02:13
 - **Vistas:** 3 | **Likes:** 0

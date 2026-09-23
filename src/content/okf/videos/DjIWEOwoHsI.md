@@ -4,8 +4,12 @@ title: "Video_1_chatbot"
 description: ""
 transcript_summary: "vamos a ver cómo es que empieza todo para la creación del champú todo empieza con una pregunta vamos a hacer esta pregunta basada en un problema de la guía que es el en el cilindro que rueda en un caño que tiene mitad de rozamiento y mitad no como no está atado a una representación específica vamos a intentar hacer la pregunta de la forma lo más general posible para que en realidad se aplique para el cilindro o para cualquier otra superficie que tenga la característica qué parte tiene rozamiento y parte no la pregunta es qué pasa cuando el cuerpo rígido está rodando sin deslizar y en la superficie sobre la cual se mueve el índice de rozamiento se hace cero inspirado en ese problema pero genérico esta es la pregunta así es donde es como yo imagino que podría llegar a preguntarlo un alumno a partir de esa pregunta yo voy a estructurar una respuesta en un movimiento de roto traslación el cuerpo rígido necesita que exista rozamiento para poder rodar sin deslizar entonces esto de acá este esta parte de acá que dice que necesita que exista rozamiento para poder rodar sin deslizar le vamos a"
 resource: "https://www.youtube.com/watch?v=DjIWEOwoHsI"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:08.156Z" }
+category: "physics_and_math"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 1.17
+tags: ["physics_and_math"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:17:05.791Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** physics_and_math (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 1.2 / 3.0
 - **Publicado el:** 9 de junio de 2022
 - **Duración:** 05:04
 - **Vistas:** 30 | **Likes:** 0

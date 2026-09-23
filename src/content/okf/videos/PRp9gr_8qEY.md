@@ -4,8 +4,12 @@ title: "MCP_Server2"
 description: ""
 transcript_summary: "Acá podemos ver como iterativamente ingresó a los archivos que estaban en el directorio, utilizó la conexión a la página donde estaba la documentación, o sea, que es documentación actualizada y escribió lo que hace, lo describió lo que hace cada uno de estos elementos. Si yo acá le doy keep, esto lo mantiene y entonces lo que hace ahora es describe basado en la documentación actualizada lo que hace cada uno de esos elementos o lo que hace cada uno de esos componentes. Ahora nosotros queremos que esto sea enviado, se cree una página en confluence que tenga esta documentación. Entonces le vamos a decir como yo también tengo en los MCP Servers, el MCP Server de Atlacia, le vamos a decir si podés crear con la información del ritmi. una página en confluence llamada A2 a client. Entonces ahí le pedimos que utilizando ese MCP server de Atlasian, fíjense como ahí empieza a conectarse a Atlasian a través del MSP Server. Le pedimos que usando SMSP Server toda esta documentación que es documentación hecha con Agentic Rag y que está eh totalmente actualizada y basada también en lo que hace nuestro programa, la ponga en Atlasian. Entonces ahí está creando,"
 resource: "https://www.youtube.com/watch?v=PRp9gr_8qEY"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:06.157Z" }
+category: "rag_and_agents"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 1.13
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:20:37.413Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** rag_and_agents (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 1.1 / 3.0
 - **Publicado el:** 20 de julio de 2025
 - **Duración:** 04:07
 - **Vistas:** 5 | **Likes:** 0

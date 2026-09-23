@@ -2,10 +2,13 @@
 type: YouTube Video
 title: "pucks_1"
 description: ""
-transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=M9iya2qWiNk"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:42.828Z" }
+category: "general_institutional"
+category_confidence: 0.62
+has_code_demo: false
+difficulty_score: 0.02
+tags: ["general_institutional"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:25:42.397Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +22,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +42,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** general_institutional (confianza: 62%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.0 / 3.0
 - **Publicado el:** 11 de noviembre de 2023
 - **Duración:** 00:03
 - **Vistas:** 144 | **Likes:** 0

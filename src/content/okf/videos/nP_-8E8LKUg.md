@@ -4,8 +4,12 @@ title: "clideo elasctica_viscosa"
 description: ""
 transcript_summary: "Hola y bienvenidos a esta exploración. Hoy vamos a meternos con eh dos tipos de fuerzas clave que explican cómo se comportan los materiales y los fluidos. Hablamos de las fuerzas elásticas, esas que hacen que las cosas vuelvan a su sitio, y por otro lado las que, bueno, las que se oponen al movimiento como el rozamiento o la viscosidad. Nos basamos en varios textos de física, desde dinámica básica hasta hidrodinámica. La idea es eh entender bien qué son y en qué se diferencian. Exacto. Vamos a ver por qué algunos materiales parecen tener memoria y recuperan su forma y cómo otros fenómenos actúan más bien como un freno disipando energía. Es importante pillar esa diferencia. Perfecto. Pues empecemos por la elasticidad. ¿Qué significa exactamente que un medio sea elástico? Suena a goma, pero imagino que es más general. Sí, mucho más. un medio elástico, eh, es uno que se deforma si le aplicas una fuerza. ¿Vale? Pero lo interesante es que primero la deformación suele ser proporcional a esa fuerza y segundo, y esto es lo crucial, recupera su forma original en cuanto quitas la fuerza. Piensa en gases o en muchos sólidos, no solo las gomas."
 resource: "https://www.youtube.com/watch?v=nP_-8E8LKUg"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:05.167Z" }
+category: "physics_and_math"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 0.08
+tags: ["physics_and_math"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:20:24.332Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** physics_and_math (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.1 / 3.0
 - **Publicado el:** 27 de julio de 2025
 - **Duración:** 05:33
 - **Vistas:** 40 | **Likes:** 1

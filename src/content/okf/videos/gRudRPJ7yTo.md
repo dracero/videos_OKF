@@ -4,8 +4,12 @@ title: "Tutor-Virtual"
 description: ""
 transcript_summary: "Bueno, vamos a ver el funcionamiento de un tutor virtual. Hola, ¿cómo estás? Eh, bien. Mira, ¿me podés decir de qué color y qué es lo que estoy sosteniendo en la mano? Eh, sí. ¿Qué es? Eh, no, no, no. Te pregunté que qué es qué es lo que tengo en la mano. Sí, quiero ver si podés resolver un problema de física o me ayudas. ¿Ves acá el problema 28? A este dispositivo cómo se lo llama. Sí. Yo quiero que me digas si durante el choque se conserva la el vector cantidad de movimiento, es decir, en el eje vertical y en el eje horizontal. Ah, perfecto. O sea, que de plantear la conservación de la cantidad de movimiento durante el choque, solamente lo puedo hacer en el sentido horizontal. Eh, sí. ¿Cómo puedo hacer para hallar la velocidad? Eh, ¿qué qué? sem. No, no, perfecto, ya me voy dando cuenta. Te agradezco muchísimo."
 resource: "https://www.youtube.com/watch?v=gRudRPJ7yTo"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:59.808Z" }
+category: "physics_and_math"
+category_confidence: 0.84
+has_code_demo: false
+difficulty_score: 0.49
+tags: ["physics_and_math"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:19:59.528Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** physics_and_math (confianza: 84%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.5 / 3.0
 - **Publicado el:** 27 de octubre de 2025
 - **Duración:** 02:59
 - **Vistas:** 6 | **Likes:** 0

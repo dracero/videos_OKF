@@ -2,10 +2,13 @@
 type: YouTube Video
 title: "2024 02 26 16 12 16"
 description: "Video de RL"
-transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=jIblug417gg"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:09:59.871Z" }
+category: "general_institutional"
+category_confidence: 0.3
+has_code_demo: false
+difficulty_score: 0.26
+tags: ["general_institutional"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:16:47.479Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +22,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +42,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** general_institutional (confianza: 30%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.3 / 3.0
 - **Publicado el:** 26 de febrero de 2024
 - **Duración:** 09:51
 - **Vistas:** 18 | **Likes:** 1

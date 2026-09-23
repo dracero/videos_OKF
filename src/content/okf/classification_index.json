@@ -1,0 +1,3130 @@
+{
+  "-kX0nF6kBDw": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.99,
+    "hasCode": true,
+    "difficultyScore": 0.93,
+    "title": "video1192578223",
+    "classifiedAt": "2026-09-23T19:42:05.315Z"
+  },
+  "-rKLhB93dQs": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.85,
+    "title": "mcp",
+    "classifiedAt": "2026-09-23T19:42:05.344Z"
+  },
+  "-EydMnNrRWg": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.41,
+    "title": "memoria_NAMS",
+    "classifiedAt": "2026-09-23T19:42:05.349Z"
+  },
+  "0HhMJbIi0pY": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.84,
+    "title": "parte3",
+    "classifiedAt": "2026-09-23T19:42:05.683Z"
+  },
+  "0SP2dUB51z8": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.73,
+    "title": "finalizandoNLU",
+    "classifiedAt": "2026-09-23T19:42:06.065Z"
+  },
+  "14TgDkhFQHA": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 1.3,
+    "title": "De Prompts a Harness",
+    "classifiedAt": "2026-09-23T19:42:06.066Z"
+  },
+  "0mG3clFMw_c": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.46,
+    "hasCode": false,
+    "difficultyScore": 1.37,
+    "title": "TFI_Video_2_Nuevo",
+    "classifiedAt": "2026-09-23T19:42:06.068Z"
+  },
+  "0oA6vxjFsGc": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.48,
+    "hasCode": false,
+    "difficultyScore": 0.31,
+    "title": "Jira-Video2",
+    "classifiedAt": "2026-09-23T19:42:06.069Z"
+  },
+  "19sCr-sJezk": {
+    "category": "software_web_dev",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.36,
+    "title": "Como hostear tu página WEB Gratis",
+    "classifiedAt": "2026-09-23T19:42:06.383Z"
+  },
+  "1KjguOv738c": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.97,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "Película_0001.wmv",
+    "classifiedAt": "2026-09-23T19:42:06.395Z"
+  },
+  "20ovgHEmoew": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.42,
+    "title": "RAG_Agentico_En_Accion",
+    "classifiedAt": "2026-09-23T19:42:06.400Z"
+  },
+  "16w_CbeIzAk": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.47,
+    "title": "Agentes_Jerárquicos",
+    "classifiedAt": "2026-09-23T19:42:06.403Z"
+  },
+  "2GqM45fZ0NI": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.9,
+    "hasCode": true,
+    "difficultyScore": 1.13,
+    "title": "Video3",
+    "classifiedAt": "2026-09-23T19:42:06.674Z"
+  },
+  "21VvpGdvB5Y": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.33,
+    "hasCode": true,
+    "difficultyScore": 1.11,
+    "title": "Custom_RL_Video2",
+    "classifiedAt": "2026-09-23T19:42:06.745Z"
+  },
+  "2GG9Vgr76ZY": {
+    "category": "home_automation_iot",
+    "categoryConfidence": 0.66,
+    "hasCode": false,
+    "difficultyScore": 1.21,
+    "title": "CreandoAppConAstro_1_1",
+    "classifiedAt": "2026-09-23T19:42:06.754Z"
+  },
+  "2hCa98mF7sw": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.36,
+    "title": "parte4",
+    "classifiedAt": "2026-09-23T19:42:06.765Z"
+  },
+  "2xpIPBpnezE": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "Transmisión en directo de DiegoTestDireco",
+    "classifiedAt": "2026-09-23T19:42:07.144Z"
+  },
+  "358Qm5KGKqQ": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.76,
+    "title": "2024 11 16 22 17 06",
+    "classifiedAt": "2026-09-23T19:42:07.248Z"
+  },
+  "2utLINfHNfw": {
+    "category": "home_automation_iot",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.42,
+    "title": "HA_video3",
+    "classifiedAt": "2026-09-23T19:42:19.370Z"
+  },
+  "3D-zQk-9rfw": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "2023 11 18 22 05 27",
+    "classifiedAt": "2026-09-23T19:42:19.428Z"
+  },
+  "3XqejUi2R4U": {
+    "category": "general_institutional",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "Video de Bienvenida con Sonido de Módem",
+    "classifiedAt": "2026-09-23T19:42:19.788Z"
+  },
+  "3do8yA4ipUc": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.39,
+    "hasCode": true,
+    "difficultyScore": 1.44,
+    "title": "2023 12 30 17 01 33",
+    "classifiedAt": "2026-09-23T19:42:19.810Z"
+  },
+  "3UTabO8uSlY": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "Relevamos tus necesidades, fijamos objetivos",
+    "classifiedAt": "2026-09-23T19:42:19.829Z"
+  },
+  "3QjTb_Nn4qY": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.44,
+    "hasCode": false,
+    "difficultyScore": 0.43,
+    "title": "Reunión Chatbot Administrativo 2021 09 15 at 15 02 GMT 7",
+    "classifiedAt": "2026-09-23T19:42:19.842Z"
+  },
+  "4NM3uQNxTp8": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.97,
+    "hasCode": false,
+    "difficultyScore": 1.36,
+    "title": "TFI_Video1_V2",
+    "classifiedAt": "2026-09-23T19:42:20.137Z"
+  },
+  "4eNRybNTb8c": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.03,
+    "title": "leccion",
+    "classifiedAt": "2026-09-23T19:42:20.176Z"
+  },
+  "3qYmNiM1pg8": {
+    "category": "computer_vision",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "roboflow_images",
+    "classifiedAt": "2026-09-23T19:42:20.235Z"
+  },
+  "4UcQiRChACM": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.98,
+    "title": "Clase practica Física I, curso SP1 2021 07 15 at 15 36 GMT 7",
+    "classifiedAt": "2026-09-23T19:42:20.308Z"
+  },
+  "4ntNLPefuuM": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "in stream",
+    "classifiedAt": "2026-09-23T19:42:20.675Z"
+  },
+  "4t0AI9Hbvic": {
+    "category": "software_web_dev",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "Curso de desarrollador Front End",
+    "classifiedAt": "2026-09-23T19:42:20.705Z"
+  },
+  "4iZ3wUsdlzA": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.3,
+    "hasCode": true,
+    "difficultyScore": 1.17,
+    "title": "redNeuronal2",
+    "classifiedAt": "2026-09-23T19:42:20.771Z"
+  },
+  "4iPcXim8RsM": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 1.15,
+    "title": "Busqueda usando similaridad de coseno.",
+    "classifiedAt": "2026-09-23T19:42:20.837Z"
+  },
+  "5Frl1pvFvXQ": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.61,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "SCRUM and JIRA",
+    "classifiedAt": "2026-09-23T19:42:21.253Z"
+  },
+  "5PekTHPPqCk": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.99,
+    "title": "Clase Parte 1",
+    "classifiedAt": "2026-09-23T19:42:21.342Z"
+  },
+  "56_hiMmt5sk": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "podcas_efecto_Doppler",
+    "classifiedAt": "2026-09-23T19:42:21.346Z"
+  },
+  "5WiDO9R8MkQ": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.96,
+    "title": "Física I Diego Racero video 3",
+    "classifiedAt": "2026-09-23T19:42:21.463Z"
+  },
+  "5pn1bIVLP2A": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.61,
+    "title": "Jul 18 2018 10 42 AM",
+    "classifiedAt": "2026-09-23T19:42:21.790Z"
+  },
+  "6BzcS6qmkrw": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.98,
+    "hasCode": true,
+    "difficultyScore": 1.23,
+    "title": "2025 05 16 20 53 15",
+    "classifiedAt": "2026-09-23T19:42:21.801Z"
+  },
+  "5ugLDpkzFeI": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.92,
+    "hasCode": true,
+    "difficultyScore": 0.97,
+    "title": "2023 09 16 21 10 52",
+    "classifiedAt": "2026-09-23T19:42:21.876Z"
+  },
+  "64Re1CU9rXs": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.97,
+    "hasCode": false,
+    "difficultyScore": 0.05,
+    "title": "dfsav",
+    "classifiedAt": "2026-09-23T19:42:22.416Z"
+  },
+  "78Xi9pzRJ6Y": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "Transmisión en directo de Diego Racero",
+    "classifiedAt": "2026-09-23T19:42:22.736Z"
+  },
+  "6PjeEMH8C_U": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.6,
+    "hasCode": false,
+    "difficultyScore": 0.99,
+    "title": "voice_RAG",
+    "classifiedAt": "2026-09-23T19:42:22.746Z"
+  },
+  "6t5LNmqPMY8": {
+    "category": "computer_vision",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.31,
+    "title": "detecction_caida",
+    "classifiedAt": "2026-09-23T19:42:22.754Z"
+  },
+  "6Hj4YjSeLq8": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.03,
+    "title": "Diego Racero video 2",
+    "classifiedAt": "2026-09-23T19:42:22.757Z"
+  },
+  "7akercfdKxM": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.06,
+    "title": "clideo editor kineamtics",
+    "classifiedAt": "2026-09-23T19:42:23.082Z"
+  },
+  "7gH0MYe5vyU": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.11,
+    "title": "graph_cipher",
+    "classifiedAt": "2026-09-23T19:42:23.113Z"
+  },
+  "7BMUhWkbfIg": {
+    "category": "general_institutional",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "Transmisión de prueba desde el laboratorio",
+    "classifiedAt": "2026-09-23T19:42:23.123Z"
+  },
+  "7PhcEGxTKVg": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.33,
+    "hasCode": false,
+    "difficultyScore": 0.06,
+    "title": "Looker",
+    "classifiedAt": "2026-09-23T19:42:23.396Z"
+  },
+  "7hCIRgAs8pA": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.89,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "edit",
+    "classifiedAt": "2026-09-23T19:42:23.677Z"
+  },
+  "8FCMRmlNp_M": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.03,
+    "title": "Transmisión en directo de DiegoTestDireco",
+    "classifiedAt": "2026-09-23T19:42:23.702Z"
+  },
+  "88MXI3Rlyd8": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.97,
+    "title": "Clase practica Física I, curso SP1 2021 06 24 at 15 16 GMT 7",
+    "classifiedAt": "2026-09-23T19:42:23.783Z"
+  },
+  "7oqMk4dt63I": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.39,
+    "hasCode": false,
+    "difficultyScore": 0.54,
+    "title": "Auditoría Educativa con IA",
+    "classifiedAt": "2026-09-23T19:42:23.835Z"
+  },
+  "8HGgeVSXanE": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.22,
+    "title": "Resolución de parcial 21 de Abril video 2",
+    "classifiedAt": "2026-09-23T19:42:24.194Z"
+  },
+  "8U3F-AlKHY8": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 1.15,
+    "title": "parte 1",
+    "classifiedAt": "2026-09-23T19:42:24.215Z"
+  },
+  "8N4pPdqCcIc": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.35,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "app_asistente",
+    "classifiedAt": "2026-09-23T19:42:24.255Z"
+  },
+  "97pq2OZjk_w": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 1.31,
+    "title": "Autogen_video1",
+    "classifiedAt": "2026-09-23T19:42:24.263Z"
+  },
+  "9bYF37lwVjE": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.41,
+    "title": "clideo editor dinamica rigido",
+    "classifiedAt": "2026-09-23T19:42:24.622Z"
+  },
+  "9PG3Q55lIiw": {
+    "category": "computer_vision",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 1.74,
+    "title": "2023 09 16 20 03 20",
+    "classifiedAt": "2026-09-23T19:42:24.667Z"
+  },
+  "9CpWAE1Ncds": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.93,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "Jul 18 2018 10 34 AM",
+    "classifiedAt": "2026-09-23T19:42:24.691Z"
+  },
+  "9RXlU83KTdI": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.83,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "RL_video_1",
+    "classifiedAt": "2026-09-23T19:42:24.712Z"
+  },
+  "A8e9qxP54zQ": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.49,
+    "hasCode": false,
+    "difficultyScore": 1.39,
+    "title": "tutor_socratico_Video2",
+    "classifiedAt": "2026-09-23T19:42:25.066Z"
+  },
+  "A1ej1P0liy8": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.39,
+    "title": "entrenando3",
+    "classifiedAt": "2026-09-23T19:42:25.067Z"
+  },
+  "9y0zXub9bak": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.99,
+    "hasCode": true,
+    "difficultyScore": 1.31,
+    "title": "qwen_artifcats_bolt",
+    "classifiedAt": "2026-09-23T19:42:25.095Z"
+  },
+  "9lRV_vQJv3s": {
+    "category": "general_institutional",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "Transmisión en directo",
+    "classifiedAt": "2026-09-23T19:42:25.389Z"
+  },
+  "B9oDu1MkEDM": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.15,
+    "title": "mcp_adk_playwright",
+    "classifiedAt": "2026-09-23T19:42:25.750Z"
+  },
+  "AhXnmitk2CU": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.83,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "entrenando1",
+    "classifiedAt": "2026-09-23T19:42:25.847Z"
+  },
+  "B93bn8q-74A": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.97,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "Y que tu marca sea popular",
+    "classifiedAt": "2026-09-23T19:42:25.869Z"
+  },
+  "AHkqmLiL3Do": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.18,
+    "hasCode": false,
+    "difficultyScore": 1.01,
+    "title": "Custo_RL_Video1",
+    "classifiedAt": "2026-09-23T19:42:26.143Z"
+  },
+  "BMc2MaHKwcw": {
+    "category": "computer_vision",
+    "categoryConfidence": 0.37,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "speak_agent",
+    "classifiedAt": "2026-09-23T19:42:26.420Z"
+  },
+  "BkhigjZjU-I": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.97,
+    "hasCode": false,
+    "difficultyScore": 1.85,
+    "title": "modo_socratico",
+    "classifiedAt": "2026-09-23T19:42:26.549Z"
+  },
+  "C58aCRc3Th0": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 1.14,
+    "title": "RAG_Multimodal",
+    "classifiedAt": "2026-09-23T19:42:26.653Z"
+  },
+  "Bp-3qLGb0vU": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.91,
+    "hasCode": true,
+    "difficultyScore": 1.06,
+    "title": "cmp_playwright",
+    "classifiedAt": "2026-09-23T19:42:26.682Z"
+  },
+  "C8mGxbqU1Ts": {
+    "category": "computer_vision",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.15,
+    "title": "imageSimilarity",
+    "classifiedAt": "2026-09-23T19:42:26.985Z"
+  },
+  "CImCnqJ_Flk": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.77,
+    "hasCode": false,
+    "difficultyScore": 0.86,
+    "title": "writer_video1",
+    "classifiedAt": "2026-09-23T19:42:27.015Z"
+  },
+  "C_xg4sWQl9s": {
+    "category": "software_web_dev",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "Dónde comenzar a aprender HTML, CSS, JS, MongoDN, NodeJS, Golang y Python",
+    "classifiedAt": "2026-09-23T19:42:27.074Z"
+  },
+  "CdGjTvHTjE0": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "MOODLE TestDirecto",
+    "classifiedAt": "2026-09-23T19:42:27.192Z"
+  },
+  "D-BhEDady8k": {
+    "category": "general_institutional",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.18,
+    "title": "Museo",
+    "classifiedAt": "2026-09-23T19:42:27.482Z"
+  },
+  "DLuQdP5mdFQ": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "2022 07 05 18 39 40",
+    "classifiedAt": "2026-09-23T19:42:27.484Z"
+  },
+  "D8HATcLrUYw": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.12,
+    "title": "Taller De Cuestionarios Y Notas 1",
+    "classifiedAt": "2026-09-23T19:42:27.543Z"
+  },
+  "DQcYrwY_zVM": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.96,
+    "hasCode": true,
+    "difficultyScore": 1.08,
+    "title": "frontend_langflow",
+    "classifiedAt": "2026-09-23T19:42:27.556Z"
+  },
+  "DmR4bemnMas": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.61,
+    "hasCode": false,
+    "difficultyScore": 0.05,
+    "title": "pucks_2",
+    "classifiedAt": "2026-09-23T19:42:27.842Z"
+  },
+  "DjIWEOwoHsI": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 1.03,
+    "title": "Video_1_chatbot",
+    "classifiedAt": "2026-09-23T19:42:27.845Z"
+  },
+  "DfYbXeq-xZw": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.9,
+    "hasCode": true,
+    "difficultyScore": 1.57,
+    "title": "2025 07 12 21 22 10",
+    "classifiedAt": "2026-09-23T19:42:27.847Z"
+  },
+  "Dko8ea1lD0o": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "Instructivo página de asignatura 2",
+    "classifiedAt": "2026-09-23T19:42:27.895Z"
+  },
+  "E4H7inCDPxc": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "2022 04 26 14 51 49",
+    "classifiedAt": "2026-09-23T19:42:28.198Z"
+  },
+  "E-cYsQdMNnk": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 1.64,
+    "title": "rag_agentico",
+    "classifiedAt": "2026-09-23T19:42:28.240Z"
+  },
+  "DrEVfMwBzcE": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.78,
+    "hasCode": false,
+    "difficultyScore": 0.93,
+    "title": "Gemini_2-0",
+    "classifiedAt": "2026-09-23T19:42:28.241Z"
+  },
+  "EEzIF6jA4oE": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.85,
+    "hasCode": false,
+    "difficultyScore": 0.91,
+    "title": "chatbot_01",
+    "classifiedAt": "2026-09-23T19:42:28.246Z"
+  },
+  "ELD6oJ4CI40": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.97,
+    "hasCode": false,
+    "difficultyScore": 1.13,
+    "title": "2024 12 07 21 56 22",
+    "classifiedAt": "2026-09-23T19:42:28.599Z"
+  },
+  "FE6z2_TWixA": {
+    "category": "software_web_dev",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "miro_wireframing",
+    "classifiedAt": "2026-09-23T19:42:28.644Z"
+  },
+  "EYKCV-QCQCI": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.81,
+    "title": "custom_MCP_Server",
+    "classifiedAt": "2026-09-23T19:42:28.654Z"
+  },
+  "Ew_BV8P5zRU": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.92,
+    "hasCode": true,
+    "difficultyScore": 0.83,
+    "title": "Intrucciones",
+    "classifiedAt": "2026-09-23T19:42:28.725Z"
+  },
+  "FaJ5IhQa65E": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.13,
+    "title": "Clase practica Física I, curso SP1 2020 11 19 at 14 19 GMT 8",
+    "classifiedAt": "2026-09-23T19:42:29.054Z"
+  },
+  "FhLTpOzIVyo": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.03,
+    "title": "Asistencias",
+    "classifiedAt": "2026-09-23T19:42:29.055Z"
+  },
+  "FGtv1-qwDN8": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.07,
+    "title": "clideo editor dinamica",
+    "classifiedAt": "2026-09-23T19:42:29.105Z"
+  },
+  "FRBUgr9zVPw": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.25,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "Jul 18 2018 10 48 AM",
+    "classifiedAt": "2026-09-23T19:42:29.267Z"
+  },
+  "FnM9WyeSFjo": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "2025 05 23 23 32 22",
+    "classifiedAt": "2026-09-23T19:42:29.566Z"
+  },
+  "GNewR2WHKvw": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.98,
+    "title": "a2a_prueba",
+    "classifiedAt": "2026-09-23T19:42:29.578Z"
+  },
+  "GCk0Hp8jMbY": {
+    "category": "computer_vision",
+    "categoryConfidence": 0.57,
+    "hasCode": true,
+    "difficultyScore": 0.79,
+    "title": "imageToText",
+    "classifiedAt": "2026-09-23T19:42:29.595Z"
+  },
+  "FsJeumz_KOI": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.97,
+    "title": "Clase practica Física I, curso SP1 2020 10 29 at 15 14 GMT 7",
+    "classifiedAt": "2026-09-23T19:42:29.616Z"
+  },
+  "GlKdbvei8QM": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 1.46,
+    "title": "2025 04 11 19 46 16",
+    "classifiedAt": "2026-09-23T19:42:29.953Z"
+  },
+  "Ge0R9yFygKw": {
+    "category": "software_web_dev",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 0.99,
+    "title": "vibe_coding_2",
+    "classifiedAt": "2026-09-23T19:42:29.965Z"
+  },
+  "G_syvdO-ai4": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.89,
+    "hasCode": false,
+    "difficultyScore": 0.18,
+    "title": "2022 05 20 15 09 14",
+    "classifiedAt": "2026-09-23T19:42:31.585Z"
+  },
+  "GYRb9b26Yso": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 1.82,
+    "title": "multimodal_rag_kdbai",
+    "classifiedAt": "2026-09-23T19:42:39.477Z"
+  },
+  "HCK5xblodfc": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.22,
+    "title": "parte1 1traduc",
+    "classifiedAt": "2026-09-23T19:42:39.813Z"
+  },
+  "Gn-6vRm15eQ": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "¿Estas listo...",
+    "classifiedAt": "2026-09-23T19:42:39.904Z"
+  },
+  "GxKV9hZ2bvY": {
+    "category": "computer_vision",
+    "categoryConfidence": 0.84,
+    "hasCode": false,
+    "difficultyScore": 0.87,
+    "title": "fmed_protocolo_video_3",
+    "classifiedAt": "2026-09-23T19:42:39.912Z"
+  },
+  "GycuDKEn970": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.96,
+    "hasCode": false,
+    "difficultyScore": 0.05,
+    "title": "0001 0040",
+    "classifiedAt": "2026-09-23T19:42:40.077Z"
+  },
+  "I42xWHgGRoY": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.8,
+    "title": "Tutor_socratico_Video1",
+    "classifiedAt": "2026-09-23T19:42:40.360Z"
+  },
+  "I4Rq_Yxb6P8": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.04,
+    "title": "2024 10 25 21 01 38",
+    "classifiedAt": "2026-09-23T19:42:40.368Z"
+  },
+  "I17oa2ABaU4": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.65,
+    "hasCode": false,
+    "difficultyScore": 1.01,
+    "title": "video3",
+    "classifiedAt": "2026-09-23T19:42:40.369Z"
+  },
+  "HOjiQjfOJPI": {
+    "category": "general_institutional",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "para descubrir tu vocación",
+    "classifiedAt": "2026-09-23T19:42:40.382Z"
+  },
+  "INKi3l8kiAY": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.62,
+    "hasCode": false,
+    "difficultyScore": 1.27,
+    "title": "Chatbot_02",
+    "classifiedAt": "2026-09-23T19:42:40.669Z"
+  },
+  "I6WMYJzoe04": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "Busc bamos algo bueno y sencillo",
+    "classifiedAt": "2026-09-23T19:42:40.677Z"
+  },
+  "Idkm2ElS1GI": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.83,
+    "hasCode": false,
+    "difficultyScore": 0.03,
+    "title": "Asistente Experto en Física",
+    "classifiedAt": "2026-09-23T19:42:40.731Z"
+  },
+  "IORwOAmTuJo": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "Movimiento Armónico Simple:PodcAST",
+    "classifiedAt": "2026-09-23T19:42:40.744Z"
+  },
+  "J6U5tzrRzs4": {
+    "category": "general_institutional",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "test",
+    "classifiedAt": "2026-09-23T19:42:41.085Z"
+  },
+  "IkJDRwpvso8": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.92,
+    "hasCode": false,
+    "difficultyScore": 0.04,
+    "title": "cursoh2",
+    "classifiedAt": "2026-09-23T19:42:41.177Z"
+  },
+  "J4G5EFSNuTA": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.78,
+    "hasCode": false,
+    "difficultyScore": 0.03,
+    "title": "GoogleDataStudio",
+    "classifiedAt": "2026-09-23T19:42:41.205Z"
+  },
+  "J-ZMHMmQY64": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.92,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "2025 01 07 13 24 32",
+    "classifiedAt": "2026-09-23T19:42:41.207Z"
+  },
+  "JtAZyYaeCEs": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.93,
+    "title": "Clase practica Física I, curso SP1 2020 11 12 at 15 07 GMT 8",
+    "classifiedAt": "2026-09-23T19:42:41.529Z"
+  },
+  "JrJJDWrYt7o": {
+    "category": "home_automation_iot",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.61,
+    "title": "test_voice_asistant",
+    "classifiedAt": "2026-09-23T19:42:41.545Z"
+  },
+  "JbY8cBjQRn4": {
+    "category": "home_automation_iot",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 1.07,
+    "title": "HA_Video4",
+    "classifiedAt": "2026-09-23T19:42:41.547Z"
+  },
+  "J8tBsi4X3r8": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.03,
+    "title": "Concurso",
+    "classifiedAt": "2026-09-23T19:42:41.605Z"
+  },
+  "K0PgJ_Y8t2o": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "test",
+    "classifiedAt": "2026-09-23T19:42:41.917Z"
+  },
+  "K0P6WZEnQiI": {
+    "category": "computer_vision",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.15,
+    "title": "2023 10 21 20 58 03",
+    "classifiedAt": "2026-09-23T19:42:41.919Z"
+  },
+  "K6lXnJxTw4w": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.51,
+    "title": "parte1",
+    "classifiedAt": "2026-09-23T19:42:42.019Z"
+  },
+  "KBw0EumCwrc": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "Colombia Celebra Copa Mundial Fútbol",
+    "classifiedAt": "2026-09-23T19:42:42.079Z"
+  },
+  "Kb7qWbjWkNo": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.6,
+    "hasCode": false,
+    "difficultyScore": 0.58,
+    "title": "2023 04 13 19 22 23",
+    "classifiedAt": "2026-09-23T19:42:42.349Z"
+  },
+  "KXlYQV9jkPo": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.43,
+    "hasCode": false,
+    "difficultyScore": 0.81,
+    "title": "Banco de Bombas",
+    "classifiedAt": "2026-09-23T19:42:42.390Z"
+  },
+  "Kd5L7OxIAGM": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.8,
+    "hasCode": false,
+    "difficultyScore": 0.04,
+    "title": "Uso de Jira",
+    "classifiedAt": "2026-09-23T19:42:42.404Z"
+  },
+  "KqXk419qJFw": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 1.43,
+    "title": "agentic_rag",
+    "classifiedAt": "2026-09-23T19:42:42.446Z"
+  },
+  "Lbl6Lh0BQtY": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.8,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "aethel",
+    "classifiedAt": "2026-09-23T19:42:42.774Z"
+  },
+  "LIHv5hOtFIg": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "Transmisión en directo de Diego Racero",
+    "classifiedAt": "2026-09-23T19:42:42.788Z"
+  },
+  "LDIjrjINOpY": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.5,
+    "hasCode": false,
+    "difficultyScore": 0.04,
+    "title": "Angry Birds short frame",
+    "classifiedAt": "2026-09-23T19:42:42.819Z"
+  },
+  "Lj2pUuo6dAE": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.07,
+    "title": "Clase practica Física I, curso SP1 2021 07 08 at 15 30 GMT 7",
+    "classifiedAt": "2026-09-23T19:42:42.838Z"
+  },
+  "LjSOZAyEc38": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.74,
+    "hasCode": false,
+    "difficultyScore": 0.08,
+    "title": "ParaCEAD",
+    "classifiedAt": "2026-09-23T19:42:43.136Z"
+  },
+  "LjnIBTqHyPY": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.83,
+    "hasCode": false,
+    "difficultyScore": 0.86,
+    "title": "Video 1414874446",
+    "classifiedAt": "2026-09-23T19:42:43.161Z"
+  },
+  "Lz88O4SC99s": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.03,
+    "title": "Transmisión en directo de DiegoTestDireco",
+    "classifiedAt": "2026-09-23T19:42:43.189Z"
+  },
+  "M-CskBvac0c": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.9,
+    "hasCode": false,
+    "difficultyScore": 0.87,
+    "title": "video_7_chatbot",
+    "classifiedAt": "2026-09-23T19:42:43.200Z"
+  },
+  "MUjZhkuxANI": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.72,
+    "title": "rag_legal",
+    "classifiedAt": "2026-09-23T19:42:43.503Z"
+  },
+  "M9iya2qWiNk": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.63,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "pucks_1",
+    "classifiedAt": "2026-09-23T19:42:43.526Z"
+  },
+  "M758qoX_Yp0": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.99,
+    "hasCode": true,
+    "difficultyScore": 1.56,
+    "title": "test_de_histologia",
+    "classifiedAt": "2026-09-23T19:42:43.534Z"
+  },
+  "Mt4VWNfGcv4": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.11,
+    "title": "Presentation",
+    "classifiedAt": "2026-09-23T19:42:43.597Z"
+  },
+  "N0E0uLVHMb0": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.66,
+    "hasCode": false,
+    "difficultyScore": 0.04,
+    "title": "Google_AI_Studio_Build",
+    "classifiedAt": "2026-09-23T19:42:43.921Z"
+  },
+  "MvXk7ZS_cK4": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "2023 10 16 20 42 14",
+    "classifiedAt": "2026-09-23T19:42:43.937Z"
+  },
+  "MtLsm17pd8I": {
+    "category": "software_web_dev",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 1.05,
+    "title": "TDD",
+    "classifiedAt": "2026-09-23T19:42:43.943Z"
+  },
+  "NH-J4DoMFZQ": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.21,
+    "title": "langflow_Simple_Agent",
+    "classifiedAt": "2026-09-23T19:42:43.962Z"
+  },
+  "NU03Fz3pKn4": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 1.69,
+    "title": "AutgenAgenticRAG",
+    "classifiedAt": "2026-09-23T19:42:44.350Z"
+  },
+  "Nta_w1O7HxY": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.83,
+    "hasCode": false,
+    "difficultyScore": 0.13,
+    "title": "2022 07 27 19 02 36",
+    "classifiedAt": "2026-09-23T19:42:44.356Z"
+  },
+  "NfG4muv_TU4": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.54,
+    "hasCode": false,
+    "difficultyScore": 0.4,
+    "title": "skills",
+    "classifiedAt": "2026-09-23T19:42:44.367Z"
+  },
+  "NK0pxBr0aC8": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.77,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "english_practice",
+    "classifiedAt": "2026-09-23T19:42:44.423Z"
+  },
+  "OHrY5_SFpa8": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.71,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "2023 11 22 21 36 21",
+    "classifiedAt": "2026-09-23T19:42:44.723Z"
+  },
+  "OPlVo1JXJrk": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.02,
+    "title": "video1",
+    "classifiedAt": "2026-09-23T19:42:44.726Z"
+  },
+  "NyiVYruGlRA": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 1.76,
+    "title": "2025 05 21 18 46 20",
+    "classifiedAt": "2026-09-23T19:42:44.729Z"
+  },
+  "OLlsXKP1h0E": {
+    "category": "general_institutional",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "Test de Evento",
+    "classifiedAt": "2026-09-23T19:42:44.793Z"
+  },
+  "OkpYuAge4po": {
+    "category": "software_web_dev",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "Jul 15, 2018 8 30 PM",
+    "classifiedAt": "2026-09-23T19:42:45.107Z"
+  },
+  "Otek_q_ERH4": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.6,
+    "hasCode": false,
+    "difficultyScore": 0.04,
+    "title": "Ver estadísticas de Google Analytics y Google Ads con Google Data Studio.",
+    "classifiedAt": "2026-09-23T19:42:45.192Z"
+  },
+  "ObGyiUBVqac": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.95,
+    "hasCode": false,
+    "difficultyScore": 0.32,
+    "title": "video1",
+    "classifiedAt": "2026-09-23T19:42:45.254Z"
+  },
+  "OWykrwOLcKI": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "Las Leyes del Movimiento",
+    "classifiedAt": "2026-09-23T19:42:45.313Z"
+  },
+  "Oy5ch8VR6b0": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.32,
+    "hasCode": false,
+    "difficultyScore": 1.05,
+    "title": "video_2_chatbot",
+    "classifiedAt": "2026-09-23T19:42:45.598Z"
+  },
+  "PLBaAM74dsE": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.9,
+    "hasCode": false,
+    "difficultyScore": 0.14,
+    "title": "RL_test",
+    "classifiedAt": "2026-09-23T19:42:45.598Z"
+  },
+  "PYEBvqG0aH4": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.04,
+    "title": "Física I Diego Racero video 1",
+    "classifiedAt": "2026-09-23T19:42:45.631Z"
+  },
+  "PRp9gr_8qEY": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.64,
+    "title": "MCP_Server2",
+    "classifiedAt": "2026-09-23T19:42:45.831Z"
+  },
+  "PYWPGQhfHx0": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.44,
+    "title": "AutoproctorEnMoodle",
+    "classifiedAt": "2026-09-23T19:42:46.119Z"
+  },
+  "PmExc4IzMss": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.94,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "samiento",
+    "classifiedAt": "2026-09-23T19:42:46.129Z"
+  },
+  "Plj1QIAJ8Xc": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "writer_video3",
+    "classifiedAt": "2026-09-23T19:42:46.137Z"
+  },
+  "PfmYSCPmMnc": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.2,
+    "title": "carrera.mpg",
+    "classifiedAt": "2026-09-23T19:42:46.148Z"
+  },
+  "PmonIS9hDpA": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.83,
+    "hasCode": false,
+    "difficultyScore": 1.44,
+    "title": "A2A-FIUBA",
+    "classifiedAt": "2026-09-23T19:42:46.445Z"
+  },
+  "Q5zx_GxpLaI": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.95,
+    "title": "problemadeslizador",
+    "classifiedAt": "2026-09-23T19:42:46.450Z"
+  },
+  "PperOSmhyeQ": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 0.88,
+    "title": "mcp_server_VS",
+    "classifiedAt": "2026-09-23T19:42:46.469Z"
+  },
+  "PvQYMKVrBOc": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.31,
+    "title": "Plugin para preguntas Cloze",
+    "classifiedAt": "2026-09-23T19:42:46.483Z"
+  },
+  "QdIptz6_w9c": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.03,
+    "title": "Trabajando con agentes",
+    "classifiedAt": "2026-09-23T19:42:46.808Z"
+  },
+  "QSs9gwvs5bc": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "Hidrodinamica",
+    "classifiedAt": "2026-09-23T19:42:46.827Z"
+  },
+  "QrbnbhKIjwg": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.06,
+    "title": "zoom 0",
+    "classifiedAt": "2026-09-23T19:42:46.849Z"
+  },
+  "QKeUSV1LKk8": {
+    "category": "computer_vision",
+    "categoryConfidence": 0.96,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "2024 12 14 21 52 02",
+    "classifiedAt": "2026-09-23T19:42:46.865Z"
+  },
+  "QxYTNj47CZQ": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.22,
+    "title": "clideo editor cinematica rigido",
+    "classifiedAt": "2026-09-23T19:42:47.153Z"
+  },
+  "RBV7VFsAR0k": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.68,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "Prueba con la cuenta de la fiuba",
+    "classifiedAt": "2026-09-23T19:42:47.178Z"
+  },
+  "RF76H9EfOlg": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.51,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "Escalando la Excelencia",
+    "classifiedAt": "2026-09-23T19:42:47.179Z"
+  },
+  "RIcq9Ipe2Eo": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.46,
+    "hasCode": false,
+    "difficultyScore": 0.82,
+    "title": "zoom 0",
+    "classifiedAt": "2026-09-23T19:42:47.208Z"
+  },
+  "RPhXIlXasxA": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.71,
+    "hasCode": false,
+    "difficultyScore": 0.1,
+    "title": "2023 10 28 20 28 52",
+    "classifiedAt": "2026-09-23T19:42:47.590Z"
+  },
+  "RtTxlPj1l-k": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.97,
+    "title": "Clase practica Física I, curso SP1 2021 07 22 at 15 33 GMT 7",
+    "classifiedAt": "2026-09-23T19:42:47.600Z"
+  },
+  "RcR15vnjaxo": {
+    "category": "home_automation_iot",
+    "categoryConfidence": 0.42,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "2026 03 26 18 40 10",
+    "classifiedAt": "2026-09-23T19:42:47.672Z"
+  },
+  "RVKLOIhdBkk": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.97,
+    "hasCode": true,
+    "difficultyScore": 1.58,
+    "title": "full_stack_typescript",
+    "classifiedAt": "2026-09-23T19:42:47.837Z"
+  },
+  "SI3Aq9U4U5M": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.98,
+    "hasCode": true,
+    "difficultyScore": 1.46,
+    "title": "Hyperledger Aries con VON-Network",
+    "classifiedAt": "2026-09-23T19:42:48.157Z"
+  },
+  "SFjoEo-37cE": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.85,
+    "hasCode": false,
+    "difficultyScore": 1.17,
+    "title": "Reunión proyecto UBACyT 2021 12 01 at 13 06 GMT 8",
+    "classifiedAt": "2026-09-23T19:42:48.167Z"
+  },
+  "SH4Q77fTmiE": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "Del contenido a la conversación",
+    "classifiedAt": "2026-09-23T19:42:48.201Z"
+  },
+  "SD9N0wu-7dM": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.55,
+    "hasCode": false,
+    "difficultyScore": 0.58,
+    "title": "2023 05 16 16 46 14",
+    "classifiedAt": "2026-09-23T19:42:48.202Z"
+  },
+  "SqmfG0B-2MU": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.96,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "Película 0003",
+    "classifiedAt": "2026-09-23T19:42:48.469Z"
+  },
+  "SJFsJEE8vFc": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.52,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "poseYvelocidad",
+    "classifiedAt": "2026-09-23T19:42:48.486Z"
+  },
+  "SKa6wdCoZcU": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 1.18,
+    "title": "agentes_mcp",
+    "classifiedAt": "2026-09-23T19:42:48.498Z"
+  },
+  "SY8Dn1Dgh5k": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.53,
+    "hasCode": false,
+    "difficultyScore": 0.86,
+    "title": "video2",
+    "classifiedAt": "2026-09-23T19:42:48.536Z"
+  },
+  "T-LOtuj8XPw": {
+    "category": "general_institutional",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "TEsty",
+    "classifiedAt": "2026-09-23T19:42:48.874Z"
+  },
+  "T8z7giau66E": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.53,
+    "title": "Taller de Cuestionarios - Parte 2",
+    "classifiedAt": "2026-09-23T19:42:48.878Z"
+  },
+  "T4ssSy7ZWdU": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 1.12,
+    "title": "langflow_reasoning",
+    "classifiedAt": "2026-09-23T19:42:48.944Z"
+  },
+  "T7p45c982e0": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "Video_4",
+    "classifiedAt": "2026-09-23T19:42:48.954Z"
+  },
+  "U3DmR1VKSe4": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.08,
+    "title": "Agentes",
+    "classifiedAt": "2026-09-23T19:42:49.310Z"
+  },
+  "TdlL8l6pFPM": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.42,
+    "title": "entrenando3",
+    "classifiedAt": "2026-09-23T19:42:49.319Z"
+  },
+  "TqdyuFrsg_0": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.35,
+    "hasCode": false,
+    "difficultyScore": 0.25,
+    "title": "mlflow_trayectoria",
+    "classifiedAt": "2026-09-23T19:42:49.335Z"
+  },
+  "TxQOvvfiJRM": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.74,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "Clase de Alemán Generada",
+    "classifiedAt": "2026-09-23T19:42:49.473Z"
+  },
+  "UWvVw-5mW8s": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.19,
+    "title": "Uso de Autoproctor con Moodle",
+    "classifiedAt": "2026-09-23T19:42:49.809Z"
+  },
+  "UwXYNzHWLRM": {
+    "category": "computer_vision",
+    "categoryConfidence": 0.51,
+    "hasCode": true,
+    "difficultyScore": 1.17,
+    "title": "2023 10 29 21 26 54",
+    "classifiedAt": "2026-09-23T19:42:49.810Z"
+  },
+  "U_D0dz2dKfs": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.56,
+    "hasCode": false,
+    "difficultyScore": 0.49,
+    "title": "2024 01 25 14 51 26",
+    "classifiedAt": "2026-09-23T19:42:49.831Z"
+  },
+  "Ux412kIJ9_w": {
+    "category": "general_institutional",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "testAgain",
+    "classifiedAt": "2026-09-23T19:42:49.882Z"
+  },
+  "Vd-SzvJNEfM": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "Emisión en directo de Diego Racero",
+    "classifiedAt": "2026-09-23T19:42:50.203Z"
+  },
+  "VjLz8BG8Xng": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "test",
+    "classifiedAt": "2026-09-23T19:42:50.218Z"
+  },
+  "W4QYGM3csmE": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "Transmisión en directo de DiegoTestDireco",
+    "classifiedAt": "2026-09-23T19:42:50.242Z"
+  },
+  "VVw9PKv_E2Y": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.33,
+    "hasCode": false,
+    "difficultyScore": 0.94,
+    "title": "2023 05 17 09 54 33",
+    "classifiedAt": "2026-09-23T19:42:50.300Z"
+  },
+  "We27G-Fo3N4": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.03,
+    "title": "video2",
+    "classifiedAt": "2026-09-23T19:42:50.609Z"
+  },
+  "WN5oj8nNXss": {
+    "category": "software_web_dev",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.38,
+    "title": "2024 01 04 15 20 30",
+    "classifiedAt": "2026-09-23T19:42:50.644Z"
+  },
+  "WSsQxhtOTik": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.95,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "skills",
+    "classifiedAt": "2026-09-23T19:42:50.680Z"
+  },
+  "W9zxQ3dfeuI": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.29,
+    "title": "2023 11 04 11 43 28",
+    "classifiedAt": "2026-09-23T19:42:50.857Z"
+  },
+  "WxfhKBjjzbM": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.54,
+    "hasCode": false,
+    "difficultyScore": 0.05,
+    "title": "Video_Test_aula_multimedia",
+    "classifiedAt": "2026-09-23T19:42:51.149Z"
+  },
+  "Xhop0Nd14TI": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.04,
+    "title": "video_1_agentes_profundos",
+    "classifiedAt": "2026-09-23T19:42:51.155Z"
+  },
+  "XACwD5Rvwt4": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.9,
+    "hasCode": true,
+    "difficultyScore": 1.6,
+    "title": "orquestador_a2a",
+    "classifiedAt": "2026-09-23T19:42:51.197Z"
+  },
+  "XNVQyVdb_s8": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.72,
+    "title": "2 MODULO 1",
+    "classifiedAt": "2026-09-23T19:42:51.206Z"
+  },
+  "XxyH2g4x1Cw": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.58,
+    "hasCode": false,
+    "difficultyScore": 0.95,
+    "title": "parte2",
+    "classifiedAt": "2026-09-23T19:42:51.512Z"
+  },
+  "Y0FyZfXpoak": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.71,
+    "hasCode": false,
+    "difficultyScore": 1.04,
+    "title": "video_5_chatbot",
+    "classifiedAt": "2026-09-23T19:42:51.523Z"
+  },
+  "Xq2QeDk9QCA": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.96,
+    "hasCode": false,
+    "difficultyScore": 0.75,
+    "title": "Clase Parte 2",
+    "classifiedAt": "2026-09-23T19:42:51.539Z"
+  },
+  "Y0e7wK9mAHI": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "LEVA",
+    "classifiedAt": "2026-09-23T19:42:51.765Z"
+  },
+  "Y9IfFJRmtLA": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.81,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "2024 01 04 15 19 17",
+    "classifiedAt": "2026-09-23T19:42:52.083Z"
+  },
+  "YB6se2cggYs": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.98,
+    "hasCode": true,
+    "difficultyScore": 1.78,
+    "title": "Hyperledger Aries",
+    "classifiedAt": "2026-09-23T19:42:52.101Z"
+  },
+  "YEvmFLydO-8": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.48,
+    "hasCode": false,
+    "difficultyScore": 0.75,
+    "title": "Clase practica Física I, curso SP1 2021 05 13 at 15 30 GMT 7",
+    "classifiedAt": "2026-09-23T19:42:52.173Z"
+  },
+  "YD39doeAK84": {
+    "category": "home_automation_iot",
+    "categoryConfidence": 0.8,
+    "hasCode": true,
+    "difficultyScore": 0.78,
+    "title": "creandoAppConAntrigravity_1_2",
+    "classifiedAt": "2026-09-23T19:42:52.286Z"
+  },
+  "YMhSOwR7Jds": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 1.64,
+    "title": "mcp_qdrant",
+    "classifiedAt": "2026-09-23T19:42:52.619Z"
+  },
+  "Z2KrE7yoleU": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.87,
+    "hasCode": false,
+    "difficultyScore": 1.19,
+    "title": "TFI_Video2_V2",
+    "classifiedAt": "2026-09-23T19:42:52.635Z"
+  },
+  "Ye88NcOBxeI": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.27,
+    "title": "Diego Migliorini y Diego Racero 2020 05 18 at 14 18 GMT 7",
+    "classifiedAt": "2026-09-23T19:42:52.688Z"
+  },
+  "Yh0mnNHoAzc": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.95,
+    "hasCode": false,
+    "difficultyScore": 0.97,
+    "title": "tutor_virtual",
+    "classifiedAt": "2026-09-23T19:42:52.692Z"
+  },
+  "ZI53BA0BC7k": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.93,
+    "hasCode": false,
+    "difficultyScore": 0.19,
+    "title": "Jira vide 3",
+    "classifiedAt": "2026-09-23T19:42:53.093Z"
+  },
+  "ZHmgAPkvKEc": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.67,
+    "hasCode": true,
+    "difficultyScore": 1.18,
+    "title": "Video1",
+    "classifiedAt": "2026-09-23T19:42:53.107Z"
+  },
+  "ZWfMn9gOwh8": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.52,
+    "title": "video1",
+    "classifiedAt": "2026-09-23T19:42:53.125Z"
+  },
+  "ZYGPMeeCXG4": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "adsfvwerw",
+    "classifiedAt": "2026-09-23T19:42:53.135Z"
+  },
+  "_5O96Dc9sF4": {
+    "category": "computer_vision",
+    "categoryConfidence": 0.59,
+    "hasCode": false,
+    "difficultyScore": 0.87,
+    "title": "fmed_protocolo_video_2",
+    "classifiedAt": "2026-09-23T19:42:53.403Z"
+  },
+  "aUAClnLImdk": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.39,
+    "title": "clideo editor sistemas de particulas",
+    "classifiedAt": "2026-09-23T19:42:53.429Z"
+  },
+  "aD8yXqId6q4": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.69,
+    "title": "Comparativa_agentes",
+    "classifiedAt": "2026-09-23T19:42:53.459Z"
+  },
+  "aWxqsd-6Kf4": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.34,
+    "title": "grapRAG",
+    "classifiedAt": "2026-09-23T19:42:53.489Z"
+  },
+  "ai0gYOwWlVY": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.73,
+    "hasCode": false,
+    "difficultyScore": 0.57,
+    "title": "adk_stream",
+    "classifiedAt": "2026-09-23T19:42:53.791Z"
+  },
+  "adyV48Zxzn0": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.03,
+    "title": "2023 04 19 17 25 12",
+    "classifiedAt": "2026-09-23T19:42:53.796Z"
+  },
+  "b7AFj6zSIXk": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.92,
+    "hasCode": false,
+    "difficultyScore": 0.33,
+    "title": "comenzadoConLaApp",
+    "classifiedAt": "2026-09-23T19:42:53.833Z"
+  },
+  "adAi2ibhtgw": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.9,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "Tutorial de uso Aske",
+    "classifiedAt": "2026-09-23T19:42:54.092Z"
+  },
+  "bKzi4FmcUwQ": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.56,
+    "hasCode": false,
+    "difficultyScore": 0.86,
+    "title": "2026 01 02 21 46 33",
+    "classifiedAt": "2026-09-23T19:42:54.360Z"
+  },
+  "bXFJzwKjf1U": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 1.12,
+    "title": "LANGFLOW",
+    "classifiedAt": "2026-09-23T19:42:54.380Z"
+  },
+  "bcEnzvcopAM": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "Transmisión en directo de DiegoTestDireco",
+    "classifiedAt": "2026-09-23T19:42:54.400Z"
+  },
+  "bFi0mK7HFHU": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.61,
+    "hasCode": false,
+    "difficultyScore": 1.08,
+    "title": "video_4_chatbot",
+    "classifiedAt": "2026-09-23T19:42:54.415Z"
+  },
+  "cK1i-mPQFTs": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.74,
+    "hasCode": false,
+    "difficultyScore": 1.17,
+    "title": "RL_video_02",
+    "classifiedAt": "2026-09-23T19:42:54.733Z"
+  },
+  "cOHKx-go4ZE": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "2026 03 22 18 25 34",
+    "classifiedAt": "2026-09-23T19:42:54.755Z"
+  },
+  "bniQRmA0dfM": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.96,
+    "title": "parte2",
+    "classifiedAt": "2026-09-23T19:42:54.766Z"
+  },
+  "c-MVyOpfsa4": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.92,
+    "hasCode": false,
+    "difficultyScore": 0.56,
+    "title": "usando_NotebookLM",
+    "classifiedAt": "2026-09-23T19:42:54.801Z"
+  },
+  "ccKEn26ZoJ0": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "MOOC",
+    "classifiedAt": "2026-09-23T19:42:55.096Z"
+  },
+  "cd4pYSWPkJs": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.51,
+    "title": "2024 10 26 21 09 28",
+    "classifiedAt": "2026-09-23T19:42:55.149Z"
+  },
+  "cVv09i_ux2s": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.56,
+    "hasCode": false,
+    "difficultyScore": 0.45,
+    "title": "Visual_Feedback_Antigravity",
+    "classifiedAt": "2026-09-23T19:42:55.164Z"
+  },
+  "cVTXlDpJWq4": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.16,
+    "title": "agentes_langflow",
+    "classifiedAt": "2026-09-23T19:42:55.213Z"
+  },
+  "d7dB85rhLPs": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.51,
+    "hasCode": false,
+    "difficultyScore": 0.6,
+    "title": "Reunión Chatbot Administrativo 2021 08 18 at 14 33 GMT 7",
+    "classifiedAt": "2026-09-23T19:42:55.583Z"
+  },
+  "d5iFQLfAcIA": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.62,
+    "hasCode": false,
+    "difficultyScore": 0.05,
+    "title": "2024 01 14 18 25 40",
+    "classifiedAt": "2026-09-23T19:42:55.592Z"
+  },
+  "d5dVGppHB64": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.3,
+    "title": "images",
+    "classifiedAt": "2026-09-23T19:42:55.605Z"
+  },
+  "d7zibLgJrVQ": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 1.97,
+    "title": "Deep_Reserarch_Agents",
+    "classifiedAt": "2026-09-23T19:42:55.629Z"
+  },
+  "d_S4H2vgyZA": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.63,
+    "title": "mlflow_agentes",
+    "classifiedAt": "2026-09-23T19:42:55.939Z"
+  },
+  "dDWknn2WPKE": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.25,
+    "hasCode": false,
+    "difficultyScore": 1.26,
+    "title": "2024 01 07 20 53 48",
+    "classifiedAt": "2026-09-23T19:42:55.939Z"
+  },
+  "dHG3_9ccP6I": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.94,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "2024 03 09 14 00 20",
+    "classifiedAt": "2026-09-23T19:42:55.940Z"
+  },
+  "dQyM5CG4ANA": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.81,
+    "hasCode": true,
+    "difficultyScore": 1.2,
+    "title": "RL_video_01",
+    "classifiedAt": "2026-09-23T19:42:56.003Z"
+  },
+  "dleKpFGJSe0": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.92,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "Video de Navidad de Albert Einstein",
+    "classifiedAt": "2026-09-23T19:42:56.284Z"
+  },
+  "djOXwdx8gXQ": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.92,
+    "title": "Crewai-RLHF",
+    "classifiedAt": "2026-09-23T19:42:56.301Z"
+  },
+  "eqGnPD4vQ78": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.44,
+    "hasCode": false,
+    "difficultyScore": 0.28,
+    "title": "ai video1",
+    "classifiedAt": "2026-09-23T19:42:56.316Z"
+  },
+  "e34hZbzGV_I": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 1.94,
+    "title": "imagenes_medicas",
+    "classifiedAt": "2026-09-23T19:42:56.336Z"
+  },
+  "f24W0ETEa90": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "Jul 18 2018 11 10 AM",
+    "classifiedAt": "2026-09-23T19:42:56.619Z"
+  },
+  "ex-srqBPgk0": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.95,
+    "title": "video2",
+    "classifiedAt": "2026-09-23T19:42:56.623Z"
+  },
+  "fGgFhYkmaI4": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.83,
+    "title": "Transformers",
+    "classifiedAt": "2026-09-23T19:42:56.653Z"
+  },
+  "fH8kntwR21k": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.02,
+    "title": "Clase practica Física I, curso SP1 2021 04 22 at 15 17 GMT 7",
+    "classifiedAt": "2026-09-23T19:42:56.680Z"
+  },
+  "fwy7F9wiEj8": {
+    "category": "computer_vision",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.82,
+    "title": "2023 11 20 15 34 03",
+    "classifiedAt": "2026-09-23T19:42:56.977Z"
+  },
+  "fZltfxpawkQ": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.76,
+    "hasCode": false,
+    "difficultyScore": 0.75,
+    "title": "2023 06 18 21 44 54",
+    "classifiedAt": "2026-09-23T19:42:56.990Z"
+  },
+  "fu6Mw97RVSc": {
+    "category": "home_automation_iot",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 0.61,
+    "title": "HA_video2",
+    "classifiedAt": "2026-09-23T19:42:56.996Z"
+  },
+  "fidUEbymJb8": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 1.4,
+    "title": "MVP_hsito_test_qdrant",
+    "classifiedAt": "2026-09-23T19:42:57.062Z"
+  },
+  "gB3kCSHSvNI": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.18,
+    "title": "Problemas_duplicacion",
+    "classifiedAt": "2026-09-23T19:42:57.387Z"
+  },
+  "gVPhX4gwBRQ": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.79,
+    "hasCode": false,
+    "difficultyScore": 1.18,
+    "title": "TFI_Video3_V1",
+    "classifiedAt": "2026-09-23T19:42:57.392Z"
+  },
+  "g9S_3fr2lKs": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.34,
+    "hasCode": false,
+    "difficultyScore": 0.27,
+    "title": "Jira video 4",
+    "classifiedAt": "2026-09-23T19:42:57.432Z"
+  },
+  "gRudRPJ7yTo": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.86,
+    "hasCode": false,
+    "difficultyScore": 0.92,
+    "title": "Tutor-Virtual",
+    "classifiedAt": "2026-09-23T19:42:57.745Z"
+  },
+  "goNpj1VDiD0": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.62,
+    "hasCode": false,
+    "difficultyScore": 0.27,
+    "title": "GEPA  IA que aprende de errores",
+    "classifiedAt": "2026-09-23T19:42:58.010Z"
+  },
+  "ggP2kQPp5Ws": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.5,
+    "hasCode": false,
+    "difficultyScore": 0.04,
+    "title": "video_2_busqueda_profunda",
+    "classifiedAt": "2026-09-23T19:42:58.026Z"
+  },
+  "gsYHkYjRbUA": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.91,
+    "hasCode": false,
+    "difficultyScore": 0.8,
+    "title": "video_3_chatbot",
+    "classifiedAt": "2026-09-23T19:42:58.041Z"
+  },
+  "hMApn1BL2nY": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.72,
+    "hasCode": false,
+    "difficultyScore": 0.14,
+    "title": "langflow_video1",
+    "classifiedAt": "2026-09-23T19:42:58.051Z"
+  },
+  "hQqrJvg_oP0": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 0.66,
+    "title": "CopilotFIUBA",
+    "classifiedAt": "2026-09-23T19:42:58.316Z"
+  },
+  "hqap3F3L8_Q": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.26,
+    "title": "2026 03 04 13 57 38",
+    "classifiedAt": "2026-09-23T19:42:58.338Z"
+  },
+  "hQJYnf5ZGZY": {
+    "category": "software_web_dev",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.34,
+    "title": "Jul 15 2018 9 26 PM",
+    "classifiedAt": "2026-09-23T19:42:58.361Z"
+  },
+  "hNqM7LTOpao": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.39,
+    "hasCode": false,
+    "difficultyScore": 0.05,
+    "title": "redNeuronal1",
+    "classifiedAt": "2026-09-23T19:42:58.371Z"
+  },
+  "j3-q3Dt_LzA": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.63,
+    "hasCode": true,
+    "difficultyScore": 0.34,
+    "title": "INSTALAR LANGFLOW",
+    "classifiedAt": "2026-09-23T19:42:58.646Z"
+  },
+  "imhiOEFdzYk": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.45,
+    "hasCode": false,
+    "difficultyScore": 0.14,
+    "title": "2022 06 15 19 04 40",
+    "classifiedAt": "2026-09-23T19:42:58.698Z"
+  },
+  "hvyBSKFhSpw": {
+    "category": "computer_vision",
+    "categoryConfidence": 0.45,
+    "hasCode": false,
+    "difficultyScore": 0.03,
+    "title": "vehicles result",
+    "classifiedAt": "2026-09-23T19:42:58.711Z"
+  },
+  "io9BiB3xrXg": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.62,
+    "hasCode": false,
+    "difficultyScore": 0.97,
+    "title": "video1513837326",
+    "classifiedAt": "2026-09-23T19:42:58.720Z"
+  },
+  "jIxfdiax3i0": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.42,
+    "hasCode": false,
+    "difficultyScore": 0.69,
+    "title": "2023 11 04 20 45 09",
+    "classifiedAt": "2026-09-23T19:42:59.013Z"
+  },
+  "jIblug417gg": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.33,
+    "hasCode": false,
+    "difficultyScore": 0.34,
+    "title": "2024 02 26 16 12 16",
+    "classifiedAt": "2026-09-23T19:42:59.021Z"
+  },
+  "jG4Ay5QoDdo": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 1.51,
+    "title": "rubricas",
+    "classifiedAt": "2026-09-23T19:42:59.032Z"
+  },
+  "jLlzK-v8iu8": {
+    "category": "computer_vision",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 1.03,
+    "title": "Y0lo-pose-2",
+    "classifiedAt": "2026-09-23T19:42:59.055Z"
+  },
+  "kA2QAETgjmQ": {
+    "category": "general_institutional",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "test",
+    "classifiedAt": "2026-09-23T19:42:59.337Z"
+  },
+  "joh91VOqY_M": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.87,
+    "title": "creando_preguntas",
+    "classifiedAt": "2026-09-23T19:42:59.353Z"
+  },
+  "keB0IR4DMok": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.8,
+    "hasCode": false,
+    "difficultyScore": 0.29,
+    "title": "Test_Sofia",
+    "classifiedAt": "2026-09-23T19:42:59.428Z"
+  },
+  "kG3NGSD5sXo": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.17,
+    "title": "trayectoria",
+    "classifiedAt": "2026-09-23T19:42:59.438Z"
+  },
+  "km1E_2_IsPs": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.81,
+    "title": "Moodle_External_Plugin",
+    "classifiedAt": "2026-09-23T19:42:59.770Z"
+  },
+  "l0Z68sM-Qto": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.58,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "login",
+    "classifiedAt": "2026-09-23T19:42:59.784Z"
+  },
+  "lD5uvoVgQZU": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.37,
+    "title": "agenbtes",
+    "classifiedAt": "2026-09-23T19:42:59.801Z"
+  },
+  "lASvxHdV5QE": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.13,
+    "title": "MCP_Server_Video1",
+    "classifiedAt": "2026-09-23T19:43:00.006Z"
+  },
+  "lQ8wHA30l-U": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.82,
+    "hasCode": false,
+    "difficultyScore": 1.49,
+    "title": "TFI_Video3_V2",
+    "classifiedAt": "2026-09-23T19:43:00.311Z"
+  },
+  "lfUrHzrbtvo": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.63,
+    "hasCode": false,
+    "difficultyScore": 0.17,
+    "title": "langflow_video2",
+    "classifiedAt": "2026-09-23T19:43:00.330Z"
+  },
+  "lMgjkAGkibU": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.53,
+    "hasCode": false,
+    "difficultyScore": 0.03,
+    "title": "pucks_4",
+    "classifiedAt": "2026-09-23T19:43:00.333Z"
+  },
+  "lSceg-KTPvg": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.03,
+    "title": "video3",
+    "classifiedAt": "2026-09-23T19:43:00.371Z"
+  },
+  "mAA6CPvGvlg": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.89,
+    "title": "tool_for_agent",
+    "classifiedAt": "2026-09-23T19:43:00.638Z"
+  },
+  "lvtXKmOAFFE": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.99,
+    "hasCode": true,
+    "difficultyScore": 1.62,
+    "title": "TFI_Video_1_Nuevo",
+    "classifiedAt": "2026-09-23T19:43:00.640Z"
+  },
+  "mHhMb0j7Ffw": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.98,
+    "hasCode": true,
+    "difficultyScore": 0.72,
+    "title": "2023 11 20 18 46 57",
+    "classifiedAt": "2026-09-23T19:43:00.656Z"
+  },
+  "mG4j1NU3Zis": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "A ver si se dan cuenta??",
+    "classifiedAt": "2026-09-23T19:43:00.737Z"
+  },
+  "n07mUY4955Y": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.52,
+    "hasCode": false,
+    "difficultyScore": 0.89,
+    "title": "fmed_protocolo_1",
+    "classifiedAt": "2026-09-23T19:43:01.070Z"
+  },
+  "mPCvwPJzo2k": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.2,
+    "title": "video1116163915",
+    "classifiedAt": "2026-09-23T19:43:01.075Z"
+  },
+  "n7OivhjdSiU": {
+    "category": "home_automation_iot",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.03,
+    "title": "HA_video1",
+    "classifiedAt": "2026-09-23T19:43:01.093Z"
+  },
+  "mLFz402hN6Y": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.86,
+    "title": "clase_09_06",
+    "classifiedAt": "2026-09-23T19:43:01.110Z"
+  },
+  "nJiejnehAoU": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.3,
+    "title": "Banco de Preguntas",
+    "classifiedAt": "2026-09-23T19:43:01.381Z"
+  },
+  "nWMpLHEA8C0": {
+    "category": "general_institutional",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.03,
+    "title": "seamless",
+    "classifiedAt": "2026-09-23T19:43:01.387Z"
+  },
+  "nP_-8E8LKUg": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.14,
+    "title": "clideo elasctica_viscosa",
+    "classifiedAt": "2026-09-23T19:43:01.412Z"
+  },
+  "n9wBUVY6izI": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.91,
+    "hasCode": false,
+    "difficultyScore": 0.68,
+    "title": "entrenando2",
+    "classifiedAt": "2026-09-23T19:43:01.446Z"
+  },
+  "nyU7NzPRAI8": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.25,
+    "title": "1 MODULO 1",
+    "classifiedAt": "2026-09-23T19:43:01.745Z"
+  },
+  "nmtoCO4GRJM": {
+    "category": "computer_vision",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.73,
+    "title": "2023 09 16 19 55 45",
+    "classifiedAt": "2026-09-23T19:43:01.752Z"
+  },
+  "njHMveT04cI": {
+    "category": "computer_vision",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.77,
+    "title": "2025 06 14 19 03 12",
+    "classifiedAt": "2026-09-23T19:43:01.753Z"
+  },
+  "nhBK6D_OKjg": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.99,
+    "title": "A2A_Video_2",
+    "classifiedAt": "2026-09-23T19:43:01.757Z"
+  },
+  "o8-99z4UHWM": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.97,
+    "hasCode": true,
+    "difficultyScore": 0.48,
+    "title": "2024 03 09 14 10 26",
+    "classifiedAt": "2026-09-23T19:43:02.112Z"
+  },
+  "oUNcYirkdfo": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "video",
+    "classifiedAt": "2026-09-23T19:43:02.215Z"
+  },
+  "oToa0P5MGT8": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "test",
+    "classifiedAt": "2026-09-23T19:43:02.233Z"
+  },
+  "oHTjAAmqIJM": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.96,
+    "hasCode": false,
+    "difficultyScore": 0.04,
+    "title": "0001 0100",
+    "classifiedAt": "2026-09-23T19:43:02.360Z"
+  },
+  "odWRZIpogE0": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 1.11,
+    "title": "MCP_OpenAPI",
+    "classifiedAt": "2026-09-23T19:43:02.630Z"
+  },
+  "p5Qnegnq2Bk": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.95,
+    "hasCode": false,
+    "difficultyScore": 0.55,
+    "title": "Clase practica Física I, curso SP1 2020 10 01 at 15 24 GMT 7",
+    "classifiedAt": "2026-09-23T19:43:02.643Z"
+  },
+  "opcxv-6EiGk": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.88,
+    "title": "video1746408351",
+    "classifiedAt": "2026-09-23T19:43:02.654Z"
+  },
+  "ourkjeZ4w_A": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.47,
+    "hasCode": false,
+    "difficultyScore": 0.18,
+    "title": "2023 10 23 21 33 28",
+    "classifiedAt": "2026-09-23T19:43:02.656Z"
+  },
+  "pdSJZ0iVBJc": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.54,
+    "hasCode": false,
+    "difficultyScore": 0.35,
+    "title": "2023 11 20 18 50 46",
+    "classifiedAt": "2026-09-23T19:43:03.066Z"
+  },
+  "pA3UmDK1of8": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.97,
+    "hasCode": false,
+    "difficultyScore": 0.86,
+    "title": "video1945576032",
+    "classifiedAt": "2026-09-23T19:43:03.067Z"
+  },
+  "pGyiHDwmpkE": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1,
+    "title": "RAG multimodal",
+    "classifiedAt": "2026-09-23T19:43:03.109Z"
+  },
+  "p5vSRQbGPD8": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.33,
+    "hasCode": false,
+    "difficultyScore": 0.11,
+    "title": "Uso_Notebook_Antigravity",
+    "classifiedAt": "2026-09-23T19:43:03.112Z"
+  },
+  "pycyJesnLcI": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.96,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "Para que aprendas marketing digital",
+    "classifiedAt": "2026-09-23T19:43:03.379Z"
+  },
+  "pdeFzQhXugs": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.81,
+    "hasCode": false,
+    "difficultyScore": 0.96,
+    "title": "video_6_chatbot",
+    "classifiedAt": "2026-09-23T19:43:03.384Z"
+  },
+  "prmaT9aOy6A": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 0.92,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "creadoCuenta",
+    "classifiedAt": "2026-09-23T19:43:03.396Z"
+  },
+  "qFGxI7Sk8Ig": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.29,
+    "hasCode": false,
+    "difficultyScore": 1.25,
+    "title": "DQN_Space_Invaders",
+    "classifiedAt": "2026-09-23T19:43:03.413Z"
+  },
+  "qX6pNIGDC00": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.82,
+    "hasCode": false,
+    "difficultyScore": 0.1,
+    "title": "CEAD",
+    "classifiedAt": "2026-09-23T19:43:03.684Z"
+  },
+  "ql1ScPevRTI": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.07,
+    "title": "Problemas de bloque en cuña, péndulo balístico y niño que camina por la plataforma.",
+    "classifiedAt": "2026-09-23T19:43:03.701Z"
+  },
+  "r3-Y6Jcbemw": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.05,
+    "title": "Resolución de problema para entregar  2021 11 22 at 11 03 GMT 8",
+    "classifiedAt": "2026-09-23T19:43:03.879Z"
+  },
+  "qaNNt9z8Jlc": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.67,
+    "hasCode": true,
+    "difficultyScore": 0.93,
+    "title": "Antrigravity",
+    "classifiedAt": "2026-09-23T19:43:03.910Z"
+  },
+  "rMBb_jEuw2c": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.44,
+    "hasCode": false,
+    "difficultyScore": 0,
+    "title": "Estructura_CETEC",
+    "classifiedAt": "2026-09-23T19:43:04.357Z"
+  },
+  "rYu38zQ4zHs": {
+    "category": "computer_vision",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.06,
+    "title": "Yolo-pose-3",
+    "classifiedAt": "2026-09-23T19:43:04.380Z"
+  },
+  "rDfYXYV0Fok": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.35,
+    "hasCode": false,
+    "difficultyScore": 1.31,
+    "title": "RL_video_03",
+    "classifiedAt": "2026-09-23T19:43:04.384Z"
+  },
+  "rGm-cfjxhuU": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "moodle",
+    "classifiedAt": "2026-09-23T19:43:04.387Z"
+  },
+  "rdtaMmg144s": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.59,
+    "title": "A2A_Video_1",
+    "classifiedAt": "2026-09-23T19:43:04.653Z"
+  },
+  "rzjA463i2SY": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.99,
+    "title": "Video1 Parcial 21 de Abril SP1",
+    "classifiedAt": "2026-09-23T19:43:04.654Z"
+  },
+  "s3P69HA1fbU": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.41,
+    "hasCode": true,
+    "difficultyScore": 0.89,
+    "title": "2024 09 29 21 06 23",
+    "classifiedAt": "2026-09-23T19:43:04.660Z"
+  },
+  "s5Qyulp59X0": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.09,
+    "title": "NotebookLM_Gemini",
+    "classifiedAt": "2026-09-23T19:43:04.662Z"
+  },
+  "sQbidJjvaDA": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 0.77,
+    "title": "chatGPTCreandoPipelinHugginface",
+    "classifiedAt": "2026-09-23T19:43:04.921Z"
+  },
+  "sFoD-AUZHNs": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.2,
+    "title": "Jul 18 2018 10 29 AM",
+    "classifiedAt": "2026-09-23T19:43:04.937Z"
+  },
+  "sFttAl_PEAg": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.88,
+    "hasCode": false,
+    "difficultyScore": 0.96,
+    "title": "Como manejarse frente a las cámaras",
+    "classifiedAt": "2026-09-23T19:43:04.967Z"
+  },
+  "sapz4Y-AM3k": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.04,
+    "title": "Clase practica Física I, curso SP1 2021 02 11 at 14 34 GMT 8",
+    "classifiedAt": "2026-09-23T19:43:04.981Z"
+  },
+  "skchsiAPn0M": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.98,
+    "hasCode": true,
+    "difficultyScore": 0.78,
+    "title": "Atlasian_MCP",
+    "classifiedAt": "2026-09-23T19:43:05.258Z"
+  },
+  "syq2HkLLUtE": {
+    "category": "computer_vision",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.42,
+    "title": "pose-yolo",
+    "classifiedAt": "2026-09-23T19:43:05.269Z"
+  },
+  "slnWQHewZt0": {
+    "category": "general_institutional",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "prueba",
+    "classifiedAt": "2026-09-23T19:43:05.270Z"
+  },
+  "snP0Qjlvaew": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.94,
+    "hasCode": false,
+    "difficultyScore": 0.61,
+    "title": "UBATIC_Plataforma_test",
+    "classifiedAt": "2026-09-23T19:43:05.302Z"
+  },
+  "tBzq58NIBfs": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.98,
+    "hasCode": true,
+    "difficultyScore": 1.53,
+    "title": "MCP_server",
+    "classifiedAt": "2026-09-23T19:43:05.607Z"
+  },
+  "tLrg3zeib5k": {
+    "category": "education_moodle",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.36,
+    "title": "Cursos y metacursos",
+    "classifiedAt": "2026-09-23T19:43:05.622Z"
+  },
+  "tCCPB8nsdcQ": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.93,
+    "hasCode": false,
+    "difficultyScore": 0.04,
+    "title": "Evaluating Group Work  Potentials, Limitations, and Technology Integration",
+    "classifiedAt": "2026-09-23T19:43:05.638Z"
+  },
+  "tQKUE8cIarU": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.04,
+    "title": "Clase practica Física I, curso SP1 2021 06 17 at 15 10 GMT 7",
+    "classifiedAt": "2026-09-23T19:43:05.659Z"
+  },
+  "ttRfFly_9mE": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.36,
+    "title": "2025 05 17 21 15 00",
+    "classifiedAt": "2026-09-23T19:43:05.927Z"
+  },
+  "uDY645fHFpE": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "Jul 16 2018 11 12 AM",
+    "classifiedAt": "2026-09-23T19:43:05.939Z"
+  },
+  "td8siNXM98s": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.73,
+    "hasCode": false,
+    "difficultyScore": 0.03,
+    "title": "El_Eco_Fragmentado(historia del gran apagon)",
+    "classifiedAt": "2026-09-23T19:43:05.989Z"
+  },
+  "u-VO9uwX4FY": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.53,
+    "title": "video_H5P",
+    "classifiedAt": "2026-09-23T19:43:05.999Z"
+  },
+  "ugUTHOcz6mQ": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.15,
+    "title": "clideo editor_trabajo_energia",
+    "classifiedAt": "2026-09-23T19:43:06.268Z"
+  },
+  "uzhbFxmJcLM": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 1.08,
+    "title": "mcp_adk",
+    "classifiedAt": "2026-09-23T19:43:06.269Z"
+  },
+  "utP_BN3F-7E": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.98,
+    "title": "Clase practica Física I, curso SP1 2021 05 06 at 15 35 GMT 7",
+    "classifiedAt": "2026-09-23T19:43:06.305Z"
+  },
+  "uLzXJnYtjhw": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.53,
+    "hasCode": true,
+    "difficultyScore": 0.4,
+    "title": "Presentation1",
+    "classifiedAt": "2026-09-23T19:43:06.312Z"
+  },
+  "vc67-yjiS9U": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.09,
+    "title": "Clase de sistemas no inerciales",
+    "classifiedAt": "2026-09-23T19:43:06.669Z"
+  },
+  "vIyVeUFbb1k": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.88,
+    "hasCode": false,
+    "difficultyScore": 0.34,
+    "title": "Encuentr_13/03/2026",
+    "classifiedAt": "2026-09-23T19:43:06.670Z"
+  },
+  "vzIcqt2HzIs": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.02,
+    "title": "writer_video2",
+    "classifiedAt": "2026-09-23T19:43:06.676Z"
+  },
+  "vb-vwR1RFe4": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.87,
+    "title": "QODA_AI_Code_Review",
+    "classifiedAt": "2026-09-23T19:43:06.676Z"
+  },
+  "wIMNZKMJNXw": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.93,
+    "hasCode": false,
+    "difficultyScore": 0.9,
+    "title": "Video2",
+    "classifiedAt": "2026-09-23T19:43:06.982Z"
+  },
+  "wEAgJhEs6so": {
+    "category": "education_moodle",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 0.23,
+    "title": "Insertando web est ticas en Moodle",
+    "classifiedAt": "2026-09-23T19:43:07.048Z"
+  },
+  "wRPv-ey_dOo": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.72,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "practicando_portugues",
+    "classifiedAt": "2026-09-23T19:43:07.155Z"
+  },
+  "wjHVFIKPvIQ": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.96,
+    "title": "Clase practica Física I, curso SP1 2021 06 10 at 15 12 GMT 7",
+    "classifiedAt": "2026-09-23T19:43:07.166Z"
+  },
+  "xC_29a2KYb8": {
+    "category": "general_institutional",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "Test",
+    "classifiedAt": "2026-09-23T19:43:07.472Z"
+  },
+  "xPQWhJfUG_8": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "esto esunas",
+    "classifiedAt": "2026-09-23T19:43:07.472Z"
+  },
+  "xI0gGURSytY": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.49,
+    "hasCode": true,
+    "difficultyScore": 0.61,
+    "title": "copilot",
+    "classifiedAt": "2026-09-23T19:43:07.480Z"
+  },
+  "x0eQgMKdJoA": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.49,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "2023 11 12 18 26 11",
+    "classifiedAt": "2026-09-23T19:43:07.491Z"
+  },
+  "xsD-0SDmHRo": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 1.24,
+    "title": "segunda_etapa_ubatic",
+    "classifiedAt": "2026-09-23T19:43:07.778Z"
+  },
+  "x_ZkAuSff0w": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.57,
+    "hasCode": false,
+    "difficultyScore": 0.35,
+    "title": "Video 1414874224",
+    "classifiedAt": "2026-09-23T19:43:07.781Z"
+  },
+  "y1J8jekYBYk": {
+    "category": "nlp_transformers",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.11,
+    "title": "Wit.ai",
+    "classifiedAt": "2026-09-23T19:43:07.791Z"
+  },
+  "xpCf3UkWdPY": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 1,
+    "hasCode": true,
+    "difficultyScore": 1.29,
+    "title": "A2A_tutorial",
+    "classifiedAt": "2026-09-23T19:43:07.806Z"
+  },
+  "yfI9t6SlUko": {
+    "category": "physics_and_math",
+    "categoryConfidence": 0.17,
+    "hasCode": false,
+    "difficultyScore": 1.3,
+    "title": "parte3",
+    "classifiedAt": "2026-09-23T19:43:08.077Z"
+  },
+  "yeRcedyat2E": {
+    "category": "rag_and_agents",
+    "categoryConfidence": 0.99,
+    "hasCode": false,
+    "difficultyScore": 0.87,
+    "title": "2023 09 08 17 07 29",
+    "classifiedAt": "2026-09-23T19:43:08.100Z"
+  },
+  "y1S4fh5gSO8": {
+    "category": "software_web_dev",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.05,
+    "title": "Aprendiendo con Code academy y preparándose para las entrevistas",
+    "classifiedAt": "2026-09-23T19:43:08.101Z"
+  },
+  "ywl6VlNngFc": {
+    "category": "general_institutional",
+    "categoryConfidence": 0.6,
+    "hasCode": false,
+    "difficultyScore": 0.01,
+    "title": "Podcast_transmedia",
+    "classifiedAt": "2026-09-23T19:43:08.122Z"
+  },
+  "z3CF7VAdFUE": {
+    "category": "physics_and_math",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 1.34,
+    "title": "video1235879520",
+    "classifiedAt": "2026-09-23T19:43:08.386Z"
+  },
+  "zCROFoHe7uo": {
+    "category": "software_web_dev",
+    "categoryConfidence": 0.98,
+    "hasCode": false,
+    "difficultyScore": 1.37,
+    "title": "vibe_coding_1",
+    "classifiedAt": "2026-09-23T19:43:08.432Z"
+  },
+  "zbkJNgf2ThY": {
+    "category": "computer_vision",
+    "categoryConfidence": 1,
+    "hasCode": false,
+    "difficultyScore": 0.82,
+    "title": "Yolo-pose-1",
+    "classifiedAt": "2026-09-23T19:43:08.436Z"
+  }
+}

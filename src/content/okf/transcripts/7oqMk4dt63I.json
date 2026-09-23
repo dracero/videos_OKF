@@ -1,0 +1,1310 @@
+[
+  {
+    "text": "Hola a todos y bienvenidos a esta nueva",
+    "duration": 4760,
+    "offset": 120,
+    "lang": "es"
+  },
+  {
+    "text": "explicación visual. A ver, hoy vamos a",
+    "duration": 4840,
+    "offset": 2360,
+    "lang": "es"
+  },
+  {
+    "text": "desentrañar lo que es sinceramente un",
+    "duration": 4360,
+    "offset": 4880,
+    "lang": "es"
+  },
+  {
+    "text": "dolor de cabeza gigantesco en el mundo",
+    "duration": 4120,
+    "offset": 7200,
+    "lang": "es"
+  },
+  {
+    "text": "académico, el aseguramiento de la",
+    "duration": 4559,
+    "offset": 9240,
+    "lang": "es"
+  },
+  {
+    "text": "calidad educativa. Revisar con lupa que",
+    "duration": 4319,
+    "offset": 11320,
+    "lang": "es"
+  },
+  {
+    "text": "un plan de estudios cumpla con todos los",
+    "duration": 4081,
+    "offset": 13799,
+    "lang": "es"
+  },
+  {
+    "text": "requisitos institucionales, uf, es una",
+    "duration": 4521,
+    "offset": 15639,
+    "lang": "es"
+  },
+  {
+    "text": "labor monumental. Pero para eso estamos",
+    "duration": 3840,
+    "offset": 17880,
+    "lang": "es"
+  },
+  {
+    "text": "aquí. Hoy vamos a analizar dos",
+    "duration": 3760,
+    "offset": 20160,
+    "lang": "es"
+  },
+  {
+    "text": "soluciones sumamente innovadoras que se",
+    "duration": 5040,
+    "offset": 21720,
+    "lang": "es"
+  },
+  {
+    "text": "conectan para resolver exactamente esto.",
+    "duration": 4960,
+    "offset": 23920,
+    "lang": "es"
+  },
+  {
+    "text": "Rubricai y el grafo de conocimiento",
+    "duration": 3880,
+    "offset": 26760,
+    "lang": "es"
+  },
+  {
+    "text": "normativo. Vamos a ver como la",
+    "duration": 3679,
+    "offset": 28880,
+    "lang": "es"
+  },
+  {
+    "text": "inteligencia artificial cuando se usa",
+    "duration": 4239,
+    "offset": 30640,
+    "lang": "es"
+  },
+  {
+    "text": "con absoluta precisión quirúrgica, le da",
+    "duration": 5441,
+    "offset": 32559,
+    "lang": "es"
+  },
+  {
+    "text": "un giro de 180º a todo este proceso.",
+    "duration": 5961,
+    "offset": 34879,
+    "lang": "es"
+  },
+  {
+    "text": "Empecemos. Bueno, vamos a sumergirnos en",
+    "duration": 4840,
+    "offset": 38000,
+    "lang": "es"
+  },
+  {
+    "text": "esto. Así es como estructuraremos el",
+    "duration": 4440,
+    "offset": 40840,
+    "lang": "es"
+  },
+  {
+    "text": "recorrido. Primero veremos el verdadero",
+    "duration": 4719,
+    "offset": 42840,
+    "lang": "es"
+  },
+  {
+    "text": "desafío de la auditoría actual. Luego",
+    "duration": 4919,
+    "offset": 45280,
+    "lang": "es"
+  },
+  {
+    "text": "pasaremos a rúbrica se y cómo evalúa los",
+    "duration": 4721,
+    "offset": 47559,
+    "lang": "es"
+  },
+  {
+    "text": "cursos. En el punto tres, el grafo",
+    "duration": 3721,
+    "offset": 50199,
+    "lang": "es"
+  },
+  {
+    "text": "normativo para verificar programas",
+    "duration": 3759,
+    "offset": 52280,
+    "lang": "es"
+  },
+  {
+    "text": "completos. Después nos meteremos de",
+    "duration": 3920,
+    "offset": 53920,
+    "lang": "es"
+  },
+  {
+    "text": "lleno en las definiciones y métricas",
+    "duration": 3881,
+    "offset": 56039,
+    "lang": "es"
+  },
+  {
+    "text": "clave y cerraremos con los resultados y",
+    "duration": 4480,
+    "offset": 57840,
+    "lang": "es"
+  },
+  {
+    "text": "la trazabilidad. Todo superlógico, desde",
+    "duration": 3840,
+    "offset": 59920,
+    "lang": "es"
+  },
+  {
+    "text": "el núcleo del problema hasta la parte",
+    "duration": 4159,
+    "offset": 62320,
+    "lang": "es"
+  },
+  {
+    "text": "más técnica. Pasemos a la primera parte,",
+    "duration": 5440,
+    "offset": 63760,
+    "lang": "es"
+  },
+  {
+    "text": "el desafío de la auditoría. Imaginen la",
+    "duration": 4801,
+    "offset": 66479,
+    "lang": "es"
+  },
+  {
+    "text": "situación. ¿Cuántas horas creen que se",
+    "duration": 4200,
+    "offset": 69200,
+    "lang": "es"
+  },
+  {
+    "text": "pierden haciendo auditorías manuales de",
+    "duration": 4680,
+    "offset": 71280,
+    "lang": "es"
+  },
+  {
+    "text": "sílabos y cursos? Es una pregunta que",
+    "duration": 4359,
+    "offset": 73400,
+    "lang": "es"
+  },
+  {
+    "text": "duele, ¿verdad? Porque evaluar si un",
+    "duration": 4159,
+    "offset": 75960,
+    "lang": "es"
+  },
+  {
+    "text": "curso virtual o peor todo un programa",
+    "duration": 4481,
+    "offset": 77759,
+    "lang": "es"
+  },
+  {
+    "text": "cumple con los estándares pedagógicos es",
+    "duration": 4401,
+    "offset": 80119,
+    "lang": "es"
+  },
+  {
+    "text": "un proceso lentísimo, subjetivo y",
+    "duration": 4280,
+    "offset": 82240,
+    "lang": "es"
+  },
+  {
+    "text": "francamente agotador. Hay que revisar",
+    "duration": 3559,
+    "offset": 84520,
+    "lang": "es"
+  },
+  {
+    "text": "decenas de actividades, aplicar",
+    "duration": 3639,
+    "offset": 86520,
+    "lang": "es"
+  },
+  {
+    "text": "rúbricas, leer textos larguísimos de",
+    "duration": 4441,
+    "offset": 88079,
+    "lang": "es"
+  },
+  {
+    "text": "regulaciones y claro, eso consume",
+    "duration": 4441,
+    "offset": 90159,
+    "lang": "es"
+  },
+  {
+    "text": "cientos de horas. Es inevitable que haya",
+    "duration": 3320,
+    "offset": 92520,
+    "lang": "es"
+  },
+  {
+    "text": "errores cuando la labor es tan",
+    "duration": 3640,
+    "offset": 94600,
+    "lang": "es"
+  },
+  {
+    "text": "extenuante. Literalmente el sistema",
+    "duration": 5080,
+    "offset": 95840,
+    "lang": "es"
+  },
+  {
+    "text": "manual ya no da abasto y justo aquí",
+    "duration": 4480,
+    "offset": 98240,
+    "lang": "es"
+  },
+  {
+    "text": "entran los héroes de esta historia.",
+    "duration": 3559,
+    "offset": 100920,
+    "lang": "es"
+  },
+  {
+    "text": "Resulta que los sistemas multiagente de",
+    "duration": 3679,
+    "offset": 102720,
+    "lang": "es"
+  },
+  {
+    "text": "inteligencia artificial y los grafos de",
+    "duration": 4000,
+    "offset": 104479,
+    "lang": "es"
+  },
+  {
+    "text": "conocimiento pueden automatizar estas",
+    "duration": 4841,
+    "offset": 106399,
+    "lang": "es"
+  },
+  {
+    "text": "auditorías a una escala masiva, pero y",
+    "duration": 5121,
+    "offset": 108479,
+    "lang": "es"
+  },
+  {
+    "text": "esto es importantísimo, sin perder la",
+    "duration": 4239,
+    "offset": 111240,
+    "lang": "es"
+  },
+  {
+    "text": "supervisión humana. Hablamos de dos",
+    "duration": 3839,
+    "offset": 113600,
+    "lang": "es"
+  },
+  {
+    "text": "plataformas complementarias que usan IA",
+    "duration": 4161,
+    "offset": 115479,
+    "lang": "es"
+  },
+  {
+    "text": "y algo así como una memoria estructurada",
+    "duration": 4360,
+    "offset": 117439,
+    "lang": "es"
+  },
+  {
+    "text": "de datos para destrabar todo este cuello",
+    "duration": 3880,
+    "offset": 119640,
+    "lang": "es"
+  },
+  {
+    "text": "de botella. No vienen a reemplazar a",
+    "duration": 3320,
+    "offset": 121799,
+    "lang": "es"
+  },
+  {
+    "text": "nadie, vienen a darnos herramientas",
+    "duration": 4279,
+    "offset": 123520,
+    "lang": "es"
+  },
+  {
+    "text": "mucho más poderosas. Vamos a la sección",
+    "duration": 5760,
+    "offset": 125119,
+    "lang": "es"
+  },
+  {
+    "text": "dos, rúbrica ahí. ¿Y cómo evalúa los",
+    "duration": 4961,
+    "offset": 127799,
+    "lang": "es"
+  },
+  {
+    "text": "cursos a nivel micro?",
+    "duration": 3521,
+    "offset": 130879,
+    "lang": "es"
+  },
+  {
+    "text": "Ahora, lo verdaderamente interesante",
+    "duration": 4920,
+    "offset": 132760,
+    "lang": "es"
+  },
+  {
+    "text": "aquí es cómo la interfaz visualiza al",
+    "duration": 5640,
+    "offset": 134400,
+    "lang": "es"
+  },
+  {
+    "text": "instante los resultados de algoritmos",
+    "duration": 4720,
+    "offset": 137680,
+    "lang": "es"
+  },
+  {
+    "text": "complejísimos. Como esto funciona como",
+    "duration": 4479,
+    "offset": 140040,
+    "lang": "es"
+  },
+  {
+    "text": "un plugin nativo directamente en Moodle,",
+    "duration": 4119,
+    "offset": 142400,
+    "lang": "es"
+  },
+  {
+    "text": "nos da un diagnóstico sin tocar ni",
+    "duration": 4641,
+    "offset": 144519,
+    "lang": "es"
+  },
+  {
+    "text": "modificar el contenido original. Fíjense",
+    "duration": 4841,
+    "offset": 146519,
+    "lang": "es"
+  },
+  {
+    "text": "como el sistema arroja rápidamente un",
+    "duration": 4400,
+    "offset": 149160,
+    "lang": "es"
+  },
+  {
+    "text": "sólido 87.2%",
+    "duration": 4680,
+    "offset": 151360,
+    "lang": "es"
+  },
+  {
+    "text": "de alineación general. Básicamente te da",
+    "duration": 4440,
+    "offset": 153560,
+    "lang": "es"
+  },
+  {
+    "text": "una retroalimentación superrápida y",
+    "duration": 3880,
+    "offset": 156040,
+    "lang": "es"
+  },
+  {
+    "text": "accionable sobre el diseño pedagógico,",
+    "duration": 4120,
+    "offset": 158000,
+    "lang": "es"
+  },
+  {
+    "text": "diagnóstico al instante. Pero ojo,",
+    "duration": 3399,
+    "offset": 159920,
+    "lang": "es"
+  },
+  {
+    "text": "porque la herramienta no se queda en",
+    "duration": 3000,
+    "offset": 162120,
+    "lang": "es"
+  },
+  {
+    "text": "darte una nota y ya está, va muchísimo",
+    "duration": 4041,
+    "offset": 163319,
+    "lang": "es"
+  },
+  {
+    "text": "más allá. Genera un análisis de brechas",
+    "duration": 4440,
+    "offset": 165120,
+    "lang": "es"
+  },
+  {
+    "text": "ultra específico. Por ejemplo, el agente",
+    "duration": 3680,
+    "offset": 167360,
+    "lang": "es"
+  },
+  {
+    "text": "de IA se da cuenta de que un foro",
+    "duration": 3280,
+    "offset": 169560,
+    "lang": "es"
+  },
+  {
+    "text": "llamado Novedades tiene una descripción",
+    "duration": 3919,
+    "offset": 171040,
+    "lang": "es"
+  },
+  {
+    "text": "demasiado corta y te sugiere exactamente",
+    "duration": 4360,
+    "offset": 172840,
+    "lang": "es"
+  },
+  {
+    "text": "qué texto agregar para mejorarlo o de",
+    "duration": 4121,
+    "offset": 174959,
+    "lang": "es"
+  },
+  {
+    "text": "repente capta que faltan consignas para",
+    "duration": 3520,
+    "offset": 177200,
+    "lang": "es"
+  },
+  {
+    "text": "promover el pensamiento crítico y",
+    "duration": 3320,
+    "offset": 179080,
+    "lang": "es"
+  },
+  {
+    "text": "propone los ajustes directos. Es",
+    "duration": 3200,
+    "offset": 180720,
+    "lang": "es"
+  },
+  {
+    "text": "literalmente como tener a un experto en",
+    "duration": 3199,
+    "offset": 182400,
+    "lang": "es"
+  },
+  {
+    "text": "diseño instruccional trabajando a tu",
+    "duration": 3599,
+    "offset": 183920,
+    "lang": "es"
+  },
+  {
+    "text": "lado, revisando cada recurso sin",
+    "duration": 4241,
+    "offset": 185599,
+    "lang": "es"
+  },
+  {
+    "text": "descanso. Y con eso saltamos a la",
+    "duration": 4881,
+    "offset": 187519,
+    "lang": "es"
+  },
+  {
+    "text": "sección tres, el grafo normativo y la",
+    "duration": 4880,
+    "offset": 189840,
+    "lang": "es"
+  },
+  {
+    "text": "verificación ya no de cursos, sino de",
+    "duration": 4720,
+    "offset": 192400,
+    "lang": "es"
+  },
+  {
+    "text": "programas enteros. Aquí es donde hacemos",
+    "duration": 4040,
+    "offset": 194720,
+    "lang": "es"
+  },
+  {
+    "text": "un contraste radical, porque la",
+    "duration": 3039,
+    "offset": 197120,
+    "lang": "es"
+  },
+  {
+    "text": "arquitectura tiene que adaptarse al",
+    "duration": 3039,
+    "offset": 198760,
+    "lang": "es"
+  },
+  {
+    "text": "tamaño del problema. Por un lado,",
+    "duration": 3360,
+    "offset": 200159,
+    "lang": "es"
+  },
+  {
+    "text": "rúbrica fragmenta los datos usando",
+    "duration": 3281,
+    "offset": 201799,
+    "lang": "es"
+  },
+  {
+    "text": "vectores. Básicamente, corta la",
+    "duration": 3121,
+    "offset": 203519,
+    "lang": "es"
+  },
+  {
+    "text": "información en pedacitos para que la IA",
+    "duration": 3079,
+    "offset": 205080,
+    "lang": "es"
+  },
+  {
+    "text": "no alucine cuando revisa partes",
+    "duration": 3480,
+    "offset": 206640,
+    "lang": "es"
+  },
+  {
+    "text": "específicas del curso. Pero el grafo",
+    "duration": 4241,
+    "offset": 208159,
+    "lang": "es"
+  },
+  {
+    "text": "normativo hace exactamente lo contrario.",
+    "duration": 4600,
+    "offset": 210120,
+    "lang": "es"
+  },
+  {
+    "text": "Mete documentos enteros de hasta 700,000",
+    "duration": 4320,
+    "offset": 212400,
+    "lang": "es"
+  },
+  {
+    "text": "caracteres de una sola vez en un modelo",
+    "duration": 4439,
+    "offset": 214720,
+    "lang": "es"
+  },
+  {
+    "text": "avanzado como Gémini 3.5 Flash. ¿Por qué",
+    "duration": 3960,
+    "offset": 216720,
+    "lang": "es"
+  },
+  {
+    "text": "este cambio? Porque un sílabo no se",
+    "duration": 3601,
+    "offset": 219159,
+    "lang": "es"
+  },
+  {
+    "text": "puede entender a pedazos. La IA necesita",
+    "duration": 4199,
+    "offset": 220680,
+    "lang": "es"
+  },
+  {
+    "text": "procesar el documento normativo completo",
+    "duration": 3720,
+    "offset": 222760,
+    "lang": "es"
+  },
+  {
+    "text": "para entender el contexto global y no",
+    "duration": 3201,
+    "offset": 224879,
+    "lang": "es"
+  },
+  {
+    "text": "perder el sentido. Todo este",
+    "duration": 3399,
+    "offset": 226480,
+    "lang": "es"
+  },
+  {
+    "text": "procesamiento sigue unos pasos muy",
+    "duration": 3280,
+    "offset": 228080,
+    "lang": "es"
+  },
+  {
+    "text": "claros orquestados por agentes",
+    "duration": 3640,
+    "offset": 229879,
+    "lang": "es"
+  },
+  {
+    "text": "inteligentes. Primero, consultan la",
+    "duration": 4760,
+    "offset": 231360,
+    "lang": "es"
+  },
+  {
+    "text": "ontología o estructura básica. Segundo,",
+    "duration": 4881,
+    "offset": 233519,
+    "lang": "es"
+  },
+  {
+    "text": "analizan el documento a fondo. Tercero,",
+    "duration": 4360,
+    "offset": 236120,
+    "lang": "es"
+  },
+  {
+    "text": "identifican las brechas. Y cuarto,",
+    "duration": 4039,
+    "offset": 238400,
+    "lang": "es"
+  },
+  {
+    "text": "generan sugerencias. Quiero hacer una",
+    "duration": 3319,
+    "offset": 240480,
+    "lang": "es"
+  },
+  {
+    "text": "pausa en el paso tres porque es",
+    "duration": 3601,
+    "offset": 242439,
+    "lang": "es"
+  },
+  {
+    "text": "espectacular. Usa un filtro semántico",
+    "duration": 4201,
+    "offset": 243799,
+    "lang": "es"
+  },
+  {
+    "text": "que descarta falsos positivos de manera",
+    "duration": 3880,
+    "offset": 246040,
+    "lang": "es"
+  },
+  {
+    "text": "brillante. Digamos que la norma exige",
+    "duration": 3680,
+    "offset": 248000,
+    "lang": "es"
+  },
+  {
+    "text": "reglas de laboratorio, pero el sílabo",
+    "duration": 3599,
+    "offset": 249920,
+    "lang": "es"
+  },
+  {
+    "text": "dice claramente que esa materia es 100%",
+    "duration": 3279,
+    "offset": 251680,
+    "lang": "es"
+  },
+  {
+    "text": "teórica. El sistema es lo",
+    "duration": 2921,
+    "offset": 253519,
+    "lang": "es"
+  },
+  {
+    "text": "suficientemente avanzado para entender",
+    "duration": 3721,
+    "offset": 254959,
+    "lang": "es"
+  },
+  {
+    "text": "la excepción y decir, \"Ah, claro, esto",
+    "duration": 4440,
+    "offset": 256440,
+    "lang": "es"
+  },
+  {
+    "text": "no aplica, entiende el contexto real.\"",
+    "duration": 4440,
+    "offset": 258680,
+    "lang": "es"
+  },
+  {
+    "text": "De un lado podemos ver cómo interactúan",
+    "duration": 4200,
+    "offset": 260880,
+    "lang": "es"
+  },
+  {
+    "text": "estos agentes tomando un documento",
+    "duration": 3880,
+    "offset": 263120,
+    "lang": "es"
+  },
+  {
+    "text": "normativo sumamente pesado y",
+    "duration": 4320,
+    "offset": 265080,
+    "lang": "es"
+  },
+  {
+    "text": "sintetizando una rúbrica perfecta paso a",
+    "duration": 4840,
+    "offset": 267000,
+    "lang": "es"
+  },
+  {
+    "text": "paso. Y del otro lado, el resultado",
+    "duration": 4359,
+    "offset": 269400,
+    "lang": "es"
+  },
+  {
+    "text": "final de todo ese esfuerzo, un panel",
+    "duration": 3760,
+    "offset": 271840,
+    "lang": "es"
+  },
+  {
+    "text": "general de cumplimiento que nos dice,",
+    "duration": 4880,
+    "offset": 273759,
+    "lang": "es"
+  },
+  {
+    "text": "\"Oye, este programa cumple con el 91% de",
+    "duration": 5319,
+    "offset": 275600,
+    "lang": "es"
+  },
+  {
+    "text": "los requisitos. Tienes un mapa clarísimo",
+    "duration": 3641,
+    "offset": 278639,
+    "lang": "es"
+  },
+  {
+    "text": "y exacto de la situación de la",
+    "duration": 3641,
+    "offset": 280919,
+    "lang": "es"
+  },
+  {
+    "text": "institución académica.\" Y esto ilustra",
+    "duration": 4199,
+    "offset": 282280,
+    "lang": "es"
+  },
+  {
+    "text": "de manera brillante cómo se sostiene",
+    "duration": 3560,
+    "offset": 284560,
+    "lang": "es"
+  },
+  {
+    "text": "toda la arquitectura por detrás.",
+    "duration": 3201,
+    "offset": 286479,
+    "lang": "es"
+  },
+  {
+    "text": "Olvídense de las clásicas tablas de",
+    "duration": 3519,
+    "offset": 288120,
+    "lang": "es"
+  },
+  {
+    "text": "Excel. Estamos hablando de un grafo de",
+    "duration": 4720,
+    "offset": 289680,
+    "lang": "es"
+  },
+  {
+    "text": "conocimiento construido en Neo4J. El",
+    "duration": 4400,
+    "offset": 291639,
+    "lang": "es"
+  },
+  {
+    "text": "sistema guarda la conexión semántica",
+    "duration": 3639,
+    "offset": 294400,
+    "lang": "es"
+  },
+  {
+    "text": "profunda entre cada regla, cada",
+    "duration": 3880,
+    "offset": 296039,
+    "lang": "es"
+  },
+  {
+    "text": "criterio, la actividad del estudiante y",
+    "duration": 4041,
+    "offset": 298039,
+    "lang": "es"
+  },
+  {
+    "text": "la evidencia. Esto significa que cada",
+    "duration": 3921,
+    "offset": 299919,
+    "lang": "es"
+  },
+  {
+    "text": "decisión que toma la IA se puede",
+    "duration": 3640,
+    "offset": 302080,
+    "lang": "es"
+  },
+  {
+    "text": "rastrear a la perfección, logrando una",
+    "duration": 3480,
+    "offset": 303840,
+    "lang": "es"
+  },
+  {
+    "text": "trazabilidad absoluta a lo largo del",
+    "duration": 4080,
+    "offset": 305720,
+    "lang": "es"
+  },
+  {
+    "text": "tiempo. Entremos a la sección cuatro,",
+    "duration": 4760,
+    "offset": 307320,
+    "lang": "es"
+  },
+  {
+    "text": "definiciones simétricas clave. Vamos a",
+    "duration": 4000,
+    "offset": 309800,
+    "lang": "es"
+  },
+  {
+    "text": "levantar el capo para ver cómo medimos",
+    "duration": 4160,
+    "offset": 312080,
+    "lang": "es"
+  },
+  {
+    "text": "el éxito y la precisión. Todo arranca",
+    "duration": 4440,
+    "offset": 313800,
+    "lang": "es"
+  },
+  {
+    "text": "con cómo definimos las estructuras de",
+    "duration": 4000,
+    "offset": 316240,
+    "lang": "es"
+  },
+  {
+    "text": "datos. Tenemos el dominio Moodle",
+    "duration": 4320,
+    "offset": 318240,
+    "lang": "es"
+  },
+  {
+    "text": "compuesto por el curso y sus elementos.",
+    "duration": 3959,
+    "offset": 320240,
+    "lang": "es"
+  },
+  {
+    "text": "La clave técnica aquí es que el sistema",
+    "duration": 3639,
+    "offset": 322560,
+    "lang": "es"
+  },
+  {
+    "text": "le asigna un ID estable a cada",
+    "duration": 4280,
+    "offset": 324199,
+    "lang": "es"
+  },
+  {
+    "text": "cuestionario, cada texto o cada tarea.",
+    "duration": 3521,
+    "offset": 326199,
+    "lang": "es"
+  },
+  {
+    "text": "Gracias a esa estabilización de",
+    "duration": 3121,
+    "offset": 328479,
+    "lang": "es"
+  },
+  {
+    "text": "identificadores, el sistema puede",
+    "duration": 4039,
+    "offset": 329720,
+    "lang": "es"
+  },
+  {
+    "text": "auditar los cursos muchísimas veces",
+    "duration": 3879,
+    "offset": 331600,
+    "lang": "es"
+  },
+  {
+    "text": "reconociendo las partes, pero sin",
+    "duration": 3641,
+    "offset": 333759,
+    "lang": "es"
+  },
+  {
+    "text": "modificar ni un punto ni una coma del",
+    "duration": 3361,
+    "offset": 335479,
+    "lang": "es"
+  },
+  {
+    "text": "contenido original creado por el",
+    "duration": 3680,
+    "offset": 337400,
+    "lang": "es"
+  },
+  {
+    "text": "docente. Por otro lado, tenemos el",
+    "duration": 4000,
+    "offset": 338840,
+    "lang": "es"
+  },
+  {
+    "text": "dominio de evaluación, que es el",
+    "duration": 4119,
+    "offset": 341080,
+    "lang": "es"
+  },
+  {
+    "text": "resultado que nos devuelve la IA. Aquí",
+    "duration": 4120,
+    "offset": 342840,
+    "lang": "es"
+  },
+  {
+    "text": "es vital entender qué significa un",
+    "duration": 4161,
+    "offset": 345199,
+    "lang": "es"
+  },
+  {
+    "text": "finding o hallazgo. La IA no te va a",
+    "duration": 4519,
+    "offset": 346960,
+    "lang": "es"
+  },
+  {
+    "text": "decir simplemente esto está mal. Cada",
+    "duration": 3600,
+    "offset": 349360,
+    "lang": "es"
+  },
+  {
+    "text": "hallazgo incluye una afirmación",
+    "duration": 3921,
+    "offset": 351479,
+    "lang": "es"
+  },
+  {
+    "text": "específica y lo más importante de todo,",
+    "duration": 4359,
+    "offset": 352960,
+    "lang": "es"
+  },
+  {
+    "text": "evidencia textual cruda mapeada",
+    "duration": 3840,
+    "offset": 355400,
+    "lang": "es"
+  },
+  {
+    "text": "directamente de regreso a ese elemento",
+    "duration": 4401,
+    "offset": 357319,
+    "lang": "es"
+  },
+  {
+    "text": "del curso. Eso combinado con la etiqueta",
+    "duration": 4239,
+    "offset": 359240,
+    "lang": "es"
+  },
+  {
+    "text": "del nivel y el puntaje ancla",
+    "duration": 3479,
+    "offset": 361720,
+    "lang": "es"
+  },
+  {
+    "text": "absolutamente el juicio de la IA en la",
+    "duration": 4440,
+    "offset": 363479,
+    "lang": "es"
+  },
+  {
+    "text": "realidad documentada. Cero inventos. Y",
+    "duration": 4361,
+    "offset": 365199,
+    "lang": "es"
+  },
+  {
+    "text": "para asegurar que la IA mantenga un",
+    "duration": 3961,
+    "offset": 367919,
+    "lang": "es"
+  },
+  {
+    "text": "rigor absoluto, existen KPIs super",
+    "duration": 4400,
+    "offset": 369560,
+    "lang": "es"
+  },
+  {
+    "text": "estrictos. Tenemos la estabilidad del",
+    "duration": 4080,
+    "offset": 371880,
+    "lang": "es"
+  },
+  {
+    "text": "puntaje, la fidelidad de la narrativa,",
+    "duration": 3359,
+    "offset": 373960,
+    "lang": "es"
+  },
+  {
+    "text": "pero quiero destacar la tasa de",
+    "duration": 3600,
+    "offset": 375960,
+    "lang": "es"
+  },
+  {
+    "text": "elementos fantasma. Esto mide si la IA",
+    "duration": 3841,
+    "offset": 377319,
+    "lang": "es"
+  },
+  {
+    "text": "se está inventando o alucinando partes",
+    "duration": 3320,
+    "offset": 379560,
+    "lang": "es"
+  },
+  {
+    "text": "del currículo que no existen. La",
+    "duration": 4720,
+    "offset": 381160,
+    "lang": "es"
+  },
+  {
+    "text": "expectativa 0% garantizado. Tiene que",
+    "duration": 5560,
+    "offset": 382880,
+    "lang": "es"
+  },
+  {
+    "text": "ser exacto y confiable. Finalmente",
+    "duration": 5159,
+    "offset": 385880,
+    "lang": "es"
+  },
+  {
+    "text": "llegamos a la sección cinco, resultados",
+    "duration": 5599,
+    "offset": 388440,
+    "lang": "es"
+  },
+  {
+    "text": "y trazabilidad. Hablemos del impacto.",
+    "duration": 5481,
+    "offset": 391039,
+    "lang": "es"
+  },
+  {
+    "text": "Entonces, el punto crucial es este. La",
+    "duration": 4841,
+    "offset": 394039,
+    "lang": "es"
+  },
+  {
+    "text": "IA actúa como un asistente quirúrgico,",
+    "duration": 4840,
+    "offset": 396520,
+    "lang": "es"
+  },
+  {
+    "text": "no como un reemplazo autoritario. Cuando",
+    "duration": 4400,
+    "offset": 398880,
+    "lang": "es"
+  },
+  {
+    "text": "enfrenta una brecha en un sílabo, no te",
+    "duration": 3760,
+    "offset": 401360,
+    "lang": "es"
+  },
+  {
+    "text": "borra el documento para reescribirlo por",
+    "duration": 4479,
+    "offset": 403280,
+    "lang": "es"
+  },
+  {
+    "text": "completo. Para nada. Te señala el lugar",
+    "duration": 4120,
+    "offset": 405120,
+    "lang": "es"
+  },
+  {
+    "text": "exacto y te ofrece una inserción de",
+    "duration": 3481,
+    "offset": 407759,
+    "lang": "es"
+  },
+  {
+    "text": "textos super específica, respetando",
+    "duration": 4320,
+    "offset": 409240,
+    "lang": "es"
+  },
+  {
+    "text": "siempre la identidad del programa.",
+    "duration": 4560,
+    "offset": 411240,
+    "lang": "es"
+  },
+  {
+    "text": "Documenta, acelera el proceso y mantiene",
+    "duration": 4240,
+    "offset": 413560,
+    "lang": "es"
+  },
+  {
+    "text": "la soberanía total de los datos en manos",
+    "duration": 4079,
+    "offset": 415800,
+    "lang": "es"
+  },
+  {
+    "text": "de la institución. Con motores que",
+    "duration": 4360,
+    "offset": 417800,
+    "lang": "es"
+  },
+  {
+    "text": "aprenden y mejoran constantemente, el",
+    "duration": 4121,
+    "offset": 419879,
+    "lang": "es"
+  },
+  {
+    "text": "sistema se vuelve más inteligente en",
+    "duration": 3840,
+    "offset": 422160,
+    "lang": "es"
+  },
+  {
+    "text": "cada ciclo, sin depender siempre del",
+    "duration": 4120,
+    "offset": 424000,
+    "lang": "es"
+  },
+  {
+    "text": "procesamiento en la nube en tiempo real.",
+    "duration": 3720,
+    "offset": 426000,
+    "lang": "es"
+  },
+  {
+    "text": "Y eso nos deja con una pregunta",
+    "duration": 3919,
+    "offset": 428120,
+    "lang": "es"
+  },
+  {
+    "text": "fascinante para reflexionar. A medida",
+    "duration": 4240,
+    "offset": 429720,
+    "lang": "es"
+  },
+  {
+    "text": "que la IA acelera este proceso y",
+    "duration": 3241,
+    "offset": 432039,
+    "lang": "es"
+  },
+  {
+    "text": "documenta los criterios de forma",
+    "duration": 3359,
+    "offset": 433960,
+    "lang": "es"
+  },
+  {
+    "text": "impecable, ¿cómo redefinirá esta",
+    "duration": 3759,
+    "offset": 435280,
+    "lang": "es"
+  },
+  {
+    "text": "trazabilidad perfecta el futuro de la",
+    "duration": 3961,
+    "offset": 437319,
+    "lang": "es"
+  },
+  {
+    "text": "calidad educativa? Imaginen un mundo",
+    "duration": 4121,
+    "offset": 439039,
+    "lang": "es"
+  },
+  {
+    "text": "donde garantizar la calidad no sea una",
+    "duration": 3880,
+    "offset": 441280,
+    "lang": "es"
+  },
+  {
+    "text": "carga burocrática, sino un motor de",
+    "duration": 4120,
+    "offset": 443160,
+    "lang": "es"
+  },
+  {
+    "text": "mejora continua. La verdad, las",
+    "duration": 6240,
+    "offset": 445160,
+    "lang": "es"
+  },
+  {
+    "text": "posibilidades apenas comienzan.",
+    "duration": 4120,
+    "offset": 447280,
+    "lang": "es"
+  }
+]

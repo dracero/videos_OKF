@@ -4,8 +4,12 @@ title: "Atlasian_MCP"
 description: ""
 transcript_summary: "Vamos a mostrar cómo interactuar directamente desde Visual Studio Code con herramientas de Atlacian. ¿Para qué nos va a servir esto? Primero, para realizar todo el trabajo necesario con herramientas de girira y segundo para realizar todo el trabajo necesario con confluence. Acá, por ejemplo, tenemos este ritm.tx, tx este remin.md que habíamos generado utilizando el mcp server de playrhtght y ahora vamos a usar el SM el mcp server de e Atlasian para interactuar con confluence. ¿Qué es lo que le vamos a pedir? Le vamos a pedir que cambie el nombre de una página que se llamaba ADK Test y le ponga conversational agent. Lo ejecutamos. nos dice que ya lo cambió. Y ahora vamos a ver la página acá. Fíjense, ADK test. Vamos a recargar. Fíjense que ahora se llama conversational agent. ¿Y qué es lo que hicimos? Le dijimos que en esa página pusiera el contenido del RMI.md. O sea, acá tenemos ya toda la documentación y el RMI.m. directamente simplemente con apretar un botón y mandarlo a e al confluence."
 resource: "https://www.youtube.com/watch?v=skchsiAPn0M"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:12.228Z" }
+category: "rag_and_agents"
+category_confidence: 0.98
+has_code_demo: true
+difficulty_score: 0.81
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:21:04.725Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** rag_and_agents (confianza: 98%)
+- **Código en vivo:** Sí
+- **Nivel técnico:** 0.8 / 3.0
 - **Publicado el:** 23 de abril de 2025
 - **Duración:** 01:28
 - **Vistas:** 7 | **Likes:** 1

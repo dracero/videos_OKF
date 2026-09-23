@@ -4,8 +4,12 @@ title: "segunda_etapa_ubatic"
 description: ""
 transcript_summary: "Bueno, vamos a mostrar en qué consiste esta segunda etapa de la segunda etapa del proyecto Ubatic. Una vez que ya tenemos todos los chatbots funcionando, tenemos que empezar a generar interacciones. Esas interacciones se van a captar por telemetría a través de un sistema llamado Langsmith y podemos con una API de Backen tomar esas interacciones para que suceda esto que vamos a ver acá, que es ver cómo fueron o qué fue lo que sucedió en esas interacciones entre los alumnos y el sistema. Entonces, acá se carga se carga todo lo que toda la interacción. Acá tenemos un sistemita que desarrollamos que es para hacer el análisis. Entonces, acá está la pregunta. Eh, acá está el contexto recuperado a través de la base de datos de esa pregunta y en definitiva la respuesta lo que generó. Esa respuesta se puede editar. Yo acá puedo editar esa respuesta. Si a mí no me no me parece que sea correcta, yo puedo editar, puedo poner, bueno, ¿qué es lo que lo que pondría yo en la respuesta? hasta lo puedo cambiar. Le doy guardar y lo guarda. Y después lo que puedo hacer es un análisis con un sistema de inteligencia artificial"
 resource: "https://www.youtube.com/watch?v=xsD-0SDmHRo"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:09:28.649Z" }
+category: "rag_and_agents"
+category_confidence: 0.98
+has_code_demo: false
+difficulty_score: 1.08
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:16:42.395Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** rag_and_agents (confianza: 98%)
+- **Código en vivo:** No
+- **Nivel técnico:** 1.1 / 3.0
 - **Publicado el:** 1 de julio de 2026
 - **Duración:** 01:53
 - **Vistas:** 16 | **Likes:** 0

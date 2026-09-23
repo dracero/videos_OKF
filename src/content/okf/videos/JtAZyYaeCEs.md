@@ -4,8 +4,12 @@ title: "Clase practica Física I, curso SP1 2020 11 12 at 15 07 GMT 8"
 description: "Física I FIBUA"
 transcript_summary: "qué es la fuerza hasta externa assange materia cómo sólo usaría como sistema particular esto si intentarían observar lo siguiente pero que se tiene que el tema la pregunta ex para para decir que el vector peso conserva o no se acuerdan que hoy carlos les dijo que cosas se tienen que cumplir la sumatoria de fuerza externa que se anula o que no actúen fuerzas externas porque la sumatoria de fuerzas externas se anula entonces acá lo que en principio es difícil de ver es eso actúan acá fuerzas externas si no hay rozamiento y tengo todo el sistema cerrado actúan fuerzas internas externas perdón la fuerza que le hace la tierra a la caña se cancela vamos a anular esa puede ser una fuerza externa a ver es perenne vamos a ver empiezo a y están viendo el yambo organon el cable y entonces lo primero que tenemos que hacer acá que es es vamos a definir un sistema de referencia yo lo voy a definir así vertical y horizontal bien este va a ser el sistema de referencia bien entonces yo acá en este sistema de referencia y vamos a mover este y agrandarlo un poco para poder hacer por separados los"
 resource: "https://www.youtube.com/watch?v=JtAZyYaeCEs"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:34.317Z" }
+category: "physics_and_math"
+category_confidence: 0.98
+has_code_demo: false
+difficulty_score: 0.54
+tags: ["physics_and_math"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:18:09.512Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** physics_and_math (confianza: 98%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.5 / 3.0
 - **Publicado el:** 13 de noviembre de 2020
 - **Duración:** 52:00
 - **Vistas:** 54 | **Likes:** 1

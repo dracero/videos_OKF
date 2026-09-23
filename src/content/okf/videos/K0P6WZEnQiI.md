@@ -2,10 +2,13 @@
 type: YouTube Video
 title: "2023 10 21 20 58 03"
 description: "Yolov8 Distance Detection"
-transcript_summary: ""
 resource: "https://www.youtube.com/watch?v=K0P6WZEnQiI"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:11.191Z" }
+category: "computer_vision"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 0.8
+tags: ["computer_vision"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:18:09.642Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCx1KkYmHhghhGFgA7VP2aWQ"
@@ -19,7 +22,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCx1KkYmHhghhGFgA7VP2aWQ.md"
     title: "Channel: Diego Racero"
@@ -39,6 +42,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCx1KkYmHhghhGFgA7VP2aWQ.md)
+- **Categoría:** computer_vision (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.8 / 3.0
 - **Publicado el:** 21 de octubre de 2023
 - **Duración:** 00:39
 - **Vistas:** 6 | **Likes:** 0

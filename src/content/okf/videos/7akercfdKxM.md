@@ -4,8 +4,12 @@ title: "clideo editor kineamtics"
 description: ""
 transcript_summary: "Hola a todos y bienvenidos a Física en Foco. Soy su anfitrión Diego y hoy tenemos el placer de contar con un experto en la materia, Marcelo Funtana, para desglosar un tema fundamental, la cinemática. Marcelo, qué bueno tenerte aquí. Gracias por la invitación, Diego. Un placer estar con ustedes y hablar de física. Marcelo, empecemos por lo básico. En el video se menciona algo crucial para describir el movimiento, el sistema de referencia. ¿Qué es y por qué es tan importante? Claro, Diego. Imagina que quieres describir dónde está un objeto. Necesitas un punto de partida, un origen y unas direcciones para orientarte, como un eje X y Z. Eso es un sistema de referencia. Sin él no podemos definir la posición de nada. El vector posición, que es una flecha que va del origen de nuestro sistema hasta el objeto, nos da la ubicación exacta de la partícula en cada instante de tiempo. El lugar geométrico de todos los puntos que son alcanzados por el vector posición es la trayectoria. ¿Entendido? Ahora, hablemos de la velocidad. A menudo escuchamos sobre velocidad media e instantánea. ¿Cuál es la diferencia? Buena pregunta. La velocidad media es el desplazamiento total dividido por el tiempo que tardó"
 resource: "https://www.youtube.com/watch?v=7akercfdKxM"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:05.766Z" }
+category: "physics_and_math"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 0.01
+tags: ["physics_and_math"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:20:36.062Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** physics_and_math (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.0 / 3.0
 - **Publicado el:** 25 de julio de 2025
 - **Duración:** 06:27
 - **Vistas:** 53 | **Likes:** 0

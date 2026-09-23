@@ -4,8 +4,12 @@ title: "mcp_adk_playwright"
 description: ""
 transcript_summary: "Utilizando el feature de Builin MCP host client que tienen los clientes ADK, los agentes ADK, perdón, lo que hicimos fue construir un agente que tiene la posibilidad de conectarse por un lado a nuestro file system y por otro lado le conectamos el e mp server de Playright para que pueda da conectarse a la web. ¿Para qué vamos a usar esto? Por ejemplo, le vamos a pedir que lea archivos de nuestro file system y le vamos a pedir que busque en la webción para decirnos qué es lo que hacen esos archivos de nuestro File System. Vamos a iniciarlo. Ahí estamos iniciando la interfaz web del ADK. Acá inició. Vamos a ir a la interfaz web. Acá estamos, ya levantó la sesión. Entonces le vamos a pedir que podés leer el contenido del directorio ADK MCP Samples. Yes."
 resource: "https://www.youtube.com/watch?v=B9oDu1MkEDM"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:05.568Z" }
+category: "rag_and_agents"
+category_confidence: 1
+has_code_demo: true
+difficulty_score: 0.91
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:20:35.326Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** rag_and_agents (confianza: 100%)
+- **Código en vivo:** Sí
+- **Nivel técnico:** 0.9 / 3.0
 - **Publicado el:** 26 de julio de 2025
 - **Duración:** 01:18
 - **Vistas:** 3 | **Likes:** 0

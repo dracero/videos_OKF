@@ -4,8 +4,12 @@ title: "Podcast_transmedia"
 description: ""
 transcript_summary: "La trama del saber. Episodio 1. No es la clase de fluidos, es la historia de Fry Bentos. Hola y bienvenidos a La trama del saber, el podcast donde exploramos cómo las historias moldean la forma en que enseñamos y aprendemos. Soy Valeria y hoy tenemos con nosotros a Diego, profesor de ingeniería, para desentrañar el ADN narrativo que se esconde en sus clases. ¿Cómo estás, Diego? Hola, Valeria. Muy bien, intrigado por esta charla. Normalmente hablo de ecuaciones y diagramas, así que esto es un cambio de ritmo. Perfecto, porque hoy vamos a usar como guía un análisis fascinante sobre la evolución del relato desde la narrativa transmedia hasta los mundos inmersivos. La idea es ver cómo tu práctica docente, quizás sin que te dieras cuenta, ya está aplicando estas ideas. Empezamos. Adelante. Bien. Primera pregunta. ¿Con qué tipos de relatos sentís identificación? Cuando voy clase me siento identificado con historias que provoquen que los alumnos valoren los contenidos. Por ejemplo, contar que gracias a los temas que están viendo se tienen importantes avances en la inteligencia artificial o que las comunicaciones modernas funcionan con principios físicos de hace más de 100 años. Busco que vean el valor práctico y"
 resource: "https://www.youtube.com/watch?v=ywl6VlNngFc"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:08.344Z" }
+category: "general_institutional"
+category_confidence: 0.66
+has_code_demo: false
+difficulty_score: 0.01
+tags: ["general_institutional"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:20:42.452Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** general_institutional (confianza: 66%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.0 / 3.0
 - **Publicado el:** 4 de julio de 2025
 - **Duración:** 08:11
 - **Vistas:** 10 | **Likes:** 0

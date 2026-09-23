@@ -4,8 +4,12 @@ title: "Google_AI_Studio_Build"
 description: ""
 transcript_summary: "Bueno, vamos a ver un feature muy bueno que tiene el nuevo Google Studio. Vamos a donde dice build. Acá vemos ejemplos de apps, eh, pero si queremos podemos ir y crear nuestra propia app. Le voy a mostrar. Acá tengo una app que creé yo. E voy a permitir. Hello, how are you? Hello. Thank you for asking. How are you today? Fine. Thank you. I just uh talk with you and comment um an article of um Financial Times newspaper in order to help me to analyze and improve my English reading that kind of financial English. That sounds like a great plan. I'd be happy to help you analyze an article and improve your English. Which article are you interested in discussing? Um, ok. I reading something here. Trump to meet lawmakers as US government has to shut down. Uh, what that exactly means that uh it means that the US government it's it's near to to close because lack of budget. That's right. A government shutdown usually happens when Congress and the president don't agree on a spending bill before a deadline, which causes some government services to stop or be temporarily suspended. Would you like me"
 resource: "https://www.youtube.com/watch?v=N0E0uLVHMb0"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:00.525Z" }
+category: "nlp_transformers"
+category_confidence: 0.65
+has_code_demo: false
+difficulty_score: 0.06
+tags: ["nlp_transformers"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:20:01.218Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** nlp_transformers (confianza: 65%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.1 / 3.0
 - **Publicado el:** 28 de septiembre de 2025
 - **Duración:** 06:00
 - **Vistas:** 101 | **Likes:** 0

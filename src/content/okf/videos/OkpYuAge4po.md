@@ -4,8 +4,12 @@ title: "Jul 15, 2018 8 30 PM"
 description: ""
 transcript_summary: "y escribir código en html lo mejor que podemos hacer es empezar a practicarlo programando y para empezar a ver bueno qué cosas practicar la mejor página que hay es w3c y ahí vamos a buscar el curso de html tiene un montón de cosas que nosotros podemos practicar entonces acá es donde empezamos a ver todas las cosas que nosotros podemos practicar y todas las cosas que podemos ir haciendo para ir viendo cómo armar una página nosotros lo que tenemos que tener siempre idea es de la forma que queremos que tenga la página los botones los cuadros de texto los reyes gustos los dos los drop down list después el cómo armarla la verdad que no es algo complicado porque podemos verlo a través de estas páginas que nos dan un montón un montón de opciones para que nosotros podemos podamos aprender a programar si así todos nosotros queremos hacer algo de práctica llevar a la práctica y ver cómo se va modificando toda medida que cambiamos ciertas partes del código podemos ir a code que es el que yo les había pasado en el curso cuando recién empezamos acá es donde podemos por un lado crear nuestro"
 resource: "https://www.youtube.com/watch?v=OkpYuAge4po"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:12:03.216Z" }
+category: "software_web_dev"
+category_confidence: 1
+has_code_demo: false
+difficulty_score: 0.08
+tags: ["software_web_dev"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:22:12.980Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCDs8wbm1jczac3UNYIAVxZg.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCDs8wbm1jczac3UNYIAVxZg.md)
+- **Categoría:** software_web_dev (confianza: 100%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.1 / 3.0
 - **Publicado el:** 15 de julio de 2018
 - **Duración:** 02:22
 - **Vistas:** 5 | **Likes:** 0

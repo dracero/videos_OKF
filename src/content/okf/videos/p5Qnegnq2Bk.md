@@ -4,8 +4,12 @@ title: "Clase practica Física I, curso SP1 2020 10 01 at 15 24 GMT 7"
 description: ""
 transcript_summary: "empezamos a presentar pero está bien en realidad ustedes entran a cris bidwill le dice conectarse a la presentación listo se conectan y no tocan más nada dice eso lo dice en inglés de acuerdo a como lo tenga configurado claro bien van a entrar a nadie dice este conectando si entra más nada bien entonces para aquello que pasa vamos a la siguiente parte que para eso si es que les pedís que se conectarán porque esto me me interesaría fíjense en su celular o en la pantalla de su computadora que les tiene que haber aparecido para responder esto bien fíjense ahora si abren su seguridad es decir bien entonces me gustaría que conteste en esta pregunta se puede hallar las en este caso se puede hallar la aceleración derivando la velocidad i no me acuerdo el código y no puedo volver para atrás igual no se preocupen que este piensen bien eso es porque esta parte es este es importante a listos bien pone en create with google y cuando les dé para conectarse escriben ese código de seis dígitos bien bien esperen quieren volver a la parte anterior ahí estamos viendo la parte anterior bien si quieren anoten el"
 resource: "https://www.youtube.com/watch?v=p5Qnegnq2Bk"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:35.234Z" }
+category: "physics_and_math"
+category_confidence: 0.85
+has_code_demo: false
+difficulty_score: 0.22
+tags: ["physics_and_math"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:18:11.912Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCmyMY4FLYPYoO1IZhZPqc3w"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCmyMY4FLYPYoO1IZhZPqc3w.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCmyMY4FLYPYoO1IZhZPqc3w.md)
+- **Categoría:** physics_and_math (confianza: 85%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.2 / 3.0
 - **Publicado el:** 2 de octubre de 2020
 - **Duración:** 01:33:30
 - **Vistas:** 31 | **Likes:** 2

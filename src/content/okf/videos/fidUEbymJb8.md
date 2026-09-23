@@ -4,8 +4,12 @@ title: "MVP_hsito_test_qdrant"
 description: ""
 transcript_summary: "Vamos a mostrar el sistema que estuvimos haciendo ayer. Terminamos de armarlo trabajando en conjunto con todos los alumnos para la facultad de medicina. En principio vamos a poner imágenes de tejidos. Le vamos a decir si me podés explicar el tejido de la imagen y ahí vamos a esperar para que nos responda de qué tejido se trata esa imagen. En principio es eso. utilizando un sistema multimodal que es Metalama eh 4, lo que vamos a hacer es e que nos diga el tejido de la imagen. Bien, corresponde a tejido nervioso, específicamente corteza cerebelosa y nos dice la referencia del manual porque estamos haando un manual de estopatología. Vamos a buscar otra imagen. Podes escribir el tejo de la imagen. Entonces ahí buscamos otra imagen. Nos va a describir siempre haciendo rag sobre haciendo rag multimodal sobre el manual de histopatología. Bien. eh identificado corresponde tejido contio especializado especial cartílago yalino. Este cartílago. Bien, entonces acá le voy a decir, bueno, ¿me podés explicar los distintos tipos de tejido cartilaginoso que existen? según el manual, acuérdense que esto lo hicimos a través de un manual de histopatología y ahí me va a devolver los distintos tipos de"
 resource: "https://www.youtube.com/watch?v=fidUEbymJb8"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:10:51.030Z" }
+category: "rag_and_agents"
+category_confidence: 0.99
+has_code_demo: false
+difficulty_score: 0.85
+tags: ["rag_and_agents"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:19:06.606Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** rag_and_agents (confianza: 99%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.8 / 3.0
 - **Publicado el:** 25 de abril de 2026
 - **Duración:** 03:25
 - **Vistas:** 10 | **Likes:** 0

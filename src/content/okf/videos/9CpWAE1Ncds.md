@@ -4,8 +4,12 @@ title: "Jul 18 2018 10 34 AM"
 description: ""
 transcript_summary: "una vez que hicimos clic en google cloud nos aparece esta pantalla donde podemos elegir el nombre para el servidor podemos poner la zona donde queremos que esté y le damos directamente al botón create hay que hacer una salvedad hay que poner una tarjeta de crédito para poder usar google cloud pero tenemos 300 dólares y un año gratis si pasado ese periodo de tiempo nosotros no hacemos un upgrade de la cuenta a la cuenta automáticamente se pone en pausa y no tenemos que pagar nada entonces vamos a usar esta alternativa de utilizar la nube de google gratis para aprender a ver cómo se usa y bueno finalmente después cada uno hará lo que quiera con respecto a el uso de la misma"
 resource: "https://www.youtube.com/watch?v=9CpWAE1Ncds"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:12:01.731Z" }
+category: "software_web_dev"
+category_confidence: 0.92
+has_code_demo: false
+difficulty_score: 0.01
+tags: ["software_web_dev"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:22:10.276Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCDs8wbm1jczac3UNYIAVxZg"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCDs8wbm1jczac3UNYIAVxZg.md"
     title: "Channel: Diego Racero"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [Diego Racero](../channels/UCDs8wbm1jczac3UNYIAVxZg.md)
+- **Categoría:** software_web_dev (confianza: 92%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.0 / 3.0
 - **Publicado el:** 18 de julio de 2018
 - **Duración:** 00:54
 - **Vistas:** 3 | **Likes:** 0

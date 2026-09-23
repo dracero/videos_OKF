@@ -4,8 +4,12 @@ title: "Jira video 4"
 description: ""
 transcript_summary: "fíjense que las tareas ciertas tareas están vinculadas a algo que se llama la épica la épica sería como un título que engloba todas esas tareas por ejemplo el taller de h5p el taller de iones educativos está en talleres regulares Entonces cuando nosotros vamos al cronograma las tareas van a estar agrupadas por Epic bien acá tenemos talleres regulares y acá en talleres regulares nos aparecen todas las tareas que se están desarrollando para tareas regulares y acá sobre qué Sprint se están desarrollando arma lo que sería el gant pero lo arma en forma automática a partir de las definiciones que vamos haciendo Nosotros bien acuérdense todos ustedes pueden crear tareas y vincularlas si lo estiman necesario y Acuérdense que los sprints son de tres semanas y todo lo que se no se termina en tres semanas pasa de un Sprint al siguiente y hay que escribir por qué es que se pasa"
 resource: "https://www.youtube.com/watch?v=g9S_3fr2lKs"
-tags: []
-generated: { by: "process:sync-youtube", at: "2026-08-13T22:11:35.299Z" }
+category: "general_institutional"
+category_confidence: 0.35
+has_code_demo: false
+difficulty_score: 0.2
+tags: ["general_institutional"]
+generated: { by: "process:sync-youtube", at: "2026-09-23T23:23:36.712Z" }
 verified: machine-confirmed
 status: current
 channel_id: "UCbSbKX3V4J28e4iJtulgEQA"
@@ -19,7 +23,7 @@ sources:
   - id: youtube-api
     resource: "https://developers.google.com/youtube/v3"
     title: "YouTube Data API v3"
-    last_modified: "2026-08-13"
+    last_modified: "2026-09-23"
   - id: channel-concept
     resource: "src/content/okf/channels/UCbSbKX3V4J28e4iJtulgEQA.md"
     title: "Channel: DiegoTestDireco"
@@ -39,6 +43,9 @@ sources:
 
 ## Detalles
 - **Canal:** [DiegoTestDireco](../channels/UCbSbKX3V4J28e4iJtulgEQA.md)
+- **Categoría:** general_institutional (confianza: 35%)
+- **Código en vivo:** No
+- **Nivel técnico:** 0.2 / 3.0
 - **Publicado el:** 25 de enero de 2024
 - **Duración:** 01:14
 - **Vistas:** 6 | **Likes:** 0

@@ -7,9 +7,23 @@ import matter from 'gray-matter';
 dotenv.config();
 
 const OKF_DIR = path.resolve('./src/content/okf');
+const EMBEDDINGS_FILE = path.join(OKF_DIR, 'embeddings.json');
 const EMBEDDINGS_CHUNKS_FILE = path.join(OKF_DIR, 'embeddings_chunks.json');
+const CLASSIFICATION_FILE = path.join(OKF_DIR, 'classification_index.json');
 
-// Singleton driver instance with Promise to avoid race conditions (AGENTS.md §1.4)
+export const TOPIC_NAMES = {
+  home_automation_iot: 'Home Assistant & Domótica',
+  rag_and_agents: 'Agentes Autónomos de IA & LangChain',
+  nlp_transformers: 'NLP & Modelos de Lenguaje',
+  physics: 'Física Universitaria & Cinemática',
+  physics_and_math: 'Física Universitaria & Cinemática',
+  education_moodle: 'Docencia Universitaria & Moodle',
+  software_web_dev: 'Desarrollo de Software & Web',
+  computer_vision: 'Visión Artificial & Pose',
+  general_institutional: 'General & Institucional'
+};
+
+// Singleton driver instance to avoid race conditions (AGENTS.md §1.4)
 let driverInstance = null;
 
 export function getDriver() {
@@ -42,6 +56,7 @@ export async function initNeo4jSchema() {
     await session.run(`CREATE CONSTRAINT channel_id_unique IF NOT EXISTS FOR (c:Channel) REQUIRE c.id IS UNIQUE`);
     await session.run(`CREATE CONSTRAINT video_id_unique IF NOT EXISTS FOR (v:Video) REQUIRE v.id IS UNIQUE`);
     await session.run(`CREATE CONSTRAINT segment_id_unique IF NOT EXISTS FOR (s:Segment) REQUIRE s.id IS UNIQUE`);
+    await session.run(`CREATE CONSTRAINT topic_id_unique IF NOT EXISTS FOR (t:Topic) REQUIRE t.id IS UNIQUE`);
 
     // Vector Index for 384-dimensional Embeddings (all-MiniLM-L6-v2)
     await session.run(`
@@ -63,7 +78,7 @@ export async function initNeo4jSchema() {
   }
 }
 
-// 2. Seed Graph from OKF Catalog and Embeddings
+// 2. Seed Graph from OKF Catalog, Classification, and Embeddings
 export async function seedNeo4jFromOKF() {
   await initNeo4jSchema();
   const driver = getDriver();
@@ -127,15 +142,31 @@ export async function seedNeo4jFromOKF() {
       console.warn('[Neo4j] Channels directory skipped or unreadable:', e.message);
     }
 
+    // Load Precomputed Classification Index for Topic Mapping
+    let classificationIndex = {};
+    try {
+      const rawIndex = await fs.readFile(CLASSIFICATION_FILE, 'utf-8');
+      classificationIndex = JSON.parse(rawIndex);
+    } catch (e) {
+      console.warn('[Neo4j] Classification index not found or unreadable:', e.message);
+    }
+
     // Load Videos
     const videosDir = path.join(OKF_DIR, 'videos');
     try {
       const videoFiles = await fs.readdir(videosDir);
+      console.log(`[Neo4j] Synchronizing ${videoFiles.length} video nodes...`);
+
       for (const file of videoFiles) {
         if (!file.endsWith('.md')) continue;
         const id = file.replace('.md', '');
         const mdContent = await fs.readFile(path.join(videosDir, file), 'utf-8');
         const { data } = matter(mdContent);
+
+        // Determine category and topic name
+        const classData = classificationIndex[id] || {};
+        const categoryId = classData.category || data.category || 'general_institutional';
+        const topicName = TOPIC_NAMES[categoryId] || 'General & Institucional';
 
         // Load full transcript text if available
         let fullTranscript = '';
@@ -158,10 +189,16 @@ export async function seedNeo4jFromOKF() {
                v.viewCount = toInteger($viewCount),
                v.likeCount = toInteger($likeCount),
                v.thumbnail = $thumbnail,
+               v.category = $categoryId,
                v.fullTranscript = $fullTranscript
            WITH v
-           MATCH (c:Channel {id: $channelId})
-           MERGE (c)-[:PUBLISHED]->(v)`,
+           OPTIONAL MATCH (c:Channel {id: $channelId})
+           FOREACH (_ IN CASE WHEN c IS NOT NULL THEN [1] ELSE [] END | MERGE (c)-[:PUBLISHED]->(v))
+           WITH v
+           MERGE (t:Topic {id: $categoryId})
+           ON CREATE SET t.name = $topicName
+           ON MATCH SET t.name = $topicName
+           MERGE (v)-[:BELONGS_TO_TOPIC]->(t)`,
           {
             id,
             title: data.title || '',
@@ -172,6 +209,8 @@ export async function seedNeo4jFromOKF() {
             likeCount: data.like_count || 0,
             thumbnail: data.thumbnail || '',
             channelId: data.channel_id || '',
+            categoryId,
+            topicName,
             fullTranscript
           }
         );
@@ -189,6 +228,24 @@ export async function seedNeo4jFromOKF() {
           }
         }
       }
+
+      // Link Series Parts (videos sharing title series prefixes)
+      console.log('[Neo4j] Linking series parts...');
+      await session.run(`
+        MATCH (v1:Video), (v2:Video)
+        WHERE v1.id < v2.id
+          AND (
+            (toLower(v1.title) STARTS WITH 'ha_video' AND toLower(v2.title) STARTS WITH 'ha_video') OR
+            (toLower(v1.title) STARTS WITH 'yolo-pose' AND toLower(v2.title) STARTS WITH 'yolo-pose') OR
+            (toLower(v1.title) STARTS WITH 'a2a_' AND toLower(v2.title) STARTS WITH 'a2a_') OR
+            (toLower(v1.title) STARTS WITH 'tfi_video' AND toLower(v2.title) STARTS WITH 'tfi_video') OR
+            (toLower(v1.title) STARTS WITH 'vibe_coding' AND toLower(v2.title) STARTS WITH 'vibe_coding') OR
+            (toLower(v1.title) STARTS WITH 'jira' AND toLower(v2.title) STARTS WITH 'jira') OR
+            (toLower(v1.title) STARTS WITH 'mcp' AND toLower(v2.title) STARTS WITH 'mcp')
+          )
+        MERGE (v1)-[:SERIES_PART]->(v2)
+      `);
+
     } catch (e) {
       console.warn('[Neo4j] Videos directory skipped or unreadable:', e.message);
     }
@@ -209,7 +266,6 @@ export async function seedNeo4jFromOKF() {
       });
 
       for (const [videoId, videoChunks] of chunksByVideo.entries()) {
-        // Incremental Check: Skip if video segments already exist in Neo4j graph
         const checkRes = await session.run(
           `MATCH (v:Video {id: $videoId})-[:HAS_SEGMENT]->(s:Segment) RETURN count(s) AS count`,
           { videoId }
@@ -217,7 +273,6 @@ export async function seedNeo4jFromOKF() {
         const existingCount = checkRes.records[0] ? checkRes.records[0].get('count').toNumber() : 0;
 
         if (existingCount >= videoChunks.length) {
-          // Video segments are already indexed in Neo4j!
           continue;
         }
 
@@ -246,7 +301,6 @@ export async function seedNeo4jFromOKF() {
             }
           );
 
-          // Connect sequential segments (:Segment)-[:NEXT]->(:Segment)
           if (prevSegmentId) {
             await session.run(
               `MATCH (prev:Segment {id: $prevSegmentId})
@@ -264,6 +318,9 @@ export async function seedNeo4jFromOKF() {
       console.warn('[Neo4j] Embeddings chunks file not found or unreadable:', e.message);
     }
 
+    // Build Semantic Similarity k-NN Edges
+    await buildSemanticSimilarityEdges(0.72, 4);
+
   } catch (error) {
     console.error('[Neo4j] Error during graph seeding:', error);
   } finally {
@@ -271,13 +328,64 @@ export async function seedNeo4jFromOKF() {
   }
 }
 
-// 3. Pure Vector Similarity Search + Graph Traversal
+// 3. Build Semantic Similarity k-NN Edges between Videos
+export async function buildSemanticSimilarityEdges(threshold = 0.72, topK = 4) {
+  const driver = getDriver();
+  const session = driver.session();
+  try {
+    const rawData = await fs.readFile(EMBEDDINGS_FILE, 'utf-8');
+    const catalog = JSON.parse(rawData);
+    const videos = catalog.filter(item => item.type === 'video' && Array.isArray(item.vector));
+    console.log(`[Neo4j] Building k-NN semantic similarity edges for ${videos.length} videos (threshold: ${threshold}, topK: ${topK})...`);
+
+    const edges = [];
+    for (let i = 0; i < videos.length; i++) {
+      const v1 = videos[i];
+      const neighbors = [];
+      for (let j = 0; j < videos.length; j++) {
+        if (i === j) continue;
+        const v2 = videos[j];
+        let dot = 0;
+        for (let d = 0; d < v1.vector.length; d++) {
+          dot += v1.vector[d] * v2.vector[d];
+        }
+        if (dot >= threshold) {
+          neighbors.push({ targetId: v2.id, score: dot });
+        }
+      }
+      neighbors.sort((a, b) => b.score - a.score);
+      for (const n of neighbors.slice(0, topK)) {
+        edges.push({ sourceId: v1.id, targetId: n.targetId, score: n.score });
+      }
+    }
+
+    console.log(`[Neo4j] Storing ${edges.length} :SIMILAR_TO edges in Neo4j...`);
+    const chunkSize = 250;
+    for (let c = 0; c < edges.length; c += chunkSize) {
+      const batch = edges.slice(c, c + chunkSize);
+      await session.run(`
+        UNWIND $batch AS edge
+        MATCH (v1:Video {id: edge.sourceId}), (v2:Video {id: edge.targetId})
+        MERGE (v1)-[r:SIMILAR_TO]->(v2)
+        SET r.score = edge.score
+      `, { batch });
+    }
+    console.log('[Neo4j] :SIMILAR_TO edges established successfully.');
+    return edges.length;
+  } catch (error) {
+    console.error('[Neo4j] Failed to build semantic similarity edges:', error);
+    return 0;
+  } finally {
+    await session.close();
+  }
+}
+
+// 4. Pure Vector Similarity Search over Segments
 export async function graphRAGSearch(queryVector, limit = 12) {
   const driver = getDriver();
   const session = driver.session();
 
   try {
-    // Pure Semantic Vector Search over transcript segments, followed by Graph Traversal
     const cypher = `
       CALL db.index.vector.queryNodes('transcript_vector_index', $limit, $queryVector)
       YIELD node AS seg, score
@@ -326,6 +434,117 @@ export async function graphRAGSearch(queryVector, limit = 12) {
 
   } catch (error) {
     console.error('[Neo4j] GraphRAG search failed:', error);
+    return [];
+  } finally {
+    await session.close();
+  }
+}
+
+// 5. Multi-Hop Graph Traversal: Expand Seed Videos into Connected Neighbor Nodes
+export async function expandGraphNeighbors(seedVideoIds, options = { limit: 6 }) {
+  if (!seedVideoIds || seedVideoIds.length === 0) return [];
+  const driver = getDriver();
+  const session = driver.session();
+
+  try {
+    const limit = options.limit || 6;
+    const cypher = `
+      MATCH (seed:Video)
+      WHERE seed.id IN $seedVideoIds
+
+      // 1. Series part relationships (:SERIES_PART)
+      OPTIONAL MATCH (seed)-[:SERIES_PART]-(seriesNeighbor:Video)
+      WHERE NOT seriesNeighbor.id IN $seedVideoIds
+
+      // 2. Semantic similarity relationships (:SIMILAR_TO)
+      OPTIONAL MATCH (seed)-[s:SIMILAR_TO]-(simNeighbor:Video)
+      WHERE NOT simNeighbor.id IN $seedVideoIds AND s.score >= 0.70
+
+      // 3. Topic cluster relationships (:BELONGS_TO_TOPIC)
+      OPTIONAL MATCH (seed)-[:BELONGS_TO_TOPIC]->(t:Topic)<-[:BELONGS_TO_TOPIC]-(topicNeighbor:Video)
+      WHERE NOT topicNeighbor.id IN $seedVideoIds
+
+      // 4. Same Channel for test channels
+      OPTIONAL MATCH (seed)<-[:PUBLISHED]-(c:Channel)-[:PUBLISHED]->(chanNeighbor:Video)
+      WHERE NOT chanNeighbor.id IN $seedVideoIds AND (c.id = 'UCbSbKX3V4J28e4iJtulgEQA' OR c.title CONTAINS 'Test')
+
+      WITH seed,
+           collect(DISTINCT { video: seriesNeighbor, score: 0.95, rel: 'series_part' }) AS seriesList,
+           collect(DISTINCT { video: simNeighbor, score: coalesce(s.score, 0.82), rel: 'semantic_similarity' }) AS simList,
+           collect(DISTINCT { video: topicNeighbor, score: 0.75, rel: 'topic_cluster' }) AS topicList,
+           collect(DISTINCT { video: chanNeighbor, score: 0.70, rel: 'channel' }) AS chanList
+
+      UNWIND (seriesList + simList + topicList + chanList) AS item
+      WITH item.video AS neighbor, max(item.score) AS score, item.rel AS rel
+      WHERE neighbor IS NOT NULL
+
+      // Fetch the top 2 transcript segments of each neighbor video
+      OPTIONAL MATCH (neighbor)-[:HAS_SEGMENT]->(seg:Segment)
+      WITH neighbor, score, rel, seg
+      ORDER BY seg.start ASC
+
+      WITH neighbor, score, rel, collect(seg)[0..2] AS segments
+      RETURN neighbor.id AS id, neighbor.title AS title, neighbor.duration AS duration,
+             neighbor.thumbnail AS thumbnail, score, rel, segments
+      ORDER BY score DESC
+      LIMIT $limit
+    `;
+
+    const result = await session.run(cypher, {
+      seedVideoIds,
+      limit: neo4j.int(limit)
+    });
+
+    const discoveredItems = [];
+    for (const record of result.records) {
+      const id = record.get('id');
+      const title = record.get('title');
+      const duration = record.get('duration') || '00:00';
+      const thumbnail = record.get('thumbnail') || '';
+      const score = record.get('score');
+      const rel = record.get('rel');
+      const segments = record.get('segments') || [];
+
+      if (segments.length > 0) {
+        for (const seg of segments) {
+          if (!seg || !seg.properties) continue;
+          const s = seg.properties;
+          discoveredItems.push({
+            similarity: score,
+            type: 'segment',
+            source: `neo4j-traversal (${rel})`,
+            concept: {
+              id,
+              title,
+              thumbnail,
+              duration
+            },
+            segment: {
+              text: s.text,
+              start: typeof s.start === 'object' && s.start.toNumber ? s.start.toNumber() : Number(s.start || 0),
+              end: typeof s.end === 'object' && s.end.toNumber ? s.end.toNumber() : Number(s.end || 0),
+              formattedStart: formatTime(s.start)
+            }
+          });
+        }
+      } else {
+        discoveredItems.push({
+          similarity: score,
+          type: 'concept',
+          source: `neo4j-traversal (${rel})`,
+          concept: {
+            id,
+            title,
+            thumbnail,
+            duration
+          }
+        });
+      }
+    }
+
+    return discoveredItems;
+  } catch (error) {
+    console.error('[Neo4j] Graph traversal failed:', error);
     return [];
   } finally {
     await session.close();
