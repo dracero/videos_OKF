@@ -29,18 +29,18 @@ flowchart TD
         OKF_Files -->|"transcripts/:id.json"| Trans["Transcripciones Sidecar"]
         
         Vid & Trans -->|"5. all-MiniLM-L6-v2"| Embeddings["embeddings_chunks.json (384-dim)"]
-        Embeddings & OKF_Files -->|"6. seedNeo4jFromOKF()"| Neo4j[(Neo4j GraphRAG bolt://localhost:7687)]
+        Embeddings & OKF_Files -->|"6. seedNeo4jFromOKF()"| Neo4j[("Neo4j GraphRAG bolt://localhost:7687")]
     end
 
     subgraph Chatbot["Fase 2: Asistente Conversacional 100% Jev (LangGraph)"]
-        UserQuery([Consulta del Usuario]) --> RouterNode["🧭 RouterNode (TypeSafe Jev: domain + intent <100ms)"]
+        UserQuery(["Consulta del Usuario"]) --> RouterNode["🧭 RouterNode (TypeSafe Jev: domain + intent <100ms)"]
         RouterNode --> SearcherNode["🔍 SearcherNode (Neo4j GraphRAG / Local Embeddings)"]
         SearcherNode --> SelectorNode["🎯 SelectorNode (TypeSafe Jev: noul relevance filter)"]
         
         SelectorNode --> Decision{"¿Contexto suficiente?"}
         Decision -- "No (intentos < 2)" --> Expand["Query Expansion"] --> SearcherNode
         Decision -- "Sí / Límite alcanzado" --> ResponderNode["💬 ResponderNode (TypeSafe Jev: best_match + temporal links)"]
-        ResponderNode --> Output([Respuesta Final con enlaces [⏱ Ir al minuto MM:SS]])
+        ResponderNode --> Output(["Respuesta Final con enlaces [⏱ Ir al minuto MM:SS]"])
     end
 ```
 
